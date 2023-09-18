@@ -4,15 +4,18 @@ import glob
 import re
 
 # File path
-path = r"C:\Users\torje\Downloads\rankinglist-master"
+path = r"C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats"
 
 all_files = glob.glob(os.path.join(path, "*.csv"))
 
 # Empty DataFrame which we will add to
 final_df = pd.DataFrame()
-
-for year in range(2013, 2023):  # Adjusted the range to 2023
+print("All files:", all_files)
+for year in range(2013, 2024):  # Adjusted the range to 2024 to include 2023
     yearly_files = [file for file in all_files if str(year) in file]
+    print(f"Processing year: {year}")
+    print(f"Files for {year}: {yearly_files}")
+
 
     # Empty DataFrame for the current year
     yearly_df = pd.DataFrame()
@@ -34,6 +37,10 @@ for year in range(2013, 2023):  # Adjusted the range to 2023
     # Rename the columns to the year
     yearly_df = yearly_df.rename(columns={'Poeng': str(year)})
 
+    # Drop the 'Klubb' column from both DataFrames before merging
+    yearly_df.drop('Klubb', axis=1, inplace=True, errors='ignore')
+    final_df.drop('Klubb', axis=1, inplace=True, errors='ignore')
+
     # Merge this yearly data into the final dataframe
     if not final_df.empty:
         final_df = pd.merge(final_df, yearly_df, on=['Spiller-Id', 'Navn'], how='outer')
@@ -47,14 +54,10 @@ final_df.fillna(0, inplace=True)
 final_df.reset_index(drop=True, inplace=True)
 
 # Reorder the columns
-columns = ['Spiller-Id', 'Navn'] + [str(year) for year in range(2013, 2023)]
-
-# Extract the clubs from the columns
-clubs_df = final_df.filter(regex='Klubb_').replace(0, '').apply(lambda x: '|'.join(x), axis=1)
-final_df['Klubb'] = clubs_df
+columns = ['Spiller-Id', 'Navn'] + [str(year) for year in range(2013, 2024)]
 
 # Select the final columns
-final_df = final_df[columns + ['Klubb']]
+final_df = final_df[columns]
 
 # Save the final DataFrame to a new CSV file
 final_df.to_csv("combined_rankings.csv", index=False)

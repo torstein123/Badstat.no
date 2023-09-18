@@ -107,10 +107,10 @@ const PlayerDetail = () => {
   const bestRank = Math.min(...rankData);
   const worstRank = Math.max(...rankData);
 
-  const previousYear = '2021';
+  const previousYear = '2022';
   const previousRank =
     rankData[validYears.indexOf(previousYear)] || rankData[rankData.length - 1];
-  const currentYear = '2022';
+  const currentYear = '2023';
   const currentRank = rankData[0];
   const currentPoints = parseFloat(playerData[currentYear]);
   const rankChange = previousRank - currentRank;
@@ -186,7 +186,7 @@ const PlayerDetail = () => {
           ))}
         </tbody>
       </table>
-      <p> Sist oppdatert 26/05/2023</p>
+      <p> Sist oppdatert 19/09/2023</p>
     </div>
   );
 };

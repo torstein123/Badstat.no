@@ -9,7 +9,7 @@ const Player = ({ player, rank }) => {
       <h2>{player.Navn}</h2>
       <p>Rank: {rank}</p>
       <p>Class: {club}</p>
-      <p>Points: {player['2022']}</p>
+      <p>Points: {player['2023']}</p>
     </div>
   );
 };
@@ -26,7 +26,7 @@ const Rankings = () => {
   );
 
   const sortedData = filteredData.sort(
-    (a, b) => b['2022'] - a['2022']
+    (a, b) => b['2023'] - a['2023']
   );
 
   return (
