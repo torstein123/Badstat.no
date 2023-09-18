@@ -42,10 +42,9 @@ const PlayerList = () => {
   const [search, setSearch] = React.useState('');
   const filteredData = data.filter(
     (player) =>
-      player.Navn.toLowerCase().includes(search.toLowerCase()) ||
-      player.Klubb.toLowerCase().includes(search.toLowerCase())
+      player.Navn.toLowerCase().includes(search.toLowerCase())
   );
-  const sortedData = filteredData.sort((a, b) => b['2022'] - a['2022']);
+  const sortedData = filteredData.sort((a, b) => b['2023'] - a['2023']);
   const results = sortedData.slice(0, 20);
   const isSearching = search.length > 0; // Check if user is searching
 
@@ -54,7 +53,7 @@ const PlayerList = () => {
       <h1>Se rankingliste, statistikk og historie for 2013-2023🏸</h1>
       <input
         type="text"
-        placeholder="Søk etter spiller eller klubb"
+        placeholder="Søk etter spiller"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
@@ -63,18 +62,17 @@ const PlayerList = () => {
           Søker... <span className="rotating-emoji">🔍</span>
         </h2>
       ) : (
-        <h2>Topp 20 i 2022/2023 🤩</h2>
+        <h2>Topp 20 i 2023/2024 🤩</h2>
       )}
       <div className="player-list">
         {results.map((item, index) => {
-          const club = item.Klubb.split('|').filter(Boolean).pop(); // Extract the last visible club name
           return (
             <div key={index} className="player-item">
-              <span className="ranking">{index + 1}.</span>
+              {!isSearching && <span className="ranking">{index + 1}. </span>} {/* Added space here */}
               <Link to={`/player/${encodeURIComponent(item.Navn)}`}>
                 {item.Navn}
               </Link>
-              : {club} - {item['2022']}
+              <span className="points"> {Math.round(item['2023'])} poeng</span> {/* Round points to nearest integer */}
             </div>
           );
         })}
@@ -83,6 +81,9 @@ const PlayerList = () => {
     </div>
   );
 };
+
+
+
 
 const Changelog = () => {
   return (
@@ -98,6 +99,18 @@ const Changelog = () => {
   );
 };
 
+const Footer = () => {
+  return (
+    <div className="footer">
+      <p>Sist oppdatert 19.09.2023</p>
+      <p>Utviklet av Torstein Olsen</p>
+      <p>Data er hentet fra badmintonportalen.
+</p>
+    </div>
+  );
+};
+
+
 
 const App = () => {
   const bodyStyle = {
@@ -106,22 +119,23 @@ const App = () => {
 
   return (
     <Router>
-    <FlyingRackets />
-    <Navbar />
-    <div className="main-content" style={bodyStyle}>
-      <Routes>
-        <Route path="/" element={<PlayerList />} />
-        <Route path="/player/:name" element={<PlayerDetail />} />
-        <Route path="/hjem" element={<Home />} />
-        <Route path="/hvorfor" element={<Hvorfor />} />
-        <Route path="/hvordan" element={<Hvordan />} />
-        <Route path="/feedback" element={<ContactPage />} />
-
-      </Routes>
-    </div>
-  </Router>
+      <FlyingRackets />
+      <Navbar />
+      <div className="main-content" style={bodyStyle}>
+        <Routes>
+          <Route path="/" element={<PlayerList />} />
+          <Route path="/player/:name" element={<PlayerDetail />} />
+          <Route path="/hjem" element={<Home />} />
+          <Route path="/hvorfor" element={<Hvorfor />} />
+          <Route path="/hvordan" element={<Hvordan />} />
+          <Route path="/feedback" element={<ContactPage />} />
+        </Routes>
+      </div>
+      <Footer /> {/* Added Footer here */}
+    </Router>
   );
 };
+
 
 export default App;
 
