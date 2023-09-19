@@ -36,37 +36,9 @@ const Navbar = () => {
               to="/"
               onClick={handleLinkClick}
             >
-              Hjem
             </Link>
           </li>
-          <li className="nav-item">
-            <Link
-              className="nav-link"
-              to="/hvorfor"
-              onClick={handleLinkClick}
-            >
-              Hvorfor
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link
-              className="nav-link"
-              to="/hvordan"
-              onClick={handleLinkClick}
-            >
-              Hvordan
-            </Link>
-          </li>
-          <li className="nav-item">
-            <Link
-              className="nav-link"
-              to="/feedback"
-              onClick={handleLinkClick}
-            >
-              Feedback
-            </Link>
-          </li>
-        </ul>
+          </ul>
       </div>
     </nav>
   );

@@ -112,20 +112,30 @@ const PlayerDetail = () => {
     rankData[validYears.indexOf(previousYear)] || rankData[rankData.length - 1];
   const currentYear = '2023';
   const currentRank = rankData[0];
-  const currentPoints = parseFloat(playerData[currentYear]);
   const rankChange = previousRank - currentRank;
-  const rankChangeMessage =
-    rankChange > 0 ? `(+${rankChange})` : ` (-${Math.abs(rankChange)})`;
+  const previousPoints = parseFloat(playerData[previousYear] || 0); // Added this line
+  const currentPoints = parseFloat(playerData[currentYear] || 0); // Added this line
+
+  const pointsChange = currentPoints - previousPoints; // Calculate the change in points
+  const pointsChangeMessage = pointsChange !== 0 ? `${Math.abs(pointsChange)} poeng` : ''; // Create a message for the change in points
+  const bestRankIndex = rankData.indexOf(Math.min(...rankData));
+  const worstRankIndex = rankData.indexOf(Math.max(...rankData));
+
+  // Find the corresponding years for the best and worst rank
+  const bestRankYear = validYears[bestRankIndex];
+  const worstRankYear = validYears[worstRankIndex];
 
   let improvementArrow = '';
   let improvementMessage = '';
 
-  if (previousRank !== currentRank) {
-    improvementArrow = previousRank > currentRank ? '↑' : '↓';
-    improvementMessage =
-      previousRank > currentRank ? 'Positiv trend' : 'Negativ trend';
+  if (currentPoints > previousPoints) {
+    improvementArrow = '↑';
+  } else if (currentPoints < previousPoints) {
+    improvementArrow = '↓';
+  } else {
+    improvementArrow = '→';
+    improvementMessage = 'Samme poengsum som i forrige sesong';
   }
-
   return (
     <div className="player-detail-container">
       <Link to="/" className="button-link">
@@ -135,8 +145,7 @@ const PlayerDetail = () => {
       <h1>{playerData.Navn}</h1>
       <p>
         {playerData.Navn} har {currentPoints} rankingpoeng i {currentYear} og
-        er rangert som nummer {currentRank} i Norge, på tvers av alle klasser.
-        {playerData.Navn}s beste år var i {bestYear} hvor med{' '}
+        er rangert som nummer {currentRank} i Norge, på tvers av alle klasser. Beste år i {bestYear} med{' '}
         {parseFloat(playerData[bestYear])} poeng.
       </p>
 
@@ -149,18 +158,17 @@ const PlayerDetail = () => {
           </div>
           <div className="trend-message">{improvementMessage}</div>
           {rankChange !== 0 && (
-            <div className="rank-change">{rankChangeMessage}</div>
+            <div className="rank-change">{pointsChangeMessage}</div>
           )}
         </div>
       )}
 
-      <p>
-        Over {validYears.length} år har {playerData.Navn} samlet opp totalt{' '}
-        {totalPoints.toFixed(0)} poeng, med en gjennomsnittlig årlig rangering på{' '}
-        {averageRank.toFixed(0)}.
-        Beste rangering var {bestRank} og dårligste rangering var{' '}
-        {worstRank}.
-      </p>
+<p>
+  All-time rankingpoeng: {' '} {totalPoints.toFixed(0)} <br />
+  Gjennomsnittlig rangering gjennom {validYears.length} år{' '}: {averageRank.toFixed(0)}. plass <br />
+</p>
+
+
 
       <h2>Utvikling over tid</h2>
       <div className="chart-container">
