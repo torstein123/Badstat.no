@@ -105,4 +105,21 @@
     font-size: 24px;
     margin-bottom: 20px; /* Add spacing below the header */
   }
+
+
+  @media (max-width: 768px) {
+    .input-container {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0;
+    }
   
+    .suggestion-container {
+      margin-right: 0; /* Remove the right margin */
+      margin-bottom: 20px; /* Add some space at the bottom */
+    }
+  
+    .compare-button {
+      width: 100%; /* Make the button full-width */
+    }
+  }
