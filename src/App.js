@@ -1,6 +1,9 @@
 import React from 'react';
+
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import PlayerDetail from './PlayerDetail';
+import PlayerComparison from './components/PlayerComparison';
+import PlayerSearch from './components/PlayerSearch';
 import data from './combined_rankings.json';
 import './Custom.scss';
 import Navbar from "./Navigation/Navbar.js";
@@ -37,7 +40,7 @@ const FlyingRackets = () => {
     </div>
   );
 };
-
+<li><Link to="/compare">Compare Players</Link></li>
 const PlayerList = () => {
   const [search, setSearch] = React.useState('');
   const filteredData = data.filter(
@@ -123,6 +126,8 @@ const App = () => {
       <Navbar />
       <div className="main-content" style={bodyStyle}>
         <Routes>
+  <       Route path="/search" element={<PlayerSearch />} />
+          <Route path="/compare/:player1/:player2" element={<PlayerComparison />} />
           <Route path="/" element={<PlayerList />} />
           <Route path="/player/:name" element={<PlayerDetail />} />
           <Route path="/hjem" element={<Home />} />

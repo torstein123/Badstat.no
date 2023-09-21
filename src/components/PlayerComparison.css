@@ -1,0 +1,27 @@
+
+.player-comparison {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 2px solid #ccc;
+  padding: 6px;
+  text-align: center;
+}
+
+table th {
+  background-color: #000000;
+  text-align: center;
+}
+
+
+
+h3 {
+  margin-top: 30px;
+}

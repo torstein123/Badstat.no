@@ -31,13 +31,14 @@ const Navbar = () => {
       <div className={`collapse navbar-collapse ${isCollapsed ? "" : "show"}`}>
         <ul className="navbar-nav">
           <li className="nav-item">
+            <Link className="nav-link" to="/search" onClick={handleLinkClick}>Sammenlign spillere</Link>
+          </li>
             <Link
               className="nav-link"
               to="/"
               onClick={handleLinkClick}
             >
             </Link>
-          </li>
           </ul>
       </div>
     </nav>
