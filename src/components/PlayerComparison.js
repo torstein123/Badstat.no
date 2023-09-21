@@ -34,7 +34,7 @@ const PlayerTable = ({ player1Data, player2Data }) => {
     <table>
       <thead>
         <tr>
-          <th>Year</th>
+          <th>År</th>
           <th>{player1Data.Navn}</th>
           <th>{player2Data.Navn}</th>
         </tr>

@@ -93,6 +93,7 @@ const Changelog = () => {
     <div className="Changelog">
       <h3>Updates 💪</h3>
       <ul>
+        <li>Version 0.2.0 (09/2023): Head to head - rankingpoeng</li>
         <li>Version 0.1.0 (05/2023): La til navigasjonsbar og sider</li>
         <li>Version 0.0.2 (05/2023): Kan se basic trender og mobilvennlighet</li>
         <li>Version 0.0.1 (05/2023): Development started</li>

@@ -1,0 +1,15 @@
+.input-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.suggestion-container {
+    position: relative;
+}
+
+.no-bullets {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
