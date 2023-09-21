@@ -27,7 +27,7 @@ body {
 
   .PlayerList input {
     padding: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
     border-radius: 4px;
     border: none;
     background-color: #40444b;
@@ -70,6 +70,10 @@ body {
   .Changelog li {
     margin-bottom: 5px;
   }
+
+.header {
+  margin-top: 100px;
+}
 
   /* Flying rackets */
   .flying-rackets {
