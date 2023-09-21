@@ -192,7 +192,6 @@ const PlayerDetail = () => {
           ))}
         </tbody>
       </table>
-      <p> Sist oppdatert 19/09/2023</p>
     </div>
   );
 };

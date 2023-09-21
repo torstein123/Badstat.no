@@ -126,7 +126,7 @@ const Changelog = () => {
 const Footer = () => {
   return (
     <div className="footer">
-      <p>Sist oppdatert 19.09.2023</p>
+      <p>Sist oppdatert 21.09.2023</p>
       <p>Utviklet av Torstein Olsen</p>
       <p>Data er hentet fra badmintonportalen.</p>
     </div>

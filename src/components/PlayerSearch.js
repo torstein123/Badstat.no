@@ -129,7 +129,7 @@ const PlayerSearch = () => {
 
   return (
     <div>
-      <h1 className="header">Sammenlign to badmintonspillere</h1>
+      <h1 className="header">Sammenligne?</h1>
       <div className="input-container">
         <div className="suggestion-container" ref={wrapperRef1}>
           <input
