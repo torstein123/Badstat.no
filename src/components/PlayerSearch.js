@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import data from '../combined_rankings.json';
 import './PlayerSearch.css';
 
-// Debounce function
 const useDebounce = (value, delay) => {
   const [debouncedValue, setDebouncedValue] = useState(value);
 
@@ -57,13 +56,23 @@ const PlayerSearch = () => {
   }, []);
 
   const handleSearch1 = (term) => {
-    const filteredData = data.filter(player => player.Navn.toLowerCase().includes(term.toLowerCase()));
-    setSuggestions1(filteredData.slice(0, 5));
+    const filteredData = data.filter(player => player.Navn.toLowerCase().startsWith(term.toLowerCase()));
+    if (filteredData.length > 0) {
+      setSuggestions1(filteredData.slice(0, 5));
+    } else {
+      setSuggestions1([]);
+    }
+    setPlayer1(term);
   };
 
   const handleSearch2 = (term) => {
-    const filteredData = data.filter(player => player.Navn.toLowerCase().includes(term.toLowerCase()));
-    setSuggestions2(filteredData.slice(0, 5));
+    const filteredData = data.filter(player => player.Navn.toLowerCase().startsWith(term.toLowerCase()));
+    if (filteredData.length > 0) {
+      setSuggestions2(filteredData.slice(0, 5));
+    } else {
+      setSuggestions2([]);
+    }
+    setPlayer2(term);
   };
 
   const handleCompare = () => {
@@ -82,6 +91,16 @@ const PlayerSearch = () => {
     if (wrapperRef2.current && !wrapperRef2.current.contains(event.target)) {
       setSuggestions2([]);
     }
+  };
+
+  const handleSuggestionClick1 = (suggestion) => {
+    setPlayer1(suggestion.Navn);
+    setSuggestions1([]);
+  };
+
+  const handleSuggestionClick2 = (suggestion) => {
+    setPlayer2(suggestion.Navn);
+    setSuggestions2([]);
   };
 
   const handleKeyDown1 = (e) => {
@@ -110,41 +129,46 @@ const PlayerSearch = () => {
 
   return (
     <div>
+      <h1 className="header">Sammenlign to spillere!</h1>
       <div className="input-container">
-        <div className="suggestion-container">
+        <div className="suggestion-container" ref={wrapperRef1}>
           <input
             type="text"
             placeholder="Player 1"
             value={player1}
             onChange={(e) => { setPlayer1(e.target.value); handleSearch1(e.target.value); }}
+            onKeyDown={handleKeyDown1}
           />
-          <ul className="no-bullets">
-            {suggestions1.map((suggestion, index) => (
-              <li key={index} onClick={() => setPlayer1(suggestion.Navn)}>{suggestion.Navn}</li>
-            ))}
-          </ul>
+          {suggestions1.length > 0 && (
+            <ul className="no-bullets">
+              {suggestions1.map((suggestion, index) => (
+                <li key={index} onClick={() => handleSuggestionClick1(suggestion)}>{suggestion.Navn}</li>
+              ))}
+            </ul>
+          )}
         </div>
-        <div className="suggestion-container">
+        <div className="suggestion-container" ref={wrapperRef2}>
           <input
             type="text"
             placeholder="Player 2"
             value={player2}
             onChange={(e) => { setPlayer2(e.target.value); handleSearch2(e.target.value); }}
+            onKeyDown={handleKeyDown2}
           />
-          <ul className="no-bullets">
-            {suggestions2.map((suggestion, index) => (
-              <li key={index} onClick={() => setPlayer2(suggestion.Navn)}>{suggestion.Navn}</li>
-            ))}
-          </ul>
+          {suggestions2.length > 0 && (
+            <ul className="no-bullets">
+              {suggestions2.map((suggestion, index) => (
+                <li key={index} onClick={() => handleSuggestionClick2(suggestion)}>{suggestion.Navn}</li>
+              ))}
+            </ul>
+          )}
         </div>
-        <button onClick={handleCompare}>Compare</button>
+        <button className="compare-button" onClick={handleCompare}>
+          Compare
+        </button>
       </div>
     </div>
   );
 };
-
-
-
-
 
 export default PlayerSearch;

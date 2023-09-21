@@ -27,7 +27,7 @@ body {
 
   .PlayerList input {
     padding: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 100px;
     border-radius: 4px;
     border: none;
     background-color: #40444b;
@@ -219,9 +219,16 @@ p {
 .red {
   color: red;
 }
-
+.neutral {
+  color:gray;
+}
 .trend-message {
   margin-right: 10px;
+}
+
+.input-container {
+  padding: 0;
+  padding-right: 420px;
 }
 
 .rank-change {

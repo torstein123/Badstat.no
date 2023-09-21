@@ -16,13 +16,13 @@ const player2Scores = years.map(year => parseInt(playerData2[year]) || 0);
       {
         label: playerData1.Navn,
         data: player1Scores,
-        borderColor: 'blue',
+        borderColor: 'purple',
         fill: false,
       },
       {
         label: playerData2.Navn,
         data: player2Scores,
-        borderColor: 'red',
+        borderColor: '#0d6efd',
         fill: false,
       },
     ],
@@ -119,13 +119,14 @@ const PlayerComparison = () => {
   const player2Data = data.find(player => player.Navn === decodeURIComponent(player2));
 
   if (!player1Data || !player2Data) {
-    return <p>One or both players not found</p>;
+    return <p>En eller begge spillerne er ikke funnet</p>;
   }
 
   return (
     <div className="player-comparison">
-      <h1>Head to Head</h1>
-      <h2>{player1Data.Navn} vs {player2Data.Navn}</h2>
+      <h1></h1>
+      <h2>{player1Data.Navn} VS {player2Data.Navn}</h2>
+      <h5>Rankingpoeng</h5>
       <PlayerTable player1Data={player1Data} player2Data={player2Data} />
       <PlayerChart player1Data={player1Data} player2Data={player2Data} />
     </div>

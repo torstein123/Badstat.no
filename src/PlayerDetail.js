@@ -130,12 +130,15 @@ const PlayerDetail = () => {
 
   if (currentPoints > previousPoints) {
     improvementArrow = '↑';
+    improvementMessage = 'Fremgang';
   } else if (currentPoints < previousPoints) {
     improvementArrow = '↓';
+    improvementMessage = 'Tilbakegang';
   } else {
     improvementArrow = '→';
-    improvementMessage = 'Samme poengsum som i forrige sesong';
+    improvementMessage = 'Stabil';
   }
+  
   return (
     <div className="player-detail-container">
       <Link to="/" className="button-link">
@@ -144,22 +147,17 @@ const PlayerDetail = () => {
 
       <h1>{playerData.Navn}</h1>
       <p>
-        {playerData.Navn} har {currentPoints} rankingpoeng i {currentYear} og
-        er rangert som nummer {currentRank} i Norge, på tvers av alle klasser. Beste år i {bestYear} med{' '}
+        {playerData.Navn} har {currentPoints} rankingpoeng, og
+        er rangert som nummer {currentRank} i Norge. Beste år var i {bestYear} med{' '}
         {parseFloat(playerData[bestYear])} poeng.
       </p>
 
       {improvementArrow && (
         <div className="trend-container">
-          <div
-            className={`trend-arrow ${improvementArrow === '↑' ? 'green' : 'red'}`}
-          >
+          <div className={`trend-arrow ${improvementArrow === '↑' ? 'green' : improvementArrow === '↓' ? 'red' : 'neutral'}`}>
             {improvementArrow}
           </div>
           <div className="trend-message">{improvementMessage}</div>
-          {rankChange !== 0 && (
-            <div className="rank-change">{pointsChangeMessage}</div>
-          )}
         </div>
       )}
 

@@ -6,10 +6,103 @@
 
 .suggestion-container {
     position: relative;
+    margin-bottom: 100%;
 }
 
 .no-bullets {
     list-style-type: none;
     padding-left: 0;
+  }
+
+/* PlayerSearch.css */
+
+.compare-button {
+    background-color: #007BFF; /* Background color for the button */
+    color: #ffffff; /* Text color for the button */
+    padding: 10px 20px; /* Padding around the button text */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
+  
+    /* Hover effect */
+    &:hover {
+      background-color: #0056b3; /* Darker background color on hover */
+    }
+  
+    /* Focus effect */
+    &:focus {
+      outline: none; /* Remove default focus outline */
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.7); /* Add a subtle box shadow on focus */
+    }
+  }
+
+  /* PlayerSearch.css */
+
+/* Style for the input containers */
+.input-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Style for the suggestion containers */
+.suggestion-container {
+  position: relative;
+  flex-grow: 1;
+  margin-right: 10px; /* Add some space between input fields */
+}
+
+/* Style for the input elements */
+.suggestion-container input {
+  width: 100%;
+  padding: 10px; /* Padding around the input text */
+  border: 2px solid #ddd; /* Add a border to the input */
+  border-radius: 5px; /* Add rounded corners */
+  font-size: 16px; /* Font size */
+  transition: border-color 0.3s ease; /* Smooth transition for input border color */
+
+  /* Focus effect */
+  &:focus {
+    outline: none; /* Remove default focus outline */
+    border-color: #007BFF; /* Change border color on focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.7); /* Add a subtle box shadow on focus */
+  }
+}
+
+/* Style for the suggestion list */
+.no-bullets {
+  list-style-type: none;
+  color: black;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  z-index: 1;
+  background-color: #fff;
+  border: 2px solid #ddd; /* Add a border to the suggestion list */
+  border-top: none; /* Remove top border to match the input field border */
+  border-radius: 0 0 5px 5px; /* Rounded corners for the bottom of the list */
+  max-height: 150px; /* Set a maximum height for the suggestion list */
+  overflow-y: auto; /* Add scrollbar for overflow */
+}
+
+/* Style for the suggestion list items */
+.no-bullets li {
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+
+  /* Hover effect */
+  &:hover {
+    background-color: #f0f0f0; /* Background color on hover */
+  }
+}
+
+/* PlayerSearch.css */
+
+/* Style for the header */
+.header {
+    font-size: 24px;
+    margin-bottom: 20px; /* Add spacing below the header */
   }
   
