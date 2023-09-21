@@ -73,7 +73,7 @@ const PlayerList = () => {
 
   return (
     <div className="PlayerList">
-      <h1>Se rankingliste, statistikk og historie for 2013-2023🏸</h1>
+      <h1>Se rankingliste, statistikk og historie fra 2013-2023🏸</h1>
       <input
         type="text"
         placeholder="Søk etter spiller"
