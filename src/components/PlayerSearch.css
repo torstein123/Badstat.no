@@ -109,10 +109,11 @@
 
   @media (max-width: 768px) {
     .input-container {
-      flex-direction: column;
-      align-items: stretch;
-      gap: 0;
-    }
+        padding-right: 0; /* Reset the padding-right you've set earlier */
+        display: block;
+        justify-content: center;
+        align-items: center;
+      }
   
     .suggestion-container {
       margin-right: 0; /* Remove the right margin */
@@ -121,5 +122,8 @@
   
     .compare-button {
       width: 100%; /* Make the button full-width */
+    }
+    .header {
+        margin-top: 35px;
     }
   }

@@ -119,7 +119,6 @@ const Changelog = () => {
         <li>Version 0.0.2 (05/2023): Kan se basic trender og mobilvennlighet</li>
         <li>Version 0.0.1 (05/2023): Development started</li>
       </ul>
-      <button className="button-link">Gi feedback</button>
     </div>
   );
 };

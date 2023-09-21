@@ -129,12 +129,12 @@ const PlayerSearch = () => {
 
   return (
     <div>
-      <h1 className="header">Sammenlign to spillere!</h1>
+      <h1 className="header">Sammenlign to badmintonspillere</h1>
       <div className="input-container">
         <div className="suggestion-container" ref={wrapperRef1}>
           <input
             type="text"
-            placeholder="Player 1"
+            placeholder="Spiller 1"
             value={player1}
             onChange={(e) => { setPlayer1(e.target.value); handleSearch1(e.target.value); }}
             onKeyDown={handleKeyDown1}
@@ -150,7 +150,7 @@ const PlayerSearch = () => {
         <div className="suggestion-container" ref={wrapperRef2}>
           <input
             type="text"
-            placeholder="Player 2"
+            placeholder="Spiller 2"
             value={player2}
             onChange={(e) => { setPlayer2(e.target.value); handleSearch2(e.target.value); }}
             onKeyDown={handleKeyDown2}
@@ -164,7 +164,7 @@ const PlayerSearch = () => {
           )}
         </div>
         <button className="compare-button" onClick={handleCompare}>
-          Compare
+         Hvem er best
         </button>
       </div>
     </div>
