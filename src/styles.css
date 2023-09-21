@@ -114,6 +114,14 @@ body {
       margin: 10px;
     }
 
+    .input-container {
+      padding-right: 0; /* Reset the padding-right you've set earlier */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+
     .PlayerList h1 {
       font-size: 30px;
       margin-bottom: 8px;
