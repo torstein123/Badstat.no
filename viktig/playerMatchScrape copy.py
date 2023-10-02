@@ -12,6 +12,8 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import re
+import os
+
 
 chrome_options = Options()
 chrome_options.add_argument("--ignore-certificate-errors")
@@ -195,7 +197,7 @@ seasons = [{'value': option.get_attribute('value'), 'text': option.text} for opt
 
 try:
     for season in seasons:
-        if season['text'].strip() < '2014/2015':
+        if season['text'].strip() < '2023/2024':
             continue
         current_season = season
         apply_filters()
