@@ -11,6 +11,8 @@ import Hvordan from './pages/Hvordan';
 import ContactPage from './pages/Feedback';
 import PlayerSearch from './components/PlayerSearch';
 
+
+
 const FlyingRackets = () => {
   const rackets = Array.from({ length: 2 });
 

@@ -129,8 +129,15 @@ const PlayerComparison = () => {
       <h5>Rankingpoeng</h5>
       <PlayerTable player1Data={player1Data} player2Data={player2Data} />
       <PlayerChart player1Data={player1Data} player2Data={player2Data} />
+      <HeadToHead player1="Player One" player2="Player Two" />
     </div>
   );
 };
 
 export default PlayerComparison;
+
+// Import the HeadToHead component
+import HeadToHead from './HeadToHead'; // Adjust path accordingly
+
+// Render the HeadToHead component where you need it, passing the player names as props
+<HeadToHead player1="Player One" player2="Player Two" />
