@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import './headTohead.css';
 import HeadToHeadStats from './HeadToHeadStats'; // Import the new component
 
+
 function HeadToHead() {
     const [allMatches, setAllMatches] = useState([]);
     const { player1, player2 } = useParams();
