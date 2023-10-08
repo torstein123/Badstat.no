@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import data from '../combined_rankings.json';
 import { Line } from 'react-chartjs-2';
 import './PlayerComparison.css';
+import HeadToHead from './headTohead';
 
 const generateChartData = (playerData1, playerData2) => {
 const years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2021', '2022', '2023'];
@@ -122,22 +123,21 @@ const PlayerComparison = () => {
     return <p>En eller begge spillerne er ikke funnet</p>;
   }
 
+
   return (
-    <div className="player-comparison">
-      <h1></h1>
-      <h2>{player1Data.Navn} VS {player2Data.Navn}</h2>
-      <h5>Rankingpoeng</h5>
-      <PlayerTable player1Data={player1Data} player2Data={player2Data} />
-      <PlayerChart player1Data={player1Data} player2Data={player2Data} />
-      <HeadToHead player1="Player One" player2="Player Two" />
-    </div>
+    <>
+      <div className="player-comparison">
+        <h1></h1>
+        <h2>{player1Data.Navn} VS {player2Data.Navn}</h2>
+        <h5>Rankingpoeng</h5>
+        <PlayerTable player1Data={player1Data} player2Data={player2Data} />
+        <PlayerChart player1Data={player1Data} player2Data={player2Data} />
+      </div>
+      <div className="App">
+        <h2>Kamper spilt mot hverandre</h2>
+        <HeadToHead />
+      </div>
+    </>
   );
 };
-
-export default PlayerComparison;
-
-// Import the HeadToHead component
-import HeadToHead from './HeadToHead'; // Adjust path accordingly
-
-// Render the HeadToHead component where you need it, passing the player names as props
-<HeadToHead player1="Player One" player2="Player Two" />
+export default PlayerComparison

@@ -1,0 +1,113 @@
+/* Updated styles for .match-card */
+.match-card {
+    border: 1px solid #52575d;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 12px;
+    background-color: #2f3136;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.match-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.match-card h3 {
+    color: #8e9297;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 500;
+    border-bottom: 1px solid #52575d;
+    padding-bottom: 8px;
+}
+
+.match-card p {
+    color: #b2b5ba;
+    margin-bottom: 10px;
+}
+
+.match-card p:last-child {
+    margin-bottom: 0;
+}
+
+/* Updated styles for .stats-box */
+.stats-box {
+    background-color: #f2f2f2;
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.stats-box h3 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.stats-box p {
+    color: #555;
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.stats-box p:last-child {
+    margin-bottom: 0;
+}
+
+.stats-box .most-wins {
+    color: #ff6600; /* Orange color for the player with most wins */
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 768px) {
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;  /* prevents wrapping of table cell content */
+    }
+
+    /* Adjust table cell padding for better readability on mobile */
+    table th, table td {
+        padding: 8px 12px;
+    }
+}   
+
+/* Styles for teams comparison inside the card */
+.teams-comparison {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.score {
+    margin: 0 10px;
+    font-size: 1.2em;
+    color: #e63946;  /* Adjust this as needed */
+}
+
+/* Mobile by default */
+.mobile-view {
+    display: block;
+}
+.desktop-view {
+    display: none;
+}
+
+/* Switch to desktop view for wider screens */
+@media (min-width: 769px) {
+    .mobile-view {
+        display: none;
+    }
+    .desktop-view {
+        display: block;
+    }
+}
