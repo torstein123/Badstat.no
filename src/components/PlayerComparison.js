@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import data from '../combined_rankings.json';
 import { Line } from 'react-chartjs-2';
 import './PlayerComparison.css';
-import HeadToHead from './headTohead';
+import HeadToHead from './headTohead' ;
 
 const generateChartData = (playerData1, playerData2) => {
 const years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2021', '2022', '2023'];
