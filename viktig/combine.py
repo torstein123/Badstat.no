@@ -4,7 +4,7 @@ import glob
 import re
 
 # File path
-path = r"C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats"
+path = r"C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats\rankinglister"
 
 all_files = glob.glob(os.path.join(path, "*.csv"))
 

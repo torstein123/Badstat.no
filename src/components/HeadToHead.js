@@ -34,11 +34,9 @@ function HeadToHead() {
     headToHeadMatches.sort((a, b) => {
         const dateA = convertToDate(a.Date);
         const dateB = convertToDate(b.Date);
-        
         if (dateA && dateB) {
             return dateB - dateA; // Compare dates in descending order
         }
-        
         return 0; // If there was an issue with date conversion
     });
 

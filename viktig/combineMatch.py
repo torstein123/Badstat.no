@@ -1,7 +1,7 @@
 import csv
 import os
 
-input_folder = r'C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats'
+input_folder = r'C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats\turneringer'
 output_file = 'all_matches_combined.csv'
 
 all_files = [f for f in os.listdir(input_folder) if f.endswith('.csv')]

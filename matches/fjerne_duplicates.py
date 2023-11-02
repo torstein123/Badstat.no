@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file
-data = pd.read_csv("matches/all_matches_combined.csv", encoding='ISO-8859-1')
+data = pd.read_csv("matches/all_matches_combined_fixed.csv", encoding='ISO-8859-1')
 
 # Remove duplicates
 data_no_duplicates = data.drop_duplicates()

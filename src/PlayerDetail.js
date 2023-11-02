@@ -3,6 +3,9 @@ import { useParams, Link } from 'react-router-dom';
 import data from './combined_rankings.json';
 import { Line } from 'react-chartjs-2';
 import './styles.css'; // Import the styles.css file
+import PlayerTournaments from './components/PlayerTournaments'; // Import the new component
+
+
 
 const PlayerDetail = () => {
   const { name } = useParams();
@@ -138,20 +141,22 @@ const PlayerDetail = () => {
     improvementArrow = '→';
     improvementMessage = 'Stabil';
   }
+
+const playerTournaments = playerData.tournaments || [];
   
   return (
     <div className="player-detail-container">
       <Link to="/" className="button-link">
         Tilbake
       </Link>
-
+  
       <h1>{playerData.Navn}</h1>
       <p>
         {playerData.Navn} har {currentPoints} rankingpoeng, og
         er rangert som nummer {currentRank} i Norge. Beste år var i {bestYear} med{' '}
         {parseFloat(playerData[bestYear])} poeng.
       </p>
-
+  
       {improvementArrow && (
         <div className="trend-container">
           <div className={`trend-arrow ${improvementArrow === '↑' ? 'green' : improvementArrow === '↓' ? 'red' : 'neutral'}`}>
@@ -160,19 +165,17 @@ const PlayerDetail = () => {
           <div className="trend-message">{improvementMessage}</div>
         </div>
       )}
-
-<p>
-  All-time rankingpoeng: {' '} {totalPoints.toFixed(0)} <br />
-  Gjennomsnittlig rangering gjennom {validYears.length} år{' '}: {averageRank.toFixed(0)}. plass <br />
-</p>
-
-
-
+  
+      <p>
+        All-time rankingpoeng: {' '} {totalPoints.toFixed(0)} <br />
+        Gjennomsnittlig rangering gjennom {validYears.length} år{' '}: {averageRank.toFixed(0)}. plass <br />
+      </p>
+  
       <h2>Utvikling over tid</h2>
       <div className="chart-container">
         <Line data={chartData} options={options} />
       </div>
-
+  
       <h2>Plasseringer</h2>
       <table className="rank-table">
         <thead>
@@ -192,8 +195,10 @@ const PlayerDetail = () => {
           ))}
         </tbody>
       </table>
-    </div>
+      
+      <PlayerTournaments playerName={playerName} playerTournaments={playerTournaments} /></div>
   );
+  
 };
 
 export default PlayerDetail;

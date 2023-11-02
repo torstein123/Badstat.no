@@ -42,8 +42,7 @@
 
 /* Style for the input containers */
 .input-container {
-  display: flex;
-  justify-content: space-between;
+  margin-left: 420px;
 }
 
 /* Style for the suggestion containers */
@@ -104,6 +103,7 @@
 .header {
     font-size: 24px;
     margin-bottom: 20px; /* Add spacing below the header */
+    margin-left: 270px;
   }
 
 
@@ -113,6 +113,7 @@
         display: block;
         justify-content: center;
         align-items: center;
+        margin-left: 0;
       }
   
     .suggestion-container {
@@ -122,8 +123,10 @@
   
     .compare-button {
       width: 100%; /* Make the button full-width */
+      margin-bottom: 40px;
     }
     .header {
         margin-top: 35px;
+        margin-left: 0px;
     }
   }

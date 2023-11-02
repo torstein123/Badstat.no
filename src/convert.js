@@ -21,3 +21,5 @@ csvtojson()
   .catch(error => {
     console.error("An error occurred:", error);
   });
+
+//Run with  "node convert.js"

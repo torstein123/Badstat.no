@@ -3,8 +3,8 @@ const csvtojson = require("csvtojson");
 const fs = require("fs");
 
 // Specify the paths to the input CSV file and the output JSON file
-const csvFilePath = 'C:\\Users\\Torstein\\Documents\\rankinglist-master (2)\\rankinglist-master\\badmintonstats\\matches\\all_matches_combined_fixed.csv';
-const jsonFilePath = 'cleaned_file.json';
+const csvFilePath = 'C:\\Users\\Torstein\\Documents\\rankinglist-master (2)\\rankinglist-master\\badmintonstats\\matches\\cleaned_file.csv';
+const jsonFilePath = 'C:\\Users\\Torstein\\Documents\\rankinglist-master (2)\\rankinglist-master\\badmintonstats\\src\\cleaned_file.json';
 
 
 // Convert CSV to JSON

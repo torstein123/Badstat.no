@@ -129,7 +129,7 @@ const PlayerSearch = () => {
 
   return (
     <div>
-      <h1 className="header">Sammenligne?</h1>
+      <h1 className="header">Sammenligne to spillere (head to head)</h1>
       <div className="input-container">
         <div className="suggestion-container" ref={wrapperRef1}>
           <input
@@ -164,7 +164,7 @@ const PlayerSearch = () => {
           )}
         </div>
         <button className="compare-button" onClick={handleCompare}>
-         Hvem er best
+         Sammenligne
         </button>
       </div>
     </div>
