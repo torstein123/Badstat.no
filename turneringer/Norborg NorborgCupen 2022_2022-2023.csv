@@ -1,320 +1,202 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Ronja Hartmann,"21/13,21/14",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ronja Hartmann,,Gunn Fiskergaard,"21/15,18/21,21/16",Ronja Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ragnhild Stenvaag,,Gunn Fiskergaard,"21/12,22/20",Ragnhild Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ronja Hartmann,,Ragnhild Stenvaag,"21/11,17/21,21/13",Ronja Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Emma Søvik,,Viktoria Humlen,"22/20,21/16",Emma Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Ingrid Stene Olsen,"21/14,21/9",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Viktoria Humlen,"21/5,21/8",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ingrid Stene Olsen,,Emma Søvik,"21/13,21/13",Ingrid Stene Olsen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ingrid Stene Olsen,,Viktoria Humlen,"21/6,21/15",Ingrid Stene Olsen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Emma Søvik,"21/17,21/10",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Fredrik Lian,Nils Even Urkedal,"21/19,21/15",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Lars Valentin,Thomas Pedersen,"21/17,21/11",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Rune Tårnes,Tor Stenvaag,"21/11,21/7",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Lars Valentin,Thomas Pedersen,Rune Tårnes,Tor Stenvaag,"21/19,21/14",Lars Valentin,Thomas Pedersen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Noralf Gamlem,Per Ivar Furholm,Christian Asbjørnsen,Knut Hermann Stenvaag,"11/21,21/18,21/12",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Glenn Humlen,Gard Vik Langhammer,"21/16,21/7",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Noralf Gamlem,Per Ivar Furholm,"21/12,21/12",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Christian Asbjørnsen,Knut Hermann Stenvaag,Glenn Humlen,Gard Vik Langhammer,"10/21,22/20,21/18",Christian Asbjørnsen,Knut Hermann Stenvaag
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Noralf Gamlem,Per Ivar Furholm,Glenn Humlen,Gard Vik Langhammer,"21/16,21/13",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Christian Asbjørnsen,Knut Hermann Stenvaag,"21/8,22/20",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Ingrid Stene Olsen,Trine Sperre,"21/12,21/15",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Emma Søvik,Ragnhild Stenvaag,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/10",Emma Søvik,Ragnhild Stenvaag
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ingrid Stene Olsen,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/14,21/4",Ingrid Stene Olsen,Trine Sperre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ingrid Stene Olsen,Trine Sperre,Emma Søvik,Ragnhild Stenvaag,"21/13,21/18",Ingrid Stene Olsen,Trine Sperre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/9,21/19",Elisabeth Hjellegjerde Skog,Cecilie Welle Bay
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Randi Ulla Nogva,Inger Margrethe Midtlid,"21/11,18/21,21/19",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Anne-Margrethe Ulla Staurset,Viktoria Humlen,Randi Ulla Nogva,Inger Margrethe Midtlid,"19/21,23/21,25/23",Anne-Margrethe Ulla Staurset,Viktoria Humlen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Randi Ulla Nogva,Inger Margrethe Midtlid,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"19/21,21/19,22/20",Randi Ulla Nogva,Inger Margrethe Midtlid
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/15,18/21,21/17",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Ronja Hartmann,"21/13,21/14",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ronja Hartmann,,Gunn Fiskergaard,"21/15,18/21,21/16",Ronja Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ragnhild Stenvaag,,Gunn Fiskergaard,"21/12,22/20",Ragnhild Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ronja Hartmann,,Ragnhild Stenvaag,"21/11,17/21,21/13",Ronja Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Emma Søvik,,Viktoria Humlen,"22/20,21/16",Emma Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Ingrid Stene Olsen,"21/14,21/9",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Viktoria Humlen,"21/5,21/8",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ingrid Stene Olsen,,Emma Søvik,"21/13,21/13",Ingrid Stene Olsen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ingrid Stene Olsen,,Viktoria Humlen,"21/6,21/15",Ingrid Stene Olsen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Emma Søvik,"21/17,21/10",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Fredrik Lian,Nils Even Urkedal,"21/19,21/15",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Lars Valentin,Thomas Pedersen,"21/17,21/11",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Rune Tårnes,Tor Stenvaag,"21/11,21/7",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Lars Valentin,Thomas Pedersen,Rune Tårnes,Tor Stenvaag,"21/19,21/14",Lars Valentin,Thomas Pedersen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Noralf Gamlem,Per Ivar Furholm,Christian Asbjørnsen,Knut Hermann Stenvaag,"11/21,21/18,21/12",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Glenn Humlen,Gard Vik Langhammer,"21/16,21/7",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Noralf Gamlem,Per Ivar Furholm,"21/12,21/12",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Christian Asbjørnsen,Knut Hermann Stenvaag,Glenn Humlen,Gard Vik Langhammer,"10/21,22/20,21/18",Christian Asbjørnsen,Knut Hermann Stenvaag
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Noralf Gamlem,Per Ivar Furholm,Glenn Humlen,Gard Vik Langhammer,"21/16,21/13",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Christian Asbjørnsen,Knut Hermann Stenvaag,"21/8,22/20",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Ingrid Stene Olsen,Trine Sperre,"21/12,21/15",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Emma Søvik,Ragnhild Stenvaag,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/10",Emma Søvik,Ragnhild Stenvaag
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ingrid Stene Olsen,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/14,21/4",Ingrid Stene Olsen,Trine Sperre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ingrid Stene Olsen,Trine Sperre,Emma Søvik,Ragnhild Stenvaag,"21/13,21/18",Ingrid Stene Olsen,Trine Sperre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/9,21/19",Elisabeth Hjellegjerde Skog,Cecilie Welle Bay
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Randi Ulla Nogva,Inger Margrethe Midtlid,"21/11,18/21,21/19",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Anne-Margrethe Ulla Staurset,Viktoria Humlen,Randi Ulla Nogva,Inger Margrethe Midtlid,"19/21,23/21,25/23",Anne-Margrethe Ulla Staurset,Viktoria Humlen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Randi Ulla Nogva,Inger Margrethe Midtlid,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"19/21,21/19,22/20",Randi Ulla Nogva,Inger Margrethe Midtlid
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/15,18/21,21/17",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Marwin Tarusna,,Gabriel Feodorov,"21/8,21/8",Marwin Tarusna,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Roy Uggedal,,Simon Åkre,"21/13,21/13",Roy Uggedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Gabriel Feodorov,,Simon Åkre,"21/18,18/21,21/11",Gabriel Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Gabriel Feodorov,,Roy Uggedal,"21/15,21/19",Gabriel Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Elias Søvik Gunnarsson,,Kai Robert Vartdal,"21/13,21/16",Elias Søvik Gunnarsson,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Marwin Tarusna,,Kai Robert Vartdal,"21/12,21/13",Marwin Tarusna,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Marwin Tarusna,,Elias Søvik Gunnarsson,"21/14,21/13",Marwin Tarusna,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Marwin Tarusna,,Gabriel Feodorov,"21/8,21/8",Marwin Tarusna,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Roy Uggedal,,Simon Åkre,"21/13,21/13",Roy Uggedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Gabriel Feodorov,,Simon Åkre,"21/18,18/21,21/11",Gabriel Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Gabriel Feodorov,,Roy Uggedal,"21/15,21/19",Gabriel Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Elias Søvik Gunnarsson,,Kai Robert Vartdal,"21/13,21/16",Elias Søvik Gunnarsson,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Marwin Tarusna,,Kai Robert Vartdal,"21/12,21/13",Marwin Tarusna,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,,Marwin Tarusna,,Elias Søvik Gunnarsson,"21/14,21/13",Marwin Tarusna,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Marwin Tarusna,Simon Åkre,Geir Liljevold,Edvin Marthinussen,"16/21,21/18,21/14",Marwin Tarusna,Simon Åkre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Piotr Kapica,Gabriel Alexandru,Gunnar Kolbeinsson,Elias Søvik Gunnarsson,"21/15,21/19",Piotr Kapica,Gabriel Alexandru
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Marwin Tarusna,Simon Åkre,Gunnar Kolbeinsson,Elias Søvik Gunnarsson,"21/16,21/12",Marwin Tarusna,Simon Åkre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Marwin Tarusna,Simon Åkre,Piotr Kapica,Gabriel Alexandru,"21/16,21/18",Marwin Tarusna,Simon Åkre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Geir Liljevold,Edvin Marthinussen,Stian Sæter,Steinar Vambeseth,"21/11,21/9",Geir Liljevold,Edvin Marthinussen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Roy Uggedal,Martin Uggedal,Stian Sæter,Steinar Vambeseth,"21/18,21/16",Roy Uggedal,Martin Uggedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Geir Liljevold,Edvin Marthinussen,Kai Robert Vartdal,Gabriel Feodorov,"21/19,21/9",Geir Liljevold,Edvin Marthinussen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Geir Liljevold,Edvin Marthinussen,Roy Uggedal,Martin Uggedal,"21/13,25/23",Geir Liljevold,Edvin Marthinussen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Stian Sæter,Steinar Vambeseth,Kai Robert Vartdal,Gabriel Feodorov,"15/21,21/19,22/20",Stian Sæter,Steinar Vambeseth
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Roy Uggedal,Martin Uggedal,Kai Robert Vartdal,Gabriel Feodorov,"21/16,18/21,21/19",Roy Uggedal,Martin Uggedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Piotr Kapica,,Stian Sæter,"21/13,21/5",Piotr Kapica,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Steinar Vambeseth,,Noah Nogva,"21/13,29/27",Steinar Vambeseth,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Piotr Kapica,,Steinar Vambeseth,"21/4,21/9",Piotr Kapica,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Piotr Kapica,,Noah Nogva,"21/1,21/8",Piotr Kapica,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Stian Sæter,,Gabriel Alexandru,"21/14,15/21,21/16",Stian Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Stian Sæter,,Geir Liljevold,"21/19,21/17",Stian Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Geir Liljevold,,Gabriel Alexandru,"21/15,21/17",Geir Liljevold,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Piotr Kapica,,Stian Sæter,"21/13,21/5",Piotr Kapica,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Steinar Vambeseth,,Noah Nogva,"21/13,29/27",Steinar Vambeseth,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Piotr Kapica,,Steinar Vambeseth,"21/4,21/9",Piotr Kapica,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Piotr Kapica,,Noah Nogva,"21/1,21/8",Piotr Kapica,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Stian Sæter,,Gabriel Alexandru,"21/14,15/21,21/16",Stian Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Stian Sæter,,Geir Liljevold,"21/19,21/17",Stian Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Geir Liljevold,,Gabriel Alexandru,"21/15,21/17",Geir Liljevold,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Annalyn Santos Fiskerstrand,,Beverly Henriksen,"18/21,21/18,21/15",Annalyn Santos Fiskerstrand,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Beverly Henriksen,,Ada Bjerkestrand,"21/18,21/13",Beverly Henriksen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Yolanda Jaceline,,Jenny Hildre,"22/20,21/18",Yolanda Jaceline,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Annalyn Santos Fiskerstrand,,Jenny Hildre,"21/14,21/17",Annalyn Santos Fiskerstrand,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,,Annalyn Santos Fiskerstrand,,Yolanda Jaceline,"21/17,21/15",Annalyn Santos Fiskerstrand,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Tilje Løken,,Stefania Gamlem,"21/18,26/24",Tilje Løken,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Mathea Krogsethagen Hansen,,Stefania Gamlem,"21/8,21/11",Mathea Krogsethagen Hansen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Olivia Volstad,,Tilje Løken,"21/16,21/15",Olivia Volstad,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Mathea Krogsethagen Hansen,,Tilje Løken,"21/15,21/18",Mathea Krogsethagen Hansen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Mathea Krogsethagen Hansen,,Lilliana Pilat,"23/21,21/15",Mathea Krogsethagen Hansen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Mathea Krogsethagen Hansen,,Olivia Volstad,"21/11,21/16",Mathea Krogsethagen Hansen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,,Lilliana Pilat,,Tilje Løken,"21/16,21/15",Lilliana Pilat,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Markus Tøger Hildrestrand,"21/3,21/1",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Liam Hjelle Sæter,"21/12,21/13",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Ilarja Ioana Abuzatoaie,"21/16,21/13",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Christian Feodorov,,Markus Tøger Hildrestrand,"21/8,21/11",Christian Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Liam Hjelle Sæter,"21/13,21/17",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Ilarja Ioana Abuzatoaie,"21/6,21/6",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Jonatan Jensen Grytten,,Markus Tøger Hildrestrand,"21/12,21/15",Jonatan Jensen Grytten,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Liam Hjelle Sæter,,Jonatan Jensen Grytten,"21/4,21/7",Liam Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Jonatan Jensen Grytten,,Markus Tøger Hildrestrand,"21/5,21/10",Jonatan Jensen Grytten,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Liam Hjelle Sæter,,Martins Dreimanis,"14/21,21/13,21/19",Liam Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Liam Hjelle Sæter,,Markus Tøger Hildrestrand,"21/4,21/2",Liam Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Jonatan Jensen Grytten,"21/13,21/3",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Ilarja Ioana Abuzatoaie,,Liam Hjelle Sæter,"20/22,22/20,21/19",Ilarja Ioana Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Martins Dreimanis,"25/23,21/8",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Jonatan Jensen Grytten,,Christian Feodorov,"21/18,21/17",Jonatan Jensen Grytten,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Ilarja Ioana Abuzatoaie,,Christian Feodorov,"21/5,21/7",Ilarja Ioana Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Ilarja Ioana Abuzatoaie,,Caroline Carneil Atim Hildre,"21/4,21/8",Ilarja Ioana Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Christian Feodorov,"21/4,21/7",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Caroline Carneil Atim Hildre,"21/2,21/6",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Ilarja Ioana Abuzatoaie,"21/4,21/6",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Caroline Carneil Atim Hildre,,Christian Feodorov,"21/17,21/18",Caroline Carneil Atim Hildre,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Markus Tøger Hildrestrand,"21/3,21/1",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Liam Hjelle Sæter,"21/12,21/13",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Ilarja Ioana Abuzatoaie,"21/16,21/13",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Christian Feodorov,,Markus Tøger Hildrestrand,"21/8,21/11",Christian Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Liam Hjelle Sæter,"21/13,21/17",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Ilarja Ioana Abuzatoaie,"21/6,21/6",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Jonatan Jensen Grytten,,Markus Tøger Hildrestrand,"21/12,21/15",Jonatan Jensen Grytten,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Liam Hjelle Sæter,,Jonatan Jensen Grytten,"21/4,21/7",Liam Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Jonatan Jensen Grytten,,Markus Tøger Hildrestrand,"21/5,21/10",Jonatan Jensen Grytten,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Liam Hjelle Sæter,,Martins Dreimanis,"14/21,21/13,21/19",Liam Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Liam Hjelle Sæter,,Markus Tøger Hildrestrand,"21/4,21/2",Liam Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Martins Dreimanis,,Jonatan Jensen Grytten,"21/13,21/3",Martins Dreimanis,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Ilarja Ioana Abuzatoaie,,Liam Hjelle Sæter,"20/22,22/20,21/19",Ilarja Ioana Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Martins Dreimanis,"25/23,21/8",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Jonatan Jensen Grytten,,Christian Feodorov,"21/18,21/17",Jonatan Jensen Grytten,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Ilarja Ioana Abuzatoaie,,Christian Feodorov,"21/5,21/7",Ilarja Ioana Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Ilarja Ioana Abuzatoaie,,Caroline Carneil Atim Hildre,"21/4,21/8",Ilarja Ioana Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Christian Feodorov,"21/4,21/7",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Caroline Carneil Atim Hildre,"21/2,21/6",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Pranav Subburam,,Ilarja Ioana Abuzatoaie,"21/4,21/6",Pranav Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,,Caroline Carneil Atim Hildre,,Christian Feodorov,"21/17,21/18",Caroline Carneil Atim Hildre,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Vikaas Subburam,,Karen Uggedal Søvik,"21/9,21/8",Vikaas Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Darja Maria Abuzatoaie,,Vikaas Subburam,"21/14,21/15",Darja Maria Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Darja Maria Abuzatoaie,,Karen Uggedal Søvik,"21/3,21/8",Darja Maria Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Adrian Fiskerstrand,,Oskar Digernes Sandvik,"21/5,21/3",Adrian Fiskerstrand,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Vikaas Subburam,,Adrian Fiskerstrand,"21/9,21/15",Vikaas Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Vikaas Subburam,,Oskar Digernes Sandvik,"21/3,21/3",Vikaas Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Darja Maria Abuzatoaie,,Alfrico Carneil Atim Hildre,"21/2,21/4",Darja Maria Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Karen Uggedal Søvik,,Åsmund Hammersland,"21/3,21/9",Karen Uggedal Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Alexandru Feodorov,,Åsmund Hammersland,"21/16,21/16",Alexandru Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Karen Uggedal Søvik,,Alexandru Feodorov,"21/7,21/5",Karen Uggedal Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Vikaas Subburam,,Karen Uggedal Søvik,"21/9,21/8",Vikaas Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Darja Maria Abuzatoaie,,Vikaas Subburam,"21/14,21/15",Darja Maria Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Darja Maria Abuzatoaie,,Karen Uggedal Søvik,"21/3,21/8",Darja Maria Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Adrian Fiskerstrand,,Oskar Digernes Sandvik,"21/5,21/3",Adrian Fiskerstrand,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Vikaas Subburam,,Adrian Fiskerstrand,"21/9,21/15",Vikaas Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Vikaas Subburam,,Oskar Digernes Sandvik,"21/3,21/3",Vikaas Subburam,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Darja Maria Abuzatoaie,,Alfrico Carneil Atim Hildre,"21/2,21/4",Darja Maria Abuzatoaie,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Karen Uggedal Søvik,,Åsmund Hammersland,"21/3,21/9",Karen Uggedal Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Alexandru Feodorov,,Åsmund Hammersland,"21/16,21/16",Alexandru Feodorov,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Karen Uggedal Søvik,,Alexandru Feodorov,"21/7,21/5",Karen Uggedal Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Dina Volstad Holmeset,,Sophia Hildre,"19/21,21/16,21/18",Dina Volstad Holmeset,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Alexandra Valentin,,Dina Volstad Holmeset,"21/6,21/5",Alexandra Valentin,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Alexandra Valentin,,Sophia Hildre,"21/4,21/10",Alexandra Valentin,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Clara Løvøy,,Henriette Otterlei,"16/21,22/20,21/8",Clara Løvøy,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Alexandra Valentin,,Henriette Otterlei,"21/15,21/7",Alexandra Valentin,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Alexandra Valentin,,Clara Løvøy,"21/14,21/6",Alexandra Valentin,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Clara Løvøy,,Emma Martine Westgaard,"21/19,19/21,21/16",Clara Løvøy,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Clara Løvøy,,Lina Vatnehol Hurlen,"21/6,21/6",Clara Løvøy,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Emma Martine Westgaard,,Lina Vatnehol Hurlen,"21/9,21/7",Emma Martine Westgaard,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Henriette Otterlei,,Sofie Larsen Witsø,"21/8,21/10",Henriette Otterlei,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Lykke Elise Søvik,,Sofie Larsen Witsø,"27/25,18/21,21/19",Lykke Elise Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,,Henriette Otterlei,,Lykke Elise Søvik,"22/20,21/15",Henriette Otterlei,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Ronja Hartmann,"21/13,21/14",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ronja Hartmann,,Gunn Fiskergaard,"21/15,18/21,21/16",Ronja Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ragnhild Stenvaag,,Gunn Fiskergaard,"21/12,22/20",Ragnhild Stenvaag,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ronja Hartmann,,Ragnhild Stenvaag,"21/11,17/21,21/13",Ronja Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Emma Søvik,,Viktoria Humlen,"22/20,21/16",Emma Søvik,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Ingrid Stene Olsen,"21/14,21/9",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Viktoria Humlen,"21/5,21/8",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ingrid Stene Olsen,,Emma Søvik,"21/13,21/13",Ingrid Stene Olsen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Ingrid Stene Olsen,,Viktoria Humlen,"21/6,21/15",Ingrid Stene Olsen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,,Heidi Hartmann,,Emma Søvik,"21/17,21/10",Heidi Hartmann,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Fredrik Lian,Nils Even Urkedal,"21/19,21/15",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Lars Valentin,Thomas Pedersen,"21/17,21/11",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Gonçalo Ribeiro,Robert Sulebakk,Rune Tårnes,Tor Stenvaag,"21/11,21/7",Gonçalo Ribeiro,Robert Sulebakk
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Lars Valentin,Thomas Pedersen,Rune Tårnes,Tor Stenvaag,"21/19,21/14",Lars Valentin,Thomas Pedersen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Noralf Gamlem,Per Ivar Furholm,Christian Asbjørnsen,Knut Hermann Stenvaag,"11/21,21/18,21/12",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Glenn Humlen,Gard Vik Langhammer,"21/16,21/7",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Noralf Gamlem,Per Ivar Furholm,"21/12,21/12",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Christian Asbjørnsen,Knut Hermann Stenvaag,Glenn Humlen,Gard Vik Langhammer,"10/21,22/20,21/18",Christian Asbjørnsen,Knut Hermann Stenvaag
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Noralf Gamlem,Per Ivar Furholm,Glenn Humlen,Gard Vik Langhammer,"21/16,21/13",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Fredrik Lian,Nils Even Urkedal,Christian Asbjørnsen,Knut Hermann Stenvaag,"21/8,22/20",Fredrik Lian,Nils Even Urkedal
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Ingrid Stene Olsen,Trine Sperre,"21/12,21/15",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Emma Søvik,Ragnhild Stenvaag,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/10",Emma Søvik,Ragnhild Stenvaag
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ingrid Stene Olsen,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/14,21/4",Ingrid Stene Olsen,Trine Sperre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ingrid Stene Olsen,Trine Sperre,Emma Søvik,Ragnhild Stenvaag,"21/13,21/18",Ingrid Stene Olsen,Trine Sperre
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/9,21/19",Elisabeth Hjellegjerde Skog,Cecilie Welle Bay
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Randi Ulla Nogva,Inger Margrethe Midtlid,"21/11,18/21,21/19",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Anne-Margrethe Ulla Staurset,Viktoria Humlen,Randi Ulla Nogva,Inger Margrethe Midtlid,"19/21,23/21,25/23",Anne-Margrethe Ulla Staurset,Viktoria Humlen
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Randi Ulla Nogva,Inger Margrethe Midtlid,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"19/21,21/19,22/20",Randi Ulla Nogva,Inger Margrethe Midtlid
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Ronja Hartmann,Heidi Hartmann,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/15,18/21,21/17",Ronja Hartmann,Heidi Hartmann
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Eirik Tresselt Støylen,,Lukas Sulebakk,"21/5,21/7",Eirik Tresselt Støylen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Eirik Tresselt Støylen,,Daniel Olai Vambeseth,"21/6,21/4",Eirik Tresselt Støylen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Julian Hjelle Sæter,,Daniel Olai Vambeseth,"21/15,21/18",Julian Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Eirik Tresselt Støylen,,Julian Hjelle Sæter,"21/7,21/1",Eirik Tresselt Støylen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Oliver Larsen Witsø,,Michael Bjerkevoll,"21/9,21/11",Oliver Larsen Witsø,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Lukas Sulebakk,,Michael Bjerkevoll,"21/14,21/11",Lukas Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Lukas Sulebakk,,Oliver Larsen Witsø,"21/19,21/15",Lukas Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Eirik Tresselt Støylen,,Lukas Sulebakk,"21/5,21/7",Eirik Tresselt Støylen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Eirik Tresselt Støylen,,Daniel Olai Vambeseth,"21/6,21/4",Eirik Tresselt Støylen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Julian Hjelle Sæter,,Daniel Olai Vambeseth,"21/15,21/18",Julian Hjelle Sæter,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Eirik Tresselt Støylen,,Julian Hjelle Sæter,"21/7,21/1",Eirik Tresselt Støylen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Oliver Larsen Witsø,,Michael Bjerkevoll,"21/9,21/11",Oliver Larsen Witsø,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Lukas Sulebakk,,Michael Bjerkevoll,"21/14,21/11",Lukas Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Lukas Sulebakk,,Oliver Larsen Witsø,"21/19,21/15",Lukas Sulebakk,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Mia Henriksen,,Agnes Søvik Gunnarsdottir,"21/16,19/21,21/18",Mia Henriksen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Helena Uggedal,,Celine H Solvang Søvik,"21/18,19/21,21/17",Helena Uggedal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Mia Henriksen,,Celine H Solvang Søvik,"14/21,21/19,21/6",Mia Henriksen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Mia Henriksen,,Helena Uggedal,"21/14,21/10",Mia Henriksen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,,Agnes Søvik Gunnarsdottir,,Kamila Remizova,"17/21,21/18,22/20",Agnes Søvik Gunnarsdottir,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Oliver Larsen Witsø,Julian Hjelle Sæter,Daniel Olai Vambeseth,Noah Skår Arntsen,"21/9,21/11",Oliver Larsen Witsø,Julian Hjelle Sæter
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Oliver Larsen Witsø,Julian Hjelle Sæter,Lukas Sulebakk,Torbjørn Hofseth,"21/16,22/20",Oliver Larsen Witsø,Julian Hjelle Sæter
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Lukas Sulebakk,Torbjørn Hofseth,Daniel Olai Vambeseth,Noah Skår Arntsen,"21/17,21/11",Lukas Sulebakk,Torbjørn Hofseth
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik,Mia Henriksen,Kamila Remizova,"21/17,20/22,21/18",Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mia Henriksen,Kamila Remizova,Ruth Grimstad,Charlotte Humlen,"21/10,21/11",Mia Henriksen,Kamila Remizova
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik,Ruth Grimstad,Charlotte Humlen,"21/9,21/15",Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Daniel Standal,,Torbjørn Hofseth,"21/18,21/19",Daniel Standal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Daniel Standal,,Noah Skår Arntsen,"21/4,21/8",Daniel Standal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Torbjørn Hofseth,,Noah Skår Arntsen,"21/15,21/14",Torbjørn Hofseth,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Daniel Standal,,Kristian Hofseth,"21/12,21/9",Daniel Standal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Daniel Standal,,Torbjørn Hofseth,"21/18,21/19",Daniel Standal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Daniel Standal,,Noah Skår Arntsen,"21/4,21/8",Daniel Standal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Torbjørn Hofseth,,Noah Skår Arntsen,"21/15,21/14",Torbjørn Hofseth,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Daniel Standal,,Kristian Hofseth,"21/12,21/9",Daniel Standal,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Charlotte Humlen,,Sigrid Ringen Synnes,"21/12,21/3",Charlotte Humlen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Sigrid Jonette Varga,,Marie Hammersland,"21/14,21/8",Sigrid Jonette Varga,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Sigrid Jonette Varga,,Charlotte Humlen,"19/21,21/19,21/14",Sigrid Jonette Varga,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Sigrid Ringen Synnes,,Marie Hammersland,"21/14,21/13",Sigrid Ringen Synnes,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Charlotte Humlen,,Marie Hammersland,"21/5,21/10",Charlotte Humlen,
-2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,,Sigrid Jonette Varga,,Sigrid Ringen Synnes,"21/11,21/13",Sigrid Jonette Varga,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Gonçalo Ribeiro,,Christian Asbjørnsen,"21/12,21/15",Gonçalo Ribeiro,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Gonçalo Ribeiro,,Nils Even Urkedal,"21/15,21/11",Gonçalo Ribeiro,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Gonçalo Ribeiro,,Fredrik Lian,"14/21,21/14,21/17",Gonçalo Ribeiro,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Robert Sulebakk,,Christian Asbjørnsen,"21/15,21/16",Robert Sulebakk,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Gonçalo Ribeiro,,Robert Sulebakk,"21/10,21/12",Gonçalo Ribeiro,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Noralf Gamlem,,Tor Stenvaag,"21/11,21/13",Noralf Gamlem,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Nils Even Urkedal,,Tor Stenvaag,"21/14,21/15",Nils Even Urkedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Nils Even Urkedal,,Noralf Gamlem,"21/16,21/17",Nils Even Urkedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Fredrik Lian,,Gard Vik Langhammer,"21/13,21/6",Fredrik Lian,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Knut Hermann Stenvaag,,Gard Vik Langhammer,"21/19,21/15",Knut Hermann Stenvaag,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herresingle,,Fredrik Lian,,Knut Hermann Stenvaag,"21/16,21/17",Fredrik Lian,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Heidi Hartmann,,Ronja Hartmann,"21/13,21/14",Heidi Hartmann,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Ronja Hartmann,,Gunn Fiskergaard,"21/15,18/21,21/16",Ronja Hartmann,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Ragnhild Stenvaag,,Gunn Fiskergaard,"21/12,22/20",Ragnhild Stenvaag,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Ronja Hartmann,,Ragnhild Stenvaag,"21/11,17/21,21/13",Ronja Hartmann,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Emma Søvik,,Viktoria Humlen,"22/20,21/16",Emma Søvik,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Heidi Hartmann,,Ingrid Stene Olsen,"21/14,21/9",Heidi Hartmann,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Heidi Hartmann,,Viktoria Humlen,"21/5,21/8",Heidi Hartmann,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Ingrid Stene Olsen,,Emma Søvik,"21/13,21/13",Ingrid Stene Olsen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Ingrid Stene Olsen,,Viktoria Humlen,"21/6,21/15",Ingrid Stene Olsen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damesingle,,Heidi Hartmann,,Emma Søvik,"21/17,21/10",Heidi Hartmann,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Gonçalo Ribeiro,Robert Sulebakk,Fredrik Lian,Nils Even Urkedal,"21/19,21/15",Gonçalo Ribeiro,Robert Sulebakk
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Gonçalo Ribeiro,Robert Sulebakk,Lars Valentin,Thomas Pedersen,"21/17,21/11",Gonçalo Ribeiro,Robert Sulebakk
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Gonçalo Ribeiro,Robert Sulebakk,Rune Tårnes,Tor Stenvaag,"21/11,21/7",Gonçalo Ribeiro,Robert Sulebakk
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Lars Valentin,Thomas Pedersen,Rune Tårnes,Tor Stenvaag,"21/19,21/14",Lars Valentin,Thomas Pedersen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Christian Asbjørnsen,Knut Hermann Stenvaag,"11/21,21/18,21/12",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Fredrik Lian,Nils Even Urkedal,Glenn Humlen,Gard Vik Langhammer,"21/16,21/7",Fredrik Lian,Nils Even Urkedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Fredrik Lian,Nils Even Urkedal,Noralf Gamlem,Per Ivar Furholm,"21/12,21/12",Fredrik Lian,Nils Even Urkedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Christian Asbjørnsen,Knut Hermann Stenvaag,Glenn Humlen,Gard Vik Langhammer,"10/21,22/20,21/18",Christian Asbjørnsen,Knut Hermann Stenvaag
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Glenn Humlen,Gard Vik Langhammer,"21/16,21/13",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Herredouble,Fredrik Lian,Nils Even Urkedal,Christian Asbjørnsen,Knut Hermann Stenvaag,"21/8,22/20",Fredrik Lian,Nils Even Urkedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Ronja Hartmann,Heidi Hartmann,Ingrid Stene Olsen,Trine Sperre,"21/12,21/15",Ronja Hartmann,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Emma Søvik,Ragnhild Stenvaag,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/10",Emma Søvik,Ragnhild Stenvaag
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Ingrid Stene Olsen,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/14,21/4",Ingrid Stene Olsen,Trine Sperre
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Ingrid Stene Olsen,Trine Sperre,Emma Søvik,Ragnhild Stenvaag,"21/13,21/18",Ingrid Stene Olsen,Trine Sperre
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/9,21/19",Elisabeth Hjellegjerde Skog,Cecilie Welle Bay
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Ronja Hartmann,Heidi Hartmann,Randi Ulla Nogva,Inger Margrethe Midtlid,"21/11,18/21,21/19",Ronja Hartmann,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Anne-Margrethe Ulla Staurset,Viktoria Humlen,Randi Ulla Nogva,Inger Margrethe Midtlid,"19/21,23/21,25/23",Anne-Margrethe Ulla Staurset,Viktoria Humlen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Randi Ulla Nogva,Inger Margrethe Midtlid,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"19/21,21/19,22/20",Randi Ulla Nogva,Inger Margrethe Midtlid
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Ronja Hartmann,Heidi Hartmann,Anne-Margrethe Ulla Staurset,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Damedouble,Ronja Hartmann,Heidi Hartmann,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/15,18/21,21/17",Ronja Hartmann,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Fredrik Lian,Heidi Hartmann,Trine Sperre,Thomas Pedersen,"21/14,21/12",Fredrik Lian,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Fredrik Lian,Heidi Hartmann,Robert Sulebakk,Cecilie Welle Bay,"21/17,21/16",Fredrik Lian,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Fredrik Lian,Heidi Hartmann,Randi Ulla Nogva,Nils Even Urkedal,"21/11,21/19",Fredrik Lian,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Robert Sulebakk,Cecilie Welle Bay,Randi Ulla Nogva,Nils Even Urkedal,"21/19,22/20",Robert Sulebakk,Cecilie Welle Bay
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Trine Sperre,Thomas Pedersen,Ingrid Stene Olsen,Rune Tårnes,"21/13,21/14",Trine Sperre,Thomas Pedersen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Fredrik Lian,Heidi Hartmann,Anne-Margrethe Ulla Staurset,Gonçalo Ribeiro,"23/21,21/13",Fredrik Lian,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Anne-Margrethe Ulla Staurset,Gonçalo Ribeiro,Ingrid Stene Olsen,Rune Tårnes,"21/17,21/8",Anne-Margrethe Ulla Staurset,Gonçalo Ribeiro
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Trine Sperre,Thomas Pedersen,Anne-Margrethe Ulla Staurset,Gonçalo Ribeiro,"21/19,21/12",Trine Sperre,Thomas Pedersen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Fredrik Lian,Heidi Hartmann,Ingrid Stene Olsen,Rune Tårnes,"21/11,21/13",Fredrik Lian,Heidi Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Robert Sulebakk,Cecilie Welle Bay,Sissel W. Schmidt,Lars Valentin,"21/12,21/14",Robert Sulebakk,Cecilie Welle Bay
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Robert Sulebakk,Cecilie Welle Bay,Viktoria Humlen,Christian Asbjørnsen,"21/17,21/13",Robert Sulebakk,Cecilie Welle Bay
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Viktoria Humlen,Christian Asbjørnsen,Sissel W. Schmidt,Lars Valentin,"15/21,21/18,21/19",Viktoria Humlen,Christian Asbjørnsen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Noralf Gamlem,Ronja Hartmann,Inger Margrethe Midtlid,Glenn Humlen,"21/13,21/14",Noralf Gamlem,Ronja Hartmann
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Randi Ulla Nogva,Nils Even Urkedal,Inger Margrethe Midtlid,Glenn Humlen,"15/21,21/8,21/9",Randi Ulla Nogva,Nils Even Urkedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN A,Mixeddouble,Randi Ulla Nogva,Nils Even Urkedal,Noralf Gamlem,Ronja Hartmann,"20/22,21/15,21/17",Randi Ulla Nogva,Nils Even Urkedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Marwin Tarusna,,Gabriel Feodorov,"21/8,21/8",Marwin Tarusna,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Roy Uggedal,,Simon Åkre,"21/13,21/13",Roy Uggedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Gabriel Feodorov,,Simon Åkre,"21/18,18/21,21/11",Gabriel Feodorov,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Gabriel Feodorov,,Roy Uggedal,"21/15,21/19",Gabriel Feodorov,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Elias Søvik Gunnarsson,,Kai Robert Vartdal,"21/13,21/16",Elias Søvik Gunnarsson,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Marwin Tarusna,,Kai Robert Vartdal,"21/12,21/13",Marwin Tarusna,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herresingle,,Marwin Tarusna,,Elias Søvik Gunnarsson,"21/14,21/13",Marwin Tarusna,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Marwin Tarusna,Simon Åkre,Geir Liljevold,Edvin Marthinussen,"16/21,21/18,21/14",Marwin Tarusna,Simon Åkre
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Piotr Kapica,Gabriel Alexandru,Gunnar Kolbeinsson,Elias Søvik Gunnarsson,"21/15,21/19",Piotr Kapica,Gabriel Alexandru
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Marwin Tarusna,Simon Åkre,Gunnar Kolbeinsson,Elias Søvik Gunnarsson,"21/16,21/12",Marwin Tarusna,Simon Åkre
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Marwin Tarusna,Simon Åkre,Piotr Kapica,Gabriel Alexandru,"21/16,21/18",Marwin Tarusna,Simon Åkre
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Geir Liljevold,Edvin Marthinussen,Stian Sæter,Steinar Vambeseth,"21/11,21/9",Geir Liljevold,Edvin Marthinussen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Roy Uggedal,Martin Uggedal,Stian Sæter,Steinar Vambeseth,"21/18,21/16",Roy Uggedal,Martin Uggedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Geir Liljevold,Edvin Marthinussen,Kai Robert Vartdal,Gabriel Feodorov,"21/19,21/9",Geir Liljevold,Edvin Marthinussen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Geir Liljevold,Edvin Marthinussen,Roy Uggedal,Martin Uggedal,"21/13,25/23",Geir Liljevold,Edvin Marthinussen
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Stian Sæter,Steinar Vambeseth,Kai Robert Vartdal,Gabriel Feodorov,"15/21,21/19,22/20",Stian Sæter,Steinar Vambeseth
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN C,Herredouble,Roy Uggedal,Martin Uggedal,Kai Robert Vartdal,Gabriel Feodorov,"21/16,18/21,21/19",Roy Uggedal,Martin Uggedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Piotr Kapica,,Stian Sæter,"21/13,21/5",Piotr Kapica,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Steinar Vambeseth,,Noah Nogva,"21/13,29/27",Steinar Vambeseth,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Piotr Kapica,,Steinar Vambeseth,"21/4,21/9",Piotr Kapica,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Piotr Kapica,,Noah Nogva,"21/1,21/8",Piotr Kapica,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Stian Sæter,,Gabriel Alexandru,"21/14,15/21,21/16",Stian Sæter,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Stian Sæter,,Geir Liljevold,"21/19,21/17",Stian Sæter,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Herresingle,,Geir Liljevold,,Gabriel Alexandru,"21/15,21/17",Geir Liljevold,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Damesingle,,Annalyn Santos Fiskerstrand,,Beverly Henriksen,"18/21,21/18,21/15",Annalyn Santos Fiskerstrand,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Damesingle,,Beverly Henriksen,,Ada Bjerkestrand,"21/18,21/13",Beverly Henriksen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Damesingle,,Yolanda Jaceline,,Jenny Hildre,"22/20,21/18",Yolanda Jaceline,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Damesingle,,Annalyn Santos Fiskerstrand,,Jenny Hildre,"21/14,21/17",Annalyn Santos Fiskerstrand,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Damesingle,,Annalyn Santos Fiskerstrand,,Yolanda Jaceline,"21/17,21/15",Annalyn Santos Fiskerstrand,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Mixeddouble,Beverly Henriksen,Marwin Tarusna,Yolanda Jaceline,Gabriel Feodorov,"21/12,21/17",Beverly Henriksen,Marwin Tarusna
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Mixeddouble,Beverly Henriksen,Marwin Tarusna,Are Kjeseth,Ada Bjerkestrand,"21/8,21/6",Beverly Henriksen,Marwin Tarusna
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Mixeddouble,Steinar Vambeseth,Annalyn Santos Fiskerstrand,Are Kjeseth,Ada Bjerkestrand,"21/11,21/13",Steinar Vambeseth,Annalyn Santos Fiskerstrand
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Mixeddouble,Beverly Henriksen,Marwin Tarusna,Steinar Vambeseth,Annalyn Santos Fiskerstrand,"21/11,21/10",Beverly Henriksen,Marwin Tarusna
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Mixeddouble,Yolanda Jaceline,Gabriel Feodorov,Noah Nogva,Jenny Hildre,"21/7,21/16",Yolanda Jaceline,Gabriel Feodorov
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,SEN D,Mixeddouble,Geir Liljevold,Margarita Bjerkevoll,Yolanda Jaceline,Gabriel Feodorov,"19/21,21/17,21/16",Geir Liljevold,Margarita Bjerkevoll
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Tilje Løken,,Stefania Gamlem,"21/18,26/24",Tilje Løken,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Mathea Krogsethagen Hansen,,Stefania Gamlem,"21/8,21/11",Mathea Krogsethagen Hansen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Olivia Volstad,,Tilje Løken,"21/16,21/15",Olivia Volstad,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Mathea Krogsethagen Hansen,,Tilje Løken,"21/15,21/18",Mathea Krogsethagen Hansen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Mathea Krogsethagen Hansen,,Lilliana Pilat,"23/21,21/15",Mathea Krogsethagen Hansen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Mathea Krogsethagen Hansen,,Olivia Volstad,"21/11,21/16",Mathea Krogsethagen Hansen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U9 A,Damesingle,,Lilliana Pilat,,Tilje Løken,"21/16,21/15",Lilliana Pilat,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Martins Dreimanis,,Markus Tøger Hildrestrand,"21/3,21/1",Martins Dreimanis,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Pranav Subburam,,Liam Hjelle Sæter,"21/12,21/13",Pranav Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Martins Dreimanis,,Ilarja Ioana Abuzatoaie,"21/16,21/13",Martins Dreimanis,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Christian Feodorov,,Markus Tøger Hildrestrand,"21/8,21/11",Christian Feodorov,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Martins Dreimanis,,Liam Hjelle Sæter,"21/13,21/17",Martins Dreimanis,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Pranav Subburam,,Ilarja Ioana Abuzatoaie,"21/6,21/6",Pranav Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Jonatan Jensen Grytten,,Markus Tøger Hildrestrand,"21/12,21/15",Jonatan Jensen Grytten,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Liam Hjelle Sæter,,Jonatan Jensen Grytten,"21/4,21/7",Liam Hjelle Sæter,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Jonatan Jensen Grytten,,Markus Tøger Hildrestrand,"21/5,21/10",Jonatan Jensen Grytten,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Liam Hjelle Sæter,,Martins Dreimanis,"14/21,21/13,21/19",Liam Hjelle Sæter,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Liam Hjelle Sæter,,Markus Tøger Hildrestrand,"21/4,21/2",Liam Hjelle Sæter,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Martins Dreimanis,,Jonatan Jensen Grytten,"21/13,21/3",Martins Dreimanis,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Ilarja Ioana Abuzatoaie,,Liam Hjelle Sæter,"20/22,22/20,21/19",Ilarja Ioana Abuzatoaie,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Pranav Subburam,,Martins Dreimanis,"25/23,21/8",Pranav Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Jonatan Jensen Grytten,,Christian Feodorov,"21/18,21/17",Jonatan Jensen Grytten,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Ilarja Ioana Abuzatoaie,,Christian Feodorov,"21/5,21/7",Ilarja Ioana Abuzatoaie,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Ilarja Ioana Abuzatoaie,,Caroline Carneil Atim Hildre,"21/4,21/8",Ilarja Ioana Abuzatoaie,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Pranav Subburam,,Christian Feodorov,"21/4,21/7",Pranav Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Pranav Subburam,,Caroline Carneil Atim Hildre,"21/2,21/6",Pranav Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Pranav Subburam,,Ilarja Ioana Abuzatoaie,"21/4,21/6",Pranav Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U11 A,Herresingle,,Caroline Carneil Atim Hildre,,Christian Feodorov,"21/17,21/18",Caroline Carneil Atim Hildre,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Vikaas Subburam,,Karen Uggedal Søvik,"21/9,21/8",Vikaas Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Darja Maria Abuzatoaie,,Vikaas Subburam,"21/14,21/15",Darja Maria Abuzatoaie,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Darja Maria Abuzatoaie,,Karen Uggedal Søvik,"21/3,21/8",Darja Maria Abuzatoaie,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Adrian Fiskerstrand,,Oskar Digernes Sandvik,"21/5,21/3",Adrian Fiskerstrand,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Vikaas Subburam,,Adrian Fiskerstrand,"21/9,21/15",Vikaas Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Vikaas Subburam,,Oskar Digernes Sandvik,"21/3,21/3",Vikaas Subburam,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Darja Maria Abuzatoaie,,Alfrico Carneil Atim Hildre,"21/2,21/4",Darja Maria Abuzatoaie,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Karen Uggedal Søvik,,Åsmund Hammersland,"21/3,21/9",Karen Uggedal Søvik,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Alexandru Feodorov,,Åsmund Hammersland,"21/16,21/16",Alexandru Feodorov,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Herresingle,,Karen Uggedal Søvik,,Alexandru Feodorov,"21/7,21/5",Karen Uggedal Søvik,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Dina Volstad Holmeset,,Sophia Hildre,"19/21,21/16,21/18",Dina Volstad Holmeset,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Alexandra Valentin,,Dina Volstad Holmeset,"21/6,21/5",Alexandra Valentin,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Alexandra Valentin,,Sophia Hildre,"21/4,21/10",Alexandra Valentin,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Clara Løvøy,,Henriette Otterlei,"16/21,22/20,21/8",Clara Løvøy,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Alexandra Valentin,,Henriette Otterlei,"21/15,21/7",Alexandra Valentin,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Alexandra Valentin,,Clara Løvøy,"21/14,21/6",Alexandra Valentin,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Clara Løvøy,,Emma Martine Westgaard,"21/19,19/21,21/16",Clara Løvøy,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Clara Løvøy,,Lina Vatnehol Hurlen,"21/6,21/6",Clara Løvøy,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Emma Martine Westgaard,,Lina Vatnehol Hurlen,"21/9,21/7",Emma Martine Westgaard,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Henriette Otterlei,,Sofie Larsen Witsø,"21/8,21/10",Henriette Otterlei,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Lykke Elise Søvik,,Sofie Larsen Witsø,"27/25,18/21,21/19",Lykke Elise Søvik,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Damesingle,,Henriette Otterlei,,Lykke Elise Søvik,"22/20,21/15",Henriette Otterlei,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Mixeddouble,Vikaas Subburam,Alexandra Valentin,Åsmund Hammersland,Karen Uggedal Søvik,"21/13,21/18",Vikaas Subburam,Alexandra Valentin
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Mixeddouble,Vikaas Subburam,Alexandra Valentin,Alfrico Carneil Atim Hildre,Darja Maria Abuzatoaie,"21/14,21/12",Vikaas Subburam,Alexandra Valentin
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Mixeddouble,Åsmund Hammersland,Karen Uggedal Søvik,Alexandru Feodorov,Clara Løvøy,"20/22,21/11,21/9",Åsmund Hammersland,Karen Uggedal Søvik
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Mixeddouble,Alexandru Feodorov,Clara Løvøy,Henriette Otterlei,Lykke Elise Søvik,"21/19,21/14",Alexandru Feodorov,Clara Løvøy
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U13 A,Mixeddouble,Åsmund Hammersland,Karen Uggedal Søvik,Henriette Otterlei,Lykke Elise Søvik,"21/13,21/6",Åsmund Hammersland,Karen Uggedal Søvik
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Eirik Tresselt Støylen,,Lukas Sulebakk,"21/5,21/7",Eirik Tresselt Støylen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Eirik Tresselt Støylen,,Daniel Olai Vambeseth,"21/6,21/4",Eirik Tresselt Støylen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Julian Hjelle Sæter,,Daniel Olai Vambeseth,"21/15,21/18",Julian Hjelle Sæter,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Eirik Tresselt Støylen,,Julian Hjelle Sæter,"21/7,21/1",Eirik Tresselt Støylen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Oliver Larsen Witsø,,Michael Bjerkevoll,"21/9,21/11",Oliver Larsen Witsø,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Lukas Sulebakk,,Michael Bjerkevoll,"21/14,21/11",Lukas Sulebakk,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herresingle,,Lukas Sulebakk,,Oliver Larsen Witsø,"21/19,21/15",Lukas Sulebakk,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damesingle,,Mia Henriksen,,Agnes Søvik Gunnarsdottir,"21/16,19/21,21/18",Mia Henriksen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damesingle,,Helena Uggedal,,Celine H Solvang Søvik,"21/18,19/21,21/17",Helena Uggedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damesingle,,Mia Henriksen,,Celine H Solvang Søvik,"14/21,21/19,21/6",Mia Henriksen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damesingle,,Mia Henriksen,,Helena Uggedal,"21/14,21/10",Mia Henriksen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damesingle,,Agnes Søvik Gunnarsdottir,,Kamila Remizova,"17/21,21/18,22/20",Agnes Søvik Gunnarsdottir,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herredouble,Oliver Larsen Witsø,Julian Hjelle Sæter,Daniel Olai Vambeseth,Noah Skår Arntsen,"21/9,21/11",Oliver Larsen Witsø,Julian Hjelle Sæter
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herredouble,Oliver Larsen Witsø,Julian Hjelle Sæter,Lukas Sulebakk,Torbjørn Hofseth,"21/16,22/20",Oliver Larsen Witsø,Julian Hjelle Sæter
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Herredouble,Lukas Sulebakk,Torbjørn Hofseth,Daniel Olai Vambeseth,Noah Skår Arntsen,"21/17,21/11",Lukas Sulebakk,Torbjørn Hofseth
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damedouble,Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik,Mia Henriksen,Kamila Remizova,"21/17,20/22,21/18",Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damedouble,Mia Henriksen,Kamila Remizova,Ruth Grimstad,Charlotte Humlen,"21/10,21/11",Mia Henriksen,Kamila Remizova
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Damedouble,Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik,Ruth Grimstad,Charlotte Humlen,"21/9,21/15",Agnes Søvik Gunnarsdottir,Celine H Solvang Søvik
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mixeddouble,Helena Uggedal,Lukas Sulebakk,Mia Henriksen,Oliver Larsen Witsø,"21/18,7/21,21/18",Helena Uggedal,Lukas Sulebakk
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mixeddouble,Agnes Søvik Gunnarsdottir,Julian Hjelle Sæter,Kamila Remizova,Daniel Standal,"22/20,24/22",Agnes Søvik Gunnarsdottir,Julian Hjelle Sæter
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mixeddouble,Kamila Remizova,Daniel Standal,Mia Henriksen,Oliver Larsen Witsø,"14/21,21/17,21/14",Kamila Remizova,Daniel Standal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mixeddouble,Helena Uggedal,Lukas Sulebakk,Agnes Søvik Gunnarsdottir,Julian Hjelle Sæter,"16/21,21/14,21/15",Helena Uggedal,Lukas Sulebakk
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mixeddouble,Mia Henriksen,Oliver Larsen Witsø,Agnes Søvik Gunnarsdottir,Julian Hjelle Sæter,"12/21,21/7,21/18",Mia Henriksen,Oliver Larsen Witsø
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 A,Mixeddouble,Helena Uggedal,Lukas Sulebakk,Kamila Remizova,Daniel Standal,"21/15,21/11",Helena Uggedal,Lukas Sulebakk
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Herresingle,,Daniel Standal,,Torbjørn Hofseth,"21/18,21/19",Daniel Standal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Herresingle,,Daniel Standal,,Noah Skår Arntsen,"21/4,21/8",Daniel Standal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Herresingle,,Torbjørn Hofseth,,Noah Skår Arntsen,"21/15,21/14",Torbjørn Hofseth,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Herresingle,,Daniel Standal,,Kristian Hofseth,"21/12,21/9",Daniel Standal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Damesingle,,Charlotte Humlen,,Sigrid Ringen Synnes,"21/12,21/3",Charlotte Humlen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Damesingle,,Sigrid Jonette Varga,,Marie Hammersland,"21/14,21/8",Sigrid Jonette Varga,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Damesingle,,Sigrid Jonette Varga,,Charlotte Humlen,"19/21,21/19,21/14",Sigrid Jonette Varga,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Damesingle,,Sigrid Ringen Synnes,,Marie Hammersland,"21/14,21/13",Sigrid Ringen Synnes,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Damesingle,,Charlotte Humlen,,Marie Hammersland,"21/5,21/10",Charlotte Humlen,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Damesingle,,Sigrid Jonette Varga,,Sigrid Ringen Synnes,"21/11,21/13",Sigrid Jonette Varga,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Mixeddouble,Daniel Olai Vambeseth,Sigrid Jonette Varga,Ruth Grimstad,Kristian Hofseth,"21/16,21/13",Daniel Olai Vambeseth,Sigrid Jonette Varga
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U15 B,Mixeddouble,Daniel Olai Vambeseth,Sigrid Jonette Varga,Sigrid Ringen Synnes,Torbjørn Hofseth,"21/12,21/12",Daniel Olai Vambeseth,Sigrid Jonette Varga
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Nikolai Helgå,,Ludvik Liaaen,"21/6,21/8",Nikolai Helgå,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Andreas Årseth Kvamme,,Martin Uggedal,"21/13,21/11",Andreas Årseth Kvamme,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Martin Uggedal,,Ludvik Liaaen,"21/9,21/13",Martin Uggedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Nikolai Helgå,,Are Kjeseth,"21/17,21/6",Nikolai Helgå,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Andreas Årseth Kvamme,,Nikolai Helgå,"21/10,21/7",Andreas Årseth Kvamme,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Are Kjeseth,,Ludvik Liaaen,"21/18,21/12",Are Kjeseth,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Martin Uggedal,,Nikolai Helgå,"19/21,21/5,21/8",Martin Uggedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Andreas Årseth Kvamme,,Are Kjeseth,"21/3,21/5",Andreas Årseth Kvamme,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Martin Uggedal,,Are Kjeseth,"21/9,21/12",Martin Uggedal,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herresingle,,Andreas Årseth Kvamme,,Ludvik Liaaen,"21/1,21/5",Andreas Årseth Kvamme,
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herredouble,Andreas Årseth Kvamme,Nikolai Helgå,Daniel Standal,Noah Nogva,"21/12,21/9",Andreas Årseth Kvamme,Nikolai Helgå
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herredouble,Andreas Årseth Kvamme,Nikolai Helgå,Are Kjeseth,Ludvik Liaaen,"21/11,21/10",Andreas Årseth Kvamme,Nikolai Helgå
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Herredouble,Daniel Standal,Noah Nogva,Are Kjeseth,Ludvik Liaaen,"21/6,21/14",Daniel Standal,Noah Nogva
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Mixeddouble,Celine H Solvang Søvik,Martin Uggedal,Charlotte Humlen,Andreas Årseth Kvamme,"21/18,21/11",Celine H Solvang Søvik,Martin Uggedal
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Mixeddouble,Eirik Tresselt Støylen,Ragnhild Stenvaag,Charlotte Humlen,Andreas Årseth Kvamme,"21/9,21/7",Eirik Tresselt Støylen,Ragnhild Stenvaag
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 A,Mixeddouble,Eirik Tresselt Støylen,Ragnhild Stenvaag,Celine H Solvang Søvik,Martin Uggedal,"21/9,21/10",Eirik Tresselt Støylen,Ragnhild Stenvaag
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 B,Herredouble,Jenny Hildre,Ada Bjerkestrand,Sigrid Jonette Varga,Sigrid Ringen Synnes,"21/15,21/18",Jenny Hildre,Ada Bjerkestrand
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 B,Herredouble,Noah Nogva,Michael Bjerkevoll,Sigrid Jonette Varga,Sigrid Ringen Synnes,"21/11,21/19",Noah Nogva,Michael Bjerkevoll
+2022/2023,Norborg NorborgCupen 2022,12.11.2022,U17 B,Herredouble,Jenny Hildre,Ada Bjerkestrand,Noah Nogva,Michael Bjerkevoll,"21/18,21/10",Jenny Hildre,Ada Bjerkestrand

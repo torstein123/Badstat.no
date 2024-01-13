@@ -1,212 +1,161 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Bharath Kumar Balasingam,"22/20,21/18",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Dennis Andersen Moe,"21/18,10/21,22/20",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/5,21/18",Bharath Kumar Balasingam,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Audun Christoffer Adolfson,,Henrik Gabrielsen Opsahl,"21/16,21/16",Audun Christoffer Adolfson,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Vilde Morvik Ekerhovd,,Audun Christoffer Adolfson,"23/21,21/19",Vilde Morvik Ekerhovd,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Bharath Kumar Balasingam,,Henrik Gabrielsen Opsahl,"21/10,21/14",Bharath Kumar Balasingam,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Vilde Morvik Ekerhovd,,Henrik Gabrielsen Opsahl,"21/13,18/21,21/14",Vilde Morvik Ekerhovd,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Bharath Kumar Balasingam,,Audun Christoffer Adolfson,"21/8,21/18",Bharath Kumar Balasingam,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Heine Økland Kolltveit,,Jack Oterhals,"21/18,16/21,21/17",Heine Økland Kolltveit,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Heine Økland Kolltveit,"21/16,18/21,21/19",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Jack Oterhals,"21/16,21/10",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Dennis Andersen Moe,,Bengt Drageset,"21/15,21/18",Dennis Andersen Moe,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Are Eidissen,,Bengt Drageset,"21/10,21/13",Are Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Dennis Andersen Moe,,Are Eidissen,"18/21,23/21,21/19",Dennis Andersen Moe,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Bharath Kumar Balasingam,"22/20,21/18",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Dennis Andersen Moe,"21/18,10/21,22/20",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/5,21/18",Bharath Kumar Balasingam,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Audun Christoffer Adolfson,,Henrik Gabrielsen Opsahl,"21/16,21/16",Audun Christoffer Adolfson,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Vilde Morvik Ekerhovd,,Audun Christoffer Adolfson,"23/21,21/19",Vilde Morvik Ekerhovd,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Bharath Kumar Balasingam,,Henrik Gabrielsen Opsahl,"21/10,21/14",Bharath Kumar Balasingam,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Vilde Morvik Ekerhovd,,Henrik Gabrielsen Opsahl,"21/13,18/21,21/14",Vilde Morvik Ekerhovd,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Bharath Kumar Balasingam,,Audun Christoffer Adolfson,"21/8,21/18",Bharath Kumar Balasingam,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Heine Økland Kolltveit,,Jack Oterhals,"21/18,16/21,21/17",Heine Økland Kolltveit,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Heine Økland Kolltveit,"21/16,18/21,21/19",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Iver Rolvsjord,,Jack Oterhals,"21/16,21/10",Iver Rolvsjord,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Dennis Andersen Moe,,Bengt Drageset,"21/15,21/18",Dennis Andersen Moe,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Are Eidissen,,Bengt Drageset,"21/10,21/13",Are Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,,Dennis Andersen Moe,,Are Eidissen,"18/21,23/21,21/19",Dennis Andersen Moe,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Are Eidissen,Paul J. Høl,Jack Oterhals,Bengt Drageset,"21/9,15/21,21/13",Are Eidissen,Paul J. Høl
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Kumaran Dhakshan Moorthy,Nelson Thambiraj,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/17,21/18",Kumaran Dhakshan Moorthy,Nelson Thambiraj
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Are Eidissen,Paul J. Høl,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/11,28/26",Are Eidissen,Paul J. Høl
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Bharath Kumar Balasingam,Dennis Andersen Moe,Jack Oterhals,Bengt Drageset,"21/13,21/12",Bharath Kumar Balasingam,Dennis Andersen Moe
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Bharath Kumar Balasingam,Dennis Andersen Moe,Are Eidissen,Paul J. Høl,"16/21,21/15,21/18",Bharath Kumar Balasingam,Dennis Andersen Moe
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Kumaran Dhakshan Moorthy,Nelson Thambiraj,Jack Oterhals,Bengt Drageset,"21/15,21/17",Kumaran Dhakshan Moorthy,Nelson Thambiraj
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Kumaran Dhakshan Moorthy,Nelson Thambiraj,Are Eidissen,Paul J. Høl,"20/22,21/10,26/24",Kumaran Dhakshan Moorthy,Nelson Thambiraj
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Heine Økland Kolltveit,Fredrik Vabø Helset,Bharath Kumar Balasingam,Dennis Andersen Moe,"21/17,13/21,21/19",Heine Økland Kolltveit,Fredrik Vabø Helset
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Heine Økland Kolltveit,Fredrik Vabø Helset,Jack Oterhals,Bengt Drageset,"21/16,21/15",Heine Økland Kolltveit,Fredrik Vabø Helset
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Bharath Kumar Balasingam,Dennis Andersen Moe,Kumaran Dhakshan Moorthy,Nelson Thambiraj,"21/15,17/21,21/12",Bharath Kumar Balasingam,Dennis Andersen Moe
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Øyvind Fjeld,"21/9,21/7",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Øyvind Fjeld,,Robert Eriksen,"23/21,15/21,21/11",Øyvind Fjeld,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Arphan Bandhu,"21/13,21/16",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Robert Eriksen,,Tore A. Arntzen,"21/19,21/18",Robert Eriksen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Robert Eriksen,,Harald Ness,"21/4,21/12",Robert Eriksen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Tore A. Arntzen,,Harald Ness,"21/12,21/17",Tore A. Arntzen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Øyvind Fjeld,,Rune Birkeland,"11/21,21/15,21/18",Øyvind Fjeld,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Øyvind Fjeld,,Michael White,"21/13,21/14",Øyvind Fjeld,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Rune Birkeland,,Michael White,"22/20,21/18",Rune Birkeland,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Kristoffer Hatlevik,"21/12,21/10",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Håvard Haugen,"21/5,21/18",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Kristoffer Hatlevik,,Håvard Haugen,"20/22,21/9,21/15",Kristoffer Hatlevik,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Arphan Bandhu,,Friederike Korn,"21/18,21/14",Arphan Bandhu,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Øyvind Fjeld,"21/9,21/7",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Øyvind Fjeld,,Robert Eriksen,"23/21,15/21,21/11",Øyvind Fjeld,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Arphan Bandhu,"21/13,21/16",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Robert Eriksen,,Tore A. Arntzen,"21/19,21/18",Robert Eriksen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Robert Eriksen,,Harald Ness,"21/4,21/12",Robert Eriksen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Tore A. Arntzen,,Harald Ness,"21/12,21/17",Tore A. Arntzen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Øyvind Fjeld,,Rune Birkeland,"11/21,21/15,21/18",Øyvind Fjeld,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Øyvind Fjeld,,Michael White,"21/13,21/14",Øyvind Fjeld,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Rune Birkeland,,Michael White,"22/20,21/18",Rune Birkeland,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Kristoffer Hatlevik,"21/12,21/10",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Simon Vedaa,,Håvard Haugen,"21/5,21/18",Simon Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Kristoffer Hatlevik,,Håvard Haugen,"20/22,21/9,21/15",Kristoffer Hatlevik,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,,Arphan Bandhu,,Friederike Korn,"21/18,21/14",Arphan Bandhu,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Øyvind Fjeld,Håvard Haugen,Rune Bråten,Thomas Stenfeldt,"21/6,21/14",Øyvind Fjeld,Håvard Haugen
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Kristoffer Hatlevik,Harald Ness,Berent Barth,Kennet Hellesund Ellingsen,"21/12,21/10",Kristoffer Hatlevik,Harald Ness
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Kristoffer Hatlevik,Harald Ness,Rune Bråten,Thomas Stenfeldt,"21/12,21/8",Kristoffer Hatlevik,Harald Ness
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Øyvind Fjeld,Håvard Haugen,Jørn Inge Bognøy,Erik Moe,"21/15,21/10",Øyvind Fjeld,Håvard Haugen
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Jørn Inge Bognøy,Erik Moe,Rune Bråten,Thomas Stenfeldt,"21/11,21/8",Jørn Inge Bognøy,Erik Moe
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Øyvind Fjeld,Håvard Haugen,Berent Barth,Kennet Hellesund Ellingsen,"21/9,21/14",Øyvind Fjeld,Håvard Haugen
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Berent Barth,Kennet Hellesund Ellingsen,Rune Bråten,Thomas Stenfeldt,"21/18,21/11",Berent Barth,Kennet Hellesund Ellingsen
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Kristoffer Hatlevik,Harald Ness,Jørn Inge Bognøy,Erik Moe,"21/18,21/17",Kristoffer Hatlevik,Harald Ness
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Øyvind Fjeld,Håvard Haugen,Kristoffer Hatlevik,Harald Ness,"21/19,17/21,21/9",Øyvind Fjeld,Håvard Haugen
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Jørn Inge Bognøy,Erik Moe,Berent Barth,Kennet Hellesund Ellingsen,"21/17,21/12",Jørn Inge Bognøy,Erik Moe
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Elena Botcharova Ellingsen,Aina Mogstad,Ariane Mueting,Anita Bui,"21/14,21/10",Elena Botcharova Ellingsen,Aina Mogstad
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Mariann Andreassen,Elise  Holmedal,Dina Høl Bugge,Liv Kristiane Bugge,"18/21,21/17,21/11",Mariann Andreassen,Elise  Holmedal
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Mariann Andreassen,Elise  Holmedal,Ariane Mueting,Anita Bui,"21/5,21/7",Mariann Andreassen,Elise  Holmedal
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Dina Høl Bugge,Liv Kristiane Bugge,Elena Botcharova Ellingsen,Aina Mogstad,"21/15,21/13",Dina Høl Bugge,Liv Kristiane Bugge
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Dina Høl Bugge,Liv Kristiane Bugge,Ariane Mueting,Anita Bui,"21/12,21/3",Dina Høl Bugge,Liv Kristiane Bugge
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Mariann Andreassen,Elise  Holmedal,Elena Botcharova Ellingsen,Aina Mogstad,"21/8,21/12",Mariann Andreassen,Elise  Holmedal
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Berent Barth,"21/4,21/16",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Elena Botcharova Ellingsen,"21/10,21/11",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Berent Barth,,Kennet Hellesund Ellingsen,"21/19,21/19",Berent Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Benjamin Teigland,"21/14,21/18",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Berent Barth,,Randi Rolvsjord,"21/15,21/10",Berent Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Rolf Almås,"21/12,21/18",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Berent Barth,"21/4,21/16",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Elena Botcharova Ellingsen,"21/10,21/11",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Berent Barth,,Kennet Hellesund Ellingsen,"21/19,21/19",Berent Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Benjamin Teigland,"21/14,21/18",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Berent Barth,,Randi Rolvsjord,"21/15,21/10",Berent Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,,Magnus Seilen,,Rolf Almås,"21/12,21/18",Magnus Seilen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Arathija Anton Reginold,,Maria Botcharova Ellingsen,"21/18,21/8",Arathija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Arathija Anton Reginold,,Athina Leiren,"21/10,21/17",Arathija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Akarija Anton Reginold,,Maria Botcharova Ellingsen,"21/7,21/9",Akarija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Akarija Anton Reginold,,Arathija Anton Reginold,"18/21,21/13,21/12",Akarija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Arathija Anton Reginold,,Maria Botcharova Ellingsen,"21/18,21/8",Arathija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Arathija Anton Reginold,,Athina Leiren,"21/10,21/17",Arathija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Akarija Anton Reginold,,Maria Botcharova Ellingsen,"21/7,21/9",Akarija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,,Akarija Anton Reginold,,Arathija Anton Reginold,"18/21,21/13,21/12",Akarija Anton Reginold,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brynjar Hus,,Vetle Vinnes Bråten,"21/18,21/10",Brynjar Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vemund Hus,,Brede Stenfeldt,"21/19,21/19",Vemund Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Jonathan Utne Madsøy,,Amalie Lexander,"21/8,21/16",Jonathan Utne Madsøy,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/19,21/11",Brynjar Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vemund Hus,,Jonathan Utne Madsøy,"21/13,21/4",Vemund Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brede Stenfeldt,,Vetle Vinnes Bråten,"21/17,21/16",Brede Stenfeldt,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Herman Dalan  Eidissen,,Vemund Hus,"21/13,21/19",Herman Dalan  Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vetle Vinnes Bråten,,Amalie Lexander,"21/17,21/7",Vetle Vinnes Bråten,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vetle Vinnes Bråten,,Vemund Hus,"21/8,21/17",Vetle Vinnes Bråten,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brynjar Hus,,Brede Stenfeldt,"21/13,21/11",Brynjar Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Herman Dalan  Eidissen,,Amalie Lexander,"21/10,21/10",Herman Dalan  Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brynjar Hus,,Vetle Vinnes Bråten,"21/18,21/10",Brynjar Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vemund Hus,,Brede Stenfeldt,"21/19,21/19",Vemund Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Jonathan Utne Madsøy,,Amalie Lexander,"21/8,21/16",Jonathan Utne Madsøy,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/19,21/11",Brynjar Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vemund Hus,,Jonathan Utne Madsøy,"21/13,21/4",Vemund Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brede Stenfeldt,,Vetle Vinnes Bråten,"21/17,21/16",Brede Stenfeldt,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Herman Dalan  Eidissen,,Vemund Hus,"21/13,21/19",Herman Dalan  Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vetle Vinnes Bråten,,Amalie Lexander,"21/17,21/7",Vetle Vinnes Bråten,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Vetle Vinnes Bråten,,Vemund Hus,"21/8,21/17",Vetle Vinnes Bråten,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Brynjar Hus,,Brede Stenfeldt,"21/13,21/11",Brynjar Hus,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,,Herman Dalan  Eidissen,,Amalie Lexander,"21/10,21/10",Herman Dalan  Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Amalie Lexander,Linnea Holmedal,Mathushen Anton Ruseyn,Matthew Leiren,"26/24,21/19",Amalie Lexander,Linnea Holmedal
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Vetle Vinnes Bråten,Brede Stenfeldt,Mathushen Anton Ruseyn,Matthew Leiren,"21/14,21/8",Vetle Vinnes Bråten,Brede Stenfeldt
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Vetle Vinnes Bråten,Brede Stenfeldt,Amalie Lexander,Linnea Holmedal,"23/21,21/14",Vetle Vinnes Bråten,Brede Stenfeldt
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Linnea Holmedal,"21/16,21/13",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Matthew Leiren,,Nikol Hermansen,"21/9,21/18",Matthew Leiren,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Mathushen Anton Ruseyn,,Sindre Gjuvsland,"21/18,21/9",Mathushen Anton Ruseyn,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Mathushen Anton Ruseyn,"21/16,21/16",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Matthew Leiren,,Sindre Gjuvsland,"21/18,21/11",Matthew Leiren,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Nikol Hermansen,,Samuel Niroshan,"21/3,21/17",Nikol Hermansen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Matthew Leiren,"21/8,21/15",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Nikol Hermansen,"21/18,21/17",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Linnea Holmedal,,Samuel Niroshan,"21/11,21/13",Linnea Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Samuel Niroshan,,Sindre Gjuvsland,"21/18,21/19",Samuel Niroshan,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Linnea Holmedal,"21/16,21/13",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Matthew Leiren,,Nikol Hermansen,"21/9,21/18",Matthew Leiren,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Mathushen Anton Ruseyn,,Sindre Gjuvsland,"21/18,21/9",Mathushen Anton Ruseyn,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Mathushen Anton Ruseyn,"21/16,21/16",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Matthew Leiren,,Sindre Gjuvsland,"21/18,21/11",Matthew Leiren,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Nikol Hermansen,,Samuel Niroshan,"21/3,21/17",Nikol Hermansen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Matthew Leiren,"21/8,21/15",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Olav Dalan Eidissen,,Nikol Hermansen,"21/18,21/17",Olav Dalan Eidissen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Linnea Holmedal,,Samuel Niroshan,"21/11,21/13",Linnea Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,,Samuel Niroshan,,Sindre Gjuvsland,"21/18,21/19",Samuel Niroshan,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Adrian Storhaug,,Jonas Bergli Almås,"21/3,21/4",Adrian Storhaug,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Rafid Ishaq,,Joachim Flagtveit Johannessen,"21/6,21/1",Rafid Ishaq,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Thomas Barth,,Elias Øyen Selsaas,"21/10,21/9",Thomas Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Rafid Ishaq,,Adrian Storhaug,"21/18,21/13",Rafid Ishaq,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Andreas Holmedal,,Elias Øyen Selsaas,"21/11,21/7",Andreas Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Jørgen Vedaa,,Joachim Flagtveit Johannessen,"21/6,21/5",Jørgen Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Petter Berntsen,,Jonas Bergli Almås,"21/3,21/4",Petter Berntsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Thomas Barth,,Adrian Storhaug,"21/6,21/14",Thomas Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Jonas Bergli Almås,,Joachim Flagtveit Johannessen,"24/22,21/19",Jonas Bergli Almås,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Andreas Holmedal,,Adrian Storhaug,"21/19,21/15",Andreas Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/8,21/9",Elias Øyen Selsaas,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Adrian Storhaug,,Jonas Bergli Almås,"21/3,21/4",Adrian Storhaug,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Rafid Ishaq,,Joachim Flagtveit Johannessen,"21/6,21/1",Rafid Ishaq,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Thomas Barth,,Elias Øyen Selsaas,"21/10,21/9",Thomas Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Rafid Ishaq,,Adrian Storhaug,"21/18,21/13",Rafid Ishaq,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Andreas Holmedal,,Elias Øyen Selsaas,"21/11,21/7",Andreas Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Jørgen Vedaa,,Joachim Flagtveit Johannessen,"21/6,21/5",Jørgen Vedaa,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Petter Berntsen,,Jonas Bergli Almås,"21/3,21/4",Petter Berntsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Thomas Barth,,Adrian Storhaug,"21/6,21/14",Thomas Barth,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Jonas Bergli Almås,,Joachim Flagtveit Johannessen,"24/22,21/19",Jonas Bergli Almås,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Andreas Holmedal,,Adrian Storhaug,"21/19,21/15",Andreas Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/8,21/9",Elias Øyen Selsaas,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Elise  Holmedal,,Dina Høl Bugge,"21/18,21/11",Elise  Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Katja Botcharova Ellingsen,,Sanne Miodini Johannessen,"23/21,21/16",Katja Botcharova Ellingsen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Elise  Holmedal,,Katja Botcharova Ellingsen,"21/9,21/9",Elise  Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Sanne Miodini Johannessen,,Dobromila Franaszczuk,"21/16,21/17",Sanne Miodini Johannessen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Dina Høl Bugge,,Akija Anton Reginold,"21/13,21/14",Dina Høl Bugge,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Elise  Holmedal,,Sanne Miodini Johannessen,"21/9,21/13",Elise  Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Elise  Holmedal,,Dobromila Franaszczuk,"21/2,21/14",Elise  Holmedal,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,,Sanne Miodini Johannessen,,Akija Anton Reginold,"21/15,21/16",Sanne Miodini Johannessen,
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Simon Vedaa,Kristoffer Ulvang,Adrian Storhaug,Rafid Ishaq,"21/11,21/5",Simon Vedaa,Kristoffer Ulvang
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Andreas Holmedal,Thomas Barth,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/5,21/6",Andreas Holmedal,Thomas Barth
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Jørgen Vedaa,Elias Øyen Selsaas,Jonas Bergli Almås,Herman Dalan  Eidissen,"21/4,21/9",Jørgen Vedaa,Elias Øyen Selsaas
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Simon Vedaa,Kristoffer Ulvang,Jørgen Vedaa,Elias Øyen Selsaas,"21/9,21/10",Simon Vedaa,Kristoffer Ulvang
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Andreas Holmedal,Thomas Barth,Jonas Bergli Almås,Herman Dalan  Eidissen,"21/5,21/5",Andreas Holmedal,Thomas Barth
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Adrian Storhaug,Rafid Ishaq,Martin Moen,Jacob Mortensen,"21/3,21/6",Adrian Storhaug,Rafid Ishaq
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Simon Vedaa,Kristoffer Ulvang,Jonas Bergli Almås,Herman Dalan  Eidissen,"21/7,21/1",Simon Vedaa,Kristoffer Ulvang
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Katja Botcharova Ellingsen,Akija Anton Reginold,Martin Moen,Jacob Mortensen,"21/4,21/5",Katja Botcharova Ellingsen,Akija Anton Reginold
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Andreas Holmedal,Thomas Barth,Adrian Storhaug,Rafid Ishaq,"21/19,21/14",Andreas Holmedal,Thomas Barth
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Simon Vedaa,Kristoffer Ulvang,Andreas Holmedal,Thomas Barth,"21/7,21/14",Simon Vedaa,Kristoffer Ulvang
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Jonas Bergli Almås,Herman Dalan  Eidissen,Martin Moen,Jacob Mortensen,"21/11,21/11",Jonas Bergli Almås,Herman Dalan  Eidissen
-2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Jørgen Vedaa,Elias Øyen Selsaas,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/10,21/12",Jørgen Vedaa,Elias Øyen Selsaas
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,Herresingle,,Simen Lexander,,Terje Jacobsen,"21/13,21/12",Simen Lexander,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,Herresingle,,Petter Karlsen Wåltorp,,Terje Jacobsen,"21/17,10/21,21/17",Petter Karlsen Wåltorp,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,Herresingle,,Martin Haraldsen,,Terje Jacobsen,"16/21,21/13,21/12",Martin Haraldsen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN A,Herresingle,,Simen Lexander,,Petter Karlsen Wåltorp,"21/12,21/6",Simen Lexander,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Iver Rolvsjord,,Bharath Kumar Balasingam,"22/20,21/18",Iver Rolvsjord,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Iver Rolvsjord,,Dennis Andersen Moe,"21/18,10/21,22/20",Iver Rolvsjord,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/5,21/18",Bharath Kumar Balasingam,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Audun Christoffer Adolfson,,Henrik Gabrielsen Opsahl,"21/16,21/16",Audun Christoffer Adolfson,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Vilde Morvik Ekerhovd,,Audun Christoffer Adolfson,"23/21,21/19",Vilde Morvik Ekerhovd,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Bharath Kumar Balasingam,,Henrik Gabrielsen Opsahl,"21/10,21/14",Bharath Kumar Balasingam,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Vilde Morvik Ekerhovd,,Henrik Gabrielsen Opsahl,"21/13,18/21,21/14",Vilde Morvik Ekerhovd,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Bharath Kumar Balasingam,,Audun Christoffer Adolfson,"21/8,21/18",Bharath Kumar Balasingam,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Heine Økland Kolltveit,,Jack Oterhals,"21/18,16/21,21/17",Heine Økland Kolltveit,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Iver Rolvsjord,,Heine Økland Kolltveit,"21/16,18/21,21/19",Iver Rolvsjord,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Iver Rolvsjord,,Jack Oterhals,"21/16,21/10",Iver Rolvsjord,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Dennis Andersen Moe,,Bengt Drageset,"21/15,21/18",Dennis Andersen Moe,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Are Eidissen,,Bengt Drageset,"21/10,21/13",Are Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herresingle,,Dennis Andersen Moe,,Are Eidissen,"18/21,23/21,21/19",Dennis Andersen Moe,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Are Eidissen,Paul J. Høl,Jack Oterhals,Bengt Drageset,"21/9,15/21,21/13",Are Eidissen,Paul J. Høl
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Kumaran Dhakshan Moorthy,Nelson Thambiraj,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/17,21/18",Kumaran Dhakshan Moorthy,Nelson Thambiraj
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Are Eidissen,Paul J. Høl,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/11,28/26",Are Eidissen,Paul J. Høl
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Bharath Kumar Balasingam,Dennis Andersen Moe,Jack Oterhals,Bengt Drageset,"21/13,21/12",Bharath Kumar Balasingam,Dennis Andersen Moe
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Bharath Kumar Balasingam,Dennis Andersen Moe,Are Eidissen,Paul J. Høl,"16/21,21/15,21/18",Bharath Kumar Balasingam,Dennis Andersen Moe
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Kumaran Dhakshan Moorthy,Nelson Thambiraj,Jack Oterhals,Bengt Drageset,"21/15,21/17",Kumaran Dhakshan Moorthy,Nelson Thambiraj
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Kumaran Dhakshan Moorthy,Nelson Thambiraj,Are Eidissen,Paul J. Høl,"20/22,21/10,26/24",Kumaran Dhakshan Moorthy,Nelson Thambiraj
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Bharath Kumar Balasingam,Dennis Andersen Moe,"21/17,13/21,21/19",Heine Økland Kolltveit,Fredrik Vabø Helset
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Jack Oterhals,Bengt Drageset,"21/16,21/15",Heine Økland Kolltveit,Fredrik Vabø Helset
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Herredouble,Bharath Kumar Balasingam,Dennis Andersen Moe,Kumaran Dhakshan Moorthy,Nelson Thambiraj,"21/15,17/21,21/12",Bharath Kumar Balasingam,Dennis Andersen Moe
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Mariann Andreassen,Michael White,Aina Mogstad,Robert Eriksen,"21/11,21/13",Mariann Andreassen,Michael White
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Audun Christoffer Adolfson,Silje Lindseth,Elena Botcharova Ellingsen,Berent Barth,"21/13,21/17",Audun Christoffer Adolfson,Silje Lindseth
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Aina Mogstad,Robert Eriksen,Elena Botcharova Ellingsen,Berent Barth,"21/18,19/21,21/17",Aina Mogstad,Robert Eriksen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Bharath Kumar Balasingam,Victoria Økland,Mariann Andreassen,Michael White,"21/9,21/8",Bharath Kumar Balasingam,Victoria Økland
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Bharath Kumar Balasingam,Victoria Økland,Aina Mogstad,Robert Eriksen,"21/5,21/6",Bharath Kumar Balasingam,Victoria Økland
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Audun Christoffer Adolfson,Silje Lindseth,Mariann Andreassen,Michael White,"21/18,21/16",Audun Christoffer Adolfson,Silje Lindseth
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Audun Christoffer Adolfson,Silje Lindseth,Aina Mogstad,Robert Eriksen,"21/15,22/20",Audun Christoffer Adolfson,Silje Lindseth
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Bharath Kumar Balasingam,Victoria Økland,Elena Botcharova Ellingsen,Berent Barth,"21/6,21/9",Bharath Kumar Balasingam,Victoria Økland
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Mariann Andreassen,Michael White,Elena Botcharova Ellingsen,Berent Barth,"21/9,21/9",Mariann Andreassen,Michael White
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN B,Mixeddouble,Bharath Kumar Balasingam,Victoria Økland,Audun Christoffer Adolfson,Silje Lindseth,"21/8,21/7",Bharath Kumar Balasingam,Victoria Økland
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Simon Vedaa,,Øyvind Fjeld,"21/9,21/7",Simon Vedaa,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Øyvind Fjeld,,Robert Eriksen,"23/21,15/21,21/11",Øyvind Fjeld,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Simon Vedaa,,Arphan Bandhu,"21/13,21/16",Simon Vedaa,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Robert Eriksen,,Tore A. Arntzen,"21/19,21/18",Robert Eriksen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Robert Eriksen,,Harald Ness,"21/4,21/12",Robert Eriksen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Tore A. Arntzen,,Harald Ness,"21/12,21/17",Tore A. Arntzen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Øyvind Fjeld,,Rune Birkeland,"11/21,21/15,21/18",Øyvind Fjeld,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Øyvind Fjeld,,Michael White,"21/13,21/14",Øyvind Fjeld,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Rune Birkeland,,Michael White,"22/20,21/18",Rune Birkeland,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Simon Vedaa,,Kristoffer Hatlevik,"21/12,21/10",Simon Vedaa,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Simon Vedaa,,Håvard Haugen,"21/5,21/18",Simon Vedaa,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Kristoffer Hatlevik,,Håvard Haugen,"20/22,21/9,21/15",Kristoffer Hatlevik,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herresingle,,Arphan Bandhu,,Friederike Korn,"21/18,21/14",Arphan Bandhu,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Øyvind Fjeld,Håvard Haugen,Rune Bråten,Thomas Stenfeldt,"21/6,21/14",Øyvind Fjeld,Håvard Haugen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Kristoffer Hatlevik,Harald Ness,Berent Barth,Kennet Hellesund Ellingsen,"21/12,21/10",Kristoffer Hatlevik,Harald Ness
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Kristoffer Hatlevik,Harald Ness,Rune Bråten,Thomas Stenfeldt,"21/12,21/8",Kristoffer Hatlevik,Harald Ness
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Øyvind Fjeld,Håvard Haugen,Jørn Inge Bognøy,Erik Moe,"21/15,21/10",Øyvind Fjeld,Håvard Haugen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Jørn Inge Bognøy,Erik Moe,Rune Bråten,Thomas Stenfeldt,"21/11,21/8",Jørn Inge Bognøy,Erik Moe
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Øyvind Fjeld,Håvard Haugen,Berent Barth,Kennet Hellesund Ellingsen,"21/9,21/14",Øyvind Fjeld,Håvard Haugen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Berent Barth,Kennet Hellesund Ellingsen,Rune Bråten,Thomas Stenfeldt,"21/18,21/11",Berent Barth,Kennet Hellesund Ellingsen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Kristoffer Hatlevik,Harald Ness,Jørn Inge Bognøy,Erik Moe,"21/18,21/17",Kristoffer Hatlevik,Harald Ness
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Øyvind Fjeld,Håvard Haugen,Kristoffer Hatlevik,Harald Ness,"21/19,17/21,21/9",Øyvind Fjeld,Håvard Haugen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Herredouble,Jørn Inge Bognøy,Erik Moe,Berent Barth,Kennet Hellesund Ellingsen,"21/17,21/12",Jørn Inge Bognøy,Erik Moe
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Damedouble,Elena Botcharova Ellingsen,Aina Mogstad,Ariane Mueting,Anita Bui,"21/14,21/10",Elena Botcharova Ellingsen,Aina Mogstad
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Damedouble,Mariann Andreassen,Elise  Holmedal,Dina Høl Bugge,Liv Kristiane Bugge,"18/21,21/17,21/11",Mariann Andreassen,Elise  Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Damedouble,Mariann Andreassen,Elise  Holmedal,Ariane Mueting,Anita Bui,"21/5,21/7",Mariann Andreassen,Elise  Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Damedouble,Dina Høl Bugge,Liv Kristiane Bugge,Elena Botcharova Ellingsen,Aina Mogstad,"21/15,21/13",Dina Høl Bugge,Liv Kristiane Bugge
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Damedouble,Dina Høl Bugge,Liv Kristiane Bugge,Ariane Mueting,Anita Bui,"21/12,21/3",Dina Høl Bugge,Liv Kristiane Bugge
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN C,Damedouble,Mariann Andreassen,Elise  Holmedal,Elena Botcharova Ellingsen,Aina Mogstad,"21/8,21/12",Mariann Andreassen,Elise  Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,Herresingle,,Magnus Seilen,,Berent Barth,"21/4,21/16",Magnus Seilen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,Herresingle,,Magnus Seilen,,Elena Botcharova Ellingsen,"21/10,21/11",Magnus Seilen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,Herresingle,,Berent Barth,,Kennet Hellesund Ellingsen,"21/19,21/19",Berent Barth,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,Herresingle,,Magnus Seilen,,Benjamin Teigland,"21/14,21/18",Magnus Seilen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,Herresingle,,Berent Barth,,Randi Rolvsjord,"21/15,21/10",Berent Barth,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,SEN D,Herresingle,,Magnus Seilen,,Rolf Almås,"21/12,21/18",Magnus Seilen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,Damesingle,,Arathija Anton Reginold,,Maria Botcharova Ellingsen,"21/18,21/8",Arathija Anton Reginold,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,Damesingle,,Arathija Anton Reginold,,Athina Leiren,"21/10,21/17",Arathija Anton Reginold,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,Damesingle,,Akarija Anton Reginold,,Maria Botcharova Ellingsen,"21/7,21/9",Akarija Anton Reginold,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U11 A,Damesingle,,Akarija Anton Reginold,,Arathija Anton Reginold,"18/21,21/13,21/12",Akarija Anton Reginold,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Brynjar Hus,,Vetle Vinnes Bråten,"21/18,21/10",Brynjar Hus,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Vemund Hus,,Brede Stenfeldt,"21/19,21/19",Vemund Hus,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Jonathan Utne Madsøy,,Amalie Lexander,"21/8,21/16",Jonathan Utne Madsøy,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Brynjar Hus,,Herman Dalan  Eidissen,"21/19,21/11",Brynjar Hus,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Vemund Hus,,Jonathan Utne Madsøy,"21/13,21/4",Vemund Hus,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Brede Stenfeldt,,Vetle Vinnes Bråten,"21/17,21/16",Brede Stenfeldt,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Herman Dalan  Eidissen,,Vemund Hus,"21/13,21/19",Herman Dalan  Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Vetle Vinnes Bråten,,Amalie Lexander,"21/17,21/7",Vetle Vinnes Bråten,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Vetle Vinnes Bråten,,Vemund Hus,"21/8,21/17",Vetle Vinnes Bråten,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Brynjar Hus,,Brede Stenfeldt,"21/13,21/11",Brynjar Hus,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herresingle,,Herman Dalan  Eidissen,,Amalie Lexander,"21/10,21/10",Herman Dalan  Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herredouble,Amalie Lexander,Linnea Holmedal,Mathushen Anton Ruseyn,Matthew Leiren,"26/24,21/19",Amalie Lexander,Linnea Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herredouble,Vetle Vinnes Bråten,Brede Stenfeldt,Mathushen Anton Ruseyn,Matthew Leiren,"21/14,21/8",Vetle Vinnes Bråten,Brede Stenfeldt
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Herredouble,Vetle Vinnes Bråten,Brede Stenfeldt,Amalie Lexander,Linnea Holmedal,"23/21,21/14",Vetle Vinnes Bråten,Brede Stenfeldt
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Mixeddouble,Amalie Lexander,Brede Stenfeldt,Matthew Leiren,Arathija Anton Reginold,"21/19,21/14",Amalie Lexander,Brede Stenfeldt
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Mixeddouble,Andreas Holmedal,Linnea Holmedal,Akarija Anton Reginold,Mathushen Anton Ruseyn,"21/4,21/4",Andreas Holmedal,Linnea Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Mixeddouble,Amalie Lexander,Brede Stenfeldt,Akarija Anton Reginold,Mathushen Anton Ruseyn,"21/14,21/15",Amalie Lexander,Brede Stenfeldt
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Mixeddouble,Andreas Holmedal,Linnea Holmedal,Matthew Leiren,Arathija Anton Reginold,"21/5,21/6",Andreas Holmedal,Linnea Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Mixeddouble,Andreas Holmedal,Linnea Holmedal,Amalie Lexander,Brede Stenfeldt,"21/10,21/9",Andreas Holmedal,Linnea Holmedal
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 A,Mixeddouble,Akarija Anton Reginold,Mathushen Anton Ruseyn,Matthew Leiren,Arathija Anton Reginold,"21/19,21/15",Akarija Anton Reginold,Mathushen Anton Ruseyn
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Olav Dalan Eidissen,,Linnea Holmedal,"21/16,21/13",Olav Dalan Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Matthew Leiren,,Nikol Hermansen,"21/9,21/18",Matthew Leiren,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Mathushen Anton Ruseyn,,Sindre Gjuvsland,"21/18,21/9",Mathushen Anton Ruseyn,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Olav Dalan Eidissen,,Mathushen Anton Ruseyn,"21/16,21/16",Olav Dalan Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Matthew Leiren,,Sindre Gjuvsland,"21/18,21/11",Matthew Leiren,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Nikol Hermansen,,Samuel Niroshan,"21/3,21/17",Nikol Hermansen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Olav Dalan Eidissen,,Matthew Leiren,"21/8,21/15",Olav Dalan Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Olav Dalan Eidissen,,Nikol Hermansen,"21/18,21/17",Olav Dalan Eidissen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Linnea Holmedal,,Samuel Niroshan,"21/11,21/13",Linnea Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U13 B,Herresingle,,Samuel Niroshan,,Sindre Gjuvsland,"21/18,21/19",Samuel Niroshan,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Adrian Storhaug,,Jonas Bergli Almås,"21/3,21/4",Adrian Storhaug,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Rafid Ishaq,,Joachim Flagtveit Johannessen,"21/6,21/1",Rafid Ishaq,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Thomas Barth,,Elias Øyen Selsaas,"21/10,21/9",Thomas Barth,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Rafid Ishaq,,Adrian Storhaug,"21/18,21/13",Rafid Ishaq,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Andreas Holmedal,,Elias Øyen Selsaas,"21/11,21/7",Andreas Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Jørgen Vedaa,,Joachim Flagtveit Johannessen,"21/6,21/5",Jørgen Vedaa,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Petter Berntsen,,Jonas Bergli Almås,"21/3,21/4",Petter Berntsen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Thomas Barth,,Adrian Storhaug,"21/6,21/14",Thomas Barth,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Jonas Bergli Almås,,Joachim Flagtveit Johannessen,"24/22,21/19",Jonas Bergli Almås,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Andreas Holmedal,,Adrian Storhaug,"21/19,21/15",Andreas Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herresingle,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/8,21/9",Elias Øyen Selsaas,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Elise  Holmedal,,Dina Høl Bugge,"21/18,21/11",Elise  Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Katja Botcharova Ellingsen,,Sanne Miodini Johannessen,"23/21,21/16",Katja Botcharova Ellingsen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Elise  Holmedal,,Katja Botcharova Ellingsen,"21/9,21/9",Elise  Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Sanne Miodini Johannessen,,Dobromila Franaszczuk,"21/16,21/17",Sanne Miodini Johannessen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Dina Høl Bugge,,Akija Anton Reginold,"21/13,21/14",Dina Høl Bugge,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Elise  Holmedal,,Sanne Miodini Johannessen,"21/9,21/13",Elise  Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Elise  Holmedal,,Dobromila Franaszczuk,"21/2,21/14",Elise  Holmedal,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Damesingle,,Sanne Miodini Johannessen,,Akija Anton Reginold,"21/15,21/16",Sanne Miodini Johannessen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Simon Vedaa,Kristoffer Ulvang,Adrian Storhaug,Rafid Ishaq,"21/11,21/5",Simon Vedaa,Kristoffer Ulvang
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Andreas Holmedal,Thomas Barth,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/5,21/6",Andreas Holmedal,Thomas Barth
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Jørgen Vedaa,Elias Øyen Selsaas,Jonas Bergli Almås,Herman Dalan  Eidissen,"21/4,21/9",Jørgen Vedaa,Elias Øyen Selsaas
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Simon Vedaa,Kristoffer Ulvang,Jørgen Vedaa,Elias Øyen Selsaas,"21/9,21/10",Simon Vedaa,Kristoffer Ulvang
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Andreas Holmedal,Thomas Barth,Jonas Bergli Almås,Herman Dalan  Eidissen,"21/5,21/5",Andreas Holmedal,Thomas Barth
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Adrian Storhaug,Rafid Ishaq,Martin Moen,Jacob Mortensen,"21/3,21/6",Adrian Storhaug,Rafid Ishaq
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Simon Vedaa,Kristoffer Ulvang,Jonas Bergli Almås,Herman Dalan  Eidissen,"21/7,21/1",Simon Vedaa,Kristoffer Ulvang
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Katja Botcharova Ellingsen,Akija Anton Reginold,Martin Moen,Jacob Mortensen,"21/4,21/5",Katja Botcharova Ellingsen,Akija Anton Reginold
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Andreas Holmedal,Thomas Barth,Adrian Storhaug,Rafid Ishaq,"21/19,21/14",Andreas Holmedal,Thomas Barth
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Simon Vedaa,Kristoffer Ulvang,Andreas Holmedal,Thomas Barth,"21/7,21/14",Simon Vedaa,Kristoffer Ulvang
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Jonas Bergli Almås,Herman Dalan  Eidissen,Martin Moen,Jacob Mortensen,"21/11,21/11",Jonas Bergli Almås,Herman Dalan  Eidissen
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 A,Herredouble,Jørgen Vedaa,Elias Øyen Selsaas,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/10,21/12",Jørgen Vedaa,Elias Øyen Selsaas
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Herresingle,,Emil Mosti,,Martin Moen,"21/12,21/7",Emil Mosti,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Herresingle,,Martin Moen,,Magnus Norheim,"21/9,21/18",Martin Moen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Herresingle,,Emil Mosti,,Vegard Vinnes Bjørklund,"14/21,21/13,21/18",Emil Mosti,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Herresingle,,Vegard Vinnes Bjørklund,,Martin Moen,"21/9,21/5",Vegard Vinnes Bjørklund,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Herresingle,,Vegard Vinnes Bjørklund,,Magnus Norheim,"21/7,21/5",Vegard Vinnes Bjørklund,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Herresingle,,Emil Mosti,,Magnus Norheim,"21/7,21/5",Emil Mosti,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Damesingle,,Vilde Langhelle,,Natalie Bruvik,"21/7,21/2",Vilde Langhelle,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Damesingle,,Natalie Bruvik,,Hilde Vik Dale,"21/6,19/21,21/19",Natalie Bruvik,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U15 B,Damesingle,,Vilde Langhelle,,Hilde Vik Dale,"21/6,21/11",Vilde Langhelle,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 A,Damesingle,,Victoria Økland,,Mariann Andreassen,"21/12,21/9",Victoria Økland,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 A,Damesingle,,Victoria Økland,,Tuva Vinnes Bråten,"21/7,21/8",Victoria Økland,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 A,Damesingle,,Mariann Andreassen,,Tuva Vinnes Bråten,"21/19,21/9",Mariann Andreassen,
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Katja Botcharova Ellingsen,Rafid Ishaq,Akija Anton Reginold,Adrian Storhaug,"21/18,21/10",Katja Botcharova Ellingsen,Rafid Ishaq
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Thomas Barth,Dina Høl Bugge,Tuva Vinnes Bråten,Benjamin Teigland,"21/12,21/10",Thomas Barth,Dina Høl Bugge
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Akija Anton Reginold,Adrian Storhaug,Tuva Vinnes Bråten,Benjamin Teigland,"17/21,21/17,21/14",Akija Anton Reginold,Adrian Storhaug
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Elise  Holmedal,Simon Vedaa,Katja Botcharova Ellingsen,Rafid Ishaq,"21/14,21/13",Elise  Holmedal,Simon Vedaa
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Elise  Holmedal,Simon Vedaa,Akija Anton Reginold,Adrian Storhaug,"21/8,21/9",Elise  Holmedal,Simon Vedaa
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Thomas Barth,Dina Høl Bugge,Katja Botcharova Ellingsen,Rafid Ishaq,"16/21,21/16,21/16",Thomas Barth,Dina Høl Bugge
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Thomas Barth,Dina Høl Bugge,Akija Anton Reginold,Adrian Storhaug,"21/12,21/12",Thomas Barth,Dina Høl Bugge
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Elise  Holmedal,Simon Vedaa,Tuva Vinnes Bråten,Benjamin Teigland,"21/5,21/4",Elise  Holmedal,Simon Vedaa
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Katja Botcharova Ellingsen,Rafid Ishaq,Tuva Vinnes Bråten,Benjamin Teigland,"21/11,21/17",Katja Botcharova Ellingsen,Rafid Ishaq
+2016/2017,Bergen North Sea Cup 2016,08.10.2016,U17 B,Mixeddouble,Elise  Holmedal,Simon Vedaa,Thomas Barth,Dina Høl Bugge,"21/13,22/20",Elise  Holmedal,Simon Vedaa

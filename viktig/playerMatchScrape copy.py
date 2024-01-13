@@ -22,8 +22,10 @@ driver.get('https://badmintonportalen.no/NBF/Turnering/VisResultater/')  # Chang
 
 wait = WebDriverWait(driver, 10)
 
+print("Current Working Directory: ", os.getcwd())
+scraped_tournies = r'C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats\viktig\scraped_tournaments.csv'
 try:
-    with open('scraped_tournaments.csv', 'r', encoding='utf-8') as f:
+    with open(scraped_tournies, 'r', encoding='utf-8') as f:
         scraped_tournaments = [line.strip() for line in f.readlines()]
 except FileNotFoundError:
     scraped_tournaments = []
@@ -107,12 +109,12 @@ def scrape_tournament_details(formatted_tournament_name):
             print(f"No 'Alle kamper' button found for dropdown index {i}. Moving on to the next dropdown...")
             continue
 
-        tab_xpaths = ["//a[normalize-space()='Herresingle']",  # You might want to fix these
+        tab_xpaths = ["//a[normalize-space()='Herresingle']",
                       "//a[normalize-space()='Damesingle']",
                       "//a[normalize-space()='Herredouble']",
                       "//a[normalize-space()='Damedouble']",
                       "//a[normalize-space()='Mixeddouble']",
-                    "//a[normalize-space()='Suckisucki']"]
+                    "//a[normalize-space()='''''']"]
 
         for xpath in tab_xpaths:
             try:
@@ -123,7 +125,7 @@ def scrape_tournament_details(formatted_tournament_name):
             except (NoSuchElementException, TimeoutException):
                 continue
 
-    with open('scraped_tournaments.csv', 'a', encoding='utf-8') as f:
+    with open(scraped_tournies, 'a', encoding='utf-8') as f:
         unique_tournament_identifier = f"{formatted_tournament_name} - {current_season['text']}"
         scraped_tournaments.append(unique_tournament_identifier)
         f.write(f"{unique_tournament_identifier}\n")

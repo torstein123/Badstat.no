@@ -1,141 +1,75 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Ingalill Mikalsen,Fredrik Lian,Anne Berit Bergsmo,Lars Erik Karlsen,"21/10,26/24",Ingalill Mikalsen,Fredrik Lian
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Hilde Vatterholm,Roar Natvig,Ingalill Mikalsen,Fredrik Lian,"21/15,21/11",Hilde Vatterholm,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Anita Olsen,Trond Mære,Anne Berit Bergsmo,Lars Erik Karlsen,"12/21,26/24,21/12",Anita Olsen,Trond Mære
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Anita Olsen,Trond Mære,Hilde Vatterholm,Roar Natvig,"21/11,17/21,21/11",Anita Olsen,Trond Mære
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Anita Olsen,Trond Mære,Ingalill Mikalsen,Fredrik Lian,"21/18,21/19",Anita Olsen,Trond Mære
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Hilde Vatterholm,Roar Natvig,Anne Berit Bergsmo,Lars Erik Karlsen,"21/18,22/20",Hilde Vatterholm,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Helge Hansen,Geir Olsen,Oddbjørn Svinsås,Ivan Hegseth,"16/21,21/16,21/17",Helge Hansen,Geir Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anita Olsen,Hilde Vatterholm,Oddvar Mikalsen,Ingalill Mikalsen,"21/8,21/8",Anita Olsen,Hilde Vatterholm
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anita Olsen,Hilde Vatterholm,Helge Hansen,Geir Olsen,"21/14,21/13",Anita Olsen,Hilde Vatterholm
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Oddvar Mikalsen,Ingalill Mikalsen,"21/16,21/14",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Anita Olsen,Hilde Vatterholm,"21/11,21/13",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Oddbjørn Svinsås,Ivan Hegseth,Oddvar Mikalsen,Ingalill Mikalsen,"21/15,21/7",Oddbjørn Svinsås,Ivan Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Oddbjørn Svinsås,Ivan Hegseth,Anita Olsen,Hilde Vatterholm,"17/21,21/15,21/18",Oddbjørn Svinsås,Ivan Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Helge Hansen,Geir Olsen,"21/12,21/12",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Oddbjørn Svinsås,Ivan Hegseth,"21/6,21/8",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Oddvar Mikalsen,Ingalill Mikalsen,Helge Hansen,Geir Olsen,"21/17,21/16",Oddvar Mikalsen,Ingalill Mikalsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Helge Hansen,Geir Olsen,Oddbjørn Svinsås,Ivan Hegseth,"16/21,21/16,21/17",Helge Hansen,Geir Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anita Olsen,Hilde Vatterholm,Oddvar Mikalsen,Ingalill Mikalsen,"21/8,21/8",Anita Olsen,Hilde Vatterholm
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anita Olsen,Hilde Vatterholm,Helge Hansen,Geir Olsen,"21/14,21/13",Anita Olsen,Hilde Vatterholm
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Oddvar Mikalsen,Ingalill Mikalsen,"21/16,21/14",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Anita Olsen,Hilde Vatterholm,"21/11,21/13",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Oddbjørn Svinsås,Ivan Hegseth,Oddvar Mikalsen,Ingalill Mikalsen,"21/15,21/7",Oddbjørn Svinsås,Ivan Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Oddbjørn Svinsås,Ivan Hegseth,Anita Olsen,Hilde Vatterholm,"17/21,21/15,21/18",Oddbjørn Svinsås,Ivan Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Helge Hansen,Geir Olsen,"21/12,21/12",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Anders Grande,Svend Helge Hegseth,Oddbjørn Svinsås,Ivan Hegseth,"21/6,21/8",Anders Grande,Svend Helge Hegseth
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Oddvar Mikalsen,Ingalill Mikalsen,Helge Hansen,Geir Olsen,"21/17,21/16",Oddvar Mikalsen,Ingalill Mikalsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/16,21/14",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Andreas Futaker,Sindre Leander Johnsen,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/15,21/19",Andreas Futaker,Sindre Leander Johnsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Erik Winger,Jan Aage Nyborg,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/16,21/9",Erik Winger,Jan Aage Nyborg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Erik Winger,Jan Aage Nyborg,Andreas Futaker,Sindre Leander Johnsen,"21/18,21/12",Erik Winger,Jan Aage Nyborg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Andreas Futaker,Sindre Leander Johnsen,"21/16,21/18",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Tor Morten Aalberg,Kjell Kvarmesbakk,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"18/21,21/16,21/9",Tor Morten Aalberg,Kjell Kvarmesbakk
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Erik Winger,Jan Aage Nyborg,"21/13,21/15",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Tore André Helgemo,Sander Grandetrø,Kristin Wold,Jenny Aalberg,"21/4,21/6",Tore André Helgemo,Sander Grandetrø
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Kristin Wold,Jenny Aalberg,"21/11,21/9",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Tore André Helgemo,Sander Grandetrø,Elise Sand,Nina Stenkjær,"21/10,21/12",Tore André Helgemo,Sander Grandetrø
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Tore André Helgemo,Sander Grandetrø,"18/21,21/9,21/18",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Aleksander Berg,Kristoffer Brandsås Berg,Kristin Wold,Jenny Aalberg,"21/8,21/17",Aleksander Berg,Kristoffer Brandsås Berg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Aleksander Berg,Kristoffer Brandsås Berg,"21/19,22/20",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Aleksander Berg,Kristoffer Brandsås Berg,Tore André Helgemo,Sander Grandetrø,"18/21,21/17,21/10",Aleksander Berg,Kristoffer Brandsås Berg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Elise Sand,Nina Stenkjær,Kristin Wold,Jenny Aalberg,"21/14,21/18",Elise Sand,Nina Stenkjær
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Aleksander Berg,Kristoffer Brandsås Berg,Elise Sand,Nina Stenkjær,"21/10,21/12",Aleksander Berg,Kristoffer Brandsås Berg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Elise Sand,Nina Stenkjær,"21/9,21/12",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/16,21/14",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Andreas Futaker,Sindre Leander Johnsen,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/15,21/19",Andreas Futaker,Sindre Leander Johnsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Erik Winger,Jan Aage Nyborg,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/16,21/9",Erik Winger,Jan Aage Nyborg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Erik Winger,Jan Aage Nyborg,Andreas Futaker,Sindre Leander Johnsen,"21/18,21/12",Erik Winger,Jan Aage Nyborg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Andreas Futaker,Sindre Leander Johnsen,"21/16,21/18",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Tor Morten Aalberg,Kjell Kvarmesbakk,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"18/21,21/16,21/9",Tor Morten Aalberg,Kjell Kvarmesbakk
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Erik Winger,Jan Aage Nyborg,"21/13,21/15",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Tore André Helgemo,Sander Grandetrø,Kristin Wold,Jenny Aalberg,"21/4,21/6",Tore André Helgemo,Sander Grandetrø
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Kristin Wold,Jenny Aalberg,"21/11,21/9",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Tore André Helgemo,Sander Grandetrø,Elise Sand,Nina Stenkjær,"21/10,21/12",Tore André Helgemo,Sander Grandetrø
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Tore André Helgemo,Sander Grandetrø,"18/21,21/9,21/18",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Aleksander Berg,Kristoffer Brandsås Berg,Kristin Wold,Jenny Aalberg,"21/8,21/17",Aleksander Berg,Kristoffer Brandsås Berg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Aleksander Berg,Kristoffer Brandsås Berg,"21/19,22/20",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Aleksander Berg,Kristoffer Brandsås Berg,Tore André Helgemo,Sander Grandetrø,"18/21,21/17,21/10",Aleksander Berg,Kristoffer Brandsås Berg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Elise Sand,Nina Stenkjær,Kristin Wold,Jenny Aalberg,"21/14,21/18",Elise Sand,Nina Stenkjær
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Aleksander Berg,Kristoffer Brandsås Berg,Elise Sand,Nina Stenkjær,"21/10,21/12",Aleksander Berg,Kristoffer Brandsås Berg
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Marius Olsen,Jørgen Olsen,Elise Sand,Nina Stenkjær,"21/9,21/12",Marius Olsen,Jørgen Olsen
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
-2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Fredrik Lian,Robin Kruksve Krux,Erlend Kruksve,Vebjørn Rønne,"21/15,21/13",Fredrik Lian,Robin Kruksve Krux
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Trond Mære,Roar Natvig,Frode Wold,Odd Helge Gåsbakk,"21/10,21/14",Trond Mære,Roar Natvig
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Fredrik Lian,Robin Kruksve Krux,Lars Erik Karlsen,Steinar Fornes,"15/21,21/18,21/15",Fredrik Lian,Robin Kruksve Krux
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Trond Mære,Roar Natvig,Erlend Kruksve,Vebjørn Rønne,"21/11,21/14",Trond Mære,Roar Natvig
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Lars Erik Karlsen,Steinar Fornes,Frode Wold,Odd Helge Gåsbakk,"21/15,21/15",Lars Erik Karlsen,Steinar Fornes
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Trond Mære,Roar Natvig,Fredrik Lian,Robin Kruksve Krux,"21/16,18/21,21/12",Trond Mære,Roar Natvig
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Fredrik Lian,Robin Kruksve Krux,Frode Wold,Odd Helge Gåsbakk,"21/15,21/7",Fredrik Lian,Robin Kruksve Krux
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Lars Erik Karlsen,Steinar Fornes,Erlend Kruksve,Vebjørn Rønne,"21/18,21/12",Lars Erik Karlsen,Steinar Fornes
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Trond Mære,Roar Natvig,Lars Erik Karlsen,Steinar Fornes,"21/19,21/19",Trond Mære,Roar Natvig
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN A,Herredouble,Erlend Kruksve,Vebjørn Rønne,Frode Wold,Odd Helge Gåsbakk,"21/14,21/19",Erlend Kruksve,Vebjørn Rønne
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Mixeddouble,Ingalill Mikalsen,Fredrik Lian,Anne Berit Bergsmo,Lars Erik Karlsen,"21/10,26/24",Ingalill Mikalsen,Fredrik Lian
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Mixeddouble,Hilde Vatterholm,Roar Natvig,Ingalill Mikalsen,Fredrik Lian,"21/15,21/11",Hilde Vatterholm,Roar Natvig
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Mixeddouble,Anita Olsen,Trond Mære,Anne Berit Bergsmo,Lars Erik Karlsen,"12/21,26/24,21/12",Anita Olsen,Trond Mære
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Mixeddouble,Anita Olsen,Trond Mære,Hilde Vatterholm,Roar Natvig,"21/11,17/21,21/11",Anita Olsen,Trond Mære
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Mixeddouble,Anita Olsen,Trond Mære,Ingalill Mikalsen,Fredrik Lian,"21/18,21/19",Anita Olsen,Trond Mære
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN B,Mixeddouble,Hilde Vatterholm,Roar Natvig,Anne Berit Bergsmo,Lars Erik Karlsen,"21/18,22/20",Hilde Vatterholm,Roar Natvig
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Helge Hansen,Geir Olsen,Oddbjørn Svinsås,Ivan Hegseth,"16/21,21/16,21/17",Helge Hansen,Geir Olsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Anita Olsen,Hilde Vatterholm,Oddvar Mikalsen,Ingalill Mikalsen,"21/8,21/8",Anita Olsen,Hilde Vatterholm
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Anita Olsen,Hilde Vatterholm,Helge Hansen,Geir Olsen,"21/14,21/13",Anita Olsen,Hilde Vatterholm
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Oddvar Mikalsen,Ingalill Mikalsen,"21/16,21/14",Anders Grande,Svend Helge Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Anita Olsen,Hilde Vatterholm,"21/11,21/13",Anders Grande,Svend Helge Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Oddbjørn Svinsås,Ivan Hegseth,Oddvar Mikalsen,Ingalill Mikalsen,"21/15,21/7",Oddbjørn Svinsås,Ivan Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Oddbjørn Svinsås,Ivan Hegseth,Anita Olsen,Hilde Vatterholm,"17/21,21/15,21/18",Oddbjørn Svinsås,Ivan Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Helge Hansen,Geir Olsen,"21/12,21/12",Anders Grande,Svend Helge Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Oddbjørn Svinsås,Ivan Hegseth,"21/6,21/8",Anders Grande,Svend Helge Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Herredouble,Oddvar Mikalsen,Ingalill Mikalsen,Helge Hansen,Geir Olsen,"21/17,21/16",Oddvar Mikalsen,Ingalill Mikalsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Mixeddouble,Nina Stenkjær,Anders Grande,Frode Wold,Kristin Wold,"21/3,21/7",Nina Stenkjær,Anders Grande
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Mixeddouble,Elise Sand,Robin Kruksve Krux,Jenny Aalberg,Erlend Kruksve,"13/21,29/27,21/18",Elise Sand,Robin Kruksve Krux
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Mixeddouble,Elise Sand,Robin Kruksve Krux,Nina Stenkjær,Anders Grande,"21/19,21/16",Elise Sand,Robin Kruksve Krux
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Mixeddouble,Jenny Aalberg,Erlend Kruksve,Frode Wold,Kristin Wold,"21/9,21/10",Jenny Aalberg,Erlend Kruksve
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Mixeddouble,Nina Stenkjær,Anders Grande,Jenny Aalberg,Erlend Kruksve,"21/12,21/14",Nina Stenkjær,Anders Grande
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN C,Mixeddouble,Elise Sand,Robin Kruksve Krux,Frode Wold,Kristin Wold,"21/6,21/13",Elise Sand,Robin Kruksve Krux
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Marius Olsen,Jørgen Olsen,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/16,21/14",Marius Olsen,Jørgen Olsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Andreas Futaker,Sindre Leander Johnsen,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/15,21/19",Andreas Futaker,Sindre Leander Johnsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Erik Winger,Jan Aage Nyborg,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/16,21/9",Erik Winger,Jan Aage Nyborg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Erik Winger,Jan Aage Nyborg,Andreas Futaker,Sindre Leander Johnsen,"21/18,21/12",Erik Winger,Jan Aage Nyborg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Andreas Futaker,Sindre Leander Johnsen,"21/16,21/18",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Tor Morten Aalberg,Kjell Kvarmesbakk,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"18/21,21/16,21/9",Tor Morten Aalberg,Kjell Kvarmesbakk
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Erik Winger,Jan Aage Nyborg,"21/13,21/15",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Tore André Helgemo,Sander Grandetrø,Kristin Wold,Jenny Aalberg,"21/4,21/6",Tore André Helgemo,Sander Grandetrø
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Marius Olsen,Jørgen Olsen,Kristin Wold,Jenny Aalberg,"21/11,21/9",Marius Olsen,Jørgen Olsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Tore André Helgemo,Sander Grandetrø,Elise Sand,Nina Stenkjær,"21/10,21/12",Tore André Helgemo,Sander Grandetrø
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Marius Olsen,Jørgen Olsen,Tore André Helgemo,Sander Grandetrø,"18/21,21/9,21/18",Marius Olsen,Jørgen Olsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Aleksander Berg,Kristoffer Brandsås Berg,Kristin Wold,Jenny Aalberg,"21/8,21/17",Aleksander Berg,Kristoffer Brandsås Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Marius Olsen,Jørgen Olsen,Aleksander Berg,Kristoffer Brandsås Berg,"21/19,22/20",Marius Olsen,Jørgen Olsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Aleksander Berg,Kristoffer Brandsås Berg,Tore André Helgemo,Sander Grandetrø,"18/21,21/17,21/10",Aleksander Berg,Kristoffer Brandsås Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Elise Sand,Nina Stenkjær,Kristin Wold,Jenny Aalberg,"21/14,21/18",Elise Sand,Nina Stenkjær
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Aleksander Berg,Kristoffer Brandsås Berg,Elise Sand,Nina Stenkjær,"21/10,21/12",Aleksander Berg,Kristoffer Brandsås Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Herredouble,Marius Olsen,Jørgen Olsen,Elise Sand,Nina Stenkjær,"21/9,21/12",Marius Olsen,Jørgen Olsen
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Erik Winger,Helene Winger,Tore André Helgemo,Caroline Solemsløkk Helgemo,"15/21,21/14,21/12",Erik Winger,Helene Winger
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Nordis Østerås Sandberg,Aleksander Berg,Erik Winger,Helene Winger,"21/10,21/13",Nordis Østerås Sandberg,Aleksander Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Svend Helge Hegseth,Gunn Anita Husby Hegseth,Julie Kristin Vatterholm,Kristoffer Brandsås Berg,"21/18,19/21,21/19",Svend Helge Hegseth,Gunn Anita Husby Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Nordis Østerås Sandberg,Aleksander Berg,Julie Kristin Vatterholm,Kristoffer Brandsås Berg,"21/15,21/16",Nordis Østerås Sandberg,Aleksander Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Nordis Østerås Sandberg,Aleksander Berg,Svend Helge Hegseth,Gunn Anita Husby Hegseth,"21/19,21/11",Nordis Østerås Sandberg,Aleksander Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Svend Helge Hegseth,Gunn Anita Husby Hegseth,Tore André Helgemo,Caroline Solemsløkk Helgemo,"21/14,21/14",Svend Helge Hegseth,Gunn Anita Husby Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Julie Kristin Vatterholm,Kristoffer Brandsås Berg,Tore André Helgemo,Caroline Solemsløkk Helgemo,"21/7,21/14",Julie Kristin Vatterholm,Kristoffer Brandsås Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Nordis Østerås Sandberg,Aleksander Berg,Tore André Helgemo,Caroline Solemsløkk Helgemo,"21/14,21/12",Nordis Østerås Sandberg,Aleksander Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Julie Kristin Vatterholm,Kristoffer Brandsås Berg,Erik Winger,Helene Winger,"21/9,21/13",Julie Kristin Vatterholm,Kristoffer Brandsås Berg
+2014/2015,Verdal Øradobbelen,13.09.2014,SEN D,Mixeddouble,Svend Helge Hegseth,Gunn Anita Husby Hegseth,Erik Winger,Helene Winger,"21/15,24/26,21/16",Svend Helge Hegseth,Gunn Anita Husby Hegseth
+2014/2015,Verdal Øradobbelen,13.09.2014,U13 A,Herredouble,Øystein Heimdal,Kevin Stenkjær,Håkon Rønne,Martin Stenkjær,"21/9,21/5",Øystein Heimdal,Kevin Stenkjær
+2014/2015,Verdal Øradobbelen,13.09.2014,U13 A,Herredouble,Øystein Heimdal,Kevin Stenkjær,Sander Hegseth,Kasper Hegseth Nordland,"21/14,21/7",Øystein Heimdal,Kevin Stenkjær
+2014/2015,Verdal Øradobbelen,13.09.2014,U13 A,Herredouble,Håkon Rønne,Martin Stenkjær,Sander Hegseth,Kasper Hegseth Nordland,"21/17,21/17",Håkon Rønne,Martin Stenkjær
+2014/2015,Verdal Øradobbelen,13.09.2014,U15 A,Herredouble,Sigurd Lorvik,Joakim Aurstad Rennan,Caroline Solemsløkk Helgemo,Helene Winger,"21/7,21/12",Sigurd Lorvik,Joakim Aurstad Rennan
+2014/2015,Verdal Øradobbelen,13.09.2014,U15 A,Herredouble,Rikke Grongstad,Thelma Lovise Flaat-Gåsbakk,Caroline Solemsløkk Helgemo,Helene Winger,"21/14,21/12",Rikke Grongstad,Thelma Lovise Flaat-Gåsbakk
+2014/2015,Verdal Øradobbelen,13.09.2014,U15 A,Herredouble,Sigurd Lorvik,Joakim Aurstad Rennan,Ingrid Gåsbakk,Julie Holter,"22/20,21/17",Sigurd Lorvik,Joakim Aurstad Rennan
+2014/2015,Verdal Øradobbelen,13.09.2014,U15 A,Herredouble,Ingrid Gåsbakk,Julie Holter,Rikke Grongstad,Thelma Lovise Flaat-Gåsbakk,"23/21,21/16",Ingrid Gåsbakk,Julie Holter
+2014/2015,Verdal Øradobbelen,13.09.2014,U15 A,Herredouble,Sigurd Lorvik,Joakim Aurstad Rennan,Rikke Grongstad,Thelma Lovise Flaat-Gåsbakk,"21/13,21/17",Sigurd Lorvik,Joakim Aurstad Rennan
+2014/2015,Verdal Øradobbelen,13.09.2014,U15 A,Herredouble,Ingrid Gåsbakk,Julie Holter,Caroline Solemsløkk Helgemo,Helene Winger,"21/9,21/11",Ingrid Gåsbakk,Julie Holter
+2014/2015,Verdal Øradobbelen,13.09.2014,U17 A,Mixeddouble,Rikke Grongstad,Andreas Futaker,Ingrid Gåsbakk,Joakim Aurstad Rennan,"15/21,21/16,21/19",Rikke Grongstad,Andreas Futaker
+2014/2015,Verdal Øradobbelen,13.09.2014,U17 A,Mixeddouble,Ingrid Gåsbakk,Joakim Aurstad Rennan,Thelma Lovise Flaat-Gåsbakk,Sigurd Lorvik,"22/24,21/7,22/20",Ingrid Gåsbakk,Joakim Aurstad Rennan
+2014/2015,Verdal Øradobbelen,13.09.2014,U17 A,Mixeddouble,Julie Holter,Jonas J Grande,Rikke Grongstad,Andreas Futaker,"12/21,23/21,21/18",Julie Holter,Jonas J Grande
+2014/2015,Verdal Øradobbelen,13.09.2014,U17 A,Mixeddouble,Thelma Lovise Flaat-Gåsbakk,Sigurd Lorvik,Rikke Grongstad,Andreas Futaker,"21/7,21/16",Thelma Lovise Flaat-Gåsbakk,Sigurd Lorvik
+2014/2015,Verdal Øradobbelen,13.09.2014,U17 A,Mixeddouble,Ingrid Gåsbakk,Joakim Aurstad Rennan,Julie Holter,Jonas J Grande,"21/19,21/13",Ingrid Gåsbakk,Joakim Aurstad Rennan
+2014/2015,Verdal Øradobbelen,13.09.2014,U17 A,Mixeddouble,Julie Holter,Jonas J Grande,Thelma Lovise Flaat-Gåsbakk,Sigurd Lorvik,"21/18,21/16",Julie Holter,Jonas J Grande

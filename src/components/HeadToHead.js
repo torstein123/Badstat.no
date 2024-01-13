@@ -81,32 +81,36 @@ function HeadToHead() {
                 <table>
                     <thead>
                         <tr>
-                            <th>Dato</th>
+                            <th>Sesong</th>
                             <th>Turnering</th>
-                            <th>Vinner</th>
-                            <th></th>
-                            <th>Taper</th>
+                            <th>Klasse</th>
+                            <th>Kategori</th>
+                            <th>Spiller</th>
                             <th>Resultat</th>
+                            <th>Spiller</th>
                         </tr>
                     </thead>
                     <tbody>
                         {headToHeadMatches.map((match, index) => (
                             <tr key={index} style={{ backgroundColor: "transparent" }}>
-                                <td>{match.Date}</td>
-                                <td>{match["Tournament Name"]}</td>
-                                <td align="right">
-                                        {match["Team 1 Player 1"] && match["Team 1 Player 1"] !== "NaN" ? match["Team 1 Player 1"] : ""}
-                                        {match["Team 1 Player 2"] && match["Team 1 Player 2"] !== "NaN" ? `, ${match["Team 1 Player 2"]}` : ""}
-                                </td>
-                                <td align="center">-</td>
-                                <td>
-                                    {match["Team 2 Player 1"] && match["Team 2 Player 1"] !== "NaN" ? match["Team 2 Player 1"] : ""}
-                                    {match["Team 2 Player 2"] && match["Team 2 Player 2"] !== "NaN" ? `, ${match["Team 2 Player 2"]}` : ""}
-                                </td>
-                                <td><span className="score">{match.Result}</span></td>
+                            <td>{match["Season"]}</td>
+                            <td>{match["Tournament Name"]}</td>
+                            <td>{match["Tournament Class"]}</td>
+                            <td>{match["Match"]}</td>
+                            <td align="right">
+                                {match["Team 1 Player 1"]}
+                                {match["Team 1 Player 2"] && `, ${match["Team 1 Player 2"]}`}
+                            </td>
+                            <td><span className="score">{match.Result}</span></td>
+                            <td>
+                                {match["Team 2 Player 1"]}
+                                {match["Team 2 Player 2"] && `, ${match["Team 2 Player 2"]}`}
+                            </td>
+                            
                             </tr>
                         ))}
-                    </tbody>
+                        </tbody>
+
                 </table>
             </div>
             

@@ -1,691 +1,376 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Tobias Rolf,Vegar Næss,Marit Ulmo,Marius Sørby,"21/13,21/19",Tobias Rolf,Vegar Næss
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Tobias Rolf,Vegar Næss,"21/14,21/12",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Marit Ulmo,Marius Sørby,"21/15,21/18",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Nauman Majid,Hans Andreas Karlsen,"21/18,21/17",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Gjermund Hagen,Joel Collard,"21/15,21/13",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Gjermund Hagen,Joel Collard,"23/21,21/16",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Carl Christian Møller Jacobsen,Tam Huynh,"21/9,21/12",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Møller Jacobsen,Tam Huynh,Kristoffer Robin Olsen,Christian Blaurock,"21/11,17/21,21/19",Carl Christian Møller Jacobsen,Tam Huynh
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Kristoffer Robin Olsen,Christian Blaurock,"21/16,21/11",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Stian Størseth,Helge Eliassen,Robert Malo,Torben Thomsen,"21/14,21/15",Stian Størseth,Helge Eliassen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Robert Malo,Torben Thomsen,"21/8,21/12",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Stian Størseth,Helge Eliassen,"23/21,21/14",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Tobias Rolf,Vegar Næss,Marit Ulmo,Marius Sørby,"21/13,21/19",Tobias Rolf,Vegar Næss
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Tobias Rolf,Vegar Næss,"21/14,21/12",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Marit Ulmo,Marius Sørby,"21/15,21/18",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Nauman Majid,Hans Andreas Karlsen,"21/18,21/17",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Gjermund Hagen,Joel Collard,"21/15,21/13",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Gjermund Hagen,Joel Collard,"23/21,21/16",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Carl Christian Møller Jacobsen,Tam Huynh,"21/9,21/12",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Møller Jacobsen,Tam Huynh,Kristoffer Robin Olsen,Christian Blaurock,"21/11,17/21,21/19",Carl Christian Møller Jacobsen,Tam Huynh
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Kristoffer Robin Olsen,Christian Blaurock,"21/16,21/11",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Stian Størseth,Helge Eliassen,Robert Malo,Torben Thomsen,"21/14,21/15",Stian Størseth,Helge Eliassen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Robert Malo,Torben Thomsen,"21/8,21/12",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Stian Størseth,Helge Eliassen,"23/21,21/14",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Mikko Ojala,"21/9,21/15",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Jan Malamant,"21/13,21/17",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Christian Blaurock,"21/16,21/19",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Frank Heggen,"21/10,21/14",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Swadesh Patra,"21/15,21/19",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,John Daae,,Heidi Larsson Kleveland,"17/21,21/15,21/15",John Daae,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jan Malamant,,John Daae,"21/17,21/9",Jan Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jan Malamant,,Heidi Larsson Kleveland,"21/15,21/16",Jan Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Frank Heggen,,Stian Størseth,"21/18,22/20",Frank Heggen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Stian Størseth,,Mansoor Hasan,"21/14,21/14",Stian Størseth,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Frank Heggen,,Mansoor Hasan,"21/17,22/20",Frank Heggen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Dirk Olivie,,Marit Lillelien,"21/15,21/14",Dirk Olivie,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Dirk Olivie,"21/12,21/12",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Marit Lillelien,"21/4,21/6",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jeanette Svendsen,,Helge Eliassen,"21/14,14/21,21/15",Jeanette Svendsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Jeanette Svendsen,"21/14,21/17",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Helge Eliassen,"21/16,21/7",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jon Eirik Gulli,,Espen Ditmansen,"21/14,21/15",Jon Eirik Gulli,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Swadesh Patra,,Jon Eirik Gulli,"21/18,21/18",Swadesh Patra,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Swadesh Patra,,Espen Ditmansen,"21/8,21/19",Swadesh Patra,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Christian Blaurock,,Marius Sørby,"19/21,21/17,21/15",Christian Blaurock,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Paul Witt,,Marius Sørby,"21/16,21/15",Paul Witt,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Christian Blaurock,,Paul Witt,"24/22,16/21,21/19",Christian Blaurock,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Mikko Ojala,"21/9,21/15",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Jan Malamant,"21/13,21/17",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Christian Blaurock,"21/16,21/19",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Frank Heggen,"21/10,21/14",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Swadesh Patra,"21/15,21/19",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,John Daae,,Heidi Larsson Kleveland,"17/21,21/15,21/15",John Daae,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jan Malamant,,John Daae,"21/17,21/9",Jan Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jan Malamant,,Heidi Larsson Kleveland,"21/15,21/16",Jan Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Frank Heggen,,Stian Størseth,"21/18,22/20",Frank Heggen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Stian Størseth,,Mansoor Hasan,"21/14,21/14",Stian Størseth,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Frank Heggen,,Mansoor Hasan,"21/17,22/20",Frank Heggen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Dirk Olivie,,Marit Lillelien,"21/15,21/14",Dirk Olivie,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Dirk Olivie,"21/12,21/12",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Marit Ulmo,,Marit Lillelien,"21/4,21/6",Marit Ulmo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jeanette Svendsen,,Helge Eliassen,"21/14,14/21,21/15",Jeanette Svendsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Jeanette Svendsen,"21/14,21/17",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Mikko Ojala,,Helge Eliassen,"21/16,21/7",Mikko Ojala,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Jon Eirik Gulli,,Espen Ditmansen,"21/14,21/15",Jon Eirik Gulli,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Swadesh Patra,,Jon Eirik Gulli,"21/18,21/18",Swadesh Patra,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Swadesh Patra,,Espen Ditmansen,"21/8,21/19",Swadesh Patra,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Christian Blaurock,,Marius Sørby,"19/21,21/17,21/15",Christian Blaurock,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Paul Witt,,Marius Sørby,"21/16,21/15",Paul Witt,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,,Christian Blaurock,,Paul Witt,"24/22,16/21,21/19",Christian Blaurock,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Swadesh Patra,Ke Xie,Daniel Bjørklund,Jan Malamant,"21/15,21/14",Swadesh Patra,Ke Xie
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Swadesh Patra,Ke Xie,Jon Eirik Gulli,Lorentz Kristiansen,"21/17,21/13",Swadesh Patra,Ke Xie
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Mansoor Hasan,Mikko Ojala,Paul Witt,Marit Lillelien,"21/16,15/21,21/9",Mansoor Hasan,Mikko Ojala
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Paul Witt,Marit Lillelien,Jon Eirik Gulli,Lorentz Kristiansen,"21/19,21/16",Paul Witt,Marit Lillelien
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Swadesh Patra,Ke Xie,Mansoor Hasan,Mikko Ojala,"21/19,15/21,21/15",Swadesh Patra,Ke Xie
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Swadesh Patra,Ke Xie,Paul Witt,Marit Lillelien,"21/16,21/13",Swadesh Patra,Ke Xie
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Mansoor Hasan,Mikko Ojala,Jon Eirik Gulli,Lorentz Kristiansen,"21/18,21/12",Mansoor Hasan,Mikko Ojala
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Daniel Bjørklund,Jan Malamant,Jeanette Svendsen,Paula Szalai,"21/11,21/19",Daniel Bjørklund,Jan Malamant
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,John Daae,Frank Heggen,Benny Hall,Jens Roy Kristiansen,"21/18,21/17",John Daae,Frank Heggen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Jeanette Svendsen,Paula Szalai,Benny Hall,Jens Roy Kristiansen,"21/19,14/21,21/19",Jeanette Svendsen,Paula Szalai
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Daniel Bjørklund,Jan Malamant,John Daae,Frank Heggen,"14/21,21/10,21/14",Daniel Bjørklund,Jan Malamant
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,John Daae,Frank Heggen,Jeanette Svendsen,Paula Szalai,"21/18,21/17",John Daae,Frank Heggen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Xijiang Yu,"21/19,21/10",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Per Helge Bergan,"21/16,21/19",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Lorentz Kristiansen,"21/14,21/13",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Magnus Kåsa Minde,"21/19,29/27",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Knut Hellum,"21/15,21/16",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Roman Malamant,"18/21,21/11,21/14",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Jan Espen Sørsdal,"21/17,21/18",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Erik Langeland,"21/18,21/13",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Jon Henning Bergane,"21/15,21/19",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Benny Hall,"19/21,21/19,21/18",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Tobias Foyn Wahlqvist,"21/14,21/14",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Benny Hall,,Tobias Foyn Wahlqvist,"21/8,21/16",Benny Hall,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Magnus Kåsa Minde,,Mathias Foyn Wahlqvist,"21/5,21/7",Magnus Kåsa Minde,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Magnus Kåsa Minde,,Frode Olsen,"21/17,21/11",Magnus Kåsa Minde,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Frode Olsen,,Mathias Foyn Wahlqvist,"21/6,21/12",Frode Olsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Tommy Norheim,,Kristin Thømt,"21/10,20/22,21/13",Tommy Norheim,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Knut Hellum,,Kristin Thømt,"13/21,22/20,21/15",Knut Hellum,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Knut Hellum,,Tommy Norheim,"25/23,21/9",Knut Hellum,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jon Henning Bergane,,Arild Moen,"21/15,21/10",Jon Henning Bergane,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jon Henning Bergane,,Kåre Wahlqvist,"21/9,21/15",Jon Henning Bergane,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Arild Moen,,Kåre Wahlqvist,"22/20,21/10",Arild Moen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Jakob Nygaard Johannessen,"21/16,21/4",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Atle Holte,"21/15,21/7",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Atle Holte,,Jakob Nygaard Johannessen,"15/21,21/6,21/17",Atle Holte,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andre Gulliksen,,Espen Kaale,"21/15,21/15",Andre Gulliksen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Espen Kaale,"21/15,21/12",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Andre Gulliksen,"21/14,23/21",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Erik Langeland,,Stian Sveberg,"21/10,21/13",Erik Langeland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Erik Langeland,,Lyder Janøy,"21/17,21/11",Erik Langeland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Stian Sveberg,,Lyder Janøy,"21/16,21/16",Stian Sveberg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Bengt Pedersen,,Karoline Lerengen,"21/9,21/17",Bengt Pedersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Roman Malamant,,Bengt Pedersen,"22/20,21/19",Roman Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Roman Malamant,,Karoline Lerengen,"21/16,21/15",Roman Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Jan Sørgjerd,"18/21,21/15,21/17",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Bengt Holte,,Jonas Aas,"21/10,21/12",Bengt Holte,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Bengt Holte,,Jan Sørgjerd,"21/18,21/12",Bengt Holte,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Jonas Aas,"21/10,21/11",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jan Sørgjerd,,Jonas Aas,"21/13,21/3",Jan Sørgjerd,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Bengt Holte,"21/17,20/22,24/22",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jan Espen Sørsdal,,Niklas Wohlenberg,"21/18,21/16",Jan Espen Sørsdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jan Espen Sørsdal,,Daniel Bjørklund,"19/21,24/22,21/17",Jan Espen Sørsdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Daniel Bjørklund,,Niklas Wohlenberg,"21/17,21/8",Daniel Bjørklund,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Xijiang Yu,"21/19,21/10",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Per Helge Bergan,"21/16,21/19",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Lorentz Kristiansen,"21/14,21/13",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Magnus Kåsa Minde,"21/19,29/27",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Knut Hellum,"21/15,21/16",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Roman Malamant,"18/21,21/11,21/14",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Jan Espen Sørsdal,"21/17,21/18",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Erik Langeland,"21/18,21/13",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Jon Henning Bergane,"21/15,21/19",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Benny Hall,"19/21,21/19,21/18",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Xijiang Yu,,Tobias Foyn Wahlqvist,"21/14,21/14",Xijiang Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Benny Hall,,Tobias Foyn Wahlqvist,"21/8,21/16",Benny Hall,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Magnus Kåsa Minde,,Mathias Foyn Wahlqvist,"21/5,21/7",Magnus Kåsa Minde,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Magnus Kåsa Minde,,Frode Olsen,"21/17,21/11",Magnus Kåsa Minde,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Frode Olsen,,Mathias Foyn Wahlqvist,"21/6,21/12",Frode Olsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Tommy Norheim,,Kristin Thømt,"21/10,20/22,21/13",Tommy Norheim,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Knut Hellum,,Kristin Thømt,"13/21,22/20,21/15",Knut Hellum,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Knut Hellum,,Tommy Norheim,"25/23,21/9",Knut Hellum,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jon Henning Bergane,,Arild Moen,"21/15,21/10",Jon Henning Bergane,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jon Henning Bergane,,Kåre Wahlqvist,"21/9,21/15",Jon Henning Bergane,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Arild Moen,,Kåre Wahlqvist,"22/20,21/10",Arild Moen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Jakob Nygaard Johannessen,"21/16,21/4",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Per Helge Bergan,,Atle Holte,"21/15,21/7",Per Helge Bergan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Atle Holte,,Jakob Nygaard Johannessen,"15/21,21/6,21/17",Atle Holte,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andre Gulliksen,,Espen Kaale,"21/15,21/15",Andre Gulliksen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Espen Kaale,"21/15,21/12",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Andreas Møyland,,Andre Gulliksen,"21/14,23/21",Andreas Møyland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Erik Langeland,,Stian Sveberg,"21/10,21/13",Erik Langeland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Erik Langeland,,Lyder Janøy,"21/17,21/11",Erik Langeland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Stian Sveberg,,Lyder Janøy,"21/16,21/16",Stian Sveberg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Bengt Pedersen,,Karoline Lerengen,"21/9,21/17",Bengt Pedersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Roman Malamant,,Bengt Pedersen,"22/20,21/19",Roman Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Roman Malamant,,Karoline Lerengen,"21/16,21/15",Roman Malamant,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Jan Sørgjerd,"18/21,21/15,21/17",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Bengt Holte,,Jonas Aas,"21/10,21/12",Bengt Holte,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Bengt Holte,,Jan Sørgjerd,"21/18,21/12",Bengt Holte,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Jonas Aas,"21/10,21/11",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jan Sørgjerd,,Jonas Aas,"21/13,21/3",Jan Sørgjerd,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Lorentz Kristiansen,,Bengt Holte,"21/17,20/22,24/22",Lorentz Kristiansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jan Espen Sørsdal,,Niklas Wohlenberg,"21/18,21/16",Jan Espen Sørsdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Jan Espen Sørsdal,,Daniel Bjørklund,"19/21,24/22,21/17",Jan Espen Sørsdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,,Daniel Bjørklund,,Niklas Wohlenberg,"21/17,21/8",Daniel Bjørklund,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Andre Gulliksen,Stefan Lilleås,Per Helge Bergan,Erik Langeland,"13/21,21/6,21/16",Andre Gulliksen,Stefan Lilleås
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Andre Gulliksen,Stefan Lilleås,Andreas Møyland,Claus Thorsen,"21/15,21/10",Andre Gulliksen,Stefan Lilleås
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Per Helge Bergan,Erik Langeland,Bengt Pedersen,Roman Malamant,"21/17,21/18",Per Helge Bergan,Erik Langeland
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Per Helge Bergan,Erik Langeland,Deepika Mital,Kristen Grødal,"15/21,27/25,21/15",Per Helge Bergan,Erik Langeland
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Henning Skaug,Knut Hellum,Kåre Wahlqvist,Mathias Foyn Wahlqvist,"21/10,20/22,21/7",Henning Skaug,Knut Hellum
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Andre Gulliksen,Stefan Lilleås,Henning Skaug,Knut Hellum,"21/17,21/12",Andre Gulliksen,Stefan Lilleås
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Andre Gulliksen,Stefan Lilleås,Kåre Wahlqvist,Mathias Foyn Wahlqvist,"21/11,21/12",Andre Gulliksen,Stefan Lilleås
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Andreas Møyland,Claus Thorsen,Magnus Kåsa Minde,Niklas Wohlenberg,"21/11,21/17",Andreas Møyland,Claus Thorsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Andreas Møyland,Claus Thorsen,Ole Magnus Gade Wilhelmsen,Tobias Foyn Wahlqvist,"21/12,21/16",Andreas Møyland,Claus Thorsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Magnus Kåsa Minde,Niklas Wohlenberg,Ole Magnus Gade Wilhelmsen,Tobias Foyn Wahlqvist,"20/22,21/16,21/16",Magnus Kåsa Minde,Niklas Wohlenberg
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Deepika Mital,Kristen Grødal,Bengt Holte,Atle Holte,"21/14,21/14",Deepika Mital,Kristen Grødal
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Bengt Holte,Atle Holte,Anne Kristiansen,Karoline Lerengen,"13/21,21/19,21/16",Bengt Holte,Atle Holte
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Deepika Mital,Kristen Grødal,Anne Kristiansen,Karoline Lerengen,"21/19,18/21,21/15",Deepika Mital,Kristen Grødal
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Per Helge Bergan,Erik Langeland,Anne Skien,Mei Yang,"21/13,21/12",Per Helge Bergan,Erik Langeland
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Per Helge Bergan,Erik Langeland,Jan Sørgjerd,Kristin Thømt,"12/21,21/11,21/16",Per Helge Bergan,Erik Langeland
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Jan Sørgjerd,Kristin Thømt,Anne Skien,Mei Yang,"21/9,21/15",Jan Sørgjerd,Kristin Thømt
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Bengt Pedersen,Roman Malamant,Tommy Norheim,Jan Espen Sørsdal,"22/20,19/21,21/19",Bengt Pedersen,Roman Malamant
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Bengt Pedersen,Roman Malamant,Arild Moen,Monica Fuglesang,"21/9,21/14",Bengt Pedersen,Roman Malamant
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Tommy Norheim,Jan Espen Sørsdal,Arild Moen,Monica Fuglesang,"21/9,21/8",Tommy Norheim,Jan Espen Sørsdal
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Jørgen Thorp,"21/14,21/12",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Erik T. Rødningsby,"21/16,18/21,21/18",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Erik T. Rødningsby,,Jørgen Thorp,"21/19,21/19",Erik T. Rødningsby,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Arnar Thordarson,,Svein Brenna,"21/14,22/20",Arnar Thordarson,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Arnar Thordarson,"21/15,21/16",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Svein Brenna,"21/12,21/12",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Håvard Vold,,Benny Clausen,"21/11,21/13",Håvard Vold,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Jørgen Thorp,,Håvard Vold,"21/19,21/17",Jørgen Thorp,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Jørgen Thorp,,Benny Clausen,"21/18,21/17",Jørgen Thorp,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Erik T. Rødningsby,,Ole Magnus Gade Wilhelmsen,"21/12,21/8",Erik T. Rødningsby,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Terje Stubben,,Ole Magnus Gade Wilhelmsen,"21/17,21/12",Terje Stubben,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Erik T. Rødningsby,,Terje Stubben,"21/10,21/14",Erik T. Rødningsby,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Jørgen Thorp,"21/14,21/12",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Erik T. Rødningsby,"21/16,18/21,21/18",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Erik T. Rødningsby,,Jørgen Thorp,"21/19,21/19",Erik T. Rødningsby,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Arnar Thordarson,,Svein Brenna,"21/14,22/20",Arnar Thordarson,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Arnar Thordarson,"21/15,21/16",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hack Buakaew,,Svein Brenna,"21/12,21/12",Hack Buakaew,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Håvard Vold,,Benny Clausen,"21/11,21/13",Håvard Vold,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Jørgen Thorp,,Håvard Vold,"21/19,21/17",Jørgen Thorp,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Jørgen Thorp,,Benny Clausen,"21/18,21/17",Jørgen Thorp,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Erik T. Rødningsby,,Ole Magnus Gade Wilhelmsen,"21/12,21/8",Erik T. Rødningsby,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Terje Stubben,,Ole Magnus Gade Wilhelmsen,"21/17,21/12",Terje Stubben,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Erik T. Rødningsby,,Terje Stubben,"21/10,21/14",Erik T. Rødningsby,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Hanne Margrethe Sørensen,,Randi Gulbrandsen,"23/21,21/17",Hanne Margrethe Sørensen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Deepika Mital,,Hanne Margrethe Sørensen,"21/18,21/15",Deepika Mital,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,,Deepika Mital,,Randi Gulbrandsen,"21/6,21/14",Deepika Mital,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Svein Brenna,Jørgen Thorp,Håvard Vold,Hack Buakaew,"21/11,21/11",Svein Brenna,Jørgen Thorp
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Svein Brenna,Jørgen Thorp,Trond Solli,Tore Kaarstein,"21/19,21/18",Svein Brenna,Jørgen Thorp
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Håvard Vold,Hack Buakaew,Trond Solli,Tore Kaarstein,"22/20,10/21,21/15",Håvard Vold,Hack Buakaew
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Tobias Rolf,Vegar Næss,Marit Ulmo,Marius Sørby,"21/13,21/19",Tobias Rolf,Vegar Næss
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Tobias Rolf,Vegar Næss,"21/14,21/12",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Marit Ulmo,Marius Sørby,"21/15,21/18",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Nauman Majid,Hans Andreas Karlsen,"21/18,21/17",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Gjermund Hagen,Joel Collard,"21/15,21/13",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Gjermund Hagen,Joel Collard,"23/21,21/16",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Carl Christian Møller Jacobsen,Tam Huynh,"21/9,21/12",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Møller Jacobsen,Tam Huynh,Kristoffer Robin Olsen,Christian Blaurock,"21/11,17/21,21/19",Carl Christian Møller Jacobsen,Tam Huynh
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Kristoffer Robin Olsen,Christian Blaurock,"21/16,21/11",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Stian Størseth,Helge Eliassen,Robert Malo,Torben Thomsen,"21/14,21/15",Stian Størseth,Helge Eliassen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Robert Malo,Torben Thomsen,"21/8,21/12",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Stian Størseth,Helge Eliassen,"23/21,21/14",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Tobias Rolf,Vegar Næss,Marit Ulmo,Marius Sørby,"21/13,21/19",Tobias Rolf,Vegar Næss
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Tobias Rolf,Vegar Næss,"21/14,21/12",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Marit Ulmo,Marius Sørby,"21/15,21/18",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Nauman Majid,Hans Andreas Karlsen,"21/18,21/17",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Gjermund Hagen,Joel Collard,"21/15,21/13",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Gjermund Hagen,Joel Collard,"23/21,21/16",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Carl Christian Møller Jacobsen,Tam Huynh,"21/9,21/12",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Møller Jacobsen,Tam Huynh,Kristoffer Robin Olsen,Christian Blaurock,"21/11,17/21,21/19",Carl Christian Møller Jacobsen,Tam Huynh
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Kristoffer Robin Olsen,Christian Blaurock,"21/16,21/11",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Stian Størseth,Helge Eliassen,Robert Malo,Torben Thomsen,"21/14,21/15",Stian Størseth,Helge Eliassen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Robert Malo,Torben Thomsen,"21/8,21/12",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Stian Størseth,Helge Eliassen,"23/21,21/14",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Tobias Rolf,Vegar Næss,Marit Ulmo,Marius Sørby,"21/13,21/19",Tobias Rolf,Vegar Næss
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Tobias Rolf,Vegar Næss,"21/14,21/12",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Marit Ulmo,Marius Sørby,"21/15,21/18",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Nauman Majid,Hans Andreas Karlsen,"21/18,21/17",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Hem,Bent Mørken,Gjermund Hagen,Joel Collard,"21/15,21/13",Carl Christian Hem,Bent Mørken
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Gjermund Hagen,Joel Collard,"23/21,21/16",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Carl Christian Møller Jacobsen,Tam Huynh,"21/9,21/12",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Carl Christian Møller Jacobsen,Tam Huynh,Kristoffer Robin Olsen,Christian Blaurock,"21/11,17/21,21/19",Carl Christian Møller Jacobsen,Tam Huynh
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Nauman Majid,Hans Andreas Karlsen,Kristoffer Robin Olsen,Christian Blaurock,"21/16,21/11",Nauman Majid,Hans Andreas Karlsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Stian Størseth,Helge Eliassen,Robert Malo,Torben Thomsen,"21/14,21/15",Stian Størseth,Helge Eliassen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Robert Malo,Torben Thomsen,"21/8,21/12",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Gjermund Hagen,Joel Collard,Stian Størseth,Helge Eliassen,"23/21,21/14",Gjermund Hagen,Joel Collard
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Thomas Selnes,"21/12,21/8",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Varun Manikandan,,Benjamin Gulliksen,"21/11,15/21,21/8",Varun Manikandan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Markus Gulliksen,"21/8,21/6",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Ziyue Wei,"21/14,21/12",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Varun Manikandan,,Thomas Selnes,"21/14,21/16",Varun Manikandan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Benjamin Gulliksen,,Markus Gulliksen,"5/21,21/19,23/21",Benjamin Gulliksen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Benjamin Gulliksen,"21/8,21/2",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Varun Manikandan,,Markus Gulliksen,"21/18,21/19",Varun Manikandan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Thomas Selnes,"21/3,21/7",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Markus Gulliksen,"21/12,21/10",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Thomas Selnes,,Benjamin Gulliksen,"21/18,17/21,22/20",Thomas Selnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Varun Manikandan,"21/11,21/3",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Varun Manikandan,"21/14,21/7",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Markus Gulliksen,,Thomas Selnes,"19/21,21/14,21/19",Markus Gulliksen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Benjamin Gulliksen,"21/3,21/5",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Thomas Selnes,"21/12,21/8",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Varun Manikandan,,Benjamin Gulliksen,"21/11,15/21,21/8",Varun Manikandan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Markus Gulliksen,"21/8,21/6",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Ziyue Wei,"21/14,21/12",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Varun Manikandan,,Thomas Selnes,"21/14,21/16",Varun Manikandan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Benjamin Gulliksen,,Markus Gulliksen,"5/21,21/19,23/21",Benjamin Gulliksen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Benjamin Gulliksen,"21/8,21/2",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Varun Manikandan,,Markus Gulliksen,"21/18,21/19",Varun Manikandan,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Thomas Selnes,"21/3,21/7",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Markus Gulliksen,"21/12,21/10",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Thomas Selnes,,Benjamin Gulliksen,"21/18,17/21,22/20",Thomas Selnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Varun Manikandan,"21/11,21/3",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Ziyue Wei,,Varun Manikandan,"21/14,21/7",Ziyue Wei,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Markus Gulliksen,,Thomas Selnes,"19/21,21/14,21/19",Markus Gulliksen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,,Emil Andreas Bellen Nordahl,,Benjamin Gulliksen,"21/3,21/5",Emil Andreas Bellen Nordahl,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Hermod Holte Haugland,"21/18,21/10",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Johannes Daniel Selnes,,Zhongyan Yu,"18/21,21/12,21/18",Johannes Daniel Selnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Vetle Bækkelien,"21/11,21/5",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Johannes Daniel Selnes,"21/9,21/10",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Vetle Bækkelien,,Zhongyan Yu,"19/21,21/13,21/16",Vetle Bækkelien,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Zhongyan Yu,"21/6,21/5",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Johannes Daniel Selnes,,Vetle Bækkelien,"10/21,21/8,21/15",Johannes Daniel Selnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hans Jørgen Berg,,Kasper Johan Straume,"21/17,21/11",Hans Jørgen Berg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hermod Holte Haugland,,Daniel Brustad Snorrason,"21/14,21/5",Hermod Holte Haugland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hermod Holte Haugland,,Kasper Johan Straume,"21/12,21/11",Hermod Holte Haugland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hans Jørgen Berg,,Daniel Brustad Snorrason,"22/20,23/21",Hans Jørgen Berg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Kasper Johan Straume,,Daniel Brustad Snorrason,"21/13,21/15",Kasper Johan Straume,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hermod Holte Haugland,,Hans Jørgen Berg,"21/18,21/8",Hermod Holte Haugland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Hermod Holte Haugland,"21/18,21/10",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Johannes Daniel Selnes,,Zhongyan Yu,"18/21,21/12,21/18",Johannes Daniel Selnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Vetle Bækkelien,"21/11,21/5",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Johannes Daniel Selnes,"21/9,21/10",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Vetle Bækkelien,,Zhongyan Yu,"19/21,21/13,21/16",Vetle Bækkelien,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Noa Norden,,Zhongyan Yu,"21/6,21/5",Noa Norden,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Johannes Daniel Selnes,,Vetle Bækkelien,"10/21,21/8,21/15",Johannes Daniel Selnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hans Jørgen Berg,,Kasper Johan Straume,"21/17,21/11",Hans Jørgen Berg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hermod Holte Haugland,,Daniel Brustad Snorrason,"21/14,21/5",Hermod Holte Haugland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hermod Holte Haugland,,Kasper Johan Straume,"21/12,21/11",Hermod Holte Haugland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hans Jørgen Berg,,Daniel Brustad Snorrason,"22/20,23/21",Hans Jørgen Berg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Kasper Johan Straume,,Daniel Brustad Snorrason,"21/13,21/15",Kasper Johan Straume,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,,Hermod Holte Haugland,,Hans Jørgen Berg,"21/18,21/8",Hermod Holte Haugland,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Noah Andersen,"21/13,21/13",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,Christer Andersen,"19/21,21/19,21/14",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Benny Vu,"21/7,21/9",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,David Nguyen,"21/6,9/21,21/15",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Benny Vu,,Leonard Volrath Holmboe,"21/14,21/15",Benny Vu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Christer Andersen,,Amund Hanche Aker,"21/8,21/8",Christer Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Christer Andersen,,Marius Nybøe,"21/12,21/13",Christer Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Amund Hanche Aker,,Marius Nybøe,"14/21,21/14,21/19",Amund Hanche Aker,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Henrik Myrsve,,Audun Haugland,"21/16,21/13",Henrik Myrsve,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,Henrik Myrsve,"21/14,21/12",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,Audun Haugland,"21/10,21/16",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,David Nguyen,,Kristian Nilsen,"21/6,21/7",David Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,David Nguyen,,Trym Haug,"14/21,21/13,21/13",David Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Trym Haug,,Kristian Nilsen,"21/4,21/3",Trym Haug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Benny Vu,,Andreas Karlsen,"21/7,21/10",Benny Vu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Andreas Karlsen,,Jørgen Aga Thoresen,"21/13,21/18",Andreas Karlsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Benny Vu,,Jørgen Aga Thoresen,"21/7,21/5",Benny Vu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Leonard Volrath Holmboe,,Mathias Stokkeland,"21/11,21/9",Leonard Volrath Holmboe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Lars Torkelsen,,Mathias Stokkeland,"21/13,23/21",Lars Torkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Leonard Volrath Holmboe,,Lars Torkelsen,"17/21,21/17,21/19",Leonard Volrath Holmboe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Felix Frithjof Piene,,Eivind Engeseth,"21/13,21/16",Felix Frithjof Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Phillip Sperre Stephens,"21/6,21/2",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Eivind Engeseth,,Phillip Sperre Stephens,"21/15,21/12",Eivind Engeseth,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Felix Frithjof Piene,"21/10,21/17",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Eivind Engeseth,"21/17,21/8",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Felix Frithjof Piene,,Phillip Sperre Stephens,"21/6,21/9",Felix Frithjof Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Noah Andersen,"21/13,21/13",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,Christer Andersen,"19/21,21/19,21/14",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Benny Vu,"21/7,21/9",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,David Nguyen,"21/6,9/21,21/15",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Benny Vu,,Leonard Volrath Holmboe,"21/14,21/15",Benny Vu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Christer Andersen,,Amund Hanche Aker,"21/8,21/8",Christer Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Christer Andersen,,Marius Nybøe,"21/12,21/13",Christer Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Amund Hanche Aker,,Marius Nybøe,"14/21,21/14,21/19",Amund Hanche Aker,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Henrik Myrsve,,Audun Haugland,"21/16,21/13",Henrik Myrsve,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,Henrik Myrsve,"21/14,21/12",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Noah Andersen,,Audun Haugland,"21/10,21/16",Noah Andersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,David Nguyen,,Kristian Nilsen,"21/6,21/7",David Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,David Nguyen,,Trym Haug,"14/21,21/13,21/13",David Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Trym Haug,,Kristian Nilsen,"21/4,21/3",Trym Haug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Benny Vu,,Andreas Karlsen,"21/7,21/10",Benny Vu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Andreas Karlsen,,Jørgen Aga Thoresen,"21/13,21/18",Andreas Karlsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Benny Vu,,Jørgen Aga Thoresen,"21/7,21/5",Benny Vu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Leonard Volrath Holmboe,,Mathias Stokkeland,"21/11,21/9",Leonard Volrath Holmboe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Lars Torkelsen,,Mathias Stokkeland,"21/13,23/21",Lars Torkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Leonard Volrath Holmboe,,Lars Torkelsen,"17/21,21/17,21/19",Leonard Volrath Holmboe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Felix Frithjof Piene,,Eivind Engeseth,"21/13,21/16",Felix Frithjof Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Phillip Sperre Stephens,"21/6,21/2",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Eivind Engeseth,,Phillip Sperre Stephens,"21/15,21/12",Eivind Engeseth,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Felix Frithjof Piene,"21/10,21/17",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Kato Abrahamsen,,Eivind Engeseth,"21/17,21/8",Kato Abrahamsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Felix Frithjof Piene,,Phillip Sperre Stephens,"21/6,21/9",Felix Frithjof Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Fabia Emblem,,Jenny Johansen,"22/20,21/15",Fabia Emblem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Frida Bjørvik Løvheim,,Pia Madeleine Slettingdalen Kristiansen,"21/10,21/13",Frida Bjørvik Løvheim,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Jenny Johansen,,Frida Bjørvik Løvheim,"21/12,26/22",Jenny Johansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Henny Bjørnsdatter Nordheim,,Mina Ueland,"21/12,21/7",Henny Bjørnsdatter Nordheim,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Fabia Emblem,,Anna Olava Hansen,"21/5,21/15",Fabia Emblem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Fabia Emblem,,Henny Bjørnsdatter Nordheim,"16/21,21/17,21/18",Fabia Emblem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Anna Olava Hansen,,Mina Ueland,"17/21,21/17,21/15",Anna Olava Hansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Henny Bjørnsdatter Nordheim,,Anna Olava Hansen,"21/7,21/13",Henny Bjørnsdatter Nordheim,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,,Fabia Emblem,,Mina Ueland,"21/6,21/6",Fabia Emblem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Audun Haugland,Kato Abrahamsen,Henrik Myrsve,Andreas Karlsen,"21/18,18/21,21/13",Audun Haugland,Kato Abrahamsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Hans Jørgen Berg,Vetle Bækkelien,Benny Vu,Trym Haug,"16/21,21/18,21/18",Hans Jørgen Berg,Vetle Bækkelien
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Benny Vu,Trym Haug,Henrik Myrsve,Andreas Karlsen,"21/17,23/21",Benny Vu,Trym Haug
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Hans Jørgen Berg,Vetle Bækkelien,Lars Torkelsen,Christer Andersen,"21/19,16/21,21/13",Hans Jørgen Berg,Vetle Bækkelien
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Hans Jørgen Berg,Vetle Bækkelien,Audun Haugland,Kato Abrahamsen,"19/21,21/15,21/11",Hans Jørgen Berg,Vetle Bækkelien
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Lars Torkelsen,Christer Andersen,Henrik Myrsve,Andreas Karlsen,"21/16,18/21,21/18",Lars Torkelsen,Christer Andersen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Audun Haugland,Kato Abrahamsen,Benny Vu,Trym Haug,"17/21,21/19,21/13",Audun Haugland,Kato Abrahamsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Hans Jørgen Berg,Vetle Bækkelien,Henrik Myrsve,Andreas Karlsen,"21/11,21/9",Hans Jørgen Berg,Vetle Bækkelien
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Audun Haugland,Kato Abrahamsen,Lars Torkelsen,Christer Andersen,"21/7,21/8",Audun Haugland,Kato Abrahamsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Sondre Mikkelsen,"21/18,21/13",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Boyan Yu,"21/13,14/21,21/18",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,John Nguyen,"18/21,21/18,21/16",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Andy Hang,"21/5,21/8",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Thomas Iversen,"21/14,21/6",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Thomas Iversen,,Andy Hang,"21/15,21/14",Thomas Iversen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Tobias Bruu Ringdal,,Kasper Lie Cook,"21/12,21/11",Tobias Bruu Ringdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Boyan Yu,,Simen André Børke Høgberg,"21/14,21/10",Boyan Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Boyan Yu,,Kasper Lie Cook,"21/13,21/15",Boyan Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Tobias Bruu Ringdal,,Simen André Børke Høgberg,"21/11,21/10",Tobias Bruu Ringdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Simen André Børke Høgberg,,Kasper Lie Cook,"21/8,21/12",Simen André Børke Høgberg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Boyan Yu,,Tobias Bruu Ringdal,"21/17,11/21,21/15",Boyan Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ola Hellen,,Ferdinand Aiello,"15/21,21/15,21/17",Ola Hellen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,Niklas Andersen,"21/9,21/5",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,Ferdinand Aiello,"21/9,21/11",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ola Hellen,,Niklas Andersen,"21/12,21/15",Ola Hellen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ferdinand Aiello,,Niklas Andersen,"21/18,21/12",Ferdinand Aiello,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,Ola Hellen,"21/12,21/13",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,John Nguyen,,Leo Yuen,"21/12,21/16",John Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,John Nguyen,,John Erik Fosseland Hansen,"21/17,13/21,21/10",John Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,John Erik Fosseland Hansen,,Leo Yuen,"15/21,21/19,21/14",John Erik Fosseland Hansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Sondre Mikkelsen,"21/18,21/13",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Boyan Yu,"21/13,14/21,21/18",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,John Nguyen,"18/21,21/18,21/16",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Andy Hang,"21/5,21/8",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Martin Enghaug,,Thomas Iversen,"21/14,21/6",Martin Enghaug,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Thomas Iversen,,Andy Hang,"21/15,21/14",Thomas Iversen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Tobias Bruu Ringdal,,Kasper Lie Cook,"21/12,21/11",Tobias Bruu Ringdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Boyan Yu,,Simen André Børke Høgberg,"21/14,21/10",Boyan Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Boyan Yu,,Kasper Lie Cook,"21/13,21/15",Boyan Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Tobias Bruu Ringdal,,Simen André Børke Høgberg,"21/11,21/10",Tobias Bruu Ringdal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Simen André Børke Høgberg,,Kasper Lie Cook,"21/8,21/12",Simen André Børke Høgberg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Boyan Yu,,Tobias Bruu Ringdal,"21/17,11/21,21/15",Boyan Yu,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ola Hellen,,Ferdinand Aiello,"15/21,21/15,21/17",Ola Hellen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,Niklas Andersen,"21/9,21/5",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,Ferdinand Aiello,"21/9,21/11",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ola Hellen,,Niklas Andersen,"21/12,21/15",Ola Hellen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ferdinand Aiello,,Niklas Andersen,"21/18,21/12",Ferdinand Aiello,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sondre Mikkelsen,,Ola Hellen,"21/12,21/13",Sondre Mikkelsen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,John Nguyen,,Leo Yuen,"21/12,21/16",John Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,John Nguyen,,John Erik Fosseland Hansen,"21/17,13/21,21/10",John Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,John Erik Fosseland Hansen,,Leo Yuen,"15/21,21/19,21/14",John Erik Fosseland Hansen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Therese Nguyen,,Sofie Søby Pedersen,"21/13,21/16",Therese Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Therese Nguyen,,Maria Jansson,"21/6,21/10",Therese Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Therese Nguyen,,Ingrid Sofie Langsjøvold,"21/10,21/4",Therese Nguyen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ingrid Sofie Langsjøvold,,Maria Jansson,"21/19,21/14",Ingrid Sofie Langsjøvold,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sunniva Sandnes,,Sofie Søby Pedersen,"21/16,11/21,21/18",Sunniva Sandnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ane Hofstad Lycke,,Aleksandra Grefslie,"21/3,21/9",Ane Hofstad Lycke,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sofie Søby Pedersen,,Aleksandra Grefslie,"21/15,21/12",Sofie Søby Pedersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Ane Hofstad Lycke,,Sunniva Sandnes,"21/15,21/16",Ane Hofstad Lycke,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sunniva Sandnes,,Aleksandra Grefslie,"19/21,24/22,21/17",Sunniva Sandnes,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,,Sofie Søby Pedersen,,Ane Hofstad Lycke,"21/17,21/19",Sofie Søby Pedersen,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Simen André Børke Høgberg,Sondre Mikkelsen,Tobias Bruu Ringdal,Ola Hellen,"21/13,20/22,21/17",Simen André Børke Høgberg,Sondre Mikkelsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Simen André Børke Høgberg,Sondre Mikkelsen,Edvard Berdal Eek,Thomas Iversen,"21/9,21/15",Simen André Børke Høgberg,Sondre Mikkelsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Simen André Børke Høgberg,Sondre Mikkelsen,John Nguyen,Martin Enghaug,"24/22,24/22",Simen André Børke Høgberg,Sondre Mikkelsen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Edvard Berdal Eek,Thomas Iversen,John Nguyen,Martin Enghaug,"23/21,9/21,21/16",Edvard Berdal Eek,Thomas Iversen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Ferdinand Aiello,Ane Hofstad Lycke,Andy Hang,Kasper Lie Cook,"21/18,21/15",Ferdinand Aiello,Ane Hofstad Lycke
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Tobias Bruu Ringdal,Ola Hellen,Daniel Brustad Snorrason,Noa Norden,"21/10,21/11",Tobias Bruu Ringdal,Ola Hellen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Tobias Bruu Ringdal,Ola Hellen,Ferdinand Aiello,Ane Hofstad Lycke,"21/15,21/19",Tobias Bruu Ringdal,Ola Hellen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Daniel Brustad Snorrason,Noa Norden,Andy Hang,Kasper Lie Cook,"21/14,24/22",Daniel Brustad Snorrason,Noa Norden
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Tobias Bruu Ringdal,Ola Hellen,Andy Hang,Kasper Lie Cook,"21/12,21/13",Tobias Bruu Ringdal,Ola Hellen
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Daniel Brustad Snorrason,Noa Norden,Ferdinand Aiello,Ane Hofstad Lycke,"15/21,21/19,21/12",Daniel Brustad Snorrason,Noa Norden
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Natanael Stordal,"21/19,13/21,21/18",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Anton Lundem,"21/8,21/17",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Natanael Stordal,,Theo Piene,"21/8,21/16",Natanael Stordal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Magnus Hønstvedt,,Sander Hogganvik Myhrvold,"21/17,21/19",Magnus Hønstvedt,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Magnus Hønstvedt,"21/19,21/19",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Sander Hogganvik Myhrvold,"21/2,21/9",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Anton Lundem,,Morten Stormo,"21/10,15/21,21/15",Anton Lundem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Daniel Lukas Saltvik,,Sondre Flakstad,"21/12,17/21,21/16",Daniel Lukas Saltvik,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Morten Stormo,,Sondre Flakstad,"21/14,21/13",Morten Stormo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Anton Lundem,,Daniel Lukas Saltvik,"21/13,17/21,21/19",Anton Lundem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Daniel Lukas Saltvik,,Morten Stormo,"21/13,21/14",Daniel Lukas Saltvik,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Anton Lundem,,Sondre Flakstad,"18/21,21/12,21/5",Anton Lundem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Sondre Førsund,,Sindre Sjåvåg,"21/13,21/14",Sondre Førsund,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Theo Piene,,Martin Borch,"21/11,21/11",Theo Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Sindre Sjåvåg,,Martin Borch,"21/23,21/17,22/20",Sindre Sjåvåg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Theo Piene,,Sondre Førsund,"21/14,21/10",Theo Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Theo Piene,,Sindre Sjåvåg,"21/17,14/21,21/9",Theo Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Sondre Førsund,,Martin Borch,"21/12,21/8",Sondre Førsund,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Simen Jessen Bjerkeli,,Jakob Grønbeck,"21/10,21/3",Simen Jessen Bjerkeli,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Natanael Stordal,,Jakob Grønbeck,"21/13,21/10",Natanael Stordal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Natanael Stordal,,Simen Jessen Bjerkeli,"15/21,21/18,21/13",Natanael Stordal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Natanael Stordal,"21/19,13/21,21/18",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Anton Lundem,"21/8,21/17",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Natanael Stordal,,Theo Piene,"21/8,21/16",Natanael Stordal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Magnus Hønstvedt,,Sander Hogganvik Myhrvold,"21/17,21/19",Magnus Hønstvedt,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Magnus Hønstvedt,"21/19,21/19",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Edvard Berdal Eek,,Sander Hogganvik Myhrvold,"21/2,21/9",Edvard Berdal Eek,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Anton Lundem,,Morten Stormo,"21/10,15/21,21/15",Anton Lundem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Daniel Lukas Saltvik,,Sondre Flakstad,"21/12,17/21,21/16",Daniel Lukas Saltvik,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Morten Stormo,,Sondre Flakstad,"21/14,21/13",Morten Stormo,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Anton Lundem,,Daniel Lukas Saltvik,"21/13,17/21,21/19",Anton Lundem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Daniel Lukas Saltvik,,Morten Stormo,"21/13,21/14",Daniel Lukas Saltvik,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Anton Lundem,,Sondre Flakstad,"18/21,21/12,21/5",Anton Lundem,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Sondre Førsund,,Sindre Sjåvåg,"21/13,21/14",Sondre Førsund,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Theo Piene,,Martin Borch,"21/11,21/11",Theo Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Sindre Sjåvåg,,Martin Borch,"21/23,21/17,22/20",Sindre Sjåvåg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Theo Piene,,Sondre Førsund,"21/14,21/10",Theo Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Theo Piene,,Sindre Sjåvåg,"21/17,14/21,21/9",Theo Piene,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Sondre Førsund,,Martin Borch,"21/12,21/8",Sondre Førsund,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Simen Jessen Bjerkeli,,Jakob Grønbeck,"21/10,21/3",Simen Jessen Bjerkeli,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Natanael Stordal,,Jakob Grønbeck,"21/13,21/10",Natanael Stordal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Natanael Stordal,,Simen Jessen Bjerkeli,"15/21,21/18,21/13",Natanael Stordal,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Elisabeth Parnemann Sirevåg,,Linett Meyer Bøe,"21/15,16/21,21/14",Elisabeth Parnemann Sirevåg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Elisabeth Parnemann Sirevåg,,Sara  Enge-Taftø,"21/11,21/9",Elisabeth Parnemann Sirevåg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Elisabeth Parnemann Sirevåg,,Vilde Sandnes,"21/19,21/17",Elisabeth Parnemann Sirevåg,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Klara H. Kvalvik,,Hedda Skjærseth,"21/11,21/7",Klara H. Kvalvik,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Linett Meyer Bøe,,Amalie Kristoffersen,"21/11,21/3",Linett Meyer Bøe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Hedda Skjærseth,,Amalie Kristoffersen,"10/21,21/17,21/11",Hedda Skjærseth,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Linett Meyer Bøe,,Klara H. Kvalvik,"21/14,13/21,21/19",Linett Meyer Bøe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Linett Meyer Bøe,,Hedda Skjærseth,"21/9,21/10",Linett Meyer Bøe,
-2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,,Klara H. Kvalvik,,Amalie Kristoffersen,"21/18,21/11",Klara H. Kvalvik,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Steinar Klausen,,Carl Christian Hem,"21/16,13/21,21/11",Steinar Klausen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Carl Christian Hem,,Joel Collard,"21/12,21/13",Carl Christian Hem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Carl Christian Møller Jacobsen,,Hans Andreas Karlsen,"21/15,12/21,21/19",Carl Christian Møller Jacobsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Steinar Klausen,,Hans Andreas Karlsen,"21/17,21/12",Steinar Klausen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Steinar Klausen,,Carl Christian Møller Jacobsen,"18/21,21/12,21/14",Steinar Klausen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Nauman Majid,,Tommy Helander,"21/12,18/21,21/14",Nauman Majid,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Robert Malo,,Kristoffer Robin Olsen,"21/18,21/13",Robert Malo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Tommy Helander,,Robert Malo,"22/20,21/19",Tommy Helander,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Nauman Majid,,Kristoffer Robin Olsen,"21/7,21/15",Nauman Majid,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Tommy Helander,,Kristoffer Robin Olsen,"21/13,21/11",Tommy Helander,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Nauman Majid,,Robert Malo,"21/14,21/13",Nauman Majid,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Joel Collard,,Vegar Næss,"21/11,21/8",Joel Collard,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Bent Mørken,,Kristen Grødal,"21/9,21/15",Bent Mørken,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Joel Collard,,Kristen Grødal,"21/13,21/18",Joel Collard,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Bent Mørken,,Vegar Næss,"21/15,21/9",Bent Mørken,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Vegar Næss,,Kristen Grødal,"21/16,13/21,21/13",Vegar Næss,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Joel Collard,,Bent Mørken,"21/16,21/13",Joel Collard,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Gjermund Hagen,,Torben Thomsen,"21/19,21/10",Gjermund Hagen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Carl Christian Hem,,Torben Thomsen,"21/17,21/8",Carl Christian Hem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herresingle,,Carl Christian Hem,,Gjermund Hagen,"21/16,21/15",Carl Christian Hem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Tobias Rolf,Vegar Næss,Marit Ulmo,Marius Sørby,"21/13,21/19",Tobias Rolf,Vegar Næss
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Carl Christian Hem,Bent Mørken,Tobias Rolf,Vegar Næss,"21/14,21/12",Carl Christian Hem,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Carl Christian Hem,Bent Mørken,Marit Ulmo,Marius Sørby,"21/15,21/18",Carl Christian Hem,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Carl Christian Hem,Bent Mørken,Nauman Majid,Hans Andreas Karlsen,"21/18,21/17",Carl Christian Hem,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Carl Christian Hem,Bent Mørken,Gjermund Hagen,Joel Collard,"21/15,21/13",Carl Christian Hem,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Nauman Majid,Hans Andreas Karlsen,Gjermund Hagen,Joel Collard,"23/21,21/16",Nauman Majid,Hans Andreas Karlsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Nauman Majid,Hans Andreas Karlsen,Carl Christian Møller Jacobsen,Tam Huynh,"21/9,21/12",Nauman Majid,Hans Andreas Karlsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Carl Christian Møller Jacobsen,Tam Huynh,Kristoffer Robin Olsen,Christian Blaurock,"21/11,17/21,21/19",Carl Christian Møller Jacobsen,Tam Huynh
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Nauman Majid,Hans Andreas Karlsen,Kristoffer Robin Olsen,Christian Blaurock,"21/16,21/11",Nauman Majid,Hans Andreas Karlsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Stian Størseth,Helge Eliassen,Robert Malo,Torben Thomsen,"21/14,21/15",Stian Størseth,Helge Eliassen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Gjermund Hagen,Joel Collard,Robert Malo,Torben Thomsen,"21/8,21/12",Gjermund Hagen,Joel Collard
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Herredouble,Gjermund Hagen,Joel Collard,Stian Størseth,Helge Eliassen,"23/21,21/14",Gjermund Hagen,Joel Collard
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Marit Ulmo,Bent Mørken,Marit Lillelien,Joel Collard,"21/16,21/15",Marit Ulmo,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Kristin Thømt,Tommy Helander,Helge Eliassen,Kirsten Gulbrandsen,"21/13,21/14",Kristin Thømt,Tommy Helander
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Marit Lillelien,Joel Collard,Kristin Thømt,Tommy Helander,"21/15,21/17",Marit Lillelien,Joel Collard
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Marit Lillelien,Joel Collard,Helge Eliassen,Kirsten Gulbrandsen,"21/16,21/19",Marit Lillelien,Joel Collard
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Marit Ulmo,Bent Mørken,Tobias Rolf,Paula Szalai,"21/15,21/14",Marit Ulmo,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Carl Christian Møller Jacobsen,Tam Huynh,Gjermund Hagen,Heidi Larsson Kleveland,"21/15,22/20",Carl Christian Møller Jacobsen,Tam Huynh
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Tobias Rolf,Paula Szalai,Carl Christian Møller Jacobsen,Tam Huynh,"21/19,21/19",Tobias Rolf,Paula Szalai
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Marit Ulmo,Bent Mørken,Gjermund Hagen,Heidi Larsson Kleveland,"21/4,21/15",Marit Ulmo,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Tobias Rolf,Paula Szalai,Gjermund Hagen,Heidi Larsson Kleveland,"21/12,21/18",Tobias Rolf,Paula Szalai
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN E,Mixeddouble,Marit Ulmo,Bent Mørken,Carl Christian Møller Jacobsen,Tam Huynh,"21/10,21/13",Marit Ulmo,Bent Mørken
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Marit Ulmo,,Mikko Ojala,"21/9,21/15",Marit Ulmo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Marit Ulmo,,Jan Malamant,"21/13,21/17",Marit Ulmo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Mikko Ojala,,Christian Blaurock,"21/16,21/19",Mikko Ojala,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Marit Ulmo,,Frank Heggen,"21/10,21/14",Marit Ulmo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Mikko Ojala,,Swadesh Patra,"21/15,21/19",Mikko Ojala,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,John Daae,,Heidi Larsson Kleveland,"17/21,21/15,21/15",John Daae,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Jan Malamant,,John Daae,"21/17,21/9",Jan Malamant,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Jan Malamant,,Heidi Larsson Kleveland,"21/15,21/16",Jan Malamant,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Frank Heggen,,Stian Størseth,"21/18,22/20",Frank Heggen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Stian Størseth,,Mansoor Hasan,"21/14,21/14",Stian Størseth,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Frank Heggen,,Mansoor Hasan,"21/17,22/20",Frank Heggen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Dirk Olivie,,Marit Lillelien,"21/15,21/14",Dirk Olivie,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Marit Ulmo,,Dirk Olivie,"21/12,21/12",Marit Ulmo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Marit Ulmo,,Marit Lillelien,"21/4,21/6",Marit Ulmo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Jeanette Svendsen,,Helge Eliassen,"21/14,14/21,21/15",Jeanette Svendsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Mikko Ojala,,Jeanette Svendsen,"21/14,21/17",Mikko Ojala,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Mikko Ojala,,Helge Eliassen,"21/16,21/7",Mikko Ojala,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Jon Eirik Gulli,,Espen Ditmansen,"21/14,21/15",Jon Eirik Gulli,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Swadesh Patra,,Jon Eirik Gulli,"21/18,21/18",Swadesh Patra,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Swadesh Patra,,Espen Ditmansen,"21/8,21/19",Swadesh Patra,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Christian Blaurock,,Marius Sørby,"19/21,21/17,21/15",Christian Blaurock,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Paul Witt,,Marius Sørby,"21/16,21/15",Paul Witt,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herresingle,,Christian Blaurock,,Paul Witt,"24/22,16/21,21/19",Christian Blaurock,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Swadesh Patra,Ke Xie,Daniel Bjørklund,Jan Malamant,"21/15,21/14",Swadesh Patra,Ke Xie
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Swadesh Patra,Ke Xie,Jon Eirik Gulli,Lorentz Kristiansen,"21/17,21/13",Swadesh Patra,Ke Xie
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Mansoor Hasan,Mikko Ojala,Paul Witt,Marit Lillelien,"21/16,15/21,21/9",Mansoor Hasan,Mikko Ojala
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Paul Witt,Marit Lillelien,Jon Eirik Gulli,Lorentz Kristiansen,"21/19,21/16",Paul Witt,Marit Lillelien
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Swadesh Patra,Ke Xie,Mansoor Hasan,Mikko Ojala,"21/19,15/21,21/15",Swadesh Patra,Ke Xie
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Swadesh Patra,Ke Xie,Paul Witt,Marit Lillelien,"21/16,21/13",Swadesh Patra,Ke Xie
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Mansoor Hasan,Mikko Ojala,Jon Eirik Gulli,Lorentz Kristiansen,"21/18,21/12",Mansoor Hasan,Mikko Ojala
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Daniel Bjørklund,Jan Malamant,Jeanette Svendsen,Paula Szalai,"21/11,21/19",Daniel Bjørklund,Jan Malamant
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,John Daae,Frank Heggen,Benny Hall,Jens Roy Kristiansen,"21/18,21/17",John Daae,Frank Heggen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Jeanette Svendsen,Paula Szalai,Benny Hall,Jens Roy Kristiansen,"21/19,14/21,21/19",Jeanette Svendsen,Paula Szalai
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,Daniel Bjørklund,Jan Malamant,John Daae,Frank Heggen,"14/21,21/10,21/14",Daniel Bjørklund,Jan Malamant
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Herredouble,John Daae,Frank Heggen,Jeanette Svendsen,Paula Szalai,"21/18,21/17",John Daae,Frank Heggen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Mixeddouble,Anne Kristiansen,Stian Størseth,Karoline Lerengen,Marius Sørby,"22/20,21/17",Anne Kristiansen,Stian Størseth
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Mixeddouble,Anne Kristiansen,Stian Størseth,Ke Xie,Mei Yang,"21/13,21/19",Anne Kristiansen,Stian Størseth
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN B,Mixeddouble,Ke Xie,Mei Yang,Karoline Lerengen,Marius Sørby,"20/22,21/16,21/18",Ke Xie,Mei Yang
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andreas Møyland,,Xijiang Yu,"21/19,21/10",Andreas Møyland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Xijiang Yu,,Per Helge Bergan,"21/16,21/19",Xijiang Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andreas Møyland,,Lorentz Kristiansen,"21/14,21/13",Andreas Møyland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Xijiang Yu,,Magnus Kåsa Minde,"21/19,29/27",Xijiang Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Per Helge Bergan,,Knut Hellum,"21/15,21/16",Per Helge Bergan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andreas Møyland,,Roman Malamant,"18/21,21/11,21/14",Andreas Møyland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Lorentz Kristiansen,,Jan Espen Sørsdal,"21/17,21/18",Lorentz Kristiansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andreas Møyland,,Erik Langeland,"21/18,21/13",Andreas Møyland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Per Helge Bergan,,Jon Henning Bergane,"21/15,21/19",Per Helge Bergan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Xijiang Yu,,Benny Hall,"19/21,21/19,21/18",Xijiang Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Xijiang Yu,,Tobias Foyn Wahlqvist,"21/14,21/14",Xijiang Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Benny Hall,,Tobias Foyn Wahlqvist,"21/8,21/16",Benny Hall,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Magnus Kåsa Minde,,Mathias Foyn Wahlqvist,"21/5,21/7",Magnus Kåsa Minde,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Magnus Kåsa Minde,,Frode Olsen,"21/17,21/11",Magnus Kåsa Minde,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Frode Olsen,,Mathias Foyn Wahlqvist,"21/6,21/12",Frode Olsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Tommy Norheim,,Kristin Thømt,"21/10,20/22,21/13",Tommy Norheim,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Knut Hellum,,Kristin Thømt,"13/21,22/20,21/15",Knut Hellum,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Knut Hellum,,Tommy Norheim,"25/23,21/9",Knut Hellum,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Jon Henning Bergane,,Arild Moen,"21/15,21/10",Jon Henning Bergane,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Jon Henning Bergane,,Kåre Wahlqvist,"21/9,21/15",Jon Henning Bergane,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Arild Moen,,Kåre Wahlqvist,"22/20,21/10",Arild Moen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Per Helge Bergan,,Jakob Nygaard Johannessen,"21/16,21/4",Per Helge Bergan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Per Helge Bergan,,Atle Holte,"21/15,21/7",Per Helge Bergan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Atle Holte,,Jakob Nygaard Johannessen,"15/21,21/6,21/17",Atle Holte,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andre Gulliksen,,Espen Kaale,"21/15,21/15",Andre Gulliksen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andreas Møyland,,Espen Kaale,"21/15,21/12",Andreas Møyland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Andreas Møyland,,Andre Gulliksen,"21/14,23/21",Andreas Møyland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Erik Langeland,,Stian Sveberg,"21/10,21/13",Erik Langeland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Erik Langeland,,Lyder Janøy,"21/17,21/11",Erik Langeland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Stian Sveberg,,Lyder Janøy,"21/16,21/16",Stian Sveberg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Bengt Pedersen,,Karoline Lerengen,"21/9,21/17",Bengt Pedersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Roman Malamant,,Bengt Pedersen,"22/20,21/19",Roman Malamant,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Roman Malamant,,Karoline Lerengen,"21/16,21/15",Roman Malamant,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Lorentz Kristiansen,,Jan Sørgjerd,"18/21,21/15,21/17",Lorentz Kristiansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Bengt Holte,,Jonas Aas,"21/10,21/12",Bengt Holte,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Bengt Holte,,Jan Sørgjerd,"21/18,21/12",Bengt Holte,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Lorentz Kristiansen,,Jonas Aas,"21/10,21/11",Lorentz Kristiansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Jan Sørgjerd,,Jonas Aas,"21/13,21/3",Jan Sørgjerd,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Lorentz Kristiansen,,Bengt Holte,"21/17,20/22,24/22",Lorentz Kristiansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Jan Espen Sørsdal,,Niklas Wohlenberg,"21/18,21/16",Jan Espen Sørsdal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Jan Espen Sørsdal,,Daniel Bjørklund,"19/21,24/22,21/17",Jan Espen Sørsdal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herresingle,,Daniel Bjørklund,,Niklas Wohlenberg,"21/17,21/8",Daniel Bjørklund,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Andre Gulliksen,Stefan Lilleås,Per Helge Bergan,Erik Langeland,"13/21,21/6,21/16",Andre Gulliksen,Stefan Lilleås
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Andre Gulliksen,Stefan Lilleås,Andreas Møyland,Claus Thorsen,"21/15,21/10",Andre Gulliksen,Stefan Lilleås
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Per Helge Bergan,Erik Langeland,Bengt Pedersen,Roman Malamant,"21/17,21/18",Per Helge Bergan,Erik Langeland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Per Helge Bergan,Erik Langeland,Deepika Mital,Kristen Grødal,"15/21,27/25,21/15",Per Helge Bergan,Erik Langeland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Henning Skaug,Knut Hellum,Kåre Wahlqvist,Mathias Foyn Wahlqvist,"21/10,20/22,21/7",Henning Skaug,Knut Hellum
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Andre Gulliksen,Stefan Lilleås,Henning Skaug,Knut Hellum,"21/17,21/12",Andre Gulliksen,Stefan Lilleås
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Andre Gulliksen,Stefan Lilleås,Kåre Wahlqvist,Mathias Foyn Wahlqvist,"21/11,21/12",Andre Gulliksen,Stefan Lilleås
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Andreas Møyland,Claus Thorsen,Magnus Kåsa Minde,Niklas Wohlenberg,"21/11,21/17",Andreas Møyland,Claus Thorsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Andreas Møyland,Claus Thorsen,Ole Magnus Gade Wilhelmsen,Tobias Foyn Wahlqvist,"21/12,21/16",Andreas Møyland,Claus Thorsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Magnus Kåsa Minde,Niklas Wohlenberg,Ole Magnus Gade Wilhelmsen,Tobias Foyn Wahlqvist,"20/22,21/16,21/16",Magnus Kåsa Minde,Niklas Wohlenberg
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Deepika Mital,Kristen Grødal,Bengt Holte,Atle Holte,"21/14,21/14",Deepika Mital,Kristen Grødal
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Bengt Holte,Atle Holte,Anne Kristiansen,Karoline Lerengen,"13/21,21/19,21/16",Bengt Holte,Atle Holte
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Deepika Mital,Kristen Grødal,Anne Kristiansen,Karoline Lerengen,"21/19,18/21,21/15",Deepika Mital,Kristen Grødal
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Per Helge Bergan,Erik Langeland,Anne Skien,Mei Yang,"21/13,21/12",Per Helge Bergan,Erik Langeland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Per Helge Bergan,Erik Langeland,Jan Sørgjerd,Kristin Thømt,"12/21,21/11,21/16",Per Helge Bergan,Erik Langeland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Jan Sørgjerd,Kristin Thømt,Anne Skien,Mei Yang,"21/9,21/15",Jan Sørgjerd,Kristin Thømt
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Bengt Pedersen,Roman Malamant,Tommy Norheim,Jan Espen Sørsdal,"22/20,19/21,21/19",Bengt Pedersen,Roman Malamant
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Bengt Pedersen,Roman Malamant,Arild Moen,Monica Fuglesang,"21/9,21/14",Bengt Pedersen,Roman Malamant
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Herredouble,Tommy Norheim,Jan Espen Sørsdal,Arild Moen,Monica Fuglesang,"21/9,21/8",Tommy Norheim,Jan Espen Sørsdal
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Daniel Bjørklund,Victoria Smestadmoen,Anne Skien,Espen Ditmansen,"21/15,21/19",Daniel Bjørklund,Victoria Smestadmoen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Arild Moen,Monica Fuglesang,Henning Skaug,Heti Kusyanti,"21/18,12/21,21/15",Arild Moen,Monica Fuglesang
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Anne Skien,Espen Ditmansen,Henning Skaug,Heti Kusyanti,"21/17,24/22",Anne Skien,Espen Ditmansen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Anne Skien,Espen Ditmansen,Arild Moen,Monica Fuglesang,"23/21,21/18",Anne Skien,Espen Ditmansen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Daniel Bjørklund,Victoria Smestadmoen,Deepika Mital,Amit Mital,"21/18,14/21,21/18",Daniel Bjørklund,Victoria Smestadmoen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Daniel Bjørklund,Victoria Smestadmoen,Hanne Margrethe Sørensen,Arnar Thordarson,"21/16,21/16",Daniel Bjørklund,Victoria Smestadmoen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN C,Mixeddouble,Deepika Mital,Amit Mital,Hanne Margrethe Sørensen,Arnar Thordarson,"21/14,21/18",Deepika Mital,Amit Mital
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Hack Buakaew,,Jørgen Thorp,"21/14,21/12",Hack Buakaew,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Hack Buakaew,,Erik T. Rødningsby,"21/16,18/21,21/18",Hack Buakaew,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Erik T. Rødningsby,,Jørgen Thorp,"21/19,21/19",Erik T. Rødningsby,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Arnar Thordarson,,Svein Brenna,"21/14,22/20",Arnar Thordarson,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Hack Buakaew,,Arnar Thordarson,"21/15,21/16",Hack Buakaew,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Hack Buakaew,,Svein Brenna,"21/12,21/12",Hack Buakaew,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Håvard Vold,,Benny Clausen,"21/11,21/13",Håvard Vold,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Jørgen Thorp,,Håvard Vold,"21/19,21/17",Jørgen Thorp,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Jørgen Thorp,,Benny Clausen,"21/18,21/17",Jørgen Thorp,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Erik T. Rødningsby,,Ole Magnus Gade Wilhelmsen,"21/12,21/8",Erik T. Rødningsby,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Terje Stubben,,Ole Magnus Gade Wilhelmsen,"21/17,21/12",Terje Stubben,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herresingle,,Erik T. Rødningsby,,Terje Stubben,"21/10,21/14",Erik T. Rødningsby,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Damesingle,,Hanne Margrethe Sørensen,,Randi Gulbrandsen,"23/21,21/17",Hanne Margrethe Sørensen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Damesingle,,Deepika Mital,,Hanne Margrethe Sørensen,"21/18,21/15",Deepika Mital,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Damesingle,,Deepika Mital,,Randi Gulbrandsen,"21/6,21/14",Deepika Mital,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herredouble,Svein Brenna,Jørgen Thorp,Håvard Vold,Hack Buakaew,"21/11,21/11",Svein Brenna,Jørgen Thorp
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herredouble,Svein Brenna,Jørgen Thorp,Trond Solli,Tore Kaarstein,"21/19,21/18",Svein Brenna,Jørgen Thorp
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,SEN D,Herredouble,Håvard Vold,Hack Buakaew,Trond Solli,Tore Kaarstein,"22/20,10/21,21/15",Håvard Vold,Hack Buakaew
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Ziyue Wei,,Thomas Selnes,"21/12,21/8",Ziyue Wei,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Varun Manikandan,,Benjamin Gulliksen,"21/11,15/21,21/8",Varun Manikandan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Emil Andreas Bellen Nordahl,,Markus Gulliksen,"21/8,21/6",Emil Andreas Bellen Nordahl,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Emil Andreas Bellen Nordahl,,Ziyue Wei,"21/14,21/12",Emil Andreas Bellen Nordahl,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Varun Manikandan,,Thomas Selnes,"21/14,21/16",Varun Manikandan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Benjamin Gulliksen,,Markus Gulliksen,"5/21,21/19,23/21",Benjamin Gulliksen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Ziyue Wei,,Benjamin Gulliksen,"21/8,21/2",Ziyue Wei,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Varun Manikandan,,Markus Gulliksen,"21/18,21/19",Varun Manikandan,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Emil Andreas Bellen Nordahl,,Thomas Selnes,"21/3,21/7",Emil Andreas Bellen Nordahl,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Ziyue Wei,,Markus Gulliksen,"21/12,21/10",Ziyue Wei,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Thomas Selnes,,Benjamin Gulliksen,"21/18,17/21,22/20",Thomas Selnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Emil Andreas Bellen Nordahl,,Varun Manikandan,"21/11,21/3",Emil Andreas Bellen Nordahl,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Ziyue Wei,,Varun Manikandan,"21/14,21/7",Ziyue Wei,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Markus Gulliksen,,Thomas Selnes,"19/21,21/14,21/19",Markus Gulliksen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U11 B,Herresingle,,Emil Andreas Bellen Nordahl,,Benjamin Gulliksen,"21/3,21/5",Emil Andreas Bellen Nordahl,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Noa Norden,,Hermod Holte Haugland,"21/18,21/10",Noa Norden,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Johannes Daniel Selnes,,Zhongyan Yu,"18/21,21/12,21/18",Johannes Daniel Selnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Noa Norden,,Vetle Bækkelien,"21/11,21/5",Noa Norden,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Noa Norden,,Johannes Daniel Selnes,"21/9,21/10",Noa Norden,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Vetle Bækkelien,,Zhongyan Yu,"19/21,21/13,21/16",Vetle Bækkelien,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Noa Norden,,Zhongyan Yu,"21/6,21/5",Noa Norden,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Johannes Daniel Selnes,,Vetle Bækkelien,"10/21,21/8,21/15",Johannes Daniel Selnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Hans Jørgen Berg,,Kasper Johan Straume,"21/17,21/11",Hans Jørgen Berg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Hermod Holte Haugland,,Daniel Brustad Snorrason,"21/14,21/5",Hermod Holte Haugland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Hermod Holte Haugland,,Kasper Johan Straume,"21/12,21/11",Hermod Holte Haugland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Hans Jørgen Berg,,Daniel Brustad Snorrason,"22/20,23/21",Hans Jørgen Berg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Kasper Johan Straume,,Daniel Brustad Snorrason,"21/13,21/15",Kasper Johan Straume,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 A,Herresingle,,Hermod Holte Haugland,,Hans Jørgen Berg,"21/18,21/8",Hermod Holte Haugland,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Kato Abrahamsen,,Noah Andersen,"21/13,21/13",Kato Abrahamsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Noah Andersen,,Christer Andersen,"19/21,21/19,21/14",Noah Andersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Kato Abrahamsen,,Benny Vu,"21/7,21/9",Kato Abrahamsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Noah Andersen,,David Nguyen,"21/6,9/21,21/15",Noah Andersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Benny Vu,,Leonard Volrath Holmboe,"21/14,21/15",Benny Vu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Christer Andersen,,Amund Hanche Aker,"21/8,21/8",Christer Andersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Christer Andersen,,Marius Nybøe,"21/12,21/13",Christer Andersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Amund Hanche Aker,,Marius Nybøe,"14/21,21/14,21/19",Amund Hanche Aker,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Henrik Myrsve,,Audun Haugland,"21/16,21/13",Henrik Myrsve,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Noah Andersen,,Henrik Myrsve,"21/14,21/12",Noah Andersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Noah Andersen,,Audun Haugland,"21/10,21/16",Noah Andersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,David Nguyen,,Kristian Nilsen,"21/6,21/7",David Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,David Nguyen,,Trym Haug,"14/21,21/13,21/13",David Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Trym Haug,,Kristian Nilsen,"21/4,21/3",Trym Haug,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Benny Vu,,Andreas Karlsen,"21/7,21/10",Benny Vu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Andreas Karlsen,,Jørgen Aga Thoresen,"21/13,21/18",Andreas Karlsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Benny Vu,,Jørgen Aga Thoresen,"21/7,21/5",Benny Vu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Leonard Volrath Holmboe,,Mathias Stokkeland,"21/11,21/9",Leonard Volrath Holmboe,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Lars Torkelsen,,Mathias Stokkeland,"21/13,23/21",Lars Torkelsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Leonard Volrath Holmboe,,Lars Torkelsen,"17/21,21/17,21/19",Leonard Volrath Holmboe,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Felix Frithjof Piene,,Eivind Engeseth,"21/13,21/16",Felix Frithjof Piene,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Kato Abrahamsen,,Phillip Sperre Stephens,"21/6,21/2",Kato Abrahamsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Eivind Engeseth,,Phillip Sperre Stephens,"21/15,21/12",Eivind Engeseth,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Kato Abrahamsen,,Felix Frithjof Piene,"21/10,21/17",Kato Abrahamsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Kato Abrahamsen,,Eivind Engeseth,"21/17,21/8",Kato Abrahamsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herresingle,,Felix Frithjof Piene,,Phillip Sperre Stephens,"21/6,21/9",Felix Frithjof Piene,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Fabia Emblem,,Jenny Johansen,"22/20,21/15",Fabia Emblem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Frida Bjørvik Løvheim,,Pia Madeleine Slettingdalen Kristiansen,"21/10,21/13",Frida Bjørvik Løvheim,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Jenny Johansen,,Frida Bjørvik Løvheim,"21/12,26/22",Jenny Johansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Henny Bjørnsdatter Nordheim,,Mina Ueland,"21/12,21/7",Henny Bjørnsdatter Nordheim,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Fabia Emblem,,Anna Olava Hansen,"21/5,21/15",Fabia Emblem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Fabia Emblem,,Henny Bjørnsdatter Nordheim,"16/21,21/17,21/18",Fabia Emblem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Anna Olava Hansen,,Mina Ueland,"17/21,21/17,21/15",Anna Olava Hansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Henny Bjørnsdatter Nordheim,,Anna Olava Hansen,"21/7,21/13",Henny Bjørnsdatter Nordheim,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Damesingle,,Fabia Emblem,,Mina Ueland,"21/6,21/6",Fabia Emblem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Audun Haugland,Kato Abrahamsen,Henrik Myrsve,Andreas Karlsen,"21/18,18/21,21/13",Audun Haugland,Kato Abrahamsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Hans Jørgen Berg,Vetle Bækkelien,Benny Vu,Trym Haug,"16/21,21/18,21/18",Hans Jørgen Berg,Vetle Bækkelien
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Benny Vu,Trym Haug,Henrik Myrsve,Andreas Karlsen,"21/17,23/21",Benny Vu,Trym Haug
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Hans Jørgen Berg,Vetle Bækkelien,Lars Torkelsen,Christer Andersen,"21/19,16/21,21/13",Hans Jørgen Berg,Vetle Bækkelien
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Hans Jørgen Berg,Vetle Bækkelien,Audun Haugland,Kato Abrahamsen,"19/21,21/15,21/11",Hans Jørgen Berg,Vetle Bækkelien
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Lars Torkelsen,Christer Andersen,Henrik Myrsve,Andreas Karlsen,"21/16,18/21,21/18",Lars Torkelsen,Christer Andersen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Audun Haugland,Kato Abrahamsen,Benny Vu,Trym Haug,"17/21,21/19,21/13",Audun Haugland,Kato Abrahamsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Hans Jørgen Berg,Vetle Bækkelien,Henrik Myrsve,Andreas Karlsen,"21/11,21/9",Hans Jørgen Berg,Vetle Bækkelien
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U13 B,Herredouble,Audun Haugland,Kato Abrahamsen,Lars Torkelsen,Christer Andersen,"21/7,21/8",Audun Haugland,Kato Abrahamsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Martin Enghaug,,Sondre Mikkelsen,"21/18,21/13",Martin Enghaug,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Martin Enghaug,,Boyan Yu,"21/13,14/21,21/18",Martin Enghaug,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Sondre Mikkelsen,,John Nguyen,"18/21,21/18,21/16",Sondre Mikkelsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Martin Enghaug,,Andy Hang,"21/5,21/8",Martin Enghaug,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Martin Enghaug,,Thomas Iversen,"21/14,21/6",Martin Enghaug,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Thomas Iversen,,Andy Hang,"21/15,21/14",Thomas Iversen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Tobias Bruu Ringdal,,Kasper Lie Cook,"21/12,21/11",Tobias Bruu Ringdal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Boyan Yu,,Simen André Børke Høgberg,"21/14,21/10",Boyan Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Boyan Yu,,Kasper Lie Cook,"21/13,21/15",Boyan Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Tobias Bruu Ringdal,,Simen André Børke Høgberg,"21/11,21/10",Tobias Bruu Ringdal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Simen André Børke Høgberg,,Kasper Lie Cook,"21/8,21/12",Simen André Børke Høgberg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Boyan Yu,,Tobias Bruu Ringdal,"21/17,11/21,21/15",Boyan Yu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Ola Hellen,,Ferdinand Aiello,"15/21,21/15,21/17",Ola Hellen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Sondre Mikkelsen,,Niklas Andersen,"21/9,21/5",Sondre Mikkelsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Sondre Mikkelsen,,Ferdinand Aiello,"21/9,21/11",Sondre Mikkelsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Ola Hellen,,Niklas Andersen,"21/12,21/15",Ola Hellen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Ferdinand Aiello,,Niklas Andersen,"21/18,21/12",Ferdinand Aiello,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,Sondre Mikkelsen,,Ola Hellen,"21/12,21/13",Sondre Mikkelsen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,John Nguyen,,Leo Yuen,"21/12,21/16",John Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,John Nguyen,,John Erik Fosseland Hansen,"21/17,13/21,21/10",John Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herresingle,,John Erik Fosseland Hansen,,Leo Yuen,"15/21,21/19,21/14",John Erik Fosseland Hansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Therese Nguyen,,Sofie Søby Pedersen,"21/13,21/16",Therese Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Therese Nguyen,,Maria Jansson,"21/6,21/10",Therese Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Therese Nguyen,,Ingrid Sofie Langsjøvold,"21/10,21/4",Therese Nguyen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Ingrid Sofie Langsjøvold,,Maria Jansson,"21/19,21/14",Ingrid Sofie Langsjøvold,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Sunniva Sandnes,,Sofie Søby Pedersen,"21/16,11/21,21/18",Sunniva Sandnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Ane Hofstad Lycke,,Aleksandra Grefslie,"21/3,21/9",Ane Hofstad Lycke,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Sofie Søby Pedersen,,Aleksandra Grefslie,"21/15,21/12",Sofie Søby Pedersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Ane Hofstad Lycke,,Sunniva Sandnes,"21/15,21/16",Ane Hofstad Lycke,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Sunniva Sandnes,,Aleksandra Grefslie,"19/21,24/22,21/17",Sunniva Sandnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Damesingle,,Sofie Søby Pedersen,,Ane Hofstad Lycke,"21/17,21/19",Sofie Søby Pedersen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Simen André Børke Høgberg,Sondre Mikkelsen,Tobias Bruu Ringdal,Ola Hellen,"21/13,20/22,21/17",Simen André Børke Høgberg,Sondre Mikkelsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Simen André Børke Høgberg,Sondre Mikkelsen,Edvard Berdal Eek,Thomas Iversen,"21/9,21/15",Simen André Børke Høgberg,Sondre Mikkelsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Simen André Børke Høgberg,Sondre Mikkelsen,John Nguyen,Martin Enghaug,"24/22,24/22",Simen André Børke Høgberg,Sondre Mikkelsen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Edvard Berdal Eek,Thomas Iversen,John Nguyen,Martin Enghaug,"23/21,9/21,21/16",Edvard Berdal Eek,Thomas Iversen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Ferdinand Aiello,Ane Hofstad Lycke,Andy Hang,Kasper Lie Cook,"21/18,21/15",Ferdinand Aiello,Ane Hofstad Lycke
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Tobias Bruu Ringdal,Ola Hellen,Daniel Brustad Snorrason,Noa Norden,"21/10,21/11",Tobias Bruu Ringdal,Ola Hellen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Tobias Bruu Ringdal,Ola Hellen,Ferdinand Aiello,Ane Hofstad Lycke,"21/15,21/19",Tobias Bruu Ringdal,Ola Hellen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Daniel Brustad Snorrason,Noa Norden,Andy Hang,Kasper Lie Cook,"21/14,24/22",Daniel Brustad Snorrason,Noa Norden
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Tobias Bruu Ringdal,Ola Hellen,Andy Hang,Kasper Lie Cook,"21/12,21/13",Tobias Bruu Ringdal,Ola Hellen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 A,Herredouble,Daniel Brustad Snorrason,Noa Norden,Ferdinand Aiello,Ane Hofstad Lycke,"15/21,21/19,21/12",Daniel Brustad Snorrason,Noa Norden
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Edvard Berdal Eek,,Natanael Stordal,"21/19,13/21,21/18",Edvard Berdal Eek,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Edvard Berdal Eek,,Anton Lundem,"21/8,21/17",Edvard Berdal Eek,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Natanael Stordal,,Theo Piene,"21/8,21/16",Natanael Stordal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Magnus Hønstvedt,,Sander Hogganvik Myhrvold,"21/17,21/19",Magnus Hønstvedt,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Edvard Berdal Eek,,Magnus Hønstvedt,"21/19,21/19",Edvard Berdal Eek,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Edvard Berdal Eek,,Sander Hogganvik Myhrvold,"21/2,21/9",Edvard Berdal Eek,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Anton Lundem,,Morten Stormo,"21/10,15/21,21/15",Anton Lundem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Daniel Lukas Saltvik,,Sondre Flakstad,"21/12,17/21,21/16",Daniel Lukas Saltvik,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Morten Stormo,,Sondre Flakstad,"21/14,21/13",Morten Stormo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Anton Lundem,,Daniel Lukas Saltvik,"21/13,17/21,21/19",Anton Lundem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Daniel Lukas Saltvik,,Morten Stormo,"21/13,21/14",Daniel Lukas Saltvik,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Anton Lundem,,Sondre Flakstad,"18/21,21/12,21/5",Anton Lundem,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Sondre Førsund,,Sindre Sjåvåg,"21/13,21/14",Sondre Førsund,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Theo Piene,,Martin Borch,"21/11,21/11",Theo Piene,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Sindre Sjåvåg,,Martin Borch,"21/23,21/17,22/20",Sindre Sjåvåg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Theo Piene,,Sondre Førsund,"21/14,21/10",Theo Piene,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Theo Piene,,Sindre Sjåvåg,"21/17,14/21,21/9",Theo Piene,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Sondre Førsund,,Martin Borch,"21/12,21/8",Sondre Førsund,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Simen Jessen Bjerkeli,,Jakob Grønbeck,"21/10,21/3",Simen Jessen Bjerkeli,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Natanael Stordal,,Jakob Grønbeck,"21/13,21/10",Natanael Stordal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Herresingle,,Natanael Stordal,,Simen Jessen Bjerkeli,"15/21,21/18,21/13",Natanael Stordal,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Elisabeth Parnemann Sirevåg,,Linett Meyer Bøe,"21/15,16/21,21/14",Elisabeth Parnemann Sirevåg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Elisabeth Parnemann Sirevåg,,Sara  Enge-Taftø,"21/11,21/9",Elisabeth Parnemann Sirevåg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Elisabeth Parnemann Sirevåg,,Vilde Sandnes,"21/19,21/17",Elisabeth Parnemann Sirevåg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Klara H. Kvalvik,,Hedda Skjærseth,"21/11,21/7",Klara H. Kvalvik,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Linett Meyer Bøe,,Amalie Kristoffersen,"21/11,21/3",Linett Meyer Bøe,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Hedda Skjærseth,,Amalie Kristoffersen,"10/21,21/17,21/11",Hedda Skjærseth,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Linett Meyer Bøe,,Klara H. Kvalvik,"21/14,13/21,21/19",Linett Meyer Bøe,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Linett Meyer Bøe,,Hedda Skjærseth,"21/9,21/10",Linett Meyer Bøe,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U15 B,Damesingle,,Klara H. Kvalvik,,Amalie Kristoffersen,"21/18,21/11",Klara H. Kvalvik,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Ludvig Smith-Meyer,,Amund Rikheim Huus,"21/13,21/13",Ludvig Smith-Meyer,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Amund Rikheim Huus,,Erlend Stormo,"21/12,17/21,21/13",Amund Rikheim Huus,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Ludvig Smith-Meyer,,Tobias Myhre,"21/18,21/10",Ludvig Smith-Meyer,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Olav Sagård Roalkvam,,Trym Eirik Grytten,"21/8,21/8",Olav Sagård Roalkvam,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Erlend Stormo,,Olav Sagård Roalkvam,"21/11,21/12",Erlend Stormo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Erlend Stormo,,Trym Eirik Grytten,"21/18,21/12",Erlend Stormo,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Andreas Johansson Dreng,,Andre Valerij Stubben,"21/19,21/16",Andreas Johansson Dreng,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Amund Rikheim Huus,,Andreas Johansson Dreng,"21/13,22/20",Amund Rikheim Huus,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Amund Rikheim Huus,,Andre Valerij Stubben,"21/17,21/13",Amund Rikheim Huus,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Markus Treidene Hansen,,Max Ulrich,"21/18,21/14",Markus Treidene Hansen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Tobias Myhre,,Haakon  Liu Selnes,"21/17,18/21,21/13",Tobias Myhre,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Haakon  Liu Selnes,,Max Ulrich,"21/11,21/8",Haakon  Liu Selnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Tobias Myhre,,Markus Treidene Hansen,"21/12,17/21,21/12",Tobias Myhre,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Tobias Myhre,,Max Ulrich,"21/6,21/15",Tobias Myhre,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Haakon  Liu Selnes,,Markus Treidene Hansen,"21/15,21/14",Haakon  Liu Selnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Ludvig Smith-Meyer,,Martin Karlsen,"21/17,21/15",Ludvig Smith-Meyer,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Ludvig Smith-Meyer,,Marius Lie,"21/13,21/13",Ludvig Smith-Meyer,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herresingle,,Marius Lie,,Martin Karlsen,"21/16,21/15",Marius Lie,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damesingle,,Nina Wang Korbu,,Maren B. Frednes,"21/11,22/20",Nina Wang Korbu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damesingle,,Hanne Smittil Høksnes,,Victoria Smestadmoen,"21/14,24/22",Hanne Smittil Høksnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damesingle,,Hanne Smittil Høksnes,,Maren B. Frednes,"21/18,21/18",Hanne Smittil Høksnes,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damesingle,,Victoria Smestadmoen,,Nina Wang Korbu,"21/9,21/13",Victoria Smestadmoen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damesingle,,Victoria Smestadmoen,,Maren B. Frednes,"21/13,23/21",Victoria Smestadmoen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damesingle,,Nina Wang Korbu,,Hanne Smittil Høksnes,"21/14,21/23,23/21",Nina Wang Korbu,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Amund Rikheim Huus,Ludvig Smith-Meyer,Andre Valerij Stubben,Erlend Stormo,"21/13,21/14",Amund Rikheim Huus,Ludvig Smith-Meyer
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Markus Treidene Hansen,Andreas Johansson Dreng,Victoria Smestadmoen,Trym Eirik Grytten,"21/10,21/12",Markus Treidene Hansen,Andreas Johansson Dreng
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Andre Valerij Stubben,Erlend Stormo,Victoria Smestadmoen,Trym Eirik Grytten,"21/13,21/9",Andre Valerij Stubben,Erlend Stormo
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Andre Valerij Stubben,Erlend Stormo,Markus Treidene Hansen,Andreas Johansson Dreng,"21/11,21/16",Andre Valerij Stubben,Erlend Stormo
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Amund Rikheim Huus,Ludvig Smith-Meyer,Olav Sagård Roalkvam,Haakon  Liu Selnes,"21/14,21/18",Amund Rikheim Huus,Ludvig Smith-Meyer
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Martin Karlsen,Tobias Myhre,Olav Sagård Roalkvam,Haakon  Liu Selnes,"21/14,21/17",Martin Karlsen,Tobias Myhre
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Herredouble,Amund Rikheim Huus,Ludvig Smith-Meyer,Martin Karlsen,Tobias Myhre,"24/22,17/21,21/18",Amund Rikheim Huus,Ludvig Smith-Meyer
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damedouble,Sofie Søby Pedersen,Therese Nguyen,Nina Wang Korbu,Ingrid Sofie Langsjøvold,"21/10,21/12",Sofie Søby Pedersen,Therese Nguyen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damedouble,Sofie Søby Pedersen,Therese Nguyen,Maria Jansson,Sunniva Sandnes,"17/21,21/13,21/14",Sofie Søby Pedersen,Therese Nguyen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damedouble,Sofie Søby Pedersen,Therese Nguyen,Hanne Smittil Høksnes,Maren B. Frednes,"21/16,22/20",Sofie Søby Pedersen,Therese Nguyen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damedouble,Hanne Smittil Høksnes,Maren B. Frednes,Maria Jansson,Sunniva Sandnes,"21/15,22/20",Hanne Smittil Høksnes,Maren B. Frednes
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 A,Damedouble,Nina Wang Korbu,Ingrid Sofie Langsjøvold,Sara Shefali Homane,Klara H. Kvalvik,"21/17,21/16",Nina Wang Korbu,Ingrid Sofie Langsjøvold
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,John Erik Fosseland Hansen,Hermod Holte Haugland,Martin Nguyen,Jacob Jarle Hartmann Møklebust,"21/15,21/15",John Erik Fosseland Hansen,Hermod Holte Haugland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Daniel Lukas Saltvik,Simen Jessen Bjerkeli,Sindre Sjåvåg,Sondre Flakstad,"21/6,21/14",Daniel Lukas Saltvik,Simen Jessen Bjerkeli
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Martin Nguyen,Jacob Jarle Hartmann Møklebust,Natanael Stordal,Remi Sveberg,"21/18,21/16",Martin Nguyen,Jacob Jarle Hartmann Møklebust
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Martin Nguyen,Jacob Jarle Hartmann Møklebust,Daniel Lukas Saltvik,Simen Jessen Bjerkeli,"21/16,21/11",Martin Nguyen,Jacob Jarle Hartmann Møklebust
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Natanael Stordal,Remi Sveberg,Sindre Sjåvåg,Sondre Flakstad,"21/6,21/0",Natanael Stordal,Remi Sveberg
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Martin Nguyen,Jacob Jarle Hartmann Møklebust,Sindre Sjåvåg,Sondre Flakstad,"21/5,21/3",Martin Nguyen,Jacob Jarle Hartmann Møklebust
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Natanael Stordal,Remi Sveberg,Daniel Lukas Saltvik,Simen Jessen Bjerkeli,"21/15,19/21,21/13",Natanael Stordal,Remi Sveberg
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Sondre Førsund,Niklas Andersen,Morten Stormo,Rasmus Ødegaard,"21/16,21/17",Sondre Førsund,Niklas Andersen
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,John Erik Fosseland Hansen,Hermod Holte Haugland,Magnus Hønstvedt,Anton Lundem,"21/16,21/8",John Erik Fosseland Hansen,Hermod Holte Haugland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Morten Stormo,Rasmus Ødegaard,Magnus Hønstvedt,Anton Lundem,"21/19,21/10",Morten Stormo,Rasmus Ødegaard
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,John Erik Fosseland Hansen,Hermod Holte Haugland,Sondre Førsund,Niklas Andersen,"21/16,21/6",John Erik Fosseland Hansen,Hermod Holte Haugland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,Magnus Hønstvedt,Anton Lundem,Sondre Førsund,Niklas Andersen,"21/14,19/21,21/16",Magnus Hønstvedt,Anton Lundem
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U17 B,Herredouble,John Erik Fosseland Hansen,Hermod Holte Haugland,Morten Stormo,Rasmus Ødegaard,"21/2,21/4",John Erik Fosseland Hansen,Hermod Holte Haugland
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 A,Herresingle,,Sebastian Dahl,,Joakim Hauger,"18/21,21/15,21/17",Sebastian Dahl,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 A,Herresingle,,Axel Bech,,Sebastian Dahl,"21/19,21/11",Axel Bech,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 A,Herresingle,,Axel Bech,,Joakim Hauger,"21/9,21/5",Axel Bech,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Jacob Jarle Hartmann Møklebust,,Remi Sveberg,"21/15,19/21,24/22",Jacob Jarle Hartmann Møklebust,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Jacob Jarle Hartmann Møklebust,,Christoffer Sørensen,"21/15,22/20",Jacob Jarle Hartmann Møklebust,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Jacob Jarle Hartmann Møklebust,,Silje Johnsen,"21/16,21/17",Jacob Jarle Hartmann Møklebust,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Christoffer Sørensen,,Silje Johnsen,"21/17,22/20",Christoffer Sørensen,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,August Vebostad,,Halvdan Solvåg Nesse,"21/13,15/21,24/22",August Vebostad,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Remi Sveberg,,Sara Shefali Homane,"21/13,21/12",Remi Sveberg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Halvdan Solvåg Nesse,,Sara Shefali Homane,"21/11,21/14",Halvdan Solvåg Nesse,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Neil Zhou,,August Vebostad,"21/15,21/8",Neil Zhou,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Neil Zhou,,Halvdan Solvåg Nesse,"16/21,21/17,21/5",Neil Zhou,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Remi Sveberg,,August Vebostad,"21/13,21/15",Remi Sveberg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Remi Sveberg,,Halvdan Solvåg Nesse,"19/21,21/2,21/6",Remi Sveberg,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Neil Zhou,,Sara Shefali Homane,"21/7,21/11",Neil Zhou,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,August Vebostad,,Sara Shefali Homane,"15/21,21/12,21/18",August Vebostad,
+2015/2016,Jarlsberg Jarlsbergosten 2015,07.11.2015,U19 B,Herresingle,,Remi Sveberg,,Neil Zhou,"21/15,21/11",Remi Sveberg,

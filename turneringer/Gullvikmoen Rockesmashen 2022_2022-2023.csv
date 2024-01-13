@@ -1,234 +1,141 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Erik Måøy,Hildegunn Måøy,"21/14,14/21,21/8",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Henrik Buvik,Leo Fortunato,"21/10,21/13",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Henrik Buvik,Leo Fortunato,"21/17,21/10",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Henrik Buvik,Leo Fortunato,Erik Måøy,Hildegunn Måøy,"21/16,22/20",Henrik Buvik,Leo Fortunato
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Runar Måøy,Fred Moen,"21/16,21/11",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Erik Måøy,Hildegunn Måøy,"21/6,21/8",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Runar Måøy,Fred Moen,"19/21,21/15,21/17",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Runar Måøy,Fred Moen,Henrik Buvik,Leo Fortunato,"21/18,21/19",Runar Måøy,Fred Moen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Trond Mære,Roar Natvig,"21/15,21/16",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Runar Måøy,Fred Moen,Erik Måøy,Hildegunn Måøy,"21/13,21/17",Runar Måøy,Fred Moen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Roar Natvig,,Fred Moen,"21/16,23/25,21/15",Roar Natvig,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Fred Moen,,Morten Langen,"21/11,19/21,21/17",Fred Moen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Fred Moen,,Harald Buvik,"21/16,21/11",Fred Moen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Morten Langen,,Harald Buvik,"21/19,16/21,21/15",Morten Langen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Roar Natvig,,Erik Måøy,"21/18,21/14",Roar Natvig,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Roar Natvig,,Runar Måøy,"21/12,21/11",Roar Natvig,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Erik Måøy,,Runar Måøy,"21/15,21/16",Erik Måøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Roar Natvig,,Fred Moen,"21/16,23/25,21/15",Roar Natvig,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Fred Moen,,Morten Langen,"21/11,19/21,21/17",Fred Moen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Fred Moen,,Harald Buvik,"21/16,21/11",Fred Moen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Morten Langen,,Harald Buvik,"21/19,16/21,21/15",Morten Langen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Roar Natvig,,Erik Måøy,"21/18,21/14",Roar Natvig,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Roar Natvig,,Runar Måøy,"21/12,21/11",Roar Natvig,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,,Erik Måøy,,Runar Måøy,"21/15,21/16",Erik Måøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Øystein Sveine,Morten Solberg,Ole Martin Kolberg,Morten Langen,"19/21,22/20,21/15",Øystein Sveine,Morten Solberg
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Ole Petter Øren,Lars Petter Danielsen,Ole Martin Kolberg,Morten Langen,"21/17,21/14",Ole Petter Øren,Lars Petter Danielsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Øystein Sveine,Morten Solberg,Ole Petter Øren,Lars Petter Danielsen,"21/15,23/21",Øystein Sveine,Morten Solberg
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Hildegunn Måøy,"21/17,14/21,21/16",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Hildegunn Måøy,,Øystein Sveine,"21/12,21/19",Hildegunn Måøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Øystein Sveine,,Stig Gåsbakk,"15/21,21/7,22/20",Øystein Sveine,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Hildegunn Måøy,,Lars Petter Danielsen,"21/16,21/18",Hildegunn Måøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Lars Petter Danielsen,,Øystein Sveine,"21/14,13/21,21/16",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Stig Gåsbakk,,Hildegunn Måøy,"21/12,21/17",Stig Gåsbakk,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Lars Petter Danielsen,,Stig Gåsbakk,"21/17,21/11",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Tom Smebye,"21/18,21/13",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Joar Gåsbakk,,Ole Martin Kolberg,"21/18,21/15",Joar Gåsbakk,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Joar Gåsbakk,"21/13,21/14",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Ole Martin Kolberg,"0/22,21/15,21/19",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Tom Smebye,,Joar Gåsbakk,"15/21,21/19,22/20",Tom Smebye,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Tom Smebye,,Ole Martin Kolberg,"13/21,21/19,21/16",Tom Smebye,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Hildegunn Måøy,"21/17,14/21,21/16",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Hildegunn Måøy,,Øystein Sveine,"21/12,21/19",Hildegunn Måøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Øystein Sveine,,Stig Gåsbakk,"15/21,21/7,22/20",Øystein Sveine,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Hildegunn Måøy,,Lars Petter Danielsen,"21/16,21/18",Hildegunn Måøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Lars Petter Danielsen,,Øystein Sveine,"21/14,13/21,21/16",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Stig Gåsbakk,,Hildegunn Måøy,"21/12,21/17",Stig Gåsbakk,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Lars Petter Danielsen,,Stig Gåsbakk,"21/17,21/11",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Tom Smebye,"21/18,21/13",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Joar Gåsbakk,,Ole Martin Kolberg,"21/18,21/15",Joar Gåsbakk,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Joar Gåsbakk,"21/13,21/14",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Marius Olav Evensen,,Ole Martin Kolberg,"0/22,21/15,21/19",Marius Olav Evensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Tom Smebye,,Joar Gåsbakk,"15/21,21/19,22/20",Tom Smebye,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,,Tom Smebye,,Ole Martin Kolberg,"13/21,21/19,21/16",Tom Smebye,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Jørgen Olsen,Marius Olsen,Ole Morten Heir,Marius Brevik,"21/13,19/21,21/17",Jørgen Olsen,Marius Olsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Anita Olsen,Anne Berit Bergsmo,Helge Hansen,Harald Buvik,"21/14,21/14",Anita Olsen,Anne Berit Bergsmo
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Jørgen Olsen,Marius Olsen,Anita Olsen,Anne Berit Bergsmo,"21/18,21/16",Jørgen Olsen,Marius Olsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Jørgen Olsen,Marius Olsen,Helge Hansen,Harald Buvik,"21/19,20/22,21/18",Jørgen Olsen,Marius Olsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Stig Gåsbakk,Joar Gåsbakk,Erik Winger,Jan Aage Nyborg,"21/18,21/17",Stig Gåsbakk,Joar Gåsbakk
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Ole Morten Heir,Marius Brevik,Tom Smebye,John Thomas Krogstad,"21/9,21/15",Ole Morten Heir,Marius Brevik
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Stig Gåsbakk,Joar Gåsbakk,Tom Smebye,John Thomas Krogstad,"21/12,21/16",Stig Gåsbakk,Joar Gåsbakk
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Ole Morten Heir,Marius Brevik,Stig Gåsbakk,Joar Gåsbakk,"13/21,21/10,21/18",Ole Morten Heir,Marius Brevik
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Ole Morten Heir,Marius Brevik,Erik Winger,Jan Aage Nyborg,"21/19,21/17",Ole Morten Heir,Marius Brevik
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Erik Winger,Jan Aage Nyborg,Tom Smebye,John Thomas Krogstad,"21/14,21/16",Erik Winger,Jan Aage Nyborg
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,John Thomas Krogstad,,Carl Danielsen,"21/9,21/8",John Thomas Krogstad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,Kurt Førde,"21/16,21/3",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,John Thomas Krogstad,,Kurt Førde,"21/9,21/9",John Thomas Krogstad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Inge Rosset,,Carl Danielsen,"21/7,21/7",Inge Rosset,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,Inge Rosset,"21/13,23/21",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Inge Rosset,,John Thomas Krogstad,"21/17,21/18",Inge Rosset,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Carl Danielsen,,Kurt Førde,"21/17,21/12",Carl Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,John Thomas Krogstad,"21/12,21/7",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,Carl Danielsen,"21/8,21/14",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Inge Rosset,,Kurt Førde,"21/4,21/6",Inge Rosset,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,John Thomas Krogstad,,Carl Danielsen,"21/9,21/8",John Thomas Krogstad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,Kurt Førde,"21/16,21/3",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,John Thomas Krogstad,,Kurt Førde,"21/9,21/9",John Thomas Krogstad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Inge Rosset,,Carl Danielsen,"21/7,21/7",Inge Rosset,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,Inge Rosset,"21/13,23/21",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Inge Rosset,,John Thomas Krogstad,"21/17,21/18",Inge Rosset,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Carl Danielsen,,Kurt Førde,"21/17,21/12",Carl Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,John Thomas Krogstad,"21/12,21/7",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Helge Hansen,,Carl Danielsen,"21/8,21/14",Helge Hansen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Inge Rosset,,Kurt Førde,"21/4,21/6",Inge Rosset,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Sylvia Husmo,,Ida Lillevik Førde,"22/24,21/13,21/9",Sylvia Husmo,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Pernille Lillevik,,Line Eldegard,"21/13,21/10",Pernille Lillevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Line Eldegard,,Ida Lillevik Førde,"21/15,21/13",Line Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Pernille Lillevik,,Sylvia Husmo,"21/8,21/6",Pernille Lillevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Minni Elise Aakvik,,Ida Lillevik Førde,"21/14,21/5",Minni Elise Aakvik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Sylvia Husmo,,Line Eldegard,"21/18,22/20",Sylvia Husmo,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Pernille Lillevik,,Minni Elise Aakvik,"21/15,21/7",Pernille Lillevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Pernille Lillevik,,Ida Lillevik Førde,"21/3,21/4",Pernille Lillevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,,Line Eldegard,,Minni Elise Aakvik,"18/21,21/17,21/8",Line Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Kurt Førde,Johannes Lillevik Førde,Nikolai Danielsen,Marius Olav Evensen,"18/21,21/9,21/15",Kurt Førde,Johannes Lillevik Førde
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Inge Rosset,Svenn Jostein Bergin,Kurt Førde,Johannes Lillevik Førde,"21/8,21/10",Inge Rosset,Svenn Jostein Bergin
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Inge Rosset,Svenn Jostein Bergin,Nikolai Danielsen,Marius Olav Evensen,"21/13,21/8",Inge Rosset,Svenn Jostein Bergin
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Erik Måøy,Hildegunn Måøy,"21/14,14/21,21/8",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Henrik Buvik,Leo Fortunato,"21/10,21/13",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Henrik Buvik,Leo Fortunato,"21/17,21/10",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Henrik Buvik,Leo Fortunato,Erik Måøy,Hildegunn Måøy,"21/16,22/20",Henrik Buvik,Leo Fortunato
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Runar Måøy,Fred Moen,"21/16,21/11",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Erik Måøy,Hildegunn Måøy,"21/6,21/8",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Runar Måøy,Fred Moen,"19/21,21/15,21/17",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Runar Måøy,Fred Moen,Henrik Buvik,Leo Fortunato,"21/18,21/19",Runar Måøy,Fred Moen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Trond Mære,Roar Natvig,"21/15,21/16",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Runar Måøy,Fred Moen,Erik Måøy,Hildegunn Måøy,"21/13,21/17",Runar Måøy,Fred Moen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Erik Måøy,Hildegunn Måøy,"21/14,14/21,21/8",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Henrik Buvik,Leo Fortunato,"21/10,21/13",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Henrik Buvik,Leo Fortunato,"21/17,21/10",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Henrik Buvik,Leo Fortunato,Erik Måøy,Hildegunn Måøy,"21/16,22/20",Henrik Buvik,Leo Fortunato
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Runar Måøy,Fred Moen,"21/16,21/11",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Erik Måøy,Hildegunn Måøy,"21/6,21/8",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Trond Mære,Roar Natvig,Runar Måøy,Fred Moen,"19/21,21/15,21/17",Trond Mære,Roar Natvig
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Runar Måøy,Fred Moen,Henrik Buvik,Leo Fortunato,"21/18,21/19",Runar Måøy,Fred Moen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Kai Roger Stensen,Andreas Nordhøy,Trond Mære,Roar Natvig,"21/15,21/16",Kai Roger Stensen,Andreas Nordhøy
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Runar Måøy,Fred Moen,Erik Måøy,Hildegunn Måøy,"21/13,21/17",Runar Måøy,Fred Moen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 A,Daria Mari Beck,Konrad Soløy Myrbostad,Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup,"21/3,21/11",Daria Mari Beck,Konrad Soløy Myrbostad
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Jaran Salater Nygård,"21/12,21/8",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Noah Hallan,,Brede Martinsen,"21/14,21/13",Noah Hallan,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Theo Leander Johansen Heir,"21/1,21/1",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Jaran Salater Nygård,,Theo Leander Johansen Heir,"21/1,21/12",Jaran Salater Nygård,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Jaran Salater Nygård,,Noah Hallan,"16/21,21/10,21/7",Jaran Salater Nygård,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Brede Martinsen,"21/1,21/9",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Noah Hallan,"21/5,21/5",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Noah Hallan,,Theo Leander Johansen Heir,"21/9,21/4",Noah Hallan,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Brede Martinsen,,Theo Leander Johansen Heir,"21/12,21/8",Brede Martinsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Jaran Salater Nygård,,Brede Martinsen,"21/8,21/12",Jaran Salater Nygård,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Jaran Salater Nygård,"21/12,21/8",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Noah Hallan,,Brede Martinsen,"21/14,21/13",Noah Hallan,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Theo Leander Johansen Heir,"21/1,21/1",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Jaran Salater Nygård,,Theo Leander Johansen Heir,"21/1,21/12",Jaran Salater Nygård,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Jaran Salater Nygård,,Noah Hallan,"16/21,21/10,21/7",Jaran Salater Nygård,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Brede Martinsen,"21/1,21/9",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Viktor Eldegard,,Noah Hallan,"21/5,21/5",Viktor Eldegard,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Noah Hallan,,Theo Leander Johansen Heir,"21/9,21/4",Noah Hallan,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Brede Martinsen,,Theo Leander Johansen Heir,"21/12,21/8",Brede Martinsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Jaran Salater Nygård,,Brede Martinsen,"21/8,21/12",Jaran Salater Nygård,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Alva Karoline Sandøy Bredrup,,Ida Amalie Skårn,"21/10,21/4",Alva Karoline Sandøy Bredrup,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Daria Mari Beck,,Alva Karoline Sandøy Bredrup,"21/0,21/0",Daria Mari Beck,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Daria Mari Beck,,Emine Helena S. Olsen,"21/9,21/15",Daria Mari Beck,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Daria Mari Beck,,Ida Amalie Skårn,"21/3,21/4",Daria Mari Beck,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Alva Karoline Sandøy Bredrup,,Emine Helena S. Olsen,"21/9,21/17",Alva Karoline Sandøy Bredrup,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,,Emine Helena S. Olsen,,Ida Amalie Skårn,"21/4,21/13",Emine Helena S. Olsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Viktor Eldegard,Jaran Salater Nygård,"21/11,26/24",Maja Sæther-Danielsen,Malin Sæther-Danielsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup,Ida Amalie Skårn,Nora Langen,"20/22,21/10,21/14",Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Viktor Eldegard,Jaran Salater Nygård,Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup,"21/0,21/0",Viktor Eldegard,Jaran Salater Nygård
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Viktor Eldegard,Jaran Salater Nygård,Ida Amalie Skårn,Nora Langen,"21/9,21/9",Viktor Eldegard,Jaran Salater Nygård
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Daria Mari Beck,Emine Helena S. Olsen,"21/19,21/14",Maja Sæther-Danielsen,Malin Sæther-Danielsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Brede Martinsen,Noah Hallan,"21/7,21/4",Maja Sæther-Danielsen,Malin Sæther-Danielsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Brede Martinsen,Noah Hallan,Daria Mari Beck,Emine Helena S. Olsen,"23/21,10/21,21/18",Brede Martinsen,Noah Hallan
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Ludvig Kolberg,"21/18,21/10",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/5,21/14",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Konrad Soløy Myrbostad,,Mattis Sæther-Danielsen,"21/19,21/15",Konrad Soløy Myrbostad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Mattis Sæther-Danielsen,,Jonathan Rohde Hallager,"21/6,21/16",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Konrad Soløy Myrbostad,,Jonathan Rohde Hallager,"19/21,21/14,21/16",Konrad Soløy Myrbostad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Mattis Sæther-Danielsen,"21/17,21/14",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Konrad Soløy Myrbostad,"21/17,21/14",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Ludvig Kolberg,,Johannes Lillevik Førde,"21/19,23/21",Ludvig Kolberg,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Einar Mathias Øren,,Oliver Langen,"21/18,21/7",Einar Mathias Øren,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Johannes Lillevik Førde,,Oliver Langen,"27/25,21/13",Johannes Lillevik Førde,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Ludvig Kolberg,,Einar Mathias Øren,"21/18,21/8",Ludvig Kolberg,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Johannes Lillevik Førde,,Einar Mathias Øren,"22/20,21/19",Johannes Lillevik Førde,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Ludvig Kolberg,,Oliver Langen,"21/15,21/12",Ludvig Kolberg,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Ludvig Kolberg,"21/18,21/10",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/5,21/14",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Konrad Soløy Myrbostad,,Mattis Sæther-Danielsen,"21/19,21/15",Konrad Soløy Myrbostad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Mattis Sæther-Danielsen,,Jonathan Rohde Hallager,"21/6,21/16",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Konrad Soløy Myrbostad,,Jonathan Rohde Hallager,"19/21,21/14,21/16",Konrad Soløy Myrbostad,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Mattis Sæther-Danielsen,"21/17,21/14",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Benjamin Brevik,,Konrad Soløy Myrbostad,"21/17,21/14",Benjamin Brevik,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Ludvig Kolberg,,Johannes Lillevik Førde,"21/19,23/21",Ludvig Kolberg,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Einar Mathias Øren,,Oliver Langen,"21/18,21/7",Einar Mathias Øren,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Johannes Lillevik Førde,,Oliver Langen,"27/25,21/13",Johannes Lillevik Førde,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Ludvig Kolberg,,Einar Mathias Øren,"21/18,21/8",Ludvig Kolberg,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Johannes Lillevik Førde,,Einar Mathias Øren,"22/20,21/19",Johannes Lillevik Førde,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,,Ludvig Kolberg,,Oliver Langen,"21/15,21/12",Ludvig Kolberg,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Ludvig Kolberg,Elias Gilhay,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Ludvig Kolberg,Elias Gilhay
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Benjamin Brevik,Konrad Soløy Myrbostad,Oliver Langen,Jonathan Rohde Hallager,"21/9,21/10",Benjamin Brevik,Konrad Soløy Myrbostad
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Benjamin Brevik,Konrad Soløy Myrbostad,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Benjamin Brevik,Konrad Soløy Myrbostad
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Benjamin Brevik,Konrad Soløy Myrbostad,Einar Mathias Øren,Mattis Sæther-Danielsen,"21/11,21/11",Benjamin Brevik,Konrad Soløy Myrbostad
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Einar Mathias Øren,Mattis Sæther-Danielsen,Oliver Langen,Jonathan Rohde Hallager,"21/15,21/9",Einar Mathias Øren,Mattis Sæther-Danielsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Benjamin Brevik,Konrad Soløy Myrbostad,Ludvig Kolberg,Elias Gilhay,"21/19,21/18",Benjamin Brevik,Konrad Soløy Myrbostad
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Einar Mathias Øren,Mattis Sæther-Danielsen,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Einar Mathias Øren,Mattis Sæther-Danielsen
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Ludvig Kolberg,Elias Gilhay,Oliver Langen,Jonathan Rohde Hallager,"21/15,21/15",Ludvig Kolberg,Elias Gilhay
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Oliver Langen,Jonathan Rohde Hallager,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Oliver Langen,Jonathan Rohde Hallager
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Ludvig Kolberg,Elias Gilhay,Einar Mathias Øren,Mattis Sæther-Danielsen,"12/21,21/10,21/6",Ludvig Kolberg,Elias Gilhay
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Marthe Evjenth,,Nora Langen,"21/12,21/14",Marthe Evjenth,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Maja Sæther-Danielsen,,Nora Langen,"21/12,21/11",Maja Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Malin Sæther-Danielsen,,Maja Sæther-Danielsen,"21/23,21/18,23/21",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Malin Sæther-Danielsen,,Marthe Evjenth,"21/8,21/16",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Malin Sæther-Danielsen,,Nora Langen,"21/15,21/15",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Maja Sæther-Danielsen,,Marthe Evjenth,"21/19,21/5",Maja Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Marthe Evjenth,,Nora Langen,"21/12,21/14",Marthe Evjenth,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Maja Sæther-Danielsen,,Nora Langen,"21/12,21/11",Maja Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Malin Sæther-Danielsen,,Maja Sæther-Danielsen,"21/23,21/18,23/21",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Malin Sæther-Danielsen,,Marthe Evjenth,"21/8,21/16",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Malin Sæther-Danielsen,,Nora Langen,"21/15,21/15",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,,Maja Sæther-Danielsen,,Marthe Evjenth,"21/19,21/5",Maja Sæther-Danielsen,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herresingle,,Andreas Nordhøy,,Ole Petter Øren,"21/14,21/17",Andreas Nordhøy,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herresingle,,Kai Roger Stensen,,Håvard Soløy,"21/14,21/5",Kai Roger Stensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herresingle,,Andreas Nordhøy,,Håvard Soløy,"21/6,21/15",Andreas Nordhøy,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herresingle,,Håvard Soløy,,Ole Petter Øren,"22/24,21/14,26/24",Håvard Soløy,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herresingle,,Kai Roger Stensen,,Andreas Nordhøy,"21/14,21/13",Kai Roger Stensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herresingle,,Kai Roger Stensen,,Ole Petter Øren,"21/12,21/18",Kai Roger Stensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Trond Mære,Roar Natvig,Erik Måøy,Hildegunn Måøy,"21/14,14/21,21/8",Trond Mære,Roar Natvig
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Henrik Buvik,Leo Fortunato,"21/10,21/13",Kai Roger Stensen,Andreas Nordhøy
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Trond Mære,Roar Natvig,Henrik Buvik,Leo Fortunato,"21/17,21/10",Trond Mære,Roar Natvig
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Henrik Buvik,Leo Fortunato,Erik Måøy,Hildegunn Måøy,"21/16,22/20",Henrik Buvik,Leo Fortunato
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Runar Måøy,Fred Moen,"21/16,21/11",Kai Roger Stensen,Andreas Nordhøy
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Erik Måøy,Hildegunn Måøy,"21/6,21/8",Kai Roger Stensen,Andreas Nordhøy
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Trond Mære,Roar Natvig,Runar Måøy,Fred Moen,"19/21,21/15,21/17",Trond Mære,Roar Natvig
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Runar Måøy,Fred Moen,Henrik Buvik,Leo Fortunato,"21/18,21/19",Runar Måøy,Fred Moen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Trond Mære,Roar Natvig,"21/15,21/16",Kai Roger Stensen,Andreas Nordhøy
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Herredouble,Runar Måøy,Fred Moen,Erik Måøy,Hildegunn Måøy,"21/13,21/17",Runar Måøy,Fred Moen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Hildegunn Måøy,Erik Måøy,"21/13,21/18",Andreas Nordhøy,Anne Berit Bergsmo
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Hildegunn Måøy,Erik Måøy,"21/17,21/19",Trond Mære,Anita Olsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Trond Mære,Anita Olsen,"21/13,17/21,23/21",Andreas Nordhøy,Anne Berit Bergsmo
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Roar Natvig,,Fred Moen,"21/16,23/25,21/15",Roar Natvig,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Fred Moen,,Morten Langen,"21/11,19/21,21/17",Fred Moen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Fred Moen,,Harald Buvik,"21/16,21/11",Fred Moen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Morten Langen,,Harald Buvik,"21/19,16/21,21/15",Morten Langen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Roar Natvig,,Erik Måøy,"21/18,21/14",Roar Natvig,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Roar Natvig,,Runar Måøy,"21/12,21/11",Roar Natvig,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herresingle,,Erik Måøy,,Runar Måøy,"21/15,21/16",Erik Måøy,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herredouble,Øystein Sveine,Morten Solberg,Ole Martin Kolberg,Morten Langen,"19/21,22/20,21/15",Øystein Sveine,Morten Solberg
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herredouble,Ole Petter Øren,Lars Petter Danielsen,Ole Martin Kolberg,Morten Langen,"21/17,21/14",Ole Petter Øren,Lars Petter Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN B,Herredouble,Øystein Sveine,Morten Solberg,Ole Petter Øren,Lars Petter Danielsen,"21/15,23/21",Øystein Sveine,Morten Solberg
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Marius Olav Evensen,,Hildegunn Måøy,"21/17,14/21,21/16",Marius Olav Evensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Hildegunn Måøy,,Øystein Sveine,"21/12,21/19",Hildegunn Måøy,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Øystein Sveine,,Stig Gåsbakk,"15/21,21/7,22/20",Øystein Sveine,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Hildegunn Måøy,,Lars Petter Danielsen,"21/16,21/18",Hildegunn Måøy,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Lars Petter Danielsen,,Øystein Sveine,"21/14,13/21,21/16",Lars Petter Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Stig Gåsbakk,,Hildegunn Måøy,"21/12,21/17",Stig Gåsbakk,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Lars Petter Danielsen,,Stig Gåsbakk,"21/17,21/11",Lars Petter Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Marius Olav Evensen,,Tom Smebye,"21/18,21/13",Marius Olav Evensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Joar Gåsbakk,,Ole Martin Kolberg,"21/18,21/15",Joar Gåsbakk,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Marius Olav Evensen,,Joar Gåsbakk,"21/13,21/14",Marius Olav Evensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Marius Olav Evensen,,Ole Martin Kolberg,"0/22,21/15,21/19",Marius Olav Evensen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Tom Smebye,,Joar Gåsbakk,"15/21,21/19,22/20",Tom Smebye,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herresingle,,Tom Smebye,,Ole Martin Kolberg,"13/21,21/19,21/16",Tom Smebye,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Jørgen Olsen,Marius Olsen,Ole Morten Heir,Marius Brevik,"21/13,19/21,21/17",Jørgen Olsen,Marius Olsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Anita Olsen,Anne Berit Bergsmo,Helge Hansen,Harald Buvik,"21/14,21/14",Anita Olsen,Anne Berit Bergsmo
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Jørgen Olsen,Marius Olsen,Anita Olsen,Anne Berit Bergsmo,"21/18,21/16",Jørgen Olsen,Marius Olsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Jørgen Olsen,Marius Olsen,Helge Hansen,Harald Buvik,"21/19,20/22,21/18",Jørgen Olsen,Marius Olsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Stig Gåsbakk,Joar Gåsbakk,Erik Winger,Jan Aage Nyborg,"21/18,21/17",Stig Gåsbakk,Joar Gåsbakk
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Ole Morten Heir,Marius Brevik,Tom Smebye,John Thomas Krogstad,"21/9,21/15",Ole Morten Heir,Marius Brevik
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Stig Gåsbakk,Joar Gåsbakk,Tom Smebye,John Thomas Krogstad,"21/12,21/16",Stig Gåsbakk,Joar Gåsbakk
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Ole Morten Heir,Marius Brevik,Stig Gåsbakk,Joar Gåsbakk,"13/21,21/10,21/18",Ole Morten Heir,Marius Brevik
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Ole Morten Heir,Marius Brevik,Erik Winger,Jan Aage Nyborg,"21/19,21/17",Ole Morten Heir,Marius Brevik
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Tom Smebye,John Thomas Krogstad,"21/14,21/16",Erik Winger,Jan Aage Nyborg
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Marit Sveine Aspnes,Ole Martin Kolberg,"21/11,20/22,21/11",Jørgen Olsen,Julie Kristin Vatterholm
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Helge Hansen,Sylvia Husmo,"21/9,21/15",Jørgen Olsen,Julie Kristin Vatterholm
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Helge Hansen,Sylvia Husmo,Joar Gåsbakk,Ida Lillevik Førde,"21/12,21/13",Helge Hansen,Sylvia Husmo
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Joar Gåsbakk,Ida Lillevik Førde,"21/9,21/8",Jørgen Olsen,Julie Kristin Vatterholm
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Line Eldegard,Lars Petter Danielsen,Minni Elise Aakvik,Marius Olav Evensen,"21/11,21/12",Line Eldegard,Lars Petter Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Marit Sveine Aspnes,Ole Martin Kolberg,Minni Elise Aakvik,Marius Olav Evensen,"19/21,21/12,21/15",Marit Sveine Aspnes,Ole Martin Kolberg
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN C,Mixeddouble,Marit Sveine Aspnes,Ole Martin Kolberg,Line Eldegard,Lars Petter Danielsen,"19/21,21/18,21/17",Marit Sveine Aspnes,Ole Martin Kolberg
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,John Thomas Krogstad,,Carl Danielsen,"21/9,21/8",John Thomas Krogstad,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Helge Hansen,,Kurt Førde,"21/16,21/3",Helge Hansen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,John Thomas Krogstad,,Kurt Førde,"21/9,21/9",John Thomas Krogstad,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Inge Rosset,,Carl Danielsen,"21/7,21/7",Inge Rosset,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Helge Hansen,,Inge Rosset,"21/13,23/21",Helge Hansen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Inge Rosset,,John Thomas Krogstad,"21/17,21/18",Inge Rosset,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Carl Danielsen,,Kurt Førde,"21/17,21/12",Carl Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Helge Hansen,,John Thomas Krogstad,"21/12,21/7",Helge Hansen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Helge Hansen,,Carl Danielsen,"21/8,21/14",Helge Hansen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herresingle,,Inge Rosset,,Kurt Førde,"21/4,21/6",Inge Rosset,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Sylvia Husmo,,Ida Lillevik Førde,"22/24,21/13,21/9",Sylvia Husmo,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Pernille Lillevik,,Line Eldegard,"21/13,21/10",Pernille Lillevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Line Eldegard,,Ida Lillevik Førde,"21/15,21/13",Line Eldegard,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Pernille Lillevik,,Sylvia Husmo,"21/8,21/6",Pernille Lillevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Minni Elise Aakvik,,Ida Lillevik Førde,"21/14,21/5",Minni Elise Aakvik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Sylvia Husmo,,Line Eldegard,"21/18,22/20",Sylvia Husmo,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Pernille Lillevik,,Minni Elise Aakvik,"21/15,21/7",Pernille Lillevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Pernille Lillevik,,Ida Lillevik Førde,"21/3,21/4",Pernille Lillevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Damesingle,,Line Eldegard,,Minni Elise Aakvik,"18/21,21/17,21/8",Line Eldegard,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herredouble,Kurt Førde,Johannes Lillevik Førde,Nikolai Danielsen,Marius Olav Evensen,"18/21,21/9,21/15",Kurt Førde,Johannes Lillevik Førde
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herredouble,Inge Rosset,Svenn Jostein Bergin,Kurt Førde,Johannes Lillevik Førde,"21/8,21/10",Inge Rosset,Svenn Jostein Bergin
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,SEN D,Herredouble,Inge Rosset,Svenn Jostein Bergin,Nikolai Danielsen,Marius Olav Evensen,"21/13,21/8",Inge Rosset,Svenn Jostein Bergin
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 A,Mixeddouble,Daria Mari Beck,Konrad Soløy Myrbostad,Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup,"21/3,21/11",Daria Mari Beck,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Viktor Eldegard,,Jaran Salater Nygård,"21/12,21/8",Viktor Eldegard,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Noah Hallan,,Brede Martinsen,"21/14,21/13",Noah Hallan,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Viktor Eldegard,,Theo Leander Johansen Heir,"21/1,21/1",Viktor Eldegard,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Jaran Salater Nygård,,Theo Leander Johansen Heir,"21/1,21/12",Jaran Salater Nygård,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Jaran Salater Nygård,,Noah Hallan,"16/21,21/10,21/7",Jaran Salater Nygård,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Viktor Eldegard,,Brede Martinsen,"21/1,21/9",Viktor Eldegard,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Viktor Eldegard,,Noah Hallan,"21/5,21/5",Viktor Eldegard,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Noah Hallan,,Theo Leander Johansen Heir,"21/9,21/4",Noah Hallan,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Brede Martinsen,,Theo Leander Johansen Heir,"21/12,21/8",Brede Martinsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herresingle,,Jaran Salater Nygård,,Brede Martinsen,"21/8,21/12",Jaran Salater Nygård,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Damesingle,,Alva Karoline Sandøy Bredrup,,Ida Amalie Skårn,"21/10,21/4",Alva Karoline Sandøy Bredrup,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Damesingle,,Daria Mari Beck,,Alva Karoline Sandøy Bredrup,"21/0,21/0",Daria Mari Beck,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Damesingle,,Daria Mari Beck,,Emine Helena S. Olsen,"21/9,21/15",Daria Mari Beck,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Damesingle,,Daria Mari Beck,,Ida Amalie Skårn,"21/3,21/4",Daria Mari Beck,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Damesingle,,Alva Karoline Sandøy Bredrup,,Emine Helena S. Olsen,"21/9,21/17",Alva Karoline Sandøy Bredrup,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Damesingle,,Emine Helena S. Olsen,,Ida Amalie Skårn,"21/4,21/13",Emine Helena S. Olsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Viktor Eldegard,Jaran Salater Nygård,"21/11,26/24",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup,Ida Amalie Skårn,Nora Langen,"20/22,21/10,21/14",Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Viktor Eldegard,Jaran Salater Nygård,Theo Leander Johansen Heir,Alva Karoline Sandøy Bredrup,"21/0,21/0",Viktor Eldegard,Jaran Salater Nygård
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Viktor Eldegard,Jaran Salater Nygård,Ida Amalie Skårn,Nora Langen,"21/9,21/9",Viktor Eldegard,Jaran Salater Nygård
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Daria Mari Beck,Emine Helena S. Olsen,"21/19,21/14",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Brede Martinsen,Noah Hallan,"21/7,21/4",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U13 B,Herredouble,Brede Martinsen,Noah Hallan,Daria Mari Beck,Emine Helena S. Olsen,"23/21,10/21,21/18",Brede Martinsen,Noah Hallan
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Benjamin Brevik,,Ludvig Kolberg,"21/18,21/10",Benjamin Brevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/5,21/14",Benjamin Brevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Konrad Soløy Myrbostad,,Mattis Sæther-Danielsen,"21/19,21/15",Konrad Soløy Myrbostad,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Mattis Sæther-Danielsen,,Jonathan Rohde Hallager,"21/6,21/16",Mattis Sæther-Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Konrad Soløy Myrbostad,,Jonathan Rohde Hallager,"19/21,21/14,21/16",Konrad Soløy Myrbostad,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Benjamin Brevik,,Mattis Sæther-Danielsen,"21/17,21/14",Benjamin Brevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Benjamin Brevik,,Konrad Soløy Myrbostad,"21/17,21/14",Benjamin Brevik,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Ludvig Kolberg,,Johannes Lillevik Førde,"21/19,23/21",Ludvig Kolberg,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Einar Mathias Øren,,Oliver Langen,"21/18,21/7",Einar Mathias Øren,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Johannes Lillevik Førde,,Oliver Langen,"27/25,21/13",Johannes Lillevik Førde,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Ludvig Kolberg,,Einar Mathias Øren,"21/18,21/8",Ludvig Kolberg,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Johannes Lillevik Førde,,Einar Mathias Øren,"22/20,21/19",Johannes Lillevik Førde,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herresingle,,Ludvig Kolberg,,Oliver Langen,"21/15,21/12",Ludvig Kolberg,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Ludvig Kolberg,Elias Gilhay,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Ludvig Kolberg,Elias Gilhay
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Benjamin Brevik,Konrad Soløy Myrbostad,Oliver Langen,Jonathan Rohde Hallager,"21/9,21/10",Benjamin Brevik,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Benjamin Brevik,Konrad Soløy Myrbostad,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Benjamin Brevik,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Benjamin Brevik,Konrad Soløy Myrbostad,Einar Mathias Øren,Mattis Sæther-Danielsen,"21/11,21/11",Benjamin Brevik,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Einar Mathias Øren,Mattis Sæther-Danielsen,Oliver Langen,Jonathan Rohde Hallager,"21/15,21/9",Einar Mathias Øren,Mattis Sæther-Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Benjamin Brevik,Konrad Soløy Myrbostad,Ludvig Kolberg,Elias Gilhay,"21/19,21/18",Benjamin Brevik,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Einar Mathias Øren,Mattis Sæther-Danielsen,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Einar Mathias Øren,Mattis Sæther-Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Ludvig Kolberg,Elias Gilhay,Oliver Langen,Jonathan Rohde Hallager,"21/15,21/15",Ludvig Kolberg,Elias Gilhay
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Oliver Langen,Jonathan Rohde Hallager,Ole Kristian Hauge Vullum,Vebjørn Børmark,"21/0,21/0",Oliver Langen,Jonathan Rohde Hallager
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Herredouble,Ludvig Kolberg,Elias Gilhay,Einar Mathias Øren,Mattis Sæther-Danielsen,"12/21,21/10,21/6",Ludvig Kolberg,Elias Gilhay
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Mixeddouble,Mattis Sæther-Danielsen,Maja Sæther-Danielsen,Einar Mathias Øren,Malin Sæther-Danielsen,"21/12,21/8",Mattis Sæther-Danielsen,Maja Sæther-Danielsen
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Mixeddouble,Johannes Lillevik Førde,Pernille Lillevik,Einar Mathias Øren,Malin Sæther-Danielsen,"21/9,21/17",Johannes Lillevik Førde,Pernille Lillevik
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 A,Mixeddouble,Johannes Lillevik Førde,Pernille Lillevik,Mattis Sæther-Danielsen,Maja Sæther-Danielsen,"15/21,21/5,21/13",Johannes Lillevik Førde,Pernille Lillevik
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,Damesingle,,Marthe Evjenth,,Nora Langen,"21/12,21/14",Marthe Evjenth,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,Damesingle,,Maja Sæther-Danielsen,,Nora Langen,"21/12,21/11",Maja Sæther-Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,Damesingle,,Malin Sæther-Danielsen,,Maja Sæther-Danielsen,"21/23,21/18,23/21",Malin Sæther-Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,Damesingle,,Malin Sæther-Danielsen,,Marthe Evjenth,"21/8,21/16",Malin Sæther-Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,Damesingle,,Malin Sæther-Danielsen,,Nora Langen,"21/15,21/15",Malin Sæther-Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U15 B,Damesingle,,Maja Sæther-Danielsen,,Marthe Evjenth,"21/19,21/5",Maja Sæther-Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U17 B,Herresingle,,Vebjørn Børmark,,Nikolai Danielsen,"21/10,21/5",Vebjørn Børmark,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U17 B,Herresingle,,Nikolai Danielsen,,Henning Hoddø,"21/17,19/21,21/17",Nikolai Danielsen,
+2022/2023,Gullvikmoen Rockesmashen 2022,24.09.2022,U17 B,Herresingle,,Vebjørn Børmark,,Henning Hoddø,"21/9,21/7",Vebjørn Børmark,

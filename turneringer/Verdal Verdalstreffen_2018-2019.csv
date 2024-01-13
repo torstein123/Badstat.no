@@ -1,590 +1,235 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Ingrid Gåsbakk,"22/20,21/18",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rowena Lindberg,,Silje B. Karlsen,"17/21,21/10,21/10",Rowena Lindberg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Ingvild Håland,"21/18,21/12",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Rowena Lindberg,"21/16,21/11",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Silje B. Karlsen,"21/12,21/11",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Rowena Lindberg,"21/18,21/9",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Silje B. Karlsen,"21/8,21/14",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Majken Wærdahl,,Sara Buvik,"21/10,21/15",Majken Wærdahl,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Silje V. Kruksve Aasland,"23/21,13/21,22/20",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Majken Wærdahl,"22/24,21/17,21/15",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Sara Buvik,"21/19,21/13",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Majken Wærdahl,"21/19,21/14",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Sara Buvik,"21/12,21/10",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Trond Mære,Rolf Ove Karlsen,"16/21,21/17,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Rune Oterhals,Magnus Tjøm,"21/12,21/17",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Fredrik Skånøy,Martin Hyllestad,"21/17,22/20",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Vegard Leksås,Odd Helge Gåsbakk,"22/20,21/16",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Vegard Leksås,Odd Helge Gåsbakk,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/11,21/19",Vegard Leksås,Odd Helge Gåsbakk
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/6,21/10",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Ole Christoffer Olsen,Børge Håland,"21/13,21/15",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Roar Natvig,Lars Erik Karlsen,Ole Christoffer Olsen,Børge Håland,"21/17,21/17",Roar Natvig,Lars Erik Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Roar Natvig,Lars Erik Karlsen,"21/19,21/16",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robin Kruksve Krux,Jens Asmund Solheim,"21/15,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robert Barø,Amund Skavhaug,"21/19,23/25,21/12",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Robin Kruksve Krux,Jens Asmund Solheim,Robert Barø,Amund Skavhaug,"22/20,21/18",Robin Kruksve Krux,Jens Asmund Solheim
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Andreas Futaker,Jørgen Olsen,"21/9,21/6",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Emil Pettersen,Sebastian Bøe,Andreas Futaker,Jørgen Olsen,"21/17,21/15",Emil Pettersen,Sebastian Bøe
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Emil Pettersen,Sebastian Bøe,"21/14,20/22,21/18",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Silje V. Kruksve Aasland,Camilla Stokkaune,"21/16,21/18",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Marte Stokkaune,Silje B. Karlsen,"21/19,21/10",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Marte Stokkaune,Silje B. Karlsen,Rowena Lindberg,Anne Berit Bergsmo,"21/19,20/22,21/10",Marte Stokkaune,Silje B. Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Rowena Lindberg,Anne Berit Bergsmo,"21/16,21/15",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/15,21/11",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Majken Wærdahl,Dianne Christine Geronimo,Anita Olsen,Hilde Vatterholm,"21/17,10/21,22/20",Majken Wærdahl,Dianne Christine Geronimo
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Barbro Johnsen,Hildegunn Måøy,Majken Wærdahl,Dianne Christine Geronimo,"21/15,21/6",Barbro Johnsen,Hildegunn Måøy
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Anita Olsen,Hilde Vatterholm,"21/12,18/21,21/18",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Anita Olsen,Hilde Vatterholm,Barbro Johnsen,Hildegunn Måøy,"21/9,21/17",Anita Olsen,Hilde Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Majken Wærdahl,Dianne Christine Geronimo,"21/7,23/21",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Hildegunn Måøy,,Anne Berit Bergsmo,"21/18,14/21,21/19",Hildegunn Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Anne Berit Bergsmo,,Barbro Johnsen,"21/18,21/10",Anne Berit Bergsmo,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Mona Øyen Bedsted,,Dianne Christine Geronimo,"21/6,21/10",Mona Øyen Bedsted,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Hildegunn Måøy,,Dianne Christine Geronimo,"21/16,21/15",Hildegunn Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Hildegunn Måøy,,Mona Øyen Bedsted,"21/12,21/7",Hildegunn Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Hildegunn Måøy,,Anne Berit Bergsmo,"21/18,14/21,21/19",Hildegunn Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Anne Berit Bergsmo,,Barbro Johnsen,"21/18,21/10",Anne Berit Bergsmo,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Mona Øyen Bedsted,,Dianne Christine Geronimo,"21/6,21/10",Mona Øyen Bedsted,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Hildegunn Måøy,,Dianne Christine Geronimo,"21/16,21/15",Hildegunn Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,,Hildegunn Måøy,,Mona Øyen Bedsted,"21/12,21/7",Hildegunn Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Marius Olsen,"21/19,21/10",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Bjørnar Eikebrokk,"21/15,21/19",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Runar Måøy,"21/13,21/18",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Ådne Sellevoll,"14/21,21/12,21/12",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Steinar Fornes,"21/15,21/18",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Runar Måøy,,Dexter Regarde,"21/15,21/16",Runar Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Bjørnar Eikebrokk,,Jørgen Olsen,"16/21,21/17,21/16",Bjørnar Eikebrokk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Bjørnar Eikebrokk,,Stig Gåsbakk,"21/15,21/16",Bjørnar Eikebrokk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Jørgen Olsen,,Stig Gåsbakk,"21/14,21/8",Jørgen Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Thomas Haugen,"23/21,21/16",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Markus Måøy,"21/13,21/16",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Thomas Haugen,,Markus Måøy,"19/21,21/16,25/23",Thomas Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Ådne Sellevoll,,Jens Viken Lium,"21/10,21/10",Ådne Sellevoll,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Sigurd Hellberg,,Jens Viken Lium,"21/14,21/12",Sigurd Hellberg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Ådne Sellevoll,,Sigurd Hellberg,"21/12,21/19",Ådne Sellevoll,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Arne Bjørn Berger,,Kristian Møkkelgård,"21/18,21/18",Arne Bjørn Berger,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Sigurd Lorvik,"21/10,27/25",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Sigurd Lorvik,,Kristian Møkkelgård,"21/14,21/18",Sigurd Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Arne Bjørn Berger,"21/9,21/12",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Kristian Møkkelgård,"21/19,21/10",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Arne Bjørn Berger,,Sigurd Lorvik,"12/21,21/16,21/19",Arne Bjørn Berger,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Steinar Fornes,,Willy Andersen,"21/11,21/13",Steinar Fornes,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Willy Andersen,,Rune Fortunato,"21/15,21/15",Willy Andersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Steinar Fornes,,Rune Fortunato,"21/14,21/18",Steinar Fornes,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Runar Måøy,,Terje Knutseth,"18/21,21/19,23/21",Runar Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Dexter Regarde,,Håvard Buvik,"21/16,21/19",Dexter Regarde,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Håvard Buvik,,Sindre Leander Johnsen,"21/8,21/9",Håvard Buvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Dexter Regarde,,Sindre Leander Johnsen,"21/14,21/7",Dexter Regarde,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Marius Olsen,"21/19,21/10",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Bjørnar Eikebrokk,"21/15,21/19",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Runar Måøy,"21/13,21/18",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Ådne Sellevoll,"14/21,21/12,21/12",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Steinar Fornes,"21/15,21/18",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Runar Måøy,,Dexter Regarde,"21/15,21/16",Runar Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Bjørnar Eikebrokk,,Jørgen Olsen,"16/21,21/17,21/16",Bjørnar Eikebrokk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Bjørnar Eikebrokk,,Stig Gåsbakk,"21/15,21/16",Bjørnar Eikebrokk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Jørgen Olsen,,Stig Gåsbakk,"21/14,21/8",Jørgen Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Thomas Haugen,"23/21,21/16",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Marius Olsen,,Markus Måøy,"21/13,21/16",Marius Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Thomas Haugen,,Markus Måøy,"19/21,21/16,25/23",Thomas Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Ådne Sellevoll,,Jens Viken Lium,"21/10,21/10",Ådne Sellevoll,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Sigurd Hellberg,,Jens Viken Lium,"21/14,21/12",Sigurd Hellberg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Ådne Sellevoll,,Sigurd Hellberg,"21/12,21/19",Ådne Sellevoll,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Arne Bjørn Berger,,Kristian Møkkelgård,"21/18,21/18",Arne Bjørn Berger,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Sigurd Lorvik,"21/10,27/25",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Sigurd Lorvik,,Kristian Møkkelgård,"21/14,21/18",Sigurd Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Arne Bjørn Berger,"21/9,21/12",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Fred Moen,,Kristian Møkkelgård,"21/19,21/10",Fred Moen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Arne Bjørn Berger,,Sigurd Lorvik,"12/21,21/16,21/19",Arne Bjørn Berger,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Steinar Fornes,,Willy Andersen,"21/11,21/13",Steinar Fornes,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Willy Andersen,,Rune Fortunato,"21/15,21/15",Willy Andersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Steinar Fornes,,Rune Fortunato,"21/14,21/18",Steinar Fornes,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Runar Måøy,,Terje Knutseth,"18/21,21/19,23/21",Runar Måøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Dexter Regarde,,Håvard Buvik,"21/16,21/19",Dexter Regarde,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Håvard Buvik,,Sindre Leander Johnsen,"21/8,21/9",Håvard Buvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,,Dexter Regarde,,Sindre Leander Johnsen,"21/14,21/7",Dexter Regarde,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Marius Olsen,Sigurd Hellberg,Steinar Fornes,Sigurd Lorvik,"21/13,16/21,21/19",Marius Olsen,Sigurd Hellberg
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Steinar Fornes,Sigurd Lorvik,Pål Ragnar Telnes,Trond Flatås,"22/20,12/21,21/19",Steinar Fornes,Sigurd Lorvik
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Marius Olsen,Sigurd Hellberg,Terje Knutseth,Esben Bjørkmann Pettersen,"21/17,21/10",Marius Olsen,Sigurd Hellberg
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Steinar Fornes,Sigurd Lorvik,Anders Moen,Fred Moen,"21/15,21/15",Steinar Fornes,Sigurd Lorvik
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Terje Knutseth,Esben Bjørkmann Pettersen,Arne Bjørn Berger,Bjørnar Eikebrokk,"21/15,21/12",Terje Knutseth,Esben Bjørkmann Pettersen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Pål Ragnar Telnes,Trond Flatås,Runar Måøy,Markus Måøy,"21/14,21/15",Pål Ragnar Telnes,Trond Flatås
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Steinar Fornes,Sigurd Lorvik,Jan Erik Søraas Lien,Robert  Karlsen,"18/21,21/17,21/13",Steinar Fornes,Sigurd Lorvik
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Jan Erik Søraas Lien,Robert  Karlsen,Martin Haagenstad,Eivind André Løvold Nilsen,"21/8,21/14",Jan Erik Søraas Lien,Robert  Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Steinar Fornes,Sigurd Lorvik,Martin Haagenstad,Eivind André Løvold Nilsen,"21/11,21/14",Steinar Fornes,Sigurd Lorvik
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Anders Moen,Fred Moen,Dexter Regarde,Fredrik Nilssen,"21/14,21/19",Anders Moen,Fred Moen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Anders Moen,Fred Moen,Rune Fortunato,Stig Gåsbakk,"21/8,21/19",Anders Moen,Fred Moen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Dexter Regarde,Fredrik Nilssen,Rune Fortunato,Stig Gåsbakk,"21/17,21/18",Dexter Regarde,Fredrik Nilssen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Arne Bjørn Berger,Bjørnar Eikebrokk,Ådne Sellevoll,Willy Andersen,"11/21,21/16,21/18",Arne Bjørn Berger,Bjørnar Eikebrokk
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Terje Knutseth,Esben Bjørkmann Pettersen,Helge Formo,Erik Måøy,"21/18,23/21",Terje Knutseth,Esben Bjørkmann Pettersen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Terje Knutseth,Esben Bjørkmann Pettersen,Kristian Møkkelgård,Jens Viken Lium,"21/16,21/18",Terje Knutseth,Esben Bjørkmann Pettersen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Helge Formo,Erik Måøy,Kristian Møkkelgård,Jens Viken Lium,"21/17,21/15",Helge Formo,Erik Måøy
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Erik Winger,Jan Aage Nyborg,Thomas Haugen,Oscar Haugen,"15/21,21/18,21/18",Erik Winger,Jan Aage Nyborg
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Marius Olsen,Sigurd Hellberg,Thomas Haugen,Oscar Haugen,"21/10,23/21",Marius Olsen,Sigurd Hellberg
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Marius Olsen,Sigurd Hellberg,Erik Winger,Jan Aage Nyborg,"21/17,15/21,21/15",Marius Olsen,Sigurd Hellberg
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Angelika Grande,Lena Falch,Elin Hansen,Iris Olafsen-Solberg,"21/13,21/15",Angelika Grande,Lena Falch
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Amber Heggdal,Julie Kristin Vatterholm,Lena Knutseth,MARTE EGGEN,"21/7,21/11",Amber Heggdal,Julie Kristin Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Angelika Grande,Lena Falch,Lena Knutseth,MARTE EGGEN,"21/8,21/10",Angelika Grande,Lena Falch
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Amber Heggdal,Julie Kristin Vatterholm,Angelika Grande,Lena Falch,"21/11,21/14",Amber Heggdal,Julie Kristin Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Amber Heggdal,Julie Kristin Vatterholm,Elin Hansen,Iris Olafsen-Solberg,"21/15,21/19",Amber Heggdal,Julie Kristin Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Martin Haagenstad,,Eivind André Løvold Nilsen,"21/17,21/16",Martin Haagenstad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Fredrik Nilssen,,Martin Haagenstad,"21/17,21/9",Fredrik Nilssen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Eivind André Løvold Nilsen,,Fredrik Nilssen,"21/19,20/22,21/17",Eivind André Løvold Nilsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Martin Haagenstad,,Eivind André Løvold Nilsen,"21/17,21/16",Martin Haagenstad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Fredrik Nilssen,,Martin Haagenstad,"21/17,21/9",Fredrik Nilssen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Eivind André Løvold Nilsen,,Fredrik Nilssen,"21/19,20/22,21/17",Eivind André Løvold Nilsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,,Tove Søraas,,Iris Olafsen-Solberg,"21/7,21/13",Tove Søraas,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Ingrid Gåsbakk,"22/20,21/18",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rowena Lindberg,,Silje B. Karlsen,"17/21,21/10,21/10",Rowena Lindberg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Ingvild Håland,"21/18,21/12",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Rowena Lindberg,"21/16,21/11",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Silje B. Karlsen,"21/12,21/11",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Rowena Lindberg,"21/18,21/9",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Silje B. Karlsen,"21/8,21/14",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Majken Wærdahl,,Sara Buvik,"21/10,21/15",Majken Wærdahl,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Silje V. Kruksve Aasland,"23/21,13/21,22/20",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Majken Wærdahl,"22/24,21/17,21/15",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Sara Buvik,"21/19,21/13",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Majken Wærdahl,"21/19,21/14",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Sara Buvik,"21/12,21/10",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Trond Mære,Rolf Ove Karlsen,"16/21,21/17,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Rune Oterhals,Magnus Tjøm,"21/12,21/17",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Fredrik Skånøy,Martin Hyllestad,"21/17,22/20",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Vegard Leksås,Odd Helge Gåsbakk,"22/20,21/16",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Vegard Leksås,Odd Helge Gåsbakk,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/11,21/19",Vegard Leksås,Odd Helge Gåsbakk
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/6,21/10",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Ole Christoffer Olsen,Børge Håland,"21/13,21/15",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Roar Natvig,Lars Erik Karlsen,Ole Christoffer Olsen,Børge Håland,"21/17,21/17",Roar Natvig,Lars Erik Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Roar Natvig,Lars Erik Karlsen,"21/19,21/16",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robin Kruksve Krux,Jens Asmund Solheim,"21/15,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robert Barø,Amund Skavhaug,"21/19,23/25,21/12",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Robin Kruksve Krux,Jens Asmund Solheim,Robert Barø,Amund Skavhaug,"22/20,21/18",Robin Kruksve Krux,Jens Asmund Solheim
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Andreas Futaker,Jørgen Olsen,"21/9,21/6",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Emil Pettersen,Sebastian Bøe,Andreas Futaker,Jørgen Olsen,"21/17,21/15",Emil Pettersen,Sebastian Bøe
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Emil Pettersen,Sebastian Bøe,"21/14,20/22,21/18",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Silje V. Kruksve Aasland,Camilla Stokkaune,"21/16,21/18",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Marte Stokkaune,Silje B. Karlsen,"21/19,21/10",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Marte Stokkaune,Silje B. Karlsen,Rowena Lindberg,Anne Berit Bergsmo,"21/19,20/22,21/10",Marte Stokkaune,Silje B. Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Rowena Lindberg,Anne Berit Bergsmo,"21/16,21/15",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/15,21/11",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Majken Wærdahl,Dianne Christine Geronimo,Anita Olsen,Hilde Vatterholm,"21/17,10/21,22/20",Majken Wærdahl,Dianne Christine Geronimo
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Barbro Johnsen,Hildegunn Måøy,Majken Wærdahl,Dianne Christine Geronimo,"21/15,21/6",Barbro Johnsen,Hildegunn Måøy
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Anita Olsen,Hilde Vatterholm,"21/12,18/21,21/18",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Anita Olsen,Hilde Vatterholm,Barbro Johnsen,Hildegunn Måøy,"21/9,21/17",Anita Olsen,Hilde Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Majken Wærdahl,Dianne Christine Geronimo,"21/7,23/21",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Ingrid Gåsbakk,"22/20,21/18",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rowena Lindberg,,Silje B. Karlsen,"17/21,21/10,21/10",Rowena Lindberg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Ingvild Håland,"21/18,21/12",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Rowena Lindberg,"21/16,21/11",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Silje B. Karlsen,"21/12,21/11",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Rowena Lindberg,"21/18,21/9",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Silje B. Karlsen,"21/8,21/14",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Majken Wærdahl,,Sara Buvik,"21/10,21/15",Majken Wærdahl,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Silje V. Kruksve Aasland,"23/21,13/21,22/20",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Majken Wærdahl,"22/24,21/17,21/15",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Sara Buvik,"21/19,21/13",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Majken Wærdahl,"21/19,21/14",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Sara Buvik,"21/12,21/10",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Trond Mære,Rolf Ove Karlsen,"16/21,21/17,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Rune Oterhals,Magnus Tjøm,"21/12,21/17",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Fredrik Skånøy,Martin Hyllestad,"21/17,22/20",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Vegard Leksås,Odd Helge Gåsbakk,"22/20,21/16",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Vegard Leksås,Odd Helge Gåsbakk,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/11,21/19",Vegard Leksås,Odd Helge Gåsbakk
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/6,21/10",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Ole Christoffer Olsen,Børge Håland,"21/13,21/15",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Roar Natvig,Lars Erik Karlsen,Ole Christoffer Olsen,Børge Håland,"21/17,21/17",Roar Natvig,Lars Erik Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Roar Natvig,Lars Erik Karlsen,"21/19,21/16",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robin Kruksve Krux,Jens Asmund Solheim,"21/15,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robert Barø,Amund Skavhaug,"21/19,23/25,21/12",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Robin Kruksve Krux,Jens Asmund Solheim,Robert Barø,Amund Skavhaug,"22/20,21/18",Robin Kruksve Krux,Jens Asmund Solheim
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Andreas Futaker,Jørgen Olsen,"21/9,21/6",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Emil Pettersen,Sebastian Bøe,Andreas Futaker,Jørgen Olsen,"21/17,21/15",Emil Pettersen,Sebastian Bøe
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Emil Pettersen,Sebastian Bøe,"21/14,20/22,21/18",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Silje V. Kruksve Aasland,Camilla Stokkaune,"21/16,21/18",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Marte Stokkaune,Silje B. Karlsen,"21/19,21/10",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Marte Stokkaune,Silje B. Karlsen,Rowena Lindberg,Anne Berit Bergsmo,"21/19,20/22,21/10",Marte Stokkaune,Silje B. Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Rowena Lindberg,Anne Berit Bergsmo,"21/16,21/15",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/15,21/11",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Majken Wærdahl,Dianne Christine Geronimo,Anita Olsen,Hilde Vatterholm,"21/17,10/21,22/20",Majken Wærdahl,Dianne Christine Geronimo
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Barbro Johnsen,Hildegunn Måøy,Majken Wærdahl,Dianne Christine Geronimo,"21/15,21/6",Barbro Johnsen,Hildegunn Måøy
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Anita Olsen,Hilde Vatterholm,"21/12,18/21,21/18",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Anita Olsen,Hilde Vatterholm,Barbro Johnsen,Hildegunn Måøy,"21/9,21/17",Anita Olsen,Hilde Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Majken Wærdahl,Dianne Christine Geronimo,"21/7,23/21",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Ingrid Gåsbakk,"22/20,21/18",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Rowena Lindberg,,Silje B. Karlsen,"17/21,21/10,21/10",Rowena Lindberg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Ingvild Håland,"21/18,21/12",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Rowena Lindberg,"21/16,21/11",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Silje B. Karlsen,"21/12,21/11",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingrid Gåsbakk,,Rowena Lindberg,"21/18,21/9",Ingrid Gåsbakk,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Ingvild Håland,,Silje B. Karlsen,"21/8,21/14",Ingvild Håland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Majken Wærdahl,,Sara Buvik,"21/10,21/15",Majken Wærdahl,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Silje V. Kruksve Aasland,"23/21,13/21,22/20",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Majken Wærdahl,"22/24,21/17,21/15",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Sara Buvik,"21/19,21/13",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Marte Stokkaune,,Majken Wærdahl,"21/19,21/14",Marte Stokkaune,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,,Silje V. Kruksve Aasland,,Sara Buvik,"21/12,21/10",Silje V. Kruksve Aasland,
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Trond Mære,Rolf Ove Karlsen,"16/21,21/17,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Rune Oterhals,Magnus Tjøm,"21/12,21/17",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Fredrik Skånøy,Martin Hyllestad,"21/17,22/20",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Vegard Leksås,Odd Helge Gåsbakk,"22/20,21/16",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Vegard Leksås,Odd Helge Gåsbakk,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/11,21/19",Vegard Leksås,Odd Helge Gåsbakk
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Trond Mære,Rolf Ove Karlsen,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/6,21/10",Trond Mære,Rolf Ove Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Ole Christoffer Olsen,Børge Håland,"21/13,21/15",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Roar Natvig,Lars Erik Karlsen,Ole Christoffer Olsen,Børge Håland,"21/17,21/17",Roar Natvig,Lars Erik Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Rune Oterhals,Magnus Tjøm,Roar Natvig,Lars Erik Karlsen,"21/19,21/16",Rune Oterhals,Magnus Tjøm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robin Kruksve Krux,Jens Asmund Solheim,"21/15,21/19",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Andreas Nordhøy,Kai Roger Stensen,Robert Barø,Amund Skavhaug,"21/19,23/25,21/12",Andreas Nordhøy,Kai Roger Stensen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Robin Kruksve Krux,Jens Asmund Solheim,Robert Barø,Amund Skavhaug,"22/20,21/18",Robin Kruksve Krux,Jens Asmund Solheim
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Andreas Futaker,Jørgen Olsen,"21/9,21/6",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Emil Pettersen,Sebastian Bøe,Andreas Futaker,Jørgen Olsen,"21/17,21/15",Emil Pettersen,Sebastian Bøe
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Emil Pettersen,Sebastian Bøe,"21/14,20/22,21/18",Fredrik Skånøy,Martin Hyllestad
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Silje V. Kruksve Aasland,Camilla Stokkaune,"21/16,21/18",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Marte Stokkaune,Silje B. Karlsen,"21/19,21/10",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Marte Stokkaune,Silje B. Karlsen,Rowena Lindberg,Anne Berit Bergsmo,"21/19,20/22,21/10",Marte Stokkaune,Silje B. Karlsen
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Ingrid Gåsbakk,Ingvild Håland,Rowena Lindberg,Anne Berit Bergsmo,"21/16,21/15",Ingrid Gåsbakk,Ingvild Håland
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/15,21/11",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Majken Wærdahl,Dianne Christine Geronimo,Anita Olsen,Hilde Vatterholm,"21/17,10/21,22/20",Majken Wærdahl,Dianne Christine Geronimo
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Barbro Johnsen,Hildegunn Måøy,Majken Wærdahl,Dianne Christine Geronimo,"21/15,21/6",Barbro Johnsen,Hildegunn Måøy
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Anita Olsen,Hilde Vatterholm,"21/12,18/21,21/18",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Anita Olsen,Hilde Vatterholm,Barbro Johnsen,Hildegunn Måøy,"21/9,21/17",Anita Olsen,Hilde Vatterholm
-2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Silje V. Kruksve Aasland,Camilla Stokkaune,Majken Wærdahl,Dianne Christine Geronimo,"21/7,23/21",Silje V. Kruksve Aasland,Camilla Stokkaune
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Emilie Romundstad Nyborg,,Maja Mathilde Johnsen Sørgjerd,"21/8,21/11",Emilie Romundstad Nyborg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Silje Lyngstad Skavhaug,,Eva Katrine Halstensen,"21/14,21/13",Silje Lyngstad Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Eva Katrine Halstensen,,Emilie Romundstad Nyborg,"21/18,24/22",Eva Katrine Halstensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Silje Lyngstad Skavhaug,,Maja Mathilde Johnsen Sørgjerd,"21/7,21/10",Silje Lyngstad Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Silje Lyngstad Skavhaug,,Emilie Romundstad Nyborg,"21/11,21/9",Silje Lyngstad Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Eva Katrine Halstensen,,Maja Mathilde Johnsen Sørgjerd,"21/5,21/4",Eva Katrine Halstensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Emilie Romundstad Nyborg,,Maja Mathilde Johnsen Sørgjerd,"21/8,21/11",Emilie Romundstad Nyborg,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Silje Lyngstad Skavhaug,,Eva Katrine Halstensen,"21/14,21/13",Silje Lyngstad Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Eva Katrine Halstensen,,Emilie Romundstad Nyborg,"21/18,24/22",Eva Katrine Halstensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Silje Lyngstad Skavhaug,,Maja Mathilde Johnsen Sørgjerd,"21/7,21/10",Silje Lyngstad Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Silje Lyngstad Skavhaug,,Emilie Romundstad Nyborg,"21/11,21/9",Silje Lyngstad Skavhaug,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,,Eva Katrine Halstensen,,Maja Mathilde Johnsen Sørgjerd,"21/5,21/4",Eva Katrine Halstensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Marius Sandvær,,Gaute Sellevoll,"21/9,21/16",Marius Sandvær,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Elias Haugen,,Filip Andre Brasøygård Johansen,"21/23,21/17,21/10",Elias Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Filip Andre Brasøygård Johansen,,Gaute Sellevoll,"21/12,23/15,21/16",Filip Andre Brasøygård Johansen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Marius Sandvær,,William R. Barø,"21/15,21/15",Marius Sandvær,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Elias Haugen,,Gaute Sellevoll,"21/10,21/15",Elias Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Filip Andre Brasøygård Johansen,,William R. Barø,"21/14,21/11",Filip Andre Brasøygård Johansen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Elias Haugen,,William R. Barø,"21/14,21/11",Elias Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Gaute Sellevoll,,William R. Barø,"21/19,28/26",Gaute Sellevoll,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Marius Sandvær,,Elias Haugen,"21/14,16/21,21/16",Marius Sandvær,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Marius Sandvær,,Gaute Sellevoll,"21/9,21/16",Marius Sandvær,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Elias Haugen,,Filip Andre Brasøygård Johansen,"21/23,21/17,21/10",Elias Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Filip Andre Brasøygård Johansen,,Gaute Sellevoll,"21/12,23/15,21/16",Filip Andre Brasøygård Johansen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Marius Sandvær,,William R. Barø,"21/15,21/15",Marius Sandvær,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Elias Haugen,,Gaute Sellevoll,"21/10,21/15",Elias Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Filip Andre Brasøygård Johansen,,William R. Barø,"21/14,21/11",Filip Andre Brasøygård Johansen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Elias Haugen,,William R. Barø,"21/14,21/11",Elias Haugen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Gaute Sellevoll,,William R. Barø,"21/19,28/26",Gaute Sellevoll,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Marius Sandvær,,Elias Haugen,"21/14,16/21,21/16",Marius Sandvær,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Nila Lorvik,,Signe Lenning,"24/22,21/19",Nila Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Nila Lorvik,,Nora Jørgensen,"21/15,21/17",Nila Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Agnes Fornes,,Ingrid Jørgensen,"21/8,21/12",Agnes Fornes,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Signe Lenning,,Agnes Fornes,"21/19,21/8",Signe Lenning,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Signe Lenning,,Ingrid Jørgensen,"21/6,21/9",Signe Lenning,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Nora Jørgensen,,Ingvild Søraas Johannessen,"21/9,21/12",Nora Jørgensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Nora Jørgensen,,Hanna Gorzolka,"21/8,21/16",Nora Jørgensen,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Hanna Gorzolka,,Ingvild Søraas Johannessen,"21/15,21/14",Hanna Gorzolka,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Nila Lorvik,,Ellinor Marie Barø,"21/10,21/3",Nila Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Dorthe Lorvik,,Ellinor Marie Barø,"21/7,21/7",Dorthe Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,,Nila Lorvik,,Dorthe Lorvik,"21/9,21/0",Nila Lorvik,
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Marius Sandvær,Filip Andre Brasøygård Johansen,Leander Nilssen,Alexander Hansen,"21/5,21/4",Marius Sandvær,Filip Andre Brasøygård Johansen
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Marius Sandvær,Filip Andre Brasøygård Johansen,William R. Barø,Elias Haugen,"21/11,21/13",Marius Sandvær,Filip Andre Brasøygård Johansen
-2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,William R. Barø,Elias Haugen,Leander Nilssen,Alexander Hansen,"21/9,16/21,21/7",William R. Barø,Elias Haugen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Andreas Nordhøy,,Martin Hyllestad,"21/12,21/14",Andreas Nordhøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Martin Hyllestad,,Fredrik Skånøy,"18/21,21/13,22/20",Martin Hyllestad,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Andreas Nordhøy,,Sebastian Bøe,"19/21,21/13,21/10",Andreas Nordhøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Martin Hyllestad,,Emil Pettersen,"21/16,22/20",Martin Hyllestad,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Fredrik Skånøy,,Trond Mære,"21/15,22/24,21/12",Fredrik Skånøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Andreas Nordhøy,,Roar Natvig,"21/6,21/14",Andreas Nordhøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Sebastian Bøe,,Jonas Midtøy,"21/16,21/18",Sebastian Bøe,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Martin Hyllestad,,Even Langås Kvam,"21/17,20/22,21/17",Martin Hyllestad,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Martin Hyllestad,,Joakim Øyen Bedsted,"21/14,21/17",Martin Hyllestad,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Even Langås Kvam,,Joakim Øyen Bedsted,"21/19,21/11",Even Langås Kvam,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Emil Pettersen,,Amund Skavhaug,"21/12,8/21,22/20",Emil Pettersen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Emil Pettersen,,Robin Kruksve Krux,"21/8,21/14",Emil Pettersen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Amund Skavhaug,,Robin Kruksve Krux,"21/12,21/12",Amund Skavhaug,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Fredrik Skånøy,,Andreas Futaker,"22/20,21/0",Fredrik Skånøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Fredrik Skånøy,,Kristoffer Kielland Rædergård,"21/11,21/13",Fredrik Skånøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Kristoffer Kielland Rædergård,,Andreas Futaker,"21/15,21/11",Kristoffer Kielland Rædergård,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Magnus Tjøm,,Erik Måøy,"21/8,21/8",Magnus Tjøm,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Trond Mære,,Kai Roger Stensen,"17/21,21/13,21/18",Trond Mære,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Kai Roger Stensen,,Erik Måøy,"21/8,21/14",Kai Roger Stensen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Trond Mære,,Magnus Tjøm,"21/16,21/9",Trond Mære,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Trond Mære,,Erik Måøy,"21/7,21/12",Trond Mære,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Kai Roger Stensen,,Magnus Tjøm,"21/12,21/15",Kai Roger Stensen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Roar Natvig,,Odin Mauset Skaugen,"21/14,21/11",Roar Natvig,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Vegard Leksås,,Ole Christoffer Olsen,"21/14,14/21,21/13",Vegard Leksås,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Roar Natvig,,Ole Christoffer Olsen,"21/19,21/18",Roar Natvig,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Odin Mauset Skaugen,,Vegard Leksås,"21/19,21/14",Odin Mauset Skaugen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Roar Natvig,,Vegard Leksås,"21/14,21/19",Roar Natvig,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Ole Christoffer Olsen,,Odin Mauset Skaugen,"21/19,21/17",Ole Christoffer Olsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Andreas Nordhøy,,Rune Oterhals,"21/13,21/16",Andreas Nordhøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Andreas Nordhøy,,Esben Bjørkmann Pettersen,"21/6,21/5",Andreas Nordhøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Rune Oterhals,,Esben Bjørkmann Pettersen,"21/9,21/12",Rune Oterhals,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Odd Helge Gåsbakk,,Lars Erik Karlsen,"21/9,21/6",Odd Helge Gåsbakk,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Jonas Midtøy,,Odd Helge Gåsbakk,"21/19,21/23,21/15",Jonas Midtøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Jonas Midtøy,,Lars Erik Karlsen,"21/9,21/13",Jonas Midtøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Sebastian Bøe,,Rolf Ove Karlsen,"21/15,21/19",Sebastian Bøe,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Rolf Ove Karlsen,,Robert Barø,"21/12,21/14",Rolf Ove Karlsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herresingle,,Sebastian Bøe,,Robert Barø,"21/9,21/12",Sebastian Bøe,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Marte Stokkaune,,Ingrid Gåsbakk,"22/20,21/18",Marte Stokkaune,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Rowena Lindberg,,Silje B. Karlsen,"17/21,21/10,21/10",Rowena Lindberg,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Ingrid Gåsbakk,,Ingvild Håland,"21/18,21/12",Ingrid Gåsbakk,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Ingvild Håland,,Rowena Lindberg,"21/16,21/11",Ingvild Håland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Ingrid Gåsbakk,,Silje B. Karlsen,"21/12,21/11",Ingrid Gåsbakk,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Ingrid Gåsbakk,,Rowena Lindberg,"21/18,21/9",Ingrid Gåsbakk,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Ingvild Håland,,Silje B. Karlsen,"21/8,21/14",Ingvild Håland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Majken Wærdahl,,Sara Buvik,"21/10,21/15",Majken Wærdahl,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Marte Stokkaune,,Silje V. Kruksve Aasland,"23/21,13/21,22/20",Marte Stokkaune,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Silje V. Kruksve Aasland,,Majken Wærdahl,"22/24,21/17,21/15",Silje V. Kruksve Aasland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Marte Stokkaune,,Sara Buvik,"21/19,21/13",Marte Stokkaune,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Marte Stokkaune,,Majken Wærdahl,"21/19,21/14",Marte Stokkaune,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damesingle,,Silje V. Kruksve Aasland,,Sara Buvik,"21/12,21/10",Silje V. Kruksve Aasland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Andreas Nordhøy,Kai Roger Stensen,Trond Mære,Rolf Ove Karlsen,"16/21,21/17,21/19",Andreas Nordhøy,Kai Roger Stensen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Rune Oterhals,Magnus Tjøm,"21/12,21/17",Trond Mære,Rolf Ove Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Andreas Nordhøy,Kai Roger Stensen,Fredrik Skånøy,Martin Hyllestad,"21/17,22/20",Andreas Nordhøy,Kai Roger Stensen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Vegard Leksås,Odd Helge Gåsbakk,"22/20,21/16",Trond Mære,Rolf Ove Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Vegard Leksås,Odd Helge Gåsbakk,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/11,21/19",Vegard Leksås,Odd Helge Gåsbakk
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/6,21/10",Trond Mære,Rolf Ove Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Rune Oterhals,Magnus Tjøm,Ole Christoffer Olsen,Børge Håland,"21/13,21/15",Rune Oterhals,Magnus Tjøm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Roar Natvig,Lars Erik Karlsen,Ole Christoffer Olsen,Børge Håland,"21/17,21/17",Roar Natvig,Lars Erik Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Rune Oterhals,Magnus Tjøm,Roar Natvig,Lars Erik Karlsen,"21/19,21/16",Rune Oterhals,Magnus Tjøm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Andreas Nordhøy,Kai Roger Stensen,Robin Kruksve Krux,Jens Asmund Solheim,"21/15,21/19",Andreas Nordhøy,Kai Roger Stensen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Andreas Nordhøy,Kai Roger Stensen,Robert Barø,Amund Skavhaug,"21/19,23/25,21/12",Andreas Nordhøy,Kai Roger Stensen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Robin Kruksve Krux,Jens Asmund Solheim,Robert Barø,Amund Skavhaug,"22/20,21/18",Robin Kruksve Krux,Jens Asmund Solheim
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Fredrik Skånøy,Martin Hyllestad,Andreas Futaker,Jørgen Olsen,"21/9,21/6",Fredrik Skånøy,Martin Hyllestad
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Emil Pettersen,Sebastian Bøe,Andreas Futaker,Jørgen Olsen,"21/17,21/15",Emil Pettersen,Sebastian Bøe
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Herredouble,Fredrik Skånøy,Martin Hyllestad,Emil Pettersen,Sebastian Bøe,"21/14,20/22,21/18",Fredrik Skånøy,Martin Hyllestad
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Ingrid Gåsbakk,Ingvild Håland,Silje V. Kruksve Aasland,Camilla Stokkaune,"21/16,21/18",Ingrid Gåsbakk,Ingvild Håland
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Ingrid Gåsbakk,Ingvild Håland,Marte Stokkaune,Silje B. Karlsen,"21/19,21/10",Ingrid Gåsbakk,Ingvild Håland
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Marte Stokkaune,Silje B. Karlsen,Rowena Lindberg,Anne Berit Bergsmo,"21/19,20/22,21/10",Marte Stokkaune,Silje B. Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Ingrid Gåsbakk,Ingvild Håland,Rowena Lindberg,Anne Berit Bergsmo,"21/16,21/15",Ingrid Gåsbakk,Ingvild Håland
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Silje V. Kruksve Aasland,Camilla Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/15,21/11",Silje V. Kruksve Aasland,Camilla Stokkaune
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Majken Wærdahl,Dianne Christine Geronimo,Anita Olsen,Hilde Vatterholm,"21/17,10/21,22/20",Majken Wærdahl,Dianne Christine Geronimo
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Barbro Johnsen,Hildegunn Måøy,Majken Wærdahl,Dianne Christine Geronimo,"21/15,21/6",Barbro Johnsen,Hildegunn Måøy
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Silje V. Kruksve Aasland,Camilla Stokkaune,Anita Olsen,Hilde Vatterholm,"21/12,18/21,21/18",Silje V. Kruksve Aasland,Camilla Stokkaune
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Anita Olsen,Hilde Vatterholm,Barbro Johnsen,Hildegunn Måøy,"21/9,21/17",Anita Olsen,Hilde Vatterholm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Damedouble,Silje V. Kruksve Aasland,Camilla Stokkaune,Majken Wærdahl,Dianne Christine Geronimo,"21/7,23/21",Silje V. Kruksve Aasland,Camilla Stokkaune
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Fredrik Skånøy,Marte Stokkaune,"19/21,21/13,21/12",Andreas Nordhøy,Anne Berit Bergsmo
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Hilde Vatterholm,Roar Natvig,"21/17,16/21,21/16",Fredrik Skånøy,Marte Stokkaune
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Trond Mære,Anita Olsen,"14/21,21/14,21/17",Andreas Nordhøy,Anne Berit Bergsmo
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Rowena Lindberg,Lars Erik Karlsen,"21/19,21/19",Fredrik Skånøy,Marte Stokkaune
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Barbro Johnsen,Emil Pettersen,"21/10,24/22",Fredrik Skånøy,Marte Stokkaune
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Rowena Lindberg,Lars Erik Karlsen,Barbro Johnsen,Emil Pettersen,"21/13,18/21,21/19",Rowena Lindberg,Lars Erik Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Hildegunn Måøy,Erik Måøy,"21/10,21/8",Hilde Vatterholm,Roar Natvig
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Hildegunn Måøy,Erik Måøy,Jens Asmund Solheim,Ina Stenkjær,"11/21,21/14,21/18",Hildegunn Måøy,Erik Måøy
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Jens Asmund Solheim,Ina Stenkjær,"21/11,21/12",Hilde Vatterholm,Roar Natvig
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Odd Helge Gåsbakk,Ingrid Gåsbakk,Camilla Stokkaune,Martin Hyllestad,"15/21,21/16,21/12",Odd Helge Gåsbakk,Ingrid Gåsbakk
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Robin Kruksve Krux,Silje V. Kruksve Aasland,"21/17,21/18",Andreas Nordhøy,Anne Berit Bergsmo
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Odd Helge Gåsbakk,Ingrid Gåsbakk,Robin Kruksve Krux,Silje V. Kruksve Aasland,"15/21,21/19,21/15",Odd Helge Gåsbakk,Ingrid Gåsbakk
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Camilla Stokkaune,Martin Hyllestad,"21/19,17/21,21/15",Andreas Nordhøy,Anne Berit Bergsmo
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Andreas Nordhøy,Anne Berit Bergsmo,Odd Helge Gåsbakk,Ingrid Gåsbakk,"21/15,19/21,21/12",Andreas Nordhøy,Anne Berit Bergsmo
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Camilla Stokkaune,Martin Hyllestad,Robin Kruksve Krux,Silje V. Kruksve Aasland,"21/14,24/22",Camilla Stokkaune,Martin Hyllestad
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Ole Christoffer Olsen,Ingvild Håland,Majken Wærdahl,Magnus Tjøm,"21/16,21/19",Ole Christoffer Olsen,Ingvild Håland
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Majken Wærdahl,Magnus Tjøm,Trond Mære,Anita Olsen,"21/11,23/21",Majken Wærdahl,Magnus Tjøm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Ole Christoffer Olsen,Ingvild Håland,"21/11,21/11",Trond Mære,Anita Olsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Damesingle,,Hildegunn Måøy,,Anne Berit Bergsmo,"21/18,14/21,21/19",Hildegunn Måøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Damesingle,,Anne Berit Bergsmo,,Barbro Johnsen,"21/18,21/10",Anne Berit Bergsmo,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Damesingle,,Mona Øyen Bedsted,,Dianne Christine Geronimo,"21/6,21/10",Mona Øyen Bedsted,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Damesingle,,Hildegunn Måøy,,Dianne Christine Geronimo,"21/16,21/15",Hildegunn Måøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Damesingle,,Hildegunn Måøy,,Mona Øyen Bedsted,"21/12,21/7",Hildegunn Måøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Børge Håland,Silje B. Karlsen,Steinar Fornes,Lena Falch,"21/8,21/8",Børge Håland,Silje B. Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Steinar Fornes,Lena Falch,Joakim Øyen Bedsted,Mona Øyen Bedsted,"21/13,21/23,21/11",Steinar Fornes,Lena Falch
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Joakim Øyen Bedsted,Mona Øyen Bedsted,Dexter Regarde,Dianne Christine Geronimo,"15/21,21/15,21/10",Joakim Øyen Bedsted,Mona Øyen Bedsted
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Steinar Fornes,Lena Falch,Dexter Regarde,Dianne Christine Geronimo,"21/15,18/21,21/12",Steinar Fornes,Lena Falch
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Børge Håland,Silje B. Karlsen,Jørgen Olsen,Julie Kristin Vatterholm,"21/9,21/13",Børge Håland,Silje B. Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Elin Hansen,Erik Winger,Jan Aage Nyborg,Angelika Grande,"21/17,21/16",Elin Hansen,Erik Winger
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Elin Hansen,Erik Winger,"21/17,21/14",Jørgen Olsen,Julie Kristin Vatterholm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Børge Håland,Silje B. Karlsen,Jan Aage Nyborg,Angelika Grande,"21/12,21/13",Børge Håland,Silje B. Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Børge Håland,Silje B. Karlsen,Elin Hansen,Erik Winger,"21/10,21/9",Børge Håland,Silje B. Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN B,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Jan Aage Nyborg,Angelika Grande,"21/10,21/15",Jørgen Olsen,Julie Kristin Vatterholm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Fred Moen,,Marius Olsen,"21/19,21/10",Fred Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Marius Olsen,,Bjørnar Eikebrokk,"21/15,21/19",Marius Olsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Fred Moen,,Runar Måøy,"21/13,21/18",Fred Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Marius Olsen,,Ådne Sellevoll,"14/21,21/12,21/12",Marius Olsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Fred Moen,,Steinar Fornes,"21/15,21/18",Fred Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Runar Måøy,,Dexter Regarde,"21/15,21/16",Runar Måøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Bjørnar Eikebrokk,,Jørgen Olsen,"16/21,21/17,21/16",Bjørnar Eikebrokk,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Bjørnar Eikebrokk,,Stig Gåsbakk,"21/15,21/16",Bjørnar Eikebrokk,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Jørgen Olsen,,Stig Gåsbakk,"21/14,21/8",Jørgen Olsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Marius Olsen,,Thomas Haugen,"23/21,21/16",Marius Olsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Marius Olsen,,Markus Måøy,"21/13,21/16",Marius Olsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Thomas Haugen,,Markus Måøy,"19/21,21/16,25/23",Thomas Haugen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Ådne Sellevoll,,Jens Viken Lium,"21/10,21/10",Ådne Sellevoll,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Sigurd Hellberg,,Jens Viken Lium,"21/14,21/12",Sigurd Hellberg,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Ådne Sellevoll,,Sigurd Hellberg,"21/12,21/19",Ådne Sellevoll,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Arne Bjørn Berger,,Kristian Møkkelgård,"21/18,21/18",Arne Bjørn Berger,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Fred Moen,,Sigurd Lorvik,"21/10,27/25",Fred Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Sigurd Lorvik,,Kristian Møkkelgård,"21/14,21/18",Sigurd Lorvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Fred Moen,,Arne Bjørn Berger,"21/9,21/12",Fred Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Fred Moen,,Kristian Møkkelgård,"21/19,21/10",Fred Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Arne Bjørn Berger,,Sigurd Lorvik,"12/21,21/16,21/19",Arne Bjørn Berger,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Steinar Fornes,,Willy Andersen,"21/11,21/13",Steinar Fornes,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Willy Andersen,,Rune Fortunato,"21/15,21/15",Willy Andersen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Steinar Fornes,,Rune Fortunato,"21/14,21/18",Steinar Fornes,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Runar Måøy,,Terje Knutseth,"18/21,21/19,23/21",Runar Måøy,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Dexter Regarde,,Håvard Buvik,"21/16,21/19",Dexter Regarde,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Håvard Buvik,,Sindre Leander Johnsen,"21/8,21/9",Håvard Buvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herresingle,,Dexter Regarde,,Sindre Leander Johnsen,"21/14,21/7",Dexter Regarde,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Marius Olsen,Sigurd Hellberg,Steinar Fornes,Sigurd Lorvik,"21/13,16/21,21/19",Marius Olsen,Sigurd Hellberg
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Steinar Fornes,Sigurd Lorvik,Pål Ragnar Telnes,Trond Flatås,"22/20,12/21,21/19",Steinar Fornes,Sigurd Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Marius Olsen,Sigurd Hellberg,Terje Knutseth,Esben Bjørkmann Pettersen,"21/17,21/10",Marius Olsen,Sigurd Hellberg
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Steinar Fornes,Sigurd Lorvik,Anders Moen,Fred Moen,"21/15,21/15",Steinar Fornes,Sigurd Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Terje Knutseth,Esben Bjørkmann Pettersen,Arne Bjørn Berger,Bjørnar Eikebrokk,"21/15,21/12",Terje Knutseth,Esben Bjørkmann Pettersen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Pål Ragnar Telnes,Trond Flatås,Runar Måøy,Markus Måøy,"21/14,21/15",Pål Ragnar Telnes,Trond Flatås
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Steinar Fornes,Sigurd Lorvik,Jan Erik Søraas Lien,Robert  Karlsen,"18/21,21/17,21/13",Steinar Fornes,Sigurd Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Jan Erik Søraas Lien,Robert  Karlsen,Martin Haagenstad,Eivind André Løvold Nilsen,"21/8,21/14",Jan Erik Søraas Lien,Robert  Karlsen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Steinar Fornes,Sigurd Lorvik,Martin Haagenstad,Eivind André Løvold Nilsen,"21/11,21/14",Steinar Fornes,Sigurd Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Anders Moen,Fred Moen,Dexter Regarde,Fredrik Nilssen,"21/14,21/19",Anders Moen,Fred Moen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Anders Moen,Fred Moen,Rune Fortunato,Stig Gåsbakk,"21/8,21/19",Anders Moen,Fred Moen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Dexter Regarde,Fredrik Nilssen,Rune Fortunato,Stig Gåsbakk,"21/17,21/18",Dexter Regarde,Fredrik Nilssen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Arne Bjørn Berger,Bjørnar Eikebrokk,Ådne Sellevoll,Willy Andersen,"11/21,21/16,21/18",Arne Bjørn Berger,Bjørnar Eikebrokk
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Terje Knutseth,Esben Bjørkmann Pettersen,Helge Formo,Erik Måøy,"21/18,23/21",Terje Knutseth,Esben Bjørkmann Pettersen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Terje Knutseth,Esben Bjørkmann Pettersen,Kristian Møkkelgård,Jens Viken Lium,"21/16,21/18",Terje Knutseth,Esben Bjørkmann Pettersen
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Helge Formo,Erik Måøy,Kristian Møkkelgård,Jens Viken Lium,"21/17,21/15",Helge Formo,Erik Måøy
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Thomas Haugen,Oscar Haugen,"15/21,21/18,21/18",Erik Winger,Jan Aage Nyborg
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Marius Olsen,Sigurd Hellberg,Thomas Haugen,Oscar Haugen,"21/10,23/21",Marius Olsen,Sigurd Hellberg
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Herredouble,Marius Olsen,Sigurd Hellberg,Erik Winger,Jan Aage Nyborg,"21/17,15/21,21/15",Marius Olsen,Sigurd Hellberg
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Damedouble,Angelika Grande,Lena Falch,Elin Hansen,Iris Olafsen-Solberg,"21/13,21/15",Angelika Grande,Lena Falch
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Damedouble,Amber Heggdal,Julie Kristin Vatterholm,Lena Knutseth,MARTE EGGEN,"21/7,21/11",Amber Heggdal,Julie Kristin Vatterholm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Damedouble,Angelika Grande,Lena Falch,Lena Knutseth,MARTE EGGEN,"21/8,21/10",Angelika Grande,Lena Falch
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Damedouble,Amber Heggdal,Julie Kristin Vatterholm,Angelika Grande,Lena Falch,"21/11,21/14",Amber Heggdal,Julie Kristin Vatterholm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN C,Damedouble,Amber Heggdal,Julie Kristin Vatterholm,Elin Hansen,Iris Olafsen-Solberg,"21/15,21/19",Amber Heggdal,Julie Kristin Vatterholm
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Herresingle,,Martin Haagenstad,,Eivind André Løvold Nilsen,"21/17,21/16",Martin Haagenstad,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Herresingle,,Fredrik Nilssen,,Martin Haagenstad,"21/17,21/9",Fredrik Nilssen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Herresingle,,Eivind André Løvold Nilsen,,Fredrik Nilssen,"21/19,20/22,21/17",Eivind André Løvold Nilsen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Damesingle,,Tove Søraas,,Iris Olafsen-Solberg,"21/7,21/13",Tove Søraas,
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Mixeddouble,Siv Solum Buvik,Håvard Buvik,Tove Søraas,Jan Erik Søraas Lien,"21/18,21/12",Siv Solum Buvik,Håvard Buvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Mixeddouble,Fredrik Nilssen,Iris Olafsen-Solberg,Tove Søraas,Jan Erik Søraas Lien,"18/21,22/20,21/15",Fredrik Nilssen,Iris Olafsen-Solberg
+2018/2019,Verdal Verdalstreffen,15.02.2019,SEN D,Mixeddouble,Siv Solum Buvik,Håvard Buvik,Fredrik Nilssen,Iris Olafsen-Solberg,"21/17,21/5",Siv Solum Buvik,Håvard Buvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,Damesingle,,Emilie Romundstad Nyborg,,Maja Mathilde Johnsen Sørgjerd,"21/8,21/11",Emilie Romundstad Nyborg,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,Damesingle,,Silje Lyngstad Skavhaug,,Eva Katrine Halstensen,"21/14,21/13",Silje Lyngstad Skavhaug,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,Damesingle,,Eva Katrine Halstensen,,Emilie Romundstad Nyborg,"21/18,24/22",Eva Katrine Halstensen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,Damesingle,,Silje Lyngstad Skavhaug,,Maja Mathilde Johnsen Sørgjerd,"21/7,21/10",Silje Lyngstad Skavhaug,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,Damesingle,,Silje Lyngstad Skavhaug,,Emilie Romundstad Nyborg,"21/11,21/9",Silje Lyngstad Skavhaug,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U11 B,Damesingle,,Eva Katrine Halstensen,,Maja Mathilde Johnsen Sørgjerd,"21/5,21/4",Eva Katrine Halstensen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Marius Sandvær,,Gaute Sellevoll,"21/9,21/16",Marius Sandvær,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Elias Haugen,,Filip Andre Brasøygård Johansen,"21/23,21/17,21/10",Elias Haugen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Filip Andre Brasøygård Johansen,,Gaute Sellevoll,"21/12,23/15,21/16",Filip Andre Brasøygård Johansen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Marius Sandvær,,William R. Barø,"21/15,21/15",Marius Sandvær,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Elias Haugen,,Gaute Sellevoll,"21/10,21/15",Elias Haugen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Filip Andre Brasøygård Johansen,,William R. Barø,"21/14,21/11",Filip Andre Brasøygård Johansen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Elias Haugen,,William R. Barø,"21/14,21/11",Elias Haugen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Gaute Sellevoll,,William R. Barø,"21/19,28/26",Gaute Sellevoll,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herresingle,,Marius Sandvær,,Elias Haugen,"21/14,16/21,21/16",Marius Sandvær,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Nila Lorvik,,Signe Lenning,"24/22,21/19",Nila Lorvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Nila Lorvik,,Nora Jørgensen,"21/15,21/17",Nila Lorvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Agnes Fornes,,Ingrid Jørgensen,"21/8,21/12",Agnes Fornes,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Signe Lenning,,Agnes Fornes,"21/19,21/8",Signe Lenning,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Signe Lenning,,Ingrid Jørgensen,"21/6,21/9",Signe Lenning,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Nora Jørgensen,,Ingvild Søraas Johannessen,"21/9,21/12",Nora Jørgensen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Nora Jørgensen,,Hanna Gorzolka,"21/8,21/16",Nora Jørgensen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Hanna Gorzolka,,Ingvild Søraas Johannessen,"21/15,21/14",Hanna Gorzolka,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Nila Lorvik,,Ellinor Marie Barø,"21/10,21/3",Nila Lorvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Dorthe Lorvik,,Ellinor Marie Barø,"21/7,21/7",Dorthe Lorvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Damesingle,,Nila Lorvik,,Dorthe Lorvik,"21/9,21/0",Nila Lorvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herredouble,Marius Sandvær,Filip Andre Brasøygård Johansen,Leander Nilssen,Alexander Hansen,"21/5,21/4",Marius Sandvær,Filip Andre Brasøygård Johansen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herredouble,Marius Sandvær,Filip Andre Brasøygård Johansen,William R. Barø,Elias Haugen,"21/11,21/13",Marius Sandvær,Filip Andre Brasøygård Johansen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Herredouble,William R. Barø,Elias Haugen,Leander Nilssen,Alexander Hansen,"21/9,16/21,21/7",William R. Barø,Elias Haugen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Marius Sandvær,Nila Lorvik,Signe Lenning,Filip Andre Brasøygård Johansen,"22/20,21/18",Marius Sandvær,Nila Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Marius Sandvær,Nila Lorvik,Ingrid Jørgensen,Leander Nilssen,"21/2,21/3",Marius Sandvær,Nila Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Nora Jørgensen,Gaute Sellevoll,Ingrid Jørgensen,Leander Nilssen,"21/7,21/4",Nora Jørgensen,Gaute Sellevoll
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Marius Sandvær,Nila Lorvik,Nora Jørgensen,Gaute Sellevoll,"21/4,21/11",Marius Sandvær,Nila Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Signe Lenning,Filip Andre Brasøygård Johansen,Elias Haugen,Hanna Gorzolka,"21/15,21/15",Signe Lenning,Filip Andre Brasøygård Johansen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Signe Lenning,Filip Andre Brasøygård Johansen,Dorthe Lorvik,Alexander Hansen,"21/12,21/3",Signe Lenning,Filip Andre Brasøygård Johansen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 A,Mixeddouble,Elias Haugen,Hanna Gorzolka,Dorthe Lorvik,Alexander Hansen,"21/8,21/9",Elias Haugen,Hanna Gorzolka
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 B,Herresingle,,Leander Nilssen,,William Aasland,"21/13,21/14",Leander Nilssen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 B,Herresingle,,Alexander Hansen,,Leander Nilssen,"21/17,21/15",Alexander Hansen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U13 B,Herresingle,,Alexander Hansen,,William Aasland,"21/2,21/8",Alexander Hansen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Børge Håland,,Sander Hegseth,"21/15,21/12",Børge Håland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Børge Håland,,Anders Moen,"21/12,21/15",Børge Håland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Sander Hegseth,,Even Johan  Engevik,"21/9,21/9",Sander Hegseth,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Sander Hegseth,,Henrik Buvik,"21/12,21/16",Sander Hegseth,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Henrik Buvik,,Even Johan  Engevik,"21/4,21/6",Henrik Buvik,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Anders Moen,,Leo Fortunato,"21/4,21/9",Anders Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Leo Fortunato,,Julian Hanssen,"20/22,21/16,21/10",Leo Fortunato,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Anders Moen,,Julian Hanssen,"21/8,21/6",Anders Moen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Oscar Haugen,,Joar Gåsbakk,"21/15,21/12",Oscar Haugen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Børge Håland,,Oscar Haugen,"21/11,21/11",Børge Håland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herresingle,,Børge Håland,,Joar Gåsbakk,"21/14,21/19",Børge Håland,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damesingle,,Trine Søraas Johannessen,,Amber Heggdal,"21/19,13/21,21/14",Trine Søraas Johannessen,
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herredouble,Henrik Buvik,Sander Hegseth,Even Johan  Engevik,Julian Hanssen,"21/7,21/16",Henrik Buvik,Sander Hegseth
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herredouble,Henrik Buvik,Sander Hegseth,Joar Gåsbakk,Leo Fortunato,"21/13,21/7",Henrik Buvik,Sander Hegseth
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Herredouble,Joar Gåsbakk,Leo Fortunato,Even Johan  Engevik,Julian Hanssen,"16/21,21/14,21/12",Joar Gåsbakk,Leo Fortunato
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Nora Jørgensen,Signe Lenning,Trine Søraas Johannessen,Ingvild Søraas Johannessen,"21/19,21/18",Nora Jørgensen,Signe Lenning
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Nora Jørgensen,Signe Lenning,Agnes Fornes,Hanna Gorzolka,"21/12,13/21,21/13",Nora Jørgensen,Signe Lenning
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Agnes Fornes,Hanna Gorzolka,Eva Katrine Halstensen,Emilie Romundstad Nyborg,"21/5,21/8",Agnes Fornes,Hanna Gorzolka
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Nora Jørgensen,Signe Lenning,Eva Katrine Halstensen,Emilie Romundstad Nyborg,"21/5,21/5",Nora Jørgensen,Signe Lenning
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Ingrid Jørgensen,Nila Lorvik,Dorthe Lorvik,Ellinor Marie Barø,"21/13,21/16",Ingrid Jørgensen,Nila Lorvik
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Trine Søraas Johannessen,Ingvild Søraas Johannessen,Ingrid Jørgensen,Nila Lorvik,"21/13,17/21,21/16",Trine Søraas Johannessen,Ingvild Søraas Johannessen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U15 A,Damedouble,Trine Søraas Johannessen,Ingvild Søraas Johannessen,Dorthe Lorvik,Ellinor Marie Barø,"21/18,21/9",Trine Søraas Johannessen,Ingvild Søraas Johannessen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U17 A,Mixeddouble,MARTE EGGEN,Thomas Haugen,Lena Knutseth,Eivind André Løvold Nilsen,"21/14,21/12",MARTE EGGEN,Thomas Haugen
+2018/2019,Verdal Verdalstreffen,15.02.2019,U17 A,Mixeddouble,Amber Heggdal,Jonas Midtøy,Lena Knutseth,Eivind André Løvold Nilsen,"21/17,21/12",Amber Heggdal,Jonas Midtøy
+2018/2019,Verdal Verdalstreffen,15.02.2019,U17 A,Mixeddouble,Sara Buvik,Ådne Sellevoll,MARTE EGGEN,Thomas Haugen,"21/13,21/13",Sara Buvik,Ådne Sellevoll
+2018/2019,Verdal Verdalstreffen,15.02.2019,U17 A,Mixeddouble,Amber Heggdal,Jonas Midtøy,MARTE EGGEN,Thomas Haugen,"21/6,21/14",Amber Heggdal,Jonas Midtøy
+2018/2019,Verdal Verdalstreffen,15.02.2019,U17 A,Mixeddouble,Sara Buvik,Ådne Sellevoll,Amber Heggdal,Jonas Midtøy,"30/28,16/21,21/19",Sara Buvik,Ådne Sellevoll
+2018/2019,Verdal Verdalstreffen,15.02.2019,U17 A,Mixeddouble,Sara Buvik,Ådne Sellevoll,Lena Knutseth,Eivind André Løvold Nilsen,"21/19,21/14",Sara Buvik,Ådne Sellevoll

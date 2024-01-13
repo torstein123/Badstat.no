@@ -1,243 +1,147 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Louise Reme,"19/21,21/13,21/12",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Nidhi Maheshkumar,"21/18,21/15",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Nidhi Maheshkumar,"21/16,21/17",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Louise Reme,"21/16,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Lilly Haugen,"21/15,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Nidhi Maheshkumar,,Louise Reme,"21/10,21/16",Nidhi Maheshkumar,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Louise Reme,"19/21,21/13,21/12",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Nidhi Maheshkumar,"21/18,21/15",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Nidhi Maheshkumar,"21/16,21/17",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Louise Reme,"21/16,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Lilly Haugen,"21/15,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Nidhi Maheshkumar,,Louise Reme,"21/10,21/16",Nidhi Maheshkumar,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Lilly Haugen,Nidhi Maheshkumar,Evelin Abusdal,Louise Reme,"21/14,21/10",Lilly Haugen,Nidhi Maheshkumar
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Louise Reme,"19/21,21/13,21/12",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Nidhi Maheshkumar,"21/18,21/15",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Nidhi Maheshkumar,"21/16,21/17",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Louise Reme,"21/16,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Lilly Haugen,"21/15,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Nidhi Maheshkumar,,Louise Reme,"21/10,21/16",Nidhi Maheshkumar,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Louise Reme,"19/21,21/13,21/12",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Nidhi Maheshkumar,"21/18,21/15",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Lilly Haugen,,Nidhi Maheshkumar,"21/16,21/17",Lilly Haugen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Louise Reme,"21/16,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Evelin Abusdal,,Lilly Haugen,"21/15,21/12",Evelin Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,,Nidhi Maheshkumar,,Louise Reme,"21/10,21/16",Nidhi Maheshkumar,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Lilly Haugen,Nidhi Maheshkumar,Evelin Abusdal,Louise Reme,"21/14,21/10",Lilly Haugen,Nidhi Maheshkumar
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,David Molina-Heimlund,,Ivo Ekelund Formoe,"21/12,21/10",David Molina-Heimlund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Daniel Hansen,,Ivo Ekelund Formoe,"21/6,21/8",Daniel Hansen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,David Molina-Heimlund,,Tara Naomi Bull Harring,"21/13,21/12",David Molina-Heimlund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Tara Naomi Bull Harring,,Ivo Ekelund Formoe,"21/19,21/10",Tara Naomi Bull Harring,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Daniel Hansen,,Tara Naomi Bull Harring,"21/4,21/8",Daniel Hansen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Daniel Hansen,,David Molina-Heimlund,"21/8,21/8",Daniel Hansen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,David Molina-Heimlund,,Ivo Ekelund Formoe,"21/12,21/10",David Molina-Heimlund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Daniel Hansen,,Ivo Ekelund Formoe,"21/6,21/8",Daniel Hansen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,David Molina-Heimlund,,Tara Naomi Bull Harring,"21/13,21/12",David Molina-Heimlund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Tara Naomi Bull Harring,,Ivo Ekelund Formoe,"21/19,21/10",Tara Naomi Bull Harring,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Daniel Hansen,,Tara Naomi Bull Harring,"21/4,21/8",Daniel Hansen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,,Daniel Hansen,,David Molina-Heimlund,"21/8,21/8",Daniel Hansen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Ludvig Trønnes,Daniel Hansen,Ivo Ekelund Formoe,Mateusz Losinski,"21/10,21/11",Ludvig Trønnes,Daniel Hansen
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Ludvig Trønnes,Daniel Hansen,Simen Roel Austenaa,Aksel Roel Andersen,"21/5,21/4",Ludvig Trønnes,Daniel Hansen
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Ivo Ekelund Formoe,Mateusz Losinski,Johan Jacobsen,Jacob Bakken Hasle,"21/5,21/12",Ivo Ekelund Formoe,Mateusz Losinski
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Johan Jacobsen,Jacob Bakken Hasle,Ludvig Myhre Guldberg,Leon Haugen,"18/21,25/23,21/16",Johan Jacobsen,Jacob Bakken Hasle
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Ivo Ekelund Formoe,Mateusz Losinski,Ludvig Myhre Guldberg,Leon Haugen,"21/12,21/12",Ivo Ekelund Formoe,Mateusz Losinski
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,David Nikolai Hemmestad Dale,"21/7,21/8",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Jacob Bakken Hasle,,Simen Roel Austenaa,"21/10,21/19",Jacob Bakken Hasle,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,David Nikolai Hemmestad Dale,,Mateusz Losinski,"16/21,24/22,21/1",David Nikolai Hemmestad Dale,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Satyaki Dutta,"21/18,18/21,21/17",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,David Nikolai Hemmestad Dale,,Aksel Roel Andersen,"21/11,21/13",David Nikolai Hemmestad Dale,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Mateusz Losinski,,Leon Haugen,"21/4,21/7",Mateusz Losinski,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Ludvig Myhre Guldberg,"21/16,21/13",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Satyaki Dutta,,William Gagnat Reme,"21/5,21/10",Satyaki Dutta,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Ludvig Myhre Guldberg,,Jacob Bakken Hasle,"21/19,21/15",Ludvig Myhre Guldberg,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Jacob Bakken Hasle,,David Nikolai Hemmestad Dale,"10/21,21/18,21/17",Jacob Bakken Hasle,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,David Nikolai Hemmestad Dale,,Ludvig Myhre Guldberg,"21/19,21/15",David Nikolai Hemmestad Dale,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Mateusz Losinski,,William Gagnat Reme,"21/9,21/5",Mateusz Losinski,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,William Gagnat Reme,,Simen Roel Austenaa,"21/10,21/5",William Gagnat Reme,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Mateusz Losinski,,Simen Roel Austenaa,"21/7,21/7",Mateusz Losinski,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Aksel Roel Andersen,,Johan Jacobsen,"21/13,19/21,21/12",Aksel Roel Andersen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Johan Jacobsen,"21/9,21/8",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Aksel Roel Andersen,"21/13,21/10",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Satyaki Dutta,,Leon Haugen,"21/1,21/4",Satyaki Dutta,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,David Nikolai Hemmestad Dale,"21/7,21/8",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Jacob Bakken Hasle,,Simen Roel Austenaa,"21/10,21/19",Jacob Bakken Hasle,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,David Nikolai Hemmestad Dale,,Mateusz Losinski,"16/21,24/22,21/1",David Nikolai Hemmestad Dale,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Satyaki Dutta,"21/18,18/21,21/17",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,David Nikolai Hemmestad Dale,,Aksel Roel Andersen,"21/11,21/13",David Nikolai Hemmestad Dale,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Mateusz Losinski,,Leon Haugen,"21/4,21/7",Mateusz Losinski,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Ludvig Myhre Guldberg,"21/16,21/13",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Satyaki Dutta,,William Gagnat Reme,"21/5,21/10",Satyaki Dutta,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Ludvig Myhre Guldberg,,Jacob Bakken Hasle,"21/19,21/15",Ludvig Myhre Guldberg,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Jacob Bakken Hasle,,David Nikolai Hemmestad Dale,"10/21,21/18,21/17",Jacob Bakken Hasle,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,David Nikolai Hemmestad Dale,,Ludvig Myhre Guldberg,"21/19,21/15",David Nikolai Hemmestad Dale,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Mateusz Losinski,,William Gagnat Reme,"21/9,21/5",Mateusz Losinski,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,William Gagnat Reme,,Simen Roel Austenaa,"21/10,21/5",William Gagnat Reme,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Mateusz Losinski,,Simen Roel Austenaa,"21/7,21/7",Mateusz Losinski,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Aksel Roel Andersen,,Johan Jacobsen,"21/13,19/21,21/12",Aksel Roel Andersen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Johan Jacobsen,"21/9,21/8",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Terjei Berg Simonsen,,Aksel Roel Andersen,"21/13,21/10",Terjei Berg Simonsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,,Satyaki Dutta,,Leon Haugen,"21/1,21/4",Satyaki Dutta,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Joachim Nguyen,,Ulrikke Sørstrand,"21/9,21/14",Joachim Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Kristoffer Tobota-Johannessen,,Ashwath Anandathirthan,"18/21,21/15,21/17",Kristoffer Tobota-Johannessen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Tobias Haraldstad,,Kristoffer Ravndal,"22/20,21/17",Tobias Haraldstad,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ulrikke Sørstrand,,Ludvig Trønnes,"14/21,21/18,21/16",Ulrikke Sørstrand,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ashwath Anandathirthan,,Troy Jacob Bull Harring,"18/21,21/19,22/20",Ashwath Anandathirthan,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Kristoffer Tobota-Johannessen,,Tobias Haraldstad,"21/14,21/11",Kristoffer Tobota-Johannessen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Joachim Nguyen,,Kristoffer Tobota-Johannessen,"21/5,21/9",Joachim Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Joachim Nguyen,,Tobias Haraldstad,"21/6,21/5",Joachim Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ludvig Trønnes,,Kristoffer Ravndal,"21/13,21/17",Ludvig Trønnes,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ludvig Trønnes,,Ashwath Anandathirthan,"21/16,21/18",Ludvig Trønnes,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ashwath Anandathirthan,,Kristoffer Ravndal,"21/14,21/17",Ashwath Anandathirthan,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ulrikke Sørstrand,,Troy Jacob Bull Harring,"21/13,21/10",Ulrikke Sørstrand,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Troy Jacob Bull Harring,,Alexander Tobota-Johannessen,"21/17,21/2",Troy Jacob Bull Harring,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Joachim Nguyen,,Ulrikke Sørstrand,"21/9,21/14",Joachim Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Kristoffer Tobota-Johannessen,,Ashwath Anandathirthan,"18/21,21/15,21/17",Kristoffer Tobota-Johannessen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Tobias Haraldstad,,Kristoffer Ravndal,"22/20,21/17",Tobias Haraldstad,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ulrikke Sørstrand,,Ludvig Trønnes,"14/21,21/18,21/16",Ulrikke Sørstrand,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ashwath Anandathirthan,,Troy Jacob Bull Harring,"18/21,21/19,22/20",Ashwath Anandathirthan,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Kristoffer Tobota-Johannessen,,Tobias Haraldstad,"21/14,21/11",Kristoffer Tobota-Johannessen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Joachim Nguyen,,Kristoffer Tobota-Johannessen,"21/5,21/9",Joachim Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Joachim Nguyen,,Tobias Haraldstad,"21/6,21/5",Joachim Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ludvig Trønnes,,Kristoffer Ravndal,"21/13,21/17",Ludvig Trønnes,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ludvig Trønnes,,Ashwath Anandathirthan,"21/16,21/18",Ludvig Trønnes,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ashwath Anandathirthan,,Kristoffer Ravndal,"21/14,21/17",Ashwath Anandathirthan,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Ulrikke Sørstrand,,Troy Jacob Bull Harring,"21/13,21/10",Ulrikke Sørstrand,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Troy Jacob Bull Harring,,Alexander Tobota-Johannessen,"21/17,21/2",Troy Jacob Bull Harring,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,,Sofie Phanngoen Aamot,,Vilma Gyland,"21/19,21/8",Sofie Phanngoen Aamot,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Ulrikke Sørstrand,Ashwath Anandathirthan,Joachim Nguyen,Tobias Haraldstad,"21/19,10/21,23/21",Ulrikke Sørstrand,Ashwath Anandathirthan
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Troy Jacob Bull Harring,Kristoffer Ravndal,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"21/18,21/18",Troy Jacob Bull Harring,Kristoffer Ravndal
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Joachim Nguyen,Tobias Haraldstad,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"21/19,15/21,21/15",Joachim Nguyen,Tobias Haraldstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Ulrikke Sørstrand,Ashwath Anandathirthan,Troy Jacob Bull Harring,Kristoffer Ravndal,"21/11,30/28",Ulrikke Sørstrand,Ashwath Anandathirthan
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Joachim Nguyen,Tobias Haraldstad,Troy Jacob Bull Harring,Kristoffer Ravndal,"21/10,20/22,21/11",Joachim Nguyen,Tobias Haraldstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Ulrikke Sørstrand,Ashwath Anandathirthan,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"21/16,14/21,21/16",Ulrikke Sørstrand,Ashwath Anandathirthan
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,August Guldberg,"21/10,21/9",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Robert Mikosz,,Linus Jacobsen,"21/3,21/7",Robert Mikosz,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Kasper Abusdal,,Morris Andersen,"21/16,21/14",Kasper Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,Storm Alexander Steen,"21/18,21/6",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,August Guldberg,,Leon Myhre Garmannslund,"21/14,7/21,21/16",August Guldberg,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Robert Mikosz,,Oskar Mjøbo Langseth,"21/11,21/12",Robert Mikosz,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Linus Jacobsen,,Storm Bersgtøl,"21/19,21/15",Linus Jacobsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Leon Myhre Garmannslund,,Julian Thomassen,"21/16,15/21,21/13",Leon Myhre Garmannslund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Linus Jacobsen,,Sindre Mork,"21/14,21/19",Linus Jacobsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,Kasper Abusdal,"20/22,21/17,21/15",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Robert Mikosz,,Kasper Abusdal,"21/11,21/6",Robert Mikosz,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,Robert Mikosz,"21/12,21/17",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Storm Alexander Steen,,Karl Alexander Febreo Meling,"21/16,21/13",Storm Alexander Steen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Oskar Mjøbo Langseth,,Karl Alexander Febreo Meling,"21/19,21/16",Oskar Mjøbo Langseth,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Storm Alexander Steen,,Oskar Mjøbo Langseth,"21/19,21/16",Storm Alexander Steen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Leon Myhre Garmannslund,,Morris Andersen,"21/16,21/18",Leon Myhre Garmannslund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Sindre Mork,,Morris Andersen,"22/20,21/15",Sindre Mork,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Leon Myhre Garmannslund,,Sindre Mork,"21/9,21/9",Leon Myhre Garmannslund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Julian Thomassen,,Linus Jacobsen,"21/19,14/21,21/12",Julian Thomassen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,August Guldberg,,Storm Bersgtøl,"21/12,21/11",August Guldberg,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,August Guldberg,"21/10,21/9",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Robert Mikosz,,Linus Jacobsen,"21/3,21/7",Robert Mikosz,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Kasper Abusdal,,Morris Andersen,"21/16,21/14",Kasper Abusdal,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,Storm Alexander Steen,"21/18,21/6",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,August Guldberg,,Leon Myhre Garmannslund,"21/14,7/21,21/16",August Guldberg,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Robert Mikosz,,Oskar Mjøbo Langseth,"21/11,21/12",Robert Mikosz,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Linus Jacobsen,,Storm Bersgtøl,"21/19,21/15",Linus Jacobsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Leon Myhre Garmannslund,,Julian Thomassen,"21/16,15/21,21/13",Leon Myhre Garmannslund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Linus Jacobsen,,Sindre Mork,"21/14,21/19",Linus Jacobsen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,Kasper Abusdal,"20/22,21/17,21/15",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Robert Mikosz,,Kasper Abusdal,"21/11,21/6",Robert Mikosz,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Mang Cilian Jahau,,Robert Mikosz,"21/12,21/17",Mang Cilian Jahau,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Storm Alexander Steen,,Karl Alexander Febreo Meling,"21/16,21/13",Storm Alexander Steen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Oskar Mjøbo Langseth,,Karl Alexander Febreo Meling,"21/19,21/16",Oskar Mjøbo Langseth,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Storm Alexander Steen,,Oskar Mjøbo Langseth,"21/19,21/16",Storm Alexander Steen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Leon Myhre Garmannslund,,Morris Andersen,"21/16,21/18",Leon Myhre Garmannslund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Sindre Mork,,Morris Andersen,"22/20,21/15",Sindre Mork,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Leon Myhre Garmannslund,,Sindre Mork,"21/9,21/9",Leon Myhre Garmannslund,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,Julian Thomassen,,Linus Jacobsen,"21/19,14/21,21/12",Julian Thomassen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,,August Guldberg,,Storm Bersgtøl,"21/12,21/11",August Guldberg,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,August Guldberg,Robert Mikosz,Morris Andersen,Storm Bersgtøl,"21/16,21/11",August Guldberg,Robert Mikosz
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Julian Thomassen,Kasper Abusdal,David Molina-Heimlund,Linus Jacobsen,"21/14,21/18",Julian Thomassen,Kasper Abusdal
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Julian Thomassen,Kasper Abusdal,Oskar Mjøbo Langseth,Leon Myhre Garmannslund,"18/21,21/14,21/14",Julian Thomassen,Kasper Abusdal
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,August Guldberg,Robert Mikosz,Oskar Mjøbo Langseth,Leon Myhre Garmannslund,"21/10,21/15",August Guldberg,Robert Mikosz
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,August Guldberg,Robert Mikosz,Julian Thomassen,Kasper Abusdal,"21/13,21/16",August Guldberg,Robert Mikosz
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Morris Andersen,Storm Bersgtøl,Karl Alexander Febreo Meling,Storm Alexander Steen,"21/6,21/8",Morris Andersen,Storm Bersgtøl
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,David Molina-Heimlund,Linus Jacobsen,Karl Alexander Febreo Meling,Storm Alexander Steen,"21/15,21/3",David Molina-Heimlund,Linus Jacobsen
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Morris Andersen,Storm Bersgtøl,David Molina-Heimlund,Linus Jacobsen,"21/15,21/18",Morris Andersen,Storm Bersgtøl
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Christian Alexander Jensen,,Carlo Yague Rosano,"21/13,21/13",Christian Alexander Jensen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Carlo Yague Rosano,,Arturo Yague Rosano,"21/19,21/19",Carlo Yague Rosano,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Jonas Sørstrand,,Carlo Yague Rosano,"21/19,19/21,21/19",Jonas Sørstrand,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Arturo Yague Rosano,,Jonas Sørstrand,"16/21,21/16,21/15",Arturo Yague Rosano,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Christian Alexander Jensen,,Duy Philip Nguyen,"21/19,21/12",Christian Alexander Jensen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Christian Alexander Jensen,,Carlo Yague Rosano,"21/13,21/13",Christian Alexander Jensen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Carlo Yague Rosano,,Arturo Yague Rosano,"21/19,21/19",Carlo Yague Rosano,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Jonas Sørstrand,,Carlo Yague Rosano,"21/19,19/21,21/19",Jonas Sørstrand,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Arturo Yague Rosano,,Jonas Sørstrand,"16/21,21/16,21/15",Arturo Yague Rosano,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Christian Alexander Jensen,,Duy Philip Nguyen,"21/19,21/12",Christian Alexander Jensen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,,Vera Østhassel Harman,,Laura Romme Mørch,"21/7,21/5",Vera Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Christian Alexander Jensen,Arturo Yague Rosano,Vera Østhassel Harman,Laura Romme Mørch,"21/19,21/12",Christian Alexander Jensen,Arturo Yague Rosano
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Christian Alexander Jensen,Arturo Yague Rosano,Carlo Yague Rosano,Jonas Sørstrand,"21/17,21/16",Christian Alexander Jensen,Arturo Yague Rosano
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Carlo Yague Rosano,Jonas Sørstrand,Vera Østhassel Harman,Laura Romme Mørch,"21/15,21/8",Carlo Yague Rosano,Jonas Sørstrand
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Henrik Flak,,Magnus Olaussen,"21/16,21/16",Henrik Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Marius Thomassen,,Tobias Tobota-Johannessen,"21/16,21/19",Marius Thomassen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Henrik Flak,,Tobias Tobota-Johannessen,"21/16,21/8",Henrik Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Marius Thomassen,,Magnus Olaussen,"21/16,21/19",Marius Thomassen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Henrik Flak,,Marius Thomassen,"21/12,20/22,21/15",Henrik Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Magnus Olaussen,,Tobias Tobota-Johannessen,"11/21,21/19,21/17",Magnus Olaussen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Henrik Flak,,Magnus Olaussen,"21/16,21/16",Henrik Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Marius Thomassen,,Tobias Tobota-Johannessen,"21/16,21/19",Marius Thomassen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Henrik Flak,,Tobias Tobota-Johannessen,"21/16,21/8",Henrik Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Marius Thomassen,,Magnus Olaussen,"21/16,21/19",Marius Thomassen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Henrik Flak,,Marius Thomassen,"21/12,20/22,21/15",Henrik Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,,Magnus Olaussen,,Tobias Tobota-Johannessen,"11/21,21/19,21/17",Magnus Olaussen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Noah Østhassel Harman,"21/14,17/21,21/12",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Emil Eikaas,,Fabian Flak,"16/21,21/18,21/19",Emil Eikaas,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Philip Tran,,Kristian Robstad,"21/19,14/21,21/17",Philip Tran,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Noah Østhassel Harman,,Birk Helleren,"26/24,22/20",Noah Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Fabian Flak,,Tobias Birkeland,"21/16,21/16",Fabian Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Philip Tran,,Arne Loen Bue,"21/13,21/6",Philip Tran,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Sondre Warren,"21/8,21/8",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Emil Eikaas,,Kristian Robstad,"22/20,13/21,21/16",Emil Eikaas,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Kristian Robstad,,Sondre Warren,"21/16,21/14",Kristian Robstad,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Emil Eikaas,"21/18,19/21,21/8",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Emil Eikaas,,Sondre Warren,"21/14,21/14",Emil Eikaas,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Kristian Robstad,"21/16,21/17",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Noah Østhassel Harman,,Philip Tran,"21/17,21/12",Noah Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Tobias Birkeland,,Philip Tran,"21/18,21/15",Tobias Birkeland,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Noah Østhassel Harman,,Tobias Birkeland,"22/20,21/14",Noah Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Birk Helleren,,Arne Loen Bue,"21/8,21/16",Birk Helleren,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Birk Helleren,,Fabian Flak,"30/28,21/18",Birk Helleren,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Fabian Flak,,Arne Loen Bue,"21/17,21/15",Fabian Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Noah Østhassel Harman,"21/14,17/21,21/12",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Emil Eikaas,,Fabian Flak,"16/21,21/18,21/19",Emil Eikaas,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Philip Tran,,Kristian Robstad,"21/19,14/21,21/17",Philip Tran,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Noah Østhassel Harman,,Birk Helleren,"26/24,22/20",Noah Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Fabian Flak,,Tobias Birkeland,"21/16,21/16",Fabian Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Philip Tran,,Arne Loen Bue,"21/13,21/6",Philip Tran,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Sondre Warren,"21/8,21/8",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Emil Eikaas,,Kristian Robstad,"22/20,13/21,21/16",Emil Eikaas,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Kristian Robstad,,Sondre Warren,"21/16,21/14",Kristian Robstad,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Emil Eikaas,"21/18,19/21,21/8",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Emil Eikaas,,Sondre Warren,"21/14,21/14",Emil Eikaas,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,David Nguyen,,Kristian Robstad,"21/16,21/17",David Nguyen,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Noah Østhassel Harman,,Philip Tran,"21/17,21/12",Noah Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Tobias Birkeland,,Philip Tran,"21/18,21/15",Tobias Birkeland,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Noah Østhassel Harman,,Tobias Birkeland,"22/20,21/14",Noah Østhassel Harman,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Birk Helleren,,Arne Loen Bue,"21/8,21/16",Birk Helleren,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Birk Helleren,,Fabian Flak,"30/28,21/18",Birk Helleren,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,,Fabian Flak,,Arne Loen Bue,"21/17,21/15",Fabian Flak,
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Emil Eikaas,Birk Helleren,Philip Tran,Arne Loen Bue,"21/15,21/18",Emil Eikaas,Birk Helleren
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Tobias Birkeland,Sondre Warren,"21/12,21/10",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Tobias Birkeland,Sondre Warren,Philip Tran,Arne Loen Bue,"21/18,19/21,21/19",Tobias Birkeland,Sondre Warren
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Fabian Flak,Noah Østhassel Harman,Emil Eikaas,Birk Helleren,"21/19,17/21,21/14",Fabian Flak,Noah Østhassel Harman
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Fabian Flak,Noah Østhassel Harman,Philip Tran,Arne Loen Bue,"21/15,21/7",Fabian Flak,Noah Østhassel Harman
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Emil Eikaas,Birk Helleren,"21/13,21/9",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Philip Tran,Arne Loen Bue,"21/15,21/8",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Fabian Flak,Noah Østhassel Harman,Tobias Birkeland,Sondre Warren,"21/10,21/16",Fabian Flak,Noah Østhassel Harman
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Emil Eikaas,Birk Helleren,Tobias Birkeland,Sondre Warren,"21/10,21/18",Emil Eikaas,Birk Helleren
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Fabian Flak,Noah Østhassel Harman,"18/21,23/21,21/14",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Emil Eikaas,Birk Helleren,Philip Tran,Arne Loen Bue,"21/15,21/18",Emil Eikaas,Birk Helleren
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Tobias Birkeland,Sondre Warren,"21/12,21/10",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Tobias Birkeland,Sondre Warren,Philip Tran,Arne Loen Bue,"21/18,19/21,21/19",Tobias Birkeland,Sondre Warren
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Fabian Flak,Noah Østhassel Harman,Emil Eikaas,Birk Helleren,"21/19,17/21,21/14",Fabian Flak,Noah Østhassel Harman
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Fabian Flak,Noah Østhassel Harman,Philip Tran,Arne Loen Bue,"21/15,21/7",Fabian Flak,Noah Østhassel Harman
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Emil Eikaas,Birk Helleren,"21/13,21/9",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Philip Tran,Arne Loen Bue,"21/15,21/8",David Nguyen,Kristian Robstad
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Fabian Flak,Noah Østhassel Harman,Tobias Birkeland,Sondre Warren,"21/10,21/16",Fabian Flak,Noah Østhassel Harman
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Emil Eikaas,Birk Helleren,Tobias Birkeland,Sondre Warren,"21/10,21/18",Emil Eikaas,Birk Helleren
-2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,David Nguyen,Kristian Robstad,Fabian Flak,Noah Østhassel Harman,"18/21,23/21,21/14",David Nguyen,Kristian Robstad
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damesingle,,Lilly Haugen,,Louise Reme,"19/21,21/13,21/12",Lilly Haugen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damesingle,,Evelin Abusdal,,Nidhi Maheshkumar,"21/18,21/15",Evelin Abusdal,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damesingle,,Lilly Haugen,,Nidhi Maheshkumar,"21/16,21/17",Lilly Haugen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damesingle,,Evelin Abusdal,,Louise Reme,"21/16,21/12",Evelin Abusdal,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damesingle,,Evelin Abusdal,,Lilly Haugen,"21/15,21/12",Evelin Abusdal,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damesingle,,Nidhi Maheshkumar,,Louise Reme,"21/10,21/16",Nidhi Maheshkumar,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U9 A,Damedouble,Lilly Haugen,Nidhi Maheshkumar,Evelin Abusdal,Louise Reme,"21/14,21/10",Lilly Haugen,Nidhi Maheshkumar
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herresingle,,David Molina-Heimlund,,Ivo Ekelund Formoe,"21/12,21/10",David Molina-Heimlund,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herresingle,,Daniel Hansen,,Ivo Ekelund Formoe,"21/6,21/8",Daniel Hansen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herresingle,,David Molina-Heimlund,,Tara Naomi Bull Harring,"21/13,21/12",David Molina-Heimlund,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herresingle,,Tara Naomi Bull Harring,,Ivo Ekelund Formoe,"21/19,21/10",Tara Naomi Bull Harring,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herresingle,,Daniel Hansen,,Tara Naomi Bull Harring,"21/4,21/8",Daniel Hansen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herresingle,,Daniel Hansen,,David Molina-Heimlund,"21/8,21/8",Daniel Hansen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herredouble,Ludvig Trønnes,Daniel Hansen,Ivo Ekelund Formoe,Mateusz Losinski,"21/10,21/11",Ludvig Trønnes,Daniel Hansen
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herredouble,Ludvig Trønnes,Daniel Hansen,Simen Roel Austenaa,Aksel Roel Andersen,"21/5,21/4",Ludvig Trønnes,Daniel Hansen
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herredouble,Ivo Ekelund Formoe,Mateusz Losinski,Johan Jacobsen,Jacob Bakken Hasle,"21/5,21/12",Ivo Ekelund Formoe,Mateusz Losinski
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herredouble,Johan Jacobsen,Jacob Bakken Hasle,Ludvig Myhre Guldberg,Leon Haugen,"18/21,25/23,21/16",Johan Jacobsen,Jacob Bakken Hasle
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 A,Herredouble,Ivo Ekelund Formoe,Mateusz Losinski,Ludvig Myhre Guldberg,Leon Haugen,"21/12,21/12",Ivo Ekelund Formoe,Mateusz Losinski
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Terjei Berg Simonsen,,David Nikolai Hemmestad Dale,"21/7,21/8",Terjei Berg Simonsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Jacob Bakken Hasle,,Simen Roel Austenaa,"21/10,21/19",Jacob Bakken Hasle,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,David Nikolai Hemmestad Dale,,Mateusz Losinski,"16/21,24/22,21/1",David Nikolai Hemmestad Dale,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Terjei Berg Simonsen,,Satyaki Dutta,"21/18,18/21,21/17",Terjei Berg Simonsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,David Nikolai Hemmestad Dale,,Aksel Roel Andersen,"21/11,21/13",David Nikolai Hemmestad Dale,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Mateusz Losinski,,Leon Haugen,"21/4,21/7",Mateusz Losinski,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Terjei Berg Simonsen,,Ludvig Myhre Guldberg,"21/16,21/13",Terjei Berg Simonsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Satyaki Dutta,,William Gagnat Reme,"21/5,21/10",Satyaki Dutta,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Ludvig Myhre Guldberg,,Jacob Bakken Hasle,"21/19,21/15",Ludvig Myhre Guldberg,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Jacob Bakken Hasle,,David Nikolai Hemmestad Dale,"10/21,21/18,21/17",Jacob Bakken Hasle,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,David Nikolai Hemmestad Dale,,Ludvig Myhre Guldberg,"21/19,21/15",David Nikolai Hemmestad Dale,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Mateusz Losinski,,William Gagnat Reme,"21/9,21/5",Mateusz Losinski,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,William Gagnat Reme,,Simen Roel Austenaa,"21/10,21/5",William Gagnat Reme,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Mateusz Losinski,,Simen Roel Austenaa,"21/7,21/7",Mateusz Losinski,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Aksel Roel Andersen,,Johan Jacobsen,"21/13,19/21,21/12",Aksel Roel Andersen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Terjei Berg Simonsen,,Johan Jacobsen,"21/9,21/8",Terjei Berg Simonsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Terjei Berg Simonsen,,Aksel Roel Andersen,"21/13,21/10",Terjei Berg Simonsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Herresingle,,Satyaki Dutta,,Leon Haugen,"21/1,21/4",Satyaki Dutta,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Mixeddouble,Ivo Ekelund Formoe,Evelin Abusdal,Jacob Bakken Hasle,Lilly Haugen,"21/15,21/10",Ivo Ekelund Formoe,Evelin Abusdal
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Mixeddouble,Louise Reme,Mateusz Losinski,Jacob Bakken Hasle,Lilly Haugen,"21/15,21/16",Louise Reme,Mateusz Losinski
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U11 B,Mixeddouble,Louise Reme,Mateusz Losinski,Ivo Ekelund Formoe,Evelin Abusdal,"22/20,22/20",Louise Reme,Mateusz Losinski
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Joachim Nguyen,,Ulrikke Sørstrand,"21/9,21/14",Joachim Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Kristoffer Tobota-Johannessen,,Ashwath Anandathirthan,"18/21,21/15,21/17",Kristoffer Tobota-Johannessen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Tobias Haraldstad,,Kristoffer Ravndal,"22/20,21/17",Tobias Haraldstad,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Ulrikke Sørstrand,,Ludvig Trønnes,"14/21,21/18,21/16",Ulrikke Sørstrand,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Ashwath Anandathirthan,,Troy Jacob Bull Harring,"18/21,21/19,22/20",Ashwath Anandathirthan,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Kristoffer Tobota-Johannessen,,Tobias Haraldstad,"21/14,21/11",Kristoffer Tobota-Johannessen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Joachim Nguyen,,Kristoffer Tobota-Johannessen,"21/5,21/9",Joachim Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Joachim Nguyen,,Tobias Haraldstad,"21/6,21/5",Joachim Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Ludvig Trønnes,,Kristoffer Ravndal,"21/13,21/17",Ludvig Trønnes,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Ludvig Trønnes,,Ashwath Anandathirthan,"21/16,21/18",Ludvig Trønnes,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Ashwath Anandathirthan,,Kristoffer Ravndal,"21/14,21/17",Ashwath Anandathirthan,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Ulrikke Sørstrand,,Troy Jacob Bull Harring,"21/13,21/10",Ulrikke Sørstrand,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herresingle,,Troy Jacob Bull Harring,,Alexander Tobota-Johannessen,"21/17,21/2",Troy Jacob Bull Harring,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Damesingle,,Sofie Phanngoen Aamot,,Vilma Gyland,"21/19,21/8",Sofie Phanngoen Aamot,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herredouble,Ulrikke Sørstrand,Ashwath Anandathirthan,Joachim Nguyen,Tobias Haraldstad,"21/19,10/21,23/21",Ulrikke Sørstrand,Ashwath Anandathirthan
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herredouble,Troy Jacob Bull Harring,Kristoffer Ravndal,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"21/18,21/18",Troy Jacob Bull Harring,Kristoffer Ravndal
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herredouble,Joachim Nguyen,Tobias Haraldstad,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"21/19,15/21,21/15",Joachim Nguyen,Tobias Haraldstad
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herredouble,Ulrikke Sørstrand,Ashwath Anandathirthan,Troy Jacob Bull Harring,Kristoffer Ravndal,"21/11,30/28",Ulrikke Sørstrand,Ashwath Anandathirthan
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herredouble,Joachim Nguyen,Tobias Haraldstad,Troy Jacob Bull Harring,Kristoffer Ravndal,"21/10,20/22,21/11",Joachim Nguyen,Tobias Haraldstad
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 A,Herredouble,Ulrikke Sørstrand,Ashwath Anandathirthan,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"21/16,14/21,21/16",Ulrikke Sørstrand,Ashwath Anandathirthan
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Mang Cilian Jahau,,August Guldberg,"21/10,21/9",Mang Cilian Jahau,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Robert Mikosz,,Linus Jacobsen,"21/3,21/7",Robert Mikosz,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Kasper Abusdal,,Morris Andersen,"21/16,21/14",Kasper Abusdal,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Mang Cilian Jahau,,Storm Alexander Steen,"21/18,21/6",Mang Cilian Jahau,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,August Guldberg,,Leon Myhre Garmannslund,"21/14,7/21,21/16",August Guldberg,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Robert Mikosz,,Oskar Mjøbo Langseth,"21/11,21/12",Robert Mikosz,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Linus Jacobsen,,Storm Bersgtøl,"21/19,21/15",Linus Jacobsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Leon Myhre Garmannslund,,Julian Thomassen,"21/16,15/21,21/13",Leon Myhre Garmannslund,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Linus Jacobsen,,Sindre Mork,"21/14,21/19",Linus Jacobsen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Mang Cilian Jahau,,Kasper Abusdal,"20/22,21/17,21/15",Mang Cilian Jahau,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Robert Mikosz,,Kasper Abusdal,"21/11,21/6",Robert Mikosz,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Mang Cilian Jahau,,Robert Mikosz,"21/12,21/17",Mang Cilian Jahau,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Storm Alexander Steen,,Karl Alexander Febreo Meling,"21/16,21/13",Storm Alexander Steen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Oskar Mjøbo Langseth,,Karl Alexander Febreo Meling,"21/19,21/16",Oskar Mjøbo Langseth,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Storm Alexander Steen,,Oskar Mjøbo Langseth,"21/19,21/16",Storm Alexander Steen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Leon Myhre Garmannslund,,Morris Andersen,"21/16,21/18",Leon Myhre Garmannslund,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Sindre Mork,,Morris Andersen,"22/20,21/15",Sindre Mork,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Leon Myhre Garmannslund,,Sindre Mork,"21/9,21/9",Leon Myhre Garmannslund,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,Julian Thomassen,,Linus Jacobsen,"21/19,14/21,21/12",Julian Thomassen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herresingle,,August Guldberg,,Storm Bersgtøl,"21/12,21/11",August Guldberg,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,August Guldberg,Robert Mikosz,Morris Andersen,Storm Bersgtøl,"21/16,21/11",August Guldberg,Robert Mikosz
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,Julian Thomassen,Kasper Abusdal,David Molina-Heimlund,Linus Jacobsen,"21/14,21/18",Julian Thomassen,Kasper Abusdal
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,Julian Thomassen,Kasper Abusdal,Oskar Mjøbo Langseth,Leon Myhre Garmannslund,"18/21,21/14,21/14",Julian Thomassen,Kasper Abusdal
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,August Guldberg,Robert Mikosz,Oskar Mjøbo Langseth,Leon Myhre Garmannslund,"21/10,21/15",August Guldberg,Robert Mikosz
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,August Guldberg,Robert Mikosz,Julian Thomassen,Kasper Abusdal,"21/13,21/16",August Guldberg,Robert Mikosz
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,Morris Andersen,Storm Bersgtøl,Karl Alexander Febreo Meling,Storm Alexander Steen,"21/6,21/8",Morris Andersen,Storm Bersgtøl
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,David Molina-Heimlund,Linus Jacobsen,Karl Alexander Febreo Meling,Storm Alexander Steen,"21/15,21/3",David Molina-Heimlund,Linus Jacobsen
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Herredouble,Morris Andersen,Storm Bersgtøl,David Molina-Heimlund,Linus Jacobsen,"21/15,21/18",Morris Andersen,Storm Bersgtøl
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U13 B,Mixeddouble,Julian Thomassen,Sofie Phanngoen Aamot,Linus Jacobsen,Vilma Gyland,"21/19,23/25,21/15",Julian Thomassen,Sofie Phanngoen Aamot
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herresingle,,Christian Alexander Jensen,,Carlo Yague Rosano,"21/13,21/13",Christian Alexander Jensen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herresingle,,Carlo Yague Rosano,,Arturo Yague Rosano,"21/19,21/19",Carlo Yague Rosano,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herresingle,,Jonas Sørstrand,,Carlo Yague Rosano,"21/19,19/21,21/19",Jonas Sørstrand,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herresingle,,Arturo Yague Rosano,,Jonas Sørstrand,"16/21,21/16,21/15",Arturo Yague Rosano,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herresingle,,Christian Alexander Jensen,,Duy Philip Nguyen,"21/19,21/12",Christian Alexander Jensen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Damesingle,,Vera Østhassel Harman,,Laura Romme Mørch,"21/7,21/5",Vera Østhassel Harman,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herredouble,Christian Alexander Jensen,Arturo Yague Rosano,Vera Østhassel Harman,Laura Romme Mørch,"21/19,21/12",Christian Alexander Jensen,Arturo Yague Rosano
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herredouble,Christian Alexander Jensen,Arturo Yague Rosano,Carlo Yague Rosano,Jonas Sørstrand,"21/17,21/16",Christian Alexander Jensen,Arturo Yague Rosano
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 A,Herredouble,Carlo Yague Rosano,Jonas Sørstrand,Vera Østhassel Harman,Laura Romme Mørch,"21/15,21/8",Carlo Yague Rosano,Jonas Sørstrand
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,Herresingle,,Henrik Flak,,Magnus Olaussen,"21/16,21/16",Henrik Flak,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,Herresingle,,Marius Thomassen,,Tobias Tobota-Johannessen,"21/16,21/19",Marius Thomassen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,Herresingle,,Henrik Flak,,Tobias Tobota-Johannessen,"21/16,21/8",Henrik Flak,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,Herresingle,,Marius Thomassen,,Magnus Olaussen,"21/16,21/19",Marius Thomassen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,Herresingle,,Henrik Flak,,Marius Thomassen,"21/12,20/22,21/15",Henrik Flak,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U15 B,Herresingle,,Magnus Olaussen,,Tobias Tobota-Johannessen,"11/21,21/19,21/17",Magnus Olaussen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,David Nguyen,,Noah Østhassel Harman,"21/14,17/21,21/12",David Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Emil Eikaas,,Fabian Flak,"16/21,21/18,21/19",Emil Eikaas,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Philip Tran,,Kristian Robstad,"21/19,14/21,21/17",Philip Tran,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Noah Østhassel Harman,,Birk Helleren,"26/24,22/20",Noah Østhassel Harman,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Fabian Flak,,Tobias Birkeland,"21/16,21/16",Fabian Flak,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Philip Tran,,Arne Loen Bue,"21/13,21/6",Philip Tran,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,David Nguyen,,Sondre Warren,"21/8,21/8",David Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Emil Eikaas,,Kristian Robstad,"22/20,13/21,21/16",Emil Eikaas,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Kristian Robstad,,Sondre Warren,"21/16,21/14",Kristian Robstad,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,David Nguyen,,Emil Eikaas,"21/18,19/21,21/8",David Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Emil Eikaas,,Sondre Warren,"21/14,21/14",Emil Eikaas,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,David Nguyen,,Kristian Robstad,"21/16,21/17",David Nguyen,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Noah Østhassel Harman,,Philip Tran,"21/17,21/12",Noah Østhassel Harman,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Tobias Birkeland,,Philip Tran,"21/18,21/15",Tobias Birkeland,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Noah Østhassel Harman,,Tobias Birkeland,"22/20,21/14",Noah Østhassel Harman,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Birk Helleren,,Arne Loen Bue,"21/8,21/16",Birk Helleren,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Birk Helleren,,Fabian Flak,"30/28,21/18",Birk Helleren,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herresingle,,Fabian Flak,,Arne Loen Bue,"21/17,21/15",Fabian Flak,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,Emil Eikaas,Birk Helleren,Philip Tran,Arne Loen Bue,"21/15,21/18",Emil Eikaas,Birk Helleren
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,David Nguyen,Kristian Robstad,Tobias Birkeland,Sondre Warren,"21/12,21/10",David Nguyen,Kristian Robstad
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,Tobias Birkeland,Sondre Warren,Philip Tran,Arne Loen Bue,"21/18,19/21,21/19",Tobias Birkeland,Sondre Warren
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,Fabian Flak,Noah Østhassel Harman,Emil Eikaas,Birk Helleren,"21/19,17/21,21/14",Fabian Flak,Noah Østhassel Harman
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,Fabian Flak,Noah Østhassel Harman,Philip Tran,Arne Loen Bue,"21/15,21/7",Fabian Flak,Noah Østhassel Harman
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,David Nguyen,Kristian Robstad,Emil Eikaas,Birk Helleren,"21/13,21/9",David Nguyen,Kristian Robstad
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,David Nguyen,Kristian Robstad,Philip Tran,Arne Loen Bue,"21/15,21/8",David Nguyen,Kristian Robstad
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,Fabian Flak,Noah Østhassel Harman,Tobias Birkeland,Sondre Warren,"21/10,21/16",Fabian Flak,Noah Østhassel Harman
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,Emil Eikaas,Birk Helleren,Tobias Birkeland,Sondre Warren,"21/10,21/18",Emil Eikaas,Birk Helleren
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 A,Herredouble,David Nguyen,Kristian Robstad,Fabian Flak,Noah Østhassel Harman,"18/21,23/21,21/14",David Nguyen,Kristian Robstad
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Herresingle,,Ole Kristian Nygard,,Dmitri Polovnychyy,"21/14,21/5",Ole Kristian Nygard,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Herresingle,,Dmitri Polovnychyy,,Christoffer Svendsen,"21/9,21/3",Dmitri Polovnychyy,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Herresingle,,Ole Kristian Nygard,,Christoffer Svendsen,"21/4,21/3",Ole Kristian Nygard,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Damesingle,,kadja Maki,,Viktoriia Nazar,"21/10,22/20",kadja Maki,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Damesingle,,Ayat Maki,,Aya Maki,"21/11,21/9",Ayat Maki,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Damesingle,,Aya Maki,,kadja Maki,"21/18,22/20",Aya Maki,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Damesingle,,Ayat Maki,,Viktoriia Nazar,"21/14,21/7",Ayat Maki,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Damesingle,,Ayat Maki,,kadja Maki,"13/21,23/21,21/16",Ayat Maki,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Damesingle,,Viktoriia Nazar,,Aya Maki,"21/15,21/8",Viktoriia Nazar,
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Herredouble,Tobias Tobota-Johannessen,Marius Thomassen,Henrik Flak,Magnus Olaussen,"22/20,21/16",Tobias Tobota-Johannessen,Marius Thomassen
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Herredouble,Tobias Tobota-Johannessen,Marius Thomassen,Dmitri Polovnychyy,Christoffer Svendsen,"21/14,21/17",Tobias Tobota-Johannessen,Marius Thomassen
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Herredouble,Henrik Flak,Magnus Olaussen,Dmitri Polovnychyy,Christoffer Svendsen,"18/21,21/17,21/16",Henrik Flak,Magnus Olaussen
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Mixeddouble,Duy Philip Nguyen,Vera Østhassel Harman,Dmitri Polovnychyy,Viktoriia Nazar,"21/7,21/5",Duy Philip Nguyen,Vera Østhassel Harman
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Mixeddouble,Laura Romme Mørch,Jonas Sørstrand,Dmitri Polovnychyy,Viktoriia Nazar,"21/15,21/10",Laura Romme Mørch,Jonas Sørstrand
+2022/2023,Kristiansand Spareskillingsbanken-cup,25.03.2023,U17 B,Mixeddouble,Duy Philip Nguyen,Vera Østhassel Harman,Laura Romme Mørch,Jonas Sørstrand,"21/18,21/10",Duy Philip Nguyen,Vera Østhassel Harman

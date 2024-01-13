@@ -1,497 +1,266 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Dimiter Ivanov,Vladimir Metodiev Vangelov,"21/14,20/22,21/19",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Martin Enghaug,Øystein Hovden Eimind,"21/7,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Eirik Paulsen,Gjermund Hagen,"21/15,22/20",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Tommy Helander,Bjørn Hamang,Emilie Sotnes Hamang,Elisa Wiborg,"21/11,21/12",Tommy Helander,Bjørn Hamang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Emilie Sotnes Hamang,Elisa Wiborg,"21/13,21/12",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Tommy Helander,Bjørn Hamang,"21/6,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,Jan Sørgjerd,Arild Moen,"21/16,21/14",Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Martin Enghaug,Øystein Hovden Eimind,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,"21/14,21/11",Martin Enghaug,Øystein Hovden Eimind
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Martin Enghaug,Øystein Hovden Eimind,Jan Sørgjerd,Arild Moen,"21/12,21/16",Martin Enghaug,Øystein Hovden Eimind
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Jeanette Svendsen,Malin Andersson,"21/13,21/8",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Andreas Stenhaug,Trygve Ellingsen,John Nguyen,Ludvig Smith-Meyer,"21/17,3/21,21/16",Andreas Stenhaug,Trygve Ellingsen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Jeanette Svendsen,Malin Andersson,Andreas Stenhaug,Trygve Ellingsen,"22/20,19/21,21/17",Jeanette Svendsen,Malin Andersson
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,John Nguyen,Ludvig Smith-Meyer,"21/9,21/14",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Jeanette Svendsen,Malin Andersson,John Nguyen,Ludvig Smith-Meyer,"21/15,25/23",Jeanette Svendsen,Malin Andersson
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Andreas Stenhaug,Trygve Ellingsen,"21/16,21/11",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Eirik Paulsen,Gjermund Hagen,David Wong,Ram Kumar,"21/16,22/20",Eirik Paulsen,Gjermund Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Eirik Paulsen,Gjermund Hagen,Daniel Bjørklund,Jan Malamant,"21/18,21/15",Eirik Paulsen,Gjermund Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,David Wong,Ram Kumar,Daniel Bjørklund,Jan Malamant,"23/21,23/21",David Wong,Ram Kumar
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Randi Selle,,Paula Szalai,"21/6,21/12",Randi Selle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Randi Selle,,Rahaf Alothman,"21/8,21/11",Randi Selle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Rahaf Alothman,,Karianne Zhang,"21/11,21/18",Rahaf Alothman,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Randi Selle,,Karianne Zhang,"21/17,21/10",Randi Selle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Kristin Thømt,,Ane Hofstad Lycke,"22/20,21/14",Kristin Thømt,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Paula Szalai,,Kristin Thømt,"21/12,21/16",Paula Szalai,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Paula Szalai,,Ane Hofstad Lycke,"21/8,21/9",Paula Szalai,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Randi Selle,,Paula Szalai,"21/6,21/12",Randi Selle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Randi Selle,,Rahaf Alothman,"21/8,21/11",Randi Selle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Rahaf Alothman,,Karianne Zhang,"21/11,21/18",Rahaf Alothman,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Randi Selle,,Karianne Zhang,"21/17,21/10",Randi Selle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Kristin Thømt,,Ane Hofstad Lycke,"22/20,21/14",Kristin Thømt,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Paula Szalai,,Kristin Thømt,"21/12,21/16",Paula Szalai,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,,Paula Szalai,,Ane Hofstad Lycke,"21/8,21/9",Paula Szalai,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Maria Jiangli Stenrud,Randi Selle,Kristin Thømt,Bente Sotnes,"21/14,21/10",Maria Jiangli Stenrud,Randi Selle
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Aimee Hong,Karianne Zhang,Maria Jiangli Stenrud,Randi Selle,"21/18,14/21,21/15",Aimee Hong,Karianne Zhang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Aimee Hong,Karianne Zhang,Kristin Thømt,Bente Sotnes,"21/14,21/12",Aimee Hong,Karianne Zhang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,Martin Enghaug,"21/10,21/14",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Martin Enghaug,,Vishwavasu Soorly Nagaraj,"22/20,21/11",Martin Enghaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Sondre Mikkelsen,,John Daae,"21/19,21/8",Sondre Mikkelsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,Arne Martin Hagen,"21/10,21/7",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,John Daae,,Arne Martin Hagen,"21/9,21/13",John Daae,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,Sondre Mikkelsen,"21/16,21/8",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,John Daae,"21/8,21/11",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Sondre Mikkelsen,,Arne Martin Hagen,"21/12,21/10",Sondre Mikkelsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Daniel Bjørklund,,Vishwavasu Soorly Nagaraj,"22/20,19/21,21/19",Daniel Bjørklund,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Olav Sagård Roalkvam,,Pavithran Vijayakumaran,"21/8,21/9",Olav Sagård Roalkvam,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Olav Sagård Roalkvam,,Daniel Bjørklund,"21/10,21/11",Olav Sagård Roalkvam,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Vishwavasu Soorly Nagaraj,,Pavithran Vijayakumaran,"21/13,21/15",Vishwavasu Soorly Nagaraj,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Vishwavasu Soorly Nagaraj,,Olav Sagård Roalkvam,"22/20,21/16",Vishwavasu Soorly Nagaraj,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Andreas Stenhaug,,Lars Eirik L. Nilsen,"21/13,18/21,21/15",Andreas Stenhaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Martin Enghaug,,Andreas Stenhaug,"21/13,22/24,21/16",Martin Enghaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Martin Enghaug,,Lars Eirik L. Nilsen,"21/14,21/17",Martin Enghaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,Martin Enghaug,"21/10,21/14",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Martin Enghaug,,Vishwavasu Soorly Nagaraj,"22/20,21/11",Martin Enghaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Sondre Mikkelsen,,John Daae,"21/19,21/8",Sondre Mikkelsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,Arne Martin Hagen,"21/10,21/7",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,John Daae,,Arne Martin Hagen,"21/9,21/13",John Daae,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,Sondre Mikkelsen,"21/16,21/8",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Ludvig Smith-Meyer,,John Daae,"21/8,21/11",Ludvig Smith-Meyer,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Sondre Mikkelsen,,Arne Martin Hagen,"21/12,21/10",Sondre Mikkelsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Daniel Bjørklund,,Vishwavasu Soorly Nagaraj,"22/20,19/21,21/19",Daniel Bjørklund,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Olav Sagård Roalkvam,,Pavithran Vijayakumaran,"21/8,21/9",Olav Sagård Roalkvam,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Olav Sagård Roalkvam,,Daniel Bjørklund,"21/10,21/11",Olav Sagård Roalkvam,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Vishwavasu Soorly Nagaraj,,Pavithran Vijayakumaran,"21/13,21/15",Vishwavasu Soorly Nagaraj,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Vishwavasu Soorly Nagaraj,,Olav Sagård Roalkvam,"22/20,21/16",Vishwavasu Soorly Nagaraj,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Andreas Stenhaug,,Lars Eirik L. Nilsen,"21/13,18/21,21/15",Andreas Stenhaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Martin Enghaug,,Andreas Stenhaug,"21/13,22/24,21/16",Martin Enghaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,,Martin Enghaug,,Lars Eirik L. Nilsen,"21/14,21/17",Martin Enghaug,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Bengt Pedersen,"22/20,21/14",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bengt Pedersen,,Arild Moen,"21/15,21/18",Bengt Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Bernt Pallesen,"21/16,21/12",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bengt Pedersen,,Roman Malamant,"19/21,21/16,21/16",Bengt Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Simen André Børke Høgberg,"21/19,21/17",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Arild Moen,,Anilkumar Unnithan,"21/11,17/21,21/17",Arild Moen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Roman Malamant,,Carl Magnus Woldstad,"21/12,21/18",Roman Malamant,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Carl Magnus Woldstad,,Kjell Arne Selle,"21/12,16/21,21/10",Carl Magnus Woldstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Roman Malamant,,Kjell Arne Selle,"21/16,21/13",Roman Malamant,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Sigurd Simensen,"21/6,21/15",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Manotheepan Sathananthapotham,,Sigurd Simensen,"21/23,21/18,21/16",Manotheepan Sathananthapotham,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Manotheepan Sathananthapotham,"21/5,21/7",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Simen André Børke Høgberg,,Osman Bekri Khan,"11/21,21/12,21/15",Simen André Børke Høgberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Simen André Børke Høgberg,,Jan Sørgjerd,"21/19,21/17",Simen André Børke Høgberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Osman Bekri Khan,,Jan Sørgjerd,"21/17,21/16",Osman Bekri Khan,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bernt Pallesen,,Fernando Rey Ortero,"23/25,21/16,21/12",Bernt Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Adam Karsen,,Atle Hjort-Larsen,"21/17,21/19",Adam Karsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Fernando Rey Ortero,,Atle Hjort-Larsen,"21/16,16/21,21/15",Fernando Rey Ortero,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bernt Pallesen,,Adam Karsen,"18/21,21/19,21/6",Bernt Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Adam Karsen,,Fernando Rey Ortero,"23/21,21/14",Adam Karsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bernt Pallesen,,Atle Hjort-Larsen,"21/18,21/12",Bernt Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Bengt Pedersen,"22/20,21/14",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bengt Pedersen,,Arild Moen,"21/15,21/18",Bengt Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Bernt Pallesen,"21/16,21/12",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bengt Pedersen,,Roman Malamant,"19/21,21/16,21/16",Bengt Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Simen André Børke Høgberg,"21/19,21/17",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Arild Moen,,Anilkumar Unnithan,"21/11,17/21,21/17",Arild Moen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Roman Malamant,,Carl Magnus Woldstad,"21/12,21/18",Roman Malamant,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Carl Magnus Woldstad,,Kjell Arne Selle,"21/12,16/21,21/10",Carl Magnus Woldstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Roman Malamant,,Kjell Arne Selle,"21/16,21/13",Roman Malamant,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Sigurd Simensen,"21/6,21/15",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Manotheepan Sathananthapotham,,Sigurd Simensen,"21/23,21/18,21/16",Manotheepan Sathananthapotham,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Petter Tryland Laheld,,Manotheepan Sathananthapotham,"21/5,21/7",Petter Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Simen André Børke Høgberg,,Osman Bekri Khan,"11/21,21/12,21/15",Simen André Børke Høgberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Simen André Børke Høgberg,,Jan Sørgjerd,"21/19,21/17",Simen André Børke Høgberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Osman Bekri Khan,,Jan Sørgjerd,"21/17,21/16",Osman Bekri Khan,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bernt Pallesen,,Fernando Rey Ortero,"23/25,21/16,21/12",Bernt Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Adam Karsen,,Atle Hjort-Larsen,"21/17,21/19",Adam Karsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Fernando Rey Ortero,,Atle Hjort-Larsen,"21/16,16/21,21/15",Fernando Rey Ortero,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bernt Pallesen,,Adam Karsen,"18/21,21/19,21/6",Bernt Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Adam Karsen,,Fernando Rey Ortero,"23/21,21/14",Adam Karsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Bernt Pallesen,,Atle Hjort-Larsen,"21/18,21/12",Bernt Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Victoria Zhang,,Iris Hagen,"19/21,21/7,21/14",Victoria Zhang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Ingrid Sofie Langsjøvold,,Siv Meland,"21/9,21/7",Ingrid Sofie Langsjøvold,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Victoria Zhang,,Monica Fuglesang,"21/18,21/3",Victoria Zhang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Victoria Zhang,,Ingrid Sofie Langsjøvold,"21/9,21/9",Victoria Zhang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Monica Fuglesang,,Siv Meland,"21/6,21/15",Monica Fuglesang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Victoria Zhang,,Siv Meland,"21/4,21/4",Victoria Zhang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Ragnhild Løvenskiold Grüner Husom,,Yasmin Siyad,"21/13,21/14",Ragnhild Løvenskiold Grüner Husom,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Iris Hagen,,Simona Früh,"21/10,21/17",Iris Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Iris Hagen,,Ragnhild Løvenskiold Grüner Husom,"20/22,21/14,21/13",Iris Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,,Ragnhild Løvenskiold Grüner Husom,,Simona Früh,"21/15,21/9",Ragnhild Løvenskiold Grüner Husom,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Muhammad Shakoor,Iftekahr Hussain,Rishi Arvind Phatak,Tzu-shuo Liu,"21/17,21/10",Muhammad Shakoor,Iftekahr Hussain
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Amit Mital,Yuelong Zang,Bernt Pallesen,Arne Martin Hagen,"21/19,20/22,21/13",Amit Mital,Yuelong Zang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Muhammad Shakoor,Iftekahr Hussain,Amit Mital,Yuelong Zang,"19/21,21/10,21/13",Muhammad Shakoor,Iftekahr Hussain
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Muhammad Shakoor,Iftekahr Hussain,Bernt Pallesen,Arne Martin Hagen,"21/13,21/16",Muhammad Shakoor,Iftekahr Hussain
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Rishi Arvind Phatak,Tzu-shuo Liu,Manotheepan Sathananthapotham,Fernando Rey Ortero,"14/21,21/12,21/14",Rishi Arvind Phatak,Tzu-shuo Liu
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Lars Eirik L. Nilsen,Peter Eidsvik,Manotheepan Sathananthapotham,Fernando Rey Ortero,"21/13,21/13",Lars Eirik L. Nilsen,Peter Eidsvik
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Rishi Arvind Phatak,Tzu-shuo Liu,Lars Eirik L. Nilsen,Peter Eidsvik,"21/19,21/13",Rishi Arvind Phatak,Tzu-shuo Liu
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Ingrid Sofie Langsjøvold,Victoria Zhang,Sara Sverdrup Thygeson,Karin Tryland Laheld,"21/16,21/12",Ingrid Sofie Langsjøvold,Victoria Zhang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Ingrid Sofie Langsjøvold,Victoria Zhang,Malathy Subramaniam,Kalpana Stephen,"21/4,21/8",Ingrid Sofie Langsjøvold,Victoria Zhang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Yanhong Peng,Iris Hagen,Malathy Subramaniam,Kalpana Stephen,"21/17,21/4",Yanhong Peng,Iris Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Ingrid Sofie Langsjøvold,Victoria Zhang,Yanhong Peng,Iris Hagen,"21/9,21/10",Ingrid Sofie Langsjøvold,Victoria Zhang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Siv Meland,Ragnhild Løvenskiold Grüner Husom,Yasmin Siyad,Savia Aamodt,"22/20,21/15",Siv Meland,Ragnhild Løvenskiold Grüner Husom
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Sara Sverdrup Thygeson,Karin Tryland Laheld,Beate Røsholm,Ingeborg Ousland,"21/5,21/9",Sara Sverdrup Thygeson,Karin Tryland Laheld
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Yasmin Siyad,Savia Aamodt,Beate Røsholm,Ingeborg Ousland,"25/23,21/10",Yasmin Siyad,Savia Aamodt
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Sara Sverdrup Thygeson,Karin Tryland Laheld,Siv Meland,Ragnhild Løvenskiold Grüner Husom,"21/14,21/16",Sara Sverdrup Thygeson,Karin Tryland Laheld
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Siv Meland,Ragnhild Løvenskiold Grüner Husom,Beate Røsholm,Ingeborg Ousland,"21/14,21/13",Siv Meland,Ragnhild Løvenskiold Grüner Husom
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Vegard Andersen,"21/19,21/9",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Muhammad Shahid Iqbal,"21/16,22/20",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Mohan Sivanandan,,Mikkel Husom,"21/13,17/21,21/10",Mohan Sivanandan,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Vegard Andersen,,Mohan Sivanandan,"21/15,14/21,21/12",Vegard Andersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Vegard Andersen,,Mikkel Husom,"21/18,21/15",Vegard Andersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Muhammad Shahid Iqbal,,Vasanthan Nadarasah,"21/12,21/14",Muhammad Shahid Iqbal,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Øivind Harket,,Andre Rusthen,"21/5,21/16",Øivind Harket,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Øivind Harket,"14/21,21/12,25/23",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Andre Rusthen,"21/16,21/12",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Vegard Andersen,"21/19,21/9",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Muhammad Shahid Iqbal,"21/16,22/20",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Mohan Sivanandan,,Mikkel Husom,"21/13,17/21,21/10",Mohan Sivanandan,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Vegard Andersen,,Mohan Sivanandan,"21/15,14/21,21/12",Vegard Andersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Vegard Andersen,,Mikkel Husom,"21/18,21/15",Vegard Andersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Muhammad Shahid Iqbal,,Vasanthan Nadarasah,"21/12,21/14",Muhammad Shahid Iqbal,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Øivind Harket,,Andre Rusthen,"21/5,21/16",Øivind Harket,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Øivind Harket,"14/21,21/12,25/23",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,,Thomas Mortensen,,Andre Rusthen,"21/16,21/12",Thomas Mortensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Zubbair Tahir,Shahir Tahir,Adam Karsen,Niels Jørgen Søby Pedersen,"21/10,21/16",Zubbair Tahir,Shahir Tahir
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Zubbair Tahir,Shahir Tahir,Mohan Sivanandan,Pavithran Vijayakumaran,"21/10,21/17",Zubbair Tahir,Shahir Tahir
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Bengt Pedersen,Sindre Sjåvåg,Ramandeep Singh khera,Cheron Stephen,"21/15,18/21,21/17",Bengt Pedersen,Sindre Sjåvåg
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Mohan Sivanandan,Pavithran Vijayakumaran,Ramandeep Singh khera,Cheron Stephen,"21/14,21/18",Mohan Sivanandan,Pavithran Vijayakumaran
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Zubbair Tahir,Shahir Tahir,Bengt Pedersen,Sindre Sjåvåg,"21/9,19/21,21/8",Zubbair Tahir,Shahir Tahir
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Mohan Sivanandan,Pavithran Vijayakumaran,Bengt Pedersen,Sindre Sjåvåg,"21/14,21/19",Mohan Sivanandan,Pavithran Vijayakumaran
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Zubbair Tahir,Shahir Tahir,Ramandeep Singh khera,Cheron Stephen,"21/11,21/9",Zubbair Tahir,Shahir Tahir
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Adam Karsen,Niels Jørgen Søby Pedersen,Mervin Joseph,Palany Subramaniam,"21/16,21/12",Adam Karsen,Niels Jørgen Søby Pedersen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Adam Karsen,Niels Jørgen Søby Pedersen,Jagadish Kurli,Vasanthan Nadarasah,"21/12,21/16",Adam Karsen,Niels Jørgen Søby Pedersen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Jagadish Kurli,Vasanthan Nadarasah,Mervin Joseph,Palany Subramaniam,"21/7,21/19",Jagadish Kurli,Vasanthan Nadarasah
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Dimiter Ivanov,Vladimir Metodiev Vangelov,"21/14,20/22,21/19",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Martin Enghaug,Øystein Hovden Eimind,"21/7,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Eirik Paulsen,Gjermund Hagen,"21/15,22/20",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Tommy Helander,Bjørn Hamang,Emilie Sotnes Hamang,Elisa Wiborg,"21/11,21/12",Tommy Helander,Bjørn Hamang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Emilie Sotnes Hamang,Elisa Wiborg,"21/13,21/12",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Tommy Helander,Bjørn Hamang,"21/6,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,Jan Sørgjerd,Arild Moen,"21/16,21/14",Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Martin Enghaug,Øystein Hovden Eimind,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,"21/14,21/11",Martin Enghaug,Øystein Hovden Eimind
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Martin Enghaug,Øystein Hovden Eimind,Jan Sørgjerd,Arild Moen,"21/12,21/16",Martin Enghaug,Øystein Hovden Eimind
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Jeanette Svendsen,Malin Andersson,"21/13,21/8",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Andreas Stenhaug,Trygve Ellingsen,John Nguyen,Ludvig Smith-Meyer,"21/17,3/21,21/16",Andreas Stenhaug,Trygve Ellingsen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Jeanette Svendsen,Malin Andersson,Andreas Stenhaug,Trygve Ellingsen,"22/20,19/21,21/17",Jeanette Svendsen,Malin Andersson
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,John Nguyen,Ludvig Smith-Meyer,"21/9,21/14",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Jeanette Svendsen,Malin Andersson,John Nguyen,Ludvig Smith-Meyer,"21/15,25/23",Jeanette Svendsen,Malin Andersson
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Andreas Stenhaug,Trygve Ellingsen,"21/16,21/11",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Eirik Paulsen,Gjermund Hagen,David Wong,Ram Kumar,"21/16,22/20",Eirik Paulsen,Gjermund Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Eirik Paulsen,Gjermund Hagen,Daniel Bjørklund,Jan Malamant,"21/18,21/15",Eirik Paulsen,Gjermund Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,David Wong,Ram Kumar,Daniel Bjørklund,Jan Malamant,"23/21,23/21",David Wong,Ram Kumar
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Lise Rusthen,,Vinit Sharma,"21/13,21/18",Lise Rusthen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Celin Strøm-Fredriksen,,Shreyas Danve,"21/13,19/21,21/17",Celin Strøm-Fredriksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Lise Rusthen,,Shreyas Danve,"21/15,21/16",Lise Rusthen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Cyrion Sushil-Preenus,,Vinit Sharma,"21/2,21/5",Cyrion Sushil-Preenus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Cyrion Sushil-Preenus,,Lise Rusthen,"21/2,21/13",Cyrion Sushil-Preenus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Vinit Sharma,,Celin Strøm-Fredriksen,"21/12,18/21,21/19",Vinit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Lise Rusthen,,Vinit Sharma,"21/13,21/18",Lise Rusthen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Celin Strøm-Fredriksen,,Shreyas Danve,"21/13,19/21,21/17",Celin Strøm-Fredriksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Lise Rusthen,,Shreyas Danve,"21/15,21/16",Lise Rusthen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Cyrion Sushil-Preenus,,Vinit Sharma,"21/2,21/5",Cyrion Sushil-Preenus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Cyrion Sushil-Preenus,,Lise Rusthen,"21/2,21/13",Cyrion Sushil-Preenus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,,Vinit Sharma,,Celin Strøm-Fredriksen,"21/12,18/21,21/19",Vinit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Dimiter Ivanov,Vladimir Metodiev Vangelov,"21/14,20/22,21/19",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Martin Enghaug,Øystein Hovden Eimind,"21/7,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Eirik Paulsen,Gjermund Hagen,"21/15,22/20",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Tommy Helander,Bjørn Hamang,Emilie Sotnes Hamang,Elisa Wiborg,"21/11,21/12",Tommy Helander,Bjørn Hamang
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Emilie Sotnes Hamang,Elisa Wiborg,"21/13,21/12",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Carl Christian Mork,Sturla Flåten Jørgensen,Tommy Helander,Bjørn Hamang,"21/6,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,Jan Sørgjerd,Arild Moen,"21/16,21/14",Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Martin Enghaug,Øystein Hovden Eimind,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,"21/14,21/11",Martin Enghaug,Øystein Hovden Eimind
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Martin Enghaug,Øystein Hovden Eimind,Jan Sørgjerd,Arild Moen,"21/12,21/16",Martin Enghaug,Øystein Hovden Eimind
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Jeanette Svendsen,Malin Andersson,"21/13,21/8",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Andreas Stenhaug,Trygve Ellingsen,John Nguyen,Ludvig Smith-Meyer,"21/17,3/21,21/16",Andreas Stenhaug,Trygve Ellingsen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Jeanette Svendsen,Malin Andersson,Andreas Stenhaug,Trygve Ellingsen,"22/20,19/21,21/17",Jeanette Svendsen,Malin Andersson
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,John Nguyen,Ludvig Smith-Meyer,"21/9,21/14",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Jeanette Svendsen,Malin Andersson,John Nguyen,Ludvig Smith-Meyer,"21/15,25/23",Jeanette Svendsen,Malin Andersson
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Dimiter Ivanov,Vladimir Metodiev Vangelov,Andreas Stenhaug,Trygve Ellingsen,"21/16,21/11",Dimiter Ivanov,Vladimir Metodiev Vangelov
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Eirik Paulsen,Gjermund Hagen,David Wong,Ram Kumar,"21/16,22/20",Eirik Paulsen,Gjermund Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Eirik Paulsen,Gjermund Hagen,Daniel Bjørklund,Jan Malamant,"21/18,21/15",Eirik Paulsen,Gjermund Hagen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,David Wong,Ram Kumar,Daniel Bjørklund,Jan Malamant,"23/21,23/21",David Wong,Ram Kumar
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Mikkel Grevsnes,,Daniel Pokotylyuk,"21/12,21/8",Mikkel Grevsnes,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adit Sharma,,Fredrik Hellemo Ruud,"21/16,21/14",Adit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Eirik Tryland Laheld,,Julian Moe,"21/2,21/6",Eirik Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Even Telle,,Alan Algunerhan,"21/15,21/16",Even Telle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Henrik Melvin Rusthen,,Viktor Neubeck,"21/18,21/18",Henrik Melvin Rusthen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adam Tollisen Leyland,,Lavrans M. Husebø,"20/22,21/15,21/14",Adam Tollisen Leyland,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Mikkel Grevsnes,,Eirik Tryland Laheld,"21/15,21/15",Mikkel Grevsnes,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adit Sharma,,Even Telle,"21/5,21/7",Adit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adam Tollisen Leyland,,Henrik Melvin Rusthen,"21/9,21/8",Adam Tollisen Leyland,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Lavrans M. Husebø,,Viktor Neubeck,"21/14,21/11",Lavrans M. Husebø,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Fredrik Hellemo Ruud,,Alan Algunerhan,"21/19,21/16",Fredrik Hellemo Ruud,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Daniel Pokotylyuk,,Julian Moe,"21/10,21/11",Daniel Pokotylyuk,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adit Sharma,,Mikkel Grevsnes,"21/11,21/16",Adit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Eirik Tryland Laheld,,Adam Tollisen Leyland,"21/15,21/15",Eirik Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Lavrans M. Husebø,,Daniel Pokotylyuk,"21/16,21/18",Lavrans M. Husebø,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Fredrik Hellemo Ruud,,Henrik Melvin Rusthen,"20/22,21/17,21/10",Fredrik Hellemo Ruud,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Even Telle,,Viktor Neubeck,"21/18,21/12",Even Telle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Alan Algunerhan,,Julian Moe,"21/9,21/10",Alan Algunerhan,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Mikkel Grevsnes,,Daniel Pokotylyuk,"21/12,21/8",Mikkel Grevsnes,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adit Sharma,,Fredrik Hellemo Ruud,"21/16,21/14",Adit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Eirik Tryland Laheld,,Julian Moe,"21/2,21/6",Eirik Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Even Telle,,Alan Algunerhan,"21/15,21/16",Even Telle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Henrik Melvin Rusthen,,Viktor Neubeck,"21/18,21/18",Henrik Melvin Rusthen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adam Tollisen Leyland,,Lavrans M. Husebø,"20/22,21/15,21/14",Adam Tollisen Leyland,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Mikkel Grevsnes,,Eirik Tryland Laheld,"21/15,21/15",Mikkel Grevsnes,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adit Sharma,,Even Telle,"21/5,21/7",Adit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adam Tollisen Leyland,,Henrik Melvin Rusthen,"21/9,21/8",Adam Tollisen Leyland,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Lavrans M. Husebø,,Viktor Neubeck,"21/14,21/11",Lavrans M. Husebø,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Fredrik Hellemo Ruud,,Alan Algunerhan,"21/19,21/16",Fredrik Hellemo Ruud,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Daniel Pokotylyuk,,Julian Moe,"21/10,21/11",Daniel Pokotylyuk,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Adit Sharma,,Mikkel Grevsnes,"21/11,21/16",Adit Sharma,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Eirik Tryland Laheld,,Adam Tollisen Leyland,"21/15,21/15",Eirik Tryland Laheld,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Lavrans M. Husebø,,Daniel Pokotylyuk,"21/16,21/18",Lavrans M. Husebø,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Fredrik Hellemo Ruud,,Henrik Melvin Rusthen,"20/22,21/17,21/10",Fredrik Hellemo Ruud,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Even Telle,,Viktor Neubeck,"21/18,21/12",Even Telle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Alan Algunerhan,,Julian Moe,"21/9,21/10",Alan Algunerhan,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Sofie Miko Lambrects,,Victoria Heiberg,"21/13,18/21,21/15",Sofie Miko Lambrects,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Rebecca Haukebøe,,Cyrenia Sushil-Preenus,"23/21,21/13",Rebecca Haukebøe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Rebecca Haukebøe,,Sofie Miko Lambrects,"17/21,21/14,21/17",Rebecca Haukebøe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Sofie Jin Reistadbakk,,Victoria Heiberg,"21/14,15/21,21/15",Sofie Jin Reistadbakk,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Sofie Jin Reistadbakk,,Sofie Miko Lambrects,"21/14,17/21,21/10",Sofie Jin Reistadbakk,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Cyrenia Sushil-Preenus,,Victoria Heiberg,"21/9,21/8",Cyrenia Sushil-Preenus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Rebecca Haukebøe,,Victoria Heiberg,"21/16,21/13",Rebecca Haukebøe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,,Cyrenia Sushil-Preenus,,Sofie Jin Reistadbakk,"21/7,21/15",Cyrenia Sushil-Preenus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,Aleksander Jakovlevs,,David Nguyen,"21/19,18/21,21/19",Aleksander Jakovlevs,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,David Nguyen,,Bjørn Deron,"19/21,21/18,24/22",David Nguyen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,David Nguyen,,Varun Manikandan,"21/12,21/5",David Nguyen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,Bjørn Deron,,Varun Manikandan,"21/16,17/21,21/11",Bjørn Deron,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,Aleksander Jakovlevs,,Ziyue Wei,"14/21,21/13,21/12",Aleksander Jakovlevs,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,Aleksander Jakovlevs,,David Nguyen,"21/19,18/21,21/19",Aleksander Jakovlevs,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,David Nguyen,,Bjørn Deron,"19/21,21/18,24/22",David Nguyen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,David Nguyen,,Varun Manikandan,"21/12,21/5",David Nguyen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,Bjørn Deron,,Varun Manikandan,"21/16,17/21,21/11",Bjørn Deron,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,,Aleksander Jakovlevs,,Ziyue Wei,"14/21,21/13,21/12",Aleksander Jakovlevs,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Nandita Anil,Astrid Lovise Pallesen,Amalie Theil,Tilda Sevland Øfsdahl,"21/8,21/12",Nandita Anil,Astrid Lovise Pallesen
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Philip Allport Fossum,"21/18,21/14",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Philip Allport Fossum,,Tristan Thøgersen,"21/8,21/6",Philip Allport Fossum,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Armand Bruun,,Lavrans Muri Daae,"21/4,21/6",Armand Bruun,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Martin Hovig Claus,,Lavrans Muri Daae,"21/19,17/21,21/14",Martin Hovig Claus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Martin Hovig Claus,"21/5,21/5",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Armand Bruun,"21/13,19/21,21/10",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Lavrans Muri Daae,"21/7,21/7",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Armand Bruun,,Martin Hovig Claus,"21/11,21/4",Armand Bruun,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Andreas Hellemo Ruud,,Even Xu,"23/21,21/12",Andreas Hellemo Ruud,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tristan Thøgersen,,Eirik Vilton Molteberg,"21/18,16/21,21/17",Tristan Thøgersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tristan Thøgersen,,Even Xu,"21/8,21/6",Tristan Thøgersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Eirik Vilton Molteberg,,Even Xu,"21/9,21/7",Eirik Vilton Molteberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Eirik Vilton Molteberg,,Andreas Hellemo Ruud,"21/17,21/15",Eirik Vilton Molteberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tristan Thøgersen,,Andreas Hellemo Ruud,"21/15,24/22",Tristan Thøgersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Philip Allport Fossum,,Rasmus Neubeck,"21/2,21/5",Philip Allport Fossum,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Philip Allport Fossum,,Jonas Telle,"23/21,22/20",Philip Allport Fossum,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Jonas Telle,,Rasmus Neubeck,"21/10,21/9",Jonas Telle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Philip Allport Fossum,"21/18,21/14",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Philip Allport Fossum,,Tristan Thøgersen,"21/8,21/6",Philip Allport Fossum,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Armand Bruun,,Lavrans Muri Daae,"21/4,21/6",Armand Bruun,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Martin Hovig Claus,,Lavrans Muri Daae,"21/19,17/21,21/14",Martin Hovig Claus,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Martin Hovig Claus,"21/5,21/5",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Armand Bruun,"21/13,19/21,21/10",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Mathias Wong,,Lavrans Muri Daae,"21/7,21/7",Mathias Wong,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Armand Bruun,,Martin Hovig Claus,"21/11,21/4",Armand Bruun,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Andreas Hellemo Ruud,,Even Xu,"23/21,21/12",Andreas Hellemo Ruud,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tristan Thøgersen,,Eirik Vilton Molteberg,"21/18,16/21,21/17",Tristan Thøgersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tristan Thøgersen,,Even Xu,"21/8,21/6",Tristan Thøgersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Eirik Vilton Molteberg,,Even Xu,"21/9,21/7",Eirik Vilton Molteberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Eirik Vilton Molteberg,,Andreas Hellemo Ruud,"21/17,21/15",Eirik Vilton Molteberg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tristan Thøgersen,,Andreas Hellemo Ruud,"21/15,24/22",Tristan Thøgersen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Philip Allport Fossum,,Rasmus Neubeck,"21/2,21/5",Philip Allport Fossum,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Philip Allport Fossum,,Jonas Telle,"23/21,22/20",Philip Allport Fossum,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Jonas Telle,,Rasmus Neubeck,"21/10,21/9",Jonas Telle,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Emilie Haukebøe,,Astrid Lovise Pallesen,"18/21,21/15,25/23",Emilie Haukebøe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Anna Reistad,,Sofia Garvida,"21/8,21/6",Anna Reistad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Emilie Haukebøe,,Anna Reistad,"21/16,21/10",Emilie Haukebøe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Emilie Haukebøe,,Sofia Garvida,"21/5,21/8",Emilie Haukebøe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Astrid Lovise Pallesen,,Leyla Eleonora Destefanis,"21/14,21/15",Astrid Lovise Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tilda Sevland Øfsdahl,,Amalie Theil,"21/16,22/20",Tilda Sevland Øfsdahl,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Astrid Lovise Pallesen,,Tilda Sevland Øfsdahl,"20/22,21/18,21/14",Astrid Lovise Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Amalie Theil,,Leyla Eleonora Destefanis,"21/15,21/17",Amalie Theil,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Astrid Lovise Pallesen,,Amalie Theil,"21/14,19/21,21/7",Astrid Lovise Pallesen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,,Tilda Sevland Øfsdahl,,Leyla Eleonora Destefanis,"21/9,21/18",Tilda Sevland Øfsdahl,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Jonas Telle,Mari Blakstad,Lukas Sandboe,Tristan Thøgersen,"21/13,21/10",Jonas Telle,Mari Blakstad
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Mathias Wong,Armand Bruun,Lukas Sandboe,Tristan Thøgersen,"21/7,22/20",Mathias Wong,Armand Bruun
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Jonas Telle,Mari Blakstad,Mathias Wong,Armand Bruun,"21/17,13/21,21/13",Jonas Telle,Mari Blakstad
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Hans Jørgen Berg,,Theodor Jenssen,"21/7,21/11",Hans Jørgen Berg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Vetle Bækkelien,,Hemant Anilkumar,"21/14,21/3",Vetle Bækkelien,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Hans Jørgen Berg,,Hemant Anilkumar,"21/15,12/21,21/13",Hans Jørgen Berg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Advait Mital,,Theodor Jenssen,"21/19,21/8",Advait Mital,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Hans Jørgen Berg,,Advait Mital,"21/18,21/19",Hans Jørgen Berg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Vetle Bækkelien,,Theodor Jenssen,"21/6,21/7",Vetle Bækkelien,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Vetle Bækkelien,,Hans Jørgen Berg,"21/19,21/10",Vetle Bækkelien,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Advait Mital,,Hemant Anilkumar,"21/7,21/8",Advait Mital,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Theodor Jenssen,,Hemant Anilkumar,"21/11,21/13",Theodor Jenssen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Advait Mital,,Vetle Bækkelien,"11/21,21/17,21/11",Advait Mital,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Hans Jørgen Berg,,Theodor Jenssen,"21/7,21/11",Hans Jørgen Berg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Vetle Bækkelien,,Hemant Anilkumar,"21/14,21/3",Vetle Bækkelien,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Hans Jørgen Berg,,Hemant Anilkumar,"21/15,12/21,21/13",Hans Jørgen Berg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Advait Mital,,Theodor Jenssen,"21/19,21/8",Advait Mital,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Hans Jørgen Berg,,Advait Mital,"21/18,21/19",Hans Jørgen Berg,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Vetle Bækkelien,,Theodor Jenssen,"21/6,21/7",Vetle Bækkelien,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Vetle Bækkelien,,Hans Jørgen Berg,"21/19,21/10",Vetle Bækkelien,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Advait Mital,,Hemant Anilkumar,"21/7,21/8",Advait Mital,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Theodor Jenssen,,Hemant Anilkumar,"21/11,21/13",Theodor Jenssen,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Advait Mital,,Vetle Bækkelien,"11/21,21/17,21/11",Advait Mital,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Selma Bøhn,,Nandita Anil,"21/18,21/11",Selma Bøhn,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Kaisa Isabell Sandboe,,Selma Bøhn,"21/11,21/8",Kaisa Isabell Sandboe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Caroline Midtbø Huber,,Nandita Anil,"21/11,21/12",Caroline Midtbø Huber,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,,Kaisa Isabell Sandboe,,Nandita Anil,"21/13,21/2",Kaisa Isabell Sandboe,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Advait Mital,Petter Tryland Laheld,Bjørn Deron,Hemant Anilkumar,"21/10,21/8",Advait Mital,Petter Tryland Laheld
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Hans Jørgen Berg,Vetle Bækkelien,Bjørn Deron,Hemant Anilkumar,"21/12,21/11",Hans Jørgen Berg,Vetle Bækkelien
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Advait Mital,Petter Tryland Laheld,Hans Jørgen Berg,Vetle Bækkelien,"21/18,21/9",Advait Mital,Petter Tryland Laheld
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Janssen Andrei Tatac,,Zacharias Ramstad,"21/9,21/10",Janssen Andrei Tatac,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Janssen Andrei Tatac,,Kavin Thas,"21/9,21/5",Janssen Andrei Tatac,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Zacharias Ramstad,,Simen Hovig Claus,"21/7,21/5",Zacharias Ramstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Sondre Flakstad,,Thananan Panathupha,"21/17,21/10",Sondre Flakstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Sondre Flakstad,,Simen Hovig Claus,"21/10,21/10",Sondre Flakstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Zacharias Ramstad,,Thananan Panathupha,"21/6,21/12",Zacharias Ramstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Thananan Panathupha,,Simen Hovig Claus,"21/16,21/15",Thananan Panathupha,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Zacharias Ramstad,,Sondre Flakstad,"21/14,21/17",Zacharias Ramstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Kavin Thas,,Raymond He,"21/16,21/8",Kavin Thas,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Kavin Thas,,Milan Varmo Andresen,"21/10,21/8",Kavin Thas,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Raymond He,,Milan Varmo Andresen,"21/19,21/16",Raymond He,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Janssen Andrei Tatac,,Thor Winther,"21/4,21/9",Janssen Andrei Tatac,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Janssen Andrei Tatac,,Zacharias Ramstad,"21/9,21/10",Janssen Andrei Tatac,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Janssen Andrei Tatac,,Kavin Thas,"21/9,21/5",Janssen Andrei Tatac,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Zacharias Ramstad,,Simen Hovig Claus,"21/7,21/5",Zacharias Ramstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Sondre Flakstad,,Thananan Panathupha,"21/17,21/10",Sondre Flakstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Sondre Flakstad,,Simen Hovig Claus,"21/10,21/10",Sondre Flakstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Zacharias Ramstad,,Thananan Panathupha,"21/6,21/12",Zacharias Ramstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Thananan Panathupha,,Simen Hovig Claus,"21/16,21/15",Thananan Panathupha,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Zacharias Ramstad,,Sondre Flakstad,"21/14,21/17",Zacharias Ramstad,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Kavin Thas,,Raymond He,"21/16,21/8",Kavin Thas,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Kavin Thas,,Milan Varmo Andresen,"21/10,21/8",Kavin Thas,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Raymond He,,Milan Varmo Andresen,"21/19,21/16",Raymond He,
-2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,,Janssen Andrei Tatac,,Thor Winther,"21/4,21/9",Janssen Andrei Tatac,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Vladimir Metodiev Vangelov,,Sturla Flåten Jørgensen,"21/12,19/21,22/20",Vladimir Metodiev Vangelov,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Sturla Flåten Jørgensen,,Thor Christian Tallaksen,"21/6,21/12",Sturla Flåten Jørgensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Vladimir Metodiev Vangelov,,Pål Endre Pedersen,"21/16,21/13",Vladimir Metodiev Vangelov,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Vladimir Metodiev Vangelov,,Christian S. Johnsen,"21/7,21/7",Vladimir Metodiev Vangelov,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Thor Christian Tallaksen,,Emilie Sotnes Hamang,"8/21,21/13,21/10",Thor Christian Tallaksen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Emilie Sotnes Hamang,,Markus Haukebøe,"21/13,21/16",Emilie Sotnes Hamang,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Thor Christian Tallaksen,,Markus Haukebøe,"21/14,21/12",Thor Christian Tallaksen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Eirik Paulsen,,Dimiter Ivanov,"21/14,18/21,21/13",Eirik Paulsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Sturla Flåten Jørgensen,,Jan Malamant,"18/21,21/16,21/8",Sturla Flåten Jørgensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Dimiter Ivanov,,Jan Malamant,"21/11,21/10",Dimiter Ivanov,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Sturla Flåten Jørgensen,,Eirik Paulsen,"21/15,21/16",Sturla Flåten Jørgensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Sturla Flåten Jørgensen,,Dimiter Ivanov,"21/8,21/11",Sturla Flåten Jørgensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Eirik Paulsen,,Jan Malamant,"21/9,21/10",Eirik Paulsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Frank Heggen,,John Nguyen,"21/17,21/17",Frank Heggen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Christian S. Johnsen,,John Nguyen,"21/12,21/7",Christian S. Johnsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Christian S. Johnsen,,Frank Heggen,"25/23,21/19",Christian S. Johnsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Vladimir Metodiev Vangelov,,Gjermund Hagen,"21/11,21/5",Vladimir Metodiev Vangelov,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Vladimir Metodiev Vangelov,,Halldór Reynisson,"21/7,21/9",Vladimir Metodiev Vangelov,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Gjermund Hagen,,Halldór Reynisson,"21/13,25/23",Gjermund Hagen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Pål Endre Pedersen,,Trygve Ellingsen,"21/19,21/19",Pål Endre Pedersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Trygve Ellingsen,,Øystein Hovden Eimind,"21/16,21/6",Trygve Ellingsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herresingle,,Pål Endre Pedersen,,Øystein Hovden Eimind,"21/11,21/10",Pål Endre Pedersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Carl Christian Mork,Sturla Flåten Jørgensen,Dimiter Ivanov,Vladimir Metodiev Vangelov,"21/14,20/22,21/19",Carl Christian Mork,Sturla Flåten Jørgensen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Carl Christian Mork,Sturla Flåten Jørgensen,Martin Enghaug,Øystein Hovden Eimind,"21/7,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Dimiter Ivanov,Vladimir Metodiev Vangelov,Eirik Paulsen,Gjermund Hagen,"21/15,22/20",Dimiter Ivanov,Vladimir Metodiev Vangelov
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Tommy Helander,Bjørn Hamang,Emilie Sotnes Hamang,Elisa Wiborg,"21/11,21/12",Tommy Helander,Bjørn Hamang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Carl Christian Mork,Sturla Flåten Jørgensen,Emilie Sotnes Hamang,Elisa Wiborg,"21/13,21/12",Carl Christian Mork,Sturla Flåten Jørgensen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Carl Christian Mork,Sturla Flåten Jørgensen,Tommy Helander,Bjørn Hamang,"21/6,21/10",Carl Christian Mork,Sturla Flåten Jørgensen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,Jan Sørgjerd,Arild Moen,"21/16,21/14",Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Martin Enghaug,Øystein Hovden Eimind,Vishwavasu Soorly Nagaraj,Venkata Satheesh Somisetty,"21/14,21/11",Martin Enghaug,Øystein Hovden Eimind
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Martin Enghaug,Øystein Hovden Eimind,Jan Sørgjerd,Arild Moen,"21/12,21/16",Martin Enghaug,Øystein Hovden Eimind
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Dimiter Ivanov,Vladimir Metodiev Vangelov,Jeanette Svendsen,Malin Andersson,"21/13,21/8",Dimiter Ivanov,Vladimir Metodiev Vangelov
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Andreas Stenhaug,Trygve Ellingsen,John Nguyen,Ludvig Smith-Meyer,"21/17,3/21,21/16",Andreas Stenhaug,Trygve Ellingsen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Jeanette Svendsen,Malin Andersson,Andreas Stenhaug,Trygve Ellingsen,"22/20,19/21,21/17",Jeanette Svendsen,Malin Andersson
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Dimiter Ivanov,Vladimir Metodiev Vangelov,John Nguyen,Ludvig Smith-Meyer,"21/9,21/14",Dimiter Ivanov,Vladimir Metodiev Vangelov
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Jeanette Svendsen,Malin Andersson,John Nguyen,Ludvig Smith-Meyer,"21/15,25/23",Jeanette Svendsen,Malin Andersson
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Dimiter Ivanov,Vladimir Metodiev Vangelov,Andreas Stenhaug,Trygve Ellingsen,"21/16,21/11",Dimiter Ivanov,Vladimir Metodiev Vangelov
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Eirik Paulsen,Gjermund Hagen,David Wong,Ram Kumar,"21/16,22/20",Eirik Paulsen,Gjermund Hagen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,Eirik Paulsen,Gjermund Hagen,Daniel Bjørklund,Jan Malamant,"21/18,21/15",Eirik Paulsen,Gjermund Hagen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Herredouble,David Wong,Ram Kumar,Daniel Bjørklund,Jan Malamant,"23/21,23/21",David Wong,Ram Kumar
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Gjermund Hagen,Malin Andersson,"21/16,24/22",Carl Christian Mork,Elisa Wiborg
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Kristin Thømt,Tommy Helander,"21/6,21/8",Carl Christian Mork,Elisa Wiborg
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Gjermund Hagen,Malin Andersson,Aimee Hong,John Nguyen,"21/16,21/14",Gjermund Hagen,Malin Andersson
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Bente Sotnes,Bjørn Hamang,Iris Hagen,Trygve Ellingsen,"21/18,21/17",Bente Sotnes,Bjørn Hamang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Iris Hagen,Trygve Ellingsen,"21/10,21/4",Carl Christian Mork,Elisa Wiborg
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Bente Sotnes,Bjørn Hamang,"21/7,21/7",Carl Christian Mork,Elisa Wiborg
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Kristin Thømt,Tommy Helander,Vishwavasu Soorly Nagaraj,Mei Yang,"21/17,21/15",Kristin Thømt,Tommy Helander
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Kristin Thømt,Tommy Helander,Ram Kumar,Liping Mu,"21/19,21/15",Kristin Thømt,Tommy Helander
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Vishwavasu Soorly Nagaraj,Mei Yang,Ram Kumar,Liping Mu,"21/10,15/21,21/17",Vishwavasu Soorly Nagaraj,Mei Yang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Aimee Hong,John Nguyen,Dimiter Ivanov,Maria Jiangli Stenrud,"21/14,21/15",Aimee Hong,John Nguyen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Aimee Hong,John Nguyen,Arild Moen,Monica Fuglesang,"21/10,21/12",Aimee Hong,John Nguyen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Dimiter Ivanov,Maria Jiangli Stenrud,Arild Moen,Monica Fuglesang,"21/19,21/18",Dimiter Ivanov,Maria Jiangli Stenrud
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Eirik Paulsen,Randi Selle,Karianne Zhang,Øystein Hovden Eimind,"21/12,21/6",Eirik Paulsen,Randi Selle
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Gjermund Hagen,Malin Andersson,Eirik Paulsen,Randi Selle,"21/19,15/21,21/12",Gjermund Hagen,Malin Andersson
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN E,Mixeddouble,Gjermund Hagen,Malin Andersson,Karianne Zhang,Øystein Hovden Eimind,"21/15,21/11",Gjermund Hagen,Malin Andersson
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Randi Selle,,Paula Szalai,"21/6,21/12",Randi Selle,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Randi Selle,,Rahaf Alothman,"21/8,21/11",Randi Selle,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Rahaf Alothman,,Karianne Zhang,"21/11,21/18",Rahaf Alothman,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Randi Selle,,Karianne Zhang,"21/17,21/10",Randi Selle,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Kristin Thømt,,Ane Hofstad Lycke,"22/20,21/14",Kristin Thømt,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Paula Szalai,,Kristin Thømt,"21/12,21/16",Paula Szalai,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damesingle,,Paula Szalai,,Ane Hofstad Lycke,"21/8,21/9",Paula Szalai,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damedouble,Maria Jiangli Stenrud,Randi Selle,Kristin Thømt,Bente Sotnes,"21/14,21/10",Maria Jiangli Stenrud,Randi Selle
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damedouble,Aimee Hong,Karianne Zhang,Maria Jiangli Stenrud,Randi Selle,"21/18,14/21,21/15",Aimee Hong,Karianne Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN A,Damedouble,Aimee Hong,Karianne Zhang,Kristin Thømt,Bente Sotnes,"21/14,21/12",Aimee Hong,Karianne Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Martin Enghaug,"21/10,21/14",Ludvig Smith-Meyer,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Martin Enghaug,,Vishwavasu Soorly Nagaraj,"22/20,21/11",Martin Enghaug,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Sondre Mikkelsen,,John Daae,"21/19,21/8",Sondre Mikkelsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Arne Martin Hagen,"21/10,21/7",Ludvig Smith-Meyer,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,John Daae,,Arne Martin Hagen,"21/9,21/13",John Daae,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Sondre Mikkelsen,"21/16,21/8",Ludvig Smith-Meyer,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,John Daae,"21/8,21/11",Ludvig Smith-Meyer,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Sondre Mikkelsen,,Arne Martin Hagen,"21/12,21/10",Sondre Mikkelsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Daniel Bjørklund,,Vishwavasu Soorly Nagaraj,"22/20,19/21,21/19",Daniel Bjørklund,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Olav Sagård Roalkvam,,Pavithran Vijayakumaran,"21/8,21/9",Olav Sagård Roalkvam,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Olav Sagård Roalkvam,,Daniel Bjørklund,"21/10,21/11",Olav Sagård Roalkvam,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Vishwavasu Soorly Nagaraj,,Pavithran Vijayakumaran,"21/13,21/15",Vishwavasu Soorly Nagaraj,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Vishwavasu Soorly Nagaraj,,Olav Sagård Roalkvam,"22/20,21/16",Vishwavasu Soorly Nagaraj,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Andreas Stenhaug,,Lars Eirik L. Nilsen,"21/13,18/21,21/15",Andreas Stenhaug,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Martin Enghaug,,Andreas Stenhaug,"21/13,22/24,21/16",Martin Enghaug,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN B,Herresingle,,Martin Enghaug,,Lars Eirik L. Nilsen,"21/14,21/17",Martin Enghaug,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Bengt Pedersen,"22/20,21/14",Petter Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Bengt Pedersen,,Arild Moen,"21/15,21/18",Bengt Pedersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Bernt Pallesen,"21/16,21/12",Petter Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Bengt Pedersen,,Roman Malamant,"19/21,21/16,21/16",Bengt Pedersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Simen André Børke Høgberg,"21/19,21/17",Petter Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Arild Moen,,Anilkumar Unnithan,"21/11,17/21,21/17",Arild Moen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Roman Malamant,,Carl Magnus Woldstad,"21/12,21/18",Roman Malamant,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Carl Magnus Woldstad,,Kjell Arne Selle,"21/12,16/21,21/10",Carl Magnus Woldstad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Roman Malamant,,Kjell Arne Selle,"21/16,21/13",Roman Malamant,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Sigurd Simensen,"21/6,21/15",Petter Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Manotheepan Sathananthapotham,,Sigurd Simensen,"21/23,21/18,21/16",Manotheepan Sathananthapotham,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Manotheepan Sathananthapotham,"21/5,21/7",Petter Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Simen André Børke Høgberg,,Osman Bekri Khan,"11/21,21/12,21/15",Simen André Børke Høgberg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Simen André Børke Høgberg,,Jan Sørgjerd,"21/19,21/17",Simen André Børke Høgberg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Osman Bekri Khan,,Jan Sørgjerd,"21/17,21/16",Osman Bekri Khan,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Bernt Pallesen,,Fernando Rey Ortero,"23/25,21/16,21/12",Bernt Pallesen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Adam Karsen,,Atle Hjort-Larsen,"21/17,21/19",Adam Karsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Fernando Rey Ortero,,Atle Hjort-Larsen,"21/16,16/21,21/15",Fernando Rey Ortero,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Bernt Pallesen,,Adam Karsen,"18/21,21/19,21/6",Bernt Pallesen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Adam Karsen,,Fernando Rey Ortero,"23/21,21/14",Adam Karsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herresingle,,Bernt Pallesen,,Atle Hjort-Larsen,"21/18,21/12",Bernt Pallesen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Victoria Zhang,,Iris Hagen,"19/21,21/7,21/14",Victoria Zhang,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Ingrid Sofie Langsjøvold,,Siv Meland,"21/9,21/7",Ingrid Sofie Langsjøvold,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Victoria Zhang,,Monica Fuglesang,"21/18,21/3",Victoria Zhang,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Victoria Zhang,,Ingrid Sofie Langsjøvold,"21/9,21/9",Victoria Zhang,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Monica Fuglesang,,Siv Meland,"21/6,21/15",Monica Fuglesang,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Victoria Zhang,,Siv Meland,"21/4,21/4",Victoria Zhang,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Ragnhild Løvenskiold Grüner Husom,,Yasmin Siyad,"21/13,21/14",Ragnhild Løvenskiold Grüner Husom,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Iris Hagen,,Simona Früh,"21/10,21/17",Iris Hagen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Iris Hagen,,Ragnhild Løvenskiold Grüner Husom,"20/22,21/14,21/13",Iris Hagen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damesingle,,Ragnhild Løvenskiold Grüner Husom,,Simona Früh,"21/15,21/9",Ragnhild Løvenskiold Grüner Husom,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Muhammad Shakoor,Iftekahr Hussain,Rishi Arvind Phatak,Tzu-shuo Liu,"21/17,21/10",Muhammad Shakoor,Iftekahr Hussain
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Amit Mital,Yuelong Zang,Bernt Pallesen,Arne Martin Hagen,"21/19,20/22,21/13",Amit Mital,Yuelong Zang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Muhammad Shakoor,Iftekahr Hussain,Amit Mital,Yuelong Zang,"19/21,21/10,21/13",Muhammad Shakoor,Iftekahr Hussain
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Muhammad Shakoor,Iftekahr Hussain,Bernt Pallesen,Arne Martin Hagen,"21/13,21/16",Muhammad Shakoor,Iftekahr Hussain
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Rishi Arvind Phatak,Tzu-shuo Liu,Manotheepan Sathananthapotham,Fernando Rey Ortero,"14/21,21/12,21/14",Rishi Arvind Phatak,Tzu-shuo Liu
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Lars Eirik L. Nilsen,Peter Eidsvik,Manotheepan Sathananthapotham,Fernando Rey Ortero,"21/13,21/13",Lars Eirik L. Nilsen,Peter Eidsvik
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Herredouble,Rishi Arvind Phatak,Tzu-shuo Liu,Lars Eirik L. Nilsen,Peter Eidsvik,"21/19,21/13",Rishi Arvind Phatak,Tzu-shuo Liu
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Ingrid Sofie Langsjøvold,Victoria Zhang,Sara Sverdrup Thygeson,Karin Tryland Laheld,"21/16,21/12",Ingrid Sofie Langsjøvold,Victoria Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Ingrid Sofie Langsjøvold,Victoria Zhang,Malathy Subramaniam,Kalpana Stephen,"21/4,21/8",Ingrid Sofie Langsjøvold,Victoria Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Yanhong Peng,Iris Hagen,Malathy Subramaniam,Kalpana Stephen,"21/17,21/4",Yanhong Peng,Iris Hagen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Ingrid Sofie Langsjøvold,Victoria Zhang,Yanhong Peng,Iris Hagen,"21/9,21/10",Ingrid Sofie Langsjøvold,Victoria Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Siv Meland,Ragnhild Løvenskiold Grüner Husom,Yasmin Siyad,Savia Aamodt,"22/20,21/15",Siv Meland,Ragnhild Løvenskiold Grüner Husom
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Sara Sverdrup Thygeson,Karin Tryland Laheld,Beate Røsholm,Ingeborg Ousland,"21/5,21/9",Sara Sverdrup Thygeson,Karin Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Yasmin Siyad,Savia Aamodt,Beate Røsholm,Ingeborg Ousland,"25/23,21/10",Yasmin Siyad,Savia Aamodt
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Sara Sverdrup Thygeson,Karin Tryland Laheld,Siv Meland,Ragnhild Løvenskiold Grüner Husom,"21/14,21/16",Sara Sverdrup Thygeson,Karin Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Damedouble,Siv Meland,Ragnhild Løvenskiold Grüner Husom,Beate Røsholm,Ingeborg Ousland,"21/14,21/13",Siv Meland,Ragnhild Løvenskiold Grüner Husom
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Petter Tryland Laheld,Karin Tryland Laheld,Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom,"21/18,21/14",Petter Tryland Laheld,Karin Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Elisabeth Kjølø,Fernando Rey Ortero,Malathy Subramaniam,Palany Subramaniam,"20/22,21/12,23/21",Elisabeth Kjølø,Fernando Rey Ortero
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Petter Tryland Laheld,Karin Tryland Laheld,Malathy Subramaniam,Palany Subramaniam,"21/7,21/10",Petter Tryland Laheld,Karin Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Petter Tryland Laheld,Karin Tryland Laheld,Elisabeth Kjølø,Fernando Rey Ortero,"21/5,21/10",Petter Tryland Laheld,Karin Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom,Ingrid Sofie Langsjøvold,Simen André Børke Høgberg,"21/12,22/20",Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom,Yanhong Peng,Yuelong Zang,"24/22,21/14",Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN C,Mixeddouble,Yanhong Peng,Yuelong Zang,Ingrid Sofie Langsjøvold,Simen André Børke Høgberg,"21/19,21/18",Yanhong Peng,Yuelong Zang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Thomas Mortensen,,Vegard Andersen,"21/19,21/9",Thomas Mortensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Thomas Mortensen,,Muhammad Shahid Iqbal,"21/16,22/20",Thomas Mortensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Mohan Sivanandan,,Mikkel Husom,"21/13,17/21,21/10",Mohan Sivanandan,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Vegard Andersen,,Mohan Sivanandan,"21/15,14/21,21/12",Vegard Andersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Vegard Andersen,,Mikkel Husom,"21/18,21/15",Vegard Andersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Muhammad Shahid Iqbal,,Vasanthan Nadarasah,"21/12,21/14",Muhammad Shahid Iqbal,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Øivind Harket,,Andre Rusthen,"21/5,21/16",Øivind Harket,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Thomas Mortensen,,Øivind Harket,"14/21,21/12,25/23",Thomas Mortensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herresingle,,Thomas Mortensen,,Andre Rusthen,"21/16,21/12",Thomas Mortensen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Zubbair Tahir,Shahir Tahir,Adam Karsen,Niels Jørgen Søby Pedersen,"21/10,21/16",Zubbair Tahir,Shahir Tahir
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Zubbair Tahir,Shahir Tahir,Mohan Sivanandan,Pavithran Vijayakumaran,"21/10,21/17",Zubbair Tahir,Shahir Tahir
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Bengt Pedersen,Sindre Sjåvåg,Ramandeep Singh khera,Cheron Stephen,"21/15,18/21,21/17",Bengt Pedersen,Sindre Sjåvåg
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Mohan Sivanandan,Pavithran Vijayakumaran,Ramandeep Singh khera,Cheron Stephen,"21/14,21/18",Mohan Sivanandan,Pavithran Vijayakumaran
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Zubbair Tahir,Shahir Tahir,Bengt Pedersen,Sindre Sjåvåg,"21/9,19/21,21/8",Zubbair Tahir,Shahir Tahir
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Mohan Sivanandan,Pavithran Vijayakumaran,Bengt Pedersen,Sindre Sjåvåg,"21/14,21/19",Mohan Sivanandan,Pavithran Vijayakumaran
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Zubbair Tahir,Shahir Tahir,Ramandeep Singh khera,Cheron Stephen,"21/11,21/9",Zubbair Tahir,Shahir Tahir
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Adam Karsen,Niels Jørgen Søby Pedersen,Mervin Joseph,Palany Subramaniam,"21/16,21/12",Adam Karsen,Niels Jørgen Søby Pedersen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Adam Karsen,Niels Jørgen Søby Pedersen,Jagadish Kurli,Vasanthan Nadarasah,"21/12,21/16",Adam Karsen,Niels Jørgen Søby Pedersen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,SEN D,Herredouble,Jagadish Kurli,Vasanthan Nadarasah,Mervin Joseph,Palany Subramaniam,"21/7,21/19",Jagadish Kurli,Vasanthan Nadarasah
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,Herresingle,,Lise Rusthen,,Vinit Sharma,"21/13,21/18",Lise Rusthen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,Herresingle,,Celin Strøm-Fredriksen,,Shreyas Danve,"21/13,19/21,21/17",Celin Strøm-Fredriksen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,Herresingle,,Lise Rusthen,,Shreyas Danve,"21/15,21/16",Lise Rusthen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,Herresingle,,Cyrion Sushil-Preenus,,Vinit Sharma,"21/2,21/5",Cyrion Sushil-Preenus,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,Herresingle,,Cyrion Sushil-Preenus,,Lise Rusthen,"21/2,21/13",Cyrion Sushil-Preenus,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U9 B,Herresingle,,Vinit Sharma,,Celin Strøm-Fredriksen,"21/12,18/21,21/19",Vinit Sharma,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Mikkel Grevsnes,,Daniel Pokotylyuk,"21/12,21/8",Mikkel Grevsnes,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Adit Sharma,,Fredrik Hellemo Ruud,"21/16,21/14",Adit Sharma,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Eirik Tryland Laheld,,Julian Moe,"21/2,21/6",Eirik Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Even Telle,,Alan Algunerhan,"21/15,21/16",Even Telle,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Henrik Melvin Rusthen,,Viktor Neubeck,"21/18,21/18",Henrik Melvin Rusthen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Adam Tollisen Leyland,,Lavrans M. Husebø,"20/22,21/15,21/14",Adam Tollisen Leyland,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Mikkel Grevsnes,,Eirik Tryland Laheld,"21/15,21/15",Mikkel Grevsnes,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Adit Sharma,,Even Telle,"21/5,21/7",Adit Sharma,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Adam Tollisen Leyland,,Henrik Melvin Rusthen,"21/9,21/8",Adam Tollisen Leyland,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Lavrans M. Husebø,,Viktor Neubeck,"21/14,21/11",Lavrans M. Husebø,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Fredrik Hellemo Ruud,,Alan Algunerhan,"21/19,21/16",Fredrik Hellemo Ruud,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Daniel Pokotylyuk,,Julian Moe,"21/10,21/11",Daniel Pokotylyuk,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Adit Sharma,,Mikkel Grevsnes,"21/11,21/16",Adit Sharma,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Eirik Tryland Laheld,,Adam Tollisen Leyland,"21/15,21/15",Eirik Tryland Laheld,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Lavrans M. Husebø,,Daniel Pokotylyuk,"21/16,21/18",Lavrans M. Husebø,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Fredrik Hellemo Ruud,,Henrik Melvin Rusthen,"20/22,21/17,21/10",Fredrik Hellemo Ruud,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Even Telle,,Viktor Neubeck,"21/18,21/12",Even Telle,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Herresingle,,Alan Algunerhan,,Julian Moe,"21/9,21/10",Alan Algunerhan,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Sofie Miko Lambrects,,Victoria Heiberg,"21/13,18/21,21/15",Sofie Miko Lambrects,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Rebecca Haukebøe,,Cyrenia Sushil-Preenus,"23/21,21/13",Rebecca Haukebøe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Rebecca Haukebøe,,Sofie Miko Lambrects,"17/21,21/14,21/17",Rebecca Haukebøe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Sofie Jin Reistadbakk,,Victoria Heiberg,"21/14,15/21,21/15",Sofie Jin Reistadbakk,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Sofie Jin Reistadbakk,,Sofie Miko Lambrects,"21/14,17/21,21/10",Sofie Jin Reistadbakk,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Cyrenia Sushil-Preenus,,Victoria Heiberg,"21/9,21/8",Cyrenia Sushil-Preenus,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Rebecca Haukebøe,,Victoria Heiberg,"21/16,21/13",Rebecca Haukebøe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U11 B,Damesingle,,Cyrenia Sushil-Preenus,,Sofie Jin Reistadbakk,"21/7,21/15",Cyrenia Sushil-Preenus,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Herresingle,,Aleksander Jakovlevs,,David Nguyen,"21/19,18/21,21/19",Aleksander Jakovlevs,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Herresingle,,David Nguyen,,Bjørn Deron,"19/21,21/18,24/22",David Nguyen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Herresingle,,David Nguyen,,Varun Manikandan,"21/12,21/5",David Nguyen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Herresingle,,Bjørn Deron,,Varun Manikandan,"21/16,17/21,21/11",Bjørn Deron,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Herresingle,,Aleksander Jakovlevs,,Ziyue Wei,"14/21,21/13,21/12",Aleksander Jakovlevs,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 A,Damedouble,Nandita Anil,Astrid Lovise Pallesen,Amalie Theil,Tilda Sevland Øfsdahl,"21/8,21/12",Nandita Anil,Astrid Lovise Pallesen
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Mathias Wong,,Philip Allport Fossum,"21/18,21/14",Mathias Wong,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Philip Allport Fossum,,Tristan Thøgersen,"21/8,21/6",Philip Allport Fossum,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Armand Bruun,,Lavrans Muri Daae,"21/4,21/6",Armand Bruun,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Martin Hovig Claus,,Lavrans Muri Daae,"21/19,17/21,21/14",Martin Hovig Claus,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Mathias Wong,,Martin Hovig Claus,"21/5,21/5",Mathias Wong,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Mathias Wong,,Armand Bruun,"21/13,19/21,21/10",Mathias Wong,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Mathias Wong,,Lavrans Muri Daae,"21/7,21/7",Mathias Wong,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Armand Bruun,,Martin Hovig Claus,"21/11,21/4",Armand Bruun,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Andreas Hellemo Ruud,,Even Xu,"23/21,21/12",Andreas Hellemo Ruud,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Tristan Thøgersen,,Eirik Vilton Molteberg,"21/18,16/21,21/17",Tristan Thøgersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Tristan Thøgersen,,Even Xu,"21/8,21/6",Tristan Thøgersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Eirik Vilton Molteberg,,Even Xu,"21/9,21/7",Eirik Vilton Molteberg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Eirik Vilton Molteberg,,Andreas Hellemo Ruud,"21/17,21/15",Eirik Vilton Molteberg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Tristan Thøgersen,,Andreas Hellemo Ruud,"21/15,24/22",Tristan Thøgersen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Philip Allport Fossum,,Rasmus Neubeck,"21/2,21/5",Philip Allport Fossum,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Philip Allport Fossum,,Jonas Telle,"23/21,22/20",Philip Allport Fossum,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herresingle,,Jonas Telle,,Rasmus Neubeck,"21/10,21/9",Jonas Telle,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Emilie Haukebøe,,Astrid Lovise Pallesen,"18/21,21/15,25/23",Emilie Haukebøe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Anna Reistad,,Sofia Garvida,"21/8,21/6",Anna Reistad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Emilie Haukebøe,,Anna Reistad,"21/16,21/10",Emilie Haukebøe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Emilie Haukebøe,,Sofia Garvida,"21/5,21/8",Emilie Haukebøe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Astrid Lovise Pallesen,,Leyla Eleonora Destefanis,"21/14,21/15",Astrid Lovise Pallesen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Tilda Sevland Øfsdahl,,Amalie Theil,"21/16,22/20",Tilda Sevland Øfsdahl,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Astrid Lovise Pallesen,,Tilda Sevland Øfsdahl,"20/22,21/18,21/14",Astrid Lovise Pallesen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Amalie Theil,,Leyla Eleonora Destefanis,"21/15,21/17",Amalie Theil,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Astrid Lovise Pallesen,,Amalie Theil,"21/14,19/21,21/7",Astrid Lovise Pallesen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Damesingle,,Tilda Sevland Øfsdahl,,Leyla Eleonora Destefanis,"21/9,21/18",Tilda Sevland Øfsdahl,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herredouble,Jonas Telle,Mari Blakstad,Lukas Sandboe,Tristan Thøgersen,"21/13,21/10",Jonas Telle,Mari Blakstad
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herredouble,Mathias Wong,Armand Bruun,Lukas Sandboe,Tristan Thøgersen,"21/7,22/20",Mathias Wong,Armand Bruun
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U13 B,Herredouble,Jonas Telle,Mari Blakstad,Mathias Wong,Armand Bruun,"21/17,13/21,21/13",Jonas Telle,Mari Blakstad
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Hans Jørgen Berg,,Theodor Jenssen,"21/7,21/11",Hans Jørgen Berg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Vetle Bækkelien,,Hemant Anilkumar,"21/14,21/3",Vetle Bækkelien,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Hans Jørgen Berg,,Hemant Anilkumar,"21/15,12/21,21/13",Hans Jørgen Berg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Advait Mital,,Theodor Jenssen,"21/19,21/8",Advait Mital,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Hans Jørgen Berg,,Advait Mital,"21/18,21/19",Hans Jørgen Berg,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Vetle Bækkelien,,Theodor Jenssen,"21/6,21/7",Vetle Bækkelien,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Vetle Bækkelien,,Hans Jørgen Berg,"21/19,21/10",Vetle Bækkelien,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Advait Mital,,Hemant Anilkumar,"21/7,21/8",Advait Mital,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Theodor Jenssen,,Hemant Anilkumar,"21/11,21/13",Theodor Jenssen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herresingle,,Advait Mital,,Vetle Bækkelien,"11/21,21/17,21/11",Advait Mital,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Damesingle,,Selma Bøhn,,Nandita Anil,"21/18,21/11",Selma Bøhn,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Damesingle,,Kaisa Isabell Sandboe,,Selma Bøhn,"21/11,21/8",Kaisa Isabell Sandboe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Damesingle,,Caroline Midtbø Huber,,Nandita Anil,"21/11,21/12",Caroline Midtbø Huber,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Damesingle,,Kaisa Isabell Sandboe,,Nandita Anil,"21/13,21/2",Kaisa Isabell Sandboe,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herredouble,Advait Mital,Petter Tryland Laheld,Bjørn Deron,Hemant Anilkumar,"21/10,21/8",Advait Mital,Petter Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herredouble,Hans Jørgen Berg,Vetle Bækkelien,Bjørn Deron,Hemant Anilkumar,"21/12,21/11",Hans Jørgen Berg,Vetle Bækkelien
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Herredouble,Advait Mital,Petter Tryland Laheld,Hans Jørgen Berg,Vetle Bækkelien,"21/18,21/9",Advait Mital,Petter Tryland Laheld
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Mixeddouble,Aleksander Jakovlevs,Mari Blakstad,Nandita Anil,Hemant Anilkumar,"21/7,11/21,21/17",Aleksander Jakovlevs,Mari Blakstad
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Mixeddouble,Theodor Jenssen,Victoria Zhang,Aleksander Jakovlevs,Mari Blakstad,"21/2,21/11",Theodor Jenssen,Victoria Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 A,Mixeddouble,Theodor Jenssen,Victoria Zhang,Nandita Anil,Hemant Anilkumar,"21/8,21/3",Theodor Jenssen,Victoria Zhang
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Janssen Andrei Tatac,,Zacharias Ramstad,"21/9,21/10",Janssen Andrei Tatac,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Janssen Andrei Tatac,,Kavin Thas,"21/9,21/5",Janssen Andrei Tatac,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Zacharias Ramstad,,Simen Hovig Claus,"21/7,21/5",Zacharias Ramstad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Sondre Flakstad,,Thananan Panathupha,"21/17,21/10",Sondre Flakstad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Sondre Flakstad,,Simen Hovig Claus,"21/10,21/10",Sondre Flakstad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Zacharias Ramstad,,Thananan Panathupha,"21/6,21/12",Zacharias Ramstad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Thananan Panathupha,,Simen Hovig Claus,"21/16,21/15",Thananan Panathupha,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Zacharias Ramstad,,Sondre Flakstad,"21/14,21/17",Zacharias Ramstad,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Kavin Thas,,Raymond He,"21/16,21/8",Kavin Thas,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Kavin Thas,,Milan Varmo Andresen,"21/10,21/8",Kavin Thas,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Raymond He,,Milan Varmo Andresen,"21/19,21/16",Raymond He,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U15 B,Herresingle,,Janssen Andrei Tatac,,Thor Winther,"21/4,21/9",Janssen Andrei Tatac,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Tonje Eie Anda,,Julie Vierdal Stensland,"21/8,21/13",Tonje Eie Anda,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Live Lislerud Vestli,,Kaviya Karunaharan,"21/4,21/7",Live Lislerud Vestli,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Tonje Eie Anda,,Live Lislerud Vestli,"23/21,23/21",Tonje Eie Anda,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Tonje Eie Anda,,Kaviya Karunaharan,"21/4,21/5",Tonje Eie Anda,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Henrikke Austreim Larsen,,Sanne Ellingsen,"21/10,18/21,21/19",Henrikke Austreim Larsen,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Julie Vierdal Stensland,,Sinthuya Vijayakumaran,"16/21,21/9,21/14",Julie Vierdal Stensland,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Sinthuya Vijayakumaran,,Sanne Ellingsen,"16/21,21/17,21/13",Sinthuya Vijayakumaran,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Julie Vierdal Stensland,,Henrikke Austreim Larsen,"21/18,21/5",Julie Vierdal Stensland,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Julie Vierdal Stensland,,Sanne Ellingsen,"21/8,21/7",Julie Vierdal Stensland,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damesingle,,Sinthuya Vijayakumaran,,Henrikke Austreim Larsen,"22/20,23/21",Sinthuya Vijayakumaran,
+2016/2017,Haugerud Haugerud vårcup,20.05.2017,U17 B,Damedouble,Selma Bøhn,Kaisa Isabell Sandboe,Tonje Eie Anda,Julie Vierdal Stensland,"21/18,21/17",Selma Bøhn,Kaisa Isabell Sandboe

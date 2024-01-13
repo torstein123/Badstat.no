@@ -1,430 +1,312 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Bjørn Hamang,Bente Sotnes,"21/13,21/13",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Elise Lærkerød Jelsness,Marius Sørby,Petter Tryland Laheld,Simona Früh,"21/14,21/18",Elise Lærkerød Jelsness,Marius Sørby
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Kristin Thømt,Tommy Helander,Anja Olsen,Adrian Alvarez Resa,"21/16,21/16",Kristin Thømt,Tommy Helander
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Marius Røed,Malin Andersson,"21/9,21/13",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Bjørn Hamang,Bente Sotnes,Joel Collard,Marit Lillelien,"21/18,21/20",Bjørn Hamang,Bente Sotnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Elise Lærkerød Jelsness,Marius Sørby,Anja Olsen,Adrian Alvarez Resa,"21/20,21/9",Elise Lærkerød Jelsness,Marius Sørby
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Marius Røed,Malin Andersson,Petter Tryland Laheld,Simona Früh,"21/14,21/7",Marius Røed,Malin Andersson
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Kristin Thømt,Tommy Helander,Elise Lærkerød Jelsness,Marius Sørby,"21/20,21/19",Kristin Thømt,Tommy Helander
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Bjørn Hamang,Bente Sotnes,Anja Olsen,Adrian Alvarez Resa,"21/16,21/14",Bjørn Hamang,Bente Sotnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Marius Røed,Malin Andersson,Bjørn Hamang,Bente Sotnes,"21/15,21/14",Marius Røed,Malin Andersson
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Kristin Thømt,Tommy Helander,"21/15,21/14",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Petter Tryland Laheld,Simona Früh,Anja Olsen,Adrian Alvarez Resa,"21/18,21/11",Petter Tryland Laheld,Simona Früh
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Joel Collard,Marit Lillelien,Elise Lærkerød Jelsness,Marius Sørby,"21/12,21/18",Joel Collard,Marit Lillelien
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Arben Holstad,,Marius Sørby,"21/9,21/7",Arben Holstad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Petter Tryland Laheld,,Marius Edwards,"21/4,21/5",Petter Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Arben Holstad,,Petter Tryland Laheld,"21/14,21/20",Arben Holstad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Petter Tryland Laheld,,Marius Sørby,"21/10,21/15",Petter Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Arben Holstad,,Marius Sørby,"21/9,21/7",Arben Holstad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Petter Tryland Laheld,,Marius Edwards,"21/4,21/5",Petter Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Arben Holstad,,Petter Tryland Laheld,"21/14,21/20",Arben Holstad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,,Petter Tryland Laheld,,Marius Sørby,"21/10,21/15",Petter Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Arben Holstad,Joel Collard,Marius Sørby,Adrian Alvarez Resa,"21/8,21/10",Arben Holstad,Joel Collard
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Tommy Helander,Bjørn Hamang,David Wong,Ram Kumar,"21/13,21/16",Tommy Helander,Bjørn Hamang
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Advait Mital,Petter Tryland Laheld,Elise Lærkerød Jelsness,Marius Røed,"21/17,21/17",Advait Mital,Petter Tryland Laheld
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Arben Holstad,Joel Collard,Advait Mital,Petter Tryland Laheld,"21/6,21/14",Arben Holstad,Joel Collard
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,David Wong,Ram Kumar,Elise Lærkerød Jelsness,Marius Røed,"21/11,21/4",David Wong,Ram Kumar
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Tommy Helander,Bjørn Hamang,Marius Sørby,Adrian Alvarez Resa,"21/9,21/19",Tommy Helander,Bjørn Hamang
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Advait Mital,Petter Tryland Laheld,Marius Sørby,Adrian Alvarez Resa,"21/13,21/19",Advait Mital,Petter Tryland Laheld
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Arben Holstad,Joel Collard,Tommy Helander,Bjørn Hamang,"21/20,21/12",Arben Holstad,Joel Collard
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Marius Sørby,Adrian Alvarez Resa,Elise Lærkerød Jelsness,Marius Røed,"21/20,21/19",Marius Sørby,Adrian Alvarez Resa
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,David Wong,Ram Kumar,Advait Mital,Petter Tryland Laheld,"21/18,21/16",David Wong,Ram Kumar
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Vishwavasu Soorly Nagaraj,"21/19,21/17",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Marius Imset,"21/13,9/21,21/12",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Elise Lærkerød Jelsness,"21/8,23/21",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Heidi Larsson Kleveland,"21/9,21/15",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Simon Roland Birkvad,"21/10,21/12",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Dirk Olivie,"21/18,21/16",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Adrian Alvarez Resa,"21/19,18/21,21/13",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Dirk Olivie,,Knut Lyngstad,"21/10,21/14",Dirk Olivie,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Knut Lyngstad,"21/14,21/16",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Dirk Olivie,"21/14,21/11",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Riji Ameen Jainualabdeen,,Qiqing Gan,"16/21,21/17,23/21",Riji Ameen Jainualabdeen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Qiqing Gan,"21/16,21/13",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Adrian Alvarez Resa,,Riji Ameen Jainualabdeen,"19/21,23/21,21/15",Adrian Alvarez Resa,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Adrian Alvarez Resa,"21/8,19/21,21/19",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Adrian Alvarez Resa,,Qiqing Gan,"21/19,21/17",Adrian Alvarez Resa,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Riji Ameen Jainualabdeen,"21/14,21/6",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Heidi Larsson Kleveland,,Rishi Arvind Phatak,"21/18,21/19",Heidi Larsson Kleveland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Vidar Vikhagen,"21/12,21/12",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Heidi Larsson Kleveland,,Vidar Vikhagen,"21/5,21/15",Heidi Larsson Kleveland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Heidi Larsson Kleveland,"21/17,21/16",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Rishi Arvind Phatak,,Vidar Vikhagen,"21/12,21/11",Rishi Arvind Phatak,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Rishi Arvind Phatak,"21/19,19/21,21/16",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Simon Roland Birkvad,"21/11,21/12",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Andreas Fagerås,"21/9,21/9",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Simon Roland Birkvad,,Andreas Fagerås,"21/12,21/18",Simon Roland Birkvad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Vishwavasu Soorly Nagaraj,"21/19,21/17",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Marius Imset,"21/13,9/21,21/12",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Elise Lærkerød Jelsness,"21/8,23/21",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Heidi Larsson Kleveland,"21/9,21/15",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Simon Roland Birkvad,"21/10,21/12",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Dirk Olivie,"21/18,21/16",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Adrian Alvarez Resa,"21/19,18/21,21/13",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Dirk Olivie,,Knut Lyngstad,"21/10,21/14",Dirk Olivie,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Knut Lyngstad,"21/14,21/16",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Magnus Knapperholen,,Dirk Olivie,"21/14,21/11",Magnus Knapperholen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Riji Ameen Jainualabdeen,,Qiqing Gan,"16/21,21/17,23/21",Riji Ameen Jainualabdeen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Qiqing Gan,"21/16,21/13",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Adrian Alvarez Resa,,Riji Ameen Jainualabdeen,"19/21,23/21,21/15",Adrian Alvarez Resa,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Adrian Alvarez Resa,"21/8,19/21,21/19",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Adrian Alvarez Resa,,Qiqing Gan,"21/19,21/17",Adrian Alvarez Resa,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Marius Imset,,Riji Ameen Jainualabdeen,"21/14,21/6",Marius Imset,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Heidi Larsson Kleveland,,Rishi Arvind Phatak,"21/18,21/19",Heidi Larsson Kleveland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Vidar Vikhagen,"21/12,21/12",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Heidi Larsson Kleveland,,Vidar Vikhagen,"21/5,21/15",Heidi Larsson Kleveland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Heidi Larsson Kleveland,"21/17,21/16",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Rishi Arvind Phatak,,Vidar Vikhagen,"21/12,21/11",Rishi Arvind Phatak,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Elise Lærkerød Jelsness,,Rishi Arvind Phatak,"21/19,19/21,21/16",Elise Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Simon Roland Birkvad,"21/11,21/12",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Vishwavasu Soorly Nagaraj,,Andreas Fagerås,"21/9,21/9",Vishwavasu Soorly Nagaraj,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,,Simon Roland Birkvad,,Andreas Fagerås,"21/12,21/18",Simon Roland Birkvad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Halldór Reynisson,Magnus Knapperholen,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/15,21/10",Halldór Reynisson,Magnus Knapperholen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Dirk Olivie,Ke Xie,Marit Lillelien,Heidi Larsson Kleveland,"21/13,21/17",Dirk Olivie,Ke Xie
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Andreas Fagerås,Vishwavasu Soorly Nagaraj,Kristin Thømt,Bente Sotnes,"21/17,21/6",Andreas Fagerås,Vishwavasu Soorly Nagaraj
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Halldór Reynisson,Magnus Knapperholen,Andreas Fagerås,Vishwavasu Soorly Nagaraj,"21/8,21/10",Halldór Reynisson,Magnus Knapperholen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Dirk Olivie,Ke Xie,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/12,21/14",Dirk Olivie,Ke Xie
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Andreas Fagerås,Vishwavasu Soorly Nagaraj,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/15,21/6",Andreas Fagerås,Vishwavasu Soorly Nagaraj
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Halldór Reynisson,Magnus Knapperholen,Marit Lillelien,Heidi Larsson Kleveland,"21/10,21/3",Halldór Reynisson,Magnus Knapperholen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Dirk Olivie,Ke Xie,Kristin Thømt,Bente Sotnes,"21/11,21/11",Dirk Olivie,Ke Xie
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Andreas Fagerås,Vishwavasu Soorly Nagaraj,Marit Lillelien,Heidi Larsson Kleveland,"21/14,21/18",Andreas Fagerås,Vishwavasu Soorly Nagaraj
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,Kristin Thømt,Bente Sotnes,"21/14,21/13",Riji Ameen Jainualabdeen,Vasanthan Nadarasah
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Simona Früh,Mei Yang,Malathy Subramaniam,Kalpana Stephen,"21/15,21/20",Simona Früh,Mei Yang
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Yngvild  Buraas,Kristine Bayona Dela Cruz,Rajee Makesan,Mary Sarmila Ladislaus,"21/11,21/14",Yngvild  Buraas,Kristine Bayona Dela Cruz
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Ragnhild Løvenskiold Grüner Husom,Siv Meland,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/14,21/11",Ragnhild Løvenskiold Grüner Husom,Siv Meland
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Simona Früh,Mei Yang,Ragnhild Løvenskiold Grüner Husom,Siv Meland,"21/14,21/20",Simona Früh,Mei Yang
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Yngvild  Buraas,Kristine Bayona Dela Cruz,Malathy Subramaniam,Kalpana Stephen,"21/13,21/19",Yngvild  Buraas,Kristine Bayona Dela Cruz
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Rajee Makesan,Mary Sarmila Ladislaus,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/15,21/15",Rajee Makesan,Mary Sarmila Ladislaus
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Simona Früh,Mei Yang,Rajee Makesan,Mary Sarmila Ladislaus,"21/7,21/8",Simona Früh,Mei Yang
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Yngvild  Buraas,Kristine Bayona Dela Cruz,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/10,21/9",Yngvild  Buraas,Kristine Bayona Dela Cruz
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Simona Früh,Mei Yang,Yngvild  Buraas,Kristine Bayona Dela Cruz,"21/12,21/15",Simona Früh,Mei Yang
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Malathy Subramaniam,Kalpana Stephen,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/9,21/12",Malathy Subramaniam,Kalpana Stephen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Ragnhild Løvenskiold Grüner Husom,Siv Meland,Rajee Makesan,Mary Sarmila Ladislaus,"21/10,21/16",Ragnhild Løvenskiold Grüner Husom,Siv Meland
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Pavithran Vijayakumaran,"22/20,22/20",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Karni Khan,"21/12,21/16",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Thomas Mortensen,"21/17,21/11",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Nazim Nordén,"21/11,21/15",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Karni Khan,,Vikas Kumar Sarna,"21/13,21/14",Karni Khan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Thomas Mortensen,,Xijiang Yu,"22/20,21/16",Thomas Mortensen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Espen Ditmansen,"21/11,21/17",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Xijiang Yu,,Vinn Quang Tran,"21/16,21/17",Xijiang Yu,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Vinn Quang Tran,"21/13,19/21,21/12",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Xijiang Yu,"15/21,21/14,21/16",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Karni Khan,,Espen Ditmansen,"15/21,21/14,21/18",Karni Khan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Espen Ditmansen,,Tore Hammerø,"21/9,21/11",Espen Ditmansen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Karni Khan,,Tore Hammerø,"21/9,21/12",Karni Khan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Thomas Mortensen,,Nazim Nordén,"15/21,21/17,24/22",Thomas Mortensen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Thomas Mortensen,,Christoffer Krogh,"21/9,19/21,21/15",Thomas Mortensen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Nazim Nordén,,Christoffer Krogh,"25/23,21/19",Nazim Nordén,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Vasanthan Nadarasah,"22/20,21/15",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Vikas Kumar Sarna,,Vasanthan Nadarasah,"21/19,21/13",Vikas Kumar Sarna,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Vikas Kumar Sarna,"21/17,21/13",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Pavithran Vijayakumaran,"22/20,22/20",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Karni Khan,"21/12,21/16",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Thomas Mortensen,"21/17,21/11",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Nazim Nordén,"21/11,21/15",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Karni Khan,,Vikas Kumar Sarna,"21/13,21/14",Karni Khan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Thomas Mortensen,,Xijiang Yu,"22/20,21/16",Thomas Mortensen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Espen Ditmansen,"21/11,21/17",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Xijiang Yu,,Vinn Quang Tran,"21/16,21/17",Xijiang Yu,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Vinn Quang Tran,"21/13,19/21,21/12",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kamrul Hasan,,Xijiang Yu,"15/21,21/14,21/16",Kamrul Hasan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Karni Khan,,Espen Ditmansen,"15/21,21/14,21/18",Karni Khan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Espen Ditmansen,,Tore Hammerø,"21/9,21/11",Espen Ditmansen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Karni Khan,,Tore Hammerø,"21/9,21/12",Karni Khan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Thomas Mortensen,,Nazim Nordén,"15/21,21/17,24/22",Thomas Mortensen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Thomas Mortensen,,Christoffer Krogh,"21/9,19/21,21/15",Thomas Mortensen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Nazim Nordén,,Christoffer Krogh,"25/23,21/19",Nazim Nordén,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Vasanthan Nadarasah,"22/20,21/15",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Vikas Kumar Sarna,,Vasanthan Nadarasah,"21/19,21/13",Vikas Kumar Sarna,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Pavithran Vijayakumaran,,Vikas Kumar Sarna,"21/17,21/13",Pavithran Vijayakumaran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Yngvild  Buraas,,Simona Früh,"21/17,21/11",Yngvild  Buraas,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kristine Bayona Dela Cruz,,Rajee Makesan,"21/3,21/13",Kristine Bayona Dela Cruz,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Kristine Bayona Dela Cruz,,Yngvild  Buraas,"21/20,21/12",Kristine Bayona Dela Cruz,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Simona Früh,,Rajee Makesan,"21/9,21/8",Simona Früh,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Simona Früh,,Kristine Bayona Dela Cruz,"21/19,21/16",Simona Früh,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,,Yngvild  Buraas,,Rajee Makesan,"21/5,21/13",Yngvild  Buraas,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Aude Dufrene,Espen Ditmansen,Simon Roland Birkvad,Mekki Lumio,"21/11,21/16",Aude Dufrene,Espen Ditmansen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Qiqing Gan,Xijiang Yu,Simon Roland Birkvad,Mekki Lumio,"21/17,21/18",Qiqing Gan,Xijiang Yu
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Qiqing Gan,Xijiang Yu,Aude Dufrene,Espen Ditmansen,"21/11,21/15",Qiqing Gan,Xijiang Yu
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Phong Lam,"21/8,21/5",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Bastien Barriere,,Kugathas Thas,"21/13,21/15",Bastien Barriere,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Bastien Barriere,"21/11,21/7",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Vegard Andersen,,Jørgen Thorp,"21/15,21/16",Vegard Andersen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Phong Lam,,Kugathas Thas,"21/20,21/19",Phong Lam,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Øivind Harket,,Vineeth Subramaniam,"21/8,21/15",Øivind Harket,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Vegard Andersen,"21/17,21/12",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Øivind Harket,,Frank Oddvar Nygård,"21/10,21/18",Øivind Harket,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Andreas Thorp,,Bastien Barriere,"21/15,21/15",Andreas Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Jørgen Thorp,,Phong Lam,"21/14,21/14",Jørgen Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Andreas Thorp,,Jørgen Thorp,"21/16,21/20",Andreas Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Vegard Andersen,,Bastien Barriere,"21/17,21/13",Vegard Andersen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Frank Oddvar Nygård,,Kugathas Thas,"21/16,21/14",Frank Oddvar Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Phong Lam,,Vineeth Subramaniam,"21/16,21/14",Phong Lam,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Andreas Thorp,"21/16,21/12",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Øivind Harket,,Vegard Andersen,"21/15,21/10",Øivind Harket,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Frank Oddvar Nygård,,Phong Lam,"21/17,21/6",Frank Oddvar Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Jørgen Thorp,,Kugathas Thas,"21/19,21/9",Jørgen Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Bastien Barriere,,Vineeth Subramaniam,"21/7,21/15",Bastien Barriere,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Phong Lam,"21/8,21/5",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Bastien Barriere,,Kugathas Thas,"21/13,21/15",Bastien Barriere,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Bastien Barriere,"21/11,21/7",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Vegard Andersen,,Jørgen Thorp,"21/15,21/16",Vegard Andersen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Phong Lam,,Kugathas Thas,"21/20,21/19",Phong Lam,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Øivind Harket,,Vineeth Subramaniam,"21/8,21/15",Øivind Harket,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Vegard Andersen,"21/17,21/12",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Øivind Harket,,Frank Oddvar Nygård,"21/10,21/18",Øivind Harket,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Andreas Thorp,,Bastien Barriere,"21/15,21/15",Andreas Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Jørgen Thorp,,Phong Lam,"21/14,21/14",Jørgen Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Andreas Thorp,,Jørgen Thorp,"21/16,21/20",Andreas Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Vegard Andersen,,Bastien Barriere,"21/17,21/13",Vegard Andersen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Frank Oddvar Nygård,,Kugathas Thas,"21/16,21/14",Frank Oddvar Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Phong Lam,,Vineeth Subramaniam,"21/16,21/14",Phong Lam,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Tom Kasperski,,Andreas Thorp,"21/16,21/12",Tom Kasperski,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Øivind Harket,,Vegard Andersen,"21/15,21/10",Øivind Harket,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Frank Oddvar Nygård,,Phong Lam,"21/17,21/6",Frank Oddvar Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Jørgen Thorp,,Kugathas Thas,"21/19,21/9",Jørgen Thorp,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,,Bastien Barriere,,Vineeth Subramaniam,"21/7,21/15",Bastien Barriere,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Tom Kasperski,Paul Schubert,Hallvard Storkaas,Christoffer Krogh,"21/7,21/19",Tom Kasperski,Paul Schubert
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Kugathas Thas,Palany Subramaniam,Cheron Stephen,Mervin Joseph,"21/15,21/17",Kugathas Thas,Palany Subramaniam
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Anders Åge Naglestad,Frode Lamøy,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/18,21/8",Anders Åge Naglestad,Frode Lamøy
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Tom Kasperski,Paul Schubert,Cheron Stephen,Mervin Joseph,"21/15,21/13",Tom Kasperski,Paul Schubert
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Hallvard Storkaas,Christoffer Krogh,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/15,21/11",Hallvard Storkaas,Christoffer Krogh
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Tom Kasperski,Paul Schubert,Anders Åge Naglestad,Frode Lamøy,"21/7,21/13",Tom Kasperski,Paul Schubert
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Cheron Stephen,Mervin Joseph,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/9,21/17",Cheron Stephen,Mervin Joseph
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Tom Kasperski,Paul Schubert,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/9,21/12",Tom Kasperski,Paul Schubert
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Bjørn Hamang,Bente Sotnes,"21/13,21/13",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Elise Lærkerød Jelsness,Marius Sørby,Petter Tryland Laheld,Simona Früh,"21/14,21/18",Elise Lærkerød Jelsness,Marius Sørby
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Kristin Thømt,Tommy Helander,Anja Olsen,Adrian Alvarez Resa,"21/16,21/16",Kristin Thømt,Tommy Helander
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Marius Røed,Malin Andersson,"21/9,21/13",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Bjørn Hamang,Bente Sotnes,Joel Collard,Marit Lillelien,"21/18,21/20",Bjørn Hamang,Bente Sotnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Elise Lærkerød Jelsness,Marius Sørby,Anja Olsen,Adrian Alvarez Resa,"21/20,21/9",Elise Lærkerød Jelsness,Marius Sørby
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Marius Røed,Malin Andersson,Petter Tryland Laheld,Simona Früh,"21/14,21/7",Marius Røed,Malin Andersson
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Kristin Thømt,Tommy Helander,Elise Lærkerød Jelsness,Marius Sørby,"21/20,21/19",Kristin Thømt,Tommy Helander
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Bjørn Hamang,Bente Sotnes,Anja Olsen,Adrian Alvarez Resa,"21/16,21/14",Bjørn Hamang,Bente Sotnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Marius Røed,Malin Andersson,Bjørn Hamang,Bente Sotnes,"21/15,21/14",Marius Røed,Malin Andersson
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Kristin Thømt,Tommy Helander,"21/15,21/14",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Petter Tryland Laheld,Simona Früh,Anja Olsen,Adrian Alvarez Resa,"21/18,21/11",Petter Tryland Laheld,Simona Früh
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Joel Collard,Marit Lillelien,Elise Lærkerød Jelsness,Marius Sørby,"21/12,21/18",Joel Collard,Marit Lillelien
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Shravan Ramkumar,,Cristiano Berger,"21/8,21/8",Shravan Ramkumar,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Elisabeth Wittusen,,Cristiano Berger,"21/12,21/8",Elisabeth Wittusen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Cristiano Berger,,Abiramy Kokilan,"21/5,21/11",Cristiano Berger,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Shravan Ramkumar,,Elisabeth Wittusen,"21/13,21/10",Shravan Ramkumar,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Abiramy Kokilan,,Elisabeth Wittusen,"21/16,21/18",Abiramy Kokilan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Shravan Ramkumar,,Cristiano Berger,"21/8,21/8",Shravan Ramkumar,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Elisabeth Wittusen,,Cristiano Berger,"21/12,21/8",Elisabeth Wittusen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Cristiano Berger,,Abiramy Kokilan,"21/5,21/11",Cristiano Berger,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Shravan Ramkumar,,Elisabeth Wittusen,"21/13,21/10",Shravan Ramkumar,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,,Abiramy Kokilan,,Elisabeth Wittusen,"21/16,21/18",Abiramy Kokilan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Bjørn Hamang,Bente Sotnes,"21/13,21/13",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Elise Lærkerød Jelsness,Marius Sørby,Petter Tryland Laheld,Simona Früh,"21/14,21/18",Elise Lærkerød Jelsness,Marius Sørby
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Kristin Thømt,Tommy Helander,Anja Olsen,Adrian Alvarez Resa,"21/16,21/16",Kristin Thømt,Tommy Helander
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Marius Røed,Malin Andersson,"21/9,21/13",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Bjørn Hamang,Bente Sotnes,Joel Collard,Marit Lillelien,"21/18,21/20",Bjørn Hamang,Bente Sotnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Elise Lærkerød Jelsness,Marius Sørby,Anja Olsen,Adrian Alvarez Resa,"21/20,21/9",Elise Lærkerød Jelsness,Marius Sørby
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Marius Røed,Malin Andersson,Petter Tryland Laheld,Simona Früh,"21/14,21/7",Marius Røed,Malin Andersson
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Kristin Thømt,Tommy Helander,Elise Lærkerød Jelsness,Marius Sørby,"21/20,21/19",Kristin Thømt,Tommy Helander
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Bjørn Hamang,Bente Sotnes,Anja Olsen,Adrian Alvarez Resa,"21/16,21/14",Bjørn Hamang,Bente Sotnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Marius Røed,Malin Andersson,Bjørn Hamang,Bente Sotnes,"21/15,21/14",Marius Røed,Malin Andersson
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Arben Holstad,Jeanette Svendsen,Kristin Thømt,Tommy Helander,"21/15,21/14",Arben Holstad,Jeanette Svendsen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Petter Tryland Laheld,Simona Früh,Anja Olsen,Adrian Alvarez Resa,"21/18,21/11",Petter Tryland Laheld,Simona Früh
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Joel Collard,Marit Lillelien,Elise Lærkerød Jelsness,Marius Sørby,"21/12,21/18",Joel Collard,Marit Lillelien
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Magnus Linderoth,"21/10,21/15",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mikkel Grevsnes,,Agarna Kokilan,"21/10,21/15",Mikkel Grevsnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Yatin Mehta,,Vetle Bolstad,"21/12,21/11",Yatin Mehta,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Christian Tombre,"21/13,21/10",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Audun JS Nyquist,,Benjamin Hagberg-Olsen,"21/17,21/11",Audun JS Nyquist,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adit Sharma,,Adam Tollisen Leyland,"21/18,21/18",Adit Sharma,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Yatin Mehta,"21/13,21/9",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Mikkel Grevsnes,"21/8,21/16",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adit Sharma,,Audun JS Nyquist,"21/6,21/10",Adit Sharma,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adam Tollisen Leyland,,Benjamin Hagberg-Olsen,"21/12,21/12",Adam Tollisen Leyland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Magnus Linderoth,,Agarna Kokilan,"21/10,21/3",Magnus Linderoth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Christian Tombre,,Vetle Bolstad,"21/10,21/14",Christian Tombre,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adam Tollisen Leyland,,Christian Tombre,"21/18,21/16",Adam Tollisen Leyland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mikkel Grevsnes,,Yatin Mehta,"21/13,21/20",Mikkel Grevsnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Audun JS Nyquist,,Vetle Bolstad,"21/14,21/7",Audun JS Nyquist,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Agarna Kokilan,,Benjamin Hagberg-Olsen,"21/18,21/15",Agarna Kokilan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Adit Sharma,"21/16,21/18",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Adam Tollisen Leyland,"21/12,21/13",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mikkel Grevsnes,,Audun JS Nyquist,"21/20,21/19",Mikkel Grevsnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Magnus Linderoth,,Christian Tombre,"21/10,21/4",Magnus Linderoth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Vetle Bolstad,,Benjamin Hagberg-Olsen,"21/16,21/18",Vetle Bolstad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Mikkel Grevsnes,"21/10,21/12",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Audun JS Nyquist,"21/5,21/8",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Magnus Linderoth,,Adam Tollisen Leyland,"21/10,21/13",Magnus Linderoth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adit Sharma,,Yatin Mehta,"21/4,21/11",Adit Sharma,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Agarna Kokilan,,Vetle Bolstad,"21/16,21/10",Agarna Kokilan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Christian Tombre,,Benjamin Hagberg-Olsen,"21/13,21/20",Christian Tombre,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Magnus Linderoth,"21/10,21/15",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mikkel Grevsnes,,Agarna Kokilan,"21/10,21/15",Mikkel Grevsnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Yatin Mehta,,Vetle Bolstad,"21/12,21/11",Yatin Mehta,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Christian Tombre,"21/13,21/10",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Audun JS Nyquist,,Benjamin Hagberg-Olsen,"21/17,21/11",Audun JS Nyquist,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adit Sharma,,Adam Tollisen Leyland,"21/18,21/18",Adit Sharma,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Yatin Mehta,"21/13,21/9",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Mikkel Grevsnes,"21/8,21/16",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adit Sharma,,Audun JS Nyquist,"21/6,21/10",Adit Sharma,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adam Tollisen Leyland,,Benjamin Hagberg-Olsen,"21/12,21/12",Adam Tollisen Leyland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Magnus Linderoth,,Agarna Kokilan,"21/10,21/3",Magnus Linderoth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Christian Tombre,,Vetle Bolstad,"21/10,21/14",Christian Tombre,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adam Tollisen Leyland,,Christian Tombre,"21/18,21/16",Adam Tollisen Leyland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mikkel Grevsnes,,Yatin Mehta,"21/13,21/20",Mikkel Grevsnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Audun JS Nyquist,,Vetle Bolstad,"21/14,21/7",Audun JS Nyquist,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Agarna Kokilan,,Benjamin Hagberg-Olsen,"21/18,21/15",Agarna Kokilan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Adit Sharma,"21/16,21/18",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Adam Tollisen Leyland,"21/12,21/13",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mikkel Grevsnes,,Audun JS Nyquist,"21/20,21/19",Mikkel Grevsnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Magnus Linderoth,,Christian Tombre,"21/10,21/4",Magnus Linderoth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Vetle Bolstad,,Benjamin Hagberg-Olsen,"21/16,21/18",Vetle Bolstad,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Eirik Tryland Laheld,,Mikkel Grevsnes,"21/10,21/12",Eirik Tryland Laheld,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Mathias Wong,,Audun JS Nyquist,"21/5,21/8",Mathias Wong,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Magnus Linderoth,,Adam Tollisen Leyland,"21/10,21/13",Magnus Linderoth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Adit Sharma,,Yatin Mehta,"21/4,21/11",Adit Sharma,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Agarna Kokilan,,Vetle Bolstad,"21/16,21/10",Agarna Kokilan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Christian Tombre,,Benjamin Hagberg-Olsen,"21/13,21/20",Christian Tombre,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Nancy Hang,,Milla Maevski,"21/10,21/6",Nancy Hang,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Victoria Heiberg,,Rebecca Haukebøe,"21/13,21/12",Victoria Heiberg,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Sofie Jin Reistadbakk,,Nancy Hang,"21/13,21/14",Sofie Jin Reistadbakk,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Emilie Lie Cook,,Rebecca Haukebøe,"21/16,21/6",Emilie Lie Cook,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Emma Yasmin Ruud,,Milla Maevski,"21/8,21/7",Emma Yasmin Ruud,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Sofie Jin Reistadbakk,,Emma Yasmin Ruud,"21/11,21/15",Sofie Jin Reistadbakk,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Emilie Lie Cook,,Nancy Hang,"21/17,21/11",Emilie Lie Cook,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Victoria Heiberg,,Milla Maevski,"21/16,21/17",Victoria Heiberg,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,,Sofie Jin Reistadbakk,,Victoria Heiberg,"21/5,21/6",Sofie Jin Reistadbakk,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Audun JS Nyquist,Cristiano Berger,Bernard Stokke-Ditmansen,Benedikt Diab,"21/20,21/13",Audun JS Nyquist,Cristiano Berger
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Magnus Linderoth,Eirik Tryland Laheld,Bernard Stokke-Ditmansen,Benedikt Diab,"21/2,21/8",Magnus Linderoth,Eirik Tryland Laheld
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Magnus Linderoth,Eirik Tryland Laheld,Audun JS Nyquist,Cristiano Berger,"21/5,21/17",Magnus Linderoth,Eirik Tryland Laheld
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Yatin Mehta,Adam Tollisen Leyland,Bernard Stokke-Ditmansen,Benedikt Diab,"21/13,21/5",Yatin Mehta,Adam Tollisen Leyland
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Magnus Linderoth,Eirik Tryland Laheld,Vetle Bolstad,Didrik Alexander Poppe,"21/1,21/14",Magnus Linderoth,Eirik Tryland Laheld
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Yatin Mehta,Adam Tollisen Leyland,Audun JS Nyquist,Cristiano Berger,"21/5,21/3",Yatin Mehta,Adam Tollisen Leyland
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Magnus Linderoth,Eirik Tryland Laheld,Yatin Mehta,Adam Tollisen Leyland,"21/15,21/5",Magnus Linderoth,Eirik Tryland Laheld
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Aksel Victor Sanchis,,Bernard Stokke-Ditmansen,"21/18,21/13",Aksel Victor Sanchis,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Qianyang Gan,"21/15,21/20",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Linus Nordal,,Bernard Stokke-Ditmansen,"21/5,22/20",Linus Nordal,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Rikash Reginold,,Didrik Alexander Poppe,"21/18,21/18",Rikash Reginold,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Elisabeth Roos,,Rithik Jeeva,"21/14,21/12",Elisabeth Roos,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Linus Nordal,"21/17,21/13",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Elisabeth Roos,,Aksel Victor Sanchis,"21/17,21/15",Elisabeth Roos,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Rikash Reginold,"21/8,21/19",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Elisabeth Roos,"21/19,21/16",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Aksel Victor Sanchis,"21/9,21/11",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Rikash Reginold,,Rithik Jeeva,"21/9,21/17",Rikash Reginold,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Didrik Alexander Poppe,,Bernard Stokke-Ditmansen,"21/16,21/17",Didrik Alexander Poppe,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Didrik Alexander Poppe,"21/11,21/18",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Rithik Jeeva,"21/10,21/13",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Didrik Alexander Poppe,"21/18,21/16",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Elisabeth Roos,"21/11,21/17",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Linus Nordal,,Aksel Victor Sanchis,"21/17,21/16",Linus Nordal,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Bernard Stokke-Ditmansen,,Rithik Jeeva,"21/16,21/9",Bernard Stokke-Ditmansen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Linus Nordal,,Rikash Reginold,"21/20,21/19",Linus Nordal,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Aksel Victor Sanchis,,Bernard Stokke-Ditmansen,"21/18,21/13",Aksel Victor Sanchis,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Qianyang Gan,"21/15,21/20",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Linus Nordal,,Bernard Stokke-Ditmansen,"21/5,22/20",Linus Nordal,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Rikash Reginold,,Didrik Alexander Poppe,"21/18,21/18",Rikash Reginold,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Elisabeth Roos,,Rithik Jeeva,"21/14,21/12",Elisabeth Roos,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Linus Nordal,"21/17,21/13",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Elisabeth Roos,,Aksel Victor Sanchis,"21/17,21/15",Elisabeth Roos,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Rikash Reginold,"21/8,21/19",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Elisabeth Roos,"21/19,21/16",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Aksel Victor Sanchis,"21/9,21/11",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Rikash Reginold,,Rithik Jeeva,"21/9,21/17",Rikash Reginold,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Didrik Alexander Poppe,,Bernard Stokke-Ditmansen,"21/16,21/17",Didrik Alexander Poppe,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Didrik Alexander Poppe,"21/11,21/18",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Rithik Jeeva,"21/10,21/13",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Benedikt Diab,,Didrik Alexander Poppe,"21/18,21/16",Benedikt Diab,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Qianyang Gan,,Elisabeth Roos,"21/11,21/17",Qianyang Gan,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Linus Nordal,,Aksel Victor Sanchis,"21/17,21/16",Linus Nordal,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Bernard Stokke-Ditmansen,,Rithik Jeeva,"21/16,21/9",Bernard Stokke-Ditmansen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,,Linus Nordal,,Rikash Reginold,"21/20,21/19",Linus Nordal,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Petter Ormstad Olsen,"21/5,21/6",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Eivind Engeseth,,Mattis Olsen Berg,"21/14,21/10",Eivind Engeseth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Haakon Lærkerød Jelsness,,Kristian I Birkeland,"21/8,21/16",Haakon Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Ziyue Wei,,Philip Allport Fossum,"21/9,21/18",Ziyue Wei,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Armand Bruun,,Kristian I Birkeland,"21/11,21/1",Armand Bruun,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Haakon Lærkerød Jelsness,"21/11,21/6",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Eivind Engeseth,"21/11,21/10",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Armand Bruun,,Marius Nybøe,"21/16,21/10",Armand Bruun,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Zhongyan Yu,,Håvard Idås,"21/7,21/10",Zhongyan Yu,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Philip Allport Fossum,,Mattis Olsen Berg,"21/10,21/12",Philip Allport Fossum,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristian I Birkeland,,Petter Ormstad Olsen,"21/15,21/13",Kristian I Birkeland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Zhongyan Yu,"21/13,21/11",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Armand Bruun,"21/16,21/11",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Eivind Engeseth,,Ziyue Wei,"21/14,21/20",Eivind Engeseth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Marius Nybøe,,Håvard Idås,"21/13,21/20",Marius Nybøe,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Eivind Engeseth,"21/11,21/10",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Philip Allport Fossum,"21/11,21/9",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Zhongyan Yu,,Marius Nybøe,"21/9,21/7",Zhongyan Yu,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Haakon Lærkerød Jelsness,,Petter Ormstad Olsen,"21/19,21/7",Haakon Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Armand Bruun,"21/10,21/10",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Petter Ormstad Olsen,"21/5,21/6",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Eivind Engeseth,,Mattis Olsen Berg,"21/14,21/10",Eivind Engeseth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Haakon Lærkerød Jelsness,,Kristian I Birkeland,"21/8,21/16",Haakon Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Ziyue Wei,,Philip Allport Fossum,"21/9,21/18",Ziyue Wei,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Armand Bruun,,Kristian I Birkeland,"21/11,21/1",Armand Bruun,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Haakon Lærkerød Jelsness,"21/11,21/6",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Eivind Engeseth,"21/11,21/10",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Armand Bruun,,Marius Nybøe,"21/16,21/10",Armand Bruun,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Zhongyan Yu,,Håvard Idås,"21/7,21/10",Zhongyan Yu,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Philip Allport Fossum,,Mattis Olsen Berg,"21/10,21/12",Philip Allport Fossum,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristian I Birkeland,,Petter Ormstad Olsen,"21/15,21/13",Kristian I Birkeland,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Zhongyan Yu,"21/13,21/11",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Armand Bruun,"21/16,21/11",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Eivind Engeseth,,Ziyue Wei,"21/14,21/20",Eivind Engeseth,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Marius Nybøe,,Håvard Idås,"21/13,21/20",Marius Nybøe,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Eivind Engeseth,"21/11,21/10",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Aleksander Jakovlevs,,Philip Allport Fossum,"21/11,21/9",Aleksander Jakovlevs,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Zhongyan Yu,,Marius Nybøe,"21/9,21/7",Zhongyan Yu,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Haakon Lærkerød Jelsness,,Petter Ormstad Olsen,"21/19,21/7",Haakon Lærkerød Jelsness,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Bjørn Deron,,Armand Bruun,"21/10,21/10",Bjørn Deron,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Marlen Nygård,"21/16,21/13",Kristine  Grande Ødegårdstuen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Ingunn Sunde,,Inger Russnes,"21/11,21/15",Ingunn Sunde,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Mina Korssund,,Linnea Cecilie Sørlie,"21/5,21/10",Mina Korssund,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Nicoline Wærsten,,Tine Bjønness-Jacobsen,"21/7,21/11",Nicoline Wærsten,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Leyla Eleonora Destefanis,,Amalie Theil,"21/13,21/13",Leyla Eleonora Destefanis,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Ingunn Sunde,,Leyla Eleonora Destefanis,"21/15,21/14",Ingunn Sunde,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Emilie Haukebøe,"21/9,21/8",Kristine  Grande Ødegårdstuen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Marlen Nygård,,Ragne Russnes,"21/6,21/7",Marlen Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Inger Russnes,,Amalie Theil,"21/8,21/16",Inger Russnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Tine Bjønness-Jacobsen,,Linnea Cecilie Sørlie,"21/14,21/16",Tine Bjønness-Jacobsen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Ingunn Sunde,"21/11,21/12",Kristine  Grande Ødegårdstuen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Marlen Nygård,,Mina Korssund,"21/10,21/9",Marlen Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Nicoline Wærsten,,Leyla Eleonora Destefanis,"21/8,21/7",Nicoline Wærsten,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Inger Russnes,,Tine Bjønness-Jacobsen,"21/16,21/20",Inger Russnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Emilie Haukebøe,,Amalie Theil,"21/15,21/10",Emilie Haukebøe,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Ragne Russnes,,Linnea Cecilie Sørlie,"21/14,21/10",Ragne Russnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Nicoline Wærsten,"21/9,21/8",Kristine  Grande Ødegårdstuen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Marlen Nygård,,Ingunn Sunde,"21/14,21/9",Marlen Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Mina Korssund,,Inger Russnes,"21/11,21/7",Mina Korssund,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Amalie Theil,,Linnea Cecilie Sørlie,"21/16,21/10",Amalie Theil,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Mina Korssund,"21/11,21/6",Kristine  Grande Ødegårdstuen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Marlen Nygård,,Nicoline Wærsten,"21/11,21/7",Marlen Nygård,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Ingunn Sunde,,Emilie Haukebøe,"21/16,21/4",Ingunn Sunde,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Inger Russnes,,Ragne Russnes,"21/14,21/15",Inger Russnes,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,,Linnea Cecilie Sørlie,,Leyla Eleonora Destefanis,"21/19,21/18",Linnea Cecilie Sørlie,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mina Korssund,Nicoline Wærsten,Leyla Eleonora Destefanis,Ragne Russnes,"21/12,21/4",Mina Korssund,Nicoline Wærsten
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Emilie Haukebøe,Inger Russnes,Nancy Hang,Rebecca Haukebøe,"21/9,21/15",Emilie Haukebøe,Inger Russnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,"21/16,21/15",Sofie Jin Reistadbakk,Emma Yasmin Ruud
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mina Korssund,Nicoline Wærsten,Sofie Jin Reistadbakk,Emma Yasmin Ruud,"21/10,21/18",Mina Korssund,Nicoline Wærsten
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Emilie Haukebøe,Inger Russnes,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,"21/6,21/12",Emilie Haukebøe,Inger Russnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Leyla Eleonora Destefanis,Ragne Russnes,Nancy Hang,Rebecca Haukebøe,"21/16,21/7",Leyla Eleonora Destefanis,Ragne Russnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mina Korssund,Nicoline Wærsten,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,"21/4,21/7",Mina Korssund,Nicoline Wærsten
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Nancy Hang,Rebecca Haukebøe,"21/12,21/8",Sofie Jin Reistadbakk,Emma Yasmin Ruud
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Emilie Haukebøe,Inger Russnes,Leyla Eleonora Destefanis,Ragne Russnes,"21/20,21/8",Emilie Haukebøe,Inger Russnes
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mina Korssund,Nicoline Wærsten,Emilie Haukebøe,Inger Russnes,"21/17,21/7",Mina Korssund,Nicoline Wærsten
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,Nancy Hang,Rebecca Haukebøe,"21/19,21/16",Linnea Cecilie Sørlie,Vilma Aasheim-Engen
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Jonas H. Lofthaug,"21/10,21/8",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Max Hjorth-Milne,"21/9,21/14",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Simen Yndesdal Torgersen,,Oddbjørn Valsø-Jørgensen,"21/12,21/14",Simen Yndesdal Torgersen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Simen Yndesdal Torgersen,"21/18,21/16",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Ruben Nissen Molvær,,Oddbjørn Valsø-Jørgensen,"21/16,21/8",Ruben Nissen Molvær,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Ruben Nissen Molvær,"21/9,21/14",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Jonas H. Lofthaug,,Simen Yndesdal Torgersen,"21/18,21/10",Jonas H. Lofthaug,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Jonas H. Lofthaug,"21/10,21/8",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Max Hjorth-Milne,"21/9,21/14",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Simen Yndesdal Torgersen,,Oddbjørn Valsø-Jørgensen,"21/12,21/14",Simen Yndesdal Torgersen,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Simen Yndesdal Torgersen,"21/18,21/16",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Ruben Nissen Molvær,,Oddbjørn Valsø-Jørgensen,"21/16,21/8",Ruben Nissen Molvær,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Nghia Dinh Tran,,Ruben Nissen Molvær,"21/9,21/14",Nghia Dinh Tran,
-2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,,Jonas H. Lofthaug,,Simen Yndesdal Torgersen,"21/18,21/10",Jonas H. Lofthaug,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Arben Holstad,Jeanette Svendsen,Bjørn Hamang,Bente Sotnes,"21/13,21/13",Arben Holstad,Jeanette Svendsen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Elise Lærkerød Jelsness,Marius Sørby,Petter Tryland Laheld,Simona Früh,"21/14,21/18",Elise Lærkerød Jelsness,Marius Sørby
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Kristin Thømt,Tommy Helander,Anja Olsen,Adrian Alvarez Resa,"21/16,21/16",Kristin Thømt,Tommy Helander
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Arben Holstad,Jeanette Svendsen,Marius Røed,Malin Andersson,"21/9,21/13",Arben Holstad,Jeanette Svendsen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Bjørn Hamang,Bente Sotnes,Joel Collard,Marit Lillelien,"21/18,21/20",Bjørn Hamang,Bente Sotnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Elise Lærkerød Jelsness,Marius Sørby,Anja Olsen,Adrian Alvarez Resa,"21/20,21/9",Elise Lærkerød Jelsness,Marius Sørby
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Marius Røed,Malin Andersson,Petter Tryland Laheld,Simona Früh,"21/14,21/7",Marius Røed,Malin Andersson
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Kristin Thømt,Tommy Helander,Elise Lærkerød Jelsness,Marius Sørby,"21/20,21/19",Kristin Thømt,Tommy Helander
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Bjørn Hamang,Bente Sotnes,Anja Olsen,Adrian Alvarez Resa,"21/16,21/14",Bjørn Hamang,Bente Sotnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Marius Røed,Malin Andersson,Bjørn Hamang,Bente Sotnes,"21/15,21/14",Marius Røed,Malin Andersson
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Arben Holstad,Jeanette Svendsen,Kristin Thømt,Tommy Helander,"21/15,21/14",Arben Holstad,Jeanette Svendsen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Petter Tryland Laheld,Simona Früh,Anja Olsen,Adrian Alvarez Resa,"21/18,21/11",Petter Tryland Laheld,Simona Früh
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN E,Mixeddouble,Joel Collard,Marit Lillelien,Elise Lærkerød Jelsness,Marius Sørby,"21/12,21/18",Joel Collard,Marit Lillelien
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herresingle,,Arben Holstad,,Marius Sørby,"21/9,21/7",Arben Holstad,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herresingle,,Petter Tryland Laheld,,Marius Edwards,"21/4,21/5",Petter Tryland Laheld,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herresingle,,Arben Holstad,,Petter Tryland Laheld,"21/14,21/20",Arben Holstad,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herresingle,,Petter Tryland Laheld,,Marius Sørby,"21/10,21/15",Petter Tryland Laheld,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Arben Holstad,Joel Collard,Marius Sørby,Adrian Alvarez Resa,"21/8,21/10",Arben Holstad,Joel Collard
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Tommy Helander,Bjørn Hamang,David Wong,Ram Kumar,"21/13,21/16",Tommy Helander,Bjørn Hamang
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Advait Mital,Petter Tryland Laheld,Elise Lærkerød Jelsness,Marius Røed,"21/17,21/17",Advait Mital,Petter Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Arben Holstad,Joel Collard,Advait Mital,Petter Tryland Laheld,"21/6,21/14",Arben Holstad,Joel Collard
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,David Wong,Ram Kumar,Elise Lærkerød Jelsness,Marius Røed,"21/11,21/4",David Wong,Ram Kumar
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Tommy Helander,Bjørn Hamang,Marius Sørby,Adrian Alvarez Resa,"21/9,21/19",Tommy Helander,Bjørn Hamang
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Advait Mital,Petter Tryland Laheld,Marius Sørby,Adrian Alvarez Resa,"21/13,21/19",Advait Mital,Petter Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Arben Holstad,Joel Collard,Tommy Helander,Bjørn Hamang,"21/20,21/12",Arben Holstad,Joel Collard
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,Marius Sørby,Adrian Alvarez Resa,Elise Lærkerød Jelsness,Marius Røed,"21/20,21/19",Marius Sørby,Adrian Alvarez Resa
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN A,Herredouble,David Wong,Ram Kumar,Advait Mital,Petter Tryland Laheld,"21/18,21/16",David Wong,Ram Kumar
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Magnus Knapperholen,,Vishwavasu Soorly Nagaraj,"21/19,21/17",Magnus Knapperholen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Magnus Knapperholen,,Marius Imset,"21/13,9/21,21/12",Magnus Knapperholen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Vishwavasu Soorly Nagaraj,,Elise Lærkerød Jelsness,"21/8,23/21",Vishwavasu Soorly Nagaraj,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Magnus Knapperholen,,Heidi Larsson Kleveland,"21/9,21/15",Magnus Knapperholen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Marius Imset,,Simon Roland Birkvad,"21/10,21/12",Marius Imset,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Elise Lærkerød Jelsness,,Dirk Olivie,"21/18,21/16",Elise Lærkerød Jelsness,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Vishwavasu Soorly Nagaraj,,Adrian Alvarez Resa,"21/19,18/21,21/13",Vishwavasu Soorly Nagaraj,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Dirk Olivie,,Knut Lyngstad,"21/10,21/14",Dirk Olivie,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Magnus Knapperholen,,Knut Lyngstad,"21/14,21/16",Magnus Knapperholen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Magnus Knapperholen,,Dirk Olivie,"21/14,21/11",Magnus Knapperholen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Riji Ameen Jainualabdeen,,Qiqing Gan,"16/21,21/17,23/21",Riji Ameen Jainualabdeen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Marius Imset,,Qiqing Gan,"21/16,21/13",Marius Imset,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Adrian Alvarez Resa,,Riji Ameen Jainualabdeen,"19/21,23/21,21/15",Adrian Alvarez Resa,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Marius Imset,,Adrian Alvarez Resa,"21/8,19/21,21/19",Marius Imset,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Adrian Alvarez Resa,,Qiqing Gan,"21/19,21/17",Adrian Alvarez Resa,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Marius Imset,,Riji Ameen Jainualabdeen,"21/14,21/6",Marius Imset,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Heidi Larsson Kleveland,,Rishi Arvind Phatak,"21/18,21/19",Heidi Larsson Kleveland,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Elise Lærkerød Jelsness,,Vidar Vikhagen,"21/12,21/12",Elise Lærkerød Jelsness,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Heidi Larsson Kleveland,,Vidar Vikhagen,"21/5,21/15",Heidi Larsson Kleveland,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Elise Lærkerød Jelsness,,Heidi Larsson Kleveland,"21/17,21/16",Elise Lærkerød Jelsness,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Rishi Arvind Phatak,,Vidar Vikhagen,"21/12,21/11",Rishi Arvind Phatak,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Elise Lærkerød Jelsness,,Rishi Arvind Phatak,"21/19,19/21,21/16",Elise Lærkerød Jelsness,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Vishwavasu Soorly Nagaraj,,Simon Roland Birkvad,"21/11,21/12",Vishwavasu Soorly Nagaraj,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Vishwavasu Soorly Nagaraj,,Andreas Fagerås,"21/9,21/9",Vishwavasu Soorly Nagaraj,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herresingle,,Simon Roland Birkvad,,Andreas Fagerås,"21/12,21/18",Simon Roland Birkvad,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Halldór Reynisson,Magnus Knapperholen,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/15,21/10",Halldór Reynisson,Magnus Knapperholen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Dirk Olivie,Ke Xie,Marit Lillelien,Heidi Larsson Kleveland,"21/13,21/17",Dirk Olivie,Ke Xie
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Andreas Fagerås,Vishwavasu Soorly Nagaraj,Kristin Thømt,Bente Sotnes,"21/17,21/6",Andreas Fagerås,Vishwavasu Soorly Nagaraj
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Halldór Reynisson,Magnus Knapperholen,Andreas Fagerås,Vishwavasu Soorly Nagaraj,"21/8,21/10",Halldór Reynisson,Magnus Knapperholen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Dirk Olivie,Ke Xie,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/12,21/14",Dirk Olivie,Ke Xie
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Andreas Fagerås,Vishwavasu Soorly Nagaraj,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/15,21/6",Andreas Fagerås,Vishwavasu Soorly Nagaraj
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Halldór Reynisson,Magnus Knapperholen,Marit Lillelien,Heidi Larsson Kleveland,"21/10,21/3",Halldór Reynisson,Magnus Knapperholen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Dirk Olivie,Ke Xie,Kristin Thømt,Bente Sotnes,"21/11,21/11",Dirk Olivie,Ke Xie
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Andreas Fagerås,Vishwavasu Soorly Nagaraj,Marit Lillelien,Heidi Larsson Kleveland,"21/14,21/18",Andreas Fagerås,Vishwavasu Soorly Nagaraj
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Herredouble,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,Kristin Thømt,Bente Sotnes,"21/14,21/13",Riji Ameen Jainualabdeen,Vasanthan Nadarasah
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Simona Früh,Mei Yang,Malathy Subramaniam,Kalpana Stephen,"21/15,21/20",Simona Früh,Mei Yang
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Yngvild Buraas,Kristine Bayona Dela Cruz,Rajee Makesan,Mary Sarmila Ladislaus,"21/11,21/14",Yngvild Buraas,Kristine Bayona Dela Cruz
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Ragnhild Løvenskiold Grüner Husom,Siv Meland,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/14,21/11",Ragnhild Løvenskiold Grüner Husom,Siv Meland
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Simona Früh,Mei Yang,Ragnhild Løvenskiold Grüner Husom,Siv Meland,"21/14,21/20",Simona Früh,Mei Yang
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Yngvild Buraas,Kristine Bayona Dela Cruz,Malathy Subramaniam,Kalpana Stephen,"21/13,21/19",Yngvild Buraas,Kristine Bayona Dela Cruz
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Rajee Makesan,Mary Sarmila Ladislaus,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/15,21/15",Rajee Makesan,Mary Sarmila Ladislaus
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Simona Früh,Mei Yang,Rajee Makesan,Mary Sarmila Ladislaus,"21/7,21/8",Simona Früh,Mei Yang
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Yngvild Buraas,Kristine Bayona Dela Cruz,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/10,21/9",Yngvild Buraas,Kristine Bayona Dela Cruz
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Simona Früh,Mei Yang,Yngvild Buraas,Kristine Bayona Dela Cruz,"21/12,21/15",Simona Früh,Mei Yang
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Malathy Subramaniam,Kalpana Stephen,Embla Gjøstein Resi,Ingrid Beate Østberg,"21/9,21/12",Malathy Subramaniam,Kalpana Stephen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Damedouble,Ragnhild Løvenskiold Grüner Husom,Siv Meland,Rajee Makesan,Mary Sarmila Ladislaus,"21/10,21/16",Ragnhild Løvenskiold Grüner Husom,Siv Meland
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Mixeddouble,Halldór Reynisson,Yngvild Buraas,Deepika Mital,Amit Mital,"21/10,21/13",Halldór Reynisson,Yngvild Buraas
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Mixeddouble,Aude Dufrene,Magnus Knapperholen,Siv Meland,Vishwavasu Soorly Nagaraj,"21/14,21/15",Aude Dufrene,Magnus Knapperholen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Mixeddouble,Aude Dufrene,Magnus Knapperholen,Deepika Mital,Amit Mital,"21/10,21/16",Aude Dufrene,Magnus Knapperholen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Mixeddouble,Halldór Reynisson,Yngvild Buraas,Siv Meland,Vishwavasu Soorly Nagaraj,"21/17,21/20",Halldór Reynisson,Yngvild Buraas
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN B,Mixeddouble,Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom,Deepika Mital,Amit Mital,"21/10,21/17",Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Kamrul Hasan,,Pavithran Vijayakumaran,"22/20,22/20",Kamrul Hasan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Kamrul Hasan,,Karni Khan,"21/12,21/16",Kamrul Hasan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Pavithran Vijayakumaran,,Thomas Mortensen,"21/17,21/11",Pavithran Vijayakumaran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Kamrul Hasan,,Nazim Nordén,"21/11,21/15",Kamrul Hasan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Karni Khan,,Vikas Kumar Sarna,"21/13,21/14",Karni Khan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Thomas Mortensen,,Xijiang Yu,"22/20,21/16",Thomas Mortensen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Pavithran Vijayakumaran,,Espen Ditmansen,"21/11,21/17",Pavithran Vijayakumaran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Xijiang Yu,,Vinn Quang Tran,"21/16,21/17",Xijiang Yu,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Kamrul Hasan,,Vinn Quang Tran,"21/13,19/21,21/12",Kamrul Hasan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Kamrul Hasan,,Xijiang Yu,"15/21,21/14,21/16",Kamrul Hasan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Karni Khan,,Espen Ditmansen,"15/21,21/14,21/18",Karni Khan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Espen Ditmansen,,Tore Hammerø,"21/9,21/11",Espen Ditmansen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Karni Khan,,Tore Hammerø,"21/9,21/12",Karni Khan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Thomas Mortensen,,Nazim Nordén,"15/21,21/17,24/22",Thomas Mortensen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Thomas Mortensen,,Christoffer Krogh,"21/9,19/21,21/15",Thomas Mortensen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Nazim Nordén,,Christoffer Krogh,"25/23,21/19",Nazim Nordén,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Pavithran Vijayakumaran,,Vasanthan Nadarasah,"22/20,21/15",Pavithran Vijayakumaran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Vikas Kumar Sarna,,Vasanthan Nadarasah,"21/19,21/13",Vikas Kumar Sarna,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herresingle,,Pavithran Vijayakumaran,,Vikas Kumar Sarna,"21/17,21/13",Pavithran Vijayakumaran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Damesingle,,Yngvild Buraas,,Simona Früh,"21/17,21/11",Yngvild Buraas,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Damesingle,,Kristine Bayona Dela Cruz,,Rajee Makesan,"21/3,21/13",Kristine Bayona Dela Cruz,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Damesingle,,Kristine Bayona Dela Cruz,,Yngvild Buraas,"21/20,21/12",Kristine Bayona Dela Cruz,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Damesingle,,Simona Früh,,Rajee Makesan,"21/9,21/8",Simona Früh,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Damesingle,,Simona Früh,,Kristine Bayona Dela Cruz,"21/19,21/16",Simona Früh,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Damesingle,,Yngvild Buraas,,Rajee Makesan,"21/5,21/13",Yngvild Buraas,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herredouble,Aude Dufrene,Espen Ditmansen,Simon Roland Birkvad,Mekki Lumio,"21/11,21/16",Aude Dufrene,Espen Ditmansen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herredouble,Qiqing Gan,Xijiang Yu,Simon Roland Birkvad,Mekki Lumio,"21/17,21/18",Qiqing Gan,Xijiang Yu
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Herredouble,Qiqing Gan,Xijiang Yu,Aude Dufrene,Espen Ditmansen,"21/11,21/15",Qiqing Gan,Xijiang Yu
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Mixeddouble,Shasha Jiang,Paul Schubert,Palany Subramaniam,Malathy Subramaniam,"21/20,21/17",Shasha Jiang,Paul Schubert
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Mixeddouble,Mei Yang,Ke Xie,Shasha Jiang,Paul Schubert,"21/8,21/9",Mei Yang,Ke Xie
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN C,Mixeddouble,Mei Yang,Ke Xie,Palany Subramaniam,Malathy Subramaniam,"21/9,21/9",Mei Yang,Ke Xie
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Tom Kasperski,,Phong Lam,"21/8,21/5",Tom Kasperski,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Bastien Barriere,,Kugathas Thas,"21/13,21/15",Bastien Barriere,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Tom Kasperski,,Bastien Barriere,"21/11,21/7",Tom Kasperski,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Vegard Andersen,,Jørgen Thorp,"21/15,21/16",Vegard Andersen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Phong Lam,,Kugathas Thas,"21/20,21/19",Phong Lam,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Øivind Harket,,Vineeth Subramaniam,"21/8,21/15",Øivind Harket,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Tom Kasperski,,Vegard Andersen,"21/17,21/12",Tom Kasperski,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Øivind Harket,,Frank Oddvar Nygård,"21/10,21/18",Øivind Harket,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Andreas Thorp,,Bastien Barriere,"21/15,21/15",Andreas Thorp,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Jørgen Thorp,,Phong Lam,"21/14,21/14",Jørgen Thorp,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Andreas Thorp,,Jørgen Thorp,"21/16,21/20",Andreas Thorp,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Vegard Andersen,,Bastien Barriere,"21/17,21/13",Vegard Andersen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Frank Oddvar Nygård,,Kugathas Thas,"21/16,21/14",Frank Oddvar Nygård,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Phong Lam,,Vineeth Subramaniam,"21/16,21/14",Phong Lam,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Tom Kasperski,,Andreas Thorp,"21/16,21/12",Tom Kasperski,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Øivind Harket,,Vegard Andersen,"21/15,21/10",Øivind Harket,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Frank Oddvar Nygård,,Phong Lam,"21/17,21/6",Frank Oddvar Nygård,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Jørgen Thorp,,Kugathas Thas,"21/19,21/9",Jørgen Thorp,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herresingle,,Bastien Barriere,,Vineeth Subramaniam,"21/7,21/15",Bastien Barriere,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Hallvard Storkaas,Christoffer Krogh,"21/7,21/19",Tom Kasperski,Paul Schubert
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Kugathas Thas,Palany Subramaniam,Cheron Stephen,Mervin Joseph,"21/15,21/17",Kugathas Thas,Palany Subramaniam
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Anders Åge Naglestad,Frode Lamøy,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/18,21/8",Anders Åge Naglestad,Frode Lamøy
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Cheron Stephen,Mervin Joseph,"21/15,21/13",Tom Kasperski,Paul Schubert
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Hallvard Storkaas,Christoffer Krogh,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/15,21/11",Hallvard Storkaas,Christoffer Krogh
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Anders Åge Naglestad,Frode Lamøy,"21/7,21/13",Tom Kasperski,Paul Schubert
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Cheron Stephen,Mervin Joseph,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/9,21/17",Cheron Stephen,Mervin Joseph
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Aravinthan Ramakrishnan,Subendran Velmurugu,"21/9,21/12",Tom Kasperski,Paul Schubert
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,Herresingle,,Shravan Ramkumar,,Cristiano Berger,"21/8,21/8",Shravan Ramkumar,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,Herresingle,,Elisabeth Wittusen,,Cristiano Berger,"21/12,21/8",Elisabeth Wittusen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,Herresingle,,Cristiano Berger,,Abiramy Kokilan,"21/5,21/11",Cristiano Berger,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,Herresingle,,Shravan Ramkumar,,Elisabeth Wittusen,"21/13,21/10",Shravan Ramkumar,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U11 A,Herresingle,,Abiramy Kokilan,,Elisabeth Wittusen,"21/16,21/18",Abiramy Kokilan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mathias Wong,,Magnus Linderoth,"21/10,21/15",Mathias Wong,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mikkel Grevsnes,,Agarna Kokilan,"21/10,21/15",Mikkel Grevsnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Yatin Mehta,,Vetle Bolstad,"21/12,21/11",Yatin Mehta,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Eirik Tryland Laheld,,Christian Tombre,"21/13,21/10",Eirik Tryland Laheld,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Audun JS Nyquist,,Benjamin Hagberg-Olsen,"21/17,21/11",Audun JS Nyquist,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Adit Sharma,,Adam Tollisen Leyland,"21/18,21/18",Adit Sharma,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Eirik Tryland Laheld,,Yatin Mehta,"21/13,21/9",Eirik Tryland Laheld,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mathias Wong,,Mikkel Grevsnes,"21/8,21/16",Mathias Wong,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Adit Sharma,,Audun JS Nyquist,"21/6,21/10",Adit Sharma,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Adam Tollisen Leyland,,Benjamin Hagberg-Olsen,"21/12,21/12",Adam Tollisen Leyland,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Magnus Linderoth,,Agarna Kokilan,"21/10,21/3",Magnus Linderoth,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Christian Tombre,,Vetle Bolstad,"21/10,21/14",Christian Tombre,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Adam Tollisen Leyland,,Christian Tombre,"21/18,21/16",Adam Tollisen Leyland,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mikkel Grevsnes,,Yatin Mehta,"21/13,21/20",Mikkel Grevsnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Audun JS Nyquist,,Vetle Bolstad,"21/14,21/7",Audun JS Nyquist,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Agarna Kokilan,,Benjamin Hagberg-Olsen,"21/18,21/15",Agarna Kokilan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mathias Wong,,Adit Sharma,"21/16,21/18",Mathias Wong,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Eirik Tryland Laheld,,Adam Tollisen Leyland,"21/12,21/13",Eirik Tryland Laheld,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mikkel Grevsnes,,Audun JS Nyquist,"21/20,21/19",Mikkel Grevsnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Magnus Linderoth,,Christian Tombre,"21/10,21/4",Magnus Linderoth,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Vetle Bolstad,,Benjamin Hagberg-Olsen,"21/16,21/18",Vetle Bolstad,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Eirik Tryland Laheld,,Mikkel Grevsnes,"21/10,21/12",Eirik Tryland Laheld,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Mathias Wong,,Audun JS Nyquist,"21/5,21/8",Mathias Wong,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Magnus Linderoth,,Adam Tollisen Leyland,"21/10,21/13",Magnus Linderoth,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Adit Sharma,,Yatin Mehta,"21/4,21/11",Adit Sharma,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Agarna Kokilan,,Vetle Bolstad,"21/16,21/10",Agarna Kokilan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herresingle,,Christian Tombre,,Benjamin Hagberg-Olsen,"21/13,21/20",Christian Tombre,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Nancy Hang,,Milla Maevski,"21/10,21/6",Nancy Hang,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Victoria Heiberg,,Rebecca Haukebøe,"21/13,21/12",Victoria Heiberg,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Sofie Jin Reistadbakk,,Nancy Hang,"21/13,21/14",Sofie Jin Reistadbakk,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Emilie Lie Cook,,Rebecca Haukebøe,"21/16,21/6",Emilie Lie Cook,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Emma Yasmin Ruud,,Milla Maevski,"21/8,21/7",Emma Yasmin Ruud,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Sofie Jin Reistadbakk,,Emma Yasmin Ruud,"21/11,21/15",Sofie Jin Reistadbakk,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Emilie Lie Cook,,Nancy Hang,"21/17,21/11",Emilie Lie Cook,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Victoria Heiberg,,Milla Maevski,"21/16,21/17",Victoria Heiberg,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Damesingle,,Sofie Jin Reistadbakk,,Victoria Heiberg,"21/5,21/6",Sofie Jin Reistadbakk,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Audun JS Nyquist,Cristiano Berger,Bernard Stokke-Ditmansen,Benedikt Diab,"21/20,21/13",Audun JS Nyquist,Cristiano Berger
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Magnus Linderoth,Eirik Tryland Laheld,Bernard Stokke-Ditmansen,Benedikt Diab,"21/2,21/8",Magnus Linderoth,Eirik Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Magnus Linderoth,Eirik Tryland Laheld,Audun JS Nyquist,Cristiano Berger,"21/5,21/17",Magnus Linderoth,Eirik Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Yatin Mehta,Adam Tollisen Leyland,Bernard Stokke-Ditmansen,Benedikt Diab,"21/13,21/5",Yatin Mehta,Adam Tollisen Leyland
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Magnus Linderoth,Eirik Tryland Laheld,Vetle Bolstad,Didrik Alexander Poppe,"21/1,21/14",Magnus Linderoth,Eirik Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Yatin Mehta,Adam Tollisen Leyland,Audun JS Nyquist,Cristiano Berger,"21/5,21/3",Yatin Mehta,Adam Tollisen Leyland
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 A,Herredouble,Magnus Linderoth,Eirik Tryland Laheld,Yatin Mehta,Adam Tollisen Leyland,"21/15,21/5",Magnus Linderoth,Eirik Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Aksel Victor Sanchis,,Bernard Stokke-Ditmansen,"21/18,21/13",Aksel Victor Sanchis,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Benedikt Diab,,Qianyang Gan,"21/15,21/20",Benedikt Diab,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Linus Nordal,,Bernard Stokke-Ditmansen,"21/5,22/20",Linus Nordal,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Rikash Reginold,,Didrik Alexander Poppe,"21/18,21/18",Rikash Reginold,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Elisabeth Roos,,Rithik Jeeva,"21/14,21/12",Elisabeth Roos,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Benedikt Diab,,Linus Nordal,"21/17,21/13",Benedikt Diab,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Elisabeth Roos,,Aksel Victor Sanchis,"21/17,21/15",Elisabeth Roos,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Qianyang Gan,,Rikash Reginold,"21/8,21/19",Qianyang Gan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Benedikt Diab,,Elisabeth Roos,"21/19,21/16",Benedikt Diab,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Qianyang Gan,,Aksel Victor Sanchis,"21/9,21/11",Qianyang Gan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Rikash Reginold,,Rithik Jeeva,"21/9,21/17",Rikash Reginold,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Didrik Alexander Poppe,,Bernard Stokke-Ditmansen,"21/16,21/17",Didrik Alexander Poppe,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Qianyang Gan,,Didrik Alexander Poppe,"21/11,21/18",Qianyang Gan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Benedikt Diab,,Rithik Jeeva,"21/10,21/13",Benedikt Diab,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Benedikt Diab,,Didrik Alexander Poppe,"21/18,21/16",Benedikt Diab,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Qianyang Gan,,Elisabeth Roos,"21/11,21/17",Qianyang Gan,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Linus Nordal,,Aksel Victor Sanchis,"21/17,21/16",Linus Nordal,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Bernard Stokke-Ditmansen,,Rithik Jeeva,"21/16,21/9",Bernard Stokke-Ditmansen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U13 C,Herresingle,,Linus Nordal,,Rikash Reginold,"21/20,21/19",Linus Nordal,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Aleksander Jakovlevs,,Petter Ormstad Olsen,"21/5,21/6",Aleksander Jakovlevs,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Eivind Engeseth,,Mattis Olsen Berg,"21/14,21/10",Eivind Engeseth,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Kristian I Birkeland,"21/8,21/16",Haakon Lærkerød Jelsness,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Ziyue Wei,,Philip Allport Fossum,"21/9,21/18",Ziyue Wei,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Armand Bruun,,Kristian I Birkeland,"21/11,21/1",Armand Bruun,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Bjørn Deron,,Haakon Lærkerød Jelsness,"21/11,21/6",Bjørn Deron,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Aleksander Jakovlevs,,Eivind Engeseth,"21/11,21/10",Aleksander Jakovlevs,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Armand Bruun,,Marius Nybøe,"21/16,21/10",Armand Bruun,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Zhongyan Yu,,Håvard Idås,"21/7,21/10",Zhongyan Yu,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Philip Allport Fossum,,Mattis Olsen Berg,"21/10,21/12",Philip Allport Fossum,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Kristian I Birkeland,,Petter Ormstad Olsen,"21/15,21/13",Kristian I Birkeland,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Bjørn Deron,,Zhongyan Yu,"21/13,21/11",Bjørn Deron,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Aleksander Jakovlevs,,Armand Bruun,"21/16,21/11",Aleksander Jakovlevs,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Eivind Engeseth,,Ziyue Wei,"21/14,21/20",Eivind Engeseth,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Marius Nybøe,,Håvard Idås,"21/13,21/20",Marius Nybøe,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Bjørn Deron,,Eivind Engeseth,"21/11,21/10",Bjørn Deron,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Aleksander Jakovlevs,,Philip Allport Fossum,"21/11,21/9",Aleksander Jakovlevs,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Zhongyan Yu,,Marius Nybøe,"21/9,21/7",Zhongyan Yu,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Petter Ormstad Olsen,"21/19,21/7",Haakon Lærkerød Jelsness,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Herresingle,,Bjørn Deron,,Armand Bruun,"21/10,21/10",Bjørn Deron,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Marlen Nygård,"21/16,21/13",Kristine  Grande Ødegårdstuen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Ingunn Sunde,,Inger Russnes,"21/11,21/15",Ingunn Sunde,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Mina Korssund,,Linnea Cecilie Sørlie,"21/5,21/10",Mina Korssund,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Nicoline Wærsten,,Tine Bjønness-Jacobsen,"21/7,21/11",Nicoline Wærsten,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Leyla Eleonora Destefanis,,Amalie Theil,"21/13,21/13",Leyla Eleonora Destefanis,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Ingunn Sunde,,Leyla Eleonora Destefanis,"21/15,21/14",Ingunn Sunde,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Emilie Haukebøe,"21/9,21/8",Kristine  Grande Ødegårdstuen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Marlen Nygård,,Ragne Russnes,"21/6,21/7",Marlen Nygård,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Inger Russnes,,Amalie Theil,"21/8,21/16",Inger Russnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Tine Bjønness-Jacobsen,,Linnea Cecilie Sørlie,"21/14,21/16",Tine Bjønness-Jacobsen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Ingunn Sunde,"21/11,21/12",Kristine  Grande Ødegårdstuen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Marlen Nygård,,Mina Korssund,"21/10,21/9",Marlen Nygård,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Nicoline Wærsten,,Leyla Eleonora Destefanis,"21/8,21/7",Nicoline Wærsten,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Inger Russnes,,Tine Bjønness-Jacobsen,"21/16,21/20",Inger Russnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Emilie Haukebøe,,Amalie Theil,"21/15,21/10",Emilie Haukebøe,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Ragne Russnes,,Linnea Cecilie Sørlie,"21/14,21/10",Ragne Russnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Nicoline Wærsten,"21/9,21/8",Kristine  Grande Ødegårdstuen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Marlen Nygård,,Ingunn Sunde,"21/14,21/9",Marlen Nygård,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Mina Korssund,,Inger Russnes,"21/11,21/7",Mina Korssund,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Amalie Theil,,Linnea Cecilie Sørlie,"21/16,21/10",Amalie Theil,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Mina Korssund,"21/11,21/6",Kristine  Grande Ødegårdstuen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Marlen Nygård,,Nicoline Wærsten,"21/11,21/7",Marlen Nygård,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Ingunn Sunde,,Emilie Haukebøe,"21/16,21/4",Ingunn Sunde,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Inger Russnes,,Ragne Russnes,"21/14,21/15",Inger Russnes,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damesingle,,Linnea Cecilie Sørlie,,Leyla Eleonora Destefanis,"21/19,21/18",Linnea Cecilie Sørlie,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Leyla Eleonora Destefanis,Ragne Russnes,"21/12,21/4",Mina Korssund,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Emilie Haukebøe,Inger Russnes,Nancy Hang,Rebecca Haukebøe,"21/9,21/15",Emilie Haukebøe,Inger Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,"21/16,21/15",Sofie Jin Reistadbakk,Emma Yasmin Ruud
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Sofie Jin Reistadbakk,Emma Yasmin Ruud,"21/10,21/18",Mina Korssund,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Emilie Haukebøe,Inger Russnes,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,"21/6,21/12",Emilie Haukebøe,Inger Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Leyla Eleonora Destefanis,Ragne Russnes,Nancy Hang,Rebecca Haukebøe,"21/16,21/7",Leyla Eleonora Destefanis,Ragne Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,"21/4,21/7",Mina Korssund,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Nancy Hang,Rebecca Haukebøe,"21/12,21/8",Sofie Jin Reistadbakk,Emma Yasmin Ruud
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Emilie Haukebøe,Inger Russnes,Leyla Eleonora Destefanis,Ragne Russnes,"21/20,21/8",Emilie Haukebøe,Inger Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Emilie Haukebøe,Inger Russnes,"21/17,21/7",Mina Korssund,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Damedouble,Linnea Cecilie Sørlie,Vilma Aasheim-Engen,Nancy Hang,Rebecca Haukebøe,"21/19,21/16",Linnea Cecilie Sørlie,Vilma Aasheim-Engen
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Yatin Mehta,Sofie Jin Reistadbakk,"21/9,21/7",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Mattis Olsen Berg,Mina Korssund,Emma Yasmin Ruud,Adam Tollisen Leyland,"21/17,21/7",Mattis Olsen Berg,Mina Korssund
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Philip Allport Fossum,Ragne Russnes,Inger Russnes,Eirik Tryland Laheld,"21/17,21/18",Philip Allport Fossum,Ragne Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Mathias Wong,Emilie Haukebøe,Mikkel Grevsnes,Tine Bjønness-Jacobsen,"21/14,21/9",Mathias Wong,Emilie Haukebøe
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Inger Russnes,Eirik Tryland Laheld,"21/9,21/6",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Philip Allport Fossum,Ragne Russnes,Emma Yasmin Ruud,Adam Tollisen Leyland,"21/12,21/15",Philip Allport Fossum,Ragne Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Yatin Mehta,Sofie Jin Reistadbakk,Mikkel Grevsnes,Tine Bjønness-Jacobsen,"21/19,21/16",Yatin Mehta,Sofie Jin Reistadbakk
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Mattis Olsen Berg,Mina Korssund,"21/14,21/8",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Inger Russnes,Eirik Tryland Laheld,Mikkel Grevsnes,Tine Bjønness-Jacobsen,"21/13,21/10",Inger Russnes,Eirik Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Yatin Mehta,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Adam Tollisen Leyland,"21/13,21/15",Yatin Mehta,Sofie Jin Reistadbakk
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Mathias Wong,Emilie Haukebøe,"21/6,21/6",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Mattis Olsen Berg,Mina Korssund,Mikkel Grevsnes,Tine Bjønness-Jacobsen,"21/9,21/13",Mattis Olsen Berg,Mina Korssund
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Inger Russnes,Eirik Tryland Laheld,Emma Yasmin Ruud,Adam Tollisen Leyland,"21/14,21/18",Inger Russnes,Eirik Tryland Laheld
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Philip Allport Fossum,Ragne Russnes,Yatin Mehta,Sofie Jin Reistadbakk,"21/7,21/13",Philip Allport Fossum,Ragne Russnes
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Philip Allport Fossum,Ragne Russnes,"21/5,21/8",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Mattis Olsen Berg,Mina Korssund,Inger Russnes,Eirik Tryland Laheld,"21/5,21/19",Mattis Olsen Berg,Mina Korssund
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 A,Mixeddouble,Mathias Wong,Emilie Haukebøe,Yatin Mehta,Sofie Jin Reistadbakk,"21/10,21/4",Mathias Wong,Emilie Haukebøe
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Nghia Dinh Tran,,Jonas H. Lofthaug,"21/10,21/8",Nghia Dinh Tran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Nghia Dinh Tran,,Max Hjorth-Milne,"21/9,21/14",Nghia Dinh Tran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Simen Yndesdal Torgersen,,Oddbjørn Valsø-Jørgensen,"21/12,21/14",Simen Yndesdal Torgersen,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Nghia Dinh Tran,,Simen Yndesdal Torgersen,"21/18,21/16",Nghia Dinh Tran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Ruben Nissen Molvær,,Oddbjørn Valsø-Jørgensen,"21/16,21/8",Ruben Nissen Molvær,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Nghia Dinh Tran,,Ruben Nissen Molvær,"21/9,21/14",Nghia Dinh Tran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U15 C,Herresingle,,Jonas H. Lofthaug,,Simen Yndesdal Torgersen,"21/18,21/10",Jonas H. Lofthaug,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herresingle,,Advait Mital,,Daniel Brustad Snorrason,"21/8,21/12",Advait Mital,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herresingle,,Andreas Korssund,,Max Meyer Hellwege,"21/8,21/6",Andreas Korssund,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herresingle,,Advait Mital,,Andreas Korssund,"21/9,21/18",Advait Mital,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herresingle,,Daniel Brustad Snorrason,,Max Meyer Hellwege,"21/9,21/12",Daniel Brustad Snorrason,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herresingle,,Advait Mital,,Max Meyer Hellwege,"21/8,21/8",Advait Mital,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herresingle,,Andreas Korssund,,Daniel Brustad Snorrason,"21/10,21/8",Andreas Korssund,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Damesingle,,Kaisa Isabell Sandboe,,Sinthuya Vijayakumaran,"21/7,21/13",Kaisa Isabell Sandboe,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Damesingle,,Kaisa Isabell Sandboe,,Ingrid Beate Østberg,"21/9,21/14",Kaisa Isabell Sandboe,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Damesingle,,Sinthuya Vijayakumaran,,Ingrid Beate Østberg,"21/13,18/21,21/18",Sinthuya Vijayakumaran,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Aleksander Jakovlevs,Mathias Wong,Petter Ormstad Olsen,Kristian I Birkeland,"21/7,21/14",Aleksander Jakovlevs,Mathias Wong
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Haakon Lærkerød Jelsness,Zhongyan Yu,Philip Allport Fossum,Mattis Olsen Berg,"21/8,21/13",Haakon Lærkerød Jelsness,Zhongyan Yu
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Haakon Lærkerød Jelsness,Zhongyan Yu,Kavin Thas,Max Meyer Hellwege,"21/10,21/16",Haakon Lærkerød Jelsness,Zhongyan Yu
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Philip Allport Fossum,Mattis Olsen Berg,Petter Ormstad Olsen,Kristian I Birkeland,"21/20,21/17",Philip Allport Fossum,Mattis Olsen Berg
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Aleksander Jakovlevs,Mathias Wong,Philip Allport Fossum,Mattis Olsen Berg,"21/9,21/6",Aleksander Jakovlevs,Mathias Wong
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Aleksander Jakovlevs,Mathias Wong,Haakon Lærkerød Jelsness,Zhongyan Yu,"21/13,21/20",Aleksander Jakovlevs,Mathias Wong
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Philip Allport Fossum,Mattis Olsen Berg,Kavin Thas,Max Meyer Hellwege,"21/14,21/14",Philip Allport Fossum,Mattis Olsen Berg
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Aleksander Jakovlevs,Mathias Wong,Kavin Thas,Max Meyer Hellwege,"21/7,21/3",Aleksander Jakovlevs,Mathias Wong
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Herredouble,Haakon Lærkerød Jelsness,Zhongyan Yu,Petter Ormstad Olsen,Kristian I Birkeland,"21/11,21/14",Haakon Lærkerød Jelsness,Zhongyan Yu
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Mixeddouble,Max Meyer Hellwege,Ingrid Beate Østberg,Kavin Thas,Angela Liu,"21/12,21/7",Max Meyer Hellwege,Ingrid Beate Østberg
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Kavin Thas,Angela Liu,"21/4,21/3",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 A,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Max Meyer Hellwege,Ingrid Beate Østberg,"21/5,21/5",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Herresingle,,Martin Hollender,,Mats Berner Tombre,"21/15,21/17",Martin Hollender,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Herresingle,,Lukas Vestbøstad,,Oskar Andreas Gisholt Jønland,"21/7,21/5",Lukas Vestbøstad,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Herresingle,,Lukas Vestbøstad,,Martin Hollender,"21/10,23/21",Lukas Vestbøstad,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Herresingle,,Mats Berner Tombre,,Oskar Andreas Gisholt Jønland,"21/11,21/14",Mats Berner Tombre,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Herresingle,,Mats Berner Tombre,,Lukas Vestbøstad,"21/18,21/18",Mats Berner Tombre,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Herresingle,,Martin Hollender,,Oskar Andreas Gisholt Jønland,"21/5,21/9",Martin Hollender,
+2018/2019,Vestre Aker Racketspesialisten.no Open,10.11.2018,U17 C,Damesingle,,Angela Liu,,Mai Thongprasert,"21/7,21/10",Angela Liu,

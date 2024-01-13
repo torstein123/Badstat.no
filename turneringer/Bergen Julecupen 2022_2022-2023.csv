@@ -1,343 +1,287 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Juli Helen Johansen Klungtveit,"21/14,21/12",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Juli Helen Johansen Klungtveit,,Hilde Genberg,"16/21,21/16,21/17",Juli Helen Johansen Klungtveit,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Juli Helen Johansen Klungtveit,,Nikol Hermansen,"21/17,8/21,21/16",Juli Helen Johansen Klungtveit,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Nikol Hermansen,,Hilde Genberg,"21/11,21/12",Nikol Hermansen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Giulia Dell'Acqua,"18/21,21/10,21/16",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Line Klæbo,,Malin Fossen Genberg,"21/12,21/14",Line Klæbo,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Malin Fossen Genberg,"21/7,21/4",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Giulia Dell'Acqua,,Line Klæbo,"21/17,21/4",Giulia Dell'Acqua,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Line Klæbo,"21/13,21/14",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Giulia Dell'Acqua,,Malin Fossen Genberg,"21/8,21/9",Giulia Dell'Acqua,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Juli Helen Johansen Klungtveit,"21/14,21/12",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Juli Helen Johansen Klungtveit,,Hilde Genberg,"16/21,21/16,21/17",Juli Helen Johansen Klungtveit,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Juli Helen Johansen Klungtveit,,Nikol Hermansen,"21/17,8/21,21/16",Juli Helen Johansen Klungtveit,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Nikol Hermansen,,Hilde Genberg,"21/11,21/12",Nikol Hermansen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Giulia Dell'Acqua,"18/21,21/10,21/16",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Line Klæbo,,Malin Fossen Genberg,"21/12,21/14",Line Klæbo,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Malin Fossen Genberg,"21/7,21/4",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Giulia Dell'Acqua,,Line Klæbo,"21/17,21/4",Giulia Dell'Acqua,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Maria Botcharova Ellingsen,,Line Klæbo,"21/13,21/14",Maria Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,,Giulia Dell'Acqua,,Malin Fossen Genberg,"21/8,21/9",Giulia Dell'Acqua,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Heine Lam Nybakk,Sondre Lie Foldnes,"21/15,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Ole Kristian Lie,Sindre Gjuvsland,"23/25,21/9,21/14",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Heine Lam Nybakk,Sondre Lie Foldnes,Ole Kristian Lie,Sindre Gjuvsland,"21/10,22/20",Heine Lam Nybakk,Sondre Lie Foldnes
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Hilde Genberg,Malin Fossen Genberg,Linn Duong,Ann Elin Digernes,"21/9,21/9",Hilde Genberg,Malin Fossen Genberg
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Nikol Hermansen,Dina Høl Bugge,Hilde Røssland,Ida Marie Thomassen Stiegler,"21/6,21/6",Nikol Hermansen,Dina Høl Bugge
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Hilde Genberg,Malin Fossen Genberg,Hilde Røssland,Ida Marie Thomassen Stiegler,"21/14,21/14",Hilde Genberg,Malin Fossen Genberg
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Linn Duong,Ann Elin Digernes,"21/6,21/0",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Hilde Genberg,Malin Fossen Genberg,"21/16,21/12",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Nikol Hermansen,Dina Høl Bugge,Linn Duong,Ann Elin Digernes,"21/7,21/6",Nikol Hermansen,Dina Høl Bugge
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Nikol Hermansen,Dina Høl Bugge,Hilde Genberg,Malin Fossen Genberg,"21/7,21/8",Nikol Hermansen,Dina Høl Bugge
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Hilde Røssland,Ida Marie Thomassen Stiegler,"21/12,21/11",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Hilde Røssland,Ida Marie Thomassen Stiegler,Linn Duong,Ann Elin Digernes,"21/16,21/15",Hilde Røssland,Ida Marie Thomassen Stiegler
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Nikol Hermansen,Dina Høl Bugge,"21/16,23/25,21/13",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,,Andreas Deinboll,,Rushikesh Sane,"21/17,21/12",Andreas Deinboll,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,,Christian Lund Haugen,,Rushikesh Sane,"21/18,21/5",Christian Lund Haugen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,,Andreas Deinboll,,Christian Lund Haugen,"21/19,19/21,21/17",Andreas Deinboll,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,,Andreas Deinboll,,Rushikesh Sane,"21/17,21/12",Andreas Deinboll,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,,Christian Lund Haugen,,Rushikesh Sane,"21/18,21/5",Christian Lund Haugen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,,Andreas Deinboll,,Christian Lund Haugen,"21/19,19/21,21/17",Andreas Deinboll,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Andreas Deinboll,Ingrid Teistung,Jack Oterhals,Mats Lervåg,"26/24,22/20",Andreas Deinboll,Ingrid Teistung
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Brynjar Hus,Martin Brekke Hjellestad,Kawa Kavian,Barath Kumar Pachappan,"21/5,21/7",Brynjar Hus,Martin Brekke Hjellestad
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Jack Oterhals,Mats Lervåg,Kawa Kavian,Barath Kumar Pachappan,"27/25,21/12",Jack Oterhals,Mats Lervåg
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Brynjar Hus,Martin Brekke Hjellestad,Andreas Deinboll,Ingrid Teistung,"21/13,22/20",Brynjar Hus,Martin Brekke Hjellestad
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Brynjar Hus,Martin Brekke Hjellestad,Jack Oterhals,Mats Lervåg,"21/9,21/10",Brynjar Hus,Martin Brekke Hjellestad
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Andreas Deinboll,Ingrid Teistung,Kawa Kavian,Barath Kumar Pachappan,"21/18,21/16",Andreas Deinboll,Ingrid Teistung
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Per Bohman,"21/9,21/12",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Per Bohman,,Johan Gravdal,"21/17,25/23",Per Bohman,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Pål Kolstø,"21/12,21/16",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Per Bohman,,Einar Morgan Utne,"21/13,21/14",Per Bohman,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Einar Morgan Utne,,Jordan Michael Bauman,"21/8,21/6",Einar Morgan Utne,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Per Bohman,,Jordan Michael Bauman,"21/11,21/8",Per Bohman,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Johan Gravdal,,Markus Vik,"21/9,21/5",Johan Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Kennet Hellesund Ellingsen,,Shivu Sidde Gowda,"21/9,21/5",Kennet Hellesund Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Johan Gravdal,,Shivu Sidde Gowda,"21/7,21/2",Johan Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Kennet Hellesund Ellingsen,,Markus Vik,"21/11,21/12",Kennet Hellesund Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Johan Gravdal,,Kennet Hellesund Ellingsen,"21/12,21/11",Johan Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Markus Vik,,Shivu Sidde Gowda,"21/6,21/7",Markus Vik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Magnus Severinsen,,Filip Træet Ellingsen,"21/10,21/10",Magnus Severinsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Pål Kolstø,,Ådne Vik,"21/3,21/9",Pål Kolstø,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Magnus Severinsen,,Ådne Vik,"21/16,21/16",Magnus Severinsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Pål Kolstø,,Filip Træet Ellingsen,"21/2,21/3",Pål Kolstø,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Pål Kolstø,,Magnus Severinsen,"21/5,21/7",Pål Kolstø,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ådne Vik,,Filip Træet Ellingsen,"21/6,21/7",Ådne Vik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Morten Solsvik,"21/18,21/16",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Gian Carlos Dell Acqua,"21/17,21/16",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Morten Solsvik,,Gian Carlos Dell Acqua,"21/17,21/17",Morten Solsvik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Per Bohman,"21/9,21/12",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Per Bohman,,Johan Gravdal,"21/17,25/23",Per Bohman,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Pål Kolstø,"21/12,21/16",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Per Bohman,,Einar Morgan Utne,"21/13,21/14",Per Bohman,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Einar Morgan Utne,,Jordan Michael Bauman,"21/8,21/6",Einar Morgan Utne,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Per Bohman,,Jordan Michael Bauman,"21/11,21/8",Per Bohman,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Johan Gravdal,,Markus Vik,"21/9,21/5",Johan Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Kennet Hellesund Ellingsen,,Shivu Sidde Gowda,"21/9,21/5",Kennet Hellesund Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Johan Gravdal,,Shivu Sidde Gowda,"21/7,21/2",Johan Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Kennet Hellesund Ellingsen,,Markus Vik,"21/11,21/12",Kennet Hellesund Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Johan Gravdal,,Kennet Hellesund Ellingsen,"21/12,21/11",Johan Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Markus Vik,,Shivu Sidde Gowda,"21/6,21/7",Markus Vik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Magnus Severinsen,,Filip Træet Ellingsen,"21/10,21/10",Magnus Severinsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Pål Kolstø,,Ådne Vik,"21/3,21/9",Pål Kolstø,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Magnus Severinsen,,Ådne Vik,"21/16,21/16",Magnus Severinsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Pål Kolstø,,Filip Træet Ellingsen,"21/2,21/3",Pål Kolstø,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Pål Kolstø,,Magnus Severinsen,"21/5,21/7",Pål Kolstø,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ådne Vik,,Filip Træet Ellingsen,"21/6,21/7",Ådne Vik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Morten Solsvik,"21/18,21/16",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Fred Olaf Sørensen,,Gian Carlos Dell Acqua,"21/17,21/16",Fred Olaf Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Morten Solsvik,,Gian Carlos Dell Acqua,"21/17,21/17",Morten Solsvik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ida Marie Thomassen Stiegler,,Mina Eriksen,"21/5,21/7",Ida Marie Thomassen Stiegler,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Tora Svennevik,,Ingrid-Elise Wammen Espeland,"21/10,21/8",Tora Svennevik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ingrid-Elise Wammen Espeland,,Mina Eriksen,"21/19,19/21,21/9",Ingrid-Elise Wammen Espeland,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Erle Sofie Andersen,,Tora Svennevik,"21/19,21/15",Erle Sofie Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Erle Sofie Andersen,,Mina Eriksen,"21/2,21/13",Erle Sofie Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ida Marie Thomassen Stiegler,,Ingrid-Elise Wammen Espeland,"21/7,21/6",Ida Marie Thomassen Stiegler,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ida Marie Thomassen Stiegler,,Tora Svennevik,"21/5,21/8",Ida Marie Thomassen Stiegler,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Erle Sofie Andersen,,Ingrid-Elise Wammen Espeland,"21/18,21/8",Erle Sofie Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Tora Svennevik,,Mina Eriksen,"21/4,21/9",Tora Svennevik,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,,Ida Marie Thomassen Stiegler,,Erle Sofie Andersen,"21/10,21/3",Ida Marie Thomassen Stiegler,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Morten Solsvik,Eirik Ekerhovd,Atle Dahle,Robert Eriksen,"23/21,10/21,21/13",Morten Solsvik,Eirik Ekerhovd
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Atle Dahle,Robert Eriksen,Kennet Hellesund Ellingsen,Gian Carlos Dell Acqua,"21/9,21/12",Atle Dahle,Robert Eriksen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Geir Digernes,Einar Kristoffer Kipperberg,Ådne Vik,Markus Vik,"21/5,21/13",Geir Digernes,Einar Kristoffer Kipperberg
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Morten Solsvik,Eirik Ekerhovd,Johan Gravdal,Thomas Bringsli Midtun,"21/5,21/16",Morten Solsvik,Eirik Ekerhovd
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Johan Gravdal,Thomas Bringsli Midtun,Ådne Vik,Markus Vik,"21/13,21/11",Johan Gravdal,Thomas Bringsli Midtun
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Morten Solsvik,Eirik Ekerhovd,Geir Digernes,Einar Kristoffer Kipperberg,"21/7,21/16",Morten Solsvik,Eirik Ekerhovd
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Morten Solsvik,Eirik Ekerhovd,Ådne Vik,Markus Vik,"21/12,21/8",Morten Solsvik,Eirik Ekerhovd
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Johan Gravdal,Thomas Bringsli Midtun,Geir Digernes,Einar Kristoffer Kipperberg,"21/15,21/16",Johan Gravdal,Thomas Bringsli Midtun
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Atle Dahle,Robert Eriksen,Sander Kallekodt Fjetland,Pål Kolstø,"21/14,21/13",Atle Dahle,Robert Eriksen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Sander Kallekodt Fjetland,Pål Kolstø,Rohit Harish Shah,Rama Krishna Dubasi,"21/17,21/12",Sander Kallekodt Fjetland,Pål Kolstø
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Atle Dahle,Robert Eriksen,Rohit Harish Shah,Rama Krishna Dubasi,"21/12,21/10",Atle Dahle,Robert Eriksen
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Kennet Hellesund Ellingsen,Gian Carlos Dell Acqua,Tom Kristoffersen,Jordan Michael Bauman,"21/12,21/12",Kennet Hellesund Ellingsen,Gian Carlos Dell Acqua
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
-2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leo-Zacharias Christianson,,Noris Ekanger,"14/21,25/23,23/21",Leo-Zacharias Christianson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Noris Ekanger,,Leon Boge-Sørensen,"21/9,21/19",Noris Ekanger,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leo-Zacharias Christianson,,Torbjørn Lier Andersen,"21/16,21/12",Leo-Zacharias Christianson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Noris Ekanger,,Philip Espeland Ådlandsvik,"21/17,21/13",Noris Ekanger,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Noris Ekanger,,Matheo Osman Tollefsen,"21/12,21/7",Noris Ekanger,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Matheo Osman Tollefsen,,Philip Espeland Ådlandsvik,"22/20,21/14",Matheo Osman Tollefsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leon Boge-Sørensen,,Jonathan Jordal-Hesjedal,"21/8,21/18",Leon Boge-Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leon Boge-Sørensen,,Erland Foshaug,"21/15,21/18",Leon Boge-Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Erland Foshaug,,Jonathan Jordal-Hesjedal,"21/4,21/12",Erland Foshaug,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Oliver Dagsland Bjørke,,Anton Babori,"21/17,21/15",Oliver Dagsland Bjørke,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Torbjørn Lier Andersen,,Rohit Senthilkumar,"21/15,21/19",Torbjørn Lier Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Torbjørn Lier Andersen,,Anton Babori,"21/7,21/4",Torbjørn Lier Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Rohit Senthilkumar,,Anton Babori,"21/11,21/12",Rohit Senthilkumar,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Torbjørn Lier Andersen,,Oliver Dagsland Bjørke,"21/8,21/12",Torbjørn Lier Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Rohit Senthilkumar,,Oliver Dagsland Bjørke,"19/21,21/14,21/12",Rohit Senthilkumar,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leo-Zacharias Christianson,,Noah B.Johansen,"21/11,21/14",Leo-Zacharias Christianson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leo-Zacharias Christianson,,Noris Ekanger,"14/21,25/23,23/21",Leo-Zacharias Christianson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Noris Ekanger,,Leon Boge-Sørensen,"21/9,21/19",Noris Ekanger,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leo-Zacharias Christianson,,Torbjørn Lier Andersen,"21/16,21/12",Leo-Zacharias Christianson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Noris Ekanger,,Philip Espeland Ådlandsvik,"21/17,21/13",Noris Ekanger,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Noris Ekanger,,Matheo Osman Tollefsen,"21/12,21/7",Noris Ekanger,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Matheo Osman Tollefsen,,Philip Espeland Ådlandsvik,"22/20,21/14",Matheo Osman Tollefsen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leon Boge-Sørensen,,Jonathan Jordal-Hesjedal,"21/8,21/18",Leon Boge-Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leon Boge-Sørensen,,Erland Foshaug,"21/15,21/18",Leon Boge-Sørensen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Erland Foshaug,,Jonathan Jordal-Hesjedal,"21/4,21/12",Erland Foshaug,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Oliver Dagsland Bjørke,,Anton Babori,"21/17,21/15",Oliver Dagsland Bjørke,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Torbjørn Lier Andersen,,Rohit Senthilkumar,"21/15,21/19",Torbjørn Lier Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Torbjørn Lier Andersen,,Anton Babori,"21/7,21/4",Torbjørn Lier Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Rohit Senthilkumar,,Anton Babori,"21/11,21/12",Rohit Senthilkumar,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Torbjørn Lier Andersen,,Oliver Dagsland Bjørke,"21/8,21/12",Torbjørn Lier Andersen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Rohit Senthilkumar,,Oliver Dagsland Bjørke,"19/21,21/14,21/12",Rohit Senthilkumar,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Leo-Zacharias Christianson,,Noah B.Johansen,"21/11,21/14",Leo-Zacharias Christianson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Mathilde Jordal-Hesjedal,,Jenny Røssland,"21/14,22/20",Mathilde Jordal-Hesjedal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Mathilde Jordal-Hesjedal,,Haasini Karumuri,"21/15,21/7",Mathilde Jordal-Hesjedal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Sofie Fauskanger Hauso,,Nicoline Marie Christiansdatter,"21/14,21/12",Sofie Fauskanger Hauso,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Mathilde Jordal-Hesjedal,,Sofie Fauskanger Hauso,"21/17,21/14",Mathilde Jordal-Hesjedal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Haasini Karumuri,,Nicoline Marie Christiansdatter,"21/15,17/21,21/19",Haasini Karumuri,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Mathilde Jordal-Hesjedal,,Nicoline Marie Christiansdatter,"21/10,21/12",Mathilde Jordal-Hesjedal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Sofie Fauskanger Hauso,,Haasini Karumuri,"21/14,21/12",Sofie Fauskanger Hauso,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Maja Lucy Panek,,Linnea Gjertine Kvamme,"21/16,19/21,21/15",Maja Lucy Panek,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Jenny Røssland,,Sandra Eilin Foshaug,"21/5,21/7",Jenny Røssland,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Linnea Gjertine Kvamme,,Sandra Eilin Foshaug,"21/7,21/5",Linnea Gjertine Kvamme,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Jenny Røssland,,Maja Lucy Panek,"16/21,21/12,21/14",Jenny Røssland,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Jenny Røssland,,Linnea Gjertine Kvamme,"21/16,21/18",Jenny Røssland,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,,Maja Lucy Panek,,Sandra Eilin Foshaug,"21/2,21/6",Maja Lucy Panek,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,,Max Straume,,Simen Våge Sætersdal,"18/21,21/18,21/17",Max Straume,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"21/15,21/8",Thorben Mikal Ekren Ludvig,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,,Max Straume,,Thorben Mikal Ekren Ludvig,"13/21,21/17,21/12",Max Straume,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,,Max Straume,,Simen Våge Sætersdal,"18/21,21/18,21/17",Max Straume,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"21/15,21/8",Thorben Mikal Ekren Ludvig,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,,Max Straume,,Thorben Mikal Ekren Ludvig,"13/21,21/17,21/12",Max Straume,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta,Oskar Berg,Aki Max Sperr,"21/4,21/4",Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta,Max Straume,Simen Våge Sætersdal,"21/8,15/21,21/9",Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Max Straume,Simen Våge Sætersdal,Oskar Berg,Aki Max Sperr,"21/4,21/4",Max Straume,Simen Våge Sætersdal
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Linnea Alexandra Lilleskare,Emma Gundegjerde,Jenny Røssland,Linnea Gjertine Kvamme,"21/12,21/19",Linnea Alexandra Lilleskare,Emma Gundegjerde
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Elisabeth Lie,Christine Torsvik Loga,Maja Lucy Panek,Sofie Fauskanger Hauso,"21/9,21/10",Elisabeth Lie,Christine Torsvik Loga
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Elisabeth Lie,Christine Torsvik Loga,Linnea Alexandra Lilleskare,Emma Gundegjerde,"21/10,21/18",Elisabeth Lie,Christine Torsvik Loga
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Elisabeth Lie,Christine Torsvik Loga,Jenny Røssland,Linnea Gjertine Kvamme,"21/6,21/10",Elisabeth Lie,Christine Torsvik Loga
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,Markus Ekerhovd Sylta,"21/12,15/21,21/16",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,Ludvig Losnedahl,"21/10,21/9",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Markus Ekerhovd Sylta,,Finn Stangenberg,"21/9,21/17",Markus Ekerhovd Sylta,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Samuel Gravdal,,William Økland Henriksen,"21/16,21/17",Samuel Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Ludvig Losnedahl,,William Økland Henriksen,"21/8,21/13",Ludvig Losnedahl,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Ludvig Losnedahl,,Samuel Gravdal,"18/21,21/16,21/13",Ludvig Losnedahl,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,David Landøy,,Theodor Larsen Halln,"21/10,21/7",David Landøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,Theodor Larsen Halln,"21/2,21/3",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,David Landøy,"21/3,21/9",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,Markus Ekerhovd Sylta,"21/12,15/21,21/16",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,Ludvig Losnedahl,"21/10,21/9",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Markus Ekerhovd Sylta,,Finn Stangenberg,"21/9,21/17",Markus Ekerhovd Sylta,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Samuel Gravdal,,William Økland Henriksen,"21/16,21/17",Samuel Gravdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Ludvig Losnedahl,,William Økland Henriksen,"21/8,21/13",Ludvig Losnedahl,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Ludvig Losnedahl,,Samuel Gravdal,"18/21,21/16,21/13",Ludvig Losnedahl,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,David Landøy,,Theodor Larsen Halln,"21/10,21/7",David Landøy,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,Theodor Larsen Halln,"21/2,21/3",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Liam Nybøe Nilssen,,David Landøy,"21/3,21/9",Liam Nybøe Nilssen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Linnea Alexandra Lilleskare,,Emma Gundegjerde,"21/10,21/3",Linnea Alexandra Lilleskare,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Elisabeth Lie,,Lotta Birkeland Bergtun,"21/11,21/6",Elisabeth Lie,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Linnea Alexandra Lilleskare,,Lotta Birkeland Bergtun,"21/9,21/11",Linnea Alexandra Lilleskare,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Christine Torsvik Loga,,Emma Gundegjerde,"21/4,21/9",Christine Torsvik Loga,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Linnea Alexandra Lilleskare,,Christine Torsvik Loga,"21/9,22/20",Linnea Alexandra Lilleskare,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Elisabeth Lie,,Emma Gundegjerde,"21/7,21/7",Elisabeth Lie,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Elisabeth Lie,,Linnea Alexandra Lilleskare,"21/19,13/21,21/15",Elisabeth Lie,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Lotta Birkeland Bergtun,,Christine Torsvik Loga,"21/17,18/21,21/17",Lotta Birkeland Bergtun,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Lotta Birkeland Bergtun,,Emma Gundegjerde,"21/7,21/13",Lotta Birkeland Bergtun,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,,Elisabeth Lie,,Christine Torsvik Loga,"21/17,21/17",Elisabeth Lie,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Leon Boge-Sørensen,Leo-Zacharias Christianson,Theodor Larsen Halln,David Landøy,"21/10,21/7",Leon Boge-Sørensen,Leo-Zacharias Christianson
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Liam Nybøe Nilssen,Ludvig Losnedahl,William Økland Henriksen,Finn Stangenberg,"21/8,21/9",Liam Nybøe Nilssen,Ludvig Losnedahl
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Liam Nybøe Nilssen,Ludvig Losnedahl,Leon Boge-Sørensen,Leo-Zacharias Christianson,"21/12,21/10",Liam Nybøe Nilssen,Ludvig Losnedahl
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,William Økland Henriksen,Finn Stangenberg,Theodor Larsen Halln,David Landøy,"21/17,21/18",William Økland Henriksen,Finn Stangenberg
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Leon Boge-Sørensen,Leo-Zacharias Christianson,William Økland Henriksen,Finn Stangenberg,"21/17,21/17",Leon Boge-Sørensen,Leo-Zacharias Christianson
-2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Liam Nybøe Nilssen,Ludvig Losnedahl,Theodor Larsen Halln,David Landøy,"21/6,21/3",Liam Nybøe Nilssen,Ludvig Losnedahl
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Simon Andrés Vasquez Frisnes,,Fabian Nelson,"22/20,22/20",Simon Andrés Vasquez Frisnes,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Julian Økland Henriksen,,William Njøten Myrvang,"21/19,21/15",Julian Økland Henriksen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Simon Andrés Vasquez Frisnes,,William Njøten Myrvang,"21/10,21/7",Simon Andrés Vasquez Frisnes,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Simon Andrés Vasquez Frisnes,,Julian Økland Henriksen,"21/7,21/6",Simon Andrés Vasquez Frisnes,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Martin Våge Sætersdal,,Eskild Røssland,"21/14,21/19",Martin Våge Sætersdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Fabian Nelson,,Thomas Lam Nybakk,"21/18,19/21,21/15",Fabian Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Thomas Lam Nybakk,,Martin Våge Sætersdal,"21/14,21/17",Thomas Lam Nybakk,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Fabian Nelson,,Eskild Røssland,"21/13,21/14",Fabian Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Fabian Nelson,,Martin Våge Sætersdal,"21/11,21/9",Fabian Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Thomas Lam Nybakk,,Eskild Røssland,"21/17,21/11",Thomas Lam Nybakk,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Simon Andrés Vasquez Frisnes,,Fabian Nelson,"22/20,22/20",Simon Andrés Vasquez Frisnes,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Julian Økland Henriksen,,William Njøten Myrvang,"21/19,21/15",Julian Økland Henriksen,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Simon Andrés Vasquez Frisnes,,William Njøten Myrvang,"21/10,21/7",Simon Andrés Vasquez Frisnes,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Simon Andrés Vasquez Frisnes,,Julian Økland Henriksen,"21/7,21/6",Simon Andrés Vasquez Frisnes,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Martin Våge Sætersdal,,Eskild Røssland,"21/14,21/19",Martin Våge Sætersdal,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Fabian Nelson,,Thomas Lam Nybakk,"21/18,19/21,21/15",Fabian Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Thomas Lam Nybakk,,Martin Våge Sætersdal,"21/14,21/17",Thomas Lam Nybakk,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Fabian Nelson,,Eskild Røssland,"21/13,21/14",Fabian Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Fabian Nelson,,Martin Våge Sætersdal,"21/11,21/9",Fabian Nelson,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Thomas Lam Nybakk,,Eskild Røssland,"21/17,21/11",Thomas Lam Nybakk,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Angelina Sharma,,Sophia Isabella Miedler,"21/14,21/12",Angelina Sharma,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Angelina Sharma,,Justé Beinoriuté,"21/16,21/6",Angelina Sharma,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,,Sophia Isabella Miedler,,Justé Beinoriuté,"21/6,21/5",Sophia Isabella Miedler,
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Simon Andrés Vasquez Frisnes,Fabian Nelson,Eskild Røssland,William Njøten Myrvang,"21/11,21/4",Simon Andrés Vasquez Frisnes,Fabian Nelson
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Thomas Lam Nybakk,Håvard Lie Foldnes,Julian Økland Henriksen,Martin Våge Sætersdal,"21/8,17/21,21/19",Thomas Lam Nybakk,Håvard Lie Foldnes
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Julian Økland Henriksen,Martin Våge Sætersdal,Eskild Røssland,William Njøten Myrvang,"16/21,21/15,23/21",Julian Økland Henriksen,Martin Våge Sætersdal
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Simon Andrés Vasquez Frisnes,Fabian Nelson,Thomas Lam Nybakk,Håvard Lie Foldnes,"21/19,21/15",Simon Andrés Vasquez Frisnes,Fabian Nelson
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Thomas Lam Nybakk,Håvard Lie Foldnes,Eskild Røssland,William Njøten Myrvang,"21/10,21/13",Thomas Lam Nybakk,Håvard Lie Foldnes
-2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Simon Andrés Vasquez Frisnes,Fabian Nelson,Julian Økland Henriksen,Martin Våge Sætersdal,"21/19,21/13",Simon Andrés Vasquez Frisnes,Fabian Nelson
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Thomas Barth,,Brynjar Hus,"21/11,21/12",Thomas Barth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Brynjar Hus,,Aldrin Nelson,"21/12,11/21,11/8",Brynjar Hus,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Mats Lervåg,,Jakob Langeland Risa,"21/17,24/22",Mats Lervåg,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Thomas Barth,,Vera Botcharova Ellingsen,"21/7,21/4",Thomas Barth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Vera Botcharova Ellingsen,,Jakob Langeland Risa,"21/17,21/18",Vera Botcharova Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Thomas Barth,,Mats Lervåg,"21/14,21/10",Thomas Barth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Thomas Barth,,Jakob Langeland Risa,"21/6,21/14",Thomas Barth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Mats Lervåg,,Vera Botcharova Ellingsen,"21/13,16/21,21/13",Mats Lervåg,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Aldrin Nelson,,Martin Brekke Hjellestad,"21/6,21/6",Aldrin Nelson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Aldrin Nelson,,Jonathan Utne Madsøy,"21/18,21/10",Aldrin Nelson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Jonathan Utne Madsøy,,Martin Brekke Hjellestad,"21/16,21/8",Jonathan Utne Madsøy,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Brynjar Hus,,Heine Lam Nybakk,"21/5,21/10",Brynjar Hus,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Keveen Kumar Balasingam,,Heine Lam Nybakk,"21/19,22/20",Keveen Kumar Balasingam,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN E,Herresingle,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Maria Botcharova Ellingsen,,Juli Helen Johansen Klungtveit,"21/14,21/12",Maria Botcharova Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Juli Helen Johansen Klungtveit,,Hilde Genberg,"16/21,21/16,21/17",Juli Helen Johansen Klungtveit,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Juli Helen Johansen Klungtveit,,Nikol Hermansen,"21/17,8/21,21/16",Juli Helen Johansen Klungtveit,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Nikol Hermansen,,Hilde Genberg,"21/11,21/12",Nikol Hermansen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Maria Botcharova Ellingsen,,Giulia Dell'Acqua,"18/21,21/10,21/16",Maria Botcharova Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Line Klæbo,,Malin Fossen Genberg,"21/12,21/14",Line Klæbo,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Maria Botcharova Ellingsen,,Malin Fossen Genberg,"21/7,21/4",Maria Botcharova Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Giulia Dell'Acqua,,Line Klæbo,"21/17,21/4",Giulia Dell'Acqua,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Maria Botcharova Ellingsen,,Line Klæbo,"21/13,21/14",Maria Botcharova Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damesingle,,Giulia Dell'Acqua,,Malin Fossen Genberg,"21/8,21/9",Giulia Dell'Acqua,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Heine Lam Nybakk,Sondre Lie Foldnes,"21/15,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Ole Kristian Lie,Sindre Gjuvsland,"23/25,21/9,21/14",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Herredouble,Heine Lam Nybakk,Sondre Lie Foldnes,Ole Kristian Lie,Sindre Gjuvsland,"21/10,22/20",Heine Lam Nybakk,Sondre Lie Foldnes
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Hilde Genberg,Malin Fossen Genberg,Linn Duong,Ann Elin Digernes,"21/9,21/9",Hilde Genberg,Malin Fossen Genberg
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Nikol Hermansen,Dina Høl Bugge,Hilde Røssland,Ida Marie Thomassen Stiegler,"21/6,21/6",Nikol Hermansen,Dina Høl Bugge
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Hilde Genberg,Malin Fossen Genberg,Hilde Røssland,Ida Marie Thomassen Stiegler,"21/14,21/14",Hilde Genberg,Malin Fossen Genberg
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Linn Duong,Ann Elin Digernes,"21/6,21/0",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Hilde Genberg,Malin Fossen Genberg,"21/16,21/12",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Nikol Hermansen,Dina Høl Bugge,Linn Duong,Ann Elin Digernes,"21/7,21/6",Nikol Hermansen,Dina Høl Bugge
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Nikol Hermansen,Dina Høl Bugge,Hilde Genberg,Malin Fossen Genberg,"21/7,21/8",Nikol Hermansen,Dina Høl Bugge
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Hilde Røssland,Ida Marie Thomassen Stiegler,"21/12,21/11",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Hilde Røssland,Ida Marie Thomassen Stiegler,Linn Duong,Ann Elin Digernes,"21/16,21/15",Hilde Røssland,Ida Marie Thomassen Stiegler
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Damedouble,Maria Botcharova Ellingsen,Vera Botcharova Ellingsen,Nikol Hermansen,Dina Høl Bugge,"21/16,23/25,21/13",Maria Botcharova Ellingsen,Vera Botcharova Ellingsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Hilde Røssland,Morten Straume,Anne Lie Foldnes,Keveen Kumar Balasingam,"24/22,6/21,21/15",Hilde Røssland,Morten Straume
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Andreas Deinboll,Ingrid Teistung,Sindre Gjuvsland,Akarija Anton Reginold,"23/21,21/17",Andreas Deinboll,Ingrid Teistung
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Anne Lie Foldnes,Keveen Kumar Balasingam,Heine Lam Nybakk,Akija Anton Reginold,"21/13,21/19",Anne Lie Foldnes,Keveen Kumar Balasingam
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Heine Lam Nybakk,Akija Anton Reginold,Andreas Deinboll,Ingrid Teistung,"21/17,21/15",Heine Lam Nybakk,Akija Anton Reginold
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Anne Lie Foldnes,Keveen Kumar Balasingam,Sindre Gjuvsland,Akarija Anton Reginold,"21/16,21/17",Anne Lie Foldnes,Keveen Kumar Balasingam
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Anne Lie Foldnes,Keveen Kumar Balasingam,Andreas Deinboll,Ingrid Teistung,"21/15,18/21,21/8",Anne Lie Foldnes,Keveen Kumar Balasingam
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Sindre Gjuvsland,Akarija Anton Reginold,Heine Lam Nybakk,Akija Anton Reginold,"21/16,21/19",Sindre Gjuvsland,Akarija Anton Reginold
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Hilde Røssland,Morten Straume,Sondre Lie Foldnes,Juli Helen Johansen Klungtveit,"14/21,21/18,21/13",Hilde Røssland,Morten Straume
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Hilde Røssland,Morten Straume,Martin Brekke Hjellestad,Nikol Hermansen,"21/13,21/19",Hilde Røssland,Morten Straume
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN A,Mixeddouble,Sondre Lie Foldnes,Juli Helen Johansen Klungtveit,Martin Brekke Hjellestad,Nikol Hermansen,"20/22,21/18,21/15",Sondre Lie Foldnes,Juli Helen Johansen Klungtveit
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herresingle,,Andreas Deinboll,,Rushikesh Sane,"21/17,21/12",Andreas Deinboll,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herresingle,,Christian Lund Haugen,,Rushikesh Sane,"21/18,21/5",Christian Lund Haugen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herresingle,,Andreas Deinboll,,Christian Lund Haugen,"21/19,19/21,21/17",Andreas Deinboll,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herredouble,Andreas Deinboll,Ingrid Teistung,Jack Oterhals,Mats Lervåg,"26/24,22/20",Andreas Deinboll,Ingrid Teistung
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herredouble,Brynjar Hus,Martin Brekke Hjellestad,Kawa Kavian,Bharath Kumar Pachappan,"21/5,21/7",Brynjar Hus,Martin Brekke Hjellestad
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herredouble,Jack Oterhals,Mats Lervåg,Kawa Kavian,Bharath Kumar Pachappan,"27/25,21/12",Jack Oterhals,Mats Lervåg
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herredouble,Brynjar Hus,Martin Brekke Hjellestad,Andreas Deinboll,Ingrid Teistung,"21/13,22/20",Brynjar Hus,Martin Brekke Hjellestad
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herredouble,Brynjar Hus,Martin Brekke Hjellestad,Jack Oterhals,Mats Lervåg,"21/9,21/10",Brynjar Hus,Martin Brekke Hjellestad
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN B,Herredouble,Andreas Deinboll,Ingrid Teistung,Kawa Kavian,Bharath Kumar Pachappan,"21/18,21/16",Andreas Deinboll,Ingrid Teistung
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Fred Olaf Sørensen,,Per Bohman,"21/9,21/12",Fred Olaf Sørensen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Per Bohman,,Johan Gravdal,"21/17,25/23",Per Bohman,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Fred Olaf Sørensen,,Pål Kolstø,"21/12,21/16",Fred Olaf Sørensen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Per Bohman,,Einar Morgan Utne,"21/13,21/14",Per Bohman,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Einar Morgan Utne,,Jordan Michael Bauman,"21/8,21/6",Einar Morgan Utne,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Per Bohman,,Jordan Michael Bauman,"21/11,21/8",Per Bohman,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Johan Gravdal,,Markus Vik,"21/9,21/5",Johan Gravdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Kennet Hellesund Ellingsen,,Shivu Sidde Gowda,"21/9,21/5",Kennet Hellesund Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Johan Gravdal,,Shivu Sidde Gowda,"21/7,21/2",Johan Gravdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Kennet Hellesund Ellingsen,,Markus Vik,"21/11,21/12",Kennet Hellesund Ellingsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Johan Gravdal,,Kennet Hellesund Ellingsen,"21/12,21/11",Johan Gravdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Markus Vik,,Shivu Sidde Gowda,"21/6,21/7",Markus Vik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Magnus Severinsen,,Filip Træet Ellingsen,"21/10,21/10",Magnus Severinsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Pål Kolstø,,Ådne Vik,"21/3,21/9",Pål Kolstø,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Magnus Severinsen,,Ådne Vik,"21/16,21/16",Magnus Severinsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Pål Kolstø,,Filip Træet Ellingsen,"21/2,21/3",Pål Kolstø,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Pål Kolstø,,Magnus Severinsen,"21/5,21/7",Pål Kolstø,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Ådne Vik,,Filip Træet Ellingsen,"21/6,21/7",Ådne Vik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Fred Olaf Sørensen,,Morten Solsvik,"21/18,21/16",Fred Olaf Sørensen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Fred Olaf Sørensen,,Gian Carlos Dell Acqua,"21/17,21/16",Fred Olaf Sørensen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herresingle,,Morten Solsvik,,Gian Carlos Dell Acqua,"21/17,21/17",Morten Solsvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Ida Marie Thomassen Stiegler,,Mina Eriksen,"21/5,21/7",Ida Marie Thomassen Stiegler,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Tora Svennevik,,Ingrid-Elise Wammen Espeland,"21/10,21/8",Tora Svennevik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Ingrid-Elise Wammen Espeland,,Mina Eriksen,"21/19,19/21,21/9",Ingrid-Elise Wammen Espeland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Erle Sofie Andersen,,Tora Svennevik,"21/19,21/15",Erle Sofie Andersen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Erle Sofie Andersen,,Mina Eriksen,"21/2,21/13",Erle Sofie Andersen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Ida Marie Thomassen Stiegler,,Ingrid-Elise Wammen Espeland,"21/7,21/6",Ida Marie Thomassen Stiegler,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Ida Marie Thomassen Stiegler,,Tora Svennevik,"21/5,21/8",Ida Marie Thomassen Stiegler,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Erle Sofie Andersen,,Ingrid-Elise Wammen Espeland,"21/18,21/8",Erle Sofie Andersen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Tora Svennevik,,Mina Eriksen,"21/4,21/9",Tora Svennevik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Damesingle,,Ida Marie Thomassen Stiegler,,Erle Sofie Andersen,"21/10,21/3",Ida Marie Thomassen Stiegler,
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Atle Dahle,Robert Eriksen,"23/21,10/21,21/13",Morten Solsvik,Eirik Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Atle Dahle,Robert Eriksen,Kennet Hellesund Ellingsen,Gian Carlos Dell Acqua,"21/9,21/12",Atle Dahle,Robert Eriksen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Geir Digernes,Einar Kristoffer Kipperberg,Ådne Vik,Markus Vik,"21/5,21/13",Geir Digernes,Einar Kristoffer Kipperberg
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Johan Gravdal,Thomas Bringsli Midtun,"21/5,21/16",Morten Solsvik,Eirik Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Johan Gravdal,Thomas Bringsli Midtun,Ådne Vik,Markus Vik,"21/13,21/11",Johan Gravdal,Thomas Bringsli Midtun
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Geir Digernes,Einar Kristoffer Kipperberg,"21/7,21/16",Morten Solsvik,Eirik Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Ådne Vik,Markus Vik,"21/12,21/8",Morten Solsvik,Eirik Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Johan Gravdal,Thomas Bringsli Midtun,Geir Digernes,Einar Kristoffer Kipperberg,"21/15,21/16",Johan Gravdal,Thomas Bringsli Midtun
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Atle Dahle,Robert Eriksen,Sander Kallekodt Fjetland,Pål Kolstø,"21/14,21/13",Atle Dahle,Robert Eriksen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Sander Kallekodt Fjetland,Pål Kolstø,Rohit Harish Shah,Rama Krishna Dubasi,"21/17,21/12",Sander Kallekodt Fjetland,Pål Kolstø
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Atle Dahle,Robert Eriksen,Rohit Harish Shah,Rama Krishna Dubasi,"21/12,21/10",Atle Dahle,Robert Eriksen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Herredouble,Kennet Hellesund Ellingsen,Gian Carlos Dell Acqua,Tom Kristoffersen,Jordan Michael Bauman,"21/12,21/12",Kennet Hellesund Ellingsen,Gian Carlos Dell Acqua
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Birgitte Kristin Jordal,Christian Lund Haugen,Susanne Evensen Rasmussen,Atle Dahle,"21/13,21/11",Birgitte Kristin Jordal,Christian Lund Haugen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Birgitte Kristin Jordal,Christian Lund Haugen,Øyvind W Olsen,Mari Westad Ruud,"21/9,21/9",Birgitte Kristin Jordal,Christian Lund Haugen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Line Klæbo,Magnus Severinsen,Øyvind W Olsen,Mari Westad Ruud,"21/19,21/16",Line Klæbo,Magnus Severinsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Birgitte Kristin Jordal,Christian Lund Haugen,Line Klæbo,Magnus Severinsen,"21/12,18/21,21/13",Birgitte Kristin Jordal,Christian Lund Haugen
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Susanne Evensen Rasmussen,Atle Dahle,Geir Digernes,Ann Elin Digernes,"21/18,21/7",Susanne Evensen Rasmussen,Atle Dahle
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Linn Duong,Einar Kristoffer Kipperberg,Geir Digernes,Ann Elin Digernes,"21/19,16/21,21/14",Linn Duong,Einar Kristoffer Kipperberg
+2022/2023,Bergen Julecupen 2022,10.12.2022,SEN C,Mixeddouble,Susanne Evensen Rasmussen,Atle Dahle,Linn Duong,Einar Kristoffer Kipperberg,"13/21,21/19,21/12",Susanne Evensen Rasmussen,Atle Dahle
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Leo-Zacharias Christianson,,Noris Ekanger,"14/21,25/23,23/21",Leo-Zacharias Christianson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Noris Ekanger,,Leon Boge-Sørensen,"21/9,21/19",Noris Ekanger,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Leo-Zacharias Christianson,,Torbjørn Lier Andersen,"21/16,21/12",Leo-Zacharias Christianson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Noris Ekanger,,Philip Espeland Ådlandsvik,"21/17,21/13",Noris Ekanger,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Noris Ekanger,,Matheo Osman Tollefsen,"21/12,21/7",Noris Ekanger,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Matheo Osman Tollefsen,,Philip Espeland Ådlandsvik,"22/20,21/14",Matheo Osman Tollefsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Leon Boge-Sørensen,,Jonathan Jordal-Hesjedal,"21/8,21/18",Leon Boge-Sørensen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Leon Boge-Sørensen,,Erland Foshaug,"21/15,21/18",Leon Boge-Sørensen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Erland Foshaug,,Jonathan Jordal-Hesjedal,"21/4,21/12",Erland Foshaug,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Oliver Dagsland Bjørke,,Anton Babori,"21/17,21/15",Oliver Dagsland Bjørke,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Torbjørn Lier Andersen,,Rohit Senthilkumar,"21/15,21/19",Torbjørn Lier Andersen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Torbjørn Lier Andersen,,Anton Babori,"21/7,21/4",Torbjørn Lier Andersen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Rohit Senthilkumar,,Anton Babori,"21/11,21/12",Rohit Senthilkumar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Torbjørn Lier Andersen,,Oliver Dagsland Bjørke,"21/8,21/12",Torbjørn Lier Andersen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Rohit Senthilkumar,,Oliver Dagsland Bjørke,"19/21,21/14,21/12",Rohit Senthilkumar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Herresingle,,Leo-Zacharias Christianson,,Noah B.Johansen,"21/11,21/14",Leo-Zacharias Christianson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Mathilde Jordal-Hesjedal,,Jenny Røssland,"21/14,22/20",Mathilde Jordal-Hesjedal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Mathilde Jordal-Hesjedal,,Haasini Karumuri,"21/15,21/7",Mathilde Jordal-Hesjedal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Sofie Fauskanger Hauso,,Nicoline Marie Christiansdatter,"21/14,21/12",Sofie Fauskanger Hauso,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Mathilde Jordal-Hesjedal,,Sofie Fauskanger Hauso,"21/17,21/14",Mathilde Jordal-Hesjedal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Haasini Karumuri,,Nicoline Marie Christiansdatter,"21/15,17/21,21/19",Haasini Karumuri,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Mathilde Jordal-Hesjedal,,Nicoline Marie Christiansdatter,"21/10,21/12",Mathilde Jordal-Hesjedal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Sofie Fauskanger Hauso,,Haasini Karumuri,"21/14,21/12",Sofie Fauskanger Hauso,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Maja Lucy Panek,,Linnea Gjertine Kvamme,"21/16,19/21,21/15",Maja Lucy Panek,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Jenny Røssland,,Sandra Eilin Foshaug,"21/5,21/7",Jenny Røssland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Linnea Gjertine Kvamme,,Sandra Eilin Foshaug,"21/7,21/5",Linnea Gjertine Kvamme,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Jenny Røssland,,Maja Lucy Panek,"16/21,21/12,21/14",Jenny Røssland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Jenny Røssland,,Linnea Gjertine Kvamme,"21/16,21/18",Jenny Røssland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U11 B,Damesingle,,Maja Lucy Panek,,Sandra Eilin Foshaug,"21/2,21/6",Maja Lucy Panek,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Herresingle,,Max Straume,,Simen Våge Sætersdal,"18/21,21/18,21/17",Max Straume,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Herresingle,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"21/15,21/8",Thorben Mikal Ekren Ludvig,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Herresingle,,Max Straume,,Thorben Mikal Ekren Ludvig,"13/21,21/17,21/12",Max Straume,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Herredouble,Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta,Oskar Berg,Aki Max Sperr,"21/4,21/4",Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Herredouble,Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta,Max Straume,Simen Våge Sætersdal,"21/8,15/21,21/9",Thorben Mikal Ekren Ludvig,Markus Ekerhovd Sylta
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Herredouble,Max Straume,Simen Våge Sætersdal,Oskar Berg,Aki Max Sperr,"21/4,21/4",Max Straume,Simen Våge Sætersdal
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Damedouble,Linnea Alexandra Lilleskare,Emma Gundegjerde,Jenny Røssland,Linnea Gjertine Kvamme,"21/12,21/19",Linnea Alexandra Lilleskare,Emma Gundegjerde
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Damedouble,Elisabeth Lie,Christine Torsvik Loga,Maja Lucy Panek,Sofie Fauskanger Hauso,"21/9,21/10",Elisabeth Lie,Christine Torsvik Loga
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Damedouble,Elisabeth Lie,Christine Torsvik Loga,Linnea Alexandra Lilleskare,Emma Gundegjerde,"21/10,21/18",Elisabeth Lie,Christine Torsvik Loga
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 A,Damedouble,Elisabeth Lie,Christine Torsvik Loga,Jenny Røssland,Linnea Gjertine Kvamme,"21/6,21/10",Elisabeth Lie,Christine Torsvik Loga
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Liam Nybøe Nilssen,,Markus Ekerhovd Sylta,"21/12,15/21,21/16",Liam Nybøe Nilssen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Liam Nybøe Nilssen,,Ludvig Losnedahl,"21/10,21/9",Liam Nybøe Nilssen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Markus Ekerhovd Sylta,,Finn Stangenberg,"21/9,21/17",Markus Ekerhovd Sylta,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Samuel Gravdal,,William Økland Henriksen,"21/16,21/17",Samuel Gravdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Ludvig Losnedahl,,William Økland Henriksen,"21/8,21/13",Ludvig Losnedahl,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Ludvig Losnedahl,,Samuel Gravdal,"18/21,21/16,21/13",Ludvig Losnedahl,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,David Landøy,,Theodor Larsen Halln,"21/10,21/7",David Landøy,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Liam Nybøe Nilssen,,Theodor Larsen Halln,"21/2,21/3",Liam Nybøe Nilssen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herresingle,,Liam Nybøe Nilssen,,David Landøy,"21/3,21/9",Liam Nybøe Nilssen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Linnea Alexandra Lilleskare,,Emma Gundegjerde,"21/10,21/3",Linnea Alexandra Lilleskare,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Elisabeth Lie,,Lotta Birkeland Bergtun,"21/11,21/6",Elisabeth Lie,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Linnea Alexandra Lilleskare,,Lotta Birkeland Bergtun,"21/9,21/11",Linnea Alexandra Lilleskare,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Christine Torsvik Loga,,Emma Gundegjerde,"21/4,21/9",Christine Torsvik Loga,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Linnea Alexandra Lilleskare,,Christine Torsvik Loga,"21/9,22/20",Linnea Alexandra Lilleskare,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Elisabeth Lie,,Emma Gundegjerde,"21/7,21/7",Elisabeth Lie,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Elisabeth Lie,,Linnea Alexandra Lilleskare,"21/19,13/21,21/15",Elisabeth Lie,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Lotta Birkeland Bergtun,,Christine Torsvik Loga,"21/17,18/21,21/17",Lotta Birkeland Bergtun,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Lotta Birkeland Bergtun,,Emma Gundegjerde,"21/7,21/13",Lotta Birkeland Bergtun,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Damesingle,,Elisabeth Lie,,Christine Torsvik Loga,"21/17,21/17",Elisabeth Lie,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herredouble,Leon Boge-Sørensen,Leo-Zacharias Christianson,Theodor Larsen Halln,David Landøy,"21/10,21/7",Leon Boge-Sørensen,Leo-Zacharias Christianson
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herredouble,Liam Nybøe Nilssen,Ludvig Losnedahl,William Økland Henriksen,Finn Stangenberg,"21/8,21/9",Liam Nybøe Nilssen,Ludvig Losnedahl
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herredouble,Liam Nybøe Nilssen,Ludvig Losnedahl,Leon Boge-Sørensen,Leo-Zacharias Christianson,"21/12,21/10",Liam Nybøe Nilssen,Ludvig Losnedahl
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herredouble,William Økland Henriksen,Finn Stangenberg,Theodor Larsen Halln,David Landøy,"21/17,21/18",William Økland Henriksen,Finn Stangenberg
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herredouble,Leon Boge-Sørensen,Leo-Zacharias Christianson,William Økland Henriksen,Finn Stangenberg,"21/17,21/17",Leon Boge-Sørensen,Leo-Zacharias Christianson
+2022/2023,Bergen Julecupen 2022,10.12.2022,U13 B,Herredouble,Liam Nybøe Nilssen,Ludvig Losnedahl,Theodor Larsen Halln,David Landøy,"21/6,21/3",Liam Nybøe Nilssen,Ludvig Losnedahl
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Fabian Nelson,"22/20,22/20",Simon Andrés Vasquez Frisnes,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Julian Økland Henriksen,,William Njøten Myrvang,"21/19,21/15",Julian Økland Henriksen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,William Njøten Myrvang,"21/10,21/7",Simon Andrés Vasquez Frisnes,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Julian Økland Henriksen,"21/7,21/6",Simon Andrés Vasquez Frisnes,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Martin Våge Sætersdal,,Eskild Røssland,"21/14,21/19",Martin Våge Sætersdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Fabian Nelson,,Thomas Lam Nybakk,"21/18,19/21,21/15",Fabian Nelson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Thomas Lam Nybakk,,Martin Våge Sætersdal,"21/14,21/17",Thomas Lam Nybakk,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Fabian Nelson,,Eskild Røssland,"21/13,21/14",Fabian Nelson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Fabian Nelson,,Martin Våge Sætersdal,"21/11,21/9",Fabian Nelson,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herresingle,,Thomas Lam Nybakk,,Eskild Røssland,"21/17,21/11",Thomas Lam Nybakk,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Damesingle,,Angelina Sharma,,Sophia Isabella Miedler,"21/14,21/12",Angelina Sharma,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Damesingle,,Angelina Sharma,,Justé Beinoriuté,"21/16,21/6",Angelina Sharma,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Damesingle,,Sophia Isabella Miedler,,Justé Beinoriuté,"21/6,21/5",Sophia Isabella Miedler,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herredouble,Simon Andrés Vasquez Frisnes,Fabian Nelson,Eskild Røssland,William Njøten Myrvang,"21/11,21/4",Simon Andrés Vasquez Frisnes,Fabian Nelson
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herredouble,Thomas Lam Nybakk,Håvard Lie Foldnes,Julian Økland Henriksen,Martin Våge Sætersdal,"21/8,17/21,21/19",Thomas Lam Nybakk,Håvard Lie Foldnes
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herredouble,Julian Økland Henriksen,Martin Våge Sætersdal,Eskild Røssland,William Njøten Myrvang,"16/21,21/15,23/21",Julian Økland Henriksen,Martin Våge Sætersdal
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herredouble,Simon Andrés Vasquez Frisnes,Fabian Nelson,Thomas Lam Nybakk,Håvard Lie Foldnes,"21/19,21/15",Simon Andrés Vasquez Frisnes,Fabian Nelson
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herredouble,Thomas Lam Nybakk,Håvard Lie Foldnes,Eskild Røssland,William Njøten Myrvang,"21/10,21/13",Thomas Lam Nybakk,Håvard Lie Foldnes
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Herredouble,Simon Andrés Vasquez Frisnes,Fabian Nelson,Julian Økland Henriksen,Martin Våge Sætersdal,"21/19,21/13",Simon Andrés Vasquez Frisnes,Fabian Nelson
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Mixeddouble,Lotta Birkeland Bergtun,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,Elisabeth Lie,"21/7,21/17",Lotta Birkeland Bergtun,Markus Ekerhovd Sylta
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Mixeddouble,Sophia Isabella Miedler,Martin Våge Sætersdal,Thorben Mikal Ekren Ludvig,Elisabeth Lie,"21/6,21/10",Sophia Isabella Miedler,Martin Våge Sætersdal
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Mixeddouble,Sophia Isabella Miedler,Martin Våge Sætersdal,Lotta Birkeland Bergtun,Markus Ekerhovd Sylta,"21/8,21/7",Sophia Isabella Miedler,Martin Våge Sætersdal
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Mixeddouble,Justé Beinoriuté,Thomas Lam Nybakk,Thorben Mikal Ekren Ludvig,Elisabeth Lie,"21/12,21/9",Justé Beinoriuté,Thomas Lam Nybakk
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Mixeddouble,Justé Beinoriuté,Thomas Lam Nybakk,Lotta Birkeland Bergtun,Markus Ekerhovd Sylta,"21/4,21/13",Justé Beinoriuté,Thomas Lam Nybakk
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 A,Mixeddouble,Justé Beinoriuté,Thomas Lam Nybakk,Sophia Isabella Miedler,Martin Våge Sætersdal,"21/13,18/21,21/17",Justé Beinoriuté,Thomas Lam Nybakk
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mio Skuterud Stenseth,,Jonas Mallesvik Aarvik,"21/19,22/20",Mio Skuterud Stenseth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Jonas Mallesvik Aarvik,,Liam Andre Rasmussen,"27/25,16/21,21/16",Jonas Mallesvik Aarvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mio Skuterud Stenseth,,Rasmus Bohman,"21/18,21/14",Mio Skuterud Stenseth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Liam Andre Rasmussen,,Mikus Arins,"21/7,21/8",Liam Andre Rasmussen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Rasmus Bohman,,Mikael Gravdal,"21/7,21/7",Rasmus Bohman,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mio Skuterud Stenseth,,Åsmund Svennevik,"21/13,16/21,21/15",Mio Skuterud Stenseth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Himanshu Dubasi,,Daniel Johansson Norem,"21/15,21/12",Himanshu Dubasi,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Jonas Mallesvik Aarvik,,Nikolai A. Klodvik,"21/15,21/19",Jonas Mallesvik Aarvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Nikolai A. Klodvik,,Daniel Johansson Norem,"21/11,21/13",Nikolai A. Klodvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Jonas Mallesvik Aarvik,,Himanshu Dubasi,"21/17,21/14",Jonas Mallesvik Aarvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Jonas Mallesvik Aarvik,,Daniel Johansson Norem,"21/5,21/4",Jonas Mallesvik Aarvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Nikolai A. Klodvik,,Himanshu Dubasi,"21/12,21/18",Nikolai A. Klodvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Alonso Dell’Acqua,,Adrian Chaipiboon-Sømo,"19/21,21/12,21/16",Alonso Dell’Acqua,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Liam Andre Rasmussen,,Alonso Dell’Acqua,"21/9,21/16",Liam Andre Rasmussen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Liam Andre Rasmussen,,Adrian Chaipiboon-Sømo,"21/9,21/10",Liam Andre Rasmussen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Said Usman Beshir,,Aron Krossøy,"16/21,30/29,21/19",Said Usman Beshir,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mikus Arins,,Aron Krossøy,"21/16,21/13",Mikus Arins,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mikus Arins,,Said Usman Beshir,"21/19,21/16",Mikus Arins,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mikael Gravdal,,Ørjan Lønning Bertelsen,"21/17,21/9",Mikael Gravdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Marius Bergo Nielsen,,Ørjan Lønning Bertelsen,"21/17,21/11",Marius Bergo Nielsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mikael Gravdal,,Marius Bergo Nielsen,"21/18,21/17",Mikael Gravdal,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Rasmus Bohman,,Marius Johansen,"21/15,21/7",Rasmus Bohman,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Rasmus Bohman,,Mathias Emil Rong Kårstad,"21/18,21/15",Rasmus Bohman,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mathias Emil Rong Kårstad,,Marius Johansen,"21/14,21/12",Mathias Emil Rong Kårstad,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Sebastian Kristiansen,,Benjamin Chen-Nilsen,"21/18,21/13",Sebastian Kristiansen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Åsmund Svennevik,,Benjamin Chen-Nilsen,"21/9,21/4",Åsmund Svennevik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Åsmund Svennevik,,Sebastian Kristiansen,"21/11,21/8",Åsmund Svennevik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Sigurd Sørheim,,Lukas Garlid,"21/3,21/6",Sigurd Sørheim,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mio Skuterud Stenseth,,Lukas Garlid,"21/5,21/1",Mio Skuterud Stenseth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Herresingle,,Mio Skuterud Stenseth,,Sigurd Sørheim,"21/12,21/12",Mio Skuterud Stenseth,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Eldrid Fitjar,,Sofie Bjelke Samuelsen,"21/19,15/21,23/21",Eldrid Fitjar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Eldrid Fitjar,,Caroline Ernest,"16/21,21/18,21/16",Eldrid Fitjar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Julia Merkesvik,,Jenny Blix,"21/2,21/6",Julia Merkesvik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Nandini Karumuri,,Sofie Kversøy-Sirkka,"22/20,12/21,21/16",Nandini Karumuri,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Sofie Bjelke Samuelsen,,Marie Fimreite Håpoldøy,"21/14,21/9",Sofie Bjelke Samuelsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Sofie Bjelke Samuelsen,,Sofie Kversøy-Sirkka,"21/6,21/8",Sofie Bjelke Samuelsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Sofie Bjelke Samuelsen,,Nandini Karumuri,"21/5,21/12",Sofie Bjelke Samuelsen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Ida Olea Aasheim,,Selen Ana Lasmina,"21/6,21/5",Ida Olea Aasheim,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Eldrid Fitjar,,Heer Harsiddhi Tak,"20/22,21/16,21/12",Eldrid Fitjar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Eldrid Fitjar,,Selen Ana Lasmina,"21/7,21/13",Eldrid Fitjar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Ida Olea Aasheim,,Heer Harsiddhi Tak,"21/14,21/9",Ida Olea Aasheim,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Heer Harsiddhi Tak,,Selen Ana Lasmina,"23/21,22/20",Heer Harsiddhi Tak,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Eldrid Fitjar,,Ida Olea Aasheim,"21/19,21/17",Eldrid Fitjar,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Caroline Ernest,,Nora Jæger Thorland,"21/10,21/9",Caroline Ernest,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Caroline Ernest,,Marie Torsvik Loga,"21/19,25/23",Caroline Ernest,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U15 B,Damesingle,,Marie Torsvik Loga,,Nora Jæger Thorland,"21/13,21/8",Marie Torsvik Loga,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Pranav Tehlan,"23/21,11/21,21/16",Sindre Gjuvsland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Herman Kolstø,"21/18,21/18",Sindre Gjuvsland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Pranav Tehlan,,Tingyu Zhang,"21/16,21/12",Pranav Tehlan,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Tingyu Zhang,,Johannes Tobiassen,"21/13,14/21,21/14",Tingyu Zhang,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Pranav Tehlan,,Johannes Tobiassen,"21/13,21/23,21/10",Pranav Tehlan,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Eram Jafer Ali Hassen,,Sander Kallekodt Fjetland,"21/14,21/5",Eram Jafer Ali Hassen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Adrian Helle Ekerhovd,"21/13,21/12",Sindre Gjuvsland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Eram Jafer Ali Hassen,"21/16,19/21,21/13",Sindre Gjuvsland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Adrian Helle Ekerhovd,,Sander Kallekodt Fjetland,"21/11,24/22",Adrian Helle Ekerhovd,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Eram Jafer Ali Hassen,,Adrian Helle Ekerhovd,"21/15,21/6",Eram Jafer Ali Hassen,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Sander Kallekodt Fjetland,"21/7,21/16",Sindre Gjuvsland,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Åsmund Sundal-Gjerdevik,,Patrik Toftevåg-nesset,"21/9,21/15",Åsmund Sundal-Gjerdevik,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Herman Kolstø,,Patrik Toftevåg-nesset,"21/8,21/7",Herman Kolstø,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herresingle,,Herman Kolstø,,Åsmund Sundal-Gjerdevik,"21/15,21/9",Herman Kolstø,
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herredouble,Pranav Tehlan,Adrian Helle Ekerhovd,Tingyu Zhang,Eram Jafer Ali Hassen,"21/16,21/11",Pranav Tehlan,Adrian Helle Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herredouble,Åsmund Sundal-Gjerdevik,Herman Kolstø,Patrik Toftevåg-nesset,Johannes Tobiassen,"21/16,21/15",Åsmund Sundal-Gjerdevik,Herman Kolstø
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herredouble,Tingyu Zhang,Eram Jafer Ali Hassen,Patrik Toftevåg-nesset,Johannes Tobiassen,"21/10,13/21,21/14",Tingyu Zhang,Eram Jafer Ali Hassen
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herredouble,Pranav Tehlan,Adrian Helle Ekerhovd,Åsmund Sundal-Gjerdevik,Herman Kolstø,"21/8,21/13",Pranav Tehlan,Adrian Helle Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herredouble,Åsmund Sundal-Gjerdevik,Herman Kolstø,Tingyu Zhang,Eram Jafer Ali Hassen,"21/17,21/12",Åsmund Sundal-Gjerdevik,Herman Kolstø
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 A,Herredouble,Pranav Tehlan,Adrian Helle Ekerhovd,Patrik Toftevåg-nesset,Johannes Tobiassen,"21/17,21/18",Pranav Tehlan,Adrian Helle Ekerhovd
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Rasmus Bohman,Åsmund Svennevik,Brand Ivar Hetland Bauman,Mio Skuterud Stenseth,"21/15,21/17",Rasmus Bohman,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Rasmus Bohman,Åsmund Svennevik,Sigurd Sørheim,Sebastian Kristiansen,"21/13,21/9",Rasmus Bohman,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Brand Ivar Hetland Bauman,Mio Skuterud Stenseth,Liam Andre Rasmussen,Jonas Mallesvik Aarvik,"21/18,15/21,21/17",Brand Ivar Hetland Bauman,Mio Skuterud Stenseth
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Marius Johansen,Ørjan Lønning Bertelsen,Daniel Johansson Norem,Adrian Chaipiboon-Sømo,"21/14,21/15",Marius Johansen,Ørjan Lønning Bertelsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Sigurd Sørheim,Sebastian Kristiansen,Marius Johansen,Ørjan Lønning Bertelsen,"21/11,21/15",Sigurd Sørheim,Sebastian Kristiansen
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Sigurd Sørheim,Sebastian Kristiansen,Daniel Johansson Norem,Adrian Chaipiboon-Sømo,"21/8,21/11",Sigurd Sørheim,Sebastian Kristiansen
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Rasmus Bohman,Åsmund Svennevik,Peder Fjeldså Frostad,Marius Bergo Nielsen,"21/9,21/12",Rasmus Bohman,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Peder Fjeldså Frostad,Marius Bergo Nielsen,Said Usman Beshir,Mikus Arins,"21/11,21/17",Peder Fjeldså Frostad,Marius Bergo Nielsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Herredouble,Rasmus Bohman,Åsmund Svennevik,Said Usman Beshir,Mikus Arins,"21/12,21/8",Rasmus Bohman,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Damedouble,Julia Merkesvik,Marie Fimreite Håpoldøy,Mari Westad Ruud,Sofie Bjelke Samuelsen,"22/20,22/20",Julia Merkesvik,Marie Fimreite Håpoldøy
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Damedouble,Mari Westad Ruud,Sofie Bjelke Samuelsen,Sofie Kversøy-Sirkka,Ida Olea Aasheim,"21/12,21/16",Mari Westad Ruud,Sofie Bjelke Samuelsen
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Damedouble,Justé Beinoriuté,Sophia Isabella Miedler,Julia Merkesvik,Marie Fimreite Håpoldøy,"21/6,21/11",Justé Beinoriuté,Sophia Isabella Miedler
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Damedouble,Justé Beinoriuté,Sophia Isabella Miedler,Mari Westad Ruud,Sofie Bjelke Samuelsen,"21/16,21/16",Justé Beinoriuté,Sophia Isabella Miedler
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Damedouble,Justé Beinoriuté,Sophia Isabella Miedler,Sofie Kversøy-Sirkka,Ida Olea Aasheim,"21/9,21/4",Justé Beinoriuté,Sophia Isabella Miedler
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Damedouble,Julia Merkesvik,Marie Fimreite Håpoldøy,Sofie Kversøy-Sirkka,Ida Olea Aasheim,"21/15,19/21,21/14",Julia Merkesvik,Marie Fimreite Håpoldøy
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Erle Sofie Andersen,Brand Ivar Hetland Bauman,Tora Svennevik,Åsmund Svennevik,"9/21,21/17,21/15",Erle Sofie Andersen,Brand Ivar Hetland Bauman
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Ida Olea Aasheim,Mikus Arins,Himanshu Dubasi,Selen Ana Lasmina,"21/16,21/18",Ida Olea Aasheim,Mikus Arins
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Erle Sofie Andersen,Brand Ivar Hetland Bauman,Himanshu Dubasi,Selen Ana Lasmina,"21/16,21/17",Erle Sofie Andersen,Brand Ivar Hetland Bauman
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Erle Sofie Andersen,Brand Ivar Hetland Bauman,Ida Olea Aasheim,Mikus Arins,"21/18,21/18",Erle Sofie Andersen,Brand Ivar Hetland Bauman
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Tora Svennevik,Åsmund Svennevik,Marie Fimreite Håpoldøy,Jonas Mallesvik Aarvik,"12/21,21/19,21/16",Tora Svennevik,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Mio Skuterud Stenseth,Julia Merkesvik,Said Usman Beshir,Sofie Kversøy-Sirkka,"21/5,21/8",Mio Skuterud Stenseth,Julia Merkesvik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Tora Svennevik,Åsmund Svennevik,Said Usman Beshir,Sofie Kversøy-Sirkka,"21/12,21/3",Tora Svennevik,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Mio Skuterud Stenseth,Julia Merkesvik,Marie Fimreite Håpoldøy,Jonas Mallesvik Aarvik,"21/19,21/23,21/16",Mio Skuterud Stenseth,Julia Merkesvik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Tora Svennevik,Åsmund Svennevik,Mio Skuterud Stenseth,Julia Merkesvik,"21/16,20/22,21/19",Tora Svennevik,Åsmund Svennevik
+2022/2023,Bergen Julecupen 2022,10.12.2022,U17 B,Mixeddouble,Marie Fimreite Håpoldøy,Jonas Mallesvik Aarvik,Said Usman Beshir,Sofie Kversøy-Sirkka,"21/14,21/9",Marie Fimreite Håpoldøy,Jonas Mallesvik Aarvik

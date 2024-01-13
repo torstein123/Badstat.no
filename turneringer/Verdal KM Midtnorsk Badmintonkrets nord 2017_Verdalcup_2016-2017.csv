@@ -1,418 +1,178 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Håvard Soløy,Tore Hansen,"21/13,21/16",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Odd Helge Gåsbakk,Andreas Nordhøy,"21/15,21/18",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Kent Roger Sandvær,Elias Lenning,Lars Erik Karlsen,Steinar Fornes,"21/10,21/16",Kent Roger Sandvær,Elias Lenning
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Lars Erik Karlsen,Steinar Fornes,"21/16,21/13",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Kent Roger Sandvær,Elias Lenning,"20/22,21/14,21/14",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Roar Natvig,Benjamin Falck,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/15,16/21,21/11",Roar Natvig,Benjamin Falck
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/10,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Roar Natvig,Benjamin Falck,"21/11,26/28,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/9,21/8",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Torleiv Hov Grønbech,Sigbjørn Lund Wang,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/17,14/21,21/17",Torleiv Hov Grønbech,Sigbjørn Lund Wang
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Torleiv Hov Grønbech,Sigbjørn Lund Wang,"21/18,21/16",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,kristiane lenning,Louise Prestø,"21/16,21/14",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Ingrid Gåsbakk,Marte Loeng,"19/21,23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/8,21/16",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Ingrid Gåsbakk,Marte Loeng,"21/17,21/16",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Ingrid Gåsbakk,Marte Loeng,"20/22,21/11,21/12",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/14,21/13",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Lorents Blomseth,"21/18,21/18",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Kristoffer Kielland Rædergård,,Håvard Buvik,"21/7,21/8",Kristoffer Kielland Rædergård,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lorents Blomseth,,Håvard Buvik,"21/11,21/16",Lorents Blomseth,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Kristoffer Kielland Rædergård,,Tobias Taube,"21/11,21/18",Kristoffer Kielland Rædergård,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Håvard Buvik,,Tobias Taube,"21/13,21/9",Håvard Buvik,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lorents Blomseth,,Kristoffer Kielland Rædergård,"22/20,21/15",Lorents Blomseth,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lorents Blomseth,,Tobias Taube,"21/8,21/2",Lorents Blomseth,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Espen Fredriksen,,Stig Gåsbakk,"24/22,21/15",Espen Fredriksen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Steinar Fornes,"21/12,21/9",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Stig Gåsbakk,"21/13,21/12",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Espen Fredriksen,,Steinar Fornes,"22/20,21/15",Espen Fredriksen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Espen Fredriksen,"21/15,21/4",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Steinar Fornes,,Stig Gåsbakk,"21/17,21/5",Steinar Fornes,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Lorents Blomseth,"21/18,21/18",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Kristoffer Kielland Rædergård,,Håvard Buvik,"21/7,21/8",Kristoffer Kielland Rædergård,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lorents Blomseth,,Håvard Buvik,"21/11,21/16",Lorents Blomseth,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Kristoffer Kielland Rædergård,,Tobias Taube,"21/11,21/18",Kristoffer Kielland Rædergård,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Håvard Buvik,,Tobias Taube,"21/13,21/9",Håvard Buvik,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lorents Blomseth,,Kristoffer Kielland Rædergård,"22/20,21/15",Lorents Blomseth,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lorents Blomseth,,Tobias Taube,"21/8,21/2",Lorents Blomseth,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Espen Fredriksen,,Stig Gåsbakk,"24/22,21/15",Espen Fredriksen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Steinar Fornes,"21/12,21/9",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Stig Gåsbakk,"21/13,21/12",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Espen Fredriksen,,Steinar Fornes,"22/20,21/15",Espen Fredriksen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Shayan Jalilian,,Espen Fredriksen,"21/15,21/4",Shayan Jalilian,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Steinar Fornes,,Stig Gåsbakk,"21/17,21/5",Steinar Fornes,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lone Hopstad,,Thelma Lovise Flaat-Gåsbakk,"21/13,21/19",Lone Hopstad,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Mirjam Finanger,,Thelma Lovise Flaat-Gåsbakk,"21/18,21/7",Mirjam Finanger,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,,Lone Hopstad,,Mirjam Finanger,"11/21,21/15,22/20",Lone Hopstad,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Kai Roger Stensen,Kristoffer Kielland Rædergård,Shayan Jalilian,Marius Olsen,"21/15,21/12",Kai Roger Stensen,Kristoffer Kielland Rædergård
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Sigve Moe Bjertnes,Benjamin Wang,Tobias Taube,Torgeir Lenning,"16/21,23/21,21/17",Sigve Moe Bjertnes,Benjamin Wang
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Shayan Jalilian,Marius Olsen,Tom Smebye,Kristian Renbjør,"21/14,21/19",Shayan Jalilian,Marius Olsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Tom Smebye,Kristian Renbjør,Tobias Taube,Torgeir Lenning,"21/4,21/16",Tom Smebye,Kristian Renbjør
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Shayan Jalilian,Marius Olsen,Sigve Moe Bjertnes,Benjamin Wang,"21/11,21/17",Shayan Jalilian,Marius Olsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Shayan Jalilian,Marius Olsen,Tobias Taube,Torgeir Lenning,"21/13,21/12",Shayan Jalilian,Marius Olsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Tom Smebye,Kristian Renbjør,Sigve Moe Bjertnes,Benjamin Wang,"21/11,21/15",Tom Smebye,Kristian Renbjør
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Kai Roger Stensen,Kristoffer Kielland Rædergård,Mikael Grande,Sigurd Lorvik,"21/11,21/13",Kai Roger Stensen,Kristoffer Kielland Rædergård
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Håvard Buvik,Stig Gåsbakk,Mikael Grande,Sigurd Lorvik,"21/18,17/21,21/14",Håvard Buvik,Stig Gåsbakk
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Lorents Blomseth,Espen Fredriksen,Håvard Buvik,Stig Gåsbakk,"21/10,21/16",Lorents Blomseth,Espen Fredriksen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Kai Roger Stensen,Kristoffer Kielland Rædergård,Lorents Blomseth,Espen Fredriksen,"21/12,19/21,21/13",Kai Roger Stensen,Kristoffer Kielland Rædergård
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Lorents Blomseth,Espen Fredriksen,Mikael Grande,Sigurd Lorvik,"24/22,21/13",Lorents Blomseth,Espen Fredriksen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Kai Roger Stensen,Kristoffer Kielland Rædergård,Håvard Buvik,Stig Gåsbakk,"19/21,21/10,21/11",Kai Roger Stensen,Kristoffer Kielland Rædergård
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mirjam Finanger,Lone Hopstad,Lotte Flaat-Gåsbakk,Solveig Olea Flaat-Solberg,"21/5,21/10",Mirjam Finanger,Lone Hopstad
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mirjam Finanger,Lone Hopstad,Thelma Lovise Flaat-Gåsbakk,Rikke Grongstad,"21/15,21/13",Mirjam Finanger,Lone Hopstad
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Line Klæbo,Lena Falch,Lotte Flaat-Gåsbakk,Solveig Olea Flaat-Solberg,"21/14,21/8",Line Klæbo,Lena Falch
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Thelma Lovise Flaat-Gåsbakk,Rikke Grongstad,Lotte Flaat-Gåsbakk,Solveig Olea Flaat-Solberg,"21/9,21/4",Thelma Lovise Flaat-Gåsbakk,Rikke Grongstad
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mirjam Finanger,Lone Hopstad,Line Klæbo,Lena Falch,"23/21,21/14",Mirjam Finanger,Lone Hopstad
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Håvard Soløy,Tore Hansen,"21/13,21/16",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Odd Helge Gåsbakk,Andreas Nordhøy,"21/15,21/18",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Kent Roger Sandvær,Elias Lenning,Lars Erik Karlsen,Steinar Fornes,"21/10,21/16",Kent Roger Sandvær,Elias Lenning
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Lars Erik Karlsen,Steinar Fornes,"21/16,21/13",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Kent Roger Sandvær,Elias Lenning,"20/22,21/14,21/14",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Roar Natvig,Benjamin Falck,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/15,16/21,21/11",Roar Natvig,Benjamin Falck
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/10,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Roar Natvig,Benjamin Falck,"21/11,26/28,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/9,21/8",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Torleiv Hov Grønbech,Sigbjørn Lund Wang,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/17,14/21,21/17",Torleiv Hov Grønbech,Sigbjørn Lund Wang
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Torleiv Hov Grønbech,Sigbjørn Lund Wang,"21/18,21/16",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,kristiane lenning,Louise Prestø,"21/16,21/14",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Ingrid Gåsbakk,Marte Loeng,"19/21,23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/8,21/16",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Ingrid Gåsbakk,Marte Loeng,"21/17,21/16",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Ingrid Gåsbakk,Marte Loeng,"20/22,21/11,21/12",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/14,21/13",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,kristiane lenning,Louise Prestø,"21/16,21/14",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Ingrid Gåsbakk,Marte Loeng,"19/21,23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/8,21/16",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Ingrid Gåsbakk,Marte Loeng,"21/17,21/16",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Ingrid Gåsbakk,Marte Loeng,"20/22,21/11,21/12",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/14,21/13",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Håvard Soløy,Tore Hansen,"21/13,21/16",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Odd Helge Gåsbakk,Andreas Nordhøy,"21/15,21/18",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Kent Roger Sandvær,Elias Lenning,Lars Erik Karlsen,Steinar Fornes,"21/10,21/16",Kent Roger Sandvær,Elias Lenning
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Lars Erik Karlsen,Steinar Fornes,"21/16,21/13",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Kent Roger Sandvær,Elias Lenning,"20/22,21/14,21/14",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Roar Natvig,Benjamin Falck,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/15,16/21,21/11",Roar Natvig,Benjamin Falck
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/10,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Roar Natvig,Benjamin Falck,"21/11,26/28,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/9,21/8",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Torleiv Hov Grønbech,Sigbjørn Lund Wang,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/17,14/21,21/17",Torleiv Hov Grønbech,Sigbjørn Lund Wang
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Torleiv Hov Grønbech,Sigbjørn Lund Wang,"21/18,21/16",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,kristiane lenning,Louise Prestø,"21/16,21/14",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Ingrid Gåsbakk,Marte Loeng,"19/21,23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/8,21/16",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Ingrid Gåsbakk,Marte Loeng,"21/17,21/16",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Ingrid Gåsbakk,Marte Loeng,"20/22,21/11,21/12",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/14,21/13",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Signe Lenning,,Linnea Nordnes Prestø,"21/14,18/21,21/14",Signe Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Signe Lenning,,Erle Nordbakk,"21/16,21/18",Signe Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Erle Nordbakk,,Emilie Hasselvold,"21/10,21/12",Erle Nordbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Signe Lenning,,Emilie Hasselvold,"21/11,21/15",Signe Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Linnea Nordnes Prestø,,Iselin Gåsbakk,"21/11,14/21,21/17",Linnea Nordnes Prestø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Ingvild Åsenhus Petersen,,Agnes Fornes,"21/9,21/8",Ingvild Åsenhus Petersen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Linnea Nordnes Prestø,,Ingvild Åsenhus Petersen,"23/21,21/14",Linnea Nordnes Prestø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Iselin Gåsbakk,,Agnes Fornes,"21/10,21/10",Iselin Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Linnea Nordnes Prestø,,Agnes Fornes,"21/15,21/14",Linnea Nordnes Prestø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Ingvild Åsenhus Petersen,,Iselin Gåsbakk,"16/21,21/10,21/18",Ingvild Åsenhus Petersen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Signe Lenning,,Linnea Nordnes Prestø,"21/14,18/21,21/14",Signe Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Signe Lenning,,Erle Nordbakk,"21/16,21/18",Signe Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Erle Nordbakk,,Emilie Hasselvold,"21/10,21/12",Erle Nordbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Signe Lenning,,Emilie Hasselvold,"21/11,21/15",Signe Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Linnea Nordnes Prestø,,Iselin Gåsbakk,"21/11,14/21,21/17",Linnea Nordnes Prestø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Ingvild Åsenhus Petersen,,Agnes Fornes,"21/9,21/8",Ingvild Åsenhus Petersen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Linnea Nordnes Prestø,,Ingvild Åsenhus Petersen,"23/21,21/14",Linnea Nordnes Prestø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Iselin Gåsbakk,,Agnes Fornes,"21/10,21/10",Iselin Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Linnea Nordnes Prestø,,Agnes Fornes,"21/15,21/14",Linnea Nordnes Prestø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,,Ingvild Åsenhus Petersen,,Iselin Gåsbakk,"16/21,21/10,21/18",Ingvild Åsenhus Petersen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Håvard Soløy,Tore Hansen,"21/13,21/16",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Odd Helge Gåsbakk,Andreas Nordhøy,"21/15,21/18",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Kent Roger Sandvær,Elias Lenning,Lars Erik Karlsen,Steinar Fornes,"21/10,21/16",Kent Roger Sandvær,Elias Lenning
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Lars Erik Karlsen,Steinar Fornes,"21/16,21/13",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Trond Mære,Rolf Ove Karlsen,Kent Roger Sandvær,Elias Lenning,"20/22,21/14,21/14",Trond Mære,Rolf Ove Karlsen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Roar Natvig,Benjamin Falck,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/15,16/21,21/11",Roar Natvig,Benjamin Falck
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/10,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Håvard Soløy,Tore Hansen,Roar Natvig,Benjamin Falck,"21/11,26/28,21/15",Håvard Soløy,Tore Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/9,21/8",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Torleiv Hov Grønbech,Sigbjørn Lund Wang,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/17,14/21,21/17",Torleiv Hov Grønbech,Sigbjørn Lund Wang
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Odd Helge Gåsbakk,Andreas Nordhøy,Torleiv Hov Grønbech,Sigbjørn Lund Wang,"21/18,21/16",Odd Helge Gåsbakk,Andreas Nordhøy
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,kristiane lenning,Louise Prestø,"21/16,21/14",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Ingrid Gåsbakk,Marte Loeng,"19/21,23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/8,21/16",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Ingrid Gåsbakk,Marte Loeng,"21/17,21/16",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,kristiane lenning,Louise Prestø,Ingrid Gåsbakk,Marte Loeng,"20/22,21/11,21/12",kristiane lenning,Louise Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Live Hov Grønbech,Frida Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/14,21/13",Live Hov Grønbech,Frida Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,Henrik Buvik,"21/8,21/13",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,Jonas Formo,"21/15,21/11",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Odin Formo,,John Isak Vist,"21/15,21/10",Odin Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,Odin Formo,"21/8,21/7",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Jonas Formo,,John Isak Vist,"21/6,21/4",Jonas Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,John Isak Vist,"21/17,21/6",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Jonas Formo,,Odin Formo,"21/11,21/18",Jonas Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Henrik Buvik,,Benjamin Wang,"21/15,21/12",Henrik Buvik,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Henrik Buvik,,Sander Bjertnes Hansen,"13/21,23/21,21/16",Henrik Buvik,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Sander Bjertnes Hansen,,Benjamin Wang,"21/14,21/17",Sander Bjertnes Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,Henrik Buvik,"21/8,21/13",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,Jonas Formo,"21/15,21/11",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Odin Formo,,John Isak Vist,"21/15,21/10",Odin Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,Odin Formo,"21/8,21/7",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Jonas Formo,,John Isak Vist,"21/6,21/4",Jonas Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Børge Håland,,John Isak Vist,"21/17,21/6",Børge Håland,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Jonas Formo,,Odin Formo,"21/11,21/18",Jonas Formo,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Henrik Buvik,,Benjamin Wang,"21/15,21/12",Henrik Buvik,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Henrik Buvik,,Sander Bjertnes Hansen,"13/21,23/21,21/16",Henrik Buvik,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Sander Bjertnes Hansen,,Benjamin Wang,"21/14,21/17",Sander Bjertnes Hansen,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Marion Loeng Ryan,,Celina Sandvær,"21/11,21/10",Marion Loeng Ryan,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Tiril Heia,,Celina Sandvær,"21/18,21/6",Tiril Heia,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,,Marion Loeng Ryan,,Tiril Heia,"21/6,21/10",Marion Loeng Ryan,
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Børge Håland,Sander Bjertnes Hansen,Joar Gåsbakk,Jonas Formo,"21/9,21/10",Børge Håland,Sander Bjertnes Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Børge Håland,Sander Bjertnes Hansen,Henrik Buvik,Odin Formo,"21/14,21/17",Børge Håland,Sander Bjertnes Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Joar Gåsbakk,Jonas Formo,Alexander Hansen,Brage Moe Bjertnes,"21/7,21/15",Joar Gåsbakk,Jonas Formo
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Alexander Hansen,Brage Moe Bjertnes,Børge Håland,Sander Bjertnes Hansen,"21/9,28/26",Alexander Hansen,Brage Moe Bjertnes
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Henrik Buvik,Odin Formo,Julian Hanssen,Marius Sandvær,"21/9,21/10",Henrik Buvik,Odin Formo
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Joar Gåsbakk,Jonas Formo,Julian Hanssen,Marius Sandvær,"21/17,21/13",Joar Gåsbakk,Jonas Formo
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Henrik Buvik,Odin Formo,Alexander Hansen,Brage Moe Bjertnes,"21/2,21/2",Henrik Buvik,Odin Formo
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Julian Hanssen,Marius Sandvær,Alexander Hansen,Brage Moe Bjertnes,"21/9,21/2",Julian Hanssen,Marius Sandvær
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Børge Håland,Sander Bjertnes Hansen,Julian Hanssen,Marius Sandvær,"21/16,21/9",Børge Håland,Sander Bjertnes Hansen
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Henrik Buvik,Odin Formo,Joar Gåsbakk,Jonas Formo,"21/11,21/15",Henrik Buvik,Odin Formo
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Signe Lenning,Linnea Nordnes Prestø,Erle Nordbakk,Ingvild Åsenhus Petersen,"15/21,21/19,21/19",Signe Lenning,Linnea Nordnes Prestø
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Marion Loeng Ryan,Iselin Gåsbakk,Signe Lenning,Linnea Nordnes Prestø,"21/19,21/8",Marion Loeng Ryan,Iselin Gåsbakk
-2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Marion Loeng Ryan,Iselin Gåsbakk,Erle Nordbakk,Ingvild Åsenhus Petersen,"21/13,21/5",Marion Loeng Ryan,Iselin Gåsbakk
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleif Formo,,Torleiv Hov Grønbech,"21/18,21/7",Torleif Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleif Formo,,Rolf Ove Karlsen,"21/11,21/17",Torleif Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleiv Hov Grønbech,,Trond Mære,"21/17,21/19",Torleiv Hov Grønbech,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Rolf Ove Karlsen,,Sigbjørn Lund Wang,"21/14,21/12",Rolf Ove Karlsen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Håvard Soløy,,Sigbjørn Lund Wang,"21/11,21/12",Håvard Soløy,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Rolf Ove Karlsen,,Håvard Soløy,"11/21,21/17,21/17",Rolf Ove Karlsen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Kent Roger Sandvær,,Benjamin Falck,"21/15,11/21,21/18",Kent Roger Sandvær,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleif Formo,,Isak L. Hasselvold,"21/8,21/13",Torleif Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Benjamin Falck,,Isak L. Hasselvold,"21/18,18/21,21/18",Benjamin Falck,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleif Formo,,Kent Roger Sandvær,"21/13,21/18",Torleif Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleif Formo,,Benjamin Falck,"21/10,21/12",Torleif Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Kent Roger Sandvær,,Isak L. Hasselvold,"20/22,21/15,22/20",Kent Roger Sandvær,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleiv Hov Grønbech,,Hanna B. Kværnø,"21/7,21/16",Torleiv Hov Grønbech,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleiv Hov Grønbech,,Kristoffer Brandsås Berg,"21/8,21/14",Torleiv Hov Grønbech,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Hanna B. Kværnø,,Tore Hansen,"16/21,21/14,21/9",Hanna B. Kværnø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Kristoffer Brandsås Berg,,Hanna B. Kværnø,"21/18,21/9,21/17",Kristoffer Brandsås Berg,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torleiv Hov Grønbech,,Tore Hansen,"21/17,21/11",Torleiv Hov Grønbech,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Tore Hansen,,Kristoffer Brandsås Berg,"24/22,11/21,21/12",Tore Hansen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Trond Mære,,Marius Olsen,"21/7,21/0",Trond Mære,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Trond Mære,,Torgeir Lenning,"21/17,21/14",Trond Mære,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herresingle,,Torgeir Lenning,,Marius Olsen,"21/17,15/21,21/10",Torgeir Lenning,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damesingle,,Ingrid Gåsbakk,,Line Klæbo,"21/3,21/7",Ingrid Gåsbakk,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damesingle,,Live Hov Grønbech,,Nordis Østerås Sandberg,"21/8,21/5",Live Hov Grønbech,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damesingle,,Ingrid Gåsbakk,,Nordis Østerås Sandberg,"21/11,21/7",Ingrid Gåsbakk,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damesingle,,Nordis Østerås Sandberg,,Line Klæbo,"21/13,21/10",Nordis Østerås Sandberg,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damesingle,,Live Hov Grønbech,,Ingrid Gåsbakk,"21/18,21/10",Live Hov Grønbech,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Håvard Soløy,Tore Hansen,"21/13,21/16",Trond Mære,Rolf Ove Karlsen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Håvard Soløy,Tore Hansen,Odd Helge Gåsbakk,Andreas Nordhøy,"21/15,21/18",Håvard Soløy,Tore Hansen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Kent Roger Sandvær,Elias Lenning,Lars Erik Karlsen,Steinar Fornes,"21/10,21/16",Kent Roger Sandvær,Elias Lenning
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Lars Erik Karlsen,Steinar Fornes,"21/16,21/13",Trond Mære,Rolf Ove Karlsen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Kent Roger Sandvær,Elias Lenning,"20/22,21/14,21/14",Trond Mære,Rolf Ove Karlsen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Roar Natvig,Benjamin Falck,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/15,16/21,21/11",Roar Natvig,Benjamin Falck
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Håvard Soløy,Tore Hansen,Isak L. Hasselvold,Kristoffer Brandsås Berg,"21/10,21/15",Håvard Soløy,Tore Hansen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Håvard Soløy,Tore Hansen,Roar Natvig,Benjamin Falck,"21/11,26/28,21/15",Håvard Soløy,Tore Hansen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Odd Helge Gåsbakk,Andreas Nordhøy,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/9,21/8",Odd Helge Gåsbakk,Andreas Nordhøy
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Torleiv Hov Grønbech,Sigbjørn Lund Wang,Adrian Olsen-Loe Pedersen,Aleksander Berg,"21/17,14/21,21/17",Torleiv Hov Grønbech,Sigbjørn Lund Wang
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Herredouble,Odd Helge Gåsbakk,Andreas Nordhøy,Torleiv Hov Grønbech,Sigbjørn Lund Wang,"21/18,21/16",Odd Helge Gåsbakk,Andreas Nordhøy
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damedouble,Live Hov Grønbech,Frida Prestø,kristiane lenning,Louise Prestø,"21/16,21/14",Live Hov Grønbech,Frida Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damedouble,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Ingrid Gåsbakk,Marte Loeng,"19/21,23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damedouble,kristiane lenning,Louise Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/8,21/16",kristiane lenning,Louise Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damedouble,Live Hov Grønbech,Frida Prestø,Ingrid Gåsbakk,Marte Loeng,"21/17,21/16",Live Hov Grønbech,Frida Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damedouble,kristiane lenning,Louise Prestø,Ingrid Gåsbakk,Marte Loeng,"20/22,21/11,21/12",kristiane lenning,Louise Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Damedouble,Live Hov Grønbech,Frida Prestø,Nordis Østerås Sandberg,Julie Kristin Vatterholm,"21/14,21/13",Live Hov Grønbech,Frida Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Hanna B. Kværnø,Torleif Formo,Anita Olsen,Trond Mære,"21/18,21/7",Hanna B. Kværnø,Torleif Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Hanna B. Kværnø,Torleif Formo,Håvard Soløy,Lone Hopstad,"21/17,21/13",Hanna B. Kværnø,Torleif Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Live Hov Grønbech,Elias Lenning,"21/14,21/17",Anita Olsen,Trond Mære
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Live Hov Grønbech,Elias Lenning,Isak L. Hasselvold,Ingrid Gåsbakk,"21/13,21/19",Live Hov Grønbech,Elias Lenning
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Isak L. Hasselvold,Ingrid Gåsbakk,"21/15,21/8",Anita Olsen,Trond Mære
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Hanna B. Kværnø,Torleif Formo,Louise Prestø,Stian Prestø,"21/7,21/16",Hanna B. Kværnø,Torleif Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Hanna B. Kværnø,Torleif Formo,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,"21/14,21/5",Hanna B. Kværnø,Torleif Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,Louise Prestø,Stian Prestø,"21/13,21/14",Kristoffer Brandsås Berg,Nordis Østerås Sandberg
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Roar Natvig,Hilde Vatterholm,Kent Roger Sandvær,Anne Berit Iversen,"21/12,21/14",Roar Natvig,Hilde Vatterholm
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Håvard Soløy,Lone Hopstad,Kent Roger Sandvær,Anne Berit Iversen,"21/18,12/21,21/15",Håvard Soløy,Lone Hopstad
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN A,Mixeddouble,Håvard Soløy,Lone Hopstad,Roar Natvig,Hilde Vatterholm,"21/15,15/21,21/16",Håvard Soløy,Lone Hopstad
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Shayan Jalilian,,Lorents Blomseth,"21/18,21/18",Shayan Jalilian,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Kristoffer Kielland Rædergård,,Håvard Buvik,"21/7,21/8",Kristoffer Kielland Rædergård,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Lorents Blomseth,,Håvard Buvik,"21/11,21/16",Lorents Blomseth,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Kristoffer Kielland Rædergård,,Tobias Taube,"21/11,21/18",Kristoffer Kielland Rædergård,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Håvard Buvik,,Tobias Taube,"21/13,21/9",Håvard Buvik,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Lorents Blomseth,,Kristoffer Kielland Rædergård,"22/20,21/15",Lorents Blomseth,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Lorents Blomseth,,Tobias Taube,"21/8,21/2",Lorents Blomseth,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Espen Fredriksen,,Stig Gåsbakk,"24/22,21/15",Espen Fredriksen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Shayan Jalilian,,Steinar Fornes,"21/12,21/9",Shayan Jalilian,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Shayan Jalilian,,Stig Gåsbakk,"21/13,21/12",Shayan Jalilian,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Espen Fredriksen,,Steinar Fornes,"22/20,21/15",Espen Fredriksen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Shayan Jalilian,,Espen Fredriksen,"21/15,21/4",Shayan Jalilian,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herresingle,,Steinar Fornes,,Stig Gåsbakk,"21/17,21/5",Steinar Fornes,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damesingle,,Lone Hopstad,,Thelma Lovise Flaat-Gåsbakk,"21/13,21/19",Lone Hopstad,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damesingle,,Mirjam Finanger,,Thelma Lovise Flaat-Gåsbakk,"21/18,21/7",Mirjam Finanger,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damesingle,,Lone Hopstad,,Mirjam Finanger,"11/21,21/15,22/20",Lone Hopstad,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Kai Roger Stensen,Kristoffer Kielland Rædergård,Shayan Jalilian,Marius Olsen,"21/15,21/12",Kai Roger Stensen,Kristoffer Kielland Rædergård
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Sigve Moe Bjertnes,Benjamin Wang,Tobias Taube,Torgeir Lenning,"16/21,23/21,21/17",Sigve Moe Bjertnes,Benjamin Wang
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Shayan Jalilian,Marius Olsen,Tom Smebye,Kristian Renbjør,"21/14,21/19",Shayan Jalilian,Marius Olsen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Tom Smebye,Kristian Renbjør,Tobias Taube,Torgeir Lenning,"21/4,21/16",Tom Smebye,Kristian Renbjør
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Shayan Jalilian,Marius Olsen,Sigve Moe Bjertnes,Benjamin Wang,"21/11,21/17",Shayan Jalilian,Marius Olsen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Shayan Jalilian,Marius Olsen,Tobias Taube,Torgeir Lenning,"21/13,21/12",Shayan Jalilian,Marius Olsen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Tom Smebye,Kristian Renbjør,Sigve Moe Bjertnes,Benjamin Wang,"21/11,21/15",Tom Smebye,Kristian Renbjør
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Kai Roger Stensen,Kristoffer Kielland Rædergård,Mikael Grande,Sigurd Lorvik,"21/11,21/13",Kai Roger Stensen,Kristoffer Kielland Rædergård
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Håvard Buvik,Stig Gåsbakk,Mikael Grande,Sigurd Lorvik,"21/18,17/21,21/14",Håvard Buvik,Stig Gåsbakk
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Lorents Blomseth,Espen Fredriksen,Håvard Buvik,Stig Gåsbakk,"21/10,21/16",Lorents Blomseth,Espen Fredriksen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Kai Roger Stensen,Kristoffer Kielland Rædergård,Lorents Blomseth,Espen Fredriksen,"21/12,19/21,21/13",Kai Roger Stensen,Kristoffer Kielland Rædergård
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Lorents Blomseth,Espen Fredriksen,Mikael Grande,Sigurd Lorvik,"24/22,21/13",Lorents Blomseth,Espen Fredriksen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Herredouble,Kai Roger Stensen,Kristoffer Kielland Rædergård,Håvard Buvik,Stig Gåsbakk,"19/21,21/10,21/11",Kai Roger Stensen,Kristoffer Kielland Rædergård
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damedouble,Mirjam Finanger,Lone Hopstad,Lotte Flaat-Gåsbakk,Solveig Olea Flaat-Solberg,"21/5,21/10",Mirjam Finanger,Lone Hopstad
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damedouble,Mirjam Finanger,Lone Hopstad,Thelma Lovise Flaat-Gåsbakk,Rikke Grongstad,"21/15,21/13",Mirjam Finanger,Lone Hopstad
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damedouble,Line Klæbo,Lena Falch,Lotte Flaat-Gåsbakk,Solveig Olea Flaat-Solberg,"21/14,21/8",Line Klæbo,Lena Falch
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damedouble,Thelma Lovise Flaat-Gåsbakk,Rikke Grongstad,Lotte Flaat-Gåsbakk,Solveig Olea Flaat-Solberg,"21/9,21/4",Thelma Lovise Flaat-Gåsbakk,Rikke Grongstad
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Damedouble,Mirjam Finanger,Lone Hopstad,Line Klæbo,Lena Falch,"23/21,21/14",Mirjam Finanger,Lone Hopstad
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Tore Hansen,Mirjam Finanger,"21/17,21/19",Lena Falch,Steinar Fornes
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Shayan Jalilian,Thelma Lovise Flaat-Gåsbakk,"16/21,21/16,21/12",Lena Falch,Steinar Fornes
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Tore Hansen,Mirjam Finanger,Aleksander Berg,Julie Kristin Vatterholm,"21/17,13/21,22/20",Tore Hansen,Mirjam Finanger
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Aleksander Berg,Julie Kristin Vatterholm,Kristoffer Kielland Rædergård,Rikke Grongstad,"14/21,21/12,21/12",Aleksander Berg,Julie Kristin Vatterholm
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Tore Hansen,Mirjam Finanger,Kristoffer Kielland Rædergård,Rikke Grongstad,"21/18,21/12",Tore Hansen,Mirjam Finanger
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Shayan Jalilian,Thelma Lovise Flaat-Gåsbakk,Marius Olsen,Hilde Kristine Aurstad Rennan,"22/20,24/22",Shayan Jalilian,Thelma Lovise Flaat-Gåsbakk
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Shayan Jalilian,Thelma Lovise Flaat-Gåsbakk,Håvard Buvik,Siv Solum Buvik,"19/21,21/13,21/10",Shayan Jalilian,Thelma Lovise Flaat-Gåsbakk
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Marius Olsen,Hilde Kristine Aurstad Rennan,Håvard Buvik,Siv Solum Buvik,"22/24,21/14,21/19",Marius Olsen,Hilde Kristine Aurstad Rennan
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Lotte Flaat-Gåsbakk,Stig Gåsbakk,"21/9,21/11",Lena Falch,Steinar Fornes
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Line Klæbo,Mikael Grande,Lotte Flaat-Gåsbakk,Stig Gåsbakk,"22/20,23/21",Line Klæbo,Mikael Grande
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Line Klæbo,Mikael Grande,"21/14,21/13",Lena Falch,Steinar Fornes
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Signe Lenning,,Linnea Nordnes Prestø,"21/14,18/21,21/14",Signe Lenning,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Signe Lenning,,Erle Nordbakk,"21/16,21/18",Signe Lenning,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Erle Nordbakk,,Emilie Hasselvold,"21/10,21/12",Erle Nordbakk,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Signe Lenning,,Emilie Hasselvold,"21/11,21/15",Signe Lenning,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Linnea Nordnes Prestø,,Iselin Gåsbakk,"21/11,14/21,21/17",Linnea Nordnes Prestø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Ingvild Åsenhus Petersen,,Agnes Fornes,"21/9,21/8",Ingvild Åsenhus Petersen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Linnea Nordnes Prestø,,Ingvild Åsenhus Petersen,"23/21,21/14",Linnea Nordnes Prestø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Iselin Gåsbakk,,Agnes Fornes,"21/10,21/10",Iselin Gåsbakk,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Linnea Nordnes Prestø,,Agnes Fornes,"21/15,21/14",Linnea Nordnes Prestø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U11 A,Damesingle,,Ingvild Åsenhus Petersen,,Iselin Gåsbakk,"16/21,21/10,21/18",Ingvild Åsenhus Petersen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Børge Håland,,Henrik Buvik,"21/8,21/13",Børge Håland,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Børge Håland,,Jonas Formo,"21/15,21/11",Børge Håland,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Odin Formo,,John Isak Vist,"21/15,21/10",Odin Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Børge Håland,,Odin Formo,"21/8,21/7",Børge Håland,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Jonas Formo,,John Isak Vist,"21/6,21/4",Jonas Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Børge Håland,,John Isak Vist,"21/17,21/6",Børge Håland,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Jonas Formo,,Odin Formo,"21/11,21/18",Jonas Formo,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Henrik Buvik,,Benjamin Wang,"21/15,21/12",Henrik Buvik,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Henrik Buvik,,Sander Bjertnes Hansen,"13/21,23/21,21/16",Henrik Buvik,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herresingle,,Sander Bjertnes Hansen,,Benjamin Wang,"21/14,21/17",Sander Bjertnes Hansen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Damesingle,,Marion Loeng Ryan,,Celina Sandvær,"21/11,21/10",Marion Loeng Ryan,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Damesingle,,Tiril Heia,,Celina Sandvær,"21/18,21/6",Tiril Heia,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Damesingle,,Marion Loeng Ryan,,Tiril Heia,"21/6,21/10",Marion Loeng Ryan,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Børge Håland,Sander Bjertnes Hansen,Joar Gåsbakk,Jonas Formo,"21/9,21/10",Børge Håland,Sander Bjertnes Hansen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Børge Håland,Sander Bjertnes Hansen,Henrik Buvik,Odin Formo,"21/14,21/17",Børge Håland,Sander Bjertnes Hansen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Joar Gåsbakk,Jonas Formo,Alexander Hansen,Brage Moe Bjertnes,"21/7,21/15",Joar Gåsbakk,Jonas Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Alexander Hansen,Brage Moe Bjertnes,Børge Håland,Sander Bjertnes Hansen,"21/9,28/26",Alexander Hansen,Brage Moe Bjertnes
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Henrik Buvik,Odin Formo,Julian Hanssen,Marius Sandvær,"21/9,21/10",Henrik Buvik,Odin Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Joar Gåsbakk,Jonas Formo,Julian Hanssen,Marius Sandvær,"21/17,21/13",Joar Gåsbakk,Jonas Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Henrik Buvik,Odin Formo,Alexander Hansen,Brage Moe Bjertnes,"21/2,21/2",Henrik Buvik,Odin Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Julian Hanssen,Marius Sandvær,Alexander Hansen,Brage Moe Bjertnes,"21/9,21/2",Julian Hanssen,Marius Sandvær
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Børge Håland,Sander Bjertnes Hansen,Julian Hanssen,Marius Sandvær,"21/16,21/9",Børge Håland,Sander Bjertnes Hansen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Herredouble,Henrik Buvik,Odin Formo,Joar Gåsbakk,Jonas Formo,"21/11,21/15",Henrik Buvik,Odin Formo
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Damedouble,Signe Lenning,Linnea Nordnes Prestø,Erle Nordbakk,Ingvild Åsenhus Petersen,"15/21,21/19,21/19",Signe Lenning,Linnea Nordnes Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Damedouble,Marion Loeng Ryan,Iselin Gåsbakk,Signe Lenning,Linnea Nordnes Prestø,"21/19,21/8",Marion Loeng Ryan,Iselin Gåsbakk
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Damedouble,Marion Loeng Ryan,Iselin Gåsbakk,Erle Nordbakk,Ingvild Åsenhus Petersen,"21/13,21/5",Marion Loeng Ryan,Iselin Gåsbakk
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Sander Bjertnes Hansen,Celina Sandvær,Marion Loeng Ryan,John Isak Vist,"21/18,27/25",Sander Bjertnes Hansen,Celina Sandvær
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Alexander Hansen,Linnea Nordnes Prestø,Ingvild Åsenhus Petersen,Brage Moe Bjertnes,"21/16,21/15",Alexander Hansen,Linnea Nordnes Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Marion Loeng Ryan,John Isak Vist,Alexander Hansen,Linnea Nordnes Prestø,"21/4,21/11",Marion Loeng Ryan,John Isak Vist
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Marion Loeng Ryan,John Isak Vist,Ingvild Åsenhus Petersen,Brage Moe Bjertnes,"21/8,21/6",Marion Loeng Ryan,John Isak Vist
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Sander Bjertnes Hansen,Celina Sandvær,Benjamin Wang,Tiril Heia,"21/18,21/10",Sander Bjertnes Hansen,Celina Sandvær
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Marius Sandvær,Signe Lenning,Iselin Gåsbakk,Joar Gåsbakk,"21/14,21/14",Marius Sandvær,Signe Lenning
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Benjamin Wang,Tiril Heia,Marius Sandvær,Signe Lenning,"21/8,21/18",Benjamin Wang,Tiril Heia
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Sander Bjertnes Hansen,Celina Sandvær,Iselin Gåsbakk,Joar Gåsbakk,"21/13,21/13",Sander Bjertnes Hansen,Celina Sandvær
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Benjamin Wang,Tiril Heia,Iselin Gåsbakk,Joar Gåsbakk,"21/17,21/12",Benjamin Wang,Tiril Heia
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 A,Mixeddouble,Sander Bjertnes Hansen,Celina Sandvær,Marius Sandvær,Signe Lenning,"21/17,21/11",Sander Bjertnes Hansen,Celina Sandvær
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Marius Sandvær,,Julian Hanssen,"21/14,21/16",Marius Sandvær,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Brage Moe Bjertnes,,Alexander Hansen,"21/18,21/15",Brage Moe Bjertnes,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Marius Sandvær,,Brage Moe Bjertnes,"21/8,21/7",Marius Sandvær,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Julian Hanssen,,Joar Gåsbakk,"21/16,21/15",Julian Hanssen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Joar Gåsbakk,,Alexander Hansen,"21/19,21/7",Joar Gåsbakk,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Julian Hanssen,,Brage Moe Bjertnes,"21/11,21/11",Julian Hanssen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Joar Gåsbakk,,Brage Moe Bjertnes,"21/14,21/16",Joar Gåsbakk,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Marius Sandvær,,Alexander Hansen,"21/12,21/8",Marius Sandvær,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Marius Sandvær,,Joar Gåsbakk,"21/8,21/16",Marius Sandvær,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U13 B,Herresingle,,Julian Hanssen,,Alexander Hansen,"21/8,21/7",Julian Hanssen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Herresingle,,Elias Lenning,,Kai Roger Stensen,"21/14,21/11",Elias Lenning,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Herresingle,,Kai Roger Stensen,,Sigve Moe Bjertnes,"21/14,21/15",Kai Roger Stensen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Herresingle,,Elias Lenning,,Sigve Moe Bjertnes,"21/9,21/19",Elias Lenning,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Damesingle,,Sara Buvik,,Mia Skipnes,"21/13,21/7",Sara Buvik,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Mixeddouble,Børge Håland,Frida Prestø,Mia Skipnes,Sigve Moe Bjertnes,"21/14,21/9",Børge Håland,Frida Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Mixeddouble,Mia Skipnes,Sigve Moe Bjertnes,Sara Buvik,Jonas Formo,"21/15,21/17",Mia Skipnes,Sigve Moe Bjertnes
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U15 A,Mixeddouble,Børge Håland,Frida Prestø,Sara Buvik,Jonas Formo,"21/7,21/11",Børge Håland,Frida Prestø
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damesingle,,Louise Prestø,,kristiane lenning,"21/12,21/12",Louise Prestø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damesingle,,Anne Berit Iversen,,Frida Prestø,"21/16,21/4",Anne Berit Iversen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damesingle,,Frida Prestø,,kristiane lenning,"25/23,21/18",Frida Prestø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damesingle,,Anne Berit Iversen,,Louise Prestø,"24/22,21/18",Anne Berit Iversen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damesingle,,Anne Berit Iversen,,kristiane lenning,"21/17,21/12",Anne Berit Iversen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damesingle,,Frida Prestø,,Louise Prestø,"21/19,21/16",Frida Prestø,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damedouble,Tiril Heia,Nikolina Engen,Mia Skipnes,Celina Sandvær,"14/21,21/14,21/18",Tiril Heia,Nikolina Engen
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damedouble,Anne Berit Iversen,Sara Buvik,Tiril Heia,Nikolina Engen,"21/5,21/6",Anne Berit Iversen,Sara Buvik
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U17 A,Damedouble,Anne Berit Iversen,Sara Buvik,Mia Skipnes,Celina Sandvær,"21/6,21/5",Anne Berit Iversen,Sara Buvik
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U19 A,Herresingle,,Aleksander Berg,,Adrian Olsen-Loe Pedersen,"21/12,21/15",Aleksander Berg,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U19 A,Herresingle,,Sigurd Lorvik,,Mikael Grande,"21/19,23/21",Sigurd Lorvik,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U19 A,Herresingle,,Adrian Olsen-Loe Pedersen,,Mikael Grande,"21/17,21/7",Adrian Olsen-Loe Pedersen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U19 A,Herresingle,,Aleksander Berg,,Sigurd Lorvik,"21/7,21/12",Aleksander Berg,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U19 A,Herresingle,,Adrian Olsen-Loe Pedersen,,Sigurd Lorvik,"21/17,21/11",Adrian Olsen-Loe Pedersen,
+2016/2017,Verdal KM Midtnorsk Badmintonkrets nord 2017/Verdalcup,28.01.2017,U19 A,Herresingle,,Aleksander Berg,,Mikael Grande,"21/9,21/6",Aleksander Berg,

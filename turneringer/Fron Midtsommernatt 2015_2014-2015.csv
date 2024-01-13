@@ -1,104 +1,79 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,,Tommy Helander,,Fredrik Lian,"21/17,21/15",Tommy Helander,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,,Jonas Christensen,,Fredrik Lian,"21/13,21/13",Jonas Christensen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,,Jonas Christensen,,Tommy Helander,"21/6,21/19",Jonas Christensen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,,Tommy Helander,,Fredrik Lian,"21/17,21/15",Tommy Helander,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,,Jonas Christensen,,Fredrik Lian,"21/13,21/13",Jonas Christensen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,,Jonas Christensen,,Tommy Helander,"21/6,21/19",Jonas Christensen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Jonas Christensen,Kim Christensen,Sophie Owen-Davies,Christian Fossmo,"21/12,21/15",Jonas Christensen,Kim Christensen
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Sophie Owen-Davies,Christian Fossmo,Cathrine Fossmo,Marta K. Gården,"21/17,21/16",Sophie Owen-Davies,Christian Fossmo
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Jonas Christensen,Kim Christensen,Fredrik Lian,Robin Kruksve Krux,"21/11,21/19",Jonas Christensen,Kim Christensen
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Cathrine Fossmo,Marta K. Gården,Fredrik Lian,Robin Kruksve Krux,"21/10,21/12",Cathrine Fossmo,Marta K. Gården
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Fredrik Lian,Robin Kruksve Krux,Hege Leirud,Ingrid Rønningen Stav,"19/21,21/12,21/16",Fredrik Lian,Robin Kruksve Krux
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Cathrine Fossmo,Marta K. Gården,Hege Leirud,Ingrid Rønningen Stav,"21/13,21/15",Cathrine Fossmo,Marta K. Gården
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Jonas Christensen,Kim Christensen,Tommy Helander,Mohammad Rafaqat Ali,"21/18,21/13",Jonas Christensen,Kim Christensen
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Jonas Christensen,Kim Christensen,Sophie Owen-Davies,Christian Fossmo,"21/12,21/16",Jonas Christensen,Kim Christensen
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Torkil Alvheim,Runar Rygh Løkken,Tommy Helander,Mohammad Rafaqat Ali,"21/17,21/17",Torkil Alvheim,Runar Rygh Løkken
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Jonas Christensen,Kim Christensen,Torkil Alvheim,Runar Rygh Løkken,"21/12,21/13",Jonas Christensen,Kim Christensen
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Sophie Owen-Davies,Christian Fossmo,Tommy Helander,Mohammad Rafaqat Ali,"21/15,21/17",Sophie Owen-Davies,Christian Fossmo
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Sophie Owen-Davies,Christian Fossmo,Torkil Alvheim,Runar Rygh Løkken,"21/17,20/22,21/15",Sophie Owen-Davies,Christian Fossmo
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Torkil Alvheim,"21/13,11/21,21/18",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Torkil Alvheim,,Runar Rygh Løkken,"21/14,21/11",Torkil Alvheim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Robin Kruksve Krux,"21/11,21/11",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Runar Rygh Løkken,,Robin Kruksve Krux,"21/8,21/19",Runar Rygh Løkken,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Runar Rygh Løkken,,Kristin Thømt,"21/11,19/21,22/20",Runar Rygh Løkken,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Robin Kruksve Krux,,Kristin Thømt,"21/8,21/17",Robin Kruksve Krux,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Torkil Alvheim,,Sigbjørn Krunenes,"21/19,21/15",Torkil Alvheim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Sigbjørn Krunenes,"21/18,21/14",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Torkil Alvheim,"21/13,21/13",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Torkil Alvheim,"21/13,11/21,21/18",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Torkil Alvheim,,Runar Rygh Løkken,"21/14,21/11",Torkil Alvheim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Robin Kruksve Krux,"21/11,21/11",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Runar Rygh Løkken,,Robin Kruksve Krux,"21/8,21/19",Runar Rygh Løkken,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Runar Rygh Løkken,,Kristin Thømt,"21/11,19/21,22/20",Runar Rygh Løkken,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Robin Kruksve Krux,,Kristin Thømt,"21/8,21/17",Robin Kruksve Krux,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Torkil Alvheim,,Sigbjørn Krunenes,"21/19,21/15",Torkil Alvheim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Sigbjørn Krunenes,"21/18,21/14",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,,Christian Fossmo,,Torkil Alvheim,"21/13,21/13",Christian Fossmo,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Ola Gunnes,"18/21,21/12,21/13",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Jan Sørgjerd,"21/12,21/12",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Mohammad Rafaqat Ali,"21/11,21/15",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Steinar Løkken,"21/14,21/13",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Andre Heim,"21/8,21/15",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Geir Vik,"21/15,21/17",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Mohammad Rafaqat Ali,,Karoline Lerengen,"21/19,21/10",Mohammad Rafaqat Ali,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Dag Johnstad,"21/11,21/14",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Geir Vik,,Dag Johnstad,"15/21,21/19,21/19",Geir Vik,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Geir Vik,"21/13,21/14",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Anne Gro Rikheim,"21/7,21/16",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Karoline Lerengen,,Jan Aage Nyborg,"21/10,21/10",Karoline Lerengen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Karoline Lerengen,,Anne Gro Rikheim,"21/9,21/14",Karoline Lerengen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Jan Aage Nyborg,"21/11,21/13",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Anne Gro Rikheim,,Jan Aage Nyborg,"21/4,21/14",Anne Gro Rikheim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Karoline Lerengen,"21/19,21/18",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Erik Winger,,Per Arne Bjørklund,"15/21,21/13,21/18",Erik Winger,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Andre Heim,"21/17,21/7",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Andre Heim,,Erik Winger,"21/15,21/7",Andre Heim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Per Arne Bjørklund,"21/11,21/14",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Andre Heim,,Per Arne Bjørklund,"21/13,21/12",Andre Heim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Erik Winger,"21/10,21/13",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Steinar Løkken,,Harm  Kroon,"21/14,19/21,21/16",Steinar Løkken,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Mohammad Rafaqat Ali,,Harm  Kroon,"21/8,21/16",Mohammad Rafaqat Ali,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Mohammad Rafaqat Ali,,Steinar Løkken,"21/10,21/12",Mohammad Rafaqat Ali,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Ola Gunnes,"18/21,21/12,21/13",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Jan Sørgjerd,"21/12,21/12",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Mohammad Rafaqat Ali,"21/11,21/15",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Steinar Løkken,"21/14,21/13",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Andre Heim,"21/8,21/15",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Geir Vik,"21/15,21/17",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Mohammad Rafaqat Ali,,Karoline Lerengen,"21/19,21/10",Mohammad Rafaqat Ali,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Dag Johnstad,"21/11,21/14",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Geir Vik,,Dag Johnstad,"15/21,21/19,21/19",Geir Vik,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Ola Gunnes,,Geir Vik,"21/13,21/14",Ola Gunnes,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Anne Gro Rikheim,"21/7,21/16",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Karoline Lerengen,,Jan Aage Nyborg,"21/10,21/10",Karoline Lerengen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Karoline Lerengen,,Anne Gro Rikheim,"21/9,21/14",Karoline Lerengen,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Jan Aage Nyborg,"21/11,21/13",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Anne Gro Rikheim,,Jan Aage Nyborg,"21/4,21/14",Anne Gro Rikheim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Jan Sørgjerd,,Karoline Lerengen,"21/19,21/18",Jan Sørgjerd,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Erik Winger,,Per Arne Bjørklund,"15/21,21/13,21/18",Erik Winger,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Andre Heim,"21/17,21/7",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Andre Heim,,Erik Winger,"21/15,21/7",Andre Heim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Per Arne Bjørklund,"21/11,21/14",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Andre Heim,,Per Arne Bjørklund,"21/13,21/12",Andre Heim,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Kristian Leirud,,Erik Winger,"21/10,21/13",Kristian Leirud,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Steinar Løkken,,Harm  Kroon,"21/14,19/21,21/16",Steinar Løkken,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Mohammad Rafaqat Ali,,Harm  Kroon,"21/8,21/16",Mohammad Rafaqat Ali,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,,Mohammad Rafaqat Ali,,Steinar Løkken,"21/10,21/12",Mohammad Rafaqat Ali,
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Ola Gunnes,Sigbjørn Krunenes,Einar Jevne,Andre Heim,"21/15,15/21,21/13",Ola Gunnes,Sigbjørn Krunenes
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Einar Jevne,Andre Heim,Arve Henriksen,Kristian Leirud,"21/19,16/21,21/15",Einar Jevne,Andre Heim
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Ola Gunnes,Sigbjørn Krunenes,Jan Sørgjerd,Kristin Thømt,"21/15,21/11",Ola Gunnes,Sigbjørn Krunenes
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Ola Gunnes,Sigbjørn Krunenes,Per Arne Bjørklund,Geir Vik,"21/7,21/12",Ola Gunnes,Sigbjørn Krunenes
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Einar Jevne,Andre Heim,Gunnar Holst,Steinar Løkken,"21/12,21/16",Einar Jevne,Andre Heim
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Arve Henriksen,Kristian Leirud,Per Arne Bjørklund,Geir Vik,"21/7,21/6",Arve Henriksen,Kristian Leirud
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Per Arne Bjørklund,Geir Vik,Toril Staldvik,Aina Anmarkrud,"21/16,21/18",Per Arne Bjørklund,Geir Vik
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Arve Henriksen,Kristian Leirud,Anne Gro Rikheim,Karoline Lerengen,"21/16,21/12",Arve Henriksen,Kristian Leirud
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Arve Henriksen,Kristian Leirud,Toril Staldvik,Aina Anmarkrud,"21/14,21/15",Arve Henriksen,Kristian Leirud
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Per Arne Bjørklund,Geir Vik,Anne Gro Rikheim,Karoline Lerengen,"23/21,16/21,21/11",Per Arne Bjørklund,Geir Vik
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Anne Gro Rikheim,Karoline Lerengen,Toril Staldvik,Aina Anmarkrud,"19/21,21/12,21/16",Anne Gro Rikheim,Karoline Lerengen
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Ola Gunnes,Sigbjørn Krunenes,Jan Aage Nyborg,Erik Winger,"21/7,21/8",Ola Gunnes,Sigbjørn Krunenes
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Ola Gunnes,Sigbjørn Krunenes,Gunnar Holst,Steinar Løkken,"21/6,21/10",Ola Gunnes,Sigbjørn Krunenes
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Gunnar Holst,Steinar Løkken,Jan Aage Nyborg,Erik Winger,"12/21,21/8,21/5",Gunnar Holst,Steinar Løkken
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Einar Jevne,Andre Heim,Dag Johnstad,Harm  Kroon,"21/13,21/13",Einar Jevne,Andre Heim
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Jan Sørgjerd,Kristin Thømt,Dag Johnstad,Harm  Kroon,"21/7,21/12",Jan Sørgjerd,Kristin Thømt
-2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Jan Sørgjerd,Kristin Thømt,Einar Jevne,Andre Heim,"21/9,15/21,21/19",Jan Sørgjerd,Kristin Thømt
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herresingle,,Tommy Helander,,Fredrik Lian,"21/17,21/15",Tommy Helander,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herresingle,,Jonas Christensen,,Fredrik Lian,"21/13,21/13",Jonas Christensen,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herresingle,,Jonas Christensen,,Tommy Helander,"21/6,21/19",Jonas Christensen,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Jonas Christensen,Kim Christensen,Sophie Owen-Davies,Christian Fossmo,"21/12,21/15",Jonas Christensen,Kim Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Sophie Owen-Davies,Christian Fossmo,Cathrine Fossmo,Marta K. Gården,"21/17,21/16",Sophie Owen-Davies,Christian Fossmo
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Jonas Christensen,Kim Christensen,Fredrik Lian,Robin Kruksve Krux,"21/11,21/19",Jonas Christensen,Kim Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Cathrine Fossmo,Marta K. Gården,Fredrik Lian,Robin Kruksve Krux,"21/10,21/12",Cathrine Fossmo,Marta K. Gården
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Fredrik Lian,Robin Kruksve Krux,Hege Leirud,Ingrid Rønningen Stav,"19/21,21/12,21/16",Fredrik Lian,Robin Kruksve Krux
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Cathrine Fossmo,Marta K. Gården,Hege Leirud,Ingrid Rønningen Stav,"21/13,21/15",Cathrine Fossmo,Marta K. Gården
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Jonas Christensen,Kim Christensen,Tommy Helander,Mohammad Rafaqat Ali,"21/18,21/13",Jonas Christensen,Kim Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Jonas Christensen,Kim Christensen,Sophie Owen-Davies,Christian Fossmo,"21/12,21/16",Jonas Christensen,Kim Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Torkil Alvheim,Runar Rygh Løkken,Tommy Helander,Mohammad Rafaqat Ali,"21/17,21/17",Torkil Alvheim,Runar Rygh Løkken
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Jonas Christensen,Kim Christensen,Torkil Alvheim,Runar Rygh Løkken,"21/12,21/13",Jonas Christensen,Kim Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Sophie Owen-Davies,Christian Fossmo,Tommy Helander,Mohammad Rafaqat Ali,"21/15,21/17",Sophie Owen-Davies,Christian Fossmo
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Herredouble,Sophie Owen-Davies,Christian Fossmo,Torkil Alvheim,Runar Rygh Løkken,"21/17,20/22,21/15",Sophie Owen-Davies,Christian Fossmo
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Mixeddouble,Hege Leirud,Jonas Christensen,Fredrik Lian,Ingrid Rønningen Stav,"21/11,21/7",Hege Leirud,Jonas Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Mixeddouble,Cathrine Fossmo,Christian Fossmo,Tommy Helander,Kristin Thømt,"21/15,21/16",Cathrine Fossmo,Christian Fossmo
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Mixeddouble,Hege Leirud,Jonas Christensen,Tommy Helander,Kristin Thømt,"21/11,21/11",Hege Leirud,Jonas Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Mixeddouble,Cathrine Fossmo,Christian Fossmo,Fredrik Lian,Ingrid Rønningen Stav,"21/9,21/16",Cathrine Fossmo,Christian Fossmo
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Mixeddouble,Hege Leirud,Jonas Christensen,Cathrine Fossmo,Christian Fossmo,"21/12,21/9",Hege Leirud,Jonas Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN A,Mixeddouble,Tommy Helander,Kristin Thømt,Fredrik Lian,Ingrid Rønningen Stav,"21/19,15/21,21/16",Tommy Helander,Kristin Thømt
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Christian Fossmo,,Torkil Alvheim,"21/13,11/21,21/18",Christian Fossmo,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Torkil Alvheim,,Runar Rygh Løkken,"21/14,21/11",Torkil Alvheim,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Christian Fossmo,,Robin Kruksve Krux,"21/11,21/11",Christian Fossmo,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Runar Rygh Løkken,,Robin Kruksve Krux,"21/8,21/19",Runar Rygh Løkken,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Runar Rygh Løkken,,Kristin Thømt,"21/11,19/21,22/20",Runar Rygh Løkken,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Robin Kruksve Krux,,Kristin Thømt,"21/8,21/17",Robin Kruksve Krux,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Torkil Alvheim,,Sigbjørn Krunenes,"21/19,21/15",Torkil Alvheim,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Christian Fossmo,,Sigbjørn Krunenes,"21/18,21/14",Christian Fossmo,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Herresingle,,Christian Fossmo,,Torkil Alvheim,"21/13,21/13",Christian Fossmo,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Mixeddouble,Anne Gro Rikheim,Kim Christensen,Robin Kruksve Krux,Karoline Lerengen,"21/16,8/21,21/12",Anne Gro Rikheim,Kim Christensen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Mixeddouble,Toril Staldvik,Sigbjørn Krunenes,Anne Gro Rikheim,Kim Christensen,"21/16,19/21,21/15",Toril Staldvik,Sigbjørn Krunenes
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN B,Mixeddouble,Robin Kruksve Krux,Karoline Lerengen,Toril Staldvik,Sigbjørn Krunenes,"21/17,21/19",Robin Kruksve Krux,Karoline Lerengen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Kristian Leirud,,Ola Gunnes,"18/21,21/12,21/13",Kristian Leirud,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Ola Gunnes,,Jan Sørgjerd,"21/12,21/12",Ola Gunnes,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Kristian Leirud,,Mohammad Rafaqat Ali,"21/11,21/15",Kristian Leirud,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Jan Sørgjerd,,Steinar Løkken,"21/14,21/13",Jan Sørgjerd,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Ola Gunnes,,Andre Heim,"21/8,21/15",Ola Gunnes,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Kristian Leirud,,Geir Vik,"21/15,21/17",Kristian Leirud,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Mohammad Rafaqat Ali,,Karoline Lerengen,"21/19,21/10",Mohammad Rafaqat Ali,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Ola Gunnes,,Dag Johnstad,"21/11,21/14",Ola Gunnes,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Geir Vik,,Dag Johnstad,"15/21,21/19,21/19",Geir Vik,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Ola Gunnes,,Geir Vik,"21/13,21/14",Ola Gunnes,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Jan Sørgjerd,,Anne Gro Rikheim,"21/7,21/16",Jan Sørgjerd,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Karoline Lerengen,,Jan Aage Nyborg,"21/10,21/10",Karoline Lerengen,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Karoline Lerengen,,Anne Gro Rikheim,"21/9,21/14",Karoline Lerengen,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Jan Sørgjerd,,Jan Aage Nyborg,"21/11,21/13",Jan Sørgjerd,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Anne Gro Rikheim,,Jan Aage Nyborg,"21/4,21/14",Anne Gro Rikheim,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Jan Sørgjerd,,Karoline Lerengen,"21/19,21/18",Jan Sørgjerd,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Erik Winger,,Per Arne Bjørklund,"15/21,21/13,21/18",Erik Winger,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Kristian Leirud,,Andre Heim,"21/17,21/7",Kristian Leirud,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Andre Heim,,Erik Winger,"21/15,21/7",Andre Heim,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Kristian Leirud,,Per Arne Bjørklund,"21/11,21/14",Kristian Leirud,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Andre Heim,,Per Arne Bjørklund,"21/13,21/12",Andre Heim,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Kristian Leirud,,Erik Winger,"21/10,21/13",Kristian Leirud,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Steinar Løkken,,Harm  Kroon,"21/14,19/21,21/16",Steinar Løkken,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Mohammad Rafaqat Ali,,Harm  Kroon,"21/8,21/16",Mohammad Rafaqat Ali,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herresingle,,Mohammad Rafaqat Ali,,Steinar Løkken,"21/10,21/12",Mohammad Rafaqat Ali,
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Ola Gunnes,Sigbjørn Krunenes,Einar Jevne,Andre Heim,"21/15,15/21,21/13",Ola Gunnes,Sigbjørn Krunenes
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Einar Jevne,Andre Heim,Arve Henriksen,Kristian Leirud,"21/19,16/21,21/15",Einar Jevne,Andre Heim
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Ola Gunnes,Sigbjørn Krunenes,Jan Sørgjerd,Kristin Thømt,"21/15,21/11",Ola Gunnes,Sigbjørn Krunenes
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Ola Gunnes,Sigbjørn Krunenes,Per Arne Bjørklund,Geir Vik,"21/7,21/12",Ola Gunnes,Sigbjørn Krunenes
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Einar Jevne,Andre Heim,Gunnar Holst,Steinar Løkken,"21/12,21/16",Einar Jevne,Andre Heim
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Arve Henriksen,Kristian Leirud,Per Arne Bjørklund,Geir Vik,"21/7,21/6",Arve Henriksen,Kristian Leirud
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Per Arne Bjørklund,Geir Vik,Toril Staldvik,Aina Anmarkrud,"21/16,21/18",Per Arne Bjørklund,Geir Vik
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Arve Henriksen,Kristian Leirud,Anne Gro Rikheim,Karoline Lerengen,"21/16,21/12",Arve Henriksen,Kristian Leirud
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Arve Henriksen,Kristian Leirud,Toril Staldvik,Aina Anmarkrud,"21/14,21/15",Arve Henriksen,Kristian Leirud
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Per Arne Bjørklund,Geir Vik,Anne Gro Rikheim,Karoline Lerengen,"23/21,16/21,21/11",Per Arne Bjørklund,Geir Vik
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Anne Gro Rikheim,Karoline Lerengen,Toril Staldvik,Aina Anmarkrud,"19/21,21/12,21/16",Anne Gro Rikheim,Karoline Lerengen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Ola Gunnes,Sigbjørn Krunenes,Jan Aage Nyborg,Erik Winger,"21/7,21/8",Ola Gunnes,Sigbjørn Krunenes
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Ola Gunnes,Sigbjørn Krunenes,Gunnar Holst,Steinar Løkken,"21/6,21/10",Ola Gunnes,Sigbjørn Krunenes
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Gunnar Holst,Steinar Løkken,Jan Aage Nyborg,Erik Winger,"12/21,21/8,21/5",Gunnar Holst,Steinar Løkken
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Einar Jevne,Andre Heim,Dag Johnstad,Harm  Kroon,"21/13,21/13",Einar Jevne,Andre Heim
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Jan Sørgjerd,Kristin Thømt,Dag Johnstad,Harm  Kroon,"21/7,21/12",Jan Sørgjerd,Kristin Thømt
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Herredouble,Jan Sørgjerd,Kristin Thømt,Einar Jevne,Andre Heim,"21/9,15/21,21/19",Jan Sørgjerd,Kristin Thømt
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Mixeddouble,Arve Henriksen,Aina Anmarkrud,Irene Pryhn,Geir Vik,"21/14,22/20",Arve Henriksen,Aina Anmarkrud
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Mixeddouble,Ola Gunnes,Anja Olsen,Irene Pryhn,Geir Vik,"21/13,21/8",Ola Gunnes,Anja Olsen
+2014/2015,Fron Midtsommernatt 2015,12.06.2015,SEN C,Mixeddouble,Ola Gunnes,Anja Olsen,Arve Henriksen,Aina Anmarkrud,"21/18,21/13",Ola Gunnes,Anja Olsen

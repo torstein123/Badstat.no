@@ -1,406 +1,239 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Marte Stokkaune,,Ina Stenkjær,"21/11,21/15",Marte Stokkaune,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Silje V. Kruksve Aasland,"21/19,20/22,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ina Stenkjær,,Silje V. Kruksve Aasland,"13/21,23/21,21/9",Ina Stenkjær,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Marte Stokkaune,"21/10,21/15",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Ina Stenkjær,"21/5,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Silje V. Kruksve Aasland,,Marte Stokkaune,"21/16,16/21,22/20",Silje V. Kruksve Aasland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Kai Roger Stensen,Isak L. Hasselvold,"23/21,21/19",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Robin Kruksve Krux,Fredrik Lian,Benjamin Rølvåg,Jonas J Grande,"17/21,21/16,21/17",Robin Kruksve Krux,Fredrik Lian
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Robin Kruksve Krux,Fredrik Lian,"25/23,21/15",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Benjamin Rølvåg,Jonas J Grande,"23/21,21/12",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Emil Pettersen,Ole Christoffer Olsen,"21/5,21/6",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Amund Skavhaug,Robert Barø,"21/19,21/18",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Emil Pettersen,Ole Christoffer Olsen,"21/10,21/14",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Amund Skavhaug,Robert Barø,"21/18,21/17",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Kristoffer Brandsås Berg,Sebastian Bøe,"19/21,21/6,21/11",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Amund Skavhaug,Robert Barø,Emil Pettersen,Ole Christoffer Olsen,"21/16,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Ina Stenkjær,Marte Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/8,21/15",Ina Stenkjær,Marte Stokkaune
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Barbro Johnsen,Hildegunn Måøy,"21/3,21/10",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Ina Stenkjær,Marte Stokkaune,"22/20,21/8",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Robert Barø,"21/15,21/15",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Geoffrey Werner,"21/14,21/11",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Robert Barø,,Shareq Mohd Nazir,"21/12,21/17",Robert Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Robert Barø,,Erik Måøy,"21/16,21/13",Robert Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erik Måøy,,Shareq Mohd Nazir,"18/21,21/17,21/18",Erik Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Geoffrey Werner,,Børge Håland,"21/14,21/18",Geoffrey Werner,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Henrik Buvik,,Kristian Hyllestad,"15/21,21/10,21/15",Henrik Buvik,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Kristian Hyllestad,"21/8,21/12",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Henrik Buvik,"21/15,21/13",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Robert Barø,"21/15,21/15",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Geoffrey Werner,"21/14,21/11",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Robert Barø,,Shareq Mohd Nazir,"21/12,21/17",Robert Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Robert Barø,,Erik Måøy,"21/16,21/13",Robert Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erik Måøy,,Shareq Mohd Nazir,"18/21,21/17,21/18",Erik Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Geoffrey Werner,,Børge Håland,"21/14,21/18",Geoffrey Werner,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Henrik Buvik,,Kristian Hyllestad,"15/21,21/10,21/15",Henrik Buvik,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Kristian Hyllestad,"21/8,21/12",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,,Erlend Kruksve,,Henrik Buvik,"21/15,21/13",Erlend Kruksve,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Erlend Kruksve,Silje V. Kruksve Aasland,Henrik Buvik,Håvard Buvik,"21/15,22/20",Erlend Kruksve,Silje V. Kruksve Aasland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Børge Håland,Sander Hegseth,Thomas Haugen,Shareq Mohd Nazir,"21/7,24/22",Børge Håland,Sander Hegseth
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Erlend Kruksve,Silje V. Kruksve Aasland,Thomas Haugen,Shareq Mohd Nazir,"21/16,21/18",Erlend Kruksve,Silje V. Kruksve Aasland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Børge Håland,Sander Hegseth,Henrik Buvik,Håvard Buvik,"21/10,21/6",Børge Håland,Sander Hegseth
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Erlend Kruksve,Silje V. Kruksve Aasland,Børge Håland,Sander Hegseth,"21/15,21/11",Erlend Kruksve,Silje V. Kruksve Aasland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Henrik Buvik,Håvard Buvik,Thomas Haugen,Shareq Mohd Nazir,"21/17,21/15",Henrik Buvik,Håvard Buvik
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Fred Moen,"13/21,21/18,21/13",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Markus Måøy,"14/21,21/17,21/18",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Ådne Sellevoll,"21/14,21/17",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Terje Knutseth,"21/6,21/10",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Markus Måøy,,Marius Olsen,"13/21,21/9,21/17",Markus Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Willy Andersen,"21/13,21/2",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Dexter Regarde,,Sigurd Lorvik,"21/14,21/14",Dexter Regarde,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ådne Sellevoll,,Arne Bjørn Berger,"21/9,21/18",Ådne Sellevoll,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ådne Sellevoll,,Sigurd Lorvik,"21/15,19/21,21/13",Ådne Sellevoll,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Arne Bjørn Berger,,Dexter Regarde,"21/19,21/16",Arne Bjørn Berger,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Arne Bjørn Berger,,Sigurd Lorvik,"19/21,21/18,22/20",Arne Bjørn Berger,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ådne Sellevoll,,Dexter Regarde,"14/21,21/19,22/20",Ådne Sellevoll,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Gustav Seglsten,,Steinar Fornes,"21/11,21/13",Gustav Seglsten,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Gustav Seglsten,"21/18,21/10",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Steinar Fornes,"21/18,21/10",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Anders Moen,,Mark Anthony Benoy,"21/10,16/21,21/16",Anders Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Terje Knutseth,,Anders Moen,"24/22,21/11",Terje Knutseth,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Terje Knutseth,,Mark Anthony Benoy,"21/15,21/14",Terje Knutseth,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Elias Grønning,,Kjell Holdbakk,"21/8,21/13",Elias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Markus Måøy,,Håvard Buvik,"21/18,15/21,21/10",Markus Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Elias Grønning,,Markus Måøy,"21/18,11/21,21/19",Elias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Håvard Buvik,,Kjell Holdbakk,"21/7,21/10",Håvard Buvik,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Håvard Buvik,,Elias Grønning,"17/21,21/16,21/19",Håvard Buvik,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Markus Måøy,,Kjell Holdbakk,"21/4,21/16",Markus Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Marius Olsen,,Oscar Haugen,"21/15,18/21,21/13",Marius Olsen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Oscar Haugen,,Viggo Lian,"21/17,21/18",Oscar Haugen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Marius Olsen,,Viggo Lian,"21/12,21/14",Marius Olsen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Willy Andersen,,Ole Andreas Sagøy,"23/21,17/21,21/15",Willy Andersen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Willy Andersen,,Sander Hegseth,"16/21,26/24,21/19",Willy Andersen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ole Andreas Sagøy,,Sander Hegseth,"21/19,10/21,21/17",Ole Andreas Sagøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Thomas Haugen,,Jørgen Olsen,"25/23,21/17",Thomas Haugen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Jørgen Olsen,"21/13,21/11",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Thomas Haugen,"17/21,21/12,21/17",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Fred Moen,"13/21,21/18,21/13",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Markus Måøy,"14/21,21/17,21/18",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Ådne Sellevoll,"21/14,21/17",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Terje Knutseth,"21/6,21/10",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Markus Måøy,,Marius Olsen,"13/21,21/9,21/17",Markus Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Willy Andersen,"21/13,21/2",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Dexter Regarde,,Sigurd Lorvik,"21/14,21/14",Dexter Regarde,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ådne Sellevoll,,Arne Bjørn Berger,"21/9,21/18",Ådne Sellevoll,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ådne Sellevoll,,Sigurd Lorvik,"21/15,19/21,21/13",Ådne Sellevoll,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Arne Bjørn Berger,,Dexter Regarde,"21/19,21/16",Arne Bjørn Berger,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Arne Bjørn Berger,,Sigurd Lorvik,"19/21,21/18,22/20",Arne Bjørn Berger,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ådne Sellevoll,,Dexter Regarde,"14/21,21/19,22/20",Ådne Sellevoll,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Gustav Seglsten,,Steinar Fornes,"21/11,21/13",Gustav Seglsten,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Gustav Seglsten,"21/18,21/10",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Runar Måøy,,Steinar Fornes,"21/18,21/10",Runar Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Anders Moen,,Mark Anthony Benoy,"21/10,16/21,21/16",Anders Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Terje Knutseth,,Anders Moen,"24/22,21/11",Terje Knutseth,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Terje Knutseth,,Mark Anthony Benoy,"21/15,21/14",Terje Knutseth,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Elias Grønning,,Kjell Holdbakk,"21/8,21/13",Elias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Markus Måøy,,Håvard Buvik,"21/18,15/21,21/10",Markus Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Elias Grønning,,Markus Måøy,"21/18,11/21,21/19",Elias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Håvard Buvik,,Kjell Holdbakk,"21/7,21/10",Håvard Buvik,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Håvard Buvik,,Elias Grønning,"17/21,21/16,21/19",Håvard Buvik,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Markus Måøy,,Kjell Holdbakk,"21/4,21/16",Markus Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Marius Olsen,,Oscar Haugen,"21/15,18/21,21/13",Marius Olsen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Oscar Haugen,,Viggo Lian,"21/17,21/18",Oscar Haugen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Marius Olsen,,Viggo Lian,"21/12,21/14",Marius Olsen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Willy Andersen,,Ole Andreas Sagøy,"23/21,17/21,21/15",Willy Andersen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Willy Andersen,,Sander Hegseth,"16/21,26/24,21/19",Willy Andersen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Ole Andreas Sagøy,,Sander Hegseth,"21/19,10/21,21/17",Ole Andreas Sagøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Thomas Haugen,,Jørgen Olsen,"25/23,21/17",Thomas Haugen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Jørgen Olsen,"21/13,21/11",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Fred Moen,,Thomas Haugen,"17/21,21/12,21/17",Fred Moen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,,Hildegunn Måøy,,Dianne Christine Geronimo,"21/9,21/6",Hildegunn Måøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Fred Moen,Runar Måøy,Mark Anthony Benoy,Gustav Seglsten,"21/14,21/14",Fred Moen,Runar Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Fred Moen,Runar Måøy,Steinar Fornes,Sigurd Lorvik,"21/13,21/18",Fred Moen,Runar Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mark Anthony Benoy,Gustav Seglsten,Markus Måøy,Erik Måøy,"17/21,21/18,21/13",Mark Anthony Benoy,Gustav Seglsten
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Markus Måøy,Erik Måøy,Jørgen Olsen,Marius Olsen,"21/19,21/11",Markus Måøy,Erik Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Jørgen Olsen,Marius Olsen,Erik Winger,Jan Aage Nyborg,"22/20,20/22,24/22",Jørgen Olsen,Marius Olsen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Markus Måøy,Erik Måøy,Erik Winger,Jan Aage Nyborg,"21/9,21/13",Markus Måøy,Erik Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Ole Andreas Sagøy,Terje Knutseth,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/12,21/17",Ole Andreas Sagøy,Terje Knutseth
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Viggo Lian,Roger Winge,Mark Anthony Benoy,Gustav Seglsten,"21/12,21/15",Viggo Lian,Roger Winge
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Ole Andreas Sagøy,Terje Knutseth,Viggo Lian,Roger Winge,"21/17,18/21,21/13",Ole Andreas Sagøy,Terje Knutseth
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mark Anthony Benoy,Gustav Seglsten,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/17,21/19",Mark Anthony Benoy,Gustav Seglsten
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Viggo Lian,Roger Winge,"21/15,21/15",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mark Anthony Benoy,Gustav Seglsten,Ole Andreas Sagøy,Terje Knutseth,"15/21,21/16,21/14",Mark Anthony Benoy,Gustav Seglsten
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Fred Moen,Runar Måøy,Arne Bjørn Berger,Dianne Christine Geronimo,"21/17,21/9",Fred Moen,Runar Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Elias Grønning,Robert  Karlsen,Sondre Løvold,Kjell Holdbakk,"21/10,21/16",Elias Grønning,Robert  Karlsen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Fred Moen,Runar Måøy,Sondre Løvold,Kjell Holdbakk,"21/18,21/11",Fred Moen,Runar Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Elias Grønning,Robert  Karlsen,Arne Bjørn Berger,Dianne Christine Geronimo,"21/13,21/7",Elias Grønning,Robert  Karlsen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Sondre Løvold,Kjell Holdbakk,Arne Bjørn Berger,Dianne Christine Geronimo,"23/21,21/14",Sondre Løvold,Kjell Holdbakk
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Fred Moen,Runar Måøy,Elias Grønning,Robert  Karlsen,"22/20,21/14",Fred Moen,Runar Måøy
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Steinar Fornes,Sigurd Lorvik,Anders Moen,Ådne Sellevoll,"21/10,21/16",Steinar Fornes,Sigurd Lorvik
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Anders Moen,Ådne Sellevoll,Fredrik Nilssen,Dexter Regarde,"21/17,21/12",Anders Moen,Ådne Sellevoll
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Fredrik Nilssen,Dexter Regarde,Steinar Fornes,Sigurd Lorvik,"10/21,21/17,21/19",Fredrik Nilssen,Dexter Regarde
-2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Vivild Våbenø Berg,Amber Heggdal,Iris Olafsen-Solberg,Eli Bente Just,"22/20,21/8",Vivild Våbenø Berg,Amber Heggdal
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Mathias Grønning,,Samuel Toth,"24/22,21/15",Mathias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Mathias Grønning,,Fredrik Nilssen,"21/18,21/11",Mathias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Mads B. Rotabakk,,Samuel Toth,"19/21,21/17,21/19",Mads B. Rotabakk,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Samuel Toth,,Daniel Solemsaunet,"21/14,22/20",Samuel Toth,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Mathias Grønning,,Samuel Toth,"24/22,21/15",Mathias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Mathias Grønning,,Fredrik Nilssen,"21/18,21/11",Mathias Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Mads B. Rotabakk,,Samuel Toth,"19/21,21/17,21/19",Mads B. Rotabakk,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Samuel Toth,,Daniel Solemsaunet,"21/14,22/20",Samuel Toth,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Malin Holdbakk,,Hege Grønning,"22/20,21/11",Malin Holdbakk,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Malin Holdbakk,,Linda Våbenø Berg,"21/16,21/14",Malin Holdbakk,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,,Hege Grønning,,Linda Våbenø Berg,"21/14,21/14",Hege Grønning,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Helge Formo,Willy Andersen,Arne Wenes,Jan Erik Søraas Lien,"21/14,21/13",Helge Formo,Willy Andersen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Oscar Haugen,Elias Haugen,Jonah Aleksander Kilen,Daniel Solemsaunet,"21/10,21/9",Oscar Haugen,Elias Haugen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Helge Formo,Willy Andersen,Oscar Haugen,Elias Haugen,"21/15,21/14",Helge Formo,Willy Andersen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Helge Formo,Willy Andersen,Jonah Aleksander Kilen,Daniel Solemsaunet,"21/16,21/9",Helge Formo,Willy Andersen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Arne Wenes,Jan Erik Søraas Lien,Fillip August Rotabakk,Mads B. Rotabakk,"21/9,15/21,21/18",Arne Wenes,Jan Erik Søraas Lien
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mathias Grønning,Samuel Toth,Fillip August Rotabakk,Mads B. Rotabakk,"22/20,21/14",Mathias Grønning,Samuel Toth
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Arne Wenes,Jan Erik Søraas Lien,Mathias Grønning,Samuel Toth,"21/16,17/21,21/17",Arne Wenes,Jan Erik Søraas Lien
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Stine Marie Jakobsen,Kristin Bakken,MARTE EGGEN,Linda Våbenø Berg,"21/16,23/21",Stine Marie Jakobsen,Kristin Bakken
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Malin Holdbakk,Aina Nielsen,Victoria Fossum Vanvik,Hildegunn Wenes,"21/12,21/9",Malin Holdbakk,Aina Nielsen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Trine Søraas Johannessen,Tove Søraas,Stine Marie Jakobsen,Kristin Bakken,"21/10,21/9",Trine Søraas Johannessen,Tove Søraas
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Trine Søraas Johannessen,Tove Søraas,Victoria Fossum Vanvik,Hildegunn Wenes,"21/2,21/5",Trine Søraas Johannessen,Tove Søraas
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Trine Søraas Johannessen,Tove Søraas,Malin Holdbakk,Aina Nielsen,"21/19,21/14",Trine Søraas Johannessen,Tove Søraas
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,MARTE EGGEN,Linda Våbenø Berg,Victoria Fossum Vanvik,Hildegunn Wenes,"21/12,21/6",MARTE EGGEN,Linda Våbenø Berg
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Trine Søraas Johannessen,Tove Søraas,MARTE EGGEN,Linda Våbenø Berg,"21/8,21/11",Trine Søraas Johannessen,Tove Søraas
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Stine Marie Jakobsen,Kristin Bakken,Victoria Fossum Vanvik,Hildegunn Wenes,"21/7,21/7",Stine Marie Jakobsen,Kristin Bakken
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Malin Holdbakk,Aina Nielsen,MARTE EGGEN,Linda Våbenø Berg,"21/19,18/21,21/19",Malin Holdbakk,Aina Nielsen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Malin Holdbakk,Aina Nielsen,Stine Marie Jakobsen,Kristin Bakken,"21/15,21/16",Malin Holdbakk,Aina Nielsen
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Marte Stokkaune,,Ina Stenkjær,"21/11,21/15",Marte Stokkaune,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Silje V. Kruksve Aasland,"21/19,20/22,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ina Stenkjær,,Silje V. Kruksve Aasland,"13/21,23/21,21/9",Ina Stenkjær,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Marte Stokkaune,"21/10,21/15",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Ina Stenkjær,"21/5,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Silje V. Kruksve Aasland,,Marte Stokkaune,"21/16,16/21,22/20",Silje V. Kruksve Aasland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Kai Roger Stensen,Isak L. Hasselvold,"23/21,21/19",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Robin Kruksve Krux,Fredrik Lian,Benjamin Rølvåg,Jonas J Grande,"17/21,21/16,21/17",Robin Kruksve Krux,Fredrik Lian
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Robin Kruksve Krux,Fredrik Lian,"25/23,21/15",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Benjamin Rølvåg,Jonas J Grande,"23/21,21/12",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Emil Pettersen,Ole Christoffer Olsen,"21/5,21/6",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Amund Skavhaug,Robert Barø,"21/19,21/18",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Emil Pettersen,Ole Christoffer Olsen,"21/10,21/14",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Amund Skavhaug,Robert Barø,"21/18,21/17",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Kristoffer Brandsås Berg,Sebastian Bøe,"19/21,21/6,21/11",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Amund Skavhaug,Robert Barø,Emil Pettersen,Ole Christoffer Olsen,"21/16,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Ina Stenkjær,Marte Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/8,21/15",Ina Stenkjær,Marte Stokkaune
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Barbro Johnsen,Hildegunn Måøy,"21/3,21/10",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Ina Stenkjær,Marte Stokkaune,"22/20,21/8",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Marte Stokkaune,,Ina Stenkjær,"21/11,21/15",Marte Stokkaune,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Silje V. Kruksve Aasland,"21/19,20/22,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ina Stenkjær,,Silje V. Kruksve Aasland,"13/21,23/21,21/9",Ina Stenkjær,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Marte Stokkaune,"21/10,21/15",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Ina Stenkjær,"21/5,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Silje V. Kruksve Aasland,,Marte Stokkaune,"21/16,16/21,22/20",Silje V. Kruksve Aasland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Kai Roger Stensen,Isak L. Hasselvold,"23/21,21/19",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Robin Kruksve Krux,Fredrik Lian,Benjamin Rølvåg,Jonas J Grande,"17/21,21/16,21/17",Robin Kruksve Krux,Fredrik Lian
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Robin Kruksve Krux,Fredrik Lian,"25/23,21/15",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Benjamin Rølvåg,Jonas J Grande,"23/21,21/12",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Emil Pettersen,Ole Christoffer Olsen,"21/5,21/6",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Amund Skavhaug,Robert Barø,"21/19,21/18",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Emil Pettersen,Ole Christoffer Olsen,"21/10,21/14",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Amund Skavhaug,Robert Barø,"21/18,21/17",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Kristoffer Brandsås Berg,Sebastian Bøe,"19/21,21/6,21/11",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Amund Skavhaug,Robert Barø,Emil Pettersen,Ole Christoffer Olsen,"21/16,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Ina Stenkjær,Marte Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/8,21/15",Ina Stenkjær,Marte Stokkaune
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Barbro Johnsen,Hildegunn Måøy,"21/3,21/10",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Ina Stenkjær,Marte Stokkaune,"22/20,21/8",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,U11 A,,Darja Maria Abuzatoaie,,Maja Mathilde Johnsen Sørgjerd,"21/5,21/7",Darja Maria Abuzatoaie,
-2019/2020,Rissa Clearcup ,27.09.2019,U11 A,,Maja Fossbakken Knutseth,,Maja Mathilde Johnsen Sørgjerd,"21/11,21/16",Maja Fossbakken Knutseth,
-2019/2020,Rissa Clearcup ,27.09.2019,U11 A,,Darja Maria Abuzatoaie,,Maja Fossbakken Knutseth,"15/21,21/7,21/13",Darja Maria Abuzatoaie,
-2019/2020,Rissa Clearcup ,27.09.2019,U11 A,,Darja Maria Abuzatoaie,,Maja Mathilde Johnsen Sørgjerd,"21/5,21/7",Darja Maria Abuzatoaie,
-2019/2020,Rissa Clearcup ,27.09.2019,U11 A,,Maja Fossbakken Knutseth,,Maja Mathilde Johnsen Sørgjerd,"21/11,21/16",Maja Fossbakken Knutseth,
-2019/2020,Rissa Clearcup ,27.09.2019,U11 A,,Darja Maria Abuzatoaie,,Maja Fossbakken Knutseth,"15/21,21/7,21/13",Darja Maria Abuzatoaie,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Marte Stokkaune,,Ina Stenkjær,"21/11,21/15",Marte Stokkaune,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Silje V. Kruksve Aasland,"21/19,20/22,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ina Stenkjær,,Silje V. Kruksve Aasland,"13/21,23/21,21/9",Ina Stenkjær,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Marte Stokkaune,"21/10,21/15",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Ingvild Håland,,Ina Stenkjær,"21/5,21/18",Ingvild Håland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,,Silje V. Kruksve Aasland,,Marte Stokkaune,"21/16,16/21,22/20",Silje V. Kruksve Aasland,
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Kai Roger Stensen,Isak L. Hasselvold,"23/21,21/19",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Robin Kruksve Krux,Fredrik Lian,Benjamin Rølvåg,Jonas J Grande,"17/21,21/16,21/17",Robin Kruksve Krux,Fredrik Lian
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Robin Kruksve Krux,Fredrik Lian,"25/23,21/15",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Fredrik Skånøy,Martin Hyllestad,Benjamin Rølvåg,Jonas J Grande,"23/21,21/12",Fredrik Skånøy,Martin Hyllestad
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Emil Pettersen,Ole Christoffer Olsen,"21/5,21/6",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Amund Skavhaug,Robert Barø,"21/19,21/18",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Emil Pettersen,Ole Christoffer Olsen,"21/10,21/14",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kristoffer Brandsås Berg,Sebastian Bøe,Amund Skavhaug,Robert Barø,"21/18,21/17",Kristoffer Brandsås Berg,Sebastian Bøe
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Kai Roger Stensen,Isak L. Hasselvold,Kristoffer Brandsås Berg,Sebastian Bøe,"19/21,21/6,21/11",Kai Roger Stensen,Isak L. Hasselvold
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Amund Skavhaug,Robert Barø,Emil Pettersen,Ole Christoffer Olsen,"21/16,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Ina Stenkjær,Marte Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/8,21/15",Ina Stenkjær,Marte Stokkaune
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Barbro Johnsen,Hildegunn Måøy,"21/3,21/10",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Camilla Stokkaune,Ingvild Håland,Ina Stenkjær,Marte Stokkaune,"22/20,21/8",Camilla Stokkaune,Ingvild Håland
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,William R. Barø,,Jon Sigurd Berg,"21/13,21/11",William R. Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Asgeir Våbenø Berg,,Jon Sigurd Berg,"21/10,21/8",Asgeir Våbenø Berg,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,William R. Barø,,Asgeir Våbenø Berg,"21/18,21/13",William R. Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,William R. Barø,,Jon Sigurd Berg,"21/13,21/11",William R. Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Asgeir Våbenø Berg,,Jon Sigurd Berg,"21/10,21/8",Asgeir Våbenø Berg,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,William R. Barø,,Asgeir Våbenø Berg,"21/18,21/13",William R. Barø,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Celine H Solvang Søvik,,Mathea Rødvik Iglebæk,"21/7,21/17",Celine H Solvang Søvik,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Ingvild Søraas Johannessen,,Silje Lyngstad Skavhaug,"21/5,21/12",Ingvild Søraas Johannessen,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Silje Lyngstad Skavhaug,,Mathea Rødvik Iglebæk,"21/16,30/29",Silje Lyngstad Skavhaug,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Ingvild Søraas Johannessen,,Celine H Solvang Søvik,"21/15,21/18",Ingvild Søraas Johannessen,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Celine H Solvang Søvik,,Silje Lyngstad Skavhaug,"21/16,19/21,21/14",Celine H Solvang Søvik,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,,Ingvild Søraas Johannessen,,Mathea Rødvik Iglebæk,"21/7,21/7",Ingvild Søraas Johannessen,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,Celine H Solvang Søvik,Darja Maria Abuzatoaie,"21/16,21/16",Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Nora Haukdal Trøen,Ingvild Søraas Johannessen,Lukas Engeli Johansen,Ådne Børmark,"21/13,21/13",Nora Haukdal Trøen,Ingvild Søraas Johannessen
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Nora Haukdal Trøen,Ingvild Søraas Johannessen,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,"21/10,21/12",Nora Haukdal Trøen,Ingvild Søraas Johannessen
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Celine H Solvang Søvik,Darja Maria Abuzatoaie,Lukas Engeli Johansen,Ådne Børmark,"21/19,24/26,21/12",Celine H Solvang Søvik,Darja Maria Abuzatoaie
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,Lukas Engeli Johansen,Ådne Børmark,"21/19,21/12",Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk
-2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Nora Haukdal Trøen,Ingvild Søraas Johannessen,Celine H Solvang Søvik,Darja Maria Abuzatoaie,"21/8,21/16",Nora Haukdal Trøen,Ingvild Søraas Johannessen
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,IMRE LØVOLD NILSEN,,Ole Johan Dyrendal,"21/7,21/8",IMRE LØVOLD NILSEN,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,Lukas Engeli Johansen,"21/5,21/10",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,IMRE LØVOLD NILSEN,,Lukas Engeli Johansen,"21/15,21/8",IMRE LØVOLD NILSEN,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,IMRE LØVOLD NILSEN,,Viktor Eldegard,"13/21,21/9,21/4",IMRE LØVOLD NILSEN,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,Ole Johan Dyrendal,"21/17,21/5",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Lukas Engeli Johansen,,Ole Johan Dyrendal,"21/18,21/8",Lukas Engeli Johansen,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,Viktor Eldegard,"21/4,21/5",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Viktor Eldegard,,Ole Johan Dyrendal,"21/13,23/21",Viktor Eldegard,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,IMRE LØVOLD NILSEN,"21/14,21/19",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Viktor Eldegard,,Lukas Engeli Johansen,"21/5,21/12",Viktor Eldegard,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,IMRE LØVOLD NILSEN,,Ole Johan Dyrendal,"21/7,21/8",IMRE LØVOLD NILSEN,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,Lukas Engeli Johansen,"21/5,21/10",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,IMRE LØVOLD NILSEN,,Lukas Engeli Johansen,"21/15,21/8",IMRE LØVOLD NILSEN,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,IMRE LØVOLD NILSEN,,Viktor Eldegard,"13/21,21/9,21/4",IMRE LØVOLD NILSEN,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,Ole Johan Dyrendal,"21/17,21/5",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Lukas Engeli Johansen,,Ole Johan Dyrendal,"21/18,21/8",Lukas Engeli Johansen,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,Viktor Eldegard,"21/4,21/5",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Viktor Eldegard,,Ole Johan Dyrendal,"21/13,23/21",Viktor Eldegard,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Ådne Børmark,,IMRE LØVOLD NILSEN,"21/14,21/19",Ådne Børmark,
-2019/2020,Rissa Clearcup ,27.09.2019,U13 B,,Viktor Eldegard,,Lukas Engeli Johansen,"21/5,21/12",Viktor Eldegard,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Isak L. Hasselvold,,Kai Roger Stensen,"21/7,12/21,21/18",Isak L. Hasselvold,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Kai Roger Stensen,,Fredrik Skånøy,"20/22,21/16,22/20",Kai Roger Stensen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Isak L. Hasselvold,,Amund Skavhaug,"21/3,21/9",Isak L. Hasselvold,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Isak L. Hasselvold,,Kristoffer Brandsås Berg,"21/15,21/9",Isak L. Hasselvold,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Benjamin Rølvåg,,Kristoffer Brandsås Berg,"26/24,21/4",Benjamin Rølvåg,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/12,21/8",Isak L. Hasselvold,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Amund Skavhaug,,Jonas J Grande,"21/14,18/21,21/12",Amund Skavhaug,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Amund Skavhaug,,Ole Christoffer Olsen,"17/21,21/10,21/17",Amund Skavhaug,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Jonas J Grande,,Ole Christoffer Olsen,"10/21,21/12,21/14",Jonas J Grande,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Sebastian Bøe,,Sondre Løvold,"21/15,21/14",Sebastian Bøe,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Kai Roger Stensen,,Martin Hyllestad,"21/14,21/19",Kai Roger Stensen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Martin Hyllestad,,Sebastian Bøe,"21/16,21/10",Martin Hyllestad,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Kai Roger Stensen,,Sondre Løvold,"21/9,21/7",Kai Roger Stensen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Kai Roger Stensen,,Sebastian Bøe,"21/14,21/15",Kai Roger Stensen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Martin Hyllestad,,Sondre Løvold,"21/15,19/21,21/15",Martin Hyllestad,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Fredrik Skånøy,,Emil Pettersen,"21/11,23/25,21/17",Fredrik Skånøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Fredrik Skånøy,,Fredrik Lian,"9/21,21/13,21/16",Fredrik Skånøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herresingle,,Fredrik Lian,,Emil Pettersen,"22/20,21/14",Fredrik Lian,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damesingle,,Marte Stokkaune,,Ina Stenkjær,"21/11,21/15",Marte Stokkaune,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damesingle,,Ingvild Håland,,Silje V. Kruksve Aasland,"21/19,20/22,21/18",Ingvild Håland,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damesingle,,Ina Stenkjær,,Silje V. Kruksve Aasland,"13/21,23/21,21/9",Ina Stenkjær,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damesingle,,Ingvild Håland,,Marte Stokkaune,"21/10,21/15",Ingvild Håland,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damesingle,,Ingvild Håland,,Ina Stenkjær,"21/5,21/18",Ingvild Håland,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damesingle,,Silje V. Kruksve Aasland,,Marte Stokkaune,"21/16,16/21,22/20",Silje V. Kruksve Aasland,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Fredrik Skånøy,Martin Hyllestad,Kai Roger Stensen,Isak L. Hasselvold,"23/21,21/19",Fredrik Skånøy,Martin Hyllestad
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Robin Kruksve Krux,Fredrik Lian,Benjamin Rølvåg,Jonas J Grande,"17/21,21/16,21/17",Robin Kruksve Krux,Fredrik Lian
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Fredrik Skånøy,Martin Hyllestad,Robin Kruksve Krux,Fredrik Lian,"25/23,21/15",Fredrik Skånøy,Martin Hyllestad
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Fredrik Skånøy,Martin Hyllestad,Benjamin Rølvåg,Jonas J Grande,"23/21,21/12",Fredrik Skånøy,Martin Hyllestad
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Kristoffer Brandsås Berg,Sebastian Bøe,Emil Pettersen,Ole Christoffer Olsen,"21/5,21/6",Kristoffer Brandsås Berg,Sebastian Bøe
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Kai Roger Stensen,Isak L. Hasselvold,Amund Skavhaug,Robert Barø,"21/19,21/18",Kai Roger Stensen,Isak L. Hasselvold
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Kai Roger Stensen,Isak L. Hasselvold,Emil Pettersen,Ole Christoffer Olsen,"21/10,21/14",Kai Roger Stensen,Isak L. Hasselvold
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Kristoffer Brandsås Berg,Sebastian Bøe,Amund Skavhaug,Robert Barø,"21/18,21/17",Kristoffer Brandsås Berg,Sebastian Bøe
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Kai Roger Stensen,Isak L. Hasselvold,Kristoffer Brandsås Berg,Sebastian Bøe,"19/21,21/6,21/11",Kai Roger Stensen,Isak L. Hasselvold
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Emil Pettersen,Ole Christoffer Olsen,"21/16,21/19",Amund Skavhaug,Robert Barø
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damedouble,Ina Stenkjær,Marte Stokkaune,Barbro Johnsen,Hildegunn Måøy,"21/8,21/15",Ina Stenkjær,Marte Stokkaune
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damedouble,Camilla Stokkaune,Ingvild Håland,Barbro Johnsen,Hildegunn Måøy,"21/3,21/10",Camilla Stokkaune,Ingvild Håland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Damedouble,Camilla Stokkaune,Ingvild Håland,Ina Stenkjær,Marte Stokkaune,"22/20,21/8",Camilla Stokkaune,Ingvild Håland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Emil Pettersen,Barbro Johnsen,Silje V. Kruksve Aasland,Robin Kruksve Krux,"21/13,17/21,21/15",Emil Pettersen,Barbro Johnsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Ina Stenkjær,Fredrik Lian,Børge Håland,Ingvild Håland,"19/21,21/9,21/7",Ina Stenkjær,Fredrik Lian
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Ina Stenkjær,Fredrik Lian,Marte Stokkaune,Martin Hyllestad,"21/19,19/21,22/20",Ina Stenkjær,Fredrik Lian
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Børge Håland,Ingvild Håland,Silje V. Kruksve Aasland,Robin Kruksve Krux,"21/16,21/16",Børge Håland,Ingvild Håland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Ina Stenkjær,Fredrik Lian,Emil Pettersen,Barbro Johnsen,"21/2,21/1",Ina Stenkjær,Fredrik Lian
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Marte Stokkaune,Martin Hyllestad,Børge Håland,Ingvild Håland,"21/16,21/15",Marte Stokkaune,Martin Hyllestad
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Ina Stenkjær,Fredrik Lian,Silje V. Kruksve Aasland,Robin Kruksve Krux,"21/17,21/12",Ina Stenkjær,Fredrik Lian
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Marte Stokkaune,Martin Hyllestad,Emil Pettersen,Barbro Johnsen,"21/9,21/6",Marte Stokkaune,Martin Hyllestad
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Marte Stokkaune,Martin Hyllestad,Silje V. Kruksve Aasland,Robin Kruksve Krux,"25/23,21/9",Marte Stokkaune,Martin Hyllestad
+2019/2020,Rissa Clearcup ,27.09.2019,SEN A,Mixeddouble,Børge Håland,Ingvild Håland,Emil Pettersen,Barbro Johnsen,"21/17,19/21,21/14",Børge Håland,Ingvild Håland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Erlend Kruksve,,Robert Barø,"21/15,21/15",Erlend Kruksve,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Erlend Kruksve,,Geoffrey Werner,"21/14,21/11",Erlend Kruksve,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Robert Barø,,Shareq Mohd Nazir,"21/12,21/17",Robert Barø,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Robert Barø,,Erik Måøy,"21/16,21/13",Robert Barø,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Erik Måøy,,Shareq Mohd Nazir,"18/21,21/17,21/18",Erik Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Geoffrey Werner,,Børge Håland,"21/14,21/18",Geoffrey Werner,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Henrik Buvik,,Kristian Hyllestad,"15/21,21/10,21/15",Henrik Buvik,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Erlend Kruksve,,Kristian Hyllestad,"21/8,21/12",Erlend Kruksve,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herresingle,,Erlend Kruksve,,Henrik Buvik,"21/15,21/13",Erlend Kruksve,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herredouble,Erlend Kruksve,Silje V. Kruksve Aasland,Henrik Buvik,Håvard Buvik,"21/15,22/20",Erlend Kruksve,Silje V. Kruksve Aasland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herredouble,Børge Håland,Sander Hegseth,Thomas Haugen,Shareq Mohd Nazir,"21/7,24/22",Børge Håland,Sander Hegseth
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herredouble,Erlend Kruksve,Silje V. Kruksve Aasland,Thomas Haugen,Shareq Mohd Nazir,"21/16,21/18",Erlend Kruksve,Silje V. Kruksve Aasland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herredouble,Børge Håland,Sander Hegseth,Henrik Buvik,Håvard Buvik,"21/10,21/6",Børge Håland,Sander Hegseth
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herredouble,Erlend Kruksve,Silje V. Kruksve Aasland,Børge Håland,Sander Hegseth,"21/15,21/11",Erlend Kruksve,Silje V. Kruksve Aasland
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Herredouble,Henrik Buvik,Håvard Buvik,Thomas Haugen,Shareq Mohd Nazir,"21/17,21/15",Henrik Buvik,Håvard Buvik
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Mixeddouble,Erlend Kruksve,Camilla Stokkaune,Hildegunn Måøy,Fred Moen,"16/21,21/16,21/13",Erlend Kruksve,Camilla Stokkaune
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Mixeddouble,Geoffrey Werner,Dianne Christine Geronimo,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,"21/19,16/21,21/16",Geoffrey Werner,Dianne Christine Geronimo
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Mixeddouble,Geoffrey Werner,Dianne Christine Geronimo,Hildegunn Måøy,Fred Moen,"18/21,21/19,21/18",Geoffrey Werner,Dianne Christine Geronimo
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Mixeddouble,Erlend Kruksve,Camilla Stokkaune,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,"21/15,21/12",Erlend Kruksve,Camilla Stokkaune
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Mixeddouble,Hildegunn Måøy,Fred Moen,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,"21/11,19/21,21/16",Hildegunn Måøy,Fred Moen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN B,Mixeddouble,Erlend Kruksve,Camilla Stokkaune,Geoffrey Werner,Dianne Christine Geronimo,"21/19,21/13",Erlend Kruksve,Camilla Stokkaune
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Runar Måøy,,Fred Moen,"13/21,21/18,21/13",Runar Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Fred Moen,,Markus Måøy,"14/21,21/17,21/18",Fred Moen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Runar Måøy,,Ådne Sellevoll,"21/14,21/17",Runar Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Runar Måøy,,Terje Knutseth,"21/6,21/10",Runar Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Markus Måøy,,Marius Olsen,"13/21,21/9,21/17",Markus Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Fred Moen,,Willy Andersen,"21/13,21/2",Fred Moen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Dexter Regarde,,Sigurd Lorvik,"21/14,21/14",Dexter Regarde,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Ådne Sellevoll,,Arne Bjørn Berger,"21/9,21/18",Ådne Sellevoll,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Ådne Sellevoll,,Sigurd Lorvik,"21/15,19/21,21/13",Ådne Sellevoll,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Arne Bjørn Berger,,Dexter Regarde,"21/19,21/16",Arne Bjørn Berger,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Arne Bjørn Berger,,Sigurd Lorvik,"19/21,21/18,22/20",Arne Bjørn Berger,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Ådne Sellevoll,,Dexter Regarde,"14/21,21/19,22/20",Ådne Sellevoll,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Gustav Seglsten,,Steinar Fornes,"21/11,21/13",Gustav Seglsten,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Runar Måøy,,Gustav Seglsten,"21/18,21/10",Runar Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Runar Måøy,,Steinar Fornes,"21/18,21/10",Runar Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Anders Moen,,Mark Anthony Benoy,"21/10,16/21,21/16",Anders Moen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Terje Knutseth,,Anders Moen,"24/22,21/11",Terje Knutseth,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Terje Knutseth,,Mark Anthony Benoy,"21/15,21/14",Terje Knutseth,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Elias Grønning,,Kjell Holdbakk,"21/8,21/13",Elias Grønning,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Markus Måøy,,Håvard Buvik,"21/18,15/21,21/10",Markus Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Elias Grønning,,Markus Måøy,"21/18,11/21,21/19",Elias Grønning,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Håvard Buvik,,Kjell Holdbakk,"21/7,21/10",Håvard Buvik,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Håvard Buvik,,Elias Grønning,"17/21,21/16,21/19",Håvard Buvik,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Markus Måøy,,Kjell Holdbakk,"21/4,21/16",Markus Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Marius Olsen,,Oscar Haugen,"21/15,18/21,21/13",Marius Olsen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Oscar Haugen,,Viggo Lian,"21/17,21/18",Oscar Haugen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Marius Olsen,,Viggo Lian,"21/12,21/14",Marius Olsen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Willy Andersen,,Ole Andreas Sagøy,"23/21,17/21,21/15",Willy Andersen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Willy Andersen,,Sander Hegseth,"16/21,26/24,21/19",Willy Andersen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Ole Andreas Sagøy,,Sander Hegseth,"21/19,10/21,21/17",Ole Andreas Sagøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Thomas Haugen,,Jørgen Olsen,"25/23,21/17",Thomas Haugen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Fred Moen,,Jørgen Olsen,"21/13,21/11",Fred Moen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herresingle,,Fred Moen,,Thomas Haugen,"17/21,21/12,21/17",Fred Moen,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Damesingle,,Hildegunn Måøy,,Dianne Christine Geronimo,"21/9,21/6",Hildegunn Måøy,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Fred Moen,Runar Måøy,Mark Anthony Benoy,Gustav Seglsten,"21/14,21/14",Fred Moen,Runar Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Fred Moen,Runar Måøy,Steinar Fornes,Sigurd Lorvik,"21/13,21/18",Fred Moen,Runar Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Mark Anthony Benoy,Gustav Seglsten,Markus Måøy,Erik Måøy,"17/21,21/18,21/13",Mark Anthony Benoy,Gustav Seglsten
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Markus Måøy,Erik Måøy,Jørgen Olsen,Marius Olsen,"21/19,21/11",Markus Måøy,Erik Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Jørgen Olsen,Marius Olsen,Erik Winger,Jan Aage Nyborg,"22/20,20/22,24/22",Jørgen Olsen,Marius Olsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Markus Måøy,Erik Måøy,Erik Winger,Jan Aage Nyborg,"21/9,21/13",Markus Måøy,Erik Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Ole Andreas Sagøy,Terje Knutseth,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/12,21/17",Ole Andreas Sagøy,Terje Knutseth
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Viggo Lian,Roger Winge,Mark Anthony Benoy,Gustav Seglsten,"21/12,21/15",Viggo Lian,Roger Winge
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Ole Andreas Sagøy,Terje Knutseth,Viggo Lian,Roger Winge,"21/17,18/21,21/13",Ole Andreas Sagøy,Terje Knutseth
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Mark Anthony Benoy,Gustav Seglsten,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/17,21/19",Mark Anthony Benoy,Gustav Seglsten
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Viggo Lian,Roger Winge,"21/15,21/15",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Mark Anthony Benoy,Gustav Seglsten,Ole Andreas Sagøy,Terje Knutseth,"15/21,21/16,21/14",Mark Anthony Benoy,Gustav Seglsten
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Fred Moen,Runar Måøy,Arne Bjørn Berger,Dianne Christine Geronimo,"21/17,21/9",Fred Moen,Runar Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Elias Grønning,Robert  Karlsen,Sondre Løvold,Kjell Holdbakk,"21/10,21/16",Elias Grønning,Robert  Karlsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Fred Moen,Runar Måøy,Sondre Løvold,Kjell Holdbakk,"21/18,21/11",Fred Moen,Runar Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Elias Grønning,Robert  Karlsen,Arne Bjørn Berger,Dianne Christine Geronimo,"21/13,21/7",Elias Grønning,Robert  Karlsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Sondre Løvold,Kjell Holdbakk,Arne Bjørn Berger,Dianne Christine Geronimo,"23/21,21/14",Sondre Løvold,Kjell Holdbakk
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Fred Moen,Runar Måøy,Elias Grønning,Robert  Karlsen,"22/20,21/14",Fred Moen,Runar Måøy
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Steinar Fornes,Sigurd Lorvik,Anders Moen,Ådne Sellevoll,"21/10,21/16",Steinar Fornes,Sigurd Lorvik
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Anders Moen,Ådne Sellevoll,Fredrik Nilssen,Dexter Regarde,"21/17,21/12",Anders Moen,Ådne Sellevoll
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Herredouble,Fredrik Nilssen,Dexter Regarde,Steinar Fornes,Sigurd Lorvik,"10/21,21/17,21/19",Fredrik Nilssen,Dexter Regarde
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Damedouble,Vivild Våbenø Berg,Amber Heggdal,Iris Olafsen-Solberg,Eli Bente Just,"22/20,21/8",Vivild Våbenø Berg,Amber Heggdal
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Elin Hansen,Benjamin Rølvåg,Jørgen Olsen,Julie Kristin Vatterholm,"21/14,21/17",Elin Hansen,Benjamin Rølvåg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Ådne Sellevoll,Hege Elisabeth Bakke,"21/18,21/14",Jørgen Olsen,Julie Kristin Vatterholm
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Elin Hansen,Benjamin Rølvåg,Hege Grønning,Elias Grønning,"21/7,21/14",Elin Hansen,Benjamin Rølvåg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Sondre Løvold,Aina Nielsen,Amber Heggdal,Gustav Seglsten,"20/22,21/19,21/12",Sondre Løvold,Aina Nielsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Elin Hansen,Benjamin Rølvåg,Sondre Løvold,Aina Nielsen,"21/15,21/18",Elin Hansen,Benjamin Rølvåg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Elin Hansen,Benjamin Rølvåg,Amber Heggdal,Gustav Seglsten,"21/17,21/16",Elin Hansen,Benjamin Rølvåg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Sondre Løvold,Aina Nielsen,Hege Grønning,Elias Grønning,"16/21,23/21,21/19",Sondre Løvold,Aina Nielsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Amber Heggdal,Gustav Seglsten,Hege Grønning,Elias Grønning,"21/13,16/21,21/17",Amber Heggdal,Gustav Seglsten
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Tove Søraas,Marius Olsen,"21/17,19/21,21/17",Jørgen Olsen,Julie Kristin Vatterholm
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Ole Andreas Sagøy,Linda Våbenø Berg,Stine Marie Jakobsen,Mark Anthony Benoy,"22/20,21/12",Ole Andreas Sagøy,Linda Våbenø Berg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Tove Søraas,Marius Olsen,Ole Andreas Sagøy,Linda Våbenø Berg,"21/13,21/18",Tove Søraas,Marius Olsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Stine Marie Jakobsen,Mark Anthony Benoy,"21/8,21/9",Jørgen Olsen,Julie Kristin Vatterholm
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Tove Søraas,Marius Olsen,Stine Marie Jakobsen,Mark Anthony Benoy,"21/16,13/21,21/15",Tove Søraas,Marius Olsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Ole Andreas Sagøy,Linda Våbenø Berg,"22/20,19/21,21/19",Jørgen Olsen,Julie Kristin Vatterholm
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Ådne Sellevoll,Hege Elisabeth Bakke,Vivild Våbenø Berg,Thomas Haugen,"19/21,21/15,21/15",Ådne Sellevoll,Hege Elisabeth Bakke
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Ådne Sellevoll,Hege Elisabeth Bakke,Kjell Holdbakk,Malin Holdbakk,"27/25,21/12",Ådne Sellevoll,Hege Elisabeth Bakke
+2019/2020,Rissa Clearcup ,27.09.2019,SEN C,Mixeddouble,Vivild Våbenø Berg,Thomas Haugen,Kjell Holdbakk,Malin Holdbakk,"21/11,16/21,22/20",Vivild Våbenø Berg,Thomas Haugen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herresingle,,Mathias Grønning,,Samuel Toth,"24/22,21/15",Mathias Grønning,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herresingle,,Mathias Grønning,,Fredrik Nilssen,"21/18,21/11",Mathias Grønning,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herresingle,,Mads B. Rotabakk,,Samuel Toth,"19/21,21/17,21/19",Mads B. Rotabakk,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herresingle,,Samuel Toth,,Daniel Solemsaunet,"21/14,22/20",Samuel Toth,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damesingle,,Malin Holdbakk,,Hege Grønning,"22/20,21/11",Malin Holdbakk,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damesingle,,Malin Holdbakk,,Linda Våbenø Berg,"21/16,21/14",Malin Holdbakk,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damesingle,,Hege Grønning,,Linda Våbenø Berg,"21/14,21/14",Hege Grønning,
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Helge Formo,Willy Andersen,Arne Wenes,Jan Erik Søraas Lien,"21/14,21/13",Helge Formo,Willy Andersen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Oscar Haugen,Elias Haugen,Jonah Aleksander Kilen,Daniel Solemsaunet,"21/10,21/9",Oscar Haugen,Elias Haugen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Helge Formo,Willy Andersen,Oscar Haugen,Elias Haugen,"21/15,21/14",Helge Formo,Willy Andersen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Helge Formo,Willy Andersen,Jonah Aleksander Kilen,Daniel Solemsaunet,"21/16,21/9",Helge Formo,Willy Andersen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Arne Wenes,Jan Erik Søraas Lien,Fillip August Rotabakk,Mads B. Rotabakk,"21/9,15/21,21/18",Arne Wenes,Jan Erik Søraas Lien
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Mathias Grønning,Samuel Toth,Fillip August Rotabakk,Mads B. Rotabakk,"22/20,21/14",Mathias Grønning,Samuel Toth
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Herredouble,Arne Wenes,Jan Erik Søraas Lien,Mathias Grønning,Samuel Toth,"21/16,17/21,21/17",Arne Wenes,Jan Erik Søraas Lien
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Stine Marie Jakobsen,Kristin Bakken,MARTE EGGEN,Linda Våbenø Berg,"21/16,23/21",Stine Marie Jakobsen,Kristin Bakken
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Malin Holdbakk,Aina Nielsen,Victoria Fossum Vanvik,Hildegunn Wenes,"21/12,21/9",Malin Holdbakk,Aina Nielsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Trine Søraas Johannessen,Tove Søraas,Stine Marie Jakobsen,Kristin Bakken,"21/10,21/9",Trine Søraas Johannessen,Tove Søraas
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Trine Søraas Johannessen,Tove Søraas,Victoria Fossum Vanvik,Hildegunn Wenes,"21/2,21/5",Trine Søraas Johannessen,Tove Søraas
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Trine Søraas Johannessen,Tove Søraas,Malin Holdbakk,Aina Nielsen,"21/19,21/14",Trine Søraas Johannessen,Tove Søraas
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,MARTE EGGEN,Linda Våbenø Berg,Victoria Fossum Vanvik,Hildegunn Wenes,"21/12,21/6",MARTE EGGEN,Linda Våbenø Berg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Trine Søraas Johannessen,Tove Søraas,MARTE EGGEN,Linda Våbenø Berg,"21/8,21/11",Trine Søraas Johannessen,Tove Søraas
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Stine Marie Jakobsen,Kristin Bakken,Victoria Fossum Vanvik,Hildegunn Wenes,"21/7,21/7",Stine Marie Jakobsen,Kristin Bakken
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Malin Holdbakk,Aina Nielsen,MARTE EGGEN,Linda Våbenø Berg,"21/19,18/21,21/19",Malin Holdbakk,Aina Nielsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Damedouble,Malin Holdbakk,Aina Nielsen,Stine Marie Jakobsen,Kristin Bakken,"21/15,21/16",Malin Holdbakk,Aina Nielsen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mixeddouble,Willy Andersen,Kristin Bakken,Arne Wenes,Hildegunn Wenes,"21/6,21/11",Willy Andersen,Kristin Bakken
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mixeddouble,Willy Andersen,Kristin Bakken,Eli Bente Just,Fredrik Nilssen,"21/16,21/19",Willy Andersen,Kristin Bakken
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mixeddouble,Mads B. Rotabakk,Iris Olafsen-Solberg,Arne Wenes,Hildegunn Wenes,"21/11,21/12",Mads B. Rotabakk,Iris Olafsen-Solberg
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mixeddouble,Eli Bente Just,Fredrik Nilssen,Mads B. Rotabakk,Iris Olafsen-Solberg,"21/16,21/13",Eli Bente Just,Fredrik Nilssen
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mixeddouble,Willy Andersen,Kristin Bakken,Mads B. Rotabakk,Iris Olafsen-Solberg,"21/15,21/18",Willy Andersen,Kristin Bakken
+2019/2020,Rissa Clearcup ,27.09.2019,SEN D,Mixeddouble,Eli Bente Just,Fredrik Nilssen,Arne Wenes,Hildegunn Wenes,"21/17,24/22",Eli Bente Just,Fredrik Nilssen
+2019/2020,Rissa Clearcup ,27.09.2019,U11 A,Damesingle,,Darja Maria Abuzatoaie,,Maja Mathilde Johnsen Sørgjerd,"21/5,21/7",Darja Maria Abuzatoaie,
+2019/2020,Rissa Clearcup ,27.09.2019,U11 A,Damesingle,,Maja Fossbakken Knutseth,,Maja Mathilde Johnsen Sørgjerd,"21/11,21/16",Maja Fossbakken Knutseth,
+2019/2020,Rissa Clearcup ,27.09.2019,U11 A,Damesingle,,Darja Maria Abuzatoaie,,Maja Fossbakken Knutseth,"15/21,21/7,21/13",Darja Maria Abuzatoaie,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herresingle,,William R. Barø,,Jon Sigurd Berg,"21/13,21/11",William R. Barø,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herresingle,,Asgeir Våbenø Berg,,Jon Sigurd Berg,"21/10,21/8",Asgeir Våbenø Berg,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herresingle,,William R. Barø,,Asgeir Våbenø Berg,"21/18,21/13",William R. Barø,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Damesingle,,Celine H Solvang Søvik,,Mathea Rødvik Iglebæk,"21/7,21/17",Celine H Solvang Søvik,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Damesingle,,Ingvild Søraas Johannessen,,Silje Lyngstad Skavhaug,"21/5,21/12",Ingvild Søraas Johannessen,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Damesingle,,Silje Lyngstad Skavhaug,,Mathea Rødvik Iglebæk,"21/16,30/29",Silje Lyngstad Skavhaug,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Damesingle,,Ingvild Søraas Johannessen,,Celine H Solvang Søvik,"21/15,21/18",Ingvild Søraas Johannessen,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Damesingle,,Celine H Solvang Søvik,,Silje Lyngstad Skavhaug,"21/16,19/21,21/14",Celine H Solvang Søvik,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Damesingle,,Ingvild Søraas Johannessen,,Mathea Rødvik Iglebæk,"21/7,21/7",Ingvild Søraas Johannessen,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herredouble,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,Celine H Solvang Søvik,Darja Maria Abuzatoaie,"21/16,21/16",Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herredouble,Nora Haukdal Trøen,Ingvild Søraas Johannessen,Lukas Engeli Johansen,Ådne Børmark,"21/13,21/13",Nora Haukdal Trøen,Ingvild Søraas Johannessen
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herredouble,Nora Haukdal Trøen,Ingvild Søraas Johannessen,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,"21/10,21/12",Nora Haukdal Trøen,Ingvild Søraas Johannessen
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herredouble,Celine H Solvang Søvik,Darja Maria Abuzatoaie,Lukas Engeli Johansen,Ådne Børmark,"21/19,24/26,21/12",Celine H Solvang Søvik,Darja Maria Abuzatoaie
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herredouble,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,Lukas Engeli Johansen,Ådne Børmark,"21/19,21/12",Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk
+2019/2020,Rissa Clearcup ,27.09.2019,U13 A,Herredouble,Nora Haukdal Trøen,Ingvild Søraas Johannessen,Celine H Solvang Søvik,Darja Maria Abuzatoaie,"21/8,21/16",Nora Haukdal Trøen,Ingvild Søraas Johannessen
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,IMRE LØVOLD NILSEN,,Ole Johan Dyrendal,"21/7,21/8",IMRE LØVOLD NILSEN,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Ådne Børmark,,Lukas Engeli Johansen,"21/5,21/10",Ådne Børmark,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,IMRE LØVOLD NILSEN,,Lukas Engeli Johansen,"21/15,21/8",IMRE LØVOLD NILSEN,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,IMRE LØVOLD NILSEN,,Viktor Eldegard,"13/21,21/9,21/4",IMRE LØVOLD NILSEN,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Ådne Børmark,,Ole Johan Dyrendal,"21/17,21/5",Ådne Børmark,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Lukas Engeli Johansen,,Ole Johan Dyrendal,"21/18,21/8",Lukas Engeli Johansen,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Ådne Børmark,,Viktor Eldegard,"21/4,21/5",Ådne Børmark,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Viktor Eldegard,,Ole Johan Dyrendal,"21/13,23/21",Viktor Eldegard,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Ådne Børmark,,IMRE LØVOLD NILSEN,"21/14,21/19",Ådne Børmark,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Herresingle,,Viktor Eldegard,,Lukas Engeli Johansen,"21/5,21/12",Viktor Eldegard,
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Mixeddouble,IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth,Maja Mathilde Johnsen Sørgjerd,Lukas Engeli Johansen,"21/15,21/14",IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Mixeddouble,Ådne Børmark,Darja Maria Abuzatoaie,Maja Mathilde Johnsen Sørgjerd,Lukas Engeli Johansen,"21/7,21/11",Ådne Børmark,Darja Maria Abuzatoaie
+2019/2020,Rissa Clearcup ,27.09.2019,U13 B,Mixeddouble,Ådne Børmark,Darja Maria Abuzatoaie,IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth,"22/20,19/21,21/15",Ådne Børmark,Darja Maria Abuzatoaie
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Jørgen Sollie,,Even Aleksander Leistad,"21/18,21/17",Jørgen Sollie,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Elias Haugen,,William Aasland,"21/2,21/4",Elias Haugen,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Fillip August Rotabakk,,Even Aleksander Leistad,"24/22,21/18",Fillip August Rotabakk,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Even Aleksander Leistad,,William Aasland,"21/9,21/9",Even Aleksander Leistad,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Elias Haugen,,Fillip August Rotabakk,"21/13,21/10",Elias Haugen,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Jørgen Sollie,,William Aasland,"21/9,21/9",Jørgen Sollie,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Elias Haugen,,Jørgen Sollie,"21/10,21/14",Elias Haugen,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Fillip August Rotabakk,,William Aasland,"21/6,24/22",Fillip August Rotabakk,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Fillip August Rotabakk,,Jørgen Sollie,"21/19,21/13",Fillip August Rotabakk,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Herresingle,,Elias Haugen,,Even Aleksander Leistad,"21/8,21/6",Elias Haugen,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damesingle,,Agnes Fornes,,Julia Småvik,"21/18,21/12",Agnes Fornes,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damesingle,,Hanna Gorzolka,,Thea Eldegard Andersen,"21/9,21/5",Hanna Gorzolka,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damesingle,,Agnes Fornes,,Hanna Gorzolka,"21/17,21/18",Agnes Fornes,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damesingle,,Thea Eldegard Andersen,,Julia Småvik,"21/15,21/9",Thea Eldegard Andersen,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damesingle,,Agnes Fornes,,Thea Eldegard Andersen,"21/15,21/12",Agnes Fornes,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damesingle,,Hanna Gorzolka,,Julia Småvik,"21/17,21/8",Hanna Gorzolka,
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damedouble,Hanna Gorzolka,Agnes Fornes,Kamilla Bakke Foss,Line Haukdal Trøen,"21/14,21/12",Hanna Gorzolka,Agnes Fornes
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damedouble,Hanna Gorzolka,Agnes Fornes,Julia Småvik,Thea Eldegard Andersen,"21/12,21/16",Hanna Gorzolka,Agnes Fornes
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Damedouble,Julia Småvik,Thea Eldegard Andersen,Kamilla Bakke Foss,Line Haukdal Trøen,"11/21,22/20,21/8",Julia Småvik,Thea Eldegard Andersen
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Mixeddouble,Jon Sigurd Berg,Agnes Fornes,Julia Småvik,Asgeir Våbenø Berg,"16/21,21/16,21/8",Jon Sigurd Berg,Agnes Fornes
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Mixeddouble,Elias Haugen,Hanna Gorzolka,Jon Sigurd Berg,Agnes Fornes,"21/7,21/14",Elias Haugen,Hanna Gorzolka
+2019/2020,Rissa Clearcup ,27.09.2019,U15 A,Mixeddouble,Elias Haugen,Hanna Gorzolka,Julia Småvik,Asgeir Våbenø Berg,"21/12,21/16",Elias Haugen,Hanna Gorzolka
+2019/2020,Rissa Clearcup ,27.09.2019,U15 B,Herredouble,Jon Sigurd Berg,Asgeir Våbenø Berg,Even Aleksander Leistad,Jørgen Sollie,"21/17,19/21,21/10",Jon Sigurd Berg,Asgeir Våbenø Berg
+2019/2020,Rissa Clearcup ,27.09.2019,U15 B,Mixeddouble,Line Haukdal Trøen,Jørgen Sollie,Celine H Solvang Søvik,Even Aleksander Leistad,"21/13,22/20",Line Haukdal Trøen,Jørgen Sollie
+2019/2020,Rissa Clearcup ,27.09.2019,U15 B,Mixeddouble,Fillip August Rotabakk,Nora Haukdal Trøen,Line Haukdal Trøen,Jørgen Sollie,"21/14,21/13",Fillip August Rotabakk,Nora Haukdal Trøen
+2019/2020,Rissa Clearcup ,27.09.2019,U15 B,Mixeddouble,Fillip August Rotabakk,Nora Haukdal Trøen,Celine H Solvang Søvik,Even Aleksander Leistad,"21/9,21/14",Fillip August Rotabakk,Nora Haukdal Trøen
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Amber Heggdal,,Vivild Våbenø Berg,"21/13,21/5",Amber Heggdal,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Trine Søraas Johannessen,,Victoria Fossum Vanvik,"21/4,21/4",Trine Søraas Johannessen,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Vivild Våbenø Berg,,Victoria Fossum Vanvik,"21/5,21/7",Vivild Våbenø Berg,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Amber Heggdal,,Stine Marie Jakobsen,"21/11,21/14",Amber Heggdal,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Trine Søraas Johannessen,,Vivild Våbenø Berg,"21/12,21/6",Trine Søraas Johannessen,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Stine Marie Jakobsen,,Victoria Fossum Vanvik,"21/3,21/1",Stine Marie Jakobsen,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Trine Søraas Johannessen,,Amber Heggdal,"18/21,21/17,21/8",Trine Søraas Johannessen,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Stine Marie Jakobsen,,Vivild Våbenø Berg,"21/9,21/17",Stine Marie Jakobsen,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Stine Marie Jakobsen,,Trine Søraas Johannessen,"8/21,21/15,21/10",Stine Marie Jakobsen,
+2019/2020,Rissa Clearcup ,27.09.2019,U17 A,Damesingle,,Amber Heggdal,,Victoria Fossum Vanvik,"21/0,21/5",Amber Heggdal,

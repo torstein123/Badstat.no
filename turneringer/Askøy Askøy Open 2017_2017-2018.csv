@@ -1,349 +1,231 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Bharath Kumar Balasingam,Keveen Kumar Balasingam,"20/22,21/19,21/18",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Heine Økland Kolltveit,Fredrik Vabø Helset,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/16,21/12",Heine Økland Kolltveit,Fredrik Vabø Helset
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Mariann Andreassen,Michael White,"21/9,21/6",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Nelson Thambiraj,Petter Karlsen Wåltorp,Mariann Andreassen,Michael White,"21/10,16/21,21/18",Nelson Thambiraj,Petter Karlsen Wåltorp
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/18,21/17",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/19,21/16",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Heine Økland Kolltveit,Fredrik Vabø Helset,Mariann Andreassen,Michael White,"19/21,21/12,21/14",Heine Økland Kolltveit,Fredrik Vabø Helset
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/17,21/10",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Paul J. Høl,Are Eidissen,"21/19,21/16",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Jone Sætenes,Kumaran Dhakshan Moorthy,"21/18,21/17",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Jone Sætenes,Kumaran Dhakshan Moorthy,"22/20,21/17",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Audun Christoffer Adolfson,"21/9,21/12",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Aleksej Roman Kustrin Iversen,,Benjamin Teigland,"21/17,21/16",Aleksej Roman Kustrin Iversen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Audun Christoffer Adolfson,,Aleksej Roman Kustrin Iversen,"21/19,16/21,21/19",Audun Christoffer Adolfson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Audun Christoffer Adolfson,,Benjamin Teigland,"21/19,22/20",Audun Christoffer Adolfson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Thomas Algrøy,"21/15,21/13",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Thomas Barth,,Vegard Vinnes Bjørklund,"21/8,21/6",Thomas Barth,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Thomas Barth,"21/15,21/14",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Thomas Algrøy,,Vegard Vinnes Bjørklund,"21/10,21/7",Thomas Algrøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Vegard Vinnes Bjørklund,"21/4,21/9",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Thomas Barth,,Thomas Algrøy,"10/21,21/10,21/14",Thomas Barth,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Audun Christoffer Adolfson,"21/9,21/12",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Aleksej Roman Kustrin Iversen,,Benjamin Teigland,"21/17,21/16",Aleksej Roman Kustrin Iversen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Audun Christoffer Adolfson,,Aleksej Roman Kustrin Iversen,"21/19,16/21,21/19",Audun Christoffer Adolfson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Audun Christoffer Adolfson,,Benjamin Teigland,"21/19,22/20",Audun Christoffer Adolfson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Thomas Algrøy,"21/15,21/13",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Thomas Barth,,Vegard Vinnes Bjørklund,"21/8,21/6",Thomas Barth,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Thomas Barth,"21/15,21/14",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Thomas Algrøy,,Vegard Vinnes Bjørklund,"21/10,21/7",Thomas Algrøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Andreas Holmedal,,Vegard Vinnes Bjørklund,"21/4,21/9",Andreas Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,,Thomas Barth,,Thomas Algrøy,"10/21,21/10,21/14",Thomas Barth,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Thomas Barth,Kristoffer Ulvang,Helge Økland,Svein Andre Hol,"21/6,21/14",Thomas Barth,Kristoffer Ulvang
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Thomas Barth,Kristoffer Ulvang,Iver Rolvsjord,Andreas Holmedal,"21/16,21/23,21/19",Thomas Barth,Kristoffer Ulvang
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Thomas Barth,Kristoffer Ulvang,Thomas Algrøy,Audun Christoffer Adolfson,"21/19,21/11",Thomas Barth,Kristoffer Ulvang
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Iver Rolvsjord,Andreas Holmedal,Thomas Algrøy,Audun Christoffer Adolfson,"21/12,19/21,21/11",Iver Rolvsjord,Andreas Holmedal
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Benjamin Teigland,Adrian Storhaug,Vegard Vinnes Bjørklund,Emil Mosti,"21/11,21/14",Benjamin Teigland,Adrian Storhaug
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Helge Økland,Svein Andre Hol,Vegard Vinnes Bjørklund,Emil Mosti,"21/13,21/9",Helge Økland,Svein Andre Hol
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Helge Økland,Svein Andre Hol,Benjamin Teigland,Adrian Storhaug,"21/14,21/12",Helge Økland,Svein Andre Hol
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,,Anders Eimstad,,Ivan Sundt,"16/21,21/12,21/8",Anders Eimstad,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,,Anders Eimstad,,Silje Lindseth,"21/14,21/12",Anders Eimstad,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,,Ivan Sundt,,Silje Lindseth,"21/15,22/20",Ivan Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,,Anders Eimstad,,Ivan Sundt,"16/21,21/12,21/8",Anders Eimstad,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,,Anders Eimstad,,Silje Lindseth,"21/14,21/12",Anders Eimstad,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,,Ivan Sundt,,Silje Lindseth,"21/15,22/20",Ivan Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Aleksej Roman Kustrin Iversen,Simen Mjelva,Anders Eimstad,Frode Kristoffersen,"21/14,21/19",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Aleksej Roman Kustrin Iversen,Simen Mjelva,Øyvind W Olsen,Trond Holmedal,"221/15,16/21,21/8",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Kawa Kavian,Ivan Sundt,Øyvind W Olsen,Trond Holmedal,"21/19,21/11",Kawa Kavian,Ivan Sundt
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Aleksej Roman Kustrin Iversen,Simen Mjelva,Kawa Kavian,Ivan Sundt,"21/19,21/16",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Jørn Grane,Rolf Almås,Jone Mortensen,Sander Andersen Moe,"21/10,21/19",Jørn Grane,Rolf Almås
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Anders Eimstad,Frode Kristoffersen,Nicolai Haugland,Arild Rasmussen,"21/9,21/12",Anders Eimstad,Frode Kristoffersen
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Jone Mortensen,Sander Andersen Moe,Nicolai Haugland,Arild Rasmussen,"21/15,21/13",Jone Mortensen,Sander Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Anders Eimstad,Frode Kristoffersen,Jørn Grane,Rolf Almås,"25/27,21/14,21/19",Anders Eimstad,Frode Kristoffersen
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Anders Eimstad,Frode Kristoffersen,Jone Mortensen,Sander Andersen Moe,"21/14,21/18",Anders Eimstad,Frode Kristoffersen
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Jørn Grane,Rolf Almås,Nicolai Haugland,Arild Rasmussen,"23/21,21/11",Jørn Grane,Rolf Almås
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Irene Lillestøl Duinker,Randi Rolvsjord,Astrid Bognøy,Anita Vabø,"21/13,21/7",Irene Lillestøl Duinker,Randi Rolvsjord
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Irene Lillestøl Duinker,Randi Rolvsjord,Therese Kristoffersen,Christina  Andreassen,"21/10,21/5",Irene Lillestøl Duinker,Randi Rolvsjord
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Astrid Bognøy,Anita Vabø,Therese Kristoffersen,Christina  Andreassen,"21/18,21/12",Astrid Bognøy,Anita Vabø
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Atle Dahle,"17/21,21/12,21/17",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Espen K. Marås,"21/15,21/11",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Rolf Almås,,Einar Morgan Utne,"16/21,23/21,21/19",Rolf Almås,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Atle Dahle,,Kristoffer Eliassen,"21/19,12/21,21/18",Atle Dahle,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Kristoffer Eliassen,,Einar Morgan Utne,"21/7,21/10",Kristoffer Eliassen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Atle Dahle,,Rolf Almås,"21/6,21/12",Atle Dahle,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Atle Dahle,,Einar Morgan Utne,"21/5,21/6",Atle Dahle,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Kristoffer Eliassen,,Rolf Almås,"21/11,21/13",Kristoffer Eliassen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Jone Mortensen,"21/18,19/21,23/21",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Sander Andersen Moe,"21/14,21/12",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Jone Mortensen,,Sander Andersen Moe,"21/15,20/22,21/11",Jone Mortensen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Edvin Nordbø,,Steffan Tveit,"21/18,21/16",Edvin Nordbø,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Espen K. Marås,,Steffan Tveit,"21/15,21/13",Espen K. Marås,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Espen K. Marås,,Edvin Nordbø,"21/18,9/21,22/20",Espen K. Marås,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Atle Dahle,"17/21,21/12,21/17",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Espen K. Marås,"21/15,21/11",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Rolf Almås,,Einar Morgan Utne,"16/21,23/21,21/19",Rolf Almås,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Atle Dahle,,Kristoffer Eliassen,"21/19,12/21,21/18",Atle Dahle,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Kristoffer Eliassen,,Einar Morgan Utne,"21/7,21/10",Kristoffer Eliassen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Atle Dahle,,Rolf Almås,"21/6,21/12",Atle Dahle,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Atle Dahle,,Einar Morgan Utne,"21/5,21/6",Atle Dahle,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Kristoffer Eliassen,,Rolf Almås,"21/11,21/13",Kristoffer Eliassen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Jone Mortensen,"21/18,19/21,23/21",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Karl Martin Valestrand,,Sander Andersen Moe,"21/14,21/12",Karl Martin Valestrand,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Jone Mortensen,,Sander Andersen Moe,"21/15,20/22,21/11",Jone Mortensen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Edvin Nordbø,,Steffan Tveit,"21/18,21/16",Edvin Nordbø,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Espen K. Marås,,Steffan Tveit,"21/15,21/13",Espen K. Marås,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,,Espen K. Marås,,Edvin Nordbø,"21/18,9/21,22/20",Espen K. Marås,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Magnus Seilen,Steffan Tveit,Thomas Stenfeldt,Rune Bråten,"21/18,21/15",Magnus Seilen,Steffan Tveit
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Jørn Inge Bognøy,Erik Moe,Kristoffer Eliassen,Meinte Jelsma,"21/15,21/16",Jørn Inge Bognøy,Erik Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Thomas Stenfeldt,Rune Bråten,Kristoffer Eliassen,Meinte Jelsma,"21/14,20/22,21/16",Thomas Stenfeldt,Rune Bråten
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Karl Martin Valestrand,Atle Dahle,Magnus Seilen,Steffan Tveit,"21/18,21/10",Karl Martin Valestrand,Atle Dahle
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Karl Martin Valestrand,Atle Dahle,Thomas Stenfeldt,Rune Bråten,"21/16,21/19",Karl Martin Valestrand,Atle Dahle
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Magnus Seilen,Steffan Tveit,Jørn Inge Bognøy,Erik Moe,"21/17,21/12",Magnus Seilen,Steffan Tveit
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Thomas Stenfeldt,Rune Bråten,Jørn Inge Bognøy,Erik Moe,"21/16,21/15",Thomas Stenfeldt,Rune Bråten
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Karl Martin Valestrand,Atle Dahle,Kristoffer Eliassen,Meinte Jelsma,"21/0,21/0",Karl Martin Valestrand,Atle Dahle
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Magnus Seilen,Steffan Tveit,Kristoffer Eliassen,Meinte Jelsma,"21/0,21/0",Magnus Seilen,Steffan Tveit
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Karl Martin Valestrand,Atle Dahle,Jørn Inge Bognøy,Erik Moe,"21/13,21/13",Karl Martin Valestrand,Atle Dahle
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Bharath Kumar Balasingam,Keveen Kumar Balasingam,"20/22,21/19,21/18",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Heine Økland Kolltveit,Fredrik Vabø Helset,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/16,21/12",Heine Økland Kolltveit,Fredrik Vabø Helset
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Mariann Andreassen,Michael White,"21/9,21/6",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Nelson Thambiraj,Petter Karlsen Wåltorp,Mariann Andreassen,Michael White,"21/10,16/21,21/18",Nelson Thambiraj,Petter Karlsen Wåltorp
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/18,21/17",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/19,21/16",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Heine Økland Kolltveit,Fredrik Vabø Helset,Mariann Andreassen,Michael White,"19/21,21/12,21/14",Heine Økland Kolltveit,Fredrik Vabø Helset
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/17,21/10",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Paul J. Høl,Are Eidissen,"21/19,21/16",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Jone Sætenes,Kumaran Dhakshan Moorthy,"21/18,21/17",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Jone Sætenes,Kumaran Dhakshan Moorthy,"22/20,21/17",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Bharath Kumar Balasingam,Keveen Kumar Balasingam,"20/22,21/19,21/18",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Heine Økland Kolltveit,Fredrik Vabø Helset,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/16,21/12",Heine Økland Kolltveit,Fredrik Vabø Helset
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Mariann Andreassen,Michael White,"21/9,21/6",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Nelson Thambiraj,Petter Karlsen Wåltorp,Mariann Andreassen,Michael White,"21/10,16/21,21/18",Nelson Thambiraj,Petter Karlsen Wåltorp
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/18,21/17",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Sigbjørn Honve,Simen Lexander,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/19,21/16",Sigbjørn Honve,Simen Lexander
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Heine Økland Kolltveit,Fredrik Vabø Helset,Mariann Andreassen,Michael White,"19/21,21/12,21/14",Heine Økland Kolltveit,Fredrik Vabø Helset
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/17,21/10",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Paul J. Høl,Are Eidissen,"21/19,21/16",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Jone Sætenes,Kumaran Dhakshan Moorthy,"21/18,21/17",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Jone Sætenes,Kumaran Dhakshan Moorthy,"22/20,21/17",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Brede Lie Foldnes,,Erik Waldemar Bødtker Enqvist,"22/20,21/12",Brede Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Sindre Gjuvsland,"21/12,21/7",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Brede Lie Foldnes,,Pranav Tehlan,"21/14,21/18",Brede Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Aldrin Nelson,,Aksel Skard Bjerke,"21/14,21/10",Aldrin Nelson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Erik Waldemar Bødtker Enqvist,,Artjon Qevani,"21/14,21/6",Erik Waldemar Bødtker Enqvist,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Aldrin Nelson,"21/11,21/16",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Erik Waldemar Bødtker Enqvist,"21/11,21/17",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Brede Lie Foldnes,,Aldrin Nelson,"21/13,19/21,21/16",Brede Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Aldrin Nelson,,Erik Waldemar Bødtker Enqvist,"21/19,21/6",Aldrin Nelson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Brede Lie Foldnes,"24/22,24/22",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Aksel Skard Bjerke,,Artjon Qevani,"21/18,18/21,21/9",Aksel Skard Bjerke,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Sindre Gjuvsland,,Pranav Tehlan,"21/16,21/14",Sindre Gjuvsland,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Pranav Tehlan,,Artjon Qevani,"21/8,21/8",Pranav Tehlan,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Sindre Gjuvsland,,Aksel Skard Bjerke,"21/11,21/15",Sindre Gjuvsland,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Sindre Gjuvsland,,Artjon Qevani,"21/13,21/11",Sindre Gjuvsland,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Pranav Tehlan,,Aksel Skard Bjerke,"21/13,21/16",Pranav Tehlan,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Brede Lie Foldnes,,Erik Waldemar Bødtker Enqvist,"22/20,21/12",Brede Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Sindre Gjuvsland,"21/12,21/7",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Brede Lie Foldnes,,Pranav Tehlan,"21/14,21/18",Brede Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Aldrin Nelson,,Aksel Skard Bjerke,"21/14,21/10",Aldrin Nelson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Erik Waldemar Bødtker Enqvist,,Artjon Qevani,"21/14,21/6",Erik Waldemar Bødtker Enqvist,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Aldrin Nelson,"21/11,21/16",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Erik Waldemar Bødtker Enqvist,"21/11,21/17",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Brede Lie Foldnes,,Aldrin Nelson,"21/13,19/21,21/16",Brede Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Aldrin Nelson,,Erik Waldemar Bødtker Enqvist,"21/19,21/6",Aldrin Nelson,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Olav Dalan Eidissen,,Brede Lie Foldnes,"24/22,24/22",Olav Dalan Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Aksel Skard Bjerke,,Artjon Qevani,"21/18,18/21,21/9",Aksel Skard Bjerke,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Sindre Gjuvsland,,Pranav Tehlan,"21/16,21/14",Sindre Gjuvsland,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Pranav Tehlan,,Artjon Qevani,"21/8,21/8",Pranav Tehlan,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Sindre Gjuvsland,,Aksel Skard Bjerke,"21/11,21/15",Sindre Gjuvsland,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Sindre Gjuvsland,,Artjon Qevani,"21/13,21/11",Sindre Gjuvsland,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Pranav Tehlan,,Aksel Skard Bjerke,"21/13,21/16",Pranav Tehlan,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Akarija Anton Reginold,,Maria Botcharova Ellingsen,"21/19,21/13",Akarija Anton Reginold,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Arathija Anton Reginold,,Camilla Skrunes Sundt,"22/20,21/8",Arathija Anton Reginold,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Maria Botcharova Ellingsen,,Arathija Anton Reginold,"21/19,21/15",Maria Botcharova Ellingsen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Camilla Skrunes Sundt,,Celine H Solvang Søvik,"21/15,22/20",Camilla Skrunes Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Akarija Anton Reginold,,Celine H Solvang Søvik,"21/5,21/10",Akarija Anton Reginold,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,,Akarija Anton Reginold,,Camilla Skrunes Sundt,"21/8,21/11",Akarija Anton Reginold,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Sindre Gjuvsland,Brede Lie Foldnes,Aksel Skard Bjerke,Artjon Qevani,"21/15,21/15",Sindre Gjuvsland,Brede Lie Foldnes
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Aksel Skard Bjerke,Artjon Qevani,Camilla Skrunes Sundt,Celine H Solvang Søvik,"21/12,21/8",Aksel Skard Bjerke,Artjon Qevani
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Sindre Gjuvsland,Brede Lie Foldnes,Camilla Skrunes Sundt,Celine H Solvang Søvik,"21/4,21/10",Sindre Gjuvsland,Brede Lie Foldnes
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,,Håvard Lie Foldnes,,Oliver Kleppe Hagen,"21/14,21/13",Håvard Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,,Magnus Reynolds Torsvik,,Håvard Lie Foldnes,"21/10,21/15",Magnus Reynolds Torsvik,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,,Magnus Reynolds Torsvik,,Oliver Kleppe Hagen,"21/14,21/11",Magnus Reynolds Torsvik,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,,Håvard Lie Foldnes,,Oliver Kleppe Hagen,"21/14,21/13",Håvard Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,,Magnus Reynolds Torsvik,,Håvard Lie Foldnes,"21/10,21/15",Magnus Reynolds Torsvik,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,,Magnus Reynolds Torsvik,,Oliver Kleppe Hagen,"21/14,21/11",Magnus Reynolds Torsvik,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Brynjar Hus,,Lukas Skrunes Sundt,"21/17,21/5",Brynjar Hus,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/18,21/15",Brynjar Hus,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Herman Dalan  Eidissen,,Mathushen Anton Ruseyn,"21/3,21/2",Herman Dalan  Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Brynjar Hus,,Mathushen Anton Ruseyn,"21/4,21/4",Brynjar Hus,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Lukas Skrunes Sundt,,Adrian Aas Kleppe,"21/4,21/4",Lukas Skrunes Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Niklas Rasmussen,,Adrian Aas Kleppe,"21/8,21/5",Niklas Rasmussen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Lukas Skrunes Sundt,,Niklas Rasmussen,"21/16,21/5",Lukas Skrunes Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Brynjar Hus,,Lukas Skrunes Sundt,"21/17,21/5",Brynjar Hus,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/18,21/15",Brynjar Hus,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Herman Dalan  Eidissen,,Mathushen Anton Ruseyn,"21/3,21/2",Herman Dalan  Eidissen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Brynjar Hus,,Mathushen Anton Ruseyn,"21/4,21/4",Brynjar Hus,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Lukas Skrunes Sundt,,Adrian Aas Kleppe,"21/4,21/4",Lukas Skrunes Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Niklas Rasmussen,,Adrian Aas Kleppe,"21/8,21/5",Niklas Rasmussen,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Lukas Skrunes Sundt,,Niklas Rasmussen,"21/16,21/5",Lukas Skrunes Sundt,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Linnea Holmedal,,Emilie Alrek Eide,"21/15,21/19",Linnea Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Amalie Lexander,,Solveig Elise Thuestad,"21/6,21/5",Amalie Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Amalie Lexander,,Emilie Alrek Eide,"21/7,21/7",Amalie Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Linnea Holmedal,,Solveig Elise Thuestad,"21/6,21/10",Linnea Holmedal,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Emilie Alrek Eide,,Solveig Elise Thuestad,"21/19,10/21,21/18",Emilie Alrek Eide,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,,Amalie Lexander,,Linnea Holmedal,"10/21,21/14,21/11",Amalie Lexander,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Olav Dalan Eidissen,Aldrin Nelson,Mathushen Anton Ruseyn,Niklas Rasmussen,"21/16,21/14",Olav Dalan Eidissen,Aldrin Nelson
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mathushen Anton Ruseyn,Niklas Rasmussen,Kristian Kjønsberg,Joachim Sortland Paulsen,"21/9,21/12",Mathushen Anton Ruseyn,Niklas Rasmussen
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Sondre Lie Foldnes,Adrian Aas Kleppe,Niklas Blindheim Byberg,Elias	Rosendahl,"21/17,21/10",Sondre Lie Foldnes,Adrian Aas Kleppe
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Olav Dalan Eidissen,Aldrin Nelson,Niklas Blindheim Byberg,Elias	Rosendahl,"21/14,21/8",Olav Dalan Eidissen,Aldrin Nelson
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Olav Dalan Eidissen,Aldrin Nelson,Sondre Lie Foldnes,Adrian Aas Kleppe,"21/19,21/15",Olav Dalan Eidissen,Aldrin Nelson
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Amalie Lexander,Linnea Holmedal,Therese Steffensen,Emilie Alrek Eide,"21/5,21/11",Amalie Lexander,Linnea Holmedal
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Therese Steffensen,Emilie Alrek Eide,Arathija Anton Reginold,Akarija Anton Reginold,"21/12,21/11",Therese Steffensen,Emilie Alrek Eide
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Amalie Lexander,Linnea Holmedal,Arathija Anton Reginold,Akarija Anton Reginold,"21/11,221/10",Amalie Lexander,Linnea Holmedal
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Sondre Lie Foldnes,,Kristian Kjønsberg,"21/4,21/7",Sondre Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Heine Lam Nybakk,,Alexander Kleppe Hagen,"21/10,21/7",Heine Lam Nybakk,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Sondre Lie Foldnes,,Alexander Kleppe Hagen,"21/6,21/1",Sondre Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Heine Lam Nybakk,,Kristian Kjønsberg,"21/8,21/14",Heine Lam Nybakk,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Sondre Lie Foldnes,,Heine Lam Nybakk,"21/12,21/13",Sondre Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Kristian Kjønsberg,,Alexander Kleppe Hagen,"21/16,14/21,21/13",Kristian Kjønsberg,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Sondre Lie Foldnes,,Kristian Kjønsberg,"21/4,21/7",Sondre Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Heine Lam Nybakk,,Alexander Kleppe Hagen,"21/10,21/7",Heine Lam Nybakk,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Sondre Lie Foldnes,,Alexander Kleppe Hagen,"21/6,21/1",Sondre Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Heine Lam Nybakk,,Kristian Kjønsberg,"21/8,21/14",Heine Lam Nybakk,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Sondre Lie Foldnes,,Heine Lam Nybakk,"21/12,21/13",Sondre Lie Foldnes,
-2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,,Kristian Kjønsberg,,Alexander Kleppe Hagen,"21/16,14/21,21/13",Kristian Kjønsberg,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Simen Lexander,,Sigbjørn Honve,"21/11,21/16",Simen Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Simen Lexander,,Bharath Kumar Balasingam,"21/16,21/14",Simen Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Kristoffer Ulvang,,Heine Økland Kolltveit,"21/12,21/8",Kristoffer Ulvang,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Simen Lexander,,Adrian Storhaug,"21/15,21/9",Simen Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Kristoffer Ulvang,,Adrian Storhaug,"21/12,21/8",Kristoffer Ulvang,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Simen Lexander,,Heine Økland Kolltveit,"21/10,21/6",Simen Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Simen Lexander,,Kristoffer Ulvang,"21/8,21/10",Simen Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Heine Økland Kolltveit,,Adrian Storhaug,"21/10,21/17",Heine Økland Kolltveit,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/12,21/15",Bharath Kumar Balasingam,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Michael White,,Vilde Morvik Ekerhovd,"21/16,21/18",Michael White,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Sigbjørn Honve,,Keveen Kumar Balasingam,"21/11,21/17",Sigbjørn Honve,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Erlend Engesæter Bognøy,,Michael White,"21/16,21/18",Erlend Engesæter Bognøy,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Bharath Kumar Balasingam,,Vilde Morvik Ekerhovd,"21/10,21/6",Bharath Kumar Balasingam,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Erlend Engesæter Bognøy,,Vilde Morvik Ekerhovd,"21/16,21/18",Erlend Engesæter Bognøy,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Bharath Kumar Balasingam,,Michael White,"21/11,21/11",Bharath Kumar Balasingam,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Keveen Kumar Balasingam,,Fredrik Vabø Helset,"21/23,21/18,21/9",Keveen Kumar Balasingam,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Iver Rolvsjord,,Emil Mosti,"21/10,21/10",Iver Rolvsjord,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Iver Rolvsjord,,Fredrik Vabø Helset,"21/19,21/17",Iver Rolvsjord,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Keveen Kumar Balasingam,,Emil Mosti,"21/12,21/9",Keveen Kumar Balasingam,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Fredrik Vabø Helset,,Emil Mosti,"21/12,21/7",Fredrik Vabø Helset,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Keveen Kumar Balasingam,,Iver Rolvsjord,"21/16,21/19",Keveen Kumar Balasingam,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Sigbjørn Honve,,Are Eidissen,"21/10,21/7",Sigbjørn Honve,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Dennis Andersen Moe,,Are Eidissen,"21/16,21/9",Dennis Andersen Moe,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herresingle,,Sigbjørn Honve,,Dennis Andersen Moe,"21/5,21/19",Sigbjørn Honve,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Sigbjørn Honve,Simen Lexander,Bharath Kumar Balasingam,Keveen Kumar Balasingam,"20/22,21/19,21/18",Sigbjørn Honve,Simen Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/16,21/12",Heine Økland Kolltveit,Fredrik Vabø Helset
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Sigbjørn Honve,Simen Lexander,Mariann Andreassen,Michael White,"21/9,21/6",Sigbjørn Honve,Simen Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Nelson Thambiraj,Petter Karlsen Wåltorp,Mariann Andreassen,Michael White,"21/10,16/21,21/18",Nelson Thambiraj,Petter Karlsen Wåltorp
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Sigbjørn Honve,Simen Lexander,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/18,21/17",Sigbjørn Honve,Simen Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Sigbjørn Honve,Simen Lexander,Nelson Thambiraj,Petter Karlsen Wåltorp,"21/19,21/16",Sigbjørn Honve,Simen Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Mariann Andreassen,Michael White,"19/21,21/12,21/14",Heine Økland Kolltveit,Fredrik Vabø Helset
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/17,21/10",Bharath Kumar Balasingam,Keveen Kumar Balasingam
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Erlend Engesæter Bognøy,Dennis Andersen Moe,Paul J. Høl,Are Eidissen,"21/19,21/16",Erlend Engesæter Bognøy,Dennis Andersen Moe
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Jone Sætenes,Kumaran Dhakshan Moorthy,"21/18,21/17",Bharath Kumar Balasingam,Keveen Kumar Balasingam
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Herredouble,Erlend Engesæter Bognøy,Dennis Andersen Moe,Jone Sætenes,Kumaran Dhakshan Moorthy,"22/20,21/17",Erlend Engesæter Bognøy,Dennis Andersen Moe
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Fredrik Vabø Helset,Vilde Morvik Ekerhovd,Elise  Holmedal,Simen Lexander,"21/17,21/14",Fredrik Vabø Helset,Vilde Morvik Ekerhovd
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Kumaran Dhakshan Moorthy,Camilla Christine Sørensen,Kristoffer Ulvang,Dina Høl Bugge,"21/12,21/12",Kumaran Dhakshan Moorthy,Camilla Christine Sørensen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Fredrik Vabø Helset,Vilde Morvik Ekerhovd,Kumaran Dhakshan Moorthy,Camilla Christine Sørensen,"18/21,21/16,21/13",Fredrik Vabø Helset,Vilde Morvik Ekerhovd
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Fredrik Vabø Helset,Vilde Morvik Ekerhovd,Kristoffer Ulvang,Dina Høl Bugge,"22/20,16/21,21/10",Fredrik Vabø Helset,Vilde Morvik Ekerhovd
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Elise  Holmedal,Simen Lexander,Bharath Kumar Balasingam,Victoria Økland,"21/13,22/20",Elise  Holmedal,Simen Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Bharath Kumar Balasingam,Victoria Økland,Michael White,Mariann Andreassen,"21/14,21/15",Bharath Kumar Balasingam,Victoria Økland
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN A,Mixeddouble,Elise  Holmedal,Simen Lexander,Michael White,Mariann Andreassen,"21/18,21/12",Elise  Holmedal,Simen Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Andreas Holmedal,,Audun Christoffer Adolfson,"21/9,21/12",Andreas Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Aleksej Roman Kustrin Iversen,,Benjamin Teigland,"21/17,21/16",Aleksej Roman Kustrin Iversen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Audun Christoffer Adolfson,,Aleksej Roman Kustrin Iversen,"21/19,16/21,21/19",Audun Christoffer Adolfson,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Audun Christoffer Adolfson,,Benjamin Teigland,"21/19,22/20",Audun Christoffer Adolfson,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Andreas Holmedal,,Thomas Algrøy,"21/15,21/13",Andreas Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Thomas Barth,,Vegard Vinnes Bjørklund,"21/8,21/6",Thomas Barth,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Andreas Holmedal,,Thomas Barth,"21/15,21/14",Andreas Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Thomas Algrøy,,Vegard Vinnes Bjørklund,"21/10,21/7",Thomas Algrøy,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Andreas Holmedal,,Vegard Vinnes Bjørklund,"21/4,21/9",Andreas Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herresingle,,Thomas Barth,,Thomas Algrøy,"10/21,21/10,21/14",Thomas Barth,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Thomas Barth,Kristoffer Ulvang,Helge Økland,Svein Andre Hol,"21/6,21/14",Thomas Barth,Kristoffer Ulvang
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Thomas Barth,Kristoffer Ulvang,Iver Rolvsjord,Andreas Holmedal,"21/16,21/23,21/19",Thomas Barth,Kristoffer Ulvang
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Thomas Barth,Kristoffer Ulvang,Thomas Algrøy,Audun Christoffer Adolfson,"21/19,21/11",Thomas Barth,Kristoffer Ulvang
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Iver Rolvsjord,Andreas Holmedal,Thomas Algrøy,Audun Christoffer Adolfson,"21/12,19/21,21/11",Iver Rolvsjord,Andreas Holmedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Benjamin Teigland,Adrian Storhaug,Vegard Vinnes Bjørklund,Emil Mosti,"21/11,21/14",Benjamin Teigland,Adrian Storhaug
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Helge Økland,Svein Andre Hol,Vegard Vinnes Bjørklund,Emil Mosti,"21/13,21/9",Helge Økland,Svein Andre Hol
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN B,Herredouble,Helge Økland,Svein Andre Hol,Benjamin Teigland,Adrian Storhaug,"21/14,21/12",Helge Økland,Svein Andre Hol
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herresingle,,Anders Eimstad,,Ivan Sundt,"16/21,21/12,21/8",Anders Eimstad,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herresingle,,Anders Eimstad,,Silje Lindseth,"21/14,21/12",Anders Eimstad,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herresingle,,Ivan Sundt,,Silje Lindseth,"21/15,22/20",Ivan Sundt,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Aleksej Roman Kustrin Iversen,Simen Mjelva,Anders Eimstad,Frode Kristoffersen,"21/14,21/19",Aleksej Roman Kustrin Iversen,Simen Mjelva
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Aleksej Roman Kustrin Iversen,Simen Mjelva,Øyvind W Olsen,Trond Holmedal,"221/15,16/21,21/8",Aleksej Roman Kustrin Iversen,Simen Mjelva
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Kawa Kavian,Ivan Sundt,Øyvind W Olsen,Trond Holmedal,"21/19,21/11",Kawa Kavian,Ivan Sundt
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Aleksej Roman Kustrin Iversen,Simen Mjelva,Kawa Kavian,Ivan Sundt,"21/19,21/16",Aleksej Roman Kustrin Iversen,Simen Mjelva
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Jørn Grane,Rolf Almås,Jone Mortensen,Sander Andersen Moe,"21/10,21/19",Jørn Grane,Rolf Almås
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Anders Eimstad,Frode Kristoffersen,Nicolai Haugland,Arild Rasmussen,"21/9,21/12",Anders Eimstad,Frode Kristoffersen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Jone Mortensen,Sander Andersen Moe,Nicolai Haugland,Arild Rasmussen,"21/15,21/13",Jone Mortensen,Sander Andersen Moe
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Anders Eimstad,Frode Kristoffersen,Jørn Grane,Rolf Almås,"25/27,21/14,21/19",Anders Eimstad,Frode Kristoffersen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Anders Eimstad,Frode Kristoffersen,Jone Mortensen,Sander Andersen Moe,"21/14,21/18",Anders Eimstad,Frode Kristoffersen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Herredouble,Jørn Grane,Rolf Almås,Nicolai Haugland,Arild Rasmussen,"23/21,21/11",Jørn Grane,Rolf Almås
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Damedouble,Irene Lillestøl Duinker,Randi Rolvsjord,Astrid Bognøy,Anita Vabø,"21/13,21/7",Irene Lillestøl Duinker,Randi Rolvsjord
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Damedouble,Irene Lillestøl Duinker,Randi Rolvsjord,Therese Kristoffersen,Christina  Andreassen,"21/10,21/5",Irene Lillestøl Duinker,Randi Rolvsjord
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Damedouble,Astrid Bognøy,Anita Vabø,Therese Kristoffersen,Christina  Andreassen,"21/18,21/12",Astrid Bognøy,Anita Vabø
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Erlend Engesæter Bognøy,Julie Marie Olsen,Karina Sjoukje Jelsma,Jørn Grane,"21/17,21/9",Erlend Engesæter Bognøy,Julie Marie Olsen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Tuva Vinnes Bråten,Benjamin Teigland,Anders Eimstad,Irene Lillestøl Duinker,"21/15,12/21,21/15",Tuva Vinnes Bråten,Benjamin Teigland
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Karina Sjoukje Jelsma,Jørn Grane,Anders Eimstad,Irene Lillestøl Duinker,"21/16,21/16",Karina Sjoukje Jelsma,Jørn Grane
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Karina Sjoukje Jelsma,Jørn Grane,Tuva Vinnes Bråten,Benjamin Teigland,"24/22,14/21,21/15",Karina Sjoukje Jelsma,Jørn Grane
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Erlend Engesæter Bognøy,Julie Marie Olsen,Adrian Storhaug,Akija Anton Reginold,"21/11,21/14",Erlend Engesæter Bognøy,Julie Marie Olsen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Adrian Storhaug,Akija Anton Reginold,Frode Kristoffersen,Randi Rolvsjord,"21/19,22/20",Adrian Storhaug,Akija Anton Reginold
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN C,Mixeddouble,Erlend Engesæter Bognøy,Julie Marie Olsen,Frode Kristoffersen,Randi Rolvsjord,"21/13,24/22",Erlend Engesæter Bognøy,Julie Marie Olsen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Karl Martin Valestrand,,Atle Dahle,"17/21,21/12,21/17",Karl Martin Valestrand,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Karl Martin Valestrand,,Espen K. Marås,"21/15,21/11",Karl Martin Valestrand,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Rolf Almås,,Einar Morgan Utne,"16/21,23/21,21/19",Rolf Almås,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Atle Dahle,,Kristoffer Eliassen,"21/19,12/21,21/18",Atle Dahle,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Kristoffer Eliassen,,Einar Morgan Utne,"21/7,21/10",Kristoffer Eliassen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Atle Dahle,,Rolf Almås,"21/6,21/12",Atle Dahle,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Atle Dahle,,Einar Morgan Utne,"21/5,21/6",Atle Dahle,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Kristoffer Eliassen,,Rolf Almås,"21/11,21/13",Kristoffer Eliassen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Karl Martin Valestrand,,Jone Mortensen,"21/18,19/21,23/21",Karl Martin Valestrand,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Karl Martin Valestrand,,Sander Andersen Moe,"21/14,21/12",Karl Martin Valestrand,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Jone Mortensen,,Sander Andersen Moe,"21/15,20/22,21/11",Jone Mortensen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Edvin Nordbø,,Steffan Tveit,"21/18,21/16",Edvin Nordbø,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Espen K. Marås,,Steffan Tveit,"21/15,21/13",Espen K. Marås,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herresingle,,Espen K. Marås,,Edvin Nordbø,"21/18,9/21,22/20",Espen K. Marås,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Magnus Seilen,Steffan Tveit,Thomas Stenfeldt,Rune Bråten,"21/18,21/15",Magnus Seilen,Steffan Tveit
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Jørn Inge Bognøy,Erik Moe,Kristoffer Eliassen,Meinte Jelsma,"21/15,21/16",Jørn Inge Bognøy,Erik Moe
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Thomas Stenfeldt,Rune Bråten,Kristoffer Eliassen,Meinte Jelsma,"21/14,20/22,21/16",Thomas Stenfeldt,Rune Bråten
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Karl Martin Valestrand,Atle Dahle,Magnus Seilen,Steffan Tveit,"21/18,21/10",Karl Martin Valestrand,Atle Dahle
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Karl Martin Valestrand,Atle Dahle,Thomas Stenfeldt,Rune Bråten,"21/16,21/19",Karl Martin Valestrand,Atle Dahle
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Magnus Seilen,Steffan Tveit,Jørn Inge Bognøy,Erik Moe,"21/17,21/12",Magnus Seilen,Steffan Tveit
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Thomas Stenfeldt,Rune Bråten,Jørn Inge Bognøy,Erik Moe,"21/16,21/15",Thomas Stenfeldt,Rune Bråten
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Karl Martin Valestrand,Atle Dahle,Kristoffer Eliassen,Meinte Jelsma,"21/0,21/0",Karl Martin Valestrand,Atle Dahle
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Magnus Seilen,Steffan Tveit,Kristoffer Eliassen,Meinte Jelsma,"21/0,21/0",Magnus Seilen,Steffan Tveit
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Herredouble,Karl Martin Valestrand,Atle Dahle,Jørn Inge Bognøy,Erik Moe,"21/13,21/13",Karl Martin Valestrand,Atle Dahle
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Mixeddouble,Christina  Andreassen,Rune Bråten,Therese Kristoffersen,Thomas Stenfeldt,"21/15,18/21,21/14",Christina  Andreassen,Rune Bråten
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Mixeddouble,Sander Andersen Moe,Astrid Bognøy,Erik Moe,Anita Vabø,"21/14,21/17",Sander Andersen Moe,Astrid Bognøy
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Mixeddouble,Erik Moe,Anita Vabø,Therese Kristoffersen,Thomas Stenfeldt,"17/21,21/16,21/18",Erik Moe,Anita Vabø
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Mixeddouble,Sander Andersen Moe,Astrid Bognøy,Christina  Andreassen,Rune Bråten,"21/14,21/7",Sander Andersen Moe,Astrid Bognøy
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Mixeddouble,Therese Kristoffersen,Thomas Stenfeldt,Sander Andersen Moe,Astrid Bognøy,"21/18,16/21,21/17",Therese Kristoffersen,Thomas Stenfeldt
+2017/2018,Askøy Askøy Open 2017,02.09.2017,SEN D,Mixeddouble,Erik Moe,Anita Vabø,Christina  Andreassen,Rune Bråten,"21/14,21/14",Erik Moe,Anita Vabø
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Brede Lie Foldnes,,Erik Waldemar Bødtker Enqvist,"22/20,21/12",Brede Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Olav Dalan Eidissen,,Sindre Gjuvsland,"21/12,21/7",Olav Dalan Eidissen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Brede Lie Foldnes,,Pranav Tehlan,"21/14,21/18",Brede Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Aldrin Nelson,,Aksel Skard Bjerke,"21/14,21/10",Aldrin Nelson,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Erik Waldemar Bødtker Enqvist,,Artjon Qevani,"21/14,21/6",Erik Waldemar Bødtker Enqvist,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Olav Dalan Eidissen,,Aldrin Nelson,"21/11,21/16",Olav Dalan Eidissen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Olav Dalan Eidissen,,Erik Waldemar Bødtker Enqvist,"21/11,21/17",Olav Dalan Eidissen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Brede Lie Foldnes,,Aldrin Nelson,"21/13,19/21,21/16",Brede Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Aldrin Nelson,,Erik Waldemar Bødtker Enqvist,"21/19,21/6",Aldrin Nelson,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Olav Dalan Eidissen,,Brede Lie Foldnes,"24/22,24/22",Olav Dalan Eidissen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Aksel Skard Bjerke,,Artjon Qevani,"21/18,18/21,21/9",Aksel Skard Bjerke,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Sindre Gjuvsland,,Pranav Tehlan,"21/16,21/14",Sindre Gjuvsland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Pranav Tehlan,,Artjon Qevani,"21/8,21/8",Pranav Tehlan,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Sindre Gjuvsland,,Aksel Skard Bjerke,"21/11,21/15",Sindre Gjuvsland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Sindre Gjuvsland,,Artjon Qevani,"21/13,21/11",Sindre Gjuvsland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herresingle,,Pranav Tehlan,,Aksel Skard Bjerke,"21/13,21/16",Pranav Tehlan,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Damesingle,,Akarija Anton Reginold,,Maria Botcharova Ellingsen,"21/19,21/13",Akarija Anton Reginold,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Damesingle,,Arathija Anton Reginold,,Camilla Skrunes Sundt,"22/20,21/8",Arathija Anton Reginold,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Damesingle,,Maria Botcharova Ellingsen,,Arathija Anton Reginold,"21/19,21/15",Maria Botcharova Ellingsen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Damesingle,,Camilla Skrunes Sundt,,Celine H Solvang Søvik,"21/15,22/20",Camilla Skrunes Sundt,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Damesingle,,Akarija Anton Reginold,,Celine H Solvang Søvik,"21/5,21/10",Akarija Anton Reginold,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Damesingle,,Akarija Anton Reginold,,Camilla Skrunes Sundt,"21/8,21/11",Akarija Anton Reginold,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herredouble,Sindre Gjuvsland,Brede Lie Foldnes,Aksel Skard Bjerke,Artjon Qevani,"21/15,21/15",Sindre Gjuvsland,Brede Lie Foldnes
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herredouble,Aksel Skard Bjerke,Artjon Qevani,Camilla Skrunes Sundt,Celine H Solvang Søvik,"21/12,21/8",Aksel Skard Bjerke,Artjon Qevani
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 A,Herredouble,Sindre Gjuvsland,Brede Lie Foldnes,Camilla Skrunes Sundt,Celine H Solvang Søvik,"21/4,21/10",Sindre Gjuvsland,Brede Lie Foldnes
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,Herresingle,,Håvard Lie Foldnes,,Oliver Kleppe Hagen,"21/14,21/13",Håvard Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,Herresingle,,Magnus Reynolds Torsvik,,Håvard Lie Foldnes,"21/10,21/15",Magnus Reynolds Torsvik,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U11 B,Herresingle,,Magnus Reynolds Torsvik,,Oliver Kleppe Hagen,"21/14,21/11",Magnus Reynolds Torsvik,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Brynjar Hus,,Lukas Skrunes Sundt,"21/17,21/5",Brynjar Hus,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Brynjar Hus,,Herman Dalan  Eidissen,"21/18,21/15",Brynjar Hus,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Herman Dalan  Eidissen,,Mathushen Anton Ruseyn,"21/3,21/2",Herman Dalan  Eidissen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Brynjar Hus,,Mathushen Anton Ruseyn,"21/4,21/4",Brynjar Hus,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Lukas Skrunes Sundt,,Adrian Aas Kleppe,"21/4,21/4",Lukas Skrunes Sundt,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Niklas Rasmussen,,Adrian Aas Kleppe,"21/8,21/5",Niklas Rasmussen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herresingle,,Lukas Skrunes Sundt,,Niklas Rasmussen,"21/16,21/5",Lukas Skrunes Sundt,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damesingle,,Linnea Holmedal,,Emilie Alrek Eide,"21/15,21/19",Linnea Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damesingle,,Amalie Lexander,,Solveig Elise Thuestad,"21/6,21/5",Amalie Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damesingle,,Amalie Lexander,,Emilie Alrek Eide,"21/7,21/7",Amalie Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damesingle,,Linnea Holmedal,,Solveig Elise Thuestad,"21/6,21/10",Linnea Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damesingle,,Emilie Alrek Eide,,Solveig Elise Thuestad,"21/19,10/21,21/18",Emilie Alrek Eide,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damesingle,,Amalie Lexander,,Linnea Holmedal,"10/21,21/14,21/11",Amalie Lexander,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herredouble,Olav Dalan Eidissen,Aldrin Nelson,Mathushen Anton Ruseyn,Niklas Rasmussen,"21/16,21/14",Olav Dalan Eidissen,Aldrin Nelson
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herredouble,Mathushen Anton Ruseyn,Niklas Rasmussen,Kristian Kjønsberg,Joachim Sortland Paulsen,"21/9,21/12",Mathushen Anton Ruseyn,Niklas Rasmussen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herredouble,Sondre Lie Foldnes,Adrian Aas Kleppe,Niklas Blindheim Byberg,Elias	Rosendahl,"21/17,21/10",Sondre Lie Foldnes,Adrian Aas Kleppe
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herredouble,Olav Dalan Eidissen,Aldrin Nelson,Niklas Blindheim Byberg,Elias	Rosendahl,"21/14,21/8",Olav Dalan Eidissen,Aldrin Nelson
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Herredouble,Olav Dalan Eidissen,Aldrin Nelson,Sondre Lie Foldnes,Adrian Aas Kleppe,"21/19,21/15",Olav Dalan Eidissen,Aldrin Nelson
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damedouble,Amalie Lexander,Linnea Holmedal,Therese Steffensen,Emilie Alrek Eide,"21/5,21/11",Amalie Lexander,Linnea Holmedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damedouble,Therese Steffensen,Emilie Alrek Eide,Arathija Anton Reginold,Akarija Anton Reginold,"21/12,21/11",Therese Steffensen,Emilie Alrek Eide
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Damedouble,Amalie Lexander,Linnea Holmedal,Arathija Anton Reginold,Akarija Anton Reginold,"21/11,221/10",Amalie Lexander,Linnea Holmedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mixeddouble,Lukas Skrunes Sundt,Solveig Elise Thuestad,Arathija Anton Reginold,Aldrin Nelson,"21/8,21/6",Lukas Skrunes Sundt,Solveig Elise Thuestad
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mixeddouble,Sindre Gjuvsland,Emilie Alrek Eide,Akarija Anton Reginold,Olav Dalan Eidissen,"12/21,21/16,21/12",Sindre Gjuvsland,Emilie Alrek Eide
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mixeddouble,Akarija Anton Reginold,Olav Dalan Eidissen,Arathija Anton Reginold,Aldrin Nelson,"16/21,21/11,21/13",Akarija Anton Reginold,Olav Dalan Eidissen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mixeddouble,Lukas Skrunes Sundt,Solveig Elise Thuestad,Sindre Gjuvsland,Emilie Alrek Eide,"21/11,21/15",Lukas Skrunes Sundt,Solveig Elise Thuestad
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mixeddouble,Sindre Gjuvsland,Emilie Alrek Eide,Arathija Anton Reginold,Aldrin Nelson,"21/19,21/16",Sindre Gjuvsland,Emilie Alrek Eide
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 A,Mixeddouble,Lukas Skrunes Sundt,Solveig Elise Thuestad,Akarija Anton Reginold,Olav Dalan Eidissen,"21/11,21/14",Lukas Skrunes Sundt,Solveig Elise Thuestad
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Herresingle,,Sondre Lie Foldnes,,Kristian Kjønsberg,"21/4,21/7",Sondre Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Herresingle,,Heine Lam Nybakk,,Alexander Kleppe Hagen,"21/10,21/7",Heine Lam Nybakk,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Herresingle,,Sondre Lie Foldnes,,Alexander Kleppe Hagen,"21/6,21/1",Sondre Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Herresingle,,Heine Lam Nybakk,,Kristian Kjønsberg,"21/8,21/14",Heine Lam Nybakk,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Herresingle,,Sondre Lie Foldnes,,Heine Lam Nybakk,"21/12,21/13",Sondre Lie Foldnes,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Herresingle,,Kristian Kjønsberg,,Alexander Kleppe Hagen,"21/16,14/21,21/13",Kristian Kjønsberg,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Mixeddouble,Therese Steffensen,Joachim Sortland Paulsen,Andreas Brakedal,Jeanette Brakedal,"21/17,21/14",Therese Steffensen,Joachim Sortland Paulsen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Mixeddouble,Camilla Skrunes Sundt,Brede Lie Foldnes,Andreas Brakedal,Jeanette Brakedal,"21/9,21/17",Camilla Skrunes Sundt,Brede Lie Foldnes
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U13 B,Mixeddouble,Therese Steffensen,Joachim Sortland Paulsen,Camilla Skrunes Sundt,Brede Lie Foldnes,"21/12,6/21,21/19",Therese Steffensen,Joachim Sortland Paulsen
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Vemund Hus,,Jonas Bergli Almås,"21/11,21/14",Vemund Hus,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Jonas Bergli Almås,,Jonathan Utne Madsøy,"14/21,21/19,21/18",Jonas Bergli Almås,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Vetle Vinnes Bråten,,Jonathan Utne Madsøy,"21/11,21/16",Vetle Vinnes Bråten,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Jonas Bergli Almås,,Vetle Vinnes Bråten,"21/17,21/16",Jonas Bergli Almås,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Vemund Hus,,Brede Stenfeldt,"21/17,21/9",Vemund Hus,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Brede Stenfeldt,,William Svellingen,"21/14,21/13",Brede Stenfeldt,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herresingle,,Vemund Hus,,William Svellingen,"21/9,21/16",Vemund Hus,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Divya Tehlan,"21/15,21/19",Heidi Kristine Skree,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Damesingle,,Nikol Hermansen,,Live Rasmussen,"22/20,21/8",Nikol Hermansen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Live Rasmussen,"21/8,21/7",Heidi Kristine Skree,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Damesingle,,Divya Tehlan,,Nikol Hermansen,"21/11,21/8",Divya Tehlan,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Nikol Hermansen,"21/14,21/5",Heidi Kristine Skree,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Damesingle,,Divya Tehlan,,Live Rasmussen,"21/15,21/9",Divya Tehlan,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herredouble,Vemund Hus,Brynjar Hus,Vetle Vinnes Bråten,Brede Stenfeldt,"17/21,22/20,21/9",Vemund Hus,Brynjar Hus
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herredouble,Herman Dalan  Eidissen,Jonas Bergli Almås,Lukas Skrunes Sundt,Bernt-Marius Thuestad,"221/14,21/14",Herman Dalan  Eidissen,Jonas Bergli Almås
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herredouble,Herman Dalan  Eidissen,Jonas Bergli Almås,Vetle Vinnes Bråten,Brede Stenfeldt,"21/18,21/12",Herman Dalan  Eidissen,Jonas Bergli Almås
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herredouble,Vemund Hus,Brynjar Hus,Lukas Skrunes Sundt,Bernt-Marius Thuestad,"21/6,21/6",Vemund Hus,Brynjar Hus
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herredouble,Vetle Vinnes Bråten,Brede Stenfeldt,Lukas Skrunes Sundt,Bernt-Marius Thuestad,"21/10,21/15",Vetle Vinnes Bråten,Brede Stenfeldt
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Herredouble,Vemund Hus,Brynjar Hus,Herman Dalan  Eidissen,Jonas Bergli Almås,"21/9,21/8",Vemund Hus,Brynjar Hus
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Linnea Holmedal,Andreas Holmedal,Divya Tehlan,Jonas Bergli Almås,"21/10,16/21,21/14",Linnea Holmedal,Andreas Holmedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Brynjar Hus,Caroline Brakedal,Vetle Vinnes Bråten,Nikol Hermansen,"21/13,21/18",Brynjar Hus,Caroline Brakedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Linnea Holmedal,Andreas Holmedal,Vetle Vinnes Bråten,Nikol Hermansen,"21/9,21/13",Linnea Holmedal,Andreas Holmedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Linnea Holmedal,Andreas Holmedal,Brynjar Hus,Caroline Brakedal,"21/18,21/8",Linnea Holmedal,Andreas Holmedal
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Brede Stenfeldt,Amalie Lexander,Live Rasmussen,Vemund Hus,"21/17,21/19",Brede Stenfeldt,Amalie Lexander
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Divya Tehlan,Jonas Bergli Almås,Live Rasmussen,Vemund Hus,"29/27,14/21,21/18",Divya Tehlan,Jonas Bergli Almås
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 A,Mixeddouble,Divya Tehlan,Jonas Bergli Almås,Brede Stenfeldt,Amalie Lexander,"21/14,17/21,21/17",Divya Tehlan,Jonas Bergli Almås
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 B,Herresingle,,Frikk Midtsæter,,Hans Jakob Skree,"21/5,21/8",Frikk Midtsæter,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 B,Herresingle,,Frikk Midtsæter,,Mads Møvik Olsen,"21/13,21/9",Frikk Midtsæter,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 B,Herresingle,,Mads Møvik Olsen,,Hans Jakob Skree,"21/9,21/8",Mads Møvik Olsen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U15 B,Herredouble,Benjamin Krokås,Sindre Mangernes Lied,Lars Lillestøl Duinker,Mads Møvik Olsen,"6/21,21/15,21/14",Benjamin Krokås,Sindre Mangernes Lied
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Victoria Økland,,Elise  Holmedal,"21/12,21/11",Victoria Økland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Elise  Holmedal,,Dina Høl Bugge,"21/17,21/11",Elise  Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Victoria Økland,,Katja Botcharova Ellingsen,"21/15,21/13",Victoria Økland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Elisabeth Parnemann Sirevåg,,Tuva Vinnes Bråten,"21/18,21/18",Elisabeth Parnemann Sirevåg,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Elisabeth Parnemann Sirevåg,"21/9,21/13",Katja Botcharova Ellingsen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Victoria Økland,,Tuva Vinnes Bråten,"21/10,21/14",Victoria Økland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Tuva Vinnes Bråten,"21/12,21/11",Katja Botcharova Ellingsen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Victoria Økland,,Elisabeth Parnemann Sirevåg,"21/8,21/12",Victoria Økland,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Elise  Holmedal,,Akija Anton Reginold,"21/12,21/15",Elise  Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Elise  Holmedal,,Julie Marie Olsen,"18/21,21/10,21/13",Elise  Holmedal,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Julie Marie Olsen,,Akija Anton Reginold,"21/17,12/21,21/14",Julie Marie Olsen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Mariann Andreassen,,Dobromila Franaszczuk,"21/10,21/6",Mariann Andreassen,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Dina Høl Bugge,,Dobromila Franaszczuk,"11/21,21/6,21/17",Dina Høl Bugge,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damesingle,,Dina Høl Bugge,,Mariann Andreassen,"21/4,12/21,21/19",Dina Høl Bugge,
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Tuva Vinnes Bråten,Akija Anton Reginold,"21/9,21/9",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Julie Marie Olsen,Emilie Haugland Lauvik,Live Rasmussen,Caroline Brakedal,"21/14,11/21,21/15",Julie Marie Olsen,Emilie Haugland Lauvik
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Tuva Vinnes Bråten,Akija Anton Reginold,Live Rasmussen,Caroline Brakedal,"21/15,21/3",Tuva Vinnes Bråten,Akija Anton Reginold
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Nikol Hermansen,Divya Tehlan,"21/12,21/8",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Tuva Vinnes Bråten,Akija Anton Reginold,Nikol Hermansen,Divya Tehlan,"21/10,21/16",Tuva Vinnes Bråten,Akija Anton Reginold
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Julie Marie Olsen,Emilie Haugland Lauvik,"21/9,21/5",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Tuva Vinnes Bråten,Akija Anton Reginold,Julie Marie Olsen,Emilie Haugland Lauvik,"21/13,21/7",Tuva Vinnes Bråten,Akija Anton Reginold
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Nikol Hermansen,Divya Tehlan,Live Rasmussen,Caroline Brakedal,"21/19,21/19",Nikol Hermansen,Divya Tehlan
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Live Rasmussen,Caroline Brakedal,"21/5,21/5",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Askøy Open 2017,02.09.2017,U17 A,Damedouble,Julie Marie Olsen,Emilie Haugland Lauvik,Nikol Hermansen,Divya Tehlan,"24/26,21/17,21/14",Julie Marie Olsen,Emilie Haugland Lauvik

@@ -1,425 +1,274 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Eirik Sørstrand,,John Daae,"21/12,21/16",Eirik Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Xijiang Yu,,Roger Sagen,"21/18,21/14",Xijiang Yu,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,John Daae,,Xijiang Yu,"22/20,17/21,21/18",John Daae,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,John Daae,,Roger Sagen,"22/24,21/14,21/15",John Daae,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Frida Bjørvik Løvheim,,Kim-Andre Moen,"18/21,21/16,21/12",Frida Bjørvik Løvheim,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Eirik Sørstrand,,Dan Nielsen,"21/15,21/11",Eirik Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Frida Bjørvik Løvheim,,Dan Nielsen,"21/15,21/12",Frida Bjørvik Løvheim,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Kim-Andre Moen,,Dan Nielsen,"21/16,21/10",Kim-Andre Moen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Eirik Sørstrand,,Frida Bjørvik Løvheim,"21/17,21/7",Eirik Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Eirik Sørstrand,,John Daae,"21/12,21/16",Eirik Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Xijiang Yu,,Roger Sagen,"21/18,21/14",Xijiang Yu,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,John Daae,,Xijiang Yu,"22/20,17/21,21/18",John Daae,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,John Daae,,Roger Sagen,"22/24,21/14,21/15",John Daae,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Frida Bjørvik Løvheim,,Kim-Andre Moen,"18/21,21/16,21/12",Frida Bjørvik Løvheim,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Eirik Sørstrand,,Dan Nielsen,"21/15,21/11",Eirik Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Frida Bjørvik Løvheim,,Dan Nielsen,"21/15,21/12",Frida Bjørvik Løvheim,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Kim-Andre Moen,,Dan Nielsen,"21/16,21/10",Kim-Andre Moen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,,Eirik Sørstrand,,Frida Bjørvik Løvheim,"21/17,21/7",Eirik Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Nazim Nordén,,Steinar  Hansen,"21/19,21/16",Nazim Nordén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Nazim Nordén,,Fredrik Fjell,"21/13,21/11",Nazim Nordén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Nazim Nordén,,Jon-Erik Pettersen,"21/8,21/9",Nazim Nordén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Fredrik Fjell,,Jon-Erik Pettersen,"21/12,21/13",Fredrik Fjell,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Steinar  Hansen,,Eirik Johannes Grandahl,"21/16,21/6",Steinar  Hansen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Steinar  Hansen,,Stein Georg Lillemoen,"21/18,21/16",Steinar  Hansen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Stein Georg Lillemoen,,Eirik Johannes Grandahl,"21/8,21/15",Stein Georg Lillemoen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Nazim Nordén,,Steinar  Hansen,"21/19,21/16",Nazim Nordén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Nazim Nordén,,Fredrik Fjell,"21/13,21/11",Nazim Nordén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Nazim Nordén,,Jon-Erik Pettersen,"21/8,21/9",Nazim Nordén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Fredrik Fjell,,Jon-Erik Pettersen,"21/12,21/13",Fredrik Fjell,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Steinar  Hansen,,Eirik Johannes Grandahl,"21/16,21/6",Steinar  Hansen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Steinar  Hansen,,Stein Georg Lillemoen,"21/18,21/16",Steinar  Hansen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,,Stein Georg Lillemoen,,Eirik Johannes Grandahl,"21/8,21/15",Stein Georg Lillemoen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Bawi Nun Lian Rakha,Christer Andersen,Mohammed Ayaz Rauf,Gaurav Sharma,"21/15,21/17",Bawi Nun Lian Rakha,Christer Andersen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mohammed Ayaz Rauf,Gaurav Sharma,Stein Georg Lillemoen,Dan Nielsen,"21/13,21/11",Mohammed Ayaz Rauf,Gaurav Sharma
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Robert Fjellanger,Eirik Sørstrand,Raees Abbas,Muhammed Nadeem,"22/24,21/16,21/16",Robert Fjellanger,Eirik Sørstrand
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Bawi Nun Lian Rakha,Christer Andersen,Yanhong Peng,Mei Yang,"21/7,21/14",Bawi Nun Lian Rakha,Christer Andersen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Bawi Nun Lian Rakha,Christer Andersen,Robert Fjellanger,Eirik Sørstrand,"21/14,21/15",Bawi Nun Lian Rakha,Christer Andersen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Raees Abbas,Muhammed Nadeem,Yanhong Peng,Mei Yang,"21/10,21/14",Raees Abbas,Muhammed Nadeem
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Robert Fjellanger,Eirik Sørstrand,Yanhong Peng,Mei Yang,"21/8,21/8",Robert Fjellanger,Eirik Sørstrand
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Bawi Nun Lian Rakha,Christer Andersen,Raees Abbas,Muhammed Nadeem,"21/18,21/10",Bawi Nun Lian Rakha,Christer Andersen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Stein Georg Lillemoen,Dan Nielsen,Steinar  Hansen,Fredrik Fjell,"15/21,21/18,22/20",Stein Georg Lillemoen,Dan Nielsen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Nazim Nordén,Måns Anders Lund Mabäcker,Eirik Johannes Grandahl,Jon-Erik Pettersen,"21/5,21/10",Nazim Nordén,Måns Anders Lund Mabäcker
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Steinar  Hansen,Fredrik Fjell,Eirik Johannes Grandahl,Jon-Erik Pettersen,"21/1,21/6",Steinar  Hansen,Fredrik Fjell
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Stein Georg Lillemoen,Dan Nielsen,Nazim Nordén,Måns Anders Lund Mabäcker,"21/14,14/21,21/16",Stein Georg Lillemoen,Dan Nielsen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Nazim Nordén,Måns Anders Lund Mabäcker,Steinar  Hansen,Fredrik Fjell,"21/19,21/16",Nazim Nordén,Måns Anders Lund Mabäcker
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Stein Georg Lillemoen,Dan Nielsen,Eirik Johannes Grandahl,Jon-Erik Pettersen,"21/10,21/11",Stein Georg Lillemoen,Dan Nielsen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Christophe Mary,Xijiang Yu,Trond Berg,Roger Sagen,"21/11,21/15",Christophe Mary,Xijiang Yu
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mohammed Ayaz Rauf,Gaurav Sharma,Trond Berg,Roger Sagen,"21/13,21/13",Mohammed Ayaz Rauf,Gaurav Sharma
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mohammed Ayaz Rauf,Gaurav Sharma,Christophe Mary,Xijiang Yu,"21/15,21/19",Mohammed Ayaz Rauf,Gaurav Sharma
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Rune Lavik-Haug,"21/16,1/21,21/14",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rune Lavik-Haug,,Rajendra Danve,"21/7,21/16",Rune Lavik-Haug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Øivind Storvik,"21/5,21/7",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Trond Berg,"21/7,21/3",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Marius Dolven,"21/14,21/10",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Marius Dolven,,Trond Berg,"21/13,18/21,21/17",Marius Dolven,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Øivind Storvik,,Silje Stenstad Nilsen,"21/12,21/13",Øivind Storvik,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Øivind Storvik,,Betzy Margrethe Parelius Wammer,"21/16,21/8",Øivind Storvik,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Silje Stenstad Nilsen,,Betzy Margrethe Parelius Wammer,"21/17,21/17",Silje Stenstad Nilsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Jakob Grønstøl,,Qiang Du,"21/19,22/20",Jakob Grønstøl,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rajendra Danve,,Jakob Grønstøl,"18/21,21/19,21/16",Rajendra Danve,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rajendra Danve,,Qiang Du,"22/20,19/21,21/11",Rajendra Danve,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rune Lavik-Haug,,Ola Bård Langlo,"21/7,21/12",Rune Lavik-Haug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rune Lavik-Haug,,Hans Martin Mabäcker,"16/21,21/14,21/11",Rune Lavik-Haug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Hans Martin Mabäcker,,Ola Bård Langlo,"16/21,21/12,21/17",Hans Martin Mabäcker,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Rune Lavik-Haug,"21/16,1/21,21/14",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rune Lavik-Haug,,Rajendra Danve,"21/7,21/16",Rune Lavik-Haug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Øivind Storvik,"21/5,21/7",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Trond Berg,"21/7,21/3",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Robert Fjellanger,,Marius Dolven,"21/14,21/10",Robert Fjellanger,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Marius Dolven,,Trond Berg,"21/13,18/21,21/17",Marius Dolven,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Øivind Storvik,,Silje Stenstad Nilsen,"21/12,21/13",Øivind Storvik,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Øivind Storvik,,Betzy Margrethe Parelius Wammer,"21/16,21/8",Øivind Storvik,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Silje Stenstad Nilsen,,Betzy Margrethe Parelius Wammer,"21/17,21/17",Silje Stenstad Nilsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Jakob Grønstøl,,Qiang Du,"21/19,22/20",Jakob Grønstøl,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rajendra Danve,,Jakob Grønstøl,"18/21,21/19,21/16",Rajendra Danve,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rajendra Danve,,Qiang Du,"22/20,19/21,21/11",Rajendra Danve,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rune Lavik-Haug,,Ola Bård Langlo,"21/7,21/12",Rune Lavik-Haug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Rune Lavik-Haug,,Hans Martin Mabäcker,"16/21,21/14,21/11",Rune Lavik-Haug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,,Hans Martin Mabäcker,,Ola Bård Langlo,"16/21,21/12,21/17",Hans Martin Mabäcker,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Rajendra Danve,Narasimhan Ramkumar,Merete Ruud Tuskin,Wenche Brinchmann,"21/13,21/9",Rajendra Danve,Narasimhan Ramkumar
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Rune Lavik-Haug,Hans Martin Mabäcker,Øivind Storvik,Ola Bård Langlo,"21/19,21/19",Rune Lavik-Haug,Hans Martin Mabäcker
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Rune Lavik-Haug,Hans Martin Mabäcker,Merete Ruud Tuskin,Wenche Brinchmann,"21/18,21/14",Rune Lavik-Haug,Hans Martin Mabäcker
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Rajendra Danve,Narasimhan Ramkumar,Øivind Storvik,Ola Bård Langlo,"21/12,21/13",Rajendra Danve,Narasimhan Ramkumar
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Øivind Storvik,Ola Bård Langlo,Merete Ruud Tuskin,Wenche Brinchmann,"21/18,21/11",Øivind Storvik,Ola Bård Langlo
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Rajendra Danve,Narasimhan Ramkumar,Rune Lavik-Haug,Hans Martin Mabäcker,"21/19,20/22,21/13",Rajendra Danve,Narasimhan Ramkumar
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Ludvig Trønnes,,Martin Bjørvik Løvheim,"18/21,21/18,21/10",Ludvig Trønnes,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Kristoffer Ravndal,,Adrian Schmidt,"21/4,21/9",Kristoffer Ravndal,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Kristoffer Ravndal,,Martin Bjørvik Løvheim,"21/12,21/10",Kristoffer Ravndal,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Ludvig Trønnes,,Adrian Schmidt,"21/15,21/17",Ludvig Trønnes,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Martin Bjørvik Løvheim,,Adrian Schmidt,"21/12,21/18",Martin Bjørvik Løvheim,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Kristoffer Ravndal,,Ludvig Trønnes,"19/21,21/5,21/18",Kristoffer Ravndal,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Ludvig Trønnes,,Martin Bjørvik Løvheim,"18/21,21/18,21/10",Ludvig Trønnes,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Kristoffer Ravndal,,Adrian Schmidt,"21/4,21/9",Kristoffer Ravndal,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Kristoffer Ravndal,,Martin Bjørvik Løvheim,"21/12,21/10",Kristoffer Ravndal,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Ludvig Trønnes,,Adrian Schmidt,"21/15,21/17",Ludvig Trønnes,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Martin Bjørvik Løvheim,,Adrian Schmidt,"21/12,21/18",Martin Bjørvik Løvheim,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,,Kristoffer Ravndal,,Ludvig Trønnes,"19/21,21/5,21/18",Kristoffer Ravndal,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Ludvig Trønnes,Kristoffer Ravndal,Martin Bjørvik Løvheim,Adrian Schmidt,"21/16,21/9",Ludvig Trønnes,Kristoffer Ravndal
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Sebastian Torvund,Erik Rossebø Rusten,Martin Bjørvik Løvheim,Adrian Schmidt,"21/19,18/21,22/20",Sebastian Torvund,Erik Rossebø Rusten
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Ludvig Trønnes,Kristoffer Ravndal,Sebastian Torvund,Erik Rossebø Rusten,"21/15,21/10",Ludvig Trønnes,Kristoffer Ravndal
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erik Rossebø Rusten,,Ryan Danie,"21/16,18/21,21/13",Erik Rossebø Rusten,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erik Rossebø Rusten,,Iben Aleksander Thoresen,"21/7,21/3",Erik Rossebø Rusten,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Ryan Danie,,Iben Aleksander Thoresen,"21/1,21/9",Ryan Danie,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Jonathan Stenstad Brænna,,Sebastian Torvund,"21/9,21/6",Jonathan Stenstad Brænna,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Jonathan Stenstad Brænna,,Tideman Sandvik Clasén,"21/17,21/8",Jonathan Stenstad Brænna,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Tideman Sandvik Clasén,,Sebastian Torvund,"21/15,21/11",Tideman Sandvik Clasén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Sigurd Hines Stenersen,,Ludvik Hvarnes Kristiansen,"21/10,21/17",Sigurd Hines Stenersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erlend Knutsen,,Ludvik Hvarnes Kristiansen,"21/2,21/0",Erlend Knutsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erlend Knutsen,,Sigurd Hines Stenersen,"21/10,21/11",Erlend Knutsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erik Rossebø Rusten,,Ryan Danie,"21/16,18/21,21/13",Erik Rossebø Rusten,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erik Rossebø Rusten,,Iben Aleksander Thoresen,"21/7,21/3",Erik Rossebø Rusten,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Ryan Danie,,Iben Aleksander Thoresen,"21/1,21/9",Ryan Danie,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Jonathan Stenstad Brænna,,Sebastian Torvund,"21/9,21/6",Jonathan Stenstad Brænna,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Jonathan Stenstad Brænna,,Tideman Sandvik Clasén,"21/17,21/8",Jonathan Stenstad Brænna,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Tideman Sandvik Clasén,,Sebastian Torvund,"21/15,21/11",Tideman Sandvik Clasén,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Sigurd Hines Stenersen,,Ludvik Hvarnes Kristiansen,"21/10,21/17",Sigurd Hines Stenersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erlend Knutsen,,Ludvik Hvarnes Kristiansen,"21/2,21/0",Erlend Knutsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,,Erlend Knutsen,,Sigurd Hines Stenersen,"21/10,21/11",Erlend Knutsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Shravan Ramkumar,"16/21,21/12,21/13",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Andrej Nimcevic,"21/14,21/13",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Qianyang Gan,,Shravan Ramkumar,"18/21,21/17,23/21",Qianyang Gan,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Shravan Ramkumar,,Shreyas Danve,"21/18,21/16",Shravan Ramkumar,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Shreyas Danve,,Qianyang Gan,"21/13,16/21,21/7",Shreyas Danve,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Andrej Nimcevic,,Jonas Sørstrand,"25/23,21/14",Andrej Nimcevic,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Andrej Nimcevic,,Joachim Nguyen,"21/13,21/18",Andrej Nimcevic,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Jonas Sørstrand,,Joachim Nguyen,"16/21,21/12,21/17",Jonas Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Daniel Nguyen,,Alf Marius Fasseland Hansen,"21/15,21/19",Daniel Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Daniel Nguyen,"21/12,21/8",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Alf Marius Fasseland Hansen,"21/8,21/0",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Shravan Ramkumar,"16/21,21/12,21/13",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Andrej Nimcevic,"21/14,21/13",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Qianyang Gan,,Shravan Ramkumar,"18/21,21/17,23/21",Qianyang Gan,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Shravan Ramkumar,,Shreyas Danve,"21/18,21/16",Shravan Ramkumar,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Shreyas Danve,,Qianyang Gan,"21/13,16/21,21/7",Shreyas Danve,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Andrej Nimcevic,,Jonas Sørstrand,"25/23,21/14",Andrej Nimcevic,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Andrej Nimcevic,,Joachim Nguyen,"21/13,21/18",Andrej Nimcevic,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Jonas Sørstrand,,Joachim Nguyen,"16/21,21/12,21/17",Jonas Sørstrand,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Daniel Nguyen,,Alf Marius Fasseland Hansen,"21/15,21/19",Daniel Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Daniel Nguyen,"21/12,21/8",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vinit Sharma,,Alf Marius Fasseland Hansen,"21/8,21/0",Vinit Sharma,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Varshini Manikandan,,Vera Østhassel Harman,"21/16,21/12",Varshini Manikandan,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Abiramy Kokilan,,Ulrikke Sørstrand,"21/8,21/5",Abiramy Kokilan,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Varshini Manikandan,,Ulrikke Sørstrand,"21/7,21/12",Varshini Manikandan,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Varshini Manikandan,,Abiramy Kokilan,"19/21,21/17,21/10",Varshini Manikandan,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Sarah Zeyu Du,,Martine Skjeltorp Nyborg,"21/10,21/12",Sarah Zeyu Du,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vera Østhassel Harman,,Martine Skjeltorp Nyborg,"21/10,21/14",Vera Østhassel Harman,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,,Vera Østhassel Harman,,Sarah Zeyu Du,"19/21,21/18,21/15",Vera Østhassel Harman,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Vinit Sharma,Joachim Nguyen,Daniel Nguyen,Alf Marius Fasseland Hansen,"21/17,21/14",Vinit Sharma,Joachim Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Shravan Ramkumar,Shreyas Danve,Lukas Trana,Aksel Hegerstrøm Haugli,"21/11,21/5",Shravan Ramkumar,Shreyas Danve
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Shravan Ramkumar,Shreyas Danve,Vinit Sharma,Joachim Nguyen,"21/19,21/14",Shravan Ramkumar,Shreyas Danve
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Daniel Nguyen,Alf Marius Fasseland Hansen,Lukas Trana,Aksel Hegerstrøm Haugli,"21/13,21/6",Daniel Nguyen,Alf Marius Fasseland Hansen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Vinit Sharma,Joachim Nguyen,Lukas Trana,Aksel Hegerstrøm Haugli,"21/8,21/19",Vinit Sharma,Joachim Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Shravan Ramkumar,Shreyas Danve,Daniel Nguyen,Alf Marius Fasseland Hansen,"21/12,21/16",Shravan Ramkumar,Shreyas Danve
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Ulrikke Sørstrand,Vera Østhassel Harman,Martine Skjeltorp Nyborg,Abiramy Kokilan,"21/15,21/16",Ulrikke Sørstrand,Vera Østhassel Harman
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Sarah Zeyu Du,Varshini Manikandan,Ulrikke Sørstrand,Vera Østhassel Harman,"21/13,21/10",Sarah Zeyu Du,Varshini Manikandan
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Sarah Zeyu Du,Varshini Manikandan,Martine Skjeltorp Nyborg,Abiramy Kokilan,"21/14,21/17",Sarah Zeyu Du,Varshini Manikandan
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Kaushik Rompicharla,"21/14,21/8",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Fredrik Paulsen Lauritsen,"21/15,21/19",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Aksel Hegerstrøm Haugli,,Christoffer Haukaa Pettersen,"21/18,17/21,21/19",Aksel Hegerstrøm Haugli,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Kaushik Rompicharla,,Aksel Hegerstrøm Haugli,"21/14,21/12",Kaushik Rompicharla,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Kaushik Rompicharla,,Christoffer Haukaa Pettersen,"21/12,21/12",Kaushik Rompicharla,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Lorens Valentin Holmboe,"21/7,21/12",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Adit Amol More,,Lorens Valentin Holmboe,"21/13,21/18",Adit Amol More,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Adit Amol More,"21/7,21/8",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Manju Keelukoppu,,Lukas Trana,"20/22,21/15,21/18",Manju Keelukoppu,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Fredrik Paulsen Lauritsen,,Lukas Trana,"21/12,21/14",Fredrik Paulsen Lauritsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Fredrik Paulsen Lauritsen,,Manju Keelukoppu,"21/19,21/15",Fredrik Paulsen Lauritsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Kaushik Rompicharla,"21/14,21/8",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Fredrik Paulsen Lauritsen,"21/15,21/19",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Aksel Hegerstrøm Haugli,,Christoffer Haukaa Pettersen,"21/18,17/21,21/19",Aksel Hegerstrøm Haugli,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Kaushik Rompicharla,,Aksel Hegerstrøm Haugli,"21/14,21/12",Kaushik Rompicharla,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Kaushik Rompicharla,,Christoffer Haukaa Pettersen,"21/12,21/12",Kaushik Rompicharla,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Lorens Valentin Holmboe,"21/7,21/12",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Adit Amol More,,Lorens Valentin Holmboe,"21/13,21/18",Adit Amol More,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Ulysse Jalut-Motte,,Adit Amol More,"21/7,21/8",Ulysse Jalut-Motte,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Manju Keelukoppu,,Lukas Trana,"20/22,21/15,21/18",Manju Keelukoppu,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Fredrik Paulsen Lauritsen,,Lukas Trana,"21/12,21/14",Fredrik Paulsen Lauritsen,
-2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,,Fredrik Paulsen Lauritsen,,Manju Keelukoppu,"21/19,21/15",Fredrik Paulsen Lauritsen,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Martin Enghaug,,Mathias Wong,"21/14,21/9",Martin Enghaug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Mathias Wong,,Magnus Tjøm,"21/19,21/13",Mathias Wong,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Martin Enghaug,,Christer Andersen,"21/14,21/15",Martin Enghaug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Khiem  Duc Nguyen,,Marius Sørby,"21/10,21/12",Khiem  Duc Nguyen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Marius Sørby,,Magnus Tjøm,"20/22,21/17,21/19",Marius Sørby,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Magnus Tjøm,,Khiem  Duc Nguyen,"21/13,21/17",Magnus Tjøm,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Mathias Wong,,Anne Klyve,"21/16,19/21,21/15",Mathias Wong,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,David Nguyen,,Anne Klyve,"17/21,21/12,23/21",David Nguyen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Mathias Wong,,David Nguyen,"21/18,21/14",Mathias Wong,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Johannes Orri Olafsson,,Dimiter Ivanov,"21/11,21/16",Johannes Orri Olafsson,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Martin Enghaug,,Johannes Orri Olafsson,"19/21,21/16,21/13",Martin Enghaug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Martin Enghaug,,Dimiter Ivanov,"21/17,21/15",Martin Enghaug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Christer Andersen,,Andreas Korssund,"21/15,21/14",Christer Andersen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Andreas Korssund,,Alexis Chretien,"24/22,21/12",Andreas Korssund,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herresingle,,Christer Andersen,,Alexis Chretien,"21/12,21/17",Christer Andersen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Andre Høidebraaten,Tobias Krømke,Dimiter Ivanov,David Nguyen,"22/20,21/16",Andre Høidebraaten,Tobias Krømke
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Magnus Tjøm,Andreas Korssund,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/12,21/9",Magnus Tjøm,Andreas Korssund
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Andre Høidebraaten,Tobias Krømke,Marius Sørby,Johannes Orri Olafsson,"21/15,21/11",Andre Høidebraaten,Tobias Krømke
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Andre Høidebraaten,Tobias Krømke,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/5,21/7",Andre Høidebraaten,Tobias Krømke
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Magnus Tjøm,Andreas Korssund,Marius Sørby,Johannes Orri Olafsson,"21/18,19/21,21/17",Magnus Tjøm,Andreas Korssund
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Marius Sørby,Johannes Orri Olafsson,Frida Bjørvik Løvheim,Elisabeth Parnemann Sirevåg,"21/17,21/16",Marius Sørby,Johannes Orri Olafsson
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Andre Høidebraaten,Tobias Krømke,Magnus Tjøm,Andreas Korssund,"21/16,21/11",Andre Høidebraaten,Tobias Krømke
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Dimiter Ivanov,David Nguyen,Daniel Brustad Snorrason,Martin Enghaug,"21/14,21/18",Dimiter Ivanov,David Nguyen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Dimiter Ivanov,David Nguyen,John Daae,Anne Klyve,"21/18,21/15",Dimiter Ivanov,David Nguyen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Daniel Brustad Snorrason,Martin Enghaug,Mathias Wong,David Wong,"21/13,21/9",Daniel Brustad Snorrason,Martin Enghaug
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Herredouble,Daniel Brustad Snorrason,Martin Enghaug,John Daae,Anne Klyve,"21/13,21/16",Daniel Brustad Snorrason,Martin Enghaug
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Mixeddouble,Martin Enghaug,Stine Andersen,Frida Bjørvik Løvheim,Johannes Orri Olafsson,"21/13,21/10",Martin Enghaug,Stine Andersen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Mixeddouble,Frida Bjørvik Løvheim,Johannes Orri Olafsson,Elisabeth Parnemann Sirevåg,Tobias Krømke,"21/19,16/21,21/15",Frida Bjørvik Løvheim,Johannes Orri Olafsson
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN A,Mixeddouble,Martin Enghaug,Stine Andersen,Elisabeth Parnemann Sirevåg,Tobias Krømke,"21/14,22/20",Martin Enghaug,Stine Andersen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Eirik Sørstrand,,John Daae,"21/12,21/16",Eirik Sørstrand,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Xijiang Yu,,Roger Sagen,"21/18,21/14",Xijiang Yu,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,John Daae,,Xijiang Yu,"22/20,17/21,21/18",John Daae,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,John Daae,,Roger Sagen,"22/24,21/14,21/15",John Daae,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Frida Bjørvik Løvheim,,Kim-Andre Moen,"18/21,21/16,21/12",Frida Bjørvik Løvheim,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Eirik Sørstrand,,Dan Nielsen,"21/15,21/11",Eirik Sørstrand,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Frida Bjørvik Løvheim,,Dan Nielsen,"21/15,21/12",Frida Bjørvik Løvheim,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Kim-Andre Moen,,Dan Nielsen,"21/16,21/10",Kim-Andre Moen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Herresingle,,Eirik Sørstrand,,Frida Bjørvik Løvheim,"21/17,21/7",Eirik Sørstrand,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Mixeddouble,Marius Sørby,Marielle Sørby,Sofie Jin Reistadbakk,Lars Eirik L. Nilsen,"21/19,21/17",Marius Sørby,Marielle Sørby
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Mixeddouble,Sofie Jin Reistadbakk,Lars Eirik L. Nilsen,Mei Yang,Qiqing Gan,"21/18,21/16",Sofie Jin Reistadbakk,Lars Eirik L. Nilsen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN B,Mixeddouble,Marius Sørby,Marielle Sørby,Mei Yang,Qiqing Gan,"21/16,21/8",Marius Sørby,Marielle Sørby
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Nazim Nordén,,Steinar  Hansen,"21/19,21/16",Nazim Nordén,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Nazim Nordén,,Fredrik Fjell,"21/13,21/11",Nazim Nordén,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Nazim Nordén,,Jon-Erik Pettersen,"21/8,21/9",Nazim Nordén,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Fredrik Fjell,,Jon-Erik Pettersen,"21/12,21/13",Fredrik Fjell,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Steinar  Hansen,,Eirik Johannes Grandahl,"21/16,21/6",Steinar  Hansen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Steinar  Hansen,,Stein Georg Lillemoen,"21/18,21/16",Steinar  Hansen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herresingle,,Stein Georg Lillemoen,,Eirik Johannes Grandahl,"21/8,21/15",Stein Georg Lillemoen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Bawi Nun Lian Rakha,Christer Andersen,Mohammed Ayaz Rauf,Gaurav Sharma,"21/15,21/17",Bawi Nun Lian Rakha,Christer Andersen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Mohammed Ayaz Rauf,Gaurav Sharma,Stein Georg Lillemoen,Dan Nielsen,"21/13,21/11",Mohammed Ayaz Rauf,Gaurav Sharma
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Robert Fjellanger,Eirik Sørstrand,Raees Abbas,Muhammed Nadeem,"22/24,21/16,21/16",Robert Fjellanger,Eirik Sørstrand
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Bawi Nun Lian Rakha,Christer Andersen,Yanhong Peng,Mei Yang,"21/7,21/14",Bawi Nun Lian Rakha,Christer Andersen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Bawi Nun Lian Rakha,Christer Andersen,Robert Fjellanger,Eirik Sørstrand,"21/14,21/15",Bawi Nun Lian Rakha,Christer Andersen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Raees Abbas,Muhammed Nadeem,Yanhong Peng,Mei Yang,"21/10,21/14",Raees Abbas,Muhammed Nadeem
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Robert Fjellanger,Eirik Sørstrand,Yanhong Peng,Mei Yang,"21/8,21/8",Robert Fjellanger,Eirik Sørstrand
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Bawi Nun Lian Rakha,Christer Andersen,Raees Abbas,Muhammed Nadeem,"21/18,21/10",Bawi Nun Lian Rakha,Christer Andersen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Stein Georg Lillemoen,Dan Nielsen,Steinar  Hansen,Fredrik Fjell,"15/21,21/18,22/20",Stein Georg Lillemoen,Dan Nielsen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Nazim Nordén,Måns Anders Lund Mabäcker,Eirik Johannes Grandahl,Jon-Erik Pettersen,"21/5,21/10",Nazim Nordén,Måns Anders Lund Mabäcker
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Steinar  Hansen,Fredrik Fjell,Eirik Johannes Grandahl,Jon-Erik Pettersen,"21/1,21/6",Steinar  Hansen,Fredrik Fjell
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Stein Georg Lillemoen,Dan Nielsen,Nazim Nordén,Måns Anders Lund Mabäcker,"21/14,14/21,21/16",Stein Georg Lillemoen,Dan Nielsen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Nazim Nordén,Måns Anders Lund Mabäcker,Steinar  Hansen,Fredrik Fjell,"21/19,21/16",Nazim Nordén,Måns Anders Lund Mabäcker
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Stein Georg Lillemoen,Dan Nielsen,Eirik Johannes Grandahl,Jon-Erik Pettersen,"21/10,21/11",Stein Georg Lillemoen,Dan Nielsen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Christophe Mary,Xijiang Yu,Trond Berg,Roger Sagen,"21/11,21/15",Christophe Mary,Xijiang Yu
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Mohammed Ayaz Rauf,Gaurav Sharma,Trond Berg,Roger Sagen,"21/13,21/13",Mohammed Ayaz Rauf,Gaurav Sharma
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Herredouble,Mohammed Ayaz Rauf,Gaurav Sharma,Christophe Mary,Xijiang Yu,"21/15,21/19",Mohammed Ayaz Rauf,Gaurav Sharma
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mixeddouble,Merete Ruud Tuskin,Nazim Nordén,Qiang Du,Zhe Wu,"21/8,21/8",Merete Ruud Tuskin,Nazim Nordén
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mixeddouble,Wenche Brinchmann,Svein Holmen,Yogesh Kumkar,Betzy Margrethe Parelius Wammer,"21/11,12/21,21/11",Wenche Brinchmann,Svein Holmen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mixeddouble,Merete Ruud Tuskin,Nazim Nordén,Wenche Brinchmann,Svein Holmen,"21/12,21/19",Merete Ruud Tuskin,Nazim Nordén
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mixeddouble,Qiang Du,Zhe Wu,Yogesh Kumkar,Betzy Margrethe Parelius Wammer,"18/21,21/19,21/17",Qiang Du,Zhe Wu
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mixeddouble,Merete Ruud Tuskin,Nazim Nordén,Yogesh Kumkar,Betzy Margrethe Parelius Wammer,"21/14,21/8",Merete Ruud Tuskin,Nazim Nordén
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN C,Mixeddouble,Wenche Brinchmann,Svein Holmen,Qiang Du,Zhe Wu,"21/16,21/18",Wenche Brinchmann,Svein Holmen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Robert Fjellanger,,Rune Lavik-Haug,"21/16,1/21,21/14",Robert Fjellanger,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Rune Lavik-Haug,,Rajendra Danve,"21/7,21/16",Rune Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Robert Fjellanger,,Øivind Storvik,"21/5,21/7",Robert Fjellanger,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Robert Fjellanger,,Trond Berg,"21/7,21/3",Robert Fjellanger,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Robert Fjellanger,,Marius Dolven,"21/14,21/10",Robert Fjellanger,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Marius Dolven,,Trond Berg,"21/13,18/21,21/17",Marius Dolven,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Øivind Storvik,,Silje Stenstad Nilsen,"21/12,21/13",Øivind Storvik,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Øivind Storvik,,Betzy Margrethe Parelius Wammer,"21/16,21/8",Øivind Storvik,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Silje Stenstad Nilsen,,Betzy Margrethe Parelius Wammer,"21/17,21/17",Silje Stenstad Nilsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Jakob Grønstøl,,Qiang Du,"21/19,22/20",Jakob Grønstøl,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Rajendra Danve,,Jakob Grønstøl,"18/21,21/19,21/16",Rajendra Danve,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Rajendra Danve,,Qiang Du,"22/20,19/21,21/11",Rajendra Danve,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Rune Lavik-Haug,,Ola Bård Langlo,"21/7,21/12",Rune Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Rune Lavik-Haug,,Hans Martin Mabäcker,"16/21,21/14,21/11",Rune Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herresingle,,Hans Martin Mabäcker,,Ola Bård Langlo,"16/21,21/12,21/17",Hans Martin Mabäcker,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herredouble,Rajendra Danve,Narasimhan Ramkumar,Merete Ruud Tuskin,Wenche Brinchmann,"21/13,21/9",Rajendra Danve,Narasimhan Ramkumar
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herredouble,Rune Lavik-Haug,Hans Martin Mabäcker,Øivind Storvik,Ola Bård Langlo,"21/19,21/19",Rune Lavik-Haug,Hans Martin Mabäcker
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herredouble,Rune Lavik-Haug,Hans Martin Mabäcker,Merete Ruud Tuskin,Wenche Brinchmann,"21/18,21/14",Rune Lavik-Haug,Hans Martin Mabäcker
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herredouble,Rajendra Danve,Narasimhan Ramkumar,Øivind Storvik,Ola Bård Langlo,"21/12,21/13",Rajendra Danve,Narasimhan Ramkumar
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herredouble,Øivind Storvik,Ola Bård Langlo,Merete Ruud Tuskin,Wenche Brinchmann,"21/18,21/11",Øivind Storvik,Ola Bård Langlo
+2021/2022,Moss Mossetreffen 2021,02.10.2021,SEN D,Herredouble,Rajendra Danve,Narasimhan Ramkumar,Rune Lavik-Haug,Hans Martin Mabäcker,"21/19,20/22,21/13",Rajendra Danve,Narasimhan Ramkumar
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herresingle,,Ludvig Trønnes,,Martin Bjørvik Løvheim,"18/21,21/18,21/10",Ludvig Trønnes,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herresingle,,Kristoffer Ravndal,,Adrian Schmidt,"21/4,21/9",Kristoffer Ravndal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herresingle,,Kristoffer Ravndal,,Martin Bjørvik Løvheim,"21/12,21/10",Kristoffer Ravndal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herresingle,,Ludvig Trønnes,,Adrian Schmidt,"21/15,21/17",Ludvig Trønnes,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herresingle,,Martin Bjørvik Løvheim,,Adrian Schmidt,"21/12,21/18",Martin Bjørvik Løvheim,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herresingle,,Kristoffer Ravndal,,Ludvig Trønnes,"19/21,21/5,21/18",Kristoffer Ravndal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herredouble,Ludvig Trønnes,Kristoffer Ravndal,Martin Bjørvik Løvheim,Adrian Schmidt,"21/16,21/9",Ludvig Trønnes,Kristoffer Ravndal
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herredouble,Sebastian Torvund,Erik Rossebø Rusten,Martin Bjørvik Løvheim,Adrian Schmidt,"21/19,18/21,22/20",Sebastian Torvund,Erik Rossebø Rusten
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 A,Herredouble,Ludvig Trønnes,Kristoffer Ravndal,Sebastian Torvund,Erik Rossebø Rusten,"21/15,21/10",Ludvig Trønnes,Kristoffer Ravndal
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Erik Rossebø Rusten,,Ryan Danie,"21/16,18/21,21/13",Erik Rossebø Rusten,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Erik Rossebø Rusten,,Iben Aleksander Thoresen,"21/7,21/3",Erik Rossebø Rusten,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Ryan Danie,,Iben Aleksander Thoresen,"21/1,21/9",Ryan Danie,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Jonathan Stenstad Brænna,,Sebastian Torvund,"21/9,21/6",Jonathan Stenstad Brænna,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Jonathan Stenstad Brænna,,Tideman Sandvik Clasén,"21/17,21/8",Jonathan Stenstad Brænna,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Tideman Sandvik Clasén,,Sebastian Torvund,"21/15,21/11",Tideman Sandvik Clasén,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Sigurd Hines Stenersen,,Ludvik Hvarnes Kristiansen,"21/10,21/17",Sigurd Hines Stenersen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Erlend Knutsen,,Ludvik Hvarnes Kristiansen,"21/2,21/0",Erlend Knutsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U11 C,Herresingle,,Erlend Knutsen,,Sigurd Hines Stenersen,"21/10,21/11",Erlend Knutsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Vinit Sharma,,Shravan Ramkumar,"16/21,21/12,21/13",Vinit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Vinit Sharma,,Andrej Nimcevic,"21/14,21/13",Vinit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Qianyang Gan,,Shravan Ramkumar,"18/21,21/17,23/21",Qianyang Gan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Shravan Ramkumar,,Shreyas Danve,"21/18,21/16",Shravan Ramkumar,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Shreyas Danve,,Qianyang Gan,"21/13,16/21,21/7",Shreyas Danve,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Andrej Nimcevic,,Jonas Sørstrand,"25/23,21/14",Andrej Nimcevic,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Andrej Nimcevic,,Joachim Nguyen,"21/13,21/18",Andrej Nimcevic,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Jonas Sørstrand,,Joachim Nguyen,"16/21,21/12,21/17",Jonas Sørstrand,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Daniel Nguyen,,Alf Marius Fasseland Hansen,"21/15,21/19",Daniel Nguyen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Vinit Sharma,,Daniel Nguyen,"21/12,21/8",Vinit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herresingle,,Vinit Sharma,,Alf Marius Fasseland Hansen,"21/8,21/0",Vinit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Varshini Manikandan,,Vera Østhassel Harman,"21/16,21/12",Varshini Manikandan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Abiramy Kokilan,,Ulrikke Sørstrand,"21/8,21/5",Abiramy Kokilan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Varshini Manikandan,,Ulrikke Sørstrand,"21/7,21/12",Varshini Manikandan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Varshini Manikandan,,Abiramy Kokilan,"19/21,21/17,21/10",Varshini Manikandan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Sarah Zeyu Du,,Martine Skjeltorp Nyborg,"21/10,21/12",Sarah Zeyu Du,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Vera Østhassel Harman,,Martine Skjeltorp Nyborg,"21/10,21/14",Vera Østhassel Harman,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damesingle,,Vera Østhassel Harman,,Sarah Zeyu Du,"19/21,21/18,21/15",Vera Østhassel Harman,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herredouble,Vinit Sharma,Joachim Nguyen,Daniel Nguyen,Alf Marius Fasseland Hansen,"21/17,21/14",Vinit Sharma,Joachim Nguyen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herredouble,Shravan Ramkumar,Shreyas Danve,Lukas Trana,Aksel Hegerstrøm Haugli,"21/11,21/5",Shravan Ramkumar,Shreyas Danve
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herredouble,Shravan Ramkumar,Shreyas Danve,Vinit Sharma,Joachim Nguyen,"21/19,21/14",Shravan Ramkumar,Shreyas Danve
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herredouble,Daniel Nguyen,Alf Marius Fasseland Hansen,Lukas Trana,Aksel Hegerstrøm Haugli,"21/13,21/6",Daniel Nguyen,Alf Marius Fasseland Hansen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herredouble,Vinit Sharma,Joachim Nguyen,Lukas Trana,Aksel Hegerstrøm Haugli,"21/8,21/19",Vinit Sharma,Joachim Nguyen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Herredouble,Shravan Ramkumar,Shreyas Danve,Daniel Nguyen,Alf Marius Fasseland Hansen,"21/12,21/16",Shravan Ramkumar,Shreyas Danve
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damedouble,Ulrikke Sørstrand,Vera Østhassel Harman,Martine Skjeltorp Nyborg,Abiramy Kokilan,"21/15,21/16",Ulrikke Sørstrand,Vera Østhassel Harman
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damedouble,Sarah Zeyu Du,Varshini Manikandan,Ulrikke Sørstrand,Vera Østhassel Harman,"21/13,21/10",Sarah Zeyu Du,Varshini Manikandan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Damedouble,Sarah Zeyu Du,Varshini Manikandan,Martine Skjeltorp Nyborg,Abiramy Kokilan,"21/14,21/17",Sarah Zeyu Du,Varshini Manikandan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Mixeddouble,Sarah Zeyu Du,Shreyas Danve,Ulrikke Sørstrand,Joachim Nguyen,"21/17,21/7",Sarah Zeyu Du,Shreyas Danve
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Mixeddouble,Shravan Ramkumar,Varshini Manikandan,Jonas Sørstrand,Vera Østhassel Harman,"21/18,21/14",Shravan Ramkumar,Varshini Manikandan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Mixeddouble,Ulrikke Sørstrand,Joachim Nguyen,Jonas Sørstrand,Vera Østhassel Harman,"23/21,14/21,21/19",Ulrikke Sørstrand,Joachim Nguyen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Mixeddouble,Sarah Zeyu Du,Shreyas Danve,Shravan Ramkumar,Varshini Manikandan,"19/21,24/22,21/19",Sarah Zeyu Du,Shreyas Danve
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Mixeddouble,Shravan Ramkumar,Varshini Manikandan,Ulrikke Sørstrand,Joachim Nguyen,"21/12,21/17",Shravan Ramkumar,Varshini Manikandan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 A,Mixeddouble,Sarah Zeyu Du,Shreyas Danve,Jonas Sørstrand,Vera Østhassel Harman,"21/17,21/14",Sarah Zeyu Du,Shreyas Danve
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Ulysse Jalut-Motte,,Kaushik Rompicharla,"21/14,21/8",Ulysse Jalut-Motte,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Ulysse Jalut-Motte,,Fredrik Paulsen Lauritsen,"21/15,21/19",Ulysse Jalut-Motte,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Aksel Hegerstrøm Haugli,,Christoffer Haukaa Pettersen,"21/18,17/21,21/19",Aksel Hegerstrøm Haugli,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Kaushik Rompicharla,,Aksel Hegerstrøm Haugli,"21/14,21/12",Kaushik Rompicharla,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Kaushik Rompicharla,,Christoffer Haukaa Pettersen,"21/12,21/12",Kaushik Rompicharla,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Ulysse Jalut-Motte,,Lorens Valentin Holmboe,"21/7,21/12",Ulysse Jalut-Motte,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Adit Amol More,,Lorens Valentin Holmboe,"21/13,21/18",Adit Amol More,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Ulysse Jalut-Motte,,Adit Amol More,"21/7,21/8",Ulysse Jalut-Motte,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Manju Keelukoppu,,Lukas Trana,"20/22,21/15,21/18",Manju Keelukoppu,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Fredrik Paulsen Lauritsen,,Lukas Trana,"21/12,21/14",Fredrik Paulsen Lauritsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U13 C,Herresingle,,Fredrik Paulsen Lauritsen,,Manju Keelukoppu,"21/19,21/15",Fredrik Paulsen Lauritsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Henrik Frende Lavik-Haug,,Deeptanshu Toka,"20/22,21/15,21/14",Henrik Frende Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Deeptanshu Toka,,Vebjørn Isberg Haugan,"21/12,21/11",Deeptanshu Toka,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Henrik Frende Lavik-Haug,,Oliver Petersen Norberg,"21/8,21/7",Henrik Frende Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Yatin Mehta,,Sondre Dolven,"21/19,21/11",Yatin Mehta,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Henrik Frende Lavik-Haug,,Yatin Mehta,"21/10,21/6",Henrik Frende Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Sondre Dolven,,Oliver Petersen Norberg,"17/21,21/14,21/15",Sondre Dolven,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Henrik Frende Lavik-Haug,,Sondre Dolven,"17/21,21/19,21/15",Henrik Frende Lavik-Haug,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Yatin Mehta,,Oliver Petersen Norberg,"21/7,21/15",Yatin Mehta,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Ola Helgerød,,Nemanja Nimcevic,"21/16,21/18",Ola Helgerød,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Vebjørn Isberg Haugan,,Jon Vidar Jonsson,"21/17,21/17",Vebjørn Isberg Haugan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Vebjørn Isberg Haugan,,Nemanja Nimcevic,"21/10,21/12",Vebjørn Isberg Haugan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Jon Vidar Jonsson,,Ola Helgerød,"22/20,21/18",Jon Vidar Jonsson,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Jon Vidar Jonsson,,Nemanja Nimcevic,"21/13,17/21,21/18",Jon Vidar Jonsson,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Vebjørn Isberg Haugan,,Ola Helgerød,"21/5,21/13",Vebjørn Isberg Haugan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Deeptanshu Toka,,Johan Zang,"21/17,21/15",Deeptanshu Toka,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Deeptanshu Toka,,David Nguyen,"21/5,21/18",Deeptanshu Toka,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herresingle,,Johan Zang,,David Nguyen,"21/9,21/7",Johan Zang,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herredouble,Yatin Mehta,Sondre Dolven,Deeptanshu Toka,Vebjørn Isberg Haugan,"21/19,21/19",Yatin Mehta,Sondre Dolven
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herredouble,Yatin Mehta,Sondre Dolven,David Nguyen,Jonas Sørstrand,"21/7,21/4",Yatin Mehta,Sondre Dolven
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herredouble,Oliver Petersen Norberg,Jon Vidar Jonsson,Nemanja Nimcevic,Andrej Nimcevic,"21/8,21/11",Oliver Petersen Norberg,Jon Vidar Jonsson
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herredouble,Deeptanshu Toka,Vebjørn Isberg Haugan,Nemanja Nimcevic,Andrej Nimcevic,"21/9,21/11",Deeptanshu Toka,Vebjørn Isberg Haugan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Herredouble,Deeptanshu Toka,Vebjørn Isberg Haugan,Oliver Petersen Norberg,Jon Vidar Jonsson,"23/21,21/16",Deeptanshu Toka,Vebjørn Isberg Haugan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Mixeddouble,Victoria Heiberg,Deeptanshu Toka,Hannah Wong,Vebjørn Isberg Haugan,"21/7,21/11",Victoria Heiberg,Deeptanshu Toka
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Mixeddouble,Victoria Heiberg,Deeptanshu Toka,Yatin Mehta,Nancy Hang,"22/20,21/12",Victoria Heiberg,Deeptanshu Toka
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 A,Mixeddouble,Yatin Mehta,Nancy Hang,Hannah Wong,Vebjørn Isberg Haugan,"21/18,21/15",Yatin Mehta,Nancy Hang
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Bryan Javier Matland,,Theodor J. Myrvoll,"21/16,21/13",Bryan Javier Matland,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Theodor J. Myrvoll,,Alexander Allport Fossum,"21/16,21/12",Theodor J. Myrvoll,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Bryan Javier Matland,,Teodor Moen-Kristiansen,"21/14,21/13",Bryan Javier Matland,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Bryan Javier Matland,,Srijan Karthik Kancherla,"21/15,20/22,21/12",Bryan Javier Matland,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Theodor J. Myrvoll,,Kasper Berg,"21/9,21/7",Theodor J. Myrvoll,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Kasper Berg,,Emil Bones,"21/15,21/10",Kasper Berg,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Theodor J. Myrvoll,,Emil Bones,"21/7,21/4",Theodor J. Myrvoll,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Alexander Allport Fossum,,Christoffer Svendsen,"21/12,21/8",Alexander Allport Fossum,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Sebastian Ngan,,Christoffer Svendsen,"21/3,21/5",Sebastian Ngan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Alexander Allport Fossum,,Sebastian Ngan,"21/14,21/19",Alexander Allport Fossum,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Magnus Søderholm,,Ulrick Edner Høilund,"21/17,19/21,21/18",Magnus Søderholm,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Srijan Karthik Kancherla,,Ulrick Edner Høilund,"21/7,21/10",Srijan Karthik Kancherla,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Srijan Karthik Kancherla,,Magnus Søderholm,"21/10,21/9",Srijan Karthik Kancherla,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Bryan Javier Matland,,Filip Roer Andersen,"21/1,21/0",Bryan Javier Matland,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Bryan Javier Matland,,Aksel Holth,"21/11,21/12",Bryan Javier Matland,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Birk Wangensteen,,Jonathan Dahlstrøm,"21/10,21/13",Birk Wangensteen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Teodor Moen-Kristiansen,,Felix Rostad,"21/7,21/17",Teodor Moen-Kristiansen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Teodor Moen-Kristiansen,,Jonathan Dahlstrøm,"21/10,21/10",Teodor Moen-Kristiansen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Birk Wangensteen,,Felix Rostad,"22/20,21/13",Birk Wangensteen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Jonathan Dahlstrøm,,Felix Rostad,"21/18,21/16",Jonathan Dahlstrøm,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herresingle,,Teodor Moen-Kristiansen,,Birk Wangensteen,"21/9,21/16",Teodor Moen-Kristiansen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Johan Zang,Qianyang Gan,Aksel Holth,Felix Rostad,"21/8,21/5",Johan Zang,Qianyang Gan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Aksel Holth,Felix Rostad,Birk Wangensteen,Anton Thomas Hansen,"15/21,21/5,21/11",Aksel Holth,Felix Rostad
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Johan Zang,Qianyang Gan,Emil Bones,Magnus Søderholm,"21/6,21/2",Johan Zang,Qianyang Gan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Srijan Karthik Kancherla,Christoffer Svendsen,Theodor J. Myrvoll,Lorens Valentin Holmboe,"21/9,21/17",Srijan Karthik Kancherla,Christoffer Svendsen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Johan Zang,Qianyang Gan,Theodor J. Myrvoll,Lorens Valentin Holmboe,"21/6,21/8",Johan Zang,Qianyang Gan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Srijan Karthik Kancherla,Christoffer Svendsen,Emil Bones,Magnus Søderholm,"21/14,21/16",Srijan Karthik Kancherla,Christoffer Svendsen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Johan Zang,Qianyang Gan,Srijan Karthik Kancherla,Christoffer Svendsen,"21/2,21/12",Johan Zang,Qianyang Gan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U15 C,Herredouble,Theodor J. Myrvoll,Lorens Valentin Holmboe,Emil Bones,Magnus Søderholm,"21/16,20/22,21/17",Theodor J. Myrvoll,Lorens Valentin Holmboe
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Adit Sharma,,Truls Helgerød,"21/19,18/21,21/18",Adit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Truls Helgerød,,Varun Manikandan,"21/15,13/21,21/17",Truls Helgerød,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Haakon Lærkerød Jelsness,,Noah Østhassel Harman,"21/5,21/5",Haakon Lærkerød Jelsness,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Varun Manikandan,,Noah Østhassel Harman,"21/7,21/8",Varun Manikandan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Truls Helgerød,,Haakon Lærkerød Jelsness,"19/21,21/14,21/14",Truls Helgerød,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Varun Manikandan,,Haakon Lærkerød Jelsness,"21/12,21/16",Varun Manikandan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Truls Helgerød,,Noah Østhassel Harman,"21/11,21/7",Truls Helgerød,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Bawi Nun Lian Rakha,,Fredrik Heiberg,"21/5,21/12",Bawi Nun Lian Rakha,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Adit Sharma,,Måns Anders Lund Mabäcker,"21/17,21/12",Adit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Bawi Nun Lian Rakha,,Måns Anders Lund Mabäcker,"21/13,15/21,21/13",Bawi Nun Lian Rakha,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Adit Sharma,,Fredrik Heiberg,"21/13,21/9",Adit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Adit Sharma,,Bawi Nun Lian Rakha,"22/20,21/18",Adit Sharma,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herresingle,,Måns Anders Lund Mabäcker,,Fredrik Heiberg,"21/11,21/10",Måns Anders Lund Mabäcker,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Mina Korssund,"21/11,21/12",Kristine  Grande Ødegårdstuen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Emma Yasmin Ruud,"21/16,21/11",Kristine  Grande Ødegårdstuen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Oline Hanssen,,Nancy Hang,"21/11,21/12",Oline Hanssen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Mina Korssund,,Oline Hanssen,"21/5,21/7",Mina Korssund,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Mina Korssund,,Nancy Hang,"21/3,21/5",Mina Korssund,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Laura Zeying Du,,Milla Maevski,"21/12,13/21,21/15",Laura Zeying Du,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Emma Yasmin Ruud,,Laura Zeying Du,"21/10,21/16",Emma Yasmin Ruud,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Emma Yasmin Ruud,,Milla Maevski,"21/3,21/15",Emma Yasmin Ruud,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Mikaela Stordal,,Victoria Heiberg,"21/16,16/21,21/18",Mikaela Stordal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Mikaela Stordal,"21/7,21/13",Kristine  Grande Ødegårdstuen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Victoria Heiberg,"21/10,21/7",Kristine  Grande Ødegårdstuen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herredouble,Adit Sharma,Varun Manikandan,Noah Østhassel Harman,Truls Helgerød,"21/11,21/6",Adit Sharma,Varun Manikandan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herredouble,Adit Sharma,Varun Manikandan,Fredrik Heiberg,Henrik Frende Lavik-Haug,"21/6,21/0",Adit Sharma,Varun Manikandan
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herredouble,Eirik Wallentin,Pelle Cornelius Nordeide,Benjamin Hagberg-Olsen,Ola Helgerød,"21/12,21/15",Eirik Wallentin,Pelle Cornelius Nordeide
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herredouble,Noah Østhassel Harman,Truls Helgerød,Eirik Wallentin,Pelle Cornelius Nordeide,"21/8,21/17",Noah Østhassel Harman,Truls Helgerød
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Herredouble,Noah Østhassel Harman,Truls Helgerød,Benjamin Hagberg-Olsen,Ola Helgerød,"21/9,21/15",Noah Østhassel Harman,Truls Helgerød
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damedouble,Oline Hanssen,Mia Emilie Utne Kristiansen,Nancy Hang,Victoria Heiberg,"21/17,13/21,21/15",Oline Hanssen,Mia Emilie Utne Kristiansen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damedouble,Kristine  Grande Ødegårdstuen,Mina Korssund,Sofie Jin Reistadbakk,Emma Yasmin Ruud,"21/12,21/15",Kristine  Grande Ødegårdstuen,Mina Korssund
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damedouble,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Oline Hanssen,Mia Emilie Utne Kristiansen,"21/1,21/7",Sofie Jin Reistadbakk,Emma Yasmin Ruud
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damedouble,Kristine  Grande Ødegårdstuen,Mina Korssund,Nancy Hang,Victoria Heiberg,"21/7,21/8",Kristine  Grande Ødegårdstuen,Mina Korssund
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damedouble,Kristine  Grande Ødegårdstuen,Mina Korssund,Oline Hanssen,Mia Emilie Utne Kristiansen,"21/5,21/10",Kristine  Grande Ødegårdstuen,Mina Korssund
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Damedouble,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Nancy Hang,Victoria Heiberg,"21/7,21/11",Sofie Jin Reistadbakk,Emma Yasmin Ruud
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Mixeddouble,Christer Andersen,Kristine  Grande Ødegårdstuen,Laura Zeying Du,Bawi Nun Lian Rakha,"21/10,21/6",Christer Andersen,Kristine  Grande Ødegårdstuen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Mixeddouble,Christer Andersen,Kristine  Grande Ødegårdstuen,Fredrik Heiberg,Mikaela Stordal,"21/4,21/8",Christer Andersen,Kristine  Grande Ødegårdstuen
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Mixeddouble,Laura Zeying Du,Bawi Nun Lian Rakha,Oline Hanssen,Måns Anders Lund Mabäcker,"17/21,23/21,21/11",Laura Zeying Du,Bawi Nun Lian Rakha
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Mixeddouble,Laura Zeying Du,Bawi Nun Lian Rakha,Haakon Lærkerød Jelsness,Emma Yasmin Ruud,"16/21,21/15,21/18",Laura Zeying Du,Bawi Nun Lian Rakha
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 A,Mixeddouble,Haakon Lærkerød Jelsness,Emma Yasmin Ruud,Oline Hanssen,Måns Anders Lund Mabäcker,"21/7,21/12",Haakon Lærkerød Jelsness,Emma Yasmin Ruud
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 B,Herresingle,,Simen Knutsen,,Eirik Wallentin,"21/19,21/17",Simen Knutsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 B,Herresingle,,Agarna Kokilan,,Benjamin Hagberg-Olsen,"21/4,21/18",Agarna Kokilan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 B,Herresingle,,Simen Knutsen,,Benjamin Hagberg-Olsen,"21/8,21/10",Simen Knutsen,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 B,Herresingle,,Agarna Kokilan,,Eirik Wallentin,"21/13,21/15",Agarna Kokilan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 B,Herresingle,,Agarna Kokilan,,Simen Knutsen,"24/22,21/16",Agarna Kokilan,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 B,Herresingle,,Eirik Wallentin,,Benjamin Hagberg-Olsen,"21/14,21/12",Eirik Wallentin,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Herresingle,,Oscar Øisjøfoss Sørheim,,Bamo Kalik Hamid,"21/7,16/21,21/14",Oscar Øisjøfoss Sørheim,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Herresingle,,Pelle Cornelius Nordeide,,Erik Andersen Langedal,"21/15,21/11",Pelle Cornelius Nordeide,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Herresingle,,Erik Andersen Langedal,,Oscar Øisjøfoss Sørheim,"21/17,21/13",Erik Andersen Langedal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Herresingle,,Pelle Cornelius Nordeide,,Bamo Kalik Hamid,"21/11,21/8",Pelle Cornelius Nordeide,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Herresingle,,Pelle Cornelius Nordeide,,Oscar Øisjøfoss Sørheim,"21/19,21/4",Pelle Cornelius Nordeide,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Herresingle,,Erik Andersen Langedal,,Bamo Kalik Hamid,"21/8,21/9",Erik Andersen Langedal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Helene A. Toverud,,Minelli Marrin Mervin,"21/19,21/19",Helene A. Toverud,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Minelli Marrin Mervin,,Simeja Jukonyte,"21/1,21/3",Minelli Marrin Mervin,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Minelli Marrin Mervin,,Julie Norberg,"21/16,21/18",Minelli Marrin Mervin,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Hannah Wong,,Frida Lavik-Haug,"21/8,21/3",Hannah Wong,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Helene A. Toverud,,Mia Mysen-Sandal,"18/21,21/10,21/16",Helene A. Toverud,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Helene A. Toverud,,Hannah Wong,"21/16,21/14",Helene A. Toverud,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Mia Mysen-Sandal,,Frida Lavik-Haug,"21/1,21/4",Mia Mysen-Sandal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Mia Mysen-Sandal,,Hannah Wong,"21/16,21/19",Mia Mysen-Sandal,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damesingle,,Helene A. Toverud,,Frida Lavik-Haug,"21/3,21/5",Helene A. Toverud,
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Damedouble,Julie Norberg,Helene A. Toverud,Frida Lavik-Haug,Mikaela Stordal,"21/14,21/12",Julie Norberg,Helene A. Toverud
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Mixeddouble,Julie Norberg,Eirik Wallentin,Frida Lavik-Haug,Henrik Frende Lavik-Haug,"22/20,21/17",Julie Norberg,Eirik Wallentin
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Mixeddouble,Helene A. Toverud,Pelle Cornelius Nordeide,Julie Norberg,Eirik Wallentin,"11/21,22/20,21/16",Helene A. Toverud,Pelle Cornelius Nordeide
+2021/2022,Moss Mossetreffen 2021,02.10.2021,U17 C,Mixeddouble,Helene A. Toverud,Pelle Cornelius Nordeide,Frida Lavik-Haug,Henrik Frende Lavik-Haug,"21/10,21/16",Helene A. Toverud,Pelle Cornelius Nordeide

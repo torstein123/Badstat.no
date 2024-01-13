@@ -1,404 +1,291 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Carl Christian Mork,Elisa Wiborg,Celina Nha-Mi-Thanh,Jan Malamant,"21/10,21/13",Carl Christian Mork,Elisa Wiborg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Anita Bui,Thomas Kleveland,Avinash Avi,Luna Vassallo,"21/12,22/20",Anita Bui,Thomas Kleveland
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Carl Christian Mork,Elisa Wiborg,Avinash Avi,Luna Vassallo,"21/8,21/10",Carl Christian Mork,Elisa Wiborg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Carl Christian Mork,Elisa Wiborg,Anita Bui,Thomas Kleveland,"21/12,21/11",Carl Christian Mork,Elisa Wiborg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Berit Thyness,Magnus Tjøm,Nora Uri Malterud,Timothée Le,"21/11,21/5",Berit Thyness,Magnus Tjøm
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Celina Nha-Mi-Thanh,Jan Malamant,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,"21/13,21/15",Celina Nha-Mi-Thanh,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Berit Thyness,Magnus Tjøm,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,"21/16,19/21,21/18",Berit Thyness,Magnus Tjøm
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Celina Nha-Mi-Thanh,Jan Malamant,Nora Uri Malterud,Timothée Le,"18/21,21/6,21/7",Celina Nha-Mi-Thanh,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Celina Nha-Mi-Thanh,Jan Malamant,Berit Thyness,Magnus Tjøm,"17/21,21/14,21/9",Celina Nha-Mi-Thanh,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,Nora Uri Malterud,Timothée Le,"21/19,21/19",Vilma Aasheim-Engen,Måns Anders Lund Mabäcker
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Kenneth Bayeng Sanglay,"21/12,21/8",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Avinash Avi,"21/14,21/9",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Kenneth Bayeng Sanglay,,Sondre Sefland,"21/14,21/8",Kenneth Bayeng Sanglay,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Magnus Tjøm,,Deeptanshu Toka,"21/19,21/18",Magnus Tjøm,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Magnus Tjøm,,Sondre Sefland,"21/3,21/11",Magnus Tjøm,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Deeptanshu Toka,,Kenneth Bayeng Sanglay,"21/14,19/21,21/12",Deeptanshu Toka,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Deeptanshu Toka,,Sondre Sefland,"21/17,21/14",Deeptanshu Toka,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Kenneth Bayeng Sanglay,,Magnus Tjøm,"21/19,21/16",Kenneth Bayeng Sanglay,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Avinash Avi,,Jan Malamant,"21/16,7/21,21/15",Avinash Avi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Avinash Avi,,Måns Anders Lund Mabäcker,"21/17,21/12",Avinash Avi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Jan Malamant,,Måns Anders Lund Mabäcker,"21/14,21/14",Jan Malamant,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Thomas Kleveland,"21/13,21/16",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Thomas Kleveland,,Erling Homme,"21/17,21/15",Thomas Kleveland,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Erling Homme,"21/13,21/11",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Kenneth Bayeng Sanglay,"21/12,21/8",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Avinash Avi,"21/14,21/9",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Kenneth Bayeng Sanglay,,Sondre Sefland,"21/14,21/8",Kenneth Bayeng Sanglay,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Magnus Tjøm,,Deeptanshu Toka,"21/19,21/18",Magnus Tjøm,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Magnus Tjøm,,Sondre Sefland,"21/3,21/11",Magnus Tjøm,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Deeptanshu Toka,,Kenneth Bayeng Sanglay,"21/14,19/21,21/12",Deeptanshu Toka,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Deeptanshu Toka,,Sondre Sefland,"21/17,21/14",Deeptanshu Toka,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Kenneth Bayeng Sanglay,,Magnus Tjøm,"21/19,21/16",Kenneth Bayeng Sanglay,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Avinash Avi,,Jan Malamant,"21/16,7/21,21/15",Avinash Avi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Avinash Avi,,Måns Anders Lund Mabäcker,"21/17,21/12",Avinash Avi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Jan Malamant,,Måns Anders Lund Mabäcker,"21/14,21/14",Jan Malamant,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Thomas Kleveland,"21/13,21/16",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Thomas Kleveland,,Erling Homme,"21/17,21/15",Thomas Kleveland,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Edvin Ståhl,,Erling Homme,"21/13,21/11",Edvin Ståhl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Vilma Aasheim-Engen,,Berit Thyness,"17/21,21/19,23/21",Vilma Aasheim-Engen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Luna Vassallo,,Dowon Kwak,"21/10,21/19",Luna Vassallo,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Berit Thyness,,Luna Vassallo,"21/15,21/17",Berit Thyness,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Berit Thyness,,Dowon Kwak,"17/21,21/11,21/6",Berit Thyness,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Celina Nha-Mi-Thanh,,Anita Bui,"21/7,21/14",Celina Nha-Mi-Thanh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Vilma Aasheim-Engen,,Celina Nha-Mi-Thanh,"21/14,21/11",Vilma Aasheim-Engen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,,Vilma Aasheim-Engen,,Anita Bui,"21/13,21/13",Vilma Aasheim-Engen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Carl Christian Mork,Deeptanshu Toka,Avinash Avi,Jan Malamant,"21/19,21/15",Carl Christian Mork,Deeptanshu Toka
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Carl Christian Mork,Deeptanshu Toka,Kenneth Bayeng Sanglay,Wesley Man-Ho Cheung,"21/8,21/6",Carl Christian Mork,Deeptanshu Toka
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Aleksander Jakovlevs,John Nguyen,Sondre Sefland,Wenyue Yu,"21/12,21/12",Aleksander Jakovlevs,John Nguyen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Sondre Sefland,Wenyue Yu,Kenneth Bayeng Sanglay,Wesley Man-Ho Cheung,"21/12,21/14",Sondre Sefland,Wenyue Yu
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Carl Christian Mork,Deeptanshu Toka,Aleksander Jakovlevs,John Nguyen,"17/21,21/17,21/14",Carl Christian Mork,Deeptanshu Toka
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Aleksander Jakovlevs,John Nguyen,Kenneth Bayeng Sanglay,Wesley Man-Ho Cheung,"21/12,21/8",Aleksander Jakovlevs,John Nguyen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Carl Christian Mork,Deeptanshu Toka,Sondre Sefland,Wenyue Yu,"21/13,21/13",Carl Christian Mork,Deeptanshu Toka
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Avinash Avi,Jan Malamant,Magnus Tjøm,Måns Anders Lund Mabäcker,"18/21,21/15,21/11",Avinash Avi,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,David Wong,Ram Kumar,Sahil Wadhawan,Timothée Le,"20/22,21/16,21/16",David Wong,Ram Kumar
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Avinash Avi,Jan Malamant,David Wong,Ram Kumar,"21/19,22/24,21/13",Avinash Avi,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Sahil Wadhawan,Timothée Le,Magnus Tjøm,Måns Anders Lund Mabäcker,"21/19,21/15",Sahil Wadhawan,Timothée Le
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Avinash Avi,Jan Malamant,Sahil Wadhawan,Timothée Le,"23/21,17/21,22/20",Avinash Avi,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,David Wong,Ram Kumar,Magnus Tjøm,Måns Anders Lund Mabäcker,"21/15,21/18",David Wong,Ram Kumar
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Agnieszka Krzysztoń,Luna Vassallo,Anita Bui,Nora Uri Malterud,"25/23,22/20",Agnieszka Krzysztoń,Luna Vassallo
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Elisa Wiborg,Malin Andersson,Gladys Jude Lourderajan,Vidya Gouli,"21/6,21/6",Elisa Wiborg,Malin Andersson
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Anita Bui,Nora Uri Malterud,Gladys Jude Lourderajan,Vidya Gouli,"21/13,21/12",Anita Bui,Nora Uri Malterud
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Agnieszka Krzysztoń,Luna Vassallo,Dowon Kwak,Kamonthip Charoenphanit,"17/21,21/16,21/15",Agnieszka Krzysztoń,Luna Vassallo
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Dowon Kwak,Kamonthip Charoenphanit,Anita Bui,Nora Uri Malterud,"20/22,21/19,21/17",Dowon Kwak,Kamonthip Charoenphanit
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Elisa Wiborg,Malin Andersson,Agnieszka Krzysztoń,Luna Vassallo,"21/10,21/14",Elisa Wiborg,Malin Andersson
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Elisa Wiborg,Malin Andersson,Anita Bui,Nora Uri Malterud,"21/8,21/9",Elisa Wiborg,Malin Andersson
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Dowon Kwak,Kamonthip Charoenphanit,Gladys Jude Lourderajan,Vidya Gouli,"21/7,21/11",Dowon Kwak,Kamonthip Charoenphanit
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Agnieszka Krzysztoń,Luna Vassallo,Gladys Jude Lourderajan,Vidya Gouli,"21/13,21/4",Agnieszka Krzysztoń,Luna Vassallo
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Elisa Wiborg,Malin Andersson,Dowon Kwak,Kamonthip Charoenphanit,"21/11,21/13",Elisa Wiborg,Malin Andersson
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Tan Quach Le,,Johnny Lam,"21/10,21/17",Tan Quach Le,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Tan Quach Le,,Sofie Jin Reistadbakk,"21/12,18/21,21/9",Tan Quach Le,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Jay Janaskar,,Tan Quach Le,"21/13,21/23,23/21",Jay Janaskar,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Sofie Jin Reistadbakk,,Jay Janaskar,"17/21,21/13,24/22",Sofie Jin Reistadbakk,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Huy Thai Dang Cao,,Sourav Kumar Mishra,"20/22,21/11,21/8",Huy Thai Dang Cao,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Johnny Lam,,Imran SahebBedadhaluri,"21/12,21/13",Johnny Lam,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Imran SahebBedadhaluri,,Sourav Kumar Mishra,"21/12,21/17",Imran SahebBedadhaluri,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Johnny Lam,,Huy Thai Dang Cao,"21/15,10/21,24/22",Johnny Lam,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Johnny Lam,,Sourav Kumar Mishra,"21/4,21/13",Johnny Lam,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Imran SahebBedadhaluri,,Huy Thai Dang Cao,"21/18,26/24",Imran SahebBedadhaluri,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Tan Quach Le,,Johnny Lam,"21/10,21/17",Tan Quach Le,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Tan Quach Le,,Sofie Jin Reistadbakk,"21/12,18/21,21/9",Tan Quach Le,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Jay Janaskar,,Tan Quach Le,"21/13,21/23,23/21",Jay Janaskar,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Sofie Jin Reistadbakk,,Jay Janaskar,"17/21,21/13,24/22",Sofie Jin Reistadbakk,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Huy Thai Dang Cao,,Sourav Kumar Mishra,"20/22,21/11,21/8",Huy Thai Dang Cao,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Johnny Lam,,Imran SahebBedadhaluri,"21/12,21/13",Johnny Lam,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Imran SahebBedadhaluri,,Sourav Kumar Mishra,"21/12,21/17",Imran SahebBedadhaluri,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Johnny Lam,,Huy Thai Dang Cao,"21/15,10/21,24/22",Johnny Lam,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Johnny Lam,,Sourav Kumar Mishra,"21/4,21/13",Johnny Lam,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,,Imran SahebBedadhaluri,,Huy Thai Dang Cao,"21/18,26/24",Imran SahebBedadhaluri,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Tan Quach Le,Erling Homme,Kim Christensen,Knut Morten Engen,"21/12,21/23,21/16",Tan Quach Le,Erling Homme
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Tan Quach Le,Erling Homme,Sourav Kumar Mishra,Lars Eirik L. Nilsen,"18/21,21/8,21/15",Tan Quach Le,Erling Homme
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Kim Christensen,Knut Morten Engen,Adil Mahmood,Khalil  Akram,"19/21,21/15,21/13",Kim Christensen,Knut Morten Engen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Tan Quach Le,Erling Homme,Asghar Mahmood,Muhammad Sajjad Ahmad,"21/15,21/13",Tan Quach Le,Erling Homme
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Tan Quach Le,Erling Homme,Devendra Rameshwarsingh,Imran SahebBedadhaluri,"23/21,21/14",Tan Quach Le,Erling Homme
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Asghar Mahmood,Muhammad Sajjad Ahmad,Devendra Rameshwarsingh,Imran SahebBedadhaluri,"21/11,21/18",Asghar Mahmood,Muhammad Sajjad Ahmad
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Sourav Kumar Mishra,Lars Eirik L. Nilsen,Sanjayan uthayakumar,Thineskumar Logeswaran,"19/21,21/11,23/21",Sourav Kumar Mishra,Lars Eirik L. Nilsen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Sourav Kumar Mishra,Lars Eirik L. Nilsen,Luis Anmarkrud,Snorri Hansson Engen,"19/21,21/19,21/19",Sourav Kumar Mishra,Lars Eirik L. Nilsen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Sanjayan uthayakumar,Thineskumar Logeswaran,Luis Anmarkrud,Snorri Hansson Engen,"21/18,15/21,21/17",Sanjayan uthayakumar,Thineskumar Logeswaran
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Vasanthan Nadarasah,Ramesh Vinayaga,Shiliang Zhang,Tzu-shuo Liu,"21/16,21/17",Vasanthan Nadarasah,Ramesh Vinayaga
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Kim Christensen,Knut Morten Engen,Gaurav Sharma,Qadeer Alvi,"20/22,21/15,21/16",Kim Christensen,Knut Morten Engen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Vasanthan Nadarasah,Ramesh Vinayaga,Gaurav Sharma,Qadeer Alvi,"21/18,22/20",Vasanthan Nadarasah,Ramesh Vinayaga
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Kim Christensen,Knut Morten Engen,Shiliang Zhang,Tzu-shuo Liu,"21/15,23/21",Kim Christensen,Knut Morten Engen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Kim Christensen,Knut Morten Engen,Vasanthan Nadarasah,Ramesh Vinayaga,"21/18,21/23,21/17",Kim Christensen,Knut Morten Engen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Gaurav Sharma,Qadeer Alvi,Shiliang Zhang,Tzu-shuo Liu,"21/18,22/20",Gaurav Sharma,Qadeer Alvi
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Bjørn Rakstang,Aljeruh Anthony Luminarias,Johnny Lam,Xiao Zhang,"18/21,21/5,21/19",Bjørn Rakstang,Aljeruh Anthony Luminarias
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Adil Mahmood,Khalil  Akram,Johnny Lam,Xiao Zhang,"21/8,21/11",Adil Mahmood,Khalil  Akram
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Adil Mahmood,Khalil  Akram,Bjørn Rakstang,Aljeruh Anthony Luminarias,"21/11,21/14",Adil Mahmood,Khalil  Akram
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Thineskumar Logeswaran,"21/10,22/20",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Ashwin Nambiaruveettil,"21/10,21/14",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Bjørn Rakstang,,Sindre Thoresen,"21/16,21/12",Bjørn Rakstang,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Thineskumar Logeswaran,,Hans Martin Mabäcker,"21/19,12/21,21/19",Thineskumar Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Bjørn Rakstang,,Hans Martin Mabäcker,"21/18,21/10",Bjørn Rakstang,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Thineskumar Logeswaran,,Sindre Thoresen,"21/14,21/13",Thineskumar Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Thineskumar Logeswaran,,Bjørn Rakstang,"21/12,19/21,22/20",Thineskumar Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Hans Martin Mabäcker,,Sindre Thoresen,"25/23,21/19",Hans Martin Mabäcker,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Ramakrishna Punjal,,Shafiq Muhammad,"23/21,21/8",Ramakrishna Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Ashwin Nambiaruveettil,,Shafiq Muhammad,"24/22,19/21,21/19",Ashwin Nambiaruveettil,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Ashwin Nambiaruveettil,,Ramakrishna Punjal,"24/22,21/23,21/9",Ashwin Nambiaruveettil,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Sanjayan uthayakumar,"21/7,23/21",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Sanjayan uthayakumar,,Oscar Øisjøfoss Sørheim,"21/13,21/15",Sanjayan uthayakumar,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Oscar Øisjøfoss Sørheim,"21/7,21/11",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Thineskumar Logeswaran,"21/10,22/20",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Ashwin Nambiaruveettil,"21/10,21/14",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Bjørn Rakstang,,Sindre Thoresen,"21/16,21/12",Bjørn Rakstang,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Thineskumar Logeswaran,,Hans Martin Mabäcker,"21/19,12/21,21/19",Thineskumar Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Bjørn Rakstang,,Hans Martin Mabäcker,"21/18,21/10",Bjørn Rakstang,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Thineskumar Logeswaran,,Sindre Thoresen,"21/14,21/13",Thineskumar Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Thineskumar Logeswaran,,Bjørn Rakstang,"21/12,19/21,22/20",Thineskumar Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Hans Martin Mabäcker,,Sindre Thoresen,"25/23,21/19",Hans Martin Mabäcker,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Ramakrishna Punjal,,Shafiq Muhammad,"23/21,21/8",Ramakrishna Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Ashwin Nambiaruveettil,,Shafiq Muhammad,"24/22,19/21,21/19",Ashwin Nambiaruveettil,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Ashwin Nambiaruveettil,,Ramakrishna Punjal,"24/22,21/23,21/9",Ashwin Nambiaruveettil,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Sanjayan uthayakumar,"21/7,23/21",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Sanjayan uthayakumar,,Oscar Øisjøfoss Sørheim,"21/13,21/15",Sanjayan uthayakumar,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Babu Stalin,,Oscar Øisjøfoss Sørheim,"21/7,21/11",Babu Stalin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Wania Kamran,,Mila Knutsen Lillehagen,"17/21,21/10,21/9",Wania Kamran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Xiao Zhang,,Vidya Gouli,"21/15,21/19",Xiao Zhang,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Wania Kamran,,Xiao Zhang,"21/18,21/19",Wania Kamran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Vidya Gouli,,Mila Knutsen Lillehagen,"21/10,22/20",Vidya Gouli,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Vidya Gouli,,Wania Kamran,"24/22,16/21,21/19",Vidya Gouli,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,,Xiao Zhang,,Mila Knutsen Lillehagen,"21/12,21/4",Xiao Zhang,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Edvin Ståhl,Emil Steffensen,Vijay Krishnan,Shyam Sunder Durai Pandiyan,"21/12,21/7",Edvin Ståhl,Emil Steffensen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Edvin Ståhl,Emil Steffensen,Sindre Thoresen,Ashwin Nambiaruveettil,"21/5,21/6",Edvin Ståhl,Emil Steffensen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Hans Martin Mabäcker,Stian Sveberg,"21/17,21/12",Vijay Krishnan,Shyam Sunder Durai Pandiyan
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Edvin Ståhl,Emil Steffensen,Tanveer Ashraf,Kanwal Agnihotri,"21/6,21/6",Edvin Ståhl,Emil Steffensen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Vaibhav Bansal,Bharat Busan,Tanveer Ashraf,Kanwal Agnihotri,"21/7,21/13",Vaibhav Bansal,Bharat Busan
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Edvin Ståhl,Emil Steffensen,Vaibhav Bansal,Bharat Busan,"21/14,21/13",Edvin Ståhl,Emil Steffensen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Palany Subramaniam,Madhusudan Pareek,Keerthi Vasan,Maheshraja Kaduganur Venkatesan,"13/21,21/9,21/14",Palany Subramaniam,Madhusudan Pareek
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sindre Thoresen,Ashwin Nambiaruveettil,Mads Nikolaj Bjerre,Ranjan Sahu,"21/15,21/18",Sindre Thoresen,Ashwin Nambiaruveettil
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sindre Thoresen,Ashwin Nambiaruveettil,Palany Subramaniam,Madhusudan Pareek,"21/14,21/17",Sindre Thoresen,Ashwin Nambiaruveettil
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Keerthi Vasan,Maheshraja Kaduganur Venkatesan,Mads Nikolaj Bjerre,Ranjan Sahu,"21/16,10/21,21/19",Keerthi Vasan,Maheshraja Kaduganur Venkatesan
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mads Nikolaj Bjerre,Ranjan Sahu,Palany Subramaniam,Madhusudan Pareek,"21/17,21/12",Mads Nikolaj Bjerre,Ranjan Sahu
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sindre Thoresen,Ashwin Nambiaruveettil,Keerthi Vasan,Maheshraja Kaduganur Venkatesan,"22/20,21/19",Sindre Thoresen,Ashwin Nambiaruveettil
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Nitin Chawla,Mayank Padney,"21/14,21/12",Vijay Krishnan,Shyam Sunder Durai Pandiyan
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sajid Imran,Naveed Zafar,Kjetil Io,Prakash Patel,"21/12,21/14",Sajid Imran,Naveed Zafar
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Kjetil Io,Prakash Patel,Nitin Chawla,Mayank Padney,"21/15,21/12",Kjetil Io,Prakash Patel
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Sajid Imran,Naveed Zafar,"27/29,23/21,21/17",Vijay Krishnan,Shyam Sunder Durai Pandiyan
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sajid Imran,Naveed Zafar,Nitin Chawla,Mayank Padney,"21/7,21/11",Sajid Imran,Naveed Zafar
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Kjetil Io,Prakash Patel,"21/11,21/9",Vijay Krishnan,Shyam Sunder Durai Pandiyan
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Hans Martin Mabäcker,Stian Sveberg,Ramakrishna Punjal,Veeranjaneyulu Toka,"21/12,21/18",Hans Martin Mabäcker,Stian Sveberg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Hans Martin Mabäcker,Stian Sveberg,Faisal Mahmud Khokhar,Usman Babar,"21/14,22/20",Hans Martin Mabäcker,Stian Sveberg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Ramakrishna Punjal,Veeranjaneyulu Toka,Faisal Mahmud Khokhar,Usman Babar,"21/19,13/21,21/19",Ramakrishna Punjal,Veeranjaneyulu Toka
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sania Kamran,Wania Kamran,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/15,21/6",Sania Kamran,Wania Kamran
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Malathy Subramaniam,Minelli Marrin Mervin,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,"21/7,21/17",Malathy Subramaniam,Minelli Marrin Mervin
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sania Kamran,Wania Kamran,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,"21/14,21/11",Sania Kamran,Wania Kamran
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Danalakshmi Gopal,Sayanthini Vijayatheeban,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/11,21/7",Danalakshmi Gopal,Sayanthini Vijayatheeban
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Sania Kamran,Wania Kamran,Danalakshmi Gopal,Sayanthini Vijayatheeban,"23/21,21/16",Sania Kamran,Wania Kamran
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Malathy Subramaniam,Minelli Marrin Mervin,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/6,21/4",Malathy Subramaniam,Minelli Marrin Mervin
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Malathy Subramaniam,Minelli Marrin Mervin,Sania Kamran,Wania Kamran,"21/10,21/6",Malathy Subramaniam,Minelli Marrin Mervin
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Danalakshmi Gopal,Sayanthini Vijayatheeban,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,"21/14,21/19",Danalakshmi Gopal,Sayanthini Vijayatheeban
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/18,21/16",Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Malathy Subramaniam,Minelli Marrin Mervin,Danalakshmi Gopal,Sayanthini Vijayatheeban,"21/9,21/12",Malathy Subramaniam,Minelli Marrin Mervin
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Luxshan Manoranjan,,Sivasanger Logeswaran,"17/21,24/22,21/9",Luxshan Manoranjan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Luxshan Manoranjan,,Nasar Khan,"21/16,22/20",Luxshan Manoranjan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Sivasanger Logeswaran,,Rabish Kumar Singh,"24/22,21/9",Sivasanger Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Rabish Kumar Singh,,Aditya Panwar,"23/21,21/6",Rabish Kumar Singh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Luxshan Manoranjan,,Sivasanger Logeswaran,"17/21,24/22,21/9",Luxshan Manoranjan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Luxshan Manoranjan,,Nasar Khan,"21/16,22/20",Luxshan Manoranjan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Sivasanger Logeswaran,,Rabish Kumar Singh,"24/22,21/9",Sivasanger Logeswaran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,,Rabish Kumar Singh,,Aditya Panwar,"23/21,21/6",Rabish Kumar Singh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Naseeb Kanhirathodi,Dhanish Nair,Brahma Dalei,Sri Kanth Mudhireddy,"21/13,21/5",Naseeb Kanhirathodi,Dhanish Nair
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Brahma Dalei,Sri Kanth Mudhireddy,Amir Shahzad,Umair Rasool,"21/16,21/11",Brahma Dalei,Sri Kanth Mudhireddy
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Naseeb Kanhirathodi,Dhanish Nair,Bibin Pottananiyil Bhaskaran,Rajesh Raj,"21/13,21/15",Naseeb Kanhirathodi,Dhanish Nair
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Bibin Pottananiyil Bhaskaran,Rajesh Raj,Sivasanger Logeswaran,Stalinkumar Velummylum,"21/18,21/17",Bibin Pottananiyil Bhaskaran,Rajesh Raj
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Naseeb Kanhirathodi,Dhanish Nair,Sivasanger Logeswaran,Stalinkumar Velummylum,"21/15,21/8",Naseeb Kanhirathodi,Dhanish Nair
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Amir Shahzad,Umair Rasool,Nasar Khan,khalid Mahmood,"21/13,21/17",Amir Shahzad,Umair Rasool
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Arjun Rajagopal,Bala murali krishna Bokkisam,Nasar Khan,khalid Mahmood,"21/18,21/13",Arjun Rajagopal,Bala murali krishna Bokkisam
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Amir Shahzad,Umair Rasool,Arjun Rajagopal,Bala murali krishna Bokkisam,"22/20,22/20",Amir Shahzad,Umair Rasool
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Qasam Shah,Hayder Shahzad Ahemd,Sanket Shah,Jay Udaykumar Patel,"21/8,21/17",Qasam Shah,Hayder Shahzad Ahemd
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Brahma Dalei,Sri Kanth Mudhireddy,Qasam Shah,Hayder Shahzad Ahemd,"21/12,21/8",Brahma Dalei,Sri Kanth Mudhireddy
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Brahma Dalei,Sri Kanth Mudhireddy,Sanket Shah,Jay Udaykumar Patel,"21/13,21/18",Brahma Dalei,Sri Kanth Mudhireddy
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Pretika Angelina Sivasanger,,Zakhar Petrina,"21/5,21/5",Pretika Angelina Sivasanger,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Viaan Chawla,,Mohammed Ali Rashid,"21/15,21/14",Viaan Chawla,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Viaan Chawla,,Pretika Angelina Sivasanger,"21/18,23/21",Viaan Chawla,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Mohammed Ali Rashid,,Zakhar Petrina,"14/21,21/12,21/10",Mohammed Ali Rashid,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Viaan Chawla,,Zakhar Petrina,"21/5,21/6",Viaan Chawla,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Pretika Angelina Sivasanger,,Mohammed Ali Rashid,"21/12,21/17",Pretika Angelina Sivasanger,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Pretika Angelina Sivasanger,,Zakhar Petrina,"21/5,21/5",Pretika Angelina Sivasanger,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Viaan Chawla,,Mohammed Ali Rashid,"21/15,21/14",Viaan Chawla,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Viaan Chawla,,Pretika Angelina Sivasanger,"21/18,23/21",Viaan Chawla,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Mohammed Ali Rashid,,Zakhar Petrina,"14/21,21/12,21/10",Mohammed Ali Rashid,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Viaan Chawla,,Zakhar Petrina,"21/5,21/6",Viaan Chawla,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,,Pretika Angelina Sivasanger,,Mohammed Ali Rashid,"21/12,21/17",Pretika Angelina Sivasanger,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Robin Singh Bajwa,"21/8,21/12",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Mary Sophia Salvadhoor,,Rania Rashid,"21/13,21/18",Mary Sophia Salvadhoor,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Robin Singh Bajwa,,Rania Rashid,"19/21,21/5,21/19",Robin Singh Bajwa,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Mary Sophia Salvadhoor,"21/11,23/21",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Robin Singh Bajwa,,Mary Sophia Salvadhoor,"21/18,21/17",Robin Singh Bajwa,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Rania Rashid,"21/8,21/7",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Marius Ågesen,,Vaibhav Sharma,"21/15,21/13",Marius Ågesen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Marius Ågesen,,Neil Sharma,"21/13,21/18",Marius Ågesen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Vaibhav Sharma,,Neil Sharma,"18/21,21/18,21/18",Vaibhav Sharma,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Robin Singh Bajwa,"21/8,21/12",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Mary Sophia Salvadhoor,,Rania Rashid,"21/13,21/18",Mary Sophia Salvadhoor,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Robin Singh Bajwa,,Rania Rashid,"19/21,21/5,21/19",Robin Singh Bajwa,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Mary Sophia Salvadhoor,"21/11,23/21",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Robin Singh Bajwa,,Mary Sophia Salvadhoor,"21/18,21/17",Robin Singh Bajwa,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Rania Rashid,"21/8,21/7",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Marius Ågesen,,Vaibhav Sharma,"21/15,21/13",Marius Ågesen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Marius Ågesen,,Neil Sharma,"21/13,21/18",Marius Ågesen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Vaibhav Sharma,,Neil Sharma,"18/21,21/18,21/18",Vaibhav Sharma,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Robin Singh Bajwa,"21/8,21/12",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Mary Sophia Salvadhoor,,Rania Rashid,"21/13,21/18",Mary Sophia Salvadhoor,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Robin Singh Bajwa,,Rania Rashid,"19/21,21/5,21/19",Robin Singh Bajwa,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Mary Sophia Salvadhoor,"21/11,23/21",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Robin Singh Bajwa,,Mary Sophia Salvadhoor,"21/18,21/17",Robin Singh Bajwa,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Advait Punjal,,Rania Rashid,"21/8,21/7",Advait Punjal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Marius Ågesen,,Vaibhav Sharma,"21/15,21/13",Marius Ågesen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Marius Ågesen,,Neil Sharma,"21/13,21/18",Marius Ågesen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,,Vaibhav Sharma,,Neil Sharma,"18/21,21/18,21/18",Vaibhav Sharma,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Neil Sharma,Marius Ågesen,Advait Punjal,Robin Singh Bajwa,"21/18,21/18",Neil Sharma,Marius Ågesen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Kian Aamodt,Dhakshith Rajesh,Yadhavan Jeybasker,Varshan Jeyabaskar,"21/19,11/21,21/9",Kian Aamodt,Dhakshith Rajesh
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Neil Sharma,Marius Ågesen,Yadhavan Jeybasker,Varshan Jeyabaskar,"21/18,21/9",Neil Sharma,Marius Ågesen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Advait Punjal,Robin Singh Bajwa,Kian Aamodt,Dhakshith Rajesh,"21/15,21/19",Advait Punjal,Robin Singh Bajwa
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Neil Sharma,Marius Ågesen,Kian Aamodt,Dhakshith Rajesh,"21/9,21/16",Neil Sharma,Marius Ågesen
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Advait Punjal,Robin Singh Bajwa,Yadhavan Jeybasker,Varshan Jeyabaskar,"21/12,21/18",Advait Punjal,Robin Singh Bajwa
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Dhakshith Rajesh,,Ishana Viyala,"21/5,21/4",Dhakshith Rajesh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Kian Aamodt,,Arnav Ashish Gandhi,"21/13,21/18",Kian Aamodt,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Kian Aamodt,,Ishana Viyala,"21/11,21/6",Kian Aamodt,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Dhakshith Rajesh,,Arnav Ashish Gandhi,"21/5,21/16",Dhakshith Rajesh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Arnav Ashish Gandhi,,Ishana Viyala,"21/11,21/15",Arnav Ashish Gandhi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Dhakshith Rajesh,,Kian Aamodt,"21/18,12/21,21/17",Dhakshith Rajesh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Dhakshith Rajesh,,Ishana Viyala,"21/5,21/4",Dhakshith Rajesh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Kian Aamodt,,Arnav Ashish Gandhi,"21/13,21/18",Kian Aamodt,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Kian Aamodt,,Ishana Viyala,"21/11,21/6",Kian Aamodt,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Dhakshith Rajesh,,Arnav Ashish Gandhi,"21/5,21/16",Dhakshith Rajesh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Arnav Ashish Gandhi,,Ishana Viyala,"21/11,21/15",Arnav Ashish Gandhi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,,Dhakshith Rajesh,,Kian Aamodt,"21/18,12/21,21/17",Dhakshith Rajesh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Ida Keren Zhou,,Vihaan Singh,"21/18,23/21",Ida Keren Zhou,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Nguyen Joanna Gloria,,Vrishank Kumar Singh,"21/19,21/11",Nguyen Joanna Gloria,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Nguyen Joanna Gloria,,Ida Keren Zhou,"21/8,21/8",Nguyen Joanna Gloria,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Atharv Goyal,,Vihaan Singh,"21/18,21/23,21/11",Atharv Goyal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Atharv Goyal,,Ida Keren Zhou,"21/12,21/9",Atharv Goyal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Vrishank Kumar Singh,,Vihaan Singh,"21/18,23/21",Vrishank Kumar Singh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Nguyen Joanna Gloria,,Atharv Goyal,"21/15,21/9",Nguyen Joanna Gloria,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Ida Keren Zhou,,Vihaan Singh,"21/18,23/21",Ida Keren Zhou,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Nguyen Joanna Gloria,,Vrishank Kumar Singh,"21/19,21/11",Nguyen Joanna Gloria,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Nguyen Joanna Gloria,,Ida Keren Zhou,"21/8,21/8",Nguyen Joanna Gloria,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Atharv Goyal,,Vihaan Singh,"21/18,21/23,21/11",Atharv Goyal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Atharv Goyal,,Ida Keren Zhou,"21/12,21/9",Atharv Goyal,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Vrishank Kumar Singh,,Vihaan Singh,"21/18,23/21",Vrishank Kumar Singh,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,,Nguyen Joanna Gloria,,Atharv Goyal,"21/15,21/9",Nguyen Joanna Gloria,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,,Milaniia Petrina,,Ashita Goyal,"21/10,21/9",Milaniia Petrina,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,,Milaniia Petrina,,Charu Pandey,"21/8,21/16",Milaniia Petrina,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,,Charu Pandey,,Ashita Goyal,"21/10,21/7",Charu Pandey,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,,Milaniia Petrina,,Ashita Goyal,"21/10,21/9",Milaniia Petrina,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,,Milaniia Petrina,,Charu Pandey,"21/8,21/16",Milaniia Petrina,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,,Charu Pandey,,Ashita Goyal,"21/10,21/7",Charu Pandey,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Carl Christian Mork,Elisa Wiborg,Celina Nha-Mi-Thanh,Jan Malamant,"21/10,21/13",Carl Christian Mork,Elisa Wiborg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Anita Bui,Thomas Kleveland,Avinash Avi,Luna Vassallo,"21/12,22/20",Anita Bui,Thomas Kleveland
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Carl Christian Mork,Elisa Wiborg,Avinash Avi,Luna Vassallo,"21/8,21/10",Carl Christian Mork,Elisa Wiborg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Carl Christian Mork,Elisa Wiborg,Anita Bui,Thomas Kleveland,"21/12,21/11",Carl Christian Mork,Elisa Wiborg
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Berit Thyness,Magnus Tjøm,Nora Uri Malterud,Timothée Le,"21/11,21/5",Berit Thyness,Magnus Tjøm
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Celina Nha-Mi-Thanh,Jan Malamant,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,"21/13,21/15",Celina Nha-Mi-Thanh,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Berit Thyness,Magnus Tjøm,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,"21/16,19/21,21/18",Berit Thyness,Magnus Tjøm
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Celina Nha-Mi-Thanh,Jan Malamant,Nora Uri Malterud,Timothée Le,"18/21,21/6,21/7",Celina Nha-Mi-Thanh,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Celina Nha-Mi-Thanh,Jan Malamant,Berit Thyness,Magnus Tjøm,"17/21,21/14,21/9",Celina Nha-Mi-Thanh,Jan Malamant
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,Nora Uri Malterud,Timothée Le,"21/19,21/19",Vilma Aasheim-Engen,Måns Anders Lund Mabäcker
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Emil Stensgaard Saugstrup,,Celine Austdal,"22/20,21/14",Emil Stensgaard Saugstrup,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Vegard Langseth-Johnsen,"21/13,21/19",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Aniruddha Sathyanarayanan,,Emil Stensgaard Saugstrup,"21/13,24/22",Aniruddha Sathyanarayanan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Vegard Langseth-Johnsen,,Celine Austdal,"21/19,16/21,21/19",Vegard Langseth-Johnsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Aniruddha Sathyanarayanan,,Celine Austdal,"19/21,21/17,22/20",Aniruddha Sathyanarayanan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Emil Stensgaard Saugstrup,"21/16,21/16",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Aniruddha Sathyanarayanan,"21/12,20/22,21/14",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Vegard Langseth-Johnsen,,Emil Stensgaard Saugstrup,"21/16,24/22",Vegard Langseth-Johnsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Vegard Langseth-Johnsen,,Aniruddha Sathyanarayanan,"21/19,21/15",Vegard Langseth-Johnsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Celine Austdal,"21/11,22/20",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Emil Stensgaard Saugstrup,,Celine Austdal,"22/20,21/14",Emil Stensgaard Saugstrup,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Vegard Langseth-Johnsen,"21/13,21/19",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Aniruddha Sathyanarayanan,,Emil Stensgaard Saugstrup,"21/13,24/22",Aniruddha Sathyanarayanan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Vegard Langseth-Johnsen,,Celine Austdal,"21/19,16/21,21/19",Vegard Langseth-Johnsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Aniruddha Sathyanarayanan,,Celine Austdal,"19/21,21/17,22/20",Aniruddha Sathyanarayanan,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Emil Stensgaard Saugstrup,"21/16,21/16",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Aniruddha Sathyanarayanan,"21/12,20/22,21/14",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Vegard Langseth-Johnsen,,Emil Stensgaard Saugstrup,"21/16,24/22",Vegard Langseth-Johnsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Vegard Langseth-Johnsen,,Aniruddha Sathyanarayanan,"21/19,21/15",Vegard Langseth-Johnsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,,Varg Thorshaug,,Celine Austdal,"21/11,22/20",Varg Thorshaug,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Viggo Berglund Melin,"21/7,21/19",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Noah Leander Solbakken Svela,"21/10,21/11",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Lukas Endahl Haraldsen,"21/12,21/14",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Anders Mägi,"21/17,17/21,21/14",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Ahmed Aldolaimi,"21/8,21/11",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Noah Leander Solbakken Svela,,Prakash Sivasanger,"21/12,21/18",Noah Leander Solbakken Svela,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Noah Leander Solbakken Svela,,Aksel Fossåskaret,"21/13,14/21,23/21",Noah Leander Solbakken Svela,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Aksel Fossåskaret,,Prakash Sivasanger,"21/16,21/17",Aksel Fossåskaret,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Einar Kvalbein,"21/7,21/8",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Sivert Optjernsberget Vestli,,Einar Kvalbein,"22/20,21/10",Sivert Optjernsberget Vestli,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Sivert Optjernsberget Vestli,"21/11,21/9",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Léonard Thor Achaz Grøndahl,,Adit Amol More,"21/18,21/9",Léonard Thor Achaz Grøndahl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Anders Mägi,,Léonard Thor Achaz Grøndahl,"21/14,21/14",Anders Mägi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Anders Mägi,,Adit Amol More,"21/11,21/9",Anders Mägi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joakim Istad,,Vemund Grimmer,"21/5,21/5",Joakim Istad,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Joakim Istad,"21/12,21/17",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Vemund Grimmer,"21/11,21/5",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Cao Gia Bao Thai,,Kasper Støa,"21/8,21/5",Cao Gia Bao Thai,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Ahmed Aldolaimi,,Cao Gia Bao Thai,"21/13,21/15",Ahmed Aldolaimi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Ahmed Aldolaimi,,Kasper Støa,"21/13,21/11",Ahmed Aldolaimi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Lukas Endahl Haraldsen,,Vetle Sætre-Davidsen,"21/19,24/22",Lukas Endahl Haraldsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Henrik Bye,,Vetle Sætre-Davidsen,"19/21,21/16,21/8",Henrik Bye,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Lukas Endahl Haraldsen,,Henrik Bye,"21/12,21/11",Lukas Endahl Haraldsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Viggo Berglund Melin,"21/7,21/19",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Noah Leander Solbakken Svela,"21/10,21/11",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Lukas Endahl Haraldsen,"21/12,21/14",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Anders Mägi,"21/17,17/21,21/14",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Ahmed Aldolaimi,"21/8,21/11",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Noah Leander Solbakken Svela,,Prakash Sivasanger,"21/12,21/18",Noah Leander Solbakken Svela,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Noah Leander Solbakken Svela,,Aksel Fossåskaret,"21/13,14/21,23/21",Noah Leander Solbakken Svela,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Aksel Fossåskaret,,Prakash Sivasanger,"21/16,21/17",Aksel Fossåskaret,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Einar Kvalbein,"21/7,21/8",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Sivert Optjernsberget Vestli,,Einar Kvalbein,"22/20,21/10",Sivert Optjernsberget Vestli,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joseph Paul,,Sivert Optjernsberget Vestli,"21/11,21/9",Joseph Paul,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Léonard Thor Achaz Grøndahl,,Adit Amol More,"21/18,21/9",Léonard Thor Achaz Grøndahl,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Anders Mägi,,Léonard Thor Achaz Grøndahl,"21/14,21/14",Anders Mägi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Anders Mägi,,Adit Amol More,"21/11,21/9",Anders Mägi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Joakim Istad,,Vemund Grimmer,"21/5,21/5",Joakim Istad,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Joakim Istad,"21/12,21/17",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Viggo Berglund Melin,,Vemund Grimmer,"21/11,21/5",Viggo Berglund Melin,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Cao Gia Bao Thai,,Kasper Støa,"21/8,21/5",Cao Gia Bao Thai,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Ahmed Aldolaimi,,Cao Gia Bao Thai,"21/13,21/15",Ahmed Aldolaimi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Ahmed Aldolaimi,,Kasper Støa,"21/13,21/11",Ahmed Aldolaimi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Lukas Endahl Haraldsen,,Vetle Sætre-Davidsen,"21/19,24/22",Lukas Endahl Haraldsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Henrik Bye,,Vetle Sætre-Davidsen,"19/21,21/16,21/8",Henrik Bye,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Lukas Endahl Haraldsen,,Henrik Bye,"21/12,21/11",Lukas Endahl Haraldsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Sarah Zeyu Du,,Amal Mariia Elrozi,"25/23,21/12",Sarah Zeyu Du,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Martine Skjeltorp Nyborg,,Chinbe Weeratoon Svensson,"21/14,21/19",Martine Skjeltorp Nyborg,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Sarah Zeyu Du,,Martine Skjeltorp Nyborg,"21/15,21/9",Sarah Zeyu Du,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Janna Alexa Rodriguez De Ocampo,,Chinbe Weeratoon Svensson,"21/18,16/21,22/20",Janna Alexa Rodriguez De Ocampo,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Sarah Zeyu Du,,Janna Alexa Rodriguez De Ocampo,"21/5,21/7",Sarah Zeyu Du,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Martine Skjeltorp Nyborg,,Amal Mariia Elrozi,"17/21,21/13,21/17",Martine Skjeltorp Nyborg,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Amal Mariia Elrozi,,Chinbe Weeratoon Svensson,"21/11,21/10",Amal Mariia Elrozi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Martine Skjeltorp Nyborg,,Janna Alexa Rodriguez De Ocampo,"21/10,21/9",Martine Skjeltorp Nyborg,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Sarah Zeyu Du,,Chinbe Weeratoon Svensson,"21/9,21/7",Sarah Zeyu Du,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,,Amal Mariia Elrozi,,Janna Alexa Rodriguez De Ocampo,"21/12,21/11",Amal Mariia Elrozi,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Viggo Berglund Melin,Anders Mägi,Joseph Paul,Noah Leander Solbakken Svela,"16/21,21/15,21/12",Viggo Berglund Melin,Anders Mägi
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Viggo Berglund Melin,Anders Mägi,Cao Gia Bao Thai,Aksel Fossåskaret,"23/21,21/18",Viggo Berglund Melin,Anders Mägi
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Joseph Paul,Noah Leander Solbakken Svela,Sivert Optjernsberget Vestli,Theodor J. Myrvoll,"21/13,21/19",Joseph Paul,Noah Leander Solbakken Svela
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Sarah Zeyu Du,Leon Matheo Solbakken Svela,Henrik Bye,Vetle Sætre-Davidsen,"21/15,21/10",Sarah Zeyu Du,Leon Matheo Solbakken Svela
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Joseph Paul,Noah Leander Solbakken Svela,Sarah Zeyu Du,Leon Matheo Solbakken Svela,"21/14,21/11",Joseph Paul,Noah Leander Solbakken Svela
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Sivert Optjernsberget Vestli,Theodor J. Myrvoll,Henrik Bye,Vetle Sætre-Davidsen,"21/14,21/9",Sivert Optjernsberget Vestli,Theodor J. Myrvoll
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Joseph Paul,Noah Leander Solbakken Svela,Henrik Bye,Vetle Sætre-Davidsen,"21/5,21/2",Joseph Paul,Noah Leander Solbakken Svela
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Sivert Optjernsberget Vestli,Theodor J. Myrvoll,Sarah Zeyu Du,Leon Matheo Solbakken Svela,"21/14,19/21,21/15",Sivert Optjernsberget Vestli,Theodor J. Myrvoll
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Filip Isdahl-Larsen,Léonard Thor Achaz Grøndahl,Vemund Grimmer,Jonathan Avnsjø Fredriksen,"21/12,21/8",Filip Isdahl-Larsen,Léonard Thor Achaz Grøndahl
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Viggo Berglund Melin,Anders Mägi,Filip Isdahl-Larsen,Léonard Thor Achaz Grøndahl,"21/11,21/16",Viggo Berglund Melin,Anders Mägi
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Viggo Berglund Melin,Anders Mägi,Vemund Grimmer,Jonathan Avnsjø Fredriksen,"21/4,21/5",Viggo Berglund Melin,Anders Mägi
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Cao Gia Bao Thai,Aksel Fossåskaret,Mohammad Hassan Sajjad,Aayan Akram,"21/18,21/9",Cao Gia Bao Thai,Aksel Fossåskaret
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Cao Gia Bao Thai,Aksel Fossåskaret,Lorens Valentin Holmboe,Mads Lucien Lelièvre,"21/5,21/8",Cao Gia Bao Thai,Aksel Fossåskaret
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Lorens Valentin Holmboe,Mads Lucien Lelièvre,Mohammad Hassan Sajjad,Aayan Akram,"21/17,15/21,21/18",Lorens Valentin Holmboe,Mads Lucien Lelièvre
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Jakob Mordt-Bratteng,"21/19,21/12",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jakob Mordt-Bratteng,,Mohammad Hassan Sajjad,"25/23,23/21",Jakob Mordt-Bratteng,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Theo Hodne,"21/15,21/19",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Aaron Wasa-Schrader,,Kalyann Kaza,"21/18,21/13",Aaron Wasa-Schrader,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jakob Mordt-Bratteng,,Kalyann Kaza,"21/23,21/14,21/19",Jakob Mordt-Bratteng,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jakob Mordt-Bratteng,,Aaron Wasa-Schrader,"21/13,17/21,21/14",Jakob Mordt-Bratteng,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Mohammad Hassan Sajjad,,Jonathan Avnsjø Fredriksen,"21/15,16/21,21/18",Mohammad Hassan Sajjad,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Mohammad Hassan Sajjad,,Mohammadshayan Koraei,"21/19,21/17",Mohammad Hassan Sajjad,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jonathan Avnsjø Fredriksen,,Mohammadshayan Koraei,"21/16,21/13",Jonathan Avnsjø Fredriksen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Theo Hodne,,Aksel Søberg Korsvik,"21/8,21/16",Theo Hodne,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Aksel Søberg Korsvik,,Aayan Akram,"21/17,21/15",Aksel Søberg Korsvik,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Theo Hodne,,Aayan Akram,"21/12,21/17",Theo Hodne,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Ask Emilian Herlung,"21/11,21/14",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Ask Emilian Herlung,,Lorens Valentin Holmboe,"10/21,21/13,21/19",Ask Emilian Herlung,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Lorens Valentin Holmboe,"21/13,21/10",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Jakob Mordt-Bratteng,"21/19,21/12",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jakob Mordt-Bratteng,,Mohammad Hassan Sajjad,"25/23,23/21",Jakob Mordt-Bratteng,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Theo Hodne,"21/15,21/19",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Aaron Wasa-Schrader,,Kalyann Kaza,"21/18,21/13",Aaron Wasa-Schrader,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jakob Mordt-Bratteng,,Kalyann Kaza,"21/23,21/14,21/19",Jakob Mordt-Bratteng,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jakob Mordt-Bratteng,,Aaron Wasa-Schrader,"21/13,17/21,21/14",Jakob Mordt-Bratteng,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Mohammad Hassan Sajjad,,Jonathan Avnsjø Fredriksen,"21/15,16/21,21/18",Mohammad Hassan Sajjad,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Mohammad Hassan Sajjad,,Mohammadshayan Koraei,"21/19,21/17",Mohammad Hassan Sajjad,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Jonathan Avnsjø Fredriksen,,Mohammadshayan Koraei,"21/16,21/13",Jonathan Avnsjø Fredriksen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Theo Hodne,,Aksel Søberg Korsvik,"21/8,21/16",Theo Hodne,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Aksel Søberg Korsvik,,Aayan Akram,"21/17,21/15",Aksel Søberg Korsvik,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Theo Hodne,,Aayan Akram,"21/12,21/17",Theo Hodne,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Ask Emilian Herlung,"21/11,21/14",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Ask Emilian Herlung,,Lorens Valentin Holmboe,"10/21,21/13,21/19",Ask Emilian Herlung,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Filip Isdahl-Larsen,,Lorens Valentin Holmboe,"21/13,21/10",Filip Isdahl-Larsen,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Sania Kamran,,Maria Ringstad,"21/6,21/5",Sania Kamran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Vidya Viyala,,Samyukktha Sathyanarayanan,"21/16,21/13",Vidya Viyala,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Vidya Viyala,,Maria Ringstad,"21/10,21/13",Vidya Viyala,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Sania Kamran,,Samyukktha Sathyanarayanan,"21/13,21/6",Sania Kamran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Sania Kamran,,Vidya Viyala,"21/18,21/16",Sania Kamran,
-2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,,Samyukktha Sathyanarayanan,,Maria Ringstad,"21/9,22/20",Samyukktha Sathyanarayanan,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Celina Nha-Mi-Thanh,Jan Malamant,"21/10,21/13",Carl Christian Mork,Elisa Wiborg
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Anita Bui,Thomas Kleveland,Avinash Avi,Luna Vassallo,"21/12,22/20",Anita Bui,Thomas Kleveland
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Avinash Avi,Luna Vassallo,"21/8,21/10",Carl Christian Mork,Elisa Wiborg
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Anita Bui,Thomas Kleveland,"21/12,21/11",Carl Christian Mork,Elisa Wiborg
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Berit Thyness,Magnus Tjøm,Nora Uri Malterud,Timothée Le,"21/11,21/5",Berit Thyness,Magnus Tjøm
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Celina Nha-Mi-Thanh,Jan Malamant,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,"21/13,21/15",Celina Nha-Mi-Thanh,Jan Malamant
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Berit Thyness,Magnus Tjøm,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,"21/16,19/21,21/18",Berit Thyness,Magnus Tjøm
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Celina Nha-Mi-Thanh,Jan Malamant,Nora Uri Malterud,Timothée Le,"18/21,21/6,21/7",Celina Nha-Mi-Thanh,Jan Malamant
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Celina Nha-Mi-Thanh,Jan Malamant,Berit Thyness,Magnus Tjøm,"17/21,21/14,21/9",Celina Nha-Mi-Thanh,Jan Malamant
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN E,Mixeddouble,Vilma Aasheim-Engen,Måns Anders Lund Mabäcker,Nora Uri Malterud,Timothée Le,"21/19,21/19",Vilma Aasheim-Engen,Måns Anders Lund Mabäcker
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Edvin Ståhl,,Kenneth Bayeng Sanglay,"21/12,21/8",Edvin Ståhl,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Edvin Ståhl,,Avinash Avi,"21/14,21/9",Edvin Ståhl,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Kenneth Bayeng Sanglay,,Sondre Sefland,"21/14,21/8",Kenneth Bayeng Sanglay,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Magnus Tjøm,,Deeptanshu Toka,"21/19,21/18",Magnus Tjøm,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Magnus Tjøm,,Sondre Sefland,"21/3,21/11",Magnus Tjøm,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Deeptanshu Toka,,Kenneth Bayeng Sanglay,"21/14,19/21,21/12",Deeptanshu Toka,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Deeptanshu Toka,,Sondre Sefland,"21/17,21/14",Deeptanshu Toka,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Kenneth Bayeng Sanglay,,Magnus Tjøm,"21/19,21/16",Kenneth Bayeng Sanglay,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Avinash Avi,,Jan Malamant,"21/16,7/21,21/15",Avinash Avi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Avinash Avi,,Måns Anders Lund Mabäcker,"21/17,21/12",Avinash Avi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Jan Malamant,,Måns Anders Lund Mabäcker,"21/14,21/14",Jan Malamant,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Edvin Ståhl,,Thomas Kleveland,"21/13,21/16",Edvin Ståhl,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Thomas Kleveland,,Erling Homme,"21/17,21/15",Thomas Kleveland,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herresingle,,Edvin Ståhl,,Erling Homme,"21/13,21/11",Edvin Ståhl,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Vilma Aasheim-Engen,,Berit Thyness,"17/21,21/19,23/21",Vilma Aasheim-Engen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Luna Vassallo,,Dowon Kwak,"21/10,21/19",Luna Vassallo,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Berit Thyness,,Luna Vassallo,"21/15,21/17",Berit Thyness,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Berit Thyness,,Dowon Kwak,"17/21,21/11,21/6",Berit Thyness,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Celina Nha-Mi-Thanh,,Anita Bui,"21/7,21/14",Celina Nha-Mi-Thanh,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Vilma Aasheim-Engen,,Celina Nha-Mi-Thanh,"21/14,21/11",Vilma Aasheim-Engen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damesingle,,Vilma Aasheim-Engen,,Anita Bui,"21/13,21/13",Vilma Aasheim-Engen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Carl Christian Mork,Deeptanshu Toka,Avinash Avi,Jan Malamant,"21/19,21/15",Carl Christian Mork,Deeptanshu Toka
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Carl Christian Mork,Deeptanshu Toka,Kenneth Bayeng Sanglay,Wesley Man-Ho Cheung,"21/8,21/6",Carl Christian Mork,Deeptanshu Toka
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Aleksander Jakovlevs,John Nguyen,Sondre Sefland,Wenyue Yu,"21/12,21/12",Aleksander Jakovlevs,John Nguyen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Sondre Sefland,Wenyue Yu,Kenneth Bayeng Sanglay,Wesley Man-Ho Cheung,"21/12,21/14",Sondre Sefland,Wenyue Yu
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Carl Christian Mork,Deeptanshu Toka,Aleksander Jakovlevs,John Nguyen,"17/21,21/17,21/14",Carl Christian Mork,Deeptanshu Toka
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Aleksander Jakovlevs,John Nguyen,Kenneth Bayeng Sanglay,Wesley Man-Ho Cheung,"21/12,21/8",Aleksander Jakovlevs,John Nguyen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Carl Christian Mork,Deeptanshu Toka,Sondre Sefland,Wenyue Yu,"21/13,21/13",Carl Christian Mork,Deeptanshu Toka
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Avinash Avi,Jan Malamant,Magnus Tjøm,Måns Anders Lund Mabäcker,"18/21,21/15,21/11",Avinash Avi,Jan Malamant
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,David Wong,Ram Kumar,Sahil Wadhawan,Timothée Le,"20/22,21/16,21/16",David Wong,Ram Kumar
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Avinash Avi,Jan Malamant,David Wong,Ram Kumar,"21/19,22/24,21/13",Avinash Avi,Jan Malamant
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Sahil Wadhawan,Timothée Le,Magnus Tjøm,Måns Anders Lund Mabäcker,"21/19,21/15",Sahil Wadhawan,Timothée Le
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,Avinash Avi,Jan Malamant,Sahil Wadhawan,Timothée Le,"23/21,17/21,22/20",Avinash Avi,Jan Malamant
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Herredouble,David Wong,Ram Kumar,Magnus Tjøm,Måns Anders Lund Mabäcker,"21/15,21/18",David Wong,Ram Kumar
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Agnieszka Krzysztoń,Luna Vassallo,Anita Bui,Nora Uri Malterud,"25/23,22/20",Agnieszka Krzysztoń,Luna Vassallo
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Elisa Wiborg,Malin Andersson,Gladys Jude Lourderajan,Vidya Gouli,"21/6,21/6",Elisa Wiborg,Malin Andersson
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Anita Bui,Nora Uri Malterud,Gladys Jude Lourderajan,Vidya Gouli,"21/13,21/12",Anita Bui,Nora Uri Malterud
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Agnieszka Krzysztoń,Luna Vassallo,Dowon Kwak,Kamonthip Charoenphanit,"17/21,21/16,21/15",Agnieszka Krzysztoń,Luna Vassallo
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Dowon Kwak,Kamonthip Charoenphanit,Anita Bui,Nora Uri Malterud,"20/22,21/19,21/17",Dowon Kwak,Kamonthip Charoenphanit
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Elisa Wiborg,Malin Andersson,Agnieszka Krzysztoń,Luna Vassallo,"21/10,21/14",Elisa Wiborg,Malin Andersson
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Elisa Wiborg,Malin Andersson,Anita Bui,Nora Uri Malterud,"21/8,21/9",Elisa Wiborg,Malin Andersson
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Dowon Kwak,Kamonthip Charoenphanit,Gladys Jude Lourderajan,Vidya Gouli,"21/7,21/11",Dowon Kwak,Kamonthip Charoenphanit
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Agnieszka Krzysztoń,Luna Vassallo,Gladys Jude Lourderajan,Vidya Gouli,"21/13,21/4",Agnieszka Krzysztoń,Luna Vassallo
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN A,Damedouble,Elisa Wiborg,Malin Andersson,Dowon Kwak,Kamonthip Charoenphanit,"21/11,21/13",Elisa Wiborg,Malin Andersson
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Tan Quach Le,,Johnny Lam,"21/10,21/17",Tan Quach Le,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Tan Quach Le,,Sofie Jin Reistadbakk,"21/12,18/21,21/9",Tan Quach Le,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Jay Janaskar,,Tan Quach Le,"21/13,21/23,23/21",Jay Janaskar,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Sofie Jin Reistadbakk,,Jay Janaskar,"17/21,21/13,24/22",Sofie Jin Reistadbakk,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Huy Thai Dang Cao,,Sourav Kumar Mishra,"20/22,21/11,21/8",Huy Thai Dang Cao,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Johnny Lam,,Imran SahebBedadhaluri,"21/12,21/13",Johnny Lam,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Imran SahebBedadhaluri,,Sourav Kumar Mishra,"21/12,21/17",Imran SahebBedadhaluri,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Johnny Lam,,Huy Thai Dang Cao,"21/15,10/21,24/22",Johnny Lam,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Johnny Lam,,Sourav Kumar Mishra,"21/4,21/13",Johnny Lam,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herresingle,,Imran SahebBedadhaluri,,Huy Thai Dang Cao,"21/18,26/24",Imran SahebBedadhaluri,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Tan Quach Le,Erling Homme,Kim Christensen,Knut Morten Engen,"21/12,21/23,21/16",Tan Quach Le,Erling Homme
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Tan Quach Le,Erling Homme,Sourav Kumar Mishra,Lars Eirik L. Nilsen,"18/21,21/8,21/15",Tan Quach Le,Erling Homme
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Kim Christensen,Knut Morten Engen,Adil Mahmood,Khalil  Akram,"19/21,21/15,21/13",Kim Christensen,Knut Morten Engen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Tan Quach Le,Erling Homme,Asghar Mahmood,Muhammad Sajjad Ahmad,"21/15,21/13",Tan Quach Le,Erling Homme
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Tan Quach Le,Erling Homme,Devendra Rameshwarsingh,Imran SahebBedadhaluri,"23/21,21/14",Tan Quach Le,Erling Homme
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Asghar Mahmood,Muhammad Sajjad Ahmad,Devendra Rameshwarsingh,Imran SahebBedadhaluri,"21/11,21/18",Asghar Mahmood,Muhammad Sajjad Ahmad
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Sourav Kumar Mishra,Lars Eirik L. Nilsen,Sanjayan uthayakumar,Thineskumar Logeswaran,"19/21,21/11,23/21",Sourav Kumar Mishra,Lars Eirik L. Nilsen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Sourav Kumar Mishra,Lars Eirik L. Nilsen,Luis Anmarkrud,Snorri Hansson Engen,"19/21,21/19,21/19",Sourav Kumar Mishra,Lars Eirik L. Nilsen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Sanjayan uthayakumar,Thineskumar Logeswaran,Luis Anmarkrud,Snorri Hansson Engen,"21/18,15/21,21/17",Sanjayan uthayakumar,Thineskumar Logeswaran
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Vasanthan Nadarasah,Ramesh Vinayaga,Shiliang Zhang,Tzu-shuo Liu,"21/16,21/17",Vasanthan Nadarasah,Ramesh Vinayaga
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Kim Christensen,Knut Morten Engen,Gaurav Sharma,Qadeer Alvi,"20/22,21/15,21/16",Kim Christensen,Knut Morten Engen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Vasanthan Nadarasah,Ramesh Vinayaga,Gaurav Sharma,Qadeer Alvi,"21/18,22/20",Vasanthan Nadarasah,Ramesh Vinayaga
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Kim Christensen,Knut Morten Engen,Shiliang Zhang,Tzu-shuo Liu,"21/15,23/21",Kim Christensen,Knut Morten Engen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Kim Christensen,Knut Morten Engen,Vasanthan Nadarasah,Ramesh Vinayaga,"21/18,21/23,21/17",Kim Christensen,Knut Morten Engen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Gaurav Sharma,Qadeer Alvi,Shiliang Zhang,Tzu-shuo Liu,"21/18,22/20",Gaurav Sharma,Qadeer Alvi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Bjørn Rakstang,Aljeruh Anthony Luminarias,Johnny Lam,Xiao Zhang,"18/21,21/5,21/19",Bjørn Rakstang,Aljeruh Anthony Luminarias
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Adil Mahmood,Khalil  Akram,Johnny Lam,Xiao Zhang,"21/8,21/11",Adil Mahmood,Khalil  Akram
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Herredouble,Adil Mahmood,Khalil  Akram,Bjørn Rakstang,Aljeruh Anthony Luminarias,"21/11,21/14",Adil Mahmood,Khalil  Akram
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Wesley Man-Ho Cheung,Dowon Kwak,Agnieszka Krzysztoń,Erling Homme,"23/21,19/21,21/18",Wesley Man-Ho Cheung,Dowon Kwak
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Wesley Man-Ho Cheung,Dowon Kwak,Gladys Jude Lourderajan,Ramesh Vinayaga,"21/15,21/7",Wesley Man-Ho Cheung,Dowon Kwak
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Wesley Man-Ho Cheung,Dowon Kwak,Huy Thai Dang Cao,Malathy Subramaniam,"21/11,10/21,23/21",Wesley Man-Ho Cheung,Dowon Kwak
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Huy Thai Dang Cao,Malathy Subramaniam,Gladys Jude Lourderajan,Ramesh Vinayaga,"21/15,21/11",Huy Thai Dang Cao,Malathy Subramaniam
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Agnieszka Krzysztoń,Erling Homme,Sasiga Logeswaran,Thineskumar Logeswaran,"21/12,21/5",Agnieszka Krzysztoń,Erling Homme
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Tan Quach Le,Kamonthip Charoenphanit,Sasiga Logeswaran,Thineskumar Logeswaran,"21/14,21/23,21/9",Tan Quach Le,Kamonthip Charoenphanit
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN B,Mixeddouble,Agnieszka Krzysztoń,Erling Homme,Tan Quach Le,Kamonthip Charoenphanit,"21/12,18/21,21/13",Agnieszka Krzysztoń,Erling Homme
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Babu Stalin,,Thineskumar Logeswaran,"21/10,22/20",Babu Stalin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Babu Stalin,,Ashwin Nambiaruveettil,"21/10,21/14",Babu Stalin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Bjørn Rakstang,,Sindre Thoresen,"21/16,21/12",Bjørn Rakstang,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Thineskumar Logeswaran,,Hans Martin Mabäcker,"21/19,12/21,21/19",Thineskumar Logeswaran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Bjørn Rakstang,,Hans Martin Mabäcker,"21/18,21/10",Bjørn Rakstang,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Thineskumar Logeswaran,,Sindre Thoresen,"21/14,21/13",Thineskumar Logeswaran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Thineskumar Logeswaran,,Bjørn Rakstang,"21/12,19/21,22/20",Thineskumar Logeswaran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Hans Martin Mabäcker,,Sindre Thoresen,"25/23,21/19",Hans Martin Mabäcker,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Ramakrishna Punjal,,Shafiq Muhammad,"23/21,21/8",Ramakrishna Punjal,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Ashwin Nambiaruveettil,,Shafiq Muhammad,"24/22,19/21,21/19",Ashwin Nambiaruveettil,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Ashwin Nambiaruveettil,,Ramakrishna Punjal,"24/22,21/23,21/9",Ashwin Nambiaruveettil,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Babu Stalin,,Sanjayan uthayakumar,"21/7,23/21",Babu Stalin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Sanjayan uthayakumar,,Oscar Øisjøfoss Sørheim,"21/13,21/15",Sanjayan uthayakumar,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herresingle,,Babu Stalin,,Oscar Øisjøfoss Sørheim,"21/7,21/11",Babu Stalin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damesingle,,Wania Kamran,,Mila Knutsen Lillehagen,"17/21,21/10,21/9",Wania Kamran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damesingle,,Xiao Zhang,,Vidya Gouli,"21/15,21/19",Xiao Zhang,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damesingle,,Wania Kamran,,Xiao Zhang,"21/18,21/19",Wania Kamran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damesingle,,Vidya Gouli,,Mila Knutsen Lillehagen,"21/10,22/20",Vidya Gouli,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damesingle,,Vidya Gouli,,Wania Kamran,"24/22,16/21,21/19",Vidya Gouli,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damesingle,,Xiao Zhang,,Mila Knutsen Lillehagen,"21/12,21/4",Xiao Zhang,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Edvin Ståhl,Emil Steffensen,Vijay Krishnan,Shyam Sunder Durai Pandiyan,"21/12,21/7",Edvin Ståhl,Emil Steffensen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Edvin Ståhl,Emil Steffensen,Sindre Thoresen,Ashwin Nambiaruveettil,"21/5,21/6",Edvin Ståhl,Emil Steffensen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Hans Martin Mabäcker,Stian Sveberg,"21/17,21/12",Vijay Krishnan,Shyam Sunder Durai Pandiyan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Edvin Ståhl,Emil Steffensen,Tanveer Ashraf,Kanwal Agnihotri,"21/6,21/6",Edvin Ståhl,Emil Steffensen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Vaibhav Bansal,Bharat Busan,Tanveer Ashraf,Kanwal Agnihotri,"21/7,21/13",Vaibhav Bansal,Bharat Busan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Edvin Ståhl,Emil Steffensen,Vaibhav Bansal,Bharat Busan,"21/14,21/13",Edvin Ståhl,Emil Steffensen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Palany Subramaniam,Madhusudan Pareek,Keerthi Vasan,Maheshraja Kaduganur Venkatesan,"13/21,21/9,21/14",Palany Subramaniam,Madhusudan Pareek
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Sindre Thoresen,Ashwin Nambiaruveettil,Mads Nikolaj Bjerre,Ranjan Sahu,"21/15,21/18",Sindre Thoresen,Ashwin Nambiaruveettil
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Sindre Thoresen,Ashwin Nambiaruveettil,Palany Subramaniam,Madhusudan Pareek,"21/14,21/17",Sindre Thoresen,Ashwin Nambiaruveettil
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Keerthi Vasan,Maheshraja Kaduganur Venkatesan,Mads Nikolaj Bjerre,Ranjan Sahu,"21/16,10/21,21/19",Keerthi Vasan,Maheshraja Kaduganur Venkatesan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Mads Nikolaj Bjerre,Ranjan Sahu,Palany Subramaniam,Madhusudan Pareek,"21/17,21/12",Mads Nikolaj Bjerre,Ranjan Sahu
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Sindre Thoresen,Ashwin Nambiaruveettil,Keerthi Vasan,Maheshraja Kaduganur Venkatesan,"22/20,21/19",Sindre Thoresen,Ashwin Nambiaruveettil
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Nitin Chawla,Mayank Padney,"21/14,21/12",Vijay Krishnan,Shyam Sunder Durai Pandiyan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Sajid Imran,Naveed Zafar,Kjetil Io,Prakash Patel,"21/12,21/14",Sajid Imran,Naveed Zafar
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Kjetil Io,Prakash Patel,Nitin Chawla,Mayank Padney,"21/15,21/12",Kjetil Io,Prakash Patel
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Sajid Imran,Naveed Zafar,"27/29,23/21,21/17",Vijay Krishnan,Shyam Sunder Durai Pandiyan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Sajid Imran,Naveed Zafar,Nitin Chawla,Mayank Padney,"21/7,21/11",Sajid Imran,Naveed Zafar
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Vijay Krishnan,Shyam Sunder Durai Pandiyan,Kjetil Io,Prakash Patel,"21/11,21/9",Vijay Krishnan,Shyam Sunder Durai Pandiyan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Hans Martin Mabäcker,Stian Sveberg,Ramakrishna Punjal,Veeranjaneyulu Toka,"21/12,21/18",Hans Martin Mabäcker,Stian Sveberg
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Hans Martin Mabäcker,Stian Sveberg,Faisal Mahmud Khokhar,Usman Babar,"21/14,22/20",Hans Martin Mabäcker,Stian Sveberg
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Herredouble,Ramakrishna Punjal,Veeranjaneyulu Toka,Faisal Mahmud Khokhar,Usman Babar,"21/19,13/21,21/19",Ramakrishna Punjal,Veeranjaneyulu Toka
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Sania Kamran,Wania Kamran,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/15,21/6",Sania Kamran,Wania Kamran
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Malathy Subramaniam,Minelli Marrin Mervin,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,"21/7,21/17",Malathy Subramaniam,Minelli Marrin Mervin
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Sania Kamran,Wania Kamran,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,"21/14,21/11",Sania Kamran,Wania Kamran
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Danalakshmi Gopal,Sayanthini Vijayatheeban,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/11,21/7",Danalakshmi Gopal,Sayanthini Vijayatheeban
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Sania Kamran,Wania Kamran,Danalakshmi Gopal,Sayanthini Vijayatheeban,"23/21,21/16",Sania Kamran,Wania Kamran
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Malathy Subramaniam,Minelli Marrin Mervin,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/6,21/4",Malathy Subramaniam,Minelli Marrin Mervin
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Malathy Subramaniam,Minelli Marrin Mervin,Sania Kamran,Wania Kamran,"21/10,21/6",Malathy Subramaniam,Minelli Marrin Mervin
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Danalakshmi Gopal,Sayanthini Vijayatheeban,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,"21/14,21/19",Danalakshmi Gopal,Sayanthini Vijayatheeban
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo,Yashaswini Toka,Samyukktha Sathyanarayanan,"21/18,21/16",Chinbe Weeratoon Svensson,Janna Alexa Rodriguez De Ocampo
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Damedouble,Malathy Subramaniam,Minelli Marrin Mervin,Danalakshmi Gopal,Sayanthini Vijayatheeban,"21/9,21/12",Malathy Subramaniam,Minelli Marrin Mervin
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Vidya Gouli,Imran SahebBedadhaluri,Sayanthini Vijayatheeban,Shyam Sunder Durai Pandiyan,"21/18,21/19",Vidya Gouli,Imran SahebBedadhaluri
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Sayanthini Vijayatheeban,Shyam Sunder Durai Pandiyan,Mari H. Birkelund,Mads Nikolaj Bjerre,"21/11,21/15",Sayanthini Vijayatheeban,Shyam Sunder Durai Pandiyan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Sayanthini Vijayatheeban,Shyam Sunder Durai Pandiyan,Xiao Zhang,Johnny Lam,"21/13,21/14",Sayanthini Vijayatheeban,Shyam Sunder Durai Pandiyan
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Mari H. Birkelund,Mads Nikolaj Bjerre,Xiao Zhang,Johnny Lam,"21/18,21/18",Mari H. Birkelund,Mads Nikolaj Bjerre
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Vidya Gouli,Imran SahebBedadhaluri,Wania Kamran,Sanjayan uthayakumar,"21/10,21/10",Vidya Gouli,Imran SahebBedadhaluri
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Vidya Gouli,Imran SahebBedadhaluri,Ashwin Nambiaruveettil,Frida Thorsås,"21/16,21/13",Vidya Gouli,Imran SahebBedadhaluri
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN C,Mixeddouble,Ashwin Nambiaruveettil,Frida Thorsås,Wania Kamran,Sanjayan uthayakumar,"21/9,21/14",Ashwin Nambiaruveettil,Frida Thorsås
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herresingle,,Luxshan Manoranjan,,Sivasanger Logeswaran,"17/21,24/22,21/9",Luxshan Manoranjan,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herresingle,,Luxshan Manoranjan,,Nasar Khan,"21/16,22/20",Luxshan Manoranjan,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herresingle,,Sivasanger Logeswaran,,Rabish Kumar Singh,"24/22,21/9",Sivasanger Logeswaran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herresingle,,Rabish Kumar Singh,,Aditya Panwar,"23/21,21/6",Rabish Kumar Singh,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Naseeb Kanhirathodi,Dhanish Nair,Brahma Dalei,Sri Kanth Mudhireddy,"21/13,21/5",Naseeb Kanhirathodi,Dhanish Nair
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Brahma Dalei,Sri Kanth Mudhireddy,Amir Shahzad,Umair Rasool,"21/16,21/11",Brahma Dalei,Sri Kanth Mudhireddy
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Naseeb Kanhirathodi,Dhanish Nair,Bibin Pottananiyil Bhaskaran,Rajesh Raj,"21/13,21/15",Naseeb Kanhirathodi,Dhanish Nair
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Bibin Pottananiyil Bhaskaran,Rajesh Raj,Sivasanger Logeswaran,Stalinkumar Velummylum,"21/18,21/17",Bibin Pottananiyil Bhaskaran,Rajesh Raj
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Naseeb Kanhirathodi,Dhanish Nair,Sivasanger Logeswaran,Stalinkumar Velummylum,"21/15,21/8",Naseeb Kanhirathodi,Dhanish Nair
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Amir Shahzad,Umair Rasool,Nasar Khan,khalid Mahmood,"21/13,21/17",Amir Shahzad,Umair Rasool
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Arjun Rajagopal,Bala murali krishna Bokkisam,Nasar Khan,khalid Mahmood,"21/18,21/13",Arjun Rajagopal,Bala murali krishna Bokkisam
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Amir Shahzad,Umair Rasool,Arjun Rajagopal,Bala murali krishna Bokkisam,"22/20,22/20",Amir Shahzad,Umair Rasool
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Qasam Shah,Hayder Shahzad Ahemd,Sanket Shah,Jay Udaykumar Patel,"21/8,21/17",Qasam Shah,Hayder Shahzad Ahemd
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Brahma Dalei,Sri Kanth Mudhireddy,Qasam Shah,Hayder Shahzad Ahemd,"21/12,21/8",Brahma Dalei,Sri Kanth Mudhireddy
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,SEN D,Herredouble,Brahma Dalei,Sri Kanth Mudhireddy,Sanket Shah,Jay Udaykumar Patel,"21/13,21/18",Brahma Dalei,Sri Kanth Mudhireddy
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,Herresingle,,Pretika Angelina Sivasanger,,Zakhar Petrina,"21/5,21/5",Pretika Angelina Sivasanger,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,Herresingle,,Viaan Chawla,,Mohammed Ali Rashid,"21/15,21/14",Viaan Chawla,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,Herresingle,,Viaan Chawla,,Pretika Angelina Sivasanger,"21/18,23/21",Viaan Chawla,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,Herresingle,,Mohammed Ali Rashid,,Zakhar Petrina,"14/21,21/12,21/10",Mohammed Ali Rashid,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,Herresingle,,Viaan Chawla,,Zakhar Petrina,"21/5,21/6",Viaan Chawla,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U9 A,Herresingle,,Pretika Angelina Sivasanger,,Mohammed Ali Rashid,"21/12,21/17",Pretika Angelina Sivasanger,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Advait Punjal,,Robin Singh Bajwa,"21/8,21/12",Advait Punjal,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Mary Sophia Salvadhoor,,Rania Rashid,"21/13,21/18",Mary Sophia Salvadhoor,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Robin Singh Bajwa,,Rania Rashid,"19/21,21/5,21/19",Robin Singh Bajwa,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Advait Punjal,,Mary Sophia Salvadhoor,"21/11,23/21",Advait Punjal,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Robin Singh Bajwa,,Mary Sophia Salvadhoor,"21/18,21/17",Robin Singh Bajwa,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Advait Punjal,,Rania Rashid,"21/8,21/7",Advait Punjal,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Marius Ågesen,,Vaibhav Sharma,"21/15,21/13",Marius Ågesen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Marius Ågesen,,Neil Sharma,"21/13,21/18",Marius Ågesen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herresingle,,Vaibhav Sharma,,Neil Sharma,"18/21,21/18,21/18",Vaibhav Sharma,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herredouble,Neil Sharma,Marius Ågesen,Advait Punjal,Robin Singh Bajwa,"21/18,21/18",Neil Sharma,Marius Ågesen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herredouble,Kian Aamodt,Dhakshith Rajesh,Yadhavan Jeybasker,Varshan Jeyabaskar,"21/19,11/21,21/9",Kian Aamodt,Dhakshith Rajesh
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herredouble,Neil Sharma,Marius Ågesen,Yadhavan Jeybasker,Varshan Jeyabaskar,"21/18,21/9",Neil Sharma,Marius Ågesen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herredouble,Advait Punjal,Robin Singh Bajwa,Kian Aamodt,Dhakshith Rajesh,"21/15,21/19",Advait Punjal,Robin Singh Bajwa
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herredouble,Neil Sharma,Marius Ågesen,Kian Aamodt,Dhakshith Rajesh,"21/9,21/16",Neil Sharma,Marius Ågesen
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 A,Herredouble,Advait Punjal,Robin Singh Bajwa,Yadhavan Jeybasker,Varshan Jeyabaskar,"21/12,21/18",Advait Punjal,Robin Singh Bajwa
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,Herresingle,,Dhakshith Rajesh,,Ishana Viyala,"21/5,21/4",Dhakshith Rajesh,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,Herresingle,,Kian Aamodt,,Arnav Ashish Gandhi,"21/13,21/18",Kian Aamodt,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,Herresingle,,Kian Aamodt,,Ishana Viyala,"21/11,21/6",Kian Aamodt,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,Herresingle,,Dhakshith Rajesh,,Arnav Ashish Gandhi,"21/5,21/16",Dhakshith Rajesh,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,Herresingle,,Arnav Ashish Gandhi,,Ishana Viyala,"21/11,21/15",Arnav Ashish Gandhi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 B,Herresingle,,Dhakshith Rajesh,,Kian Aamodt,"21/18,12/21,21/17",Dhakshith Rajesh,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Ida Keren Zhou,,Vihaan Singh,"21/18,23/21",Ida Keren Zhou,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Nguyen Joanna Gloria,,Vrishank Kumar Singh,"21/19,21/11",Nguyen Joanna Gloria,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Nguyen Joanna Gloria,,Ida Keren Zhou,"21/8,21/8",Nguyen Joanna Gloria,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Atharv Goyal,,Vihaan Singh,"21/18,21/23,21/11",Atharv Goyal,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Atharv Goyal,,Ida Keren Zhou,"21/12,21/9",Atharv Goyal,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Vrishank Kumar Singh,,Vihaan Singh,"21/18,23/21",Vrishank Kumar Singh,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U11 C,Herresingle,,Nguyen Joanna Gloria,,Atharv Goyal,"21/15,21/9",Nguyen Joanna Gloria,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,Damesingle,,Milaniia Petrina,,Ashita Goyal,"21/10,21/9",Milaniia Petrina,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,Damesingle,,Milaniia Petrina,,Charu Pandey,"21/8,21/16",Milaniia Petrina,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 A,Damesingle,,Charu Pandey,,Ashita Goyal,"21/10,21/7",Charu Pandey,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Emil Stensgaard Saugstrup,,Celine Austdal,"22/20,21/14",Emil Stensgaard Saugstrup,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Varg Thorshaug,,Vegard Langseth-Johnsen,"21/13,21/19",Varg Thorshaug,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Aniruddha Sathyanarayanan,,Emil Stensgaard Saugstrup,"21/13,24/22",Aniruddha Sathyanarayanan,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Vegard Langseth-Johnsen,,Celine Austdal,"21/19,16/21,21/19",Vegard Langseth-Johnsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Aniruddha Sathyanarayanan,,Celine Austdal,"19/21,21/17,22/20",Aniruddha Sathyanarayanan,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Varg Thorshaug,,Emil Stensgaard Saugstrup,"21/16,21/16",Varg Thorshaug,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Varg Thorshaug,,Aniruddha Sathyanarayanan,"21/12,20/22,21/14",Varg Thorshaug,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Vegard Langseth-Johnsen,,Emil Stensgaard Saugstrup,"21/16,24/22",Vegard Langseth-Johnsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Vegard Langseth-Johnsen,,Aniruddha Sathyanarayanan,"21/19,21/15",Vegard Langseth-Johnsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U13 C,Herresingle,,Varg Thorshaug,,Celine Austdal,"21/11,22/20",Varg Thorshaug,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Joseph Paul,,Viggo Berglund Melin,"21/7,21/19",Joseph Paul,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Joseph Paul,,Noah Leander Solbakken Svela,"21/10,21/11",Joseph Paul,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Viggo Berglund Melin,,Lukas Endahl Haraldsen,"21/12,21/14",Viggo Berglund Melin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Joseph Paul,,Anders Mägi,"21/17,17/21,21/14",Joseph Paul,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Viggo Berglund Melin,,Ahmed Aldolaimi,"21/8,21/11",Viggo Berglund Melin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Noah Leander Solbakken Svela,,Prakash Sivasanger,"21/12,21/18",Noah Leander Solbakken Svela,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Noah Leander Solbakken Svela,,Aksel Fossåskaret,"21/13,14/21,23/21",Noah Leander Solbakken Svela,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Aksel Fossåskaret,,Prakash Sivasanger,"21/16,21/17",Aksel Fossåskaret,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Joseph Paul,,Einar Kvalbein,"21/7,21/8",Joseph Paul,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Sivert Optjernsberget Vestli,,Einar Kvalbein,"22/20,21/10",Sivert Optjernsberget Vestli,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Joseph Paul,,Sivert Optjernsberget Vestli,"21/11,21/9",Joseph Paul,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Léonard Thor Achaz Grøndahl,,Adit Amol More,"21/18,21/9",Léonard Thor Achaz Grøndahl,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Anders Mägi,,Léonard Thor Achaz Grøndahl,"21/14,21/14",Anders Mägi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Anders Mägi,,Adit Amol More,"21/11,21/9",Anders Mägi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Joakim Istad,,Vemund Grimmer,"21/5,21/5",Joakim Istad,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Viggo Berglund Melin,,Joakim Istad,"21/12,21/17",Viggo Berglund Melin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Viggo Berglund Melin,,Vemund Grimmer,"21/11,21/5",Viggo Berglund Melin,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Cao Gia Bao Thai,,Kasper Støa,"21/8,21/5",Cao Gia Bao Thai,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Ahmed Aldolaimi,,Cao Gia Bao Thai,"21/13,21/15",Ahmed Aldolaimi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Ahmed Aldolaimi,,Kasper Støa,"21/13,21/11",Ahmed Aldolaimi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Lukas Endahl Haraldsen,,Vetle Sætre-Davidsen,"21/19,24/22",Lukas Endahl Haraldsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Henrik Bye,,Vetle Sætre-Davidsen,"19/21,21/16,21/8",Henrik Bye,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herresingle,,Lukas Endahl Haraldsen,,Henrik Bye,"21/12,21/11",Lukas Endahl Haraldsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Sarah Zeyu Du,,Amal Mariia Elrozi,"25/23,21/12",Sarah Zeyu Du,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Martine Skjeltorp Nyborg,,Chinbe Weeratoon Svensson,"21/14,21/19",Martine Skjeltorp Nyborg,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Sarah Zeyu Du,,Martine Skjeltorp Nyborg,"21/15,21/9",Sarah Zeyu Du,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Janna Alexa Rodriguez De Ocampo,,Chinbe Weeratoon Svensson,"21/18,16/21,22/20",Janna Alexa Rodriguez De Ocampo,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Sarah Zeyu Du,,Janna Alexa Rodriguez De Ocampo,"21/5,21/7",Sarah Zeyu Du,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Martine Skjeltorp Nyborg,,Amal Mariia Elrozi,"17/21,21/13,21/17",Martine Skjeltorp Nyborg,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Amal Mariia Elrozi,,Chinbe Weeratoon Svensson,"21/11,21/10",Amal Mariia Elrozi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Martine Skjeltorp Nyborg,,Janna Alexa Rodriguez De Ocampo,"21/10,21/9",Martine Skjeltorp Nyborg,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Sarah Zeyu Du,,Chinbe Weeratoon Svensson,"21/9,21/7",Sarah Zeyu Du,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Damesingle,,Amal Mariia Elrozi,,Janna Alexa Rodriguez De Ocampo,"21/12,21/11",Amal Mariia Elrozi,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Viggo Berglund Melin,Anders Mägi,Joseph Paul,Noah Leander Solbakken Svela,"16/21,21/15,21/12",Viggo Berglund Melin,Anders Mägi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Viggo Berglund Melin,Anders Mägi,Cao Gia Bao Thai,Aksel Fossåskaret,"23/21,21/18",Viggo Berglund Melin,Anders Mägi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Joseph Paul,Noah Leander Solbakken Svela,Sivert Optjernsberget Vestli,Theodor J. Myrvoll,"21/13,21/19",Joseph Paul,Noah Leander Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Sarah Zeyu Du,Leon Matheo Solbakken Svela,Henrik Bye,Vetle Sætre-Davidsen,"21/15,21/10",Sarah Zeyu Du,Leon Matheo Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Joseph Paul,Noah Leander Solbakken Svela,Sarah Zeyu Du,Leon Matheo Solbakken Svela,"21/14,21/11",Joseph Paul,Noah Leander Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Sivert Optjernsberget Vestli,Theodor J. Myrvoll,Henrik Bye,Vetle Sætre-Davidsen,"21/14,21/9",Sivert Optjernsberget Vestli,Theodor J. Myrvoll
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Joseph Paul,Noah Leander Solbakken Svela,Henrik Bye,Vetle Sætre-Davidsen,"21/5,21/2",Joseph Paul,Noah Leander Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Sivert Optjernsberget Vestli,Theodor J. Myrvoll,Sarah Zeyu Du,Leon Matheo Solbakken Svela,"21/14,19/21,21/15",Sivert Optjernsberget Vestli,Theodor J. Myrvoll
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Filip Isdahl-Larsen,Léonard Thor Achaz Grøndahl,Vemund Grimmer,Jonathan Avnsjø Fredriksen,"21/12,21/8",Filip Isdahl-Larsen,Léonard Thor Achaz Grøndahl
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Viggo Berglund Melin,Anders Mägi,Filip Isdahl-Larsen,Léonard Thor Achaz Grøndahl,"21/11,21/16",Viggo Berglund Melin,Anders Mägi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Viggo Berglund Melin,Anders Mägi,Vemund Grimmer,Jonathan Avnsjø Fredriksen,"21/4,21/5",Viggo Berglund Melin,Anders Mägi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Cao Gia Bao Thai,Aksel Fossåskaret,Mohammad Hassan Sajjad,Aayan Akram,"21/18,21/9",Cao Gia Bao Thai,Aksel Fossåskaret
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Cao Gia Bao Thai,Aksel Fossåskaret,Lorens Valentin Holmboe,Mads Lucien Lelièvre,"21/5,21/8",Cao Gia Bao Thai,Aksel Fossåskaret
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Herredouble,Lorens Valentin Holmboe,Mads Lucien Lelièvre,Mohammad Hassan Sajjad,Aayan Akram,"21/17,15/21,21/18",Lorens Valentin Holmboe,Mads Lucien Lelièvre
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Sarah Zeyu Du,Leon Matheo Solbakken Svela,Aksel Fossåskaret,Amal Mariia Elrozi,"21/16,21/16",Sarah Zeyu Du,Leon Matheo Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Aksel Fossåskaret,Amal Mariia Elrozi,Lorens Valentin Holmboe,Janna Alexa Rodriguez De Ocampo,"21/14,21/5",Aksel Fossåskaret,Amal Mariia Elrozi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Aksel Fossåskaret,Amal Mariia Elrozi,Cao Gia Bao Thai,Martine Skjeltorp Nyborg,"12/21,21/14,26/24",Aksel Fossåskaret,Amal Mariia Elrozi
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Cao Gia Bao Thai,Martine Skjeltorp Nyborg,Lorens Valentin Holmboe,Janna Alexa Rodriguez De Ocampo,"21/10,21/16",Cao Gia Bao Thai,Martine Skjeltorp Nyborg
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Einar Kvalbein,Chinbe Weeratoon Svensson,Samyukktha Sathyanarayanan,Vemund Grimmer,"21/14,21/12",Einar Kvalbein,Chinbe Weeratoon Svensson
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Sarah Zeyu Du,Leon Matheo Solbakken Svela,Einar Kvalbein,Chinbe Weeratoon Svensson,"21/14,21/16",Sarah Zeyu Du,Leon Matheo Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 A,Mixeddouble,Sarah Zeyu Du,Leon Matheo Solbakken Svela,Samyukktha Sathyanarayanan,Vemund Grimmer,"21/15,21/12",Sarah Zeyu Du,Leon Matheo Solbakken Svela
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Filip Isdahl-Larsen,,Jakob Mordt-Bratteng,"21/19,21/12",Filip Isdahl-Larsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Jakob Mordt-Bratteng,,Mohammad Hassan Sajjad,"25/23,23/21",Jakob Mordt-Bratteng,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Filip Isdahl-Larsen,,Theo Hodne,"21/15,21/19",Filip Isdahl-Larsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Aaron Wasa-Schrader,,Kalyann Kaza,"21/18,21/13",Aaron Wasa-Schrader,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Jakob Mordt-Bratteng,,Kalyann Kaza,"21/23,21/14,21/19",Jakob Mordt-Bratteng,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Jakob Mordt-Bratteng,,Aaron Wasa-Schrader,"21/13,17/21,21/14",Jakob Mordt-Bratteng,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Mohammad Hassan Sajjad,,Jonathan Avnsjø Fredriksen,"21/15,16/21,21/18",Mohammad Hassan Sajjad,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Mohammad Hassan Sajjad,,Mohammadshayan Koraei,"21/19,21/17",Mohammad Hassan Sajjad,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Jonathan Avnsjø Fredriksen,,Mohammadshayan Koraei,"21/16,21/13",Jonathan Avnsjø Fredriksen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Theo Hodne,,Aksel Søberg Korsvik,"21/8,21/16",Theo Hodne,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Aksel Søberg Korsvik,,Aayan Akram,"21/17,21/15",Aksel Søberg Korsvik,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Theo Hodne,,Aayan Akram,"21/12,21/17",Theo Hodne,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Filip Isdahl-Larsen,,Ask Emilian Herlung,"21/11,21/14",Filip Isdahl-Larsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Ask Emilian Herlung,,Lorens Valentin Holmboe,"10/21,21/13,21/19",Ask Emilian Herlung,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Herresingle,,Filip Isdahl-Larsen,,Lorens Valentin Holmboe,"21/13,21/10",Filip Isdahl-Larsen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Damesingle,,Sania Kamran,,Maria Ringstad,"21/6,21/5",Sania Kamran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Damesingle,,Vidya Viyala,,Samyukktha Sathyanarayanan,"21/16,21/13",Vidya Viyala,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Damesingle,,Vidya Viyala,,Maria Ringstad,"21/10,21/13",Vidya Viyala,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Damesingle,,Sania Kamran,,Samyukktha Sathyanarayanan,"21/13,21/6",Sania Kamran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Damesingle,,Sania Kamran,,Vidya Viyala,"21/18,21/16",Sania Kamran,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U15 B,Damesingle,,Samyukktha Sathyanarayanan,,Maria Ringstad,"21/9,22/20",Samyukktha Sathyanarayanan,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U17 A,Herresingle,,Emil Steffensen,,Hjalmar Goa Rønningen,"21/5,21/2",Emil Steffensen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U17 A,Herresingle,,Filip Nguyen,,Livald Johan Rydningen,"21/8,21/12",Filip Nguyen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U17 A,Herresingle,,Filip Nguyen,,Hjalmar Goa Rønningen,"21/18,18/21,21/18",Filip Nguyen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U17 A,Herresingle,,Emil Steffensen,,Livald Johan Rydningen,"21/8,21/2",Emil Steffensen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U17 A,Herresingle,,Hjalmar Goa Rønningen,,Livald Johan Rydningen,"19/21,21/15,21/14",Hjalmar Goa Rønningen,
+2022/2023,Haugerud Haugerud vårcup,03.06.2023,U17 A,Herresingle,,Emil Steffensen,,Filip Nguyen,"21/7,21/11",Emil Steffensen,

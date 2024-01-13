@@ -1,291 +1,153 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Juho Nokelainen,"21/13,21/10",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Nauman Majid,"21/4,21/14",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Andreas Andersen,"12/21,21/15,21/11",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Tore Nilsen,"21/13,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Simen  Kokkvoll,"21/12,21/17",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Toni Vahevaara,"21/16,21/19",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Terje Jacobsen,"21/16,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Pankaj Bhart,"21/8,21/7",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Aleksander  Røeggen Johansen,"12/21,21/9,21/10",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Aleksander  Røeggen Johansen,"21/19,21/16",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Pankaj Bhart,"21/10,21/2",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Toni Vahevaara,"21/18,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Aleksander  Røeggen Johansen,,Pankaj Bhart,"21/12,21/13",Aleksander  Røeggen Johansen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Andrei Zhulnov,"21/15,21/18",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Terje Jacobsen,,Ernst Georg Olsen,"21/16,21/18",Terje Jacobsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Ernst Georg Olsen,"21/10,21/7",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andrei Zhulnov,,Terje Jacobsen,"13/21,22/20,21/12",Andrei Zhulnov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Terje Jacobsen,"21/6,21/16",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ernst Georg Olsen,,Andrei Zhulnov,"22/20,12/21,21/12",Ernst Georg Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Torstein Monsen,"21/16,21/16",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Tore Nilsen,"21/11,21/12",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Bjørn Rakstang,"21/12,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Torstein Monsen,"21/1,21/11",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Bjørn Rakstang,"16/21,21/14,21/17",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Torstein Monsen,"21/15,24/22",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Niclas Thörn,"21/13,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Bjørn Rakstang,"21/9,21/4",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Niclas Thörn,"21/11,21/7",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Bjørn Rakstang,,Torstein Monsen,"21/17,17/21,21/16",Bjørn Rakstang,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Kristian Hyllestad,"21/3,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Vegar Næss,"21/12,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Kristian Hyllestad,"21/9,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Vegar Næss,"21/13,21/14",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vegar Næss,,Kristian Hyllestad,"21/10,21/11",Vegar Næss,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Simen  Kokkvoll,"21/15,21/15",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Juho Nokelainen,"21/13,21/10",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Nauman Majid,"21/4,21/14",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Andreas Andersen,"12/21,21/15,21/11",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Tore Nilsen,"21/13,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Simen  Kokkvoll,"21/12,21/17",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Toni Vahevaara,"21/16,21/19",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Terje Jacobsen,"21/16,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Pankaj Bhart,"21/8,21/7",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Aleksander  Røeggen Johansen,"12/21,21/9,21/10",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Aleksander  Røeggen Johansen,"21/19,21/16",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Pankaj Bhart,"21/10,21/2",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Toni Vahevaara,"21/18,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Aleksander  Røeggen Johansen,,Pankaj Bhart,"21/12,21/13",Aleksander  Røeggen Johansen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Andrei Zhulnov,"21/15,21/18",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Terje Jacobsen,,Ernst Georg Olsen,"21/16,21/18",Terje Jacobsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Ernst Georg Olsen,"21/10,21/7",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andrei Zhulnov,,Terje Jacobsen,"13/21,22/20,21/12",Andrei Zhulnov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Terje Jacobsen,"21/6,21/16",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ernst Georg Olsen,,Andrei Zhulnov,"22/20,12/21,21/12",Ernst Georg Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Torstein Monsen,"21/16,21/16",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Tore Nilsen,"21/11,21/12",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Bjørn Rakstang,"21/12,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Torstein Monsen,"21/1,21/11",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Bjørn Rakstang,"16/21,21/14,21/17",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Torstein Monsen,"21/15,24/22",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Niclas Thörn,"21/13,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Bjørn Rakstang,"21/9,21/4",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Niclas Thörn,"21/11,21/7",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Bjørn Rakstang,,Torstein Monsen,"21/17,17/21,21/16",Bjørn Rakstang,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Kristian Hyllestad,"21/3,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Vegar Næss,"21/12,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Kristian Hyllestad,"21/9,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Vegar Næss,"21/13,21/14",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vegar Næss,,Kristian Hyllestad,"21/10,21/11",Vegar Næss,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Simen  Kokkvoll,"21/15,21/15",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ingelin Espeseth,,Katri Koponen,"21/12,21/12",Ingelin Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Sara Tuomala,"16/21,21/13,21/13",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Katri Koponen,,Marthe Almaas,"21/17,21/14",Katri Koponen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Sara Tuomala,,Ingelin Espeseth,"21/19,21/12",Sara Tuomala,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Katri Koponen,"21/8,21/7",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Katri Koponen,,Irina Beloshitckaia,"21/5,21/12",Katri Koponen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Sara Tuomala,,Marthe Almaas,"21/15,21/14",Sara Tuomala,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Ingelin Espeseth,"21/16,21/9",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ingelin Espeseth,,Irina Beloshitckaia,"21/6,21/2",Ingelin Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Sara Tuomala,,Katri Koponen,"21/19,21/6",Sara Tuomala,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Marthe Almaas,"21/7,21/9",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Jan Petter Olsen,Niclas Thörn,"21/17,21/15",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Sanni Rautala,Sara Tuomala,Aleksander  Røeggen Johansen,Simen  Kokkvoll,"21/11,21/9",Sanni Rautala,Sara Tuomala
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Andreas Andersen,Vegar Næss,"21/17,21/12",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Tom Brovold,Julius Von Pfaler,"21/15,21/14",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Toni Vahevaara,Juho Nokelainen,"21/18,21/17",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Sanni Rautala,Sara Tuomala,Jan Petter Olsen,Niclas Thörn,"21/19,21/10",Sanni Rautala,Sara Tuomala
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Aleksander  Røeggen Johansen,Simen  Kokkvoll,"21/11,21/12",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Aleksander  Røeggen Johansen,Simen  Kokkvoll,Jan Petter Olsen,Niclas Thörn,"21/17,21/16",Aleksander  Røeggen Johansen,Simen  Kokkvoll
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Sanni Rautala,Sara Tuomala,"19/21,21/11,21/10",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Ernst Georg Olsen,Tore Nilsen,"21/15,21/7",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Alexander Demyanchuk,Andrei Zhulnov,Ernst Georg Olsen,Tore Nilsen,"21/18,21/18",Alexander Demyanchuk,Andrei Zhulnov
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Bjørn Rakstang,Kristian Hyllestad,"21/8,21/9",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Alexander Demyanchuk,Andrei Zhulnov,"21/12,21/10",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Ernst Georg Olsen,Tore Nilsen,Bjørn Rakstang,Kristian Hyllestad,"21/5,21/17",Ernst Georg Olsen,Tore Nilsen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Vilde Espeseth,Ingelin Espeseth,Nauman Majid,Terje Jacobsen,"21/16,21/19",Vilde Espeseth,Ingelin Espeseth
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Torstein Monsen,Pankaj Bhart,"21/7,21/12",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Vilde Espeseth,Ingelin Espeseth,Torstein Monsen,Pankaj Bhart,"21/7,21/15",Vilde Espeseth,Ingelin Espeseth
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Nauman Majid,Terje Jacobsen,"21/14,21/11",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Vilde Espeseth,Ingelin Espeseth,"18/21,24/22,21/14",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Nauman Majid,Terje Jacobsen,Torstein Monsen,Pankaj Bhart,"21/9,21/11",Nauman Majid,Terje Jacobsen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Kim Steve Nystad,"13/21,26/24,21/14",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Aleksei Borovikov,"21/15,21/10",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kim Steve Nystad,,Hendry Nordli,"21/11,21/13",Kim Steve Nystad,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Jan Petter Olsen,"21/17,21/11",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Alexander Demyanchuk,,Jan Petter Olsen,"15/21,21/13,23/21",Alexander Demyanchuk,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Joakim Andreassen,,Tor Ragnar Johansen,"21/15,21/15",Joakim Andreassen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Jan Petter Olsen,,Tor Ragnar Johansen,"21/15,21/15",Jan Petter Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Joakim Andreassen,,Alexander Demyanchuk,"19/21,21/19,24/22",Joakim Andreassen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Jan Petter Olsen,,Joakim Andreassen,"19/21,21/12,21/18",Jan Petter Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Alexander Demyanchuk,,Tor Ragnar Johansen,"21/11,21/11",Alexander Demyanchuk,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Håvard Zachariassen,,Stig Landin,"21/12,21/13",Håvard Zachariassen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Hendry Nordli,"21/15,21/5",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Hendry Nordli,,Stig Landin,"21/12,15/21,21/11",Hendry Nordli,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Håvard Zachariassen,"21/11,21/16",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Stig Landin,"21/8,21/10",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Hendry Nordli,,Håvard Zachariassen,"21/18,17/21,21/17",Hendry Nordli,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kim Steve Nystad,,Tom Brovold,"21/18,28/26",Kim Steve Nystad,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Aleksei Borovikov,,Tom Brovold,"14/21,21/14,21/17",Aleksei Borovikov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kim Steve Nystad,,Christian Landbo Olesen,"21/15,21/13",Kim Steve Nystad,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Aleksei Borovikov,,Kim Steve Nystad,"22/20,17/21,21/14",Aleksei Borovikov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Tom Brovold,,Christian Landbo Olesen,"21/11,21/10",Tom Brovold,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Aleksei Borovikov,,Christian Landbo Olesen,"21/19,11/21,22/20",Aleksei Borovikov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Kim Steve Nystad,"13/21,26/24,21/14",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Aleksei Borovikov,"21/15,21/10",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kim Steve Nystad,,Hendry Nordli,"21/11,21/13",Kim Steve Nystad,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Jan Petter Olsen,"21/17,21/11",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Alexander Demyanchuk,,Jan Petter Olsen,"15/21,21/13,23/21",Alexander Demyanchuk,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Joakim Andreassen,,Tor Ragnar Johansen,"21/15,21/15",Joakim Andreassen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Jan Petter Olsen,,Tor Ragnar Johansen,"21/15,21/15",Jan Petter Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Joakim Andreassen,,Alexander Demyanchuk,"19/21,21/19,24/22",Joakim Andreassen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Jan Petter Olsen,,Joakim Andreassen,"19/21,21/12,21/18",Jan Petter Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Alexander Demyanchuk,,Tor Ragnar Johansen,"21/11,21/11",Alexander Demyanchuk,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Håvard Zachariassen,,Stig Landin,"21/12,21/13",Håvard Zachariassen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Hendry Nordli,"21/15,21/5",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Hendry Nordli,,Stig Landin,"21/12,15/21,21/11",Hendry Nordli,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Håvard Zachariassen,"21/11,21/16",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kirill Markin,,Stig Landin,"21/8,21/10",Kirill Markin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Hendry Nordli,,Håvard Zachariassen,"21/18,17/21,21/17",Hendry Nordli,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kim Steve Nystad,,Tom Brovold,"21/18,28/26",Kim Steve Nystad,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Aleksei Borovikov,,Tom Brovold,"14/21,21/14,21/17",Aleksei Borovikov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Kim Steve Nystad,,Christian Landbo Olesen,"21/15,21/13",Kim Steve Nystad,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Aleksei Borovikov,,Kim Steve Nystad,"22/20,17/21,21/14",Aleksei Borovikov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Tom Brovold,,Christian Landbo Olesen,"21/11,21/10",Tom Brovold,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,,Aleksei Borovikov,,Christian Landbo Olesen,"21/19,11/21,22/20",Aleksei Borovikov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Kim Steve Nystad,Hendry Nordli,Kirill Markin,Aleksei Borovikov,"15/21,21/17,21/16",Kim Steve Nystad,Hendry Nordli
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Kim Steve Nystad,Hendry Nordli,Stig Landin,Ståle Åbotsvik,"12/21,21/10,21/12",Kim Steve Nystad,Hendry Nordli
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Kim Steve Nystad,Hendry Nordli,Katri Koponen,Marthe Almaas,"21/16,21/19",Kim Steve Nystad,Hendry Nordli
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Kirill Markin,Aleksei Borovikov,Tor Ragnar Johansen,Håvard Zachariassen,"21/10,21/11",Kirill Markin,Aleksei Borovikov
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Stig Landin,Ståle Åbotsvik,Tor Ragnar Johansen,Håvard Zachariassen,"21/11,21/17",Stig Landin,Ståle Åbotsvik
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Kirill Markin,Aleksei Borovikov,Stig Landin,Ståle Åbotsvik,"21/5,21/8",Kirill Markin,Aleksei Borovikov
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Bård Johannesen,"21/13,21/12",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Roar Larsen,"21/9,21/13",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Bård Johannesen,,Marco Torgersen,"21/23,21/19,21/17",Bård Johannesen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Roar Larsen,,Audun Knutssønn Hauge,"21/16,21/9",Roar Larsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Bård Johannesen,,Malvind Børresen,"21/18,22/20",Bård Johannesen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Ståle Åbotsvik,"20/22,21/19,21/14",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Bård Johannesen,"21/13,21/15",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Bård Johannesen,,Ståle Åbotsvik,"21/18,26/24",Bård Johannesen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Malvind Børresen,,Stig Åke Holm,"21/10,23/21",Malvind Børresen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Malvind Børresen,,Roar Larsen,"21/15,16/21,21/17",Malvind Børresen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Roar Larsen,,Stig Åke Holm,"23/21,21/15",Roar Larsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Marco Torgersen,,Ole Martin Olsen,"21/8,21/7",Marco Torgersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Audun Knutssønn Hauge,,Ole Martin Olsen,"12/21,21/17,21/15",Audun Knutssønn Hauge,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Marco Torgersen,,Audun Knutssønn Hauge,"21/9,21/10",Marco Torgersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Bård Johannesen,"21/13,21/12",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Roar Larsen,"21/9,21/13",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Bård Johannesen,,Marco Torgersen,"21/23,21/19,21/17",Bård Johannesen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Roar Larsen,,Audun Knutssønn Hauge,"21/16,21/9",Roar Larsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Bård Johannesen,,Malvind Børresen,"21/18,22/20",Bård Johannesen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Ståle Åbotsvik,"20/22,21/19,21/14",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Aleksei Gorstkin,,Bård Johannesen,"21/13,21/15",Aleksei Gorstkin,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Bård Johannesen,,Ståle Åbotsvik,"21/18,26/24",Bård Johannesen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Malvind Børresen,,Stig Åke Holm,"21/10,23/21",Malvind Børresen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Malvind Børresen,,Roar Larsen,"21/15,16/21,21/17",Malvind Børresen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Roar Larsen,,Stig Åke Holm,"23/21,21/15",Roar Larsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Marco Torgersen,,Ole Martin Olsen,"21/8,21/7",Marco Torgersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Audun Knutssønn Hauge,,Ole Martin Olsen,"12/21,21/17,21/15",Audun Knutssønn Hauge,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,,Marco Torgersen,,Audun Knutssønn Hauge,"21/9,21/10",Marco Torgersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Erik Winger,Jan Aage Nyborg,Bård Johannesen,Roar Larsen,"28/26,21/19",Erik Winger,Jan Aage Nyborg
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Erik Winger,Jan Aage Nyborg,Christian Landbo Olesen,Stig Åke Holm,"21/18,21/19",Erik Winger,Jan Aage Nyborg
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Aleksei Gorstkin,Malvind Børresen,Marco Torgersen,Audun Knutssønn Hauge,"21/14,21/15",Aleksei Gorstkin,Malvind Børresen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Christian Landbo Olesen,Stig Åke Holm,Aleksei Gorstkin,Malvind Børresen,"19/21,21/14,21/18",Christian Landbo Olesen,Stig Åke Holm
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Erik Winger,Jan Aage Nyborg,Marco Torgersen,Audun Knutssønn Hauge,"21/18,18/21,21/15",Erik Winger,Jan Aage Nyborg
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Christian Landbo Olesen,Stig Åke Holm,Marco Torgersen,Audun Knutssønn Hauge,"21/19,21/9",Christian Landbo Olesen,Stig Åke Holm
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Erik Winger,Jan Aage Nyborg,Aleksei Gorstkin,Malvind Børresen,"21/19,21/15",Erik Winger,Jan Aage Nyborg
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Joakim Andreassen,Freddy Øien,Ole Martin Olsen,Forsland Håkon,"21/12,21/8",Joakim Andreassen,Freddy Øien
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Bård Johannesen,Roar Larsen,Ole Martin Olsen,Forsland Håkon,"21/15,21/12",Bård Johannesen,Roar Larsen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Bård Johannesen,Roar Larsen,Joakim Andreassen,Freddy Øien,"22/24,21/10,21/16",Bård Johannesen,Roar Larsen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Juho Nokelainen,"21/13,21/10",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Nauman Majid,"21/4,21/14",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Andreas Andersen,"12/21,21/15,21/11",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Tore Nilsen,"21/13,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Simen  Kokkvoll,"21/12,21/17",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Toni Vahevaara,"21/16,21/19",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Terje Jacobsen,"21/16,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Pankaj Bhart,"21/8,21/7",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Aleksander  Røeggen Johansen,"12/21,21/9,21/10",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Aleksander  Røeggen Johansen,"21/19,21/16",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Pankaj Bhart,"21/10,21/2",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Toni Vahevaara,"21/18,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Aleksander  Røeggen Johansen,,Pankaj Bhart,"21/12,21/13",Aleksander  Røeggen Johansen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Andrei Zhulnov,"21/15,21/18",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Terje Jacobsen,,Ernst Georg Olsen,"21/16,21/18",Terje Jacobsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Ernst Georg Olsen,"21/10,21/7",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andrei Zhulnov,,Terje Jacobsen,"13/21,22/20,21/12",Andrei Zhulnov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Terje Jacobsen,"21/6,21/16",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ernst Georg Olsen,,Andrei Zhulnov,"22/20,12/21,21/12",Ernst Georg Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Torstein Monsen,"21/16,21/16",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Tore Nilsen,"21/11,21/12",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Bjørn Rakstang,"21/12,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Torstein Monsen,"21/1,21/11",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Bjørn Rakstang,"16/21,21/14,21/17",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Torstein Monsen,"21/15,24/22",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Niclas Thörn,"21/13,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Bjørn Rakstang,"21/9,21/4",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Niclas Thörn,"21/11,21/7",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Bjørn Rakstang,,Torstein Monsen,"21/17,17/21,21/16",Bjørn Rakstang,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Kristian Hyllestad,"21/3,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Vegar Næss,"21/12,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Kristian Hyllestad,"21/9,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Vegar Næss,"21/13,21/14",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vegar Næss,,Kristian Hyllestad,"21/10,21/11",Vegar Næss,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Simen  Kokkvoll,"21/15,21/15",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Juho Nokelainen,"21/13,21/10",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Nauman Majid,"21/4,21/14",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Andreas Andersen,"12/21,21/15,21/11",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Tore Nilsen,"21/13,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Simen  Kokkvoll,"21/12,21/17",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Toni Vahevaara,"21/16,21/19",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Terje Jacobsen,"21/16,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Pankaj Bhart,"21/8,21/7",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Aleksander  Røeggen Johansen,"12/21,21/9,21/10",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Toni Vahevaara,,Aleksander  Røeggen Johansen,"21/19,21/16",Toni Vahevaara,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Pankaj Bhart,"21/10,21/2",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Nauman Majid,,Toni Vahevaara,"21/18,21/19",Nauman Majid,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Aleksander  Røeggen Johansen,,Pankaj Bhart,"21/12,21/13",Aleksander  Røeggen Johansen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Andrei Zhulnov,"21/15,21/18",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Terje Jacobsen,,Ernst Georg Olsen,"21/16,21/18",Terje Jacobsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Ernst Georg Olsen,"21/10,21/7",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andrei Zhulnov,,Terje Jacobsen,"13/21,22/20,21/12",Andrei Zhulnov,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Julius Von Pfaler,,Terje Jacobsen,"21/6,21/16",Julius Von Pfaler,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ernst Georg Olsen,,Andrei Zhulnov,"22/20,12/21,21/12",Ernst Georg Olsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Torstein Monsen,"21/16,21/16",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Tore Nilsen,"21/11,21/12",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Bjørn Rakstang,"21/12,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Torstein Monsen,"21/1,21/11",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Niclas Thörn,,Bjørn Rakstang,"16/21,21/14,21/17",Niclas Thörn,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Torstein Monsen,"21/15,24/22",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Tore Nilsen,,Niclas Thörn,"21/13,21/16",Tore Nilsen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Bjørn Rakstang,"21/9,21/4",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Andreas Andersen,,Niclas Thörn,"21/11,21/7",Andreas Andersen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Bjørn Rakstang,,Torstein Monsen,"21/17,17/21,21/16",Bjørn Rakstang,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Kristian Hyllestad,"21/3,21/10",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Vegar Næss,"21/12,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Simen  Kokkvoll,,Kristian Hyllestad,"21/9,21/7",Simen  Kokkvoll,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Vegar Næss,"21/13,21/14",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vegar Næss,,Kristian Hyllestad,"21/10,21/11",Vegar Næss,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Juho Nokelainen,,Simen  Kokkvoll,"21/15,21/15",Juho Nokelainen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ingelin Espeseth,,Katri Koponen,"21/12,21/12",Ingelin Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Sara Tuomala,"16/21,21/13,21/13",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Katri Koponen,,Marthe Almaas,"21/17,21/14",Katri Koponen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Sara Tuomala,,Ingelin Espeseth,"21/19,21/12",Sara Tuomala,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Katri Koponen,"21/8,21/7",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Katri Koponen,,Irina Beloshitckaia,"21/5,21/12",Katri Koponen,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Sara Tuomala,,Marthe Almaas,"21/15,21/14",Sara Tuomala,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Ingelin Espeseth,"21/16,21/9",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Ingelin Espeseth,,Irina Beloshitckaia,"21/6,21/2",Ingelin Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Sara Tuomala,,Katri Koponen,"21/19,21/6",Sara Tuomala,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,,Vilde Espeseth,,Marthe Almaas,"21/7,21/9",Vilde Espeseth,
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Jan Petter Olsen,Niclas Thörn,"21/17,21/15",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Sanni Rautala,Sara Tuomala,Aleksander  Røeggen Johansen,Simen  Kokkvoll,"21/11,21/9",Sanni Rautala,Sara Tuomala
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Andreas Andersen,Vegar Næss,"21/17,21/12",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Tom Brovold,Julius Von Pfaler,"21/15,21/14",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Toni Vahevaara,Juho Nokelainen,"21/18,21/17",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Sanni Rautala,Sara Tuomala,Jan Petter Olsen,Niclas Thörn,"21/19,21/10",Sanni Rautala,Sara Tuomala
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Aleksander  Røeggen Johansen,Simen  Kokkvoll,"21/11,21/12",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Aleksander  Røeggen Johansen,Simen  Kokkvoll,Jan Petter Olsen,Niclas Thörn,"21/17,21/16",Aleksander  Røeggen Johansen,Simen  Kokkvoll
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Andreas Andersen,Vegar Næss,Sanni Rautala,Sara Tuomala,"19/21,21/11,21/10",Andreas Andersen,Vegar Næss
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Ernst Georg Olsen,Tore Nilsen,"21/15,21/7",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Alexander Demyanchuk,Andrei Zhulnov,Ernst Georg Olsen,Tore Nilsen,"21/18,21/18",Alexander Demyanchuk,Andrei Zhulnov
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Bjørn Rakstang,Kristian Hyllestad,"21/8,21/9",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Toni Vahevaara,Juho Nokelainen,Alexander Demyanchuk,Andrei Zhulnov,"21/12,21/10",Toni Vahevaara,Juho Nokelainen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Ernst Georg Olsen,Tore Nilsen,Bjørn Rakstang,Kristian Hyllestad,"21/5,21/17",Ernst Georg Olsen,Tore Nilsen
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Vilde Espeseth,Ingelin Espeseth,Nauman Majid,Terje Jacobsen,"21/16,21/19",Vilde Espeseth,Ingelin Espeseth
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Torstein Monsen,Pankaj Bhart,"21/7,21/12",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Vilde Espeseth,Ingelin Espeseth,Torstein Monsen,Pankaj Bhart,"21/7,21/15",Vilde Espeseth,Ingelin Espeseth
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Nauman Majid,Terje Jacobsen,"21/14,21/11",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Tom Brovold,Julius Von Pfaler,Vilde Espeseth,Ingelin Espeseth,"18/21,24/22,21/14",Tom Brovold,Julius Von Pfaler
-2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Nauman Majid,Terje Jacobsen,Torstein Monsen,Pankaj Bhart,"21/9,21/11",Nauman Majid,Terje Jacobsen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Julius Von Pfaler,,Juho Nokelainen,"21/13,21/10",Julius Von Pfaler,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Julius Von Pfaler,,Nauman Majid,"21/4,21/14",Julius Von Pfaler,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Juho Nokelainen,,Andreas Andersen,"12/21,21/15,21/11",Juho Nokelainen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Nauman Majid,,Tore Nilsen,"21/13,21/19",Nauman Majid,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Julius Von Pfaler,,Simen  Kokkvoll,"21/12,21/17",Julius Von Pfaler,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Andreas Andersen,,Toni Vahevaara,"21/16,21/19",Andreas Andersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Juho Nokelainen,,Terje Jacobsen,"21/16,21/10",Juho Nokelainen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Toni Vahevaara,,Pankaj Bhart,"21/8,21/7",Toni Vahevaara,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Nauman Majid,,Aleksander  Røeggen Johansen,"12/21,21/9,21/10",Nauman Majid,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Toni Vahevaara,,Aleksander  Røeggen Johansen,"21/19,21/16",Toni Vahevaara,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Nauman Majid,,Pankaj Bhart,"21/10,21/2",Nauman Majid,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Nauman Majid,,Toni Vahevaara,"21/18,21/19",Nauman Majid,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Aleksander  Røeggen Johansen,,Pankaj Bhart,"21/12,21/13",Aleksander  Røeggen Johansen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Julius Von Pfaler,,Andrei Zhulnov,"21/15,21/18",Julius Von Pfaler,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Terje Jacobsen,,Ernst Georg Olsen,"21/16,21/18",Terje Jacobsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Julius Von Pfaler,,Ernst Georg Olsen,"21/10,21/7",Julius Von Pfaler,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Andrei Zhulnov,,Terje Jacobsen,"13/21,22/20,21/12",Andrei Zhulnov,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Julius Von Pfaler,,Terje Jacobsen,"21/6,21/16",Julius Von Pfaler,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Ernst Georg Olsen,,Andrei Zhulnov,"22/20,12/21,21/12",Ernst Georg Olsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Niclas Thörn,,Torstein Monsen,"21/16,21/16",Niclas Thörn,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Andreas Andersen,,Tore Nilsen,"21/11,21/12",Andreas Andersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Tore Nilsen,,Bjørn Rakstang,"21/12,21/16",Tore Nilsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Andreas Andersen,,Torstein Monsen,"21/1,21/11",Andreas Andersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Niclas Thörn,,Bjørn Rakstang,"16/21,21/14,21/17",Niclas Thörn,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Tore Nilsen,,Torstein Monsen,"21/15,24/22",Tore Nilsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Tore Nilsen,,Niclas Thörn,"21/13,21/16",Tore Nilsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Andreas Andersen,,Bjørn Rakstang,"21/9,21/4",Andreas Andersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Andreas Andersen,,Niclas Thörn,"21/11,21/7",Andreas Andersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Bjørn Rakstang,,Torstein Monsen,"21/17,17/21,21/16",Bjørn Rakstang,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Juho Nokelainen,,Kristian Hyllestad,"21/3,21/10",Juho Nokelainen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Simen  Kokkvoll,,Vegar Næss,"21/12,21/7",Simen  Kokkvoll,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Simen  Kokkvoll,,Kristian Hyllestad,"21/9,21/7",Simen  Kokkvoll,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Juho Nokelainen,,Vegar Næss,"21/13,21/14",Juho Nokelainen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Vegar Næss,,Kristian Hyllestad,"21/10,21/11",Vegar Næss,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herresingle,,Juho Nokelainen,,Simen  Kokkvoll,"21/15,21/15",Juho Nokelainen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Ingelin Espeseth,,Katri Koponen,"21/12,21/12",Ingelin Espeseth,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Vilde Espeseth,,Sara Tuomala,"16/21,21/13,21/13",Vilde Espeseth,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Katri Koponen,,Marthe Almaas,"21/17,21/14",Katri Koponen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Sara Tuomala,,Ingelin Espeseth,"21/19,21/12",Sara Tuomala,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Vilde Espeseth,,Katri Koponen,"21/8,21/7",Vilde Espeseth,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Katri Koponen,,Irina Beloshitckaia,"21/5,21/12",Katri Koponen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Sara Tuomala,,Marthe Almaas,"21/15,21/14",Sara Tuomala,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Vilde Espeseth,,Ingelin Espeseth,"21/16,21/9",Vilde Espeseth,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Ingelin Espeseth,,Irina Beloshitckaia,"21/6,21/2",Ingelin Espeseth,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Sara Tuomala,,Katri Koponen,"21/19,21/6",Sara Tuomala,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Damesingle,,Vilde Espeseth,,Marthe Almaas,"21/7,21/9",Vilde Espeseth,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Andreas Andersen,Vegar Næss,Jan Petter Olsen,Niclas Thörn,"21/17,21/15",Andreas Andersen,Vegar Næss
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Sanni Rautala,Sara Tuomala,Aleksander  Røeggen Johansen,Simen  Kokkvoll,"21/11,21/9",Sanni Rautala,Sara Tuomala
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Toni Vahevaara,Juho Nokelainen,Andreas Andersen,Vegar Næss,"21/17,21/12",Toni Vahevaara,Juho Nokelainen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Andreas Andersen,Vegar Næss,Tom Brovold,Julius Von Pfaler,"21/15,21/14",Andreas Andersen,Vegar Næss
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Tom Brovold,Julius Von Pfaler,Toni Vahevaara,Juho Nokelainen,"21/18,21/17",Tom Brovold,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Sanni Rautala,Sara Tuomala,Jan Petter Olsen,Niclas Thörn,"21/19,21/10",Sanni Rautala,Sara Tuomala
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Andreas Andersen,Vegar Næss,Aleksander  Røeggen Johansen,Simen  Kokkvoll,"21/11,21/12",Andreas Andersen,Vegar Næss
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Aleksander  Røeggen Johansen,Simen  Kokkvoll,Jan Petter Olsen,Niclas Thörn,"21/17,21/16",Aleksander  Røeggen Johansen,Simen  Kokkvoll
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Andreas Andersen,Vegar Næss,Sanni Rautala,Sara Tuomala,"19/21,21/11,21/10",Andreas Andersen,Vegar Næss
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Toni Vahevaara,Juho Nokelainen,Ernst Georg Olsen,Tore Nilsen,"21/15,21/7",Toni Vahevaara,Juho Nokelainen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Alexander Demyanchuk,Andrei Zhulnov,Ernst Georg Olsen,Tore Nilsen,"21/18,21/18",Alexander Demyanchuk,Andrei Zhulnov
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Toni Vahevaara,Juho Nokelainen,Bjørn Rakstang,Kristian Hyllestad,"21/8,21/9",Toni Vahevaara,Juho Nokelainen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Toni Vahevaara,Juho Nokelainen,Alexander Demyanchuk,Andrei Zhulnov,"21/12,21/10",Toni Vahevaara,Juho Nokelainen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Ernst Georg Olsen,Tore Nilsen,Bjørn Rakstang,Kristian Hyllestad,"21/5,21/17",Ernst Georg Olsen,Tore Nilsen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Vilde Espeseth,Ingelin Espeseth,Nauman Majid,Terje Jacobsen,"21/16,21/19",Vilde Espeseth,Ingelin Espeseth
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Tom Brovold,Julius Von Pfaler,Torstein Monsen,Pankaj Bhart,"21/7,21/12",Tom Brovold,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Vilde Espeseth,Ingelin Espeseth,Torstein Monsen,Pankaj Bhart,"21/7,21/15",Vilde Espeseth,Ingelin Espeseth
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Tom Brovold,Julius Von Pfaler,Nauman Majid,Terje Jacobsen,"21/14,21/11",Tom Brovold,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Tom Brovold,Julius Von Pfaler,Vilde Espeseth,Ingelin Espeseth,"18/21,24/22,21/14",Tom Brovold,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Herredouble,Nauman Majid,Terje Jacobsen,Torstein Monsen,Pankaj Bhart,"21/9,21/11",Nauman Majid,Terje Jacobsen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Sara Tuomala,Julius Von Pfaler,Sanni Rautala,Juho Nokelainen,"21/18,21/14",Sara Tuomala,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Sanni Rautala,Juho Nokelainen,Irina Beloshitckaia,Andrei Zhulnov,"21/9,21/12",Sanni Rautala,Juho Nokelainen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Sanni Rautala,Juho Nokelainen,Simen  Kokkvoll,Vilde Espeseth,"21/15,21/19",Sanni Rautala,Juho Nokelainen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Simen  Kokkvoll,Vilde Espeseth,Irina Beloshitckaia,Andrei Zhulnov,"21/15,21/8",Simen  Kokkvoll,Vilde Espeseth
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Sara Tuomala,Julius Von Pfaler,Toni Vahevaara,Katri Koponen,"21/13,21/11",Sara Tuomala,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Nauman Majid,Ingelin Espeseth,Vegar Næss,Marthe Almaas,"21/9,23/21",Nauman Majid,Ingelin Espeseth
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Nauman Majid,Ingelin Espeseth,Toni Vahevaara,Katri Koponen,"8/21,21/12,22/20",Nauman Majid,Ingelin Espeseth
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Sara Tuomala,Julius Von Pfaler,Vegar Næss,Marthe Almaas,"21/6,21/11",Sara Tuomala,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Toni Vahevaara,Katri Koponen,Vegar Næss,Marthe Almaas,"21/14,21/14",Toni Vahevaara,Katri Koponen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN A,Mixeddouble,Sara Tuomala,Julius Von Pfaler,Nauman Majid,Ingelin Espeseth,"21/16,21/12",Sara Tuomala,Julius Von Pfaler
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kirill Markin,,Kim Steve Nystad,"13/21,26/24,21/14",Kirill Markin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kirill Markin,,Aleksei Borovikov,"21/15,21/10",Kirill Markin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kim Steve Nystad,,Hendry Nordli,"21/11,21/13",Kim Steve Nystad,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kirill Markin,,Jan Petter Olsen,"21/17,21/11",Kirill Markin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Alexander Demyanchuk,,Jan Petter Olsen,"15/21,21/13,23/21",Alexander Demyanchuk,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Joakim Andreassen,,Tor Ragnar Johansen,"21/15,21/15",Joakim Andreassen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Jan Petter Olsen,,Tor Ragnar Johansen,"21/15,21/15",Jan Petter Olsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Joakim Andreassen,,Alexander Demyanchuk,"19/21,21/19,24/22",Joakim Andreassen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Jan Petter Olsen,,Joakim Andreassen,"19/21,21/12,21/18",Jan Petter Olsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Alexander Demyanchuk,,Tor Ragnar Johansen,"21/11,21/11",Alexander Demyanchuk,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Håvard Zachariassen,,Stig Landin,"21/12,21/13",Håvard Zachariassen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kirill Markin,,Hendry Nordli,"21/15,21/5",Kirill Markin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Hendry Nordli,,Stig Landin,"21/12,15/21,21/11",Hendry Nordli,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kirill Markin,,Håvard Zachariassen,"21/11,21/16",Kirill Markin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kirill Markin,,Stig Landin,"21/8,21/10",Kirill Markin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Hendry Nordli,,Håvard Zachariassen,"21/18,17/21,21/17",Hendry Nordli,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kim Steve Nystad,,Tom Brovold,"21/18,28/26",Kim Steve Nystad,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Aleksei Borovikov,,Tom Brovold,"14/21,21/14,21/17",Aleksei Borovikov,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Kim Steve Nystad,,Christian Landbo Olesen,"21/15,21/13",Kim Steve Nystad,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Aleksei Borovikov,,Kim Steve Nystad,"22/20,17/21,21/14",Aleksei Borovikov,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Tom Brovold,,Christian Landbo Olesen,"21/11,21/10",Tom Brovold,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herresingle,,Aleksei Borovikov,,Christian Landbo Olesen,"21/19,11/21,22/20",Aleksei Borovikov,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herredouble,Kim Steve Nystad,Hendry Nordli,Kirill Markin,Aleksei Borovikov,"15/21,21/17,21/16",Kim Steve Nystad,Hendry Nordli
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herredouble,Kim Steve Nystad,Hendry Nordli,Stig Landin,Ståle Åbotsvik,"12/21,21/10,21/12",Kim Steve Nystad,Hendry Nordli
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herredouble,Kim Steve Nystad,Hendry Nordli,Katri Koponen,Marthe Almaas,"21/16,21/19",Kim Steve Nystad,Hendry Nordli
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herredouble,Kirill Markin,Aleksei Borovikov,Tor Ragnar Johansen,Håvard Zachariassen,"21/10,21/11",Kirill Markin,Aleksei Borovikov
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herredouble,Stig Landin,Ståle Åbotsvik,Tor Ragnar Johansen,Håvard Zachariassen,"21/11,21/17",Stig Landin,Ståle Åbotsvik
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN B,Herredouble,Kirill Markin,Aleksei Borovikov,Stig Landin,Ståle Åbotsvik,"21/5,21/8",Kirill Markin,Aleksei Borovikov
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Aleksei Gorstkin,,Bård Johannesen,"21/13,21/12",Aleksei Gorstkin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Aleksei Gorstkin,,Roar Larsen,"21/9,21/13",Aleksei Gorstkin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Bård Johannesen,,Marco Torgersen,"21/23,21/19,21/17",Bård Johannesen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Roar Larsen,,Audun Knutssønn Hauge,"21/16,21/9",Roar Larsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Bård Johannesen,,Malvind Børresen,"21/18,22/20",Bård Johannesen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Aleksei Gorstkin,,Ståle Åbotsvik,"20/22,21/19,21/14",Aleksei Gorstkin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Aleksei Gorstkin,,Bård Johannesen,"21/13,21/15",Aleksei Gorstkin,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Bård Johannesen,,Ståle Åbotsvik,"21/18,26/24",Bård Johannesen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Malvind Børresen,,Stig Åke Holm,"21/10,23/21",Malvind Børresen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Malvind Børresen,,Roar Larsen,"21/15,16/21,21/17",Malvind Børresen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Roar Larsen,,Stig Åke Holm,"23/21,21/15",Roar Larsen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Marco Torgersen,,Ole Martin Olsen,"21/8,21/7",Marco Torgersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Audun Knutssønn Hauge,,Ole Martin Olsen,"12/21,21/17,21/15",Audun Knutssønn Hauge,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herresingle,,Marco Torgersen,,Audun Knutssønn Hauge,"21/9,21/10",Marco Torgersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Bård Johannesen,Roar Larsen,"28/26,21/19",Erik Winger,Jan Aage Nyborg
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Christian Landbo Olesen,Stig Åke Holm,"21/18,21/19",Erik Winger,Jan Aage Nyborg
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Aleksei Gorstkin,Malvind Børresen,Marco Torgersen,Audun Knutssønn Hauge,"21/14,21/15",Aleksei Gorstkin,Malvind Børresen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Christian Landbo Olesen,Stig Åke Holm,Aleksei Gorstkin,Malvind Børresen,"19/21,21/14,21/18",Christian Landbo Olesen,Stig Åke Holm
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Marco Torgersen,Audun Knutssønn Hauge,"21/18,18/21,21/15",Erik Winger,Jan Aage Nyborg
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Christian Landbo Olesen,Stig Åke Holm,Marco Torgersen,Audun Knutssønn Hauge,"21/19,21/9",Christian Landbo Olesen,Stig Åke Holm
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Aleksei Gorstkin,Malvind Børresen,"21/19,21/15",Erik Winger,Jan Aage Nyborg
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Joakim Andreassen,Freddy Øien,Ole Martin Olsen,Forsland Håkon,"21/12,21/8",Joakim Andreassen,Freddy Øien
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Bård Johannesen,Roar Larsen,Ole Martin Olsen,Forsland Håkon,"21/15,21/12",Bård Johannesen,Roar Larsen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Herredouble,Bård Johannesen,Roar Larsen,Joakim Andreassen,Freddy Øien,"22/24,21/10,21/16",Bård Johannesen,Roar Larsen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Mixeddouble,Kim Steve Nystad,Mali Elise Eriksen,Marco Torgersen,Sarah Slapø,"21/8,21/16",Kim Steve Nystad,Mali Elise Eriksen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Mixeddouble,Kim Steve Nystad,Mali Elise Eriksen,Audun Knutssønn Hauge,Karoline Strandheim Eriksen,"21/9,21/8",Kim Steve Nystad,Mali Elise Eriksen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,SEN C,Mixeddouble,Marco Torgersen,Sarah Slapø,Audun Knutssønn Hauge,Karoline Strandheim Eriksen,"15/21,21/19,21/13",Marco Torgersen,Sarah Slapø
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Mali Elise Eriksen,,Jonatan Hansen,"21/15,21/17",Mali Elise Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Jonatan Hansen,,Sarah Slapø,"21/16,21/17",Jonatan Hansen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Mali Elise Eriksen,,Karoline Strandheim Eriksen,"21/13,21/9",Mali Elise Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Jetheekan jeyawardana,,Miriam Kokkvoll,"19/21,21/19,22/20",Jetheekan jeyawardana,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Jonatan Hansen,,Karoline Strandheim Eriksen,"21/9,21/9",Jonatan Hansen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Karoline Strandheim Eriksen,,Jetheekan jeyawardana,"21/9,21/15",Karoline Strandheim Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Jonatan Hansen,,Miriam Kokkvoll,"21/12,21/7",Jonatan Hansen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Jonatan Hansen,,Jetheekan jeyawardana,"21/17,21/8",Jonatan Hansen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Karoline Strandheim Eriksen,,Miriam Kokkvoll,"21/15,21/11",Karoline Strandheim Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Sarah Slapø,,Chris Martin Tornvik Pedersen,"21/10,21/10",Sarah Slapø,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Mali Elise Eriksen,,omar alhmo alhso,"21/6,21/9",Mali Elise Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Mali Elise Eriksen,,Chris Martin Tornvik Pedersen,"21/9,21/7",Mali Elise Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Sarah Slapø,,omar alhmo alhso,"21/16,21/18",Sarah Slapø,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Chris Martin Tornvik Pedersen,,omar alhmo alhso,"11/21,24/22,21/10",Chris Martin Tornvik Pedersen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herresingle,,Mali Elise Eriksen,,Sarah Slapø,"21/11,21/10",Mali Elise Eriksen,
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herredouble,Jonatan Hansen,Miriam Kokkvoll,Jetheekan jeyawardana,omar alhmo alhso,"21/16,25/23",Jonatan Hansen,Miriam Kokkvoll
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herredouble,Karoline Strandheim Eriksen,Mali Elise Eriksen,Sarah Slapø,Chris Martin Tornvik Pedersen,"21/14,21/11",Karoline Strandheim Eriksen,Mali Elise Eriksen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herredouble,Karoline Strandheim Eriksen,Mali Elise Eriksen,Jetheekan jeyawardana,omar alhmo alhso,"21/8,21/11",Karoline Strandheim Eriksen,Mali Elise Eriksen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herredouble,Jonatan Hansen,Miriam Kokkvoll,Sarah Slapø,Chris Martin Tornvik Pedersen,"21/18,17/21,22/20",Jonatan Hansen,Miriam Kokkvoll
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herredouble,Sarah Slapø,Chris Martin Tornvik Pedersen,Jetheekan jeyawardana,omar alhmo alhso,"21/18,21/15",Sarah Slapø,Chris Martin Tornvik Pedersen
+2018/2019,Hammerfest Midnightsun 2019,01.06.2019,U17 B,Herredouble,Karoline Strandheim Eriksen,Mali Elise Eriksen,Jonatan Hansen,Miriam Kokkvoll,"21/10,21/14",Karoline Strandheim Eriksen,Mali Elise Eriksen

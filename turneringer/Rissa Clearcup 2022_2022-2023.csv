@@ -1,296 +1,241 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robert Barø,Amund Skavhaug,"21/10,21/15",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Fredrik Skånøy,Jens Asmund Solheim,"21/18,21/18",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Fredrik Skånøy,Jens Asmund Solheim,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"14/21,21/16,21/15",Fredrik Skånøy,Jens Asmund Solheim
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"21/15,21/19",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Elias Grønning,Robert Hoeggen,"21/15,21/14",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Jonas J Grande,Leonard Meyer Nordnes,"21/16,21/6",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Jonas J Grande,Leonard Meyer Nordnes,Elias Grønning,Robert Hoeggen,"17/21,21/19,21/19",Jonas J Grande,Leonard Meyer Nordnes
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Marte Stokkaune,Silje V. Kruksve Aasland,"21/19,11/21,21/18",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristoffer Kielland Rædergård,,Kristian Hyllestad,"21/13,21/19",Kristoffer Kielland Rædergård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristoffer Kielland Rædergård,,Ken Kold Hansen,"21/15,21/11",Kristoffer Kielland Rædergård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristoffer Kielland Rædergård,,Bram Serneels,"21/12,21/16",Kristoffer Kielland Rædergård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Ken Kold Hansen,,Bram Serneels,"21/16,23/21",Ken Kold Hansen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristian Hyllestad,,Ole Andreas Sagøy,"19/21,21/18,21/12",Kristian Hyllestad,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Ole Andreas Sagøy,,Lars Petter Danielsen,"21/9,21/14",Ole Andreas Sagøy,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristian Hyllestad,,Lars Petter Danielsen,"21/11,21/10",Kristian Hyllestad,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristoffer Kielland Rædergård,,Kristian Hyllestad,"21/13,21/19",Kristoffer Kielland Rædergård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristoffer Kielland Rædergård,,Ken Kold Hansen,"21/15,21/11",Kristoffer Kielland Rædergård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristoffer Kielland Rædergård,,Bram Serneels,"21/12,21/16",Kristoffer Kielland Rædergård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Ken Kold Hansen,,Bram Serneels,"21/16,23/21",Ken Kold Hansen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristian Hyllestad,,Ole Andreas Sagøy,"19/21,21/18,21/12",Kristian Hyllestad,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Ole Andreas Sagøy,,Lars Petter Danielsen,"21/9,21/14",Ole Andreas Sagøy,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Kristian Hyllestad,,Lars Petter Danielsen,"21/11,21/10",Kristian Hyllestad,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Hege Grønning,,Silje Lyngstad Skavhaug,"23/21,9/21,21/11",Hege Grønning,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Trishna Shyam Chand,,Silje Lyngstad Skavhaug,"21/8,21/11",Trishna Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,,Trishna Shyam Chand,,Hege Grønning,"21/18,21/10",Trishna Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Martin Mogensen,Thomas Holdbakk,Lars Petter Danielsen,Ole Andreas Sagøy,"21/15,21/11",Martin Mogensen,Thomas Holdbakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Bram Serneels,Michael Berg,Sondre Løvold,Kjell Holdbakk,"18/21,21/15,21/10",Bram Serneels,Michael Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Bram Serneels,Michael Berg,Martin Mogensen,Thomas Holdbakk,"21/12,16/21,21/14",Bram Serneels,Michael Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Sondre Løvold,Kjell Holdbakk,Lars Petter Danielsen,Ole Andreas Sagøy,"21/18,19/21,21/16",Sondre Løvold,Kjell Holdbakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Martin Mogensen,Thomas Holdbakk,Sondre Løvold,Kjell Holdbakk,"21/13,21/19",Martin Mogensen,Thomas Holdbakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Bram Serneels,Michael Berg,Lars Petter Danielsen,Ole Andreas Sagøy,"21/18,26/24",Bram Serneels,Michael Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Thomas Holdbakk,,Asgeir Våbenø Berg,"21/12,21/14",Thomas Holdbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Thomas Holdbakk,,Michael Berg,"21/16,21/19",Thomas Holdbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Asgeir Våbenø Berg,,Tom Smebye,"21/16,21/17",Asgeir Våbenø Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Terje Knutseth,,Tom Smebye,"21/19,21/17",Terje Knutseth,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Asgeir Våbenø Berg,,Terje Knutseth,"21/11,21/19",Asgeir Våbenø Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Michael Berg,,Børge Bjørnli Nygård,"21/12,21/8",Michael Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Michael Berg,,Kjell Holdbakk,"21/11,21/9",Michael Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Børge Bjørnli Nygård,,Kjell Holdbakk,"21/17,21/10",Børge Bjørnli Nygård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Thomas Holdbakk,,Elias Grønning,"21/18,21/15",Thomas Holdbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Thomas Holdbakk,,Asgeir Våbenø Berg,"21/12,21/14",Thomas Holdbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Thomas Holdbakk,,Michael Berg,"21/16,21/19",Thomas Holdbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Asgeir Våbenø Berg,,Tom Smebye,"21/16,21/17",Asgeir Våbenø Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Terje Knutseth,,Tom Smebye,"21/19,21/17",Terje Knutseth,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Asgeir Våbenø Berg,,Terje Knutseth,"21/11,21/19",Asgeir Våbenø Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Michael Berg,,Børge Bjørnli Nygård,"21/12,21/8",Michael Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Michael Berg,,Kjell Holdbakk,"21/11,21/9",Michael Berg,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Børge Bjørnli Nygård,,Kjell Holdbakk,"21/17,21/10",Børge Bjørnli Nygård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,,Thomas Holdbakk,,Elias Grønning,"21/18,21/15",Thomas Holdbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Joakim Øyen Bedsted,Mads B. Rotabakk,Kristian Hyllestad,Arne Bjørn Berger,"21/14,21/18",Joakim Øyen Bedsted,Mads B. Rotabakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Kristian Hyllestad,Arne Bjørn Berger,Viggo Lian,Anders Grande,"21/19,21/15",Kristian Hyllestad,Arne Bjørn Berger
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Joakim Øyen Bedsted,Mads B. Rotabakk,Tommy Mokkelbost,Otto Wittner,"21/19,21/18",Joakim Øyen Bedsted,Mads B. Rotabakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Tommy Mokkelbost,Otto Wittner,Hans Stephen Moralde Santos,Justin Dano Sagarino,"21/6,21/11",Tommy Mokkelbost,Otto Wittner
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Tommy Mokkelbost,Otto Wittner,Jacek Artur Skrocki,Per Arne Hammer,"21/19,17/21,21/14",Tommy Mokkelbost,Otto Wittner
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Joakim Øyen Bedsted,Mads B. Rotabakk,Jacek Artur Skrocki,Per Arne Hammer,"21/13,21/8",Joakim Øyen Bedsted,Mads B. Rotabakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Joakim Øyen Bedsted,Mads B. Rotabakk,Hans Stephen Moralde Santos,Justin Dano Sagarino,"21/7,21/10",Joakim Øyen Bedsted,Mads B. Rotabakk
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Jacek Artur Skrocki,Per Arne Hammer,Hans Stephen Moralde Santos,Justin Dano Sagarino,"21/12,21/15",Jacek Artur Skrocki,Per Arne Hammer
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Tom Smebye,John Thomas Krogstad,Pranon Paenprakhon,Tete,"21/14,21/18",Tom Smebye,John Thomas Krogstad
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Pranon Paenprakhon,Tete,Asgeir Øverby,Jonah Mathias Øverby,"21/8,21/9",Pranon Paenprakhon,Tete
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Kristian Hyllestad,Arne Bjørn Berger,Tom Smebye,John Thomas Krogstad,"21/16,21/11",Kristian Hyllestad,Arne Bjørn Berger
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Kristian Hyllestad,Arne Bjørn Berger,Asgeir Øverby,Jonah Mathias Øverby,"21/10,21/14",Kristian Hyllestad,Arne Bjørn Berger
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Kristian Hyllestad,Arne Bjørn Berger,Pranon Paenprakhon,Tete,"21/14,21/12",Kristian Hyllestad,Arne Bjørn Berger
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Tom Smebye,John Thomas Krogstad,Asgeir Øverby,Jonah Mathias Øverby,"21/6,21/9",Tom Smebye,John Thomas Krogstad
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Viggo Lian,Anders Grande,Terje Knutseth,Børge Bjørnli Nygård,"21/17,19/21,21/11",Viggo Lian,Anders Grande
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Viggo Lian,Anders Grande,Erik Winger,Jan Aage Nyborg,"21/9,24/22",Viggo Lian,Anders Grande
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Erik Winger,Jan Aage Nyborg,Terje Knutseth,Børge Bjørnli Nygård,"16/21,21/11,21/19",Erik Winger,Jan Aage Nyborg
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Linn Aasland,Ida Marie Oxaas,Vivild Våbenø Berg,MARTE EGGEN,"21/12,21/10",Linn Aasland,Ida Marie Oxaas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Silje B. Karlsen,Mairis Pihlakas,Julia Småvik,Christin Jeanette Hagen,"21/17,21/16",Silje B. Karlsen,Mairis Pihlakas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Linn Aasland,Ida Marie Oxaas,Julia Småvik,Christin Jeanette Hagen,"21/19,21/14",Linn Aasland,Ida Marie Oxaas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Silje B. Karlsen,Mairis Pihlakas,Vivild Våbenø Berg,MARTE EGGEN,"21/10,21/8",Silje B. Karlsen,Mairis Pihlakas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Linn Aasland,Ida Marie Oxaas,Ingvild Søraas Johannessen,Tove Søraas,"21/12,21/10",Linn Aasland,Ida Marie Oxaas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Julia Småvik,Christin Jeanette Hagen,Vivild Våbenø Berg,MARTE EGGEN,"23/25,21/12,21/17",Julia Småvik,Christin Jeanette Hagen
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Ingvild Søraas Johannessen,Tove Søraas,Julia Småvik,Christin Jeanette Hagen,"21/17,17/21,21/13",Ingvild Søraas Johannessen,Tove Søraas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Silje B. Karlsen,Mairis Pihlakas,Ingvild Søraas Johannessen,Tove Søraas,"21/14,21/11",Silje B. Karlsen,Mairis Pihlakas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Silje B. Karlsen,Mairis Pihlakas,Linn Aasland,Ida Marie Oxaas,"21/17,15/21,21/17",Silje B. Karlsen,Mairis Pihlakas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Ingvild Søraas Johannessen,Tove Søraas,Vivild Våbenø Berg,MARTE EGGEN,"21/14,15/21,21/14",Ingvild Søraas Johannessen,Tove Søraas
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Viktor Mokkelbost,,Pranon Paenprakhon,"21/20,21/16",Viktor Mokkelbost,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Sander Kirkbakk,"21/15,21/13",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Viktor Mokkelbost,"21/16,18/21,21/11",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Sander Kirkbakk,,Pranon Paenprakhon,"21/12,21/12",Sander Kirkbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Martin Wallenius Hesjeli,,Hans Stephen Moralde Santos,"21/19,22/24,21/9",Martin Wallenius Hesjeli,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Hans Stephen Moralde Santos,"21/9,21/10",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Martin Wallenius Hesjeli,"21/12,21/17",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Viktor Mokkelbost,,Kurt Førde,"21/5,21/13",Viktor Mokkelbost,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Lars Dalevoll,,Kurt Førde,"21/11,21/14",Lars Dalevoll,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Viktor Mokkelbost,,Lars Dalevoll,"21/17,21/16",Viktor Mokkelbost,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Sander Kirkbakk,,John Thomas Krogstad,"21/12,21/19",Sander Kirkbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Fillip August Rotabakk,,John Thomas Krogstad,"21/11,21/12",Fillip August Rotabakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Sander Kirkbakk,,Fillip August Rotabakk,"21/18,18/21,24/22",Sander Kirkbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Pranon Paenprakhon,,Justin Dano Sagarino,"21/13,21/9",Pranon Paenprakhon,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Auttaphon Seepad,,Justin Dano Sagarino,"21/16,21/5",Auttaphon Seepad,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Pranon Paenprakhon,,Auttaphon Seepad,"21/9,21/5",Pranon Paenprakhon,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Viktor Mokkelbost,,Pranon Paenprakhon,"21/20,21/16",Viktor Mokkelbost,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Sander Kirkbakk,"21/15,21/13",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Viktor Mokkelbost,"21/16,18/21,21/11",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Sander Kirkbakk,,Pranon Paenprakhon,"21/12,21/12",Sander Kirkbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Martin Wallenius Hesjeli,,Hans Stephen Moralde Santos,"21/19,22/24,21/9",Martin Wallenius Hesjeli,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Hans Stephen Moralde Santos,"21/9,21/10",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Arne Bjørn Berger,,Martin Wallenius Hesjeli,"21/12,21/17",Arne Bjørn Berger,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Viktor Mokkelbost,,Kurt Førde,"21/5,21/13",Viktor Mokkelbost,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Lars Dalevoll,,Kurt Førde,"21/11,21/14",Lars Dalevoll,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Viktor Mokkelbost,,Lars Dalevoll,"21/17,21/16",Viktor Mokkelbost,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Sander Kirkbakk,,John Thomas Krogstad,"21/12,21/19",Sander Kirkbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Fillip August Rotabakk,,John Thomas Krogstad,"21/11,21/12",Fillip August Rotabakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Sander Kirkbakk,,Fillip August Rotabakk,"21/18,18/21,24/22",Sander Kirkbakk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Pranon Paenprakhon,,Justin Dano Sagarino,"21/13,21/9",Pranon Paenprakhon,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Auttaphon Seepad,,Justin Dano Sagarino,"21/16,21/5",Auttaphon Seepad,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Pranon Paenprakhon,,Auttaphon Seepad,"21/9,21/5",Pranon Paenprakhon,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Eli Bente Just,,Chelseah Tulio,"21/14,21/17,21/13",Eli Bente Just,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Julia Småvik,,Chelseah Tulio,"21/10,21/12",Julia Småvik,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,,Julia Småvik,,Eli Bente Just,"21/11,21/14",Julia Småvik,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen,Rachel Oforiwah Ofori,Emilia Siemiatkowska,"21/10,21/10",Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Nora Haukdal Trøen,Amalie Teigen,Maja Fossbakken Knutseth,Eli Bente Just,"21/17,21/18",Nora Haukdal Trøen,Amalie Teigen
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Maja Fossbakken Knutseth,Eli Bente Just,Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen,"21/8,21/11",Maja Fossbakken Knutseth,Eli Bente Just
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Nora Haukdal Trøen,Amalie Teigen,Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen,"21/7,21/15",Nora Haukdal Trøen,Amalie Teigen
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Nora Haukdal Trøen,Amalie Teigen,Rachel Oforiwah Ofori,Emilia Siemiatkowska,"21/8,21/11",Nora Haukdal Trøen,Amalie Teigen
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robert Barø,Amund Skavhaug,"21/10,21/15",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Fredrik Skånøy,Jens Asmund Solheim,"21/18,21/18",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Fredrik Skånøy,Jens Asmund Solheim,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"14/21,21/16,21/15",Fredrik Skånøy,Jens Asmund Solheim
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"21/15,21/19",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Elias Grønning,Robert Hoeggen,"21/15,21/14",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Jonas J Grande,Leonard Meyer Nordnes,"21/16,21/6",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Jonas J Grande,Leonard Meyer Nordnes,Elias Grønning,Robert Hoeggen,"17/21,21/19,21/19",Jonas J Grande,Leonard Meyer Nordnes
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Marte Stokkaune,Silje V. Kruksve Aasland,"21/19,11/21,21/18",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robert Barø,Amund Skavhaug,"21/10,21/15",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Fredrik Skånøy,Jens Asmund Solheim,"21/18,21/18",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Fredrik Skånøy,Jens Asmund Solheim,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"14/21,21/16,21/15",Fredrik Skånøy,Jens Asmund Solheim
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"21/15,21/19",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Elias Grønning,Robert Hoeggen,"21/15,21/14",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Jonas J Grande,Leonard Meyer Nordnes,"21/16,21/6",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Jonas J Grande,Leonard Meyer Nordnes,Elias Grønning,Robert Hoeggen,"17/21,21/19,21/19",Jonas J Grande,Leonard Meyer Nordnes
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Marte Stokkaune,Silje V. Kruksve Aasland,"21/19,11/21,21/18",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robert Barø,Amund Skavhaug,"21/10,21/15",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Fredrik Skånøy,Jens Asmund Solheim,"21/18,21/18",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Fredrik Skånøy,Jens Asmund Solheim,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"14/21,21/16,21/15",Fredrik Skånøy,Jens Asmund Solheim
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Oliver George Creese,Øyvind W. Selboe,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"21/15,21/19",Oliver George Creese,Øyvind W. Selboe
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Elias Grønning,Robert Hoeggen,"21/15,21/14",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Robert Barø,Amund Skavhaug,Jonas J Grande,Leonard Meyer Nordnes,"21/16,21/6",Robert Barø,Amund Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Jonas J Grande,Leonard Meyer Nordnes,Elias Grønning,Robert Hoeggen,"17/21,21/19,21/19",Jonas J Grande,Leonard Meyer Nordnes
-2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Marte Stokkaune,Silje V. Kruksve Aasland,"21/19,11/21,21/18",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Mathea Kristine Aasland,"21/8,21/18",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elias Teigen,,Iben Marie Kaspersen Krogstad,"21/8,21/6",Elias Teigen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elander Jenssen Olafsen,,Mathea Kristine Aasland,"21/10,21/19",Elander Jenssen Olafsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Iben Marie Kaspersen Krogstad,"21/3,21/7",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elander Jenssen Olafsen,,Iben Marie Kaspersen Krogstad,"21/8,21/7",Elander Jenssen Olafsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Elias Teigen,"21/14,21/9",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elias Teigen,,Mathea Kristine Aasland,"21/16,21/18",Elias Teigen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Elander Jenssen Olafsen,"21/13,24/22",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Mathea Kristine Aasland,,Iben Marie Kaspersen Krogstad,"22/20,21/15",Mathea Kristine Aasland,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elander Jenssen Olafsen,,Elias Teigen,"21/16,21/19",Elander Jenssen Olafsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Mathea Kristine Aasland,"21/8,21/18",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elias Teigen,,Iben Marie Kaspersen Krogstad,"21/8,21/6",Elias Teigen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elander Jenssen Olafsen,,Mathea Kristine Aasland,"21/10,21/19",Elander Jenssen Olafsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Iben Marie Kaspersen Krogstad,"21/3,21/7",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elander Jenssen Olafsen,,Iben Marie Kaspersen Krogstad,"21/8,21/7",Elander Jenssen Olafsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Elias Teigen,"21/14,21/9",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elias Teigen,,Mathea Kristine Aasland,"21/16,21/18",Elias Teigen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Leo Nicolai Hanssen,,Elander Jenssen Olafsen,"21/13,24/22",Leo Nicolai Hanssen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Mathea Kristine Aasland,,Iben Marie Kaspersen Krogstad,"22/20,21/15",Mathea Kristine Aasland,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,,Elander Jenssen Olafsen,,Elias Teigen,"21/16,21/19",Elander Jenssen Olafsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Tridev Shyam Chand,,Amund Børmark,"19/21,21/11,23/21",Tridev Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Jaran Salater Nygård,,Casper Sæther,"21/11,21/8",Jaran Salater Nygård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Tridev Shyam Chand,,Jaran Salater Nygård,"21/11,21/17",Tridev Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Casper Sæther,"21/6,21/4",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Tridev Shyam Chand,"22/24,21/17,21/15",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Amund Børmark,,Jaran Salater Nygård,"21/12,21/15",Amund Børmark,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Amund Børmark,,Casper Sæther,"21/10,21/6",Amund Børmark,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Jaran Salater Nygård,"21/15,21/10",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Tridev Shyam Chand,,Casper Sæther,"21/5,21/9",Tridev Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Amund Børmark,"21/9,17/21,21/5",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Tridev Shyam Chand,,Amund Børmark,"19/21,21/11,23/21",Tridev Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Jaran Salater Nygård,,Casper Sæther,"21/11,21/8",Jaran Salater Nygård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Tridev Shyam Chand,,Jaran Salater Nygård,"21/11,21/17",Tridev Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Casper Sæther,"21/6,21/4",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Tridev Shyam Chand,"22/24,21/17,21/15",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Amund Børmark,,Jaran Salater Nygård,"21/12,21/15",Amund Børmark,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Amund Børmark,,Casper Sæther,"21/10,21/6",Amund Børmark,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Jaran Salater Nygård,"21/15,21/10",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Tridev Shyam Chand,,Casper Sæther,"21/5,21/9",Tridev Shyam Chand,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,,Marcus Leander Aasland Grande,,Amund Børmark,"21/9,17/21,21/5",Marcus Leander Aasland Grande,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Jaran Salater Nygård,Amund Børmark,Sivert Murvold Borgfjord,Phakphum Saensap,"21/5,21/19",Jaran Salater Nygård,Amund Børmark
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Kristian Oxaas,Marcus Leander Aasland Grande,Jaran Salater Nygård,Amund Børmark,"17/21,21/13,21/15",Kristian Oxaas,Marcus Leander Aasland Grande
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Kristian Oxaas,Marcus Leander Aasland Grande,Sivert Murvold Borgfjord,Phakphum Saensap,"21/7,21/11",Kristian Oxaas,Marcus Leander Aasland Grande
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Julia Wojtkowska,"21/12,23/21",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Viktoria Ventislavova Simova,,Maja Fagervoll,"21/10,21/13",Viktoria Ventislavova Simova,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Julia Wojtkowska,,Malin Sæther-Danielsen,"21/18,21/18",Julia Wojtkowska,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Malin Sæther-Danielsen,,Maja Fagervoll,"21/11,21/14",Malin Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Julia Wojtkowska,,Viktoria Ventislavova Simova,"21/14,15/21,23/21",Julia Wojtkowska,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Julia Wojtkowska,,Maja Fagervoll,"21/8,21/17",Julia Wojtkowska,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Malin Sæther-Danielsen,,Viktoria Ventislavova Simova,"21/16,24/26,21/15",Malin Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Live Johanne Lillerødvann Nordgård,,Daria Cristina Marica,"21/17,21/18",Live Johanne Lillerødvann Nordgård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Natalia Heinich,"21/7,21/8",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Live Johanne Lillerødvann Nordgård,"21/19,21/7",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Natalia Heinich,,Daria Cristina Marica,"21/12,21/12",Natalia Heinich,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Natalia Heinich,,Live Johanne Lillerødvann Nordgård,"21/15,16/21,21/15",Natalia Heinich,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Daria Cristina Marica,"21/13,21/11",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Julia Wojtkowska,"21/12,23/21",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Viktoria Ventislavova Simova,,Maja Fagervoll,"21/10,21/13",Viktoria Ventislavova Simova,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Julia Wojtkowska,,Malin Sæther-Danielsen,"21/18,21/18",Julia Wojtkowska,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Malin Sæther-Danielsen,,Maja Fagervoll,"21/11,21/14",Malin Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Julia Wojtkowska,,Viktoria Ventislavova Simova,"21/14,15/21,23/21",Julia Wojtkowska,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Julia Wojtkowska,,Maja Fagervoll,"21/8,21/17",Julia Wojtkowska,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Malin Sæther-Danielsen,,Viktoria Ventislavova Simova,"21/16,24/26,21/15",Malin Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Live Johanne Lillerødvann Nordgård,,Daria Cristina Marica,"21/17,21/18",Live Johanne Lillerødvann Nordgård,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Natalia Heinich,"21/7,21/8",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Live Johanne Lillerødvann Nordgård,"21/19,21/7",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Natalia Heinich,,Daria Cristina Marica,"21/12,21/12",Natalia Heinich,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Natalia Heinich,,Live Johanne Lillerødvann Nordgård,"21/15,16/21,21/15",Natalia Heinich,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,,Maja Sæther-Danielsen,,Daria Cristina Marica,"21/13,21/11",Maja Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Daria Cristina Marica,Natalia Heinich,"21/12,21/10",Maja Sæther-Danielsen,Malin Sæther-Danielsen
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Julia Wojtkowska,Live Johanne Lillerødvann Nordgård,"21/13,21/12",Maja Sæther-Danielsen,Malin Sæther-Danielsen
-2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Daria Cristina Marica,Natalia Heinich,Julia Wojtkowska,Live Johanne Lillerødvann Nordgård,"21/19,21/19",Daria Cristina Marica,Natalia Heinich
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Vebjørn Børmark,,Ole Kristian Hauge Vullum,"21/17,16/21,21/14",Vebjørn Børmark,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mattis Sæther-Danielsen,,IMRE LØVOLD NILSEN,"25/23,21/17",Mattis Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mattis Sæther-Danielsen,,Vebjørn Børmark,"21/9,21/14",Mattis Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,IMRE LØVOLD NILSEN,,Ole Kristian Hauge Vullum,"21/18,21/11",IMRE LØVOLD NILSEN,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,IMRE LØVOLD NILSEN,,Vebjørn Børmark,"21/15,21/12",IMRE LØVOLD NILSEN,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mattis Sæther-Danielsen,,Ole Kristian Hauge Vullum,"21/4,21/10",Mattis Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Vebjørn Børmark,,Ole Kristian Hauge Vullum,"21/17,16/21,21/14",Vebjørn Børmark,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mattis Sæther-Danielsen,,IMRE LØVOLD NILSEN,"25/23,21/17",Mattis Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mattis Sæther-Danielsen,,Vebjørn Børmark,"21/9,21/14",Mattis Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,IMRE LØVOLD NILSEN,,Ole Kristian Hauge Vullum,"21/18,21/11",IMRE LØVOLD NILSEN,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,IMRE LØVOLD NILSEN,,Vebjørn Børmark,"21/15,21/12",IMRE LØVOLD NILSEN,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mattis Sæther-Danielsen,,Ole Kristian Hauge Vullum,"21/4,21/10",Mattis Sæther-Danielsen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Sofie Hansen,,Maja Fossbakken Knutseth,"21/12,21/12",Sofie Hansen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Ingrid Trøite,,Mathea Rødvik Iglebæk,"21/19,21/14",Ingrid Trøite,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Sofie Hansen,,Mathea Rødvik Iglebæk,"21/17,17/21,21/18",Sofie Hansen,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Ingrid Trøite,,Maja Fossbakken Knutseth,"21/10,21/10",Ingrid Trøite,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Ingrid Trøite,,Sofie Hansen,"21/12,21/9",Ingrid Trøite,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,,Mathea Rødvik Iglebæk,,Maja Fossbakken Knutseth,"21/8,21/23,21/11",Mathea Rødvik Iglebæk,
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Jhon Benedict Cogay,Mongkon Kruasan,Noah Wisth,Martin Leander Rokseth,"21/16,21/14",Jhon Benedict Cogay,Mongkon Kruasan
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Vebjørn Børmark,Ole Kristian Hauge Vullum,Mattis Sæther-Danielsen,Johannes Lillevik Førde,"21/16,13/21,21/11",Vebjørn Børmark,Ole Kristian Hauge Vullum
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mattis Sæther-Danielsen,Johannes Lillevik Førde,Jhon Benedict Cogay,Mongkon Kruasan,"21/6,21/11",Mattis Sæther-Danielsen,Johannes Lillevik Førde
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Noah Wisth,Martin Leander Rokseth,"21/6,21/4",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Jhon Benedict Cogay,Mongkon Kruasan,"21/5,21/8",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Vebjørn Børmark,Ole Kristian Hauge Vullum,Noah Wisth,Martin Leander Rokseth,"21/7,21/16",Vebjørn Børmark,Ole Kristian Hauge Vullum
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Vebjørn Børmark,Ole Kristian Hauge Vullum,Jhon Benedict Cogay,Mongkon Kruasan,"24/22,21/9",Vebjørn Børmark,Ole Kristian Hauge Vullum
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Mattis Sæther-Danielsen,Johannes Lillevik Førde,"21/8,21/13",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Vebjørn Børmark,Ole Kristian Hauge Vullum,"21/11,21/12",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mattis Sæther-Danielsen,Johannes Lillevik Førde,Noah Wisth,Martin Leander Rokseth,"21/12,21/10",Mattis Sæther-Danielsen,Johannes Lillevik Førde
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Ingrid Trøite,Sofie Hansen,"21/14,21/17",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Ane Snustad-Grønskag,Sofie Holm,Mike Skrocki,Viktoria Ventislavova Simova,"21/15,15/21,21/19",Ane Snustad-Grønskag,Sofie Holm
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Ane Snustad-Grønskag,Sofie Holm,"21/6,21/11",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Mike Skrocki,Viktoria Ventislavova Simova,"21/6,21/6",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Kelly Josie Goodchild,Fauste Marcisauskaite,Anna Høysæter,Vera Alvhilde Vestergaard Grande,"21/4,21/7",Kelly Josie Goodchild,Fauste Marcisauskaite
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Ingrid Trøite,Sofie Hansen,Anna Høysæter,Vera Alvhilde Vestergaard Grande,"21/10,21/2",Ingrid Trøite,Sofie Hansen
-2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Ingrid Trøite,Sofie Hansen,Kelly Josie Goodchild,Fauste Marcisauskaite,"21/16,21/11",Ingrid Trøite,Sofie Hansen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herresingle,,Øyvind W. Selboe,,Oliver George Creese,"22/20,21/16",Øyvind W. Selboe,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herresingle,,Øyvind W. Selboe,,Sondre Løvold,"21/12,21/18",Øyvind W. Selboe,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herresingle,,Øyvind W. Selboe,,Joakim Øyen Bedsted,"21/10,21/13",Øyvind W. Selboe,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herresingle,,Joakim Øyen Bedsted,,Sondre Løvold,"24/22,21/15",Joakim Øyen Bedsted,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herresingle,,Oliver George Creese,,Leonard Meyer Nordnes,"21/11,21/10",Oliver George Creese,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herresingle,,Oliver George Creese,,Jonas J Grande,"21/19,20/22,21/18",Oliver George Creese,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Oliver George Creese,Øyvind W. Selboe,Robert Barø,Amund Skavhaug,"21/10,21/15",Oliver George Creese,Øyvind W. Selboe
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Oliver George Creese,Øyvind W. Selboe,Fredrik Skånøy,Jens Asmund Solheim,"21/18,21/18",Oliver George Creese,Øyvind W. Selboe
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Fredrik Skånøy,Jens Asmund Solheim,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"14/21,21/16,21/15",Fredrik Skånøy,Jens Asmund Solheim
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Oliver George Creese,Øyvind W. Selboe,Robin Kruksve Krux,Kristoffer Kielland Rædergård,"21/15,21/19",Oliver George Creese,Øyvind W. Selboe
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Robert Barø,Amund Skavhaug,Elias Grønning,Robert Hoeggen,"21/15,21/14",Robert Barø,Amund Skavhaug
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Robert Barø,Amund Skavhaug,Jonas J Grande,Leonard Meyer Nordnes,"21/16,21/6",Robert Barø,Amund Skavhaug
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Herredouble,Jonas J Grande,Leonard Meyer Nordnes,Elias Grønning,Robert Hoeggen,"17/21,21/19,21/19",Jonas J Grande,Leonard Meyer Nordnes
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Damedouble,Camilla Stokkaune,Dianne Christine Geronimo,Marte Stokkaune,Silje V. Kruksve Aasland,"21/19,11/21,21/18",Camilla Stokkaune,Dianne Christine Geronimo
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Marte Stokkaune,Jonas J Grande,Silje B. Karlsen,Jens Asmund Solheim,"24/22,21/14",Marte Stokkaune,Jonas J Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Marte Stokkaune,Jonas J Grande,Robin Kruksve Krux,Silje V. Kruksve Aasland,"19/21,21/13,21/12",Marte Stokkaune,Jonas J Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Marte Stokkaune,Jonas J Grande,Camilla Stokkaune,Leonard Meyer Nordnes,"17/21,21/18,21/17",Marte Stokkaune,Jonas J Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Camilla Stokkaune,Leonard Meyer Nordnes,Robin Kruksve Krux,Silje V. Kruksve Aasland,"21/10,21/16",Camilla Stokkaune,Leonard Meyer Nordnes
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Silje B. Karlsen,Jens Asmund Solheim,Dianne Christine Geronimo,Kristoffer Kielland Rædergård,"21/15,21/16",Silje B. Karlsen,Jens Asmund Solheim
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Dianne Christine Geronimo,Kristoffer Kielland Rædergård,Fredrik Skånøy,Mairis Pihlakas,"27/25,21/19",Dianne Christine Geronimo,Kristoffer Kielland Rædergård
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN A,Mixeddouble,Silje B. Karlsen,Jens Asmund Solheim,Fredrik Skånøy,Mairis Pihlakas,"21/16,19/21,21/17",Silje B. Karlsen,Jens Asmund Solheim
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Kristoffer Kielland Rædergård,,Kristian Hyllestad,"21/13,21/19",Kristoffer Kielland Rædergård,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Kristoffer Kielland Rædergård,,Ken Kold Hansen,"21/15,21/11",Kristoffer Kielland Rædergård,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Kristoffer Kielland Rædergård,,Bram Serneels,"21/12,21/16",Kristoffer Kielland Rædergård,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Ken Kold Hansen,,Bram Serneels,"21/16,23/21",Ken Kold Hansen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Kristian Hyllestad,,Ole Andreas Sagøy,"19/21,21/18,21/12",Kristian Hyllestad,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Ole Andreas Sagøy,,Lars Petter Danielsen,"21/9,21/14",Ole Andreas Sagøy,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herresingle,,Kristian Hyllestad,,Lars Petter Danielsen,"21/11,21/10",Kristian Hyllestad,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Damesingle,,Hege Grønning,,Silje Lyngstad Skavhaug,"23/21,9/21,21/11",Hege Grønning,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Damesingle,,Trishna Shyam Chand,,Silje Lyngstad Skavhaug,"21/8,21/11",Trishna Shyam Chand,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Damesingle,,Trishna Shyam Chand,,Hege Grønning,"21/18,21/10",Trishna Shyam Chand,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herredouble,Martin Mogensen,Thomas Holdbakk,Lars Petter Danielsen,Ole Andreas Sagøy,"21/15,21/11",Martin Mogensen,Thomas Holdbakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herredouble,Bram Serneels,Michael Berg,Sondre Løvold,Kjell Holdbakk,"18/21,21/15,21/10",Bram Serneels,Michael Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herredouble,Bram Serneels,Michael Berg,Martin Mogensen,Thomas Holdbakk,"21/12,16/21,21/14",Bram Serneels,Michael Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herredouble,Sondre Løvold,Kjell Holdbakk,Lars Petter Danielsen,Ole Andreas Sagøy,"21/18,19/21,21/16",Sondre Løvold,Kjell Holdbakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herredouble,Martin Mogensen,Thomas Holdbakk,Sondre Løvold,Kjell Holdbakk,"21/13,21/19",Martin Mogensen,Thomas Holdbakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Herredouble,Bram Serneels,Michael Berg,Lars Petter Danielsen,Ole Andreas Sagøy,"21/18,26/24",Bram Serneels,Michael Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Mixeddouble,Sondre Løvold,Christin Jeanette Hagen,Elias Grønning,Hege Grønning,"21/15,15/21,23/21",Sondre Løvold,Christin Jeanette Hagen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Mixeddouble,Øyvind W. Selboe,Trishna Shyam Chand,Ken Kold Hansen,Sofie Kold Hansen,"21/8,21/12",Øyvind W. Selboe,Trishna Shyam Chand
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Mixeddouble,Sondre Løvold,Christin Jeanette Hagen,Ken Kold Hansen,Sofie Kold Hansen,"21/14,21/17",Sondre Løvold,Christin Jeanette Hagen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Mixeddouble,Øyvind W. Selboe,Trishna Shyam Chand,Elias Grønning,Hege Grønning,"21/13,22/24,21/16",Øyvind W. Selboe,Trishna Shyam Chand
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Mixeddouble,Øyvind W. Selboe,Trishna Shyam Chand,Sondre Løvold,Christin Jeanette Hagen,"21/18,22/20",Øyvind W. Selboe,Trishna Shyam Chand
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN B,Mixeddouble,Elias Grønning,Hege Grønning,Ken Kold Hansen,Sofie Kold Hansen,"18/21,21/16,21/15",Elias Grønning,Hege Grønning
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Thomas Holdbakk,,Asgeir Våbenø Berg,"21/12,21/14",Thomas Holdbakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Thomas Holdbakk,,Michael Berg,"21/16,21/19",Thomas Holdbakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Asgeir Våbenø Berg,,Tom Smebye,"21/16,21/17",Asgeir Våbenø Berg,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Terje Knutseth,,Tom Smebye,"21/19,21/17",Terje Knutseth,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Asgeir Våbenø Berg,,Terje Knutseth,"21/11,21/19",Asgeir Våbenø Berg,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Michael Berg,,Børge Bjørnli Nygård,"21/12,21/8",Michael Berg,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Michael Berg,,Kjell Holdbakk,"21/11,21/9",Michael Berg,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Børge Bjørnli Nygård,,Kjell Holdbakk,"21/17,21/10",Børge Bjørnli Nygård,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herresingle,,Thomas Holdbakk,,Elias Grønning,"21/18,21/15",Thomas Holdbakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Kristian Hyllestad,Arne Bjørn Berger,"21/14,21/18",Joakim Øyen Bedsted,Mads B. Rotabakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Kristian Hyllestad,Arne Bjørn Berger,Viggo Lian,Anders Grande,"21/19,21/15",Kristian Hyllestad,Arne Bjørn Berger
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Tommy Mokkelbost,Otto Wittner,"21/19,21/18",Joakim Øyen Bedsted,Mads B. Rotabakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Tommy Mokkelbost,Otto Wittner,Hans Stephen Moralde Santos,Justin Dano Sagarino,"21/6,21/11",Tommy Mokkelbost,Otto Wittner
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Tommy Mokkelbost,Otto Wittner,Jacek Artur Skrocki,Per Arne Hammer,"21/19,17/21,21/14",Tommy Mokkelbost,Otto Wittner
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Jacek Artur Skrocki,Per Arne Hammer,"21/13,21/8",Joakim Øyen Bedsted,Mads B. Rotabakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Hans Stephen Moralde Santos,Justin Dano Sagarino,"21/7,21/10",Joakim Øyen Bedsted,Mads B. Rotabakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Jacek Artur Skrocki,Per Arne Hammer,Hans Stephen Moralde Santos,Justin Dano Sagarino,"21/12,21/15",Jacek Artur Skrocki,Per Arne Hammer
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Tom Smebye,John Thomas Krogstad,Pranon Paenprakhon,Tete,"21/14,21/18",Tom Smebye,John Thomas Krogstad
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Pranon Paenprakhon,Tete,Asgeir Øverby,Jonah Mathias Øverby,"21/8,21/9",Pranon Paenprakhon,Tete
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Kristian Hyllestad,Arne Bjørn Berger,Tom Smebye,John Thomas Krogstad,"21/16,21/11",Kristian Hyllestad,Arne Bjørn Berger
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Kristian Hyllestad,Arne Bjørn Berger,Asgeir Øverby,Jonah Mathias Øverby,"21/10,21/14",Kristian Hyllestad,Arne Bjørn Berger
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Kristian Hyllestad,Arne Bjørn Berger,Pranon Paenprakhon,Tete,"21/14,21/12",Kristian Hyllestad,Arne Bjørn Berger
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Tom Smebye,John Thomas Krogstad,Asgeir Øverby,Jonah Mathias Øverby,"21/6,21/9",Tom Smebye,John Thomas Krogstad
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Viggo Lian,Anders Grande,Terje Knutseth,Børge Bjørnli Nygård,"21/17,19/21,21/11",Viggo Lian,Anders Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Viggo Lian,Anders Grande,Erik Winger,Jan Aage Nyborg,"21/9,24/22",Viggo Lian,Anders Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Terje Knutseth,Børge Bjørnli Nygård,"16/21,21/11,21/19",Erik Winger,Jan Aage Nyborg
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Linn Aasland,Ida Marie Oxaas,Vivild Våbenø Berg,MARTE EGGEN,"21/12,21/10",Linn Aasland,Ida Marie Oxaas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Silje B. Karlsen,Mairis Pihlakas,Julia Småvik,Christin Jeanette Hagen,"21/17,21/16",Silje B. Karlsen,Mairis Pihlakas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Linn Aasland,Ida Marie Oxaas,Julia Småvik,Christin Jeanette Hagen,"21/19,21/14",Linn Aasland,Ida Marie Oxaas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Silje B. Karlsen,Mairis Pihlakas,Vivild Våbenø Berg,MARTE EGGEN,"21/10,21/8",Silje B. Karlsen,Mairis Pihlakas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Linn Aasland,Ida Marie Oxaas,Ingvild Søraas Johannessen,Tove Søraas,"21/12,21/10",Linn Aasland,Ida Marie Oxaas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Julia Småvik,Christin Jeanette Hagen,Vivild Våbenø Berg,MARTE EGGEN,"23/25,21/12,21/17",Julia Småvik,Christin Jeanette Hagen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Ingvild Søraas Johannessen,Tove Søraas,Julia Småvik,Christin Jeanette Hagen,"21/17,17/21,21/13",Ingvild Søraas Johannessen,Tove Søraas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Silje B. Karlsen,Mairis Pihlakas,Ingvild Søraas Johannessen,Tove Søraas,"21/14,21/11",Silje B. Karlsen,Mairis Pihlakas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Silje B. Karlsen,Mairis Pihlakas,Linn Aasland,Ida Marie Oxaas,"21/17,15/21,21/17",Silje B. Karlsen,Mairis Pihlakas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Damedouble,Ingvild Søraas Johannessen,Tove Søraas,Vivild Våbenø Berg,MARTE EGGEN,"21/14,15/21,21/14",Ingvild Søraas Johannessen,Tove Søraas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Eli Bente Just,Mads B. Rotabakk,Viggo Lian,Linn Aasland,"21/18,23/21",Eli Bente Just,Mads B. Rotabakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Thomas Holdbakk,Hege Elisabeth Bakke,Jacek Artur Skrocki,Chelseah Tulio,"21/12,21/18",Thomas Holdbakk,Hege Elisabeth Bakke
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Jacek Artur Skrocki,Chelseah Tulio,Viggo Lian,Linn Aasland,"21/16,21/11",Jacek Artur Skrocki,Chelseah Tulio
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Thomas Holdbakk,Hege Elisabeth Bakke,Julia Småvik,Kjell Holdbakk,"21/14,21/9",Thomas Holdbakk,Hege Elisabeth Bakke
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Viggo Lian,Linn Aasland,Julia Småvik,Kjell Holdbakk,"21/19,21/16",Viggo Lian,Linn Aasland
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Jacek Artur Skrocki,Chelseah Tulio,Eli Bente Just,Mads B. Rotabakk,"21/15,21/4",Jacek Artur Skrocki,Chelseah Tulio
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Thomas Holdbakk,Hege Elisabeth Bakke,Eli Bente Just,Mads B. Rotabakk,"21/19,21/9",Thomas Holdbakk,Hege Elisabeth Bakke
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Jacek Artur Skrocki,Chelseah Tulio,Julia Småvik,Kjell Holdbakk,"21/10,21/4",Jacek Artur Skrocki,Chelseah Tulio
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Thomas Holdbakk,Hege Elisabeth Bakke,Viggo Lian,Linn Aasland,"23/21,21/18",Thomas Holdbakk,Hege Elisabeth Bakke
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN C,Mixeddouble,Eli Bente Just,Mads B. Rotabakk,Julia Småvik,Kjell Holdbakk,"21/7,21/14",Eli Bente Just,Mads B. Rotabakk
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Viktor Mokkelbost,,Pranon Paenprakhon,"21/20,21/16",Viktor Mokkelbost,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Arne Bjørn Berger,,Sander Kirkbakk,"21/15,21/13",Arne Bjørn Berger,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Arne Bjørn Berger,,Viktor Mokkelbost,"21/16,18/21,21/11",Arne Bjørn Berger,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Sander Kirkbakk,,Pranon Paenprakhon,"21/12,21/12",Sander Kirkbakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Martin Wallenius Hesjeli,,Hans Stephen Moralde Santos,"21/19,22/24,21/9",Martin Wallenius Hesjeli,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Arne Bjørn Berger,,Hans Stephen Moralde Santos,"21/9,21/10",Arne Bjørn Berger,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Arne Bjørn Berger,,Martin Wallenius Hesjeli,"21/12,21/17",Arne Bjørn Berger,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Viktor Mokkelbost,,Kurt Førde,"21/5,21/13",Viktor Mokkelbost,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Lars Dalevoll,,Kurt Førde,"21/11,21/14",Lars Dalevoll,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Viktor Mokkelbost,,Lars Dalevoll,"21/17,21/16",Viktor Mokkelbost,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Sander Kirkbakk,,John Thomas Krogstad,"21/12,21/19",Sander Kirkbakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Fillip August Rotabakk,,John Thomas Krogstad,"21/11,21/12",Fillip August Rotabakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Sander Kirkbakk,,Fillip August Rotabakk,"21/18,18/21,24/22",Sander Kirkbakk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Pranon Paenprakhon,,Justin Dano Sagarino,"21/13,21/9",Pranon Paenprakhon,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Auttaphon Seepad,,Justin Dano Sagarino,"21/16,21/5",Auttaphon Seepad,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Herresingle,,Pranon Paenprakhon,,Auttaphon Seepad,"21/9,21/5",Pranon Paenprakhon,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damesingle,,Eli Bente Just,,Chelseah Tulio,"21/14,21/17,21/13",Eli Bente Just,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damesingle,,Julia Småvik,,Chelseah Tulio,"21/10,21/12",Julia Småvik,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damesingle,,Julia Småvik,,Eli Bente Just,"21/11,21/14",Julia Småvik,
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damedouble,Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen,Rachel Oforiwah Ofori,Emilia Siemiatkowska,"21/10,21/10",Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damedouble,Nora Haukdal Trøen,Amalie Teigen,Maja Fossbakken Knutseth,Eli Bente Just,"21/17,21/18",Nora Haukdal Trøen,Amalie Teigen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damedouble,Maja Fossbakken Knutseth,Eli Bente Just,Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen,"21/8,21/11",Maja Fossbakken Knutseth,Eli Bente Just
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damedouble,Nora Haukdal Trøen,Amalie Teigen,Emma Michelle Hanssen,Kaya Marielle Nicolaysen-Hanssen,"21/7,21/15",Nora Haukdal Trøen,Amalie Teigen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Damedouble,Nora Haukdal Trøen,Amalie Teigen,Rachel Oforiwah Ofori,Emilia Siemiatkowska,"21/8,21/11",Nora Haukdal Trøen,Amalie Teigen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Ida Marie Oxaas,Kristian Oxaas,Rachel Oforiwah Ofori,Justin Dano Sagarino,"21/9,21/15",Ida Marie Oxaas,Kristian Oxaas
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Kelly Josie Goodchild,Pranon Paenprakhon,Auttaphon Seepad,Emma Michelle Hanssen,"21/4,21/23,21/11",Kelly Josie Goodchild,Pranon Paenprakhon
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Kelly Josie Goodchild,Pranon Paenprakhon,Ida Marie Oxaas,Kristian Oxaas,"21/17,21/12",Kelly Josie Goodchild,Pranon Paenprakhon
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Per Arne Hammer,Inga-Lill Søreng Reppe,Auttaphon Seepad,Emma Michelle Hanssen,"22/20,21/23,21/12",Per Arne Hammer,Inga-Lill Søreng Reppe
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Per Arne Hammer,Inga-Lill Søreng Reppe,Ida Marie Oxaas,Kristian Oxaas,"21/18,16/21,21/14",Per Arne Hammer,Inga-Lill Søreng Reppe
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Kelly Josie Goodchild,Pranon Paenprakhon,Rachel Oforiwah Ofori,Justin Dano Sagarino,"21/4,21/13",Kelly Josie Goodchild,Pranon Paenprakhon
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Auttaphon Seepad,Emma Michelle Hanssen,Ida Marie Oxaas,Kristian Oxaas,"21/13,21/15",Auttaphon Seepad,Emma Michelle Hanssen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Auttaphon Seepad,Emma Michelle Hanssen,Rachel Oforiwah Ofori,Justin Dano Sagarino,"21/13,21/14",Auttaphon Seepad,Emma Michelle Hanssen
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Kelly Josie Goodchild,Pranon Paenprakhon,Per Arne Hammer,Inga-Lill Søreng Reppe,"13/21,21/11,21/10",Kelly Josie Goodchild,Pranon Paenprakhon
+2022/2023,Rissa Clearcup 2022,01.10.2022,SEN D,Mixeddouble,Rachel Oforiwah Ofori,Justin Dano Sagarino,Per Arne Hammer,Inga-Lill Søreng Reppe,"15/21,21/18,21/19",Rachel Oforiwah Ofori,Justin Dano Sagarino
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Leo Nicolai Hanssen,,Mathea Kristine Aasland,"21/8,21/18",Leo Nicolai Hanssen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Elias Teigen,,Iben Marie Kaspersen Krogstad,"21/8,21/6",Elias Teigen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Elander Jenssen Olafsen,,Mathea Kristine Aasland,"21/10,21/19",Elander Jenssen Olafsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Leo Nicolai Hanssen,,Iben Marie Kaspersen Krogstad,"21/3,21/7",Leo Nicolai Hanssen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Elander Jenssen Olafsen,,Iben Marie Kaspersen Krogstad,"21/8,21/7",Elander Jenssen Olafsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Leo Nicolai Hanssen,,Elias Teigen,"21/14,21/9",Leo Nicolai Hanssen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Elias Teigen,,Mathea Kristine Aasland,"21/16,21/18",Elias Teigen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Leo Nicolai Hanssen,,Elander Jenssen Olafsen,"21/13,24/22",Leo Nicolai Hanssen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Mathea Kristine Aasland,,Iben Marie Kaspersen Krogstad,"22/20,21/15",Mathea Kristine Aasland,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U11 B,Herresingle,,Elander Jenssen Olafsen,,Elias Teigen,"21/16,21/19",Elander Jenssen Olafsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Tridev Shyam Chand,,Amund Børmark,"19/21,21/11,23/21",Tridev Shyam Chand,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Jaran Salater Nygård,,Casper Sæther,"21/11,21/8",Jaran Salater Nygård,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Tridev Shyam Chand,,Jaran Salater Nygård,"21/11,21/17",Tridev Shyam Chand,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Casper Sæther,"21/6,21/4",Marcus Leander Aasland Grande,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Tridev Shyam Chand,"22/24,21/17,21/15",Marcus Leander Aasland Grande,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Amund Børmark,,Jaran Salater Nygård,"21/12,21/15",Amund Børmark,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Amund Børmark,,Casper Sæther,"21/10,21/6",Amund Børmark,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Jaran Salater Nygård,"21/15,21/10",Marcus Leander Aasland Grande,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Tridev Shyam Chand,,Casper Sæther,"21/5,21/9",Tridev Shyam Chand,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Amund Børmark,"21/9,17/21,21/5",Marcus Leander Aasland Grande,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herredouble,Jaran Salater Nygård,Amund Børmark,Sivert Murvold Borgfjord,Phakphum Saensap,"21/5,21/19",Jaran Salater Nygård,Amund Børmark
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herredouble,Kristian Oxaas,Marcus Leander Aasland Grande,Jaran Salater Nygård,Amund Børmark,"17/21,21/13,21/15",Kristian Oxaas,Marcus Leander Aasland Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 A,Herredouble,Kristian Oxaas,Marcus Leander Aasland Grande,Sivert Murvold Borgfjord,Phakphum Saensap,"21/7,21/11",Kristian Oxaas,Marcus Leander Aasland Grande
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Maja Sæther-Danielsen,,Julia Wojtkowska,"21/12,23/21",Maja Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Viktoria Ventislavova Simova,,Maja Fagervoll,"21/10,21/13",Viktoria Ventislavova Simova,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Julia Wojtkowska,,Malin Sæther-Danielsen,"21/18,21/18",Julia Wojtkowska,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Malin Sæther-Danielsen,,Maja Fagervoll,"21/11,21/14",Malin Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Julia Wojtkowska,,Viktoria Ventislavova Simova,"21/14,15/21,23/21",Julia Wojtkowska,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Julia Wojtkowska,,Maja Fagervoll,"21/8,21/17",Julia Wojtkowska,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Malin Sæther-Danielsen,,Viktoria Ventislavova Simova,"21/16,24/26,21/15",Malin Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Live Johanne Lillerødvann Nordgård,,Daria Cristina Marica,"21/17,21/18",Live Johanne Lillerødvann Nordgård,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Maja Sæther-Danielsen,,Natalia Heinich,"21/7,21/8",Maja Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Maja Sæther-Danielsen,,Live Johanne Lillerødvann Nordgård,"21/19,21/7",Maja Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Natalia Heinich,,Daria Cristina Marica,"21/12,21/12",Natalia Heinich,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Natalia Heinich,,Live Johanne Lillerødvann Nordgård,"21/15,16/21,21/15",Natalia Heinich,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damesingle,,Maja Sæther-Danielsen,,Daria Cristina Marica,"21/13,21/11",Maja Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damedouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Daria Cristina Marica,Natalia Heinich,"21/12,21/10",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damedouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Julia Wojtkowska,Live Johanne Lillerødvann Nordgård,"21/13,21/12",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U13 B,Damedouble,Daria Cristina Marica,Natalia Heinich,Julia Wojtkowska,Live Johanne Lillerødvann Nordgård,"21/19,21/19",Daria Cristina Marica,Natalia Heinich
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herresingle,,Vebjørn Børmark,,Ole Kristian Hauge Vullum,"21/17,16/21,21/14",Vebjørn Børmark,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herresingle,,Mattis Sæther-Danielsen,,IMRE LØVOLD NILSEN,"25/23,21/17",Mattis Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herresingle,,Mattis Sæther-Danielsen,,Vebjørn Børmark,"21/9,21/14",Mattis Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herresingle,,IMRE LØVOLD NILSEN,,Ole Kristian Hauge Vullum,"21/18,21/11",IMRE LØVOLD NILSEN,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herresingle,,IMRE LØVOLD NILSEN,,Vebjørn Børmark,"21/15,21/12",IMRE LØVOLD NILSEN,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herresingle,,Mattis Sæther-Danielsen,,Ole Kristian Hauge Vullum,"21/4,21/10",Mattis Sæther-Danielsen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damesingle,,Sofie Kold Hansen,,Maja Fossbakken Knutseth,"21/12,21/12",Sofie Kold Hansen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damesingle,,Ingrid Trøite,,Mathea Rødvik Iglebæk,"21/19,21/14",Ingrid Trøite,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damesingle,,Sofie Kold Hansen,,Mathea Rødvik Iglebæk,"21/17,17/21,21/18",Sofie Kold Hansen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damesingle,,Ingrid Trøite,,Maja Fossbakken Knutseth,"21/10,21/10",Ingrid Trøite,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damesingle,,Ingrid Trøite,,Sofie Kold Hansen,"21/12,21/9",Ingrid Trøite,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damesingle,,Mathea Rødvik Iglebæk,,Maja Fossbakken Knutseth,"21/8,21/23,21/11",Mathea Rødvik Iglebæk,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,Jhon Benedict Cogay,Mongkon Kruasan,Noah Wisth,Martin Leander Rokseth,"21/16,21/14",Jhon Benedict Cogay,Mongkon Kruasan
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,Vebjørn Børmark,Ole Kristian Hauge Vullum,Mattis Sæther-Danielsen,Johannes Lillevik Førde,"21/16,13/21,21/11",Vebjørn Børmark,Ole Kristian Hauge Vullum
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,Mattis Sæther-Danielsen,Johannes Lillevik Førde,Jhon Benedict Cogay,Mongkon Kruasan,"21/6,21/11",Mattis Sæther-Danielsen,Johannes Lillevik Førde
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Noah Wisth,Martin Leander Rokseth,"21/6,21/4",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Jhon Benedict Cogay,Mongkon Kruasan,"21/5,21/8",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,Vebjørn Børmark,Ole Kristian Hauge Vullum,Noah Wisth,Martin Leander Rokseth,"21/7,21/16",Vebjørn Børmark,Ole Kristian Hauge Vullum
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,Vebjørn Børmark,Ole Kristian Hauge Vullum,Jhon Benedict Cogay,Mongkon Kruasan,"24/22,21/9",Vebjørn Børmark,Ole Kristian Hauge Vullum
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Mattis Sæther-Danielsen,Johannes Lillevik Førde,"21/8,21/13",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,IMRE LØVOLD NILSEN,Asgeir Våbenø Berg,Vebjørn Børmark,Ole Kristian Hauge Vullum,"21/11,21/12",IMRE LØVOLD NILSEN,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Herredouble,Mattis Sæther-Danielsen,Johannes Lillevik Førde,Noah Wisth,Martin Leander Rokseth,"21/12,21/10",Mattis Sæther-Danielsen,Johannes Lillevik Førde
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Ingrid Trøite,Sofie Kold Hansen,"21/14,21/17",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Ane Snustad-Grønskag,Sofie Holm,Mike Skrocki,Viktoria Ventislavova Simova,"21/15,15/21,21/19",Ane Snustad-Grønskag,Sofie Holm
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Ane Snustad-Grønskag,Sofie Holm,"21/6,21/11",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Mike Skrocki,Viktoria Ventislavova Simova,"21/6,21/6",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Kelly Josie Goodchild,Fauste Marcisauskaite,Anna Høysæter,Vera Alvhilde Vestergaard Grande,"21/4,21/7",Kelly Josie Goodchild,Fauste Marcisauskaite
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Ingrid Trøite,Sofie Kold Hansen,Anna Høysæter,Vera Alvhilde Vestergaard Grande,"21/10,21/2",Ingrid Trøite,Sofie Kold Hansen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Damedouble,Ingrid Trøite,Sofie Kold Hansen,Kelly Josie Goodchild,Fauste Marcisauskaite,"21/16,21/11",Ingrid Trøite,Sofie Kold Hansen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Silje Lyngstad Skavhaug,Asgeir Våbenø Berg,IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth,"21/8,21/13",Silje Lyngstad Skavhaug,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth,Fauste Marcisauskaite,Eimund Sandbugt-Hammer,"21/18,19/21,21/19",IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Johannes Lillevik Førde,Maja Sæther-Danielsen,Marcus Leander Aasland Grande,Marna Fjærli Hammernes,"21/12,21/6",Johannes Lillevik Førde,Maja Sæther-Danielsen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Silje Lyngstad Skavhaug,Asgeir Våbenø Berg,Johannes Lillevik Førde,Maja Sæther-Danielsen,"21/9,21/7",Silje Lyngstad Skavhaug,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Silje Lyngstad Skavhaug,Asgeir Våbenø Berg,Marcus Leander Aasland Grande,Marna Fjærli Hammernes,"21/3,21/1",Silje Lyngstad Skavhaug,Asgeir Våbenø Berg
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Fauste Marcisauskaite,Eimund Sandbugt-Hammer,Jhon Benedict Cogay,Mike Skrocki,"21/18,21/9",Fauste Marcisauskaite,Eimund Sandbugt-Hammer
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Mattis Sæther-Danielsen,Malin Sæther-Danielsen,Jhon Benedict Cogay,Mike Skrocki,"21/8,21/12",Mattis Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Fauste Marcisauskaite,Eimund Sandbugt-Hammer,Mattis Sæther-Danielsen,Malin Sæther-Danielsen,"21/19,14/21,21/19",Fauste Marcisauskaite,Eimund Sandbugt-Hammer
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth,Aud-Othilie Søreng Reppe,Mongkon Kruasan,"21/8,21/12",IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth,Maja Fagervoll,Sander Sandnes Fagervoll,"21/3,21/5",IMRE LØVOLD NILSEN,Maja Fossbakken Knutseth
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 A,Mixeddouble,Aud-Othilie Søreng Reppe,Mongkon Kruasan,Maja Fagervoll,Sander Sandnes Fagervoll,"16/21,21/16,21/10",Aud-Othilie Søreng Reppe,Mongkon Kruasan
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Johannes Lillevik Førde,,Erik Jiang,"20/22,21/12,21/11",Johannes Lillevik Førde,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Johannes Lillevik Førde,,August Fines,"21/11,21/14",Johannes Lillevik Førde,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Eimund Sandbugt-Hammer,,Martin Leander Rokseth,"21/11,21/7",Eimund Sandbugt-Hammer,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Erik Jiang,,Sander Sandnes Fagervoll,"21/12,21/8",Erik Jiang,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Eimund Sandbugt-Hammer,,Sander Sandnes Fagervoll,"21/10,21/10",Eimund Sandbugt-Hammer,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Erik Jiang,,Martin Leander Rokseth,"21/19,21/14",Erik Jiang,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Martin Leander Rokseth,,Sander Sandnes Fagervoll,"21/13,21/10",Martin Leander Rokseth,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Erik Jiang,,Eimund Sandbugt-Hammer,"21/18,21/19",Erik Jiang,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,August Fines,,Noah Wisth,"21/13,21/16",August Fines,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Jhon Benedict Cogay,,Tobias Langlie,"21/8,21/11",Jhon Benedict Cogay,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Noah Wisth,,Tobias Langlie,"21/15,21/15",Noah Wisth,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,August Fines,,Jhon Benedict Cogay,"21/18,21/19",August Fines,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Jhon Benedict Cogay,,Noah Wisth,"23/21,21/23,21/17",Jhon Benedict Cogay,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,August Fines,,Tobias Langlie,"21/11,21/5",August Fines,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Johannes Lillevik Førde,,Eirik Borstad,"21/6,21/5",Johannes Lillevik Førde,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Johannes Lillevik Førde,,Mongkon Kruasan,"21/6,21/11",Johannes Lillevik Førde,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Herresingle,,Eirik Borstad,,Mongkon Kruasan,"21/19,21/18",Eirik Borstad,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Kelly Josie Goodchild,,Ane Snustad-Grønskag,"21/18,21/3",Kelly Josie Goodchild,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Kelly Josie Goodchild,,Fauste Marcisauskaite,"20/22,21/12,21/16",Kelly Josie Goodchild,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Ane Snustad-Grønskag,,Aud-Othilie Søreng Reppe,"21/1,21/7",Ane Snustad-Grønskag,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Ane Snustad-Grønskag,,Vera Alvhilde Vestergaard Grande,"21/19,21/17",Ane Snustad-Grønskag,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Vera Alvhilde Vestergaard Grande,,Aud-Othilie Søreng Reppe,"21/17,21/1",Vera Alvhilde Vestergaard Grande,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Fauste Marcisauskaite,,Anna Høysæter,"21/4,21/4",Fauste Marcisauskaite,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Fauste Marcisauskaite,,Mike Skrocki,"21/13,21/9",Fauste Marcisauskaite,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Mike Skrocki,,Anna Høysæter,"21/6,21/10",Mike Skrocki,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Kelly Josie Goodchild,,Sofie Holm,"21/12,21/12",Kelly Josie Goodchild,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Sofie Holm,,Marna Fjærli Hammernes,"21/7,21/5",Sofie Holm,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U15 B,Damesingle,,Kelly Josie Goodchild,,Marna Fjærli Hammernes,"21/5,21/6",Kelly Josie Goodchild,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 A,Mixeddouble,Fillip August Rotabakk,Nora Haukdal Trøen,Amalie Teigen,Tormod Sve,"21/14,21/6",Fillip August Rotabakk,Nora Haukdal Trøen
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Herresingle,,Tete,,Leon Hu-Xu,"21/12,21/17",Tete,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Herresingle,,Tormod Sve,,Tete,"21/17,17/21,23/21",Tormod Sve,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Herresingle,,Tormod Sve,,Leon Hu-Xu,"21/11,21/13",Tormod Sve,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Damesingle,,Amalie Teigen,,Emilia Siemiatkowska,"21/5,21/5",Amalie Teigen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Damesingle,,Amalie Teigen,,Rachel Oforiwah Ofori,"21/10,21/6",Amalie Teigen,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Damesingle,,Rachel Oforiwah Ofori,,Emilia Siemiatkowska,"21/16,21/15",Rachel Oforiwah Ofori,
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Herredouble,Viktor Mokkelbost,Lars Dalevoll,Erik Jiang,Leon Hu-Xu,"21/17,21/11",Viktor Mokkelbost,Lars Dalevoll
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Herredouble,Sander Kirkbakk,Martin Wallenius Hesjeli,Erik Jiang,Leon Hu-Xu,"21/6,22/20",Sander Kirkbakk,Martin Wallenius Hesjeli
+2022/2023,Rissa Clearcup 2022,01.10.2022,U17 B,Herredouble,Viktor Mokkelbost,Lars Dalevoll,Sander Kirkbakk,Martin Wallenius Hesjeli,"21/15,21/11",Viktor Mokkelbost,Lars Dalevoll

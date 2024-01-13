@@ -1,191 +1,157 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Fredrik Skånøy,"21/8,21/17",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/13,20/22,21/15",Emil Pettersen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Emil Pettersen,"21/16,21/5",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Fredrik Skånøy,"21/8,21/17",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/13,20/22,21/15",Emil Pettersen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Emil Pettersen,"21/16,21/5",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Lian,Magnus Eidissen,Tore Hansen,Håvard Soløy,"8/21,21/19,21/16",Fredrik Lian,Magnus Eidissen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Skånøy,Jonas J Grande,Marcus Hanssen,Vemund Wennemo,"21/15,21/16",Fredrik Skånøy,Jonas J Grande
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Lian,Magnus Eidissen,Fredrik Skånøy,Jonas J Grande,"21/17,22/20",Fredrik Lian,Magnus Eidissen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Lian,Magnus Eidissen,Marcus Hanssen,Vemund Wennemo,"21/14,23/21",Fredrik Lian,Magnus Eidissen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Tommy Johnsen,Reidar Bråten,Tore Hansen,Håvard Soløy,"9/21,21/17,21/12",Tommy Johnsen,Reidar Bråten
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Emil Pettersen,Torleiv Hov Grønbech,Tommy Johnsen,Reidar Bråten,"24/26,21/10,21/10",Emil Pettersen,Torleiv Hov Grønbech
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Tore Hansen,Håvard Soløy,Emil Pettersen,Torleiv Hov Grønbech,"21/15,22/20",Tore Hansen,Håvard Soløy
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Torleiv Hov Grønbech,,Vemund Wennemo,"21/19,21/15",Torleiv Hov Grønbech,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Torleiv Hov Grønbech,,Tore Hansen,"21/12,17/21,21/18",Torleiv Hov Grønbech,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Tore Hansen,,Reidar Bråten,"21/18,21/13",Tore Hansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Torleiv Hov Grønbech,,Reidar Bråten,"21/13,21/8",Torleiv Hov Grønbech,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Vemund Wennemo,,Magnus Eidissen,"18/21,21/14,22/20",Vemund Wennemo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Vemund Wennemo,,Tommy Johnsen,"18/21,21/12,21/0",Vemund Wennemo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Magnus Eidissen,,Sigbjørn Lund Wang,"21/19,21/19",Magnus Eidissen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Vemund Wennemo,,Sigbjørn Lund Wang,"21/13,26/24",Vemund Wennemo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Torleiv Hov Grønbech,,Vemund Wennemo,"21/19,21/15",Torleiv Hov Grønbech,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Torleiv Hov Grønbech,,Tore Hansen,"21/12,17/21,21/18",Torleiv Hov Grønbech,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Tore Hansen,,Reidar Bråten,"21/18,21/13",Tore Hansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Torleiv Hov Grønbech,,Reidar Bråten,"21/13,21/8",Torleiv Hov Grønbech,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Vemund Wennemo,,Magnus Eidissen,"18/21,21/14,22/20",Vemund Wennemo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Vemund Wennemo,,Tommy Johnsen,"18/21,21/12,21/0",Vemund Wennemo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Magnus Eidissen,,Sigbjørn Lund Wang,"21/19,21/19",Magnus Eidissen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,,Vemund Wennemo,,Sigbjørn Lund Wang,"21/13,26/24",Vemund Wennemo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,kristiane lenning,Louise Prestø,"18/21,21/13,21/17",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,Frida Prestø,Live Hov Grønbech,"21/19,13/21,21/15",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Elin Hansen,Barbro Johnsen,Ina Finanger Skog,Rebekka Finanger Skog,"21/11,19/21,21/12",Elin Hansen,Barbro Johnsen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,kristiane lenning,Louise Prestø,Elin Hansen,Barbro Johnsen,"21/11,21/15",kristiane lenning,Louise Prestø
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,kristiane lenning,Louise Prestø,Ina Finanger Skog,Rebekka Finanger Skog,"21/15,21/14",kristiane lenning,Louise Prestø
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Sophie Larsen,Solveig Heggheim,Ann-Kristin Lenning,Cecilie Sørøy Hanssen,"21/12,21/11",Sophie Larsen,Solveig Heggheim
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Frida Prestø,Live Hov Grønbech,Sophie Larsen,Solveig Heggheim,"21/13,21/12",Frida Prestø,Live Hov Grønbech
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Frida Prestø,Live Hov Grønbech,Ann-Kristin Lenning,Cecilie Sørøy Hanssen,"21/12,21/7",Frida Prestø,Live Hov Grønbech
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Line Klæbo,Line Larsen,Anja Stojanovic,Benedicte Pinto,"21/12,21/5",Line Klæbo,Line Larsen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,Anja Stojanovic,Benedicte Pinto,"21/5,21/0",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,Line Klæbo,Line Larsen,"21/5,21/6",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,kristiane lenning,Louise Prestø,"18/21,21/13,21/17",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,Frida Prestø,Live Hov Grønbech,"21/19,13/21,21/15",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Elin Hansen,Barbro Johnsen,Ina Finanger Skog,Rebekka Finanger Skog,"21/11,19/21,21/12",Elin Hansen,Barbro Johnsen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,kristiane lenning,Louise Prestø,Elin Hansen,Barbro Johnsen,"21/11,21/15",kristiane lenning,Louise Prestø
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,kristiane lenning,Louise Prestø,Ina Finanger Skog,Rebekka Finanger Skog,"21/15,21/14",kristiane lenning,Louise Prestø
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Sophie Larsen,Solveig Heggheim,Ann-Kristin Lenning,Cecilie Sørøy Hanssen,"21/12,21/11",Sophie Larsen,Solveig Heggheim
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Frida Prestø,Live Hov Grønbech,Sophie Larsen,Solveig Heggheim,"21/13,21/12",Frida Prestø,Live Hov Grønbech
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Frida Prestø,Live Hov Grønbech,Ann-Kristin Lenning,Cecilie Sørøy Hanssen,"21/12,21/7",Frida Prestø,Live Hov Grønbech
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Line Klæbo,Line Larsen,Anja Stojanovic,Benedicte Pinto,"21/12,21/5",Line Klæbo,Line Larsen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,Anja Stojanovic,Benedicte Pinto,"21/5,21/0",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Ingvild Håland,Anne Berit Iversen,Line Klæbo,Line Larsen,"21/5,21/6",Ingvild Håland,Anne Berit Iversen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Svend Morten Reinertsen,,Sander Johansen,"21/11,21/4",Svend Morten Reinertsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Håvard Bjertnes,"21/9,21/3",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Marcus Hanssen,,Svend Morten Reinertsen,"21/17,21/15",Marcus Hanssen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Håvard Bjertnes,,Sander Johansen,"21/13,18/21,21/15",Håvard Bjertnes,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Marcus Hanssen,"21/16,21/16",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Svend Morten Reinertsen,,Håvard Bjertnes,"21/19,21/12",Svend Morten Reinertsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Marcus Hanssen,,Sander Johansen,"21/8,21/7",Marcus Hanssen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Svend Morten Reinertsen,"21/19,21/12",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Sander Johansen,"21/6,21/4",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Marcus Hanssen,,Håvard Bjertnes,"21/10,21/12",Marcus Hanssen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Svend Morten Reinertsen,,Sander Johansen,"21/11,21/4",Svend Morten Reinertsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Håvard Bjertnes,"21/9,21/3",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Marcus Hanssen,,Svend Morten Reinertsen,"21/17,21/15",Marcus Hanssen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Håvard Bjertnes,,Sander Johansen,"21/13,18/21,21/15",Håvard Bjertnes,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Marcus Hanssen,"21/16,21/16",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Svend Morten Reinertsen,,Håvard Bjertnes,"21/19,21/12",Svend Morten Reinertsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Marcus Hanssen,,Sander Johansen,"21/8,21/7",Marcus Hanssen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Svend Morten Reinertsen,"21/19,21/12",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Joacim Sørensen,,Sander Johansen,"21/6,21/4",Joacim Sørensen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Marcus Hanssen,,Håvard Bjertnes,"21/10,21/12",Marcus Hanssen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Line Klæbo,,Cecilie Sørøy Hanssen,"19/21,21/19,21/14",Line Klæbo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Mirjam Finanger,,Line Klæbo,"21/9,21/9",Mirjam Finanger,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Line Klæbo,,Line Larsen,"21/13,21/14",Line Klæbo,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,,Mirjam Finanger,,Cecilie Sørøy Hanssen,"21/4,21/13",Mirjam Finanger,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Børge Håland,Elias Lenning,Vegard Mathiassen Larsen,Roger Skagen,"21/9,21/5",Børge Håland,Elias Lenning
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Svend Morten Reinertsen,Benjamin Rølvåg,Vegard Mathiassen Larsen,Roger Skagen,"21/8,21/7",Svend Morten Reinertsen,Benjamin Rølvåg
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Svend Morten Reinertsen,Benjamin Rølvåg,Sander Johansen,Joacim Sørensen,"18/21,21/12,21/16",Svend Morten Reinertsen,Benjamin Rølvåg
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Børge Håland,Elias Lenning,Sander Johansen,Joacim Sørensen,"21/7,21/19",Børge Håland,Elias Lenning
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Børge Håland,Elias Lenning,Svend Morten Reinertsen,Benjamin Rølvåg,"21/16,21/14",Børge Håland,Elias Lenning
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Sander Johansen,Joacim Sørensen,Vegard Mathiassen Larsen,Roger Skagen,"21/12,21/14",Sander Johansen,Joacim Sørensen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Alexander Hansen,"21/10,21/19",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Jesper Norum,,Brage Moe Bjertnes,"21/16,18/21,21/12",Jesper Norum,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Steinar Furu Olsen,"21/8,21/11",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Brage Moe Bjertnes,,Alexander Hansen,"17/21,21/11,21/12",Brage Moe Bjertnes,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Brage Moe Bjertnes,"21/6,21/6",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Steinar Furu Olsen,,Jesper Norum,"25/23,23/21",Steinar Furu Olsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Jesper Norum,,Alexander Hansen,"21/16,17/21,21/18",Jesper Norum,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Brage Moe Bjertnes,,Steinar Furu Olsen,"21/15,21/19",Brage Moe Bjertnes,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Steinar Furu Olsen,,Alexander Hansen,"18/21,21/16,21/17",Steinar Furu Olsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Jesper Norum,"21/3,21/7",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Alexander Hansen,"21/10,21/19",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Jesper Norum,,Brage Moe Bjertnes,"21/16,18/21,21/12",Jesper Norum,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Steinar Furu Olsen,"21/8,21/11",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Brage Moe Bjertnes,,Alexander Hansen,"17/21,21/11,21/12",Brage Moe Bjertnes,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Brage Moe Bjertnes,"21/6,21/6",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Steinar Furu Olsen,,Jesper Norum,"25/23,23/21",Steinar Furu Olsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Jesper Norum,,Alexander Hansen,"21/16,17/21,21/18",Jesper Norum,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Brage Moe Bjertnes,,Steinar Furu Olsen,"21/15,21/19",Brage Moe Bjertnes,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Steinar Furu Olsen,,Alexander Hansen,"18/21,21/16,21/17",Steinar Furu Olsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,,Marius Sandvær,,Jesper Norum,"21/3,21/7",Marius Sandvær,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Signe Lenning,Linnea Nordnes Prestø,Alexander Hansen,Jesper Norum,"21/13,21/16",Signe Lenning,Linnea Nordnes Prestø
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Alexander Hansen,Jesper Norum,Marius Sandvær,Gustav Langsæter,"21/19,22/20",Alexander Hansen,Jesper Norum
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Brage Moe Bjertnes,Steinar Furu Olsen,Signe Lenning,Linnea Nordnes Prestø,"21/10,21/10",Brage Moe Bjertnes,Steinar Furu Olsen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Marius Sandvær,Gustav Langsæter,Brage Moe Bjertnes,Steinar Furu Olsen,"21/12,21/13",Marius Sandvær,Gustav Langsæter
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Alexander Hansen,Jesper Norum,Brage Moe Bjertnes,Steinar Furu Olsen,"21/19,22/20",Alexander Hansen,Jesper Norum
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Marius Sandvær,Gustav Langsæter,Signe Lenning,Linnea Nordnes Prestø,"21/15,21/18",Marius Sandvær,Gustav Langsæter
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Gustav Langsæter,,Dennis Østensson,"21/16,21/15",Gustav Langsæter,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Storm Andreas Jahr-Nilsen,,Andre Olsen- Dahlen,"12/21,22/20,23/21",Storm Andreas Jahr-Nilsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Andre Olsen- Dahlen,,Gustav Langsæter,"19/21,21/14,21/19",Andre Olsen- Dahlen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Storm Andreas Jahr-Nilsen,,Steffen Andreassen,"21/17,21/11",Storm Andreas Jahr-Nilsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Andre Olsen- Dahlen,,Dennis Østensson,"21/13,21/19",Andre Olsen- Dahlen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Gustav Langsæter,,Steffen Andreassen,"21/6,21/7",Gustav Langsæter,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Dennis Østensson,,Steffen Andreassen,"21/18,21/15",Dennis Østensson,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Gustav Langsæter,,Storm Andreas Jahr-Nilsen,"21/10,21/13",Gustav Langsæter,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Storm Andreas Jahr-Nilsen,,Dennis Østensson,"14/21,21/18,21/14",Storm Andreas Jahr-Nilsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Andre Olsen- Dahlen,,Steffen Andreassen,"21/14,21/12",Andre Olsen- Dahlen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Gustav Langsæter,,Dennis Østensson,"21/16,21/15",Gustav Langsæter,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Storm Andreas Jahr-Nilsen,,Andre Olsen- Dahlen,"12/21,22/20,23/21",Storm Andreas Jahr-Nilsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Andre Olsen- Dahlen,,Gustav Langsæter,"19/21,21/14,21/19",Andre Olsen- Dahlen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Storm Andreas Jahr-Nilsen,,Steffen Andreassen,"21/17,21/11",Storm Andreas Jahr-Nilsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Andre Olsen- Dahlen,,Dennis Østensson,"21/13,21/19",Andre Olsen- Dahlen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Gustav Langsæter,,Steffen Andreassen,"21/6,21/7",Gustav Langsæter,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Dennis Østensson,,Steffen Andreassen,"21/18,21/15",Dennis Østensson,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Gustav Langsæter,,Storm Andreas Jahr-Nilsen,"21/10,21/13",Gustav Langsæter,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Storm Andreas Jahr-Nilsen,,Dennis Østensson,"14/21,21/18,21/14",Storm Andreas Jahr-Nilsen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Andre Olsen- Dahlen,,Steffen Andreassen,"21/14,21/12",Andre Olsen- Dahlen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Amalie Hjørdis Johansen,,Frida Olsen Roan,"21/18,21/13",Amalie Hjørdis Johansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Eline Nikolaisen Engevik,,Nathalie Pettersen Kleiven,"21/12,21/12",Eline Nikolaisen Engevik,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Amalie Hjørdis Johansen,,Nathalie Pettersen Kleiven,"21/14,21/23,21/19",Amalie Hjørdis Johansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Eline Nikolaisen Engevik,,Frida Olsen Roan,"24/22,21/19",Eline Nikolaisen Engevik,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Eline Nikolaisen Engevik,,Amalie Hjørdis Johansen,"21/16,21/15",Eline Nikolaisen Engevik,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,,Frida Olsen Roan,,Nathalie Pettersen Kleiven,"21/15,21/13",Frida Olsen Roan,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Anette Jakobsen Mathisen,,Linnea Nordnes Prestø,"21/15,21/12",Anette Jakobsen Mathisen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Signe Lenning,,Laura Taidla,"21/18,15/21,21/16",Signe Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Laura Taidla,,Linnea Nordnes Prestø,"21/14,21/7",Laura Taidla,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Signe Lenning,,Anette Jakobsen Mathisen,"21/18,21/14",Signe Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Signe Lenning,,Linnea Nordnes Prestø,"21/18,21/18",Signe Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Laura Taidla,,Anette Jakobsen Mathisen,"21/6,21/8",Laura Taidla,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Anette Jakobsen Mathisen,,Linnea Nordnes Prestø,"21/15,21/12",Anette Jakobsen Mathisen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Signe Lenning,,Laura Taidla,"21/18,15/21,21/16",Signe Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Laura Taidla,,Linnea Nordnes Prestø,"21/14,21/7",Laura Taidla,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Signe Lenning,,Anette Jakobsen Mathisen,"21/18,21/14",Signe Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Signe Lenning,,Linnea Nordnes Prestø,"21/18,21/18",Signe Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,,Laura Taidla,,Anette Jakobsen Mathisen,"21/6,21/8",Laura Taidla,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,,Benjamin Wang,,Filip Andre Brasøygård Johansen,"21/18,21/18",Benjamin Wang,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,,Benjamin Wang,,Even Johan  Engevik,"21/11,21/7",Benjamin Wang,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,,Filip Andre Brasøygård Johansen,,Even Johan  Engevik,"21/13,22/20",Filip Andre Brasøygård Johansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,,Benjamin Wang,,Filip Andre Brasøygård Johansen,"21/18,21/18",Benjamin Wang,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,,Benjamin Wang,,Even Johan  Engevik,"21/11,21/7",Benjamin Wang,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,,Filip Andre Brasøygård Johansen,,Even Johan  Engevik,"21/13,22/20",Filip Andre Brasøygård Johansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,,Gaute Bringsli,,Alexandar Stojanovic,"21/18,15/21,21/15",Gaute Bringsli,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,,Sander Bjertnes Hansen,,Gaute Bringsli,"21/14,21/16",Sander Bjertnes Hansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,,Sander Bjertnes Hansen,,Alexandar Stojanovic,"21/15,21/13",Sander Bjertnes Hansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,,Gaute Bringsli,,Alexandar Stojanovic,"21/18,15/21,21/15",Gaute Bringsli,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,,Sander Bjertnes Hansen,,Gaute Bringsli,"21/14,21/16",Sander Bjertnes Hansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,,Sander Bjertnes Hansen,,Alexandar Stojanovic,"21/15,21/13",Sander Bjertnes Hansen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Even Johan  Engevik,Benjamin Wang,Laura Taidla,Anette Jakobsen Mathisen,"21/16,21/10",Even Johan  Engevik,Benjamin Wang
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Sander Bjertnes Hansen,Gaute Bringsli,Alexandar Stojanovic,Filip Andre Brasøygård Johansen,"21/11,21/12",Sander Bjertnes Hansen,Gaute Bringsli
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Alexandar Stojanovic,Filip Andre Brasøygård Johansen,Laura Taidla,Anette Jakobsen Mathisen,"21/12,21/13",Alexandar Stojanovic,Filip Andre Brasøygård Johansen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Sander Bjertnes Hansen,Gaute Bringsli,Even Johan  Engevik,Benjamin Wang,"21/9,21/11",Sander Bjertnes Hansen,Gaute Bringsli
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Sander Bjertnes Hansen,Gaute Bringsli,Laura Taidla,Anette Jakobsen Mathisen,"21/2,21/8",Sander Bjertnes Hansen,Gaute Bringsli
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Alexandar Stojanovic,Filip Andre Brasøygård Johansen,Even Johan  Engevik,Benjamin Wang,"21/14,21/10",Alexandar Stojanovic,Filip Andre Brasøygård Johansen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Fredrik Skånøy,"21/8,21/17",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/13,20/22,21/15",Emil Pettersen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Emil Pettersen,"21/16,21/5",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Fredrik Skånøy,"21/8,21/17",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/13,20/22,21/15",Emil Pettersen,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,,Håvard Soløy,,Emil Pettersen,"21/16,21/5",Håvard Soløy,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Lian,Magnus Eidissen,Tore Hansen,Håvard Soløy,"8/21,21/19,21/16",Fredrik Lian,Magnus Eidissen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Skånøy,Jonas J Grande,Marcus Hanssen,Vemund Wennemo,"21/15,21/16",Fredrik Skånøy,Jonas J Grande
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Lian,Magnus Eidissen,Fredrik Skånøy,Jonas J Grande,"21/17,22/20",Fredrik Lian,Magnus Eidissen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Fredrik Lian,Magnus Eidissen,Marcus Hanssen,Vemund Wennemo,"21/14,23/21",Fredrik Lian,Magnus Eidissen
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Tommy Johnsen,Reidar Bråten,Tore Hansen,Håvard Soløy,"9/21,21/17,21/12",Tommy Johnsen,Reidar Bråten
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Emil Pettersen,Torleiv Hov Grønbech,Tommy Johnsen,Reidar Bråten,"24/26,21/10,21/10",Emil Pettersen,Torleiv Hov Grønbech
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Tore Hansen,Håvard Soløy,Emil Pettersen,Torleiv Hov Grønbech,"21/15,22/20",Tore Hansen,Håvard Soløy
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Jonas J Grande,,Elias Lenning,"21/17,7/21,21/18",Jonas J Grande,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Børge Håland,,Roger Skagen,"21/9,21/13",Børge Håland,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Jonas J Grande,,Roger Skagen,"21/5,21/6",Jonas J Grande,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Jonas J Grande,,Børge Håland,"21/17,15/21,21/13",Jonas J Grande,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Elias Lenning,,Benjamin Rølvåg,"21/9,21/17",Elias Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Elias Lenning,,Vegard Mathiassen Larsen,"21/7,21/8",Elias Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Benjamin Rølvåg,,Vegard Mathiassen Larsen,"21/4,21/4",Benjamin Rølvåg,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Jonas J Grande,,Elias Lenning,"21/17,7/21,21/18",Jonas J Grande,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Børge Håland,,Roger Skagen,"21/9,21/13",Børge Håland,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Jonas J Grande,,Roger Skagen,"21/5,21/6",Jonas J Grande,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Jonas J Grande,,Børge Håland,"21/17,15/21,21/13",Jonas J Grande,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Elias Lenning,,Benjamin Rølvåg,"21/9,21/17",Elias Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Elias Lenning,,Vegard Mathiassen Larsen,"21/7,21/8",Elias Lenning,
-2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,,Benjamin Rølvåg,,Vegard Mathiassen Larsen,"21/4,21/4",Benjamin Rølvåg,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herresingle,,Håvard Soløy,,Fredrik Skånøy,"21/8,21/17",Håvard Soløy,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herresingle,,Emil Pettersen,,Fredrik Skånøy,"21/13,20/22,21/15",Emil Pettersen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herresingle,,Håvard Soløy,,Emil Pettersen,"21/16,21/5",Håvard Soløy,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Fredrik Lian,Magnus Eidissen,Tore Hansen,Håvard Soløy,"8/21,21/19,21/16",Fredrik Lian,Magnus Eidissen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Fredrik Skånøy,Jonas J Grande,Marcus Hanssen,Vemund Wennemo,"21/15,21/16",Fredrik Skånøy,Jonas J Grande
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Fredrik Lian,Magnus Eidissen,Fredrik Skånøy,Jonas J Grande,"21/17,22/20",Fredrik Lian,Magnus Eidissen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Fredrik Lian,Magnus Eidissen,Marcus Hanssen,Vemund Wennemo,"21/14,23/21",Fredrik Lian,Magnus Eidissen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Tommy Johnsen,Reidar Bråten,Tore Hansen,Håvard Soløy,"9/21,21/17,21/12",Tommy Johnsen,Reidar Bråten
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Emil Pettersen,Torleiv Hov Grønbech,Tommy Johnsen,Reidar Bråten,"24/26,21/10,21/10",Emil Pettersen,Torleiv Hov Grønbech
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Herredouble,Tore Hansen,Håvard Soløy,Emil Pettersen,Torleiv Hov Grønbech,"21/15,22/20",Tore Hansen,Håvard Soløy
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Håvard Soløy,Mirjam Finanger,Emil Pettersen,Barbro Johnsen,"21/5,21/14",Håvard Soløy,Mirjam Finanger
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Torleiv Hov Grønbech,kristiane lenning,Anne Berit Iversen,Magnus Eidissen,"21/12,21/16",Torleiv Hov Grønbech,kristiane lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Håvard Soløy,Mirjam Finanger,Sophie Larsen,Fredrik Lian,"21/11,21/18",Håvard Soløy,Mirjam Finanger
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Sophie Larsen,Fredrik Lian,Torleiv Hov Grønbech,kristiane lenning,"21/13,21/13",Sophie Larsen,Fredrik Lian
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Håvard Soløy,Mirjam Finanger,Anne Berit Iversen,Magnus Eidissen,"21/13,21/7",Håvard Soløy,Mirjam Finanger
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Sophie Larsen,Fredrik Lian,Anne Berit Iversen,Magnus Eidissen,"21/10,21/18",Sophie Larsen,Fredrik Lian
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Håvard Soløy,Mirjam Finanger,Torleiv Hov Grønbech,kristiane lenning,"21/12,21/13",Håvard Soløy,Mirjam Finanger
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Ingvild Håland,Fredrik Skånøy,Tore Hansen,Rebekka Finanger Skog,"21/18,21/5",Ingvild Håland,Fredrik Skånøy
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Vemund Wennemo,Louise Prestø,Emil Pettersen,Barbro Johnsen,"16/21,21/13,21/19",Vemund Wennemo,Louise Prestø
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Emil Pettersen,Barbro Johnsen,Ingvild Håland,Fredrik Skånøy,"21/13,21/15",Emil Pettersen,Barbro Johnsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Vemund Wennemo,Louise Prestø,Tore Hansen,Rebekka Finanger Skog,"19/21,21/14,21/16",Vemund Wennemo,Louise Prestø
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Ingvild Håland,Fredrik Skånøy,Vemund Wennemo,Louise Prestø,"21/16,21/11",Ingvild Håland,Fredrik Skånøy
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN A,Mixeddouble,Emil Pettersen,Barbro Johnsen,Tore Hansen,Rebekka Finanger Skog,"21/13,21/16",Emil Pettersen,Barbro Johnsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Vemund Wennemo,"21/19,21/15",Torleiv Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Tore Hansen,"21/12,17/21,21/18",Torleiv Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Tore Hansen,,Reidar Bråten,"21/18,21/13",Tore Hansen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Reidar Bråten,"21/13,21/8",Torleiv Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Vemund Wennemo,,Magnus Eidissen,"18/21,21/14,22/20",Vemund Wennemo,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Vemund Wennemo,,Tommy Johnsen,"18/21,21/12,21/0",Vemund Wennemo,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Magnus Eidissen,,Sigbjørn Lund Wang,"21/19,21/19",Magnus Eidissen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN B,Herresingle,,Vemund Wennemo,,Sigbjørn Lund Wang,"21/13,26/24",Vemund Wennemo,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Ingvild Håland,Anne Berit Iversen,kristiane lenning,Louise Prestø,"18/21,21/13,21/17",Ingvild Håland,Anne Berit Iversen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Ingvild Håland,Anne Berit Iversen,Frida Prestø,Live Hov Grønbech,"21/19,13/21,21/15",Ingvild Håland,Anne Berit Iversen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Elin Hansen,Barbro Johnsen,Ina Finanger Skog,Rebekka Finanger Skog,"21/11,19/21,21/12",Elin Hansen,Barbro Johnsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,kristiane lenning,Louise Prestø,Elin Hansen,Barbro Johnsen,"21/11,21/15",kristiane lenning,Louise Prestø
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,kristiane lenning,Louise Prestø,Ina Finanger Skog,Rebekka Finanger Skog,"21/15,21/14",kristiane lenning,Louise Prestø
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Sophie Larsen,Solveig Heggheim,Ann-Kristin Lenning,Cecilie Sørøy Hanssen,"21/12,21/11",Sophie Larsen,Solveig Heggheim
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Frida Prestø,Live Hov Grønbech,Sophie Larsen,Solveig Heggheim,"21/13,21/12",Frida Prestø,Live Hov Grønbech
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Frida Prestø,Live Hov Grønbech,Ann-Kristin Lenning,Cecilie Sørøy Hanssen,"21/12,21/7",Frida Prestø,Live Hov Grønbech
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Line Klæbo,Line Larsen,Anja Stojanovic,Benedicte Pinto,"21/12,21/5",Line Klæbo,Line Larsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Ingvild Håland,Anne Berit Iversen,Anja Stojanovic,Benedicte Pinto,"21/5,21/0",Ingvild Håland,Anne Berit Iversen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN C,Damedouble,Ingvild Håland,Anne Berit Iversen,Line Klæbo,Line Larsen,"21/5,21/6",Ingvild Håland,Anne Berit Iversen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Svend Morten Reinertsen,,Sander Johansen,"21/11,21/4",Svend Morten Reinertsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Joacim Sørensen,,Håvard Bjertnes,"21/9,21/3",Joacim Sørensen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Marcus Hanssen,,Svend Morten Reinertsen,"21/17,21/15",Marcus Hanssen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Håvard Bjertnes,,Sander Johansen,"21/13,18/21,21/15",Håvard Bjertnes,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Joacim Sørensen,,Marcus Hanssen,"21/16,21/16",Joacim Sørensen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Svend Morten Reinertsen,,Håvard Bjertnes,"21/19,21/12",Svend Morten Reinertsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Marcus Hanssen,,Sander Johansen,"21/8,21/7",Marcus Hanssen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Joacim Sørensen,,Svend Morten Reinertsen,"21/19,21/12",Joacim Sørensen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Joacim Sørensen,,Sander Johansen,"21/6,21/4",Joacim Sørensen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herresingle,,Marcus Hanssen,,Håvard Bjertnes,"21/10,21/12",Marcus Hanssen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Damesingle,,Line Klæbo,,Cecilie Sørøy Hanssen,"19/21,21/19,21/14",Line Klæbo,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Damesingle,,Mirjam Finanger,,Line Klæbo,"21/9,21/9",Mirjam Finanger,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Damesingle,,Line Klæbo,,Line Larsen,"21/13,21/14",Line Klæbo,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Damesingle,,Mirjam Finanger,,Cecilie Sørøy Hanssen,"21/4,21/13",Mirjam Finanger,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herredouble,Børge Håland,Elias Lenning,Vegard Mathiassen Larsen,Roger Skagen,"21/9,21/5",Børge Håland,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herredouble,Svend Morten Reinertsen,Benjamin Rølvåg,Vegard Mathiassen Larsen,Roger Skagen,"21/8,21/7",Svend Morten Reinertsen,Benjamin Rølvåg
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herredouble,Svend Morten Reinertsen,Benjamin Rølvåg,Sander Johansen,Joacim Sørensen,"18/21,21/12,21/16",Svend Morten Reinertsen,Benjamin Rølvåg
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herredouble,Børge Håland,Elias Lenning,Sander Johansen,Joacim Sørensen,"21/7,21/19",Børge Håland,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herredouble,Børge Håland,Elias Lenning,Svend Morten Reinertsen,Benjamin Rølvåg,"21/16,21/14",Børge Håland,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Herredouble,Sander Johansen,Joacim Sørensen,Vegard Mathiassen Larsen,Roger Skagen,"21/12,21/14",Sander Johansen,Joacim Sørensen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Mixeddouble,Line Klæbo,Sander Johansen,Cecilie Sørøy Hanssen,Håvard Bjertnes,"22/24,21/11,21/12",Line Klæbo,Sander Johansen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Mixeddouble,Sigbjørn Lund Wang,Line Larsen,Svend Morten Reinertsen,Elin Hansen,"21/17,22/20",Sigbjørn Lund Wang,Line Larsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Mixeddouble,Svend Morten Reinertsen,Elin Hansen,Line Klæbo,Sander Johansen,"21/11,21/15",Svend Morten Reinertsen,Elin Hansen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Mixeddouble,Sigbjørn Lund Wang,Line Larsen,Cecilie Sørøy Hanssen,Håvard Bjertnes,"21/13,21/11",Sigbjørn Lund Wang,Line Larsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Mixeddouble,Sigbjørn Lund Wang,Line Larsen,Line Klæbo,Sander Johansen,"21/12,21/15",Sigbjørn Lund Wang,Line Larsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,SEN D,Mixeddouble,Svend Morten Reinertsen,Elin Hansen,Cecilie Sørøy Hanssen,Håvard Bjertnes,"21/13,21/4",Svend Morten Reinertsen,Elin Hansen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Marius Sandvær,,Alexander Hansen,"21/10,21/19",Marius Sandvær,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Jesper Norum,,Brage Moe Bjertnes,"21/16,18/21,21/12",Jesper Norum,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Marius Sandvær,,Steinar Furu Olsen,"21/8,21/11",Marius Sandvær,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Brage Moe Bjertnes,,Alexander Hansen,"17/21,21/11,21/12",Brage Moe Bjertnes,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Marius Sandvær,,Brage Moe Bjertnes,"21/6,21/6",Marius Sandvær,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Steinar Furu Olsen,,Jesper Norum,"25/23,23/21",Steinar Furu Olsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Jesper Norum,,Alexander Hansen,"21/16,17/21,21/18",Jesper Norum,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Brage Moe Bjertnes,,Steinar Furu Olsen,"21/15,21/19",Brage Moe Bjertnes,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Steinar Furu Olsen,,Alexander Hansen,"18/21,21/16,21/17",Steinar Furu Olsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herresingle,,Marius Sandvær,,Jesper Norum,"21/3,21/7",Marius Sandvær,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herredouble,Signe Lenning,Linnea Nordnes Prestø,Alexander Hansen,Jesper Norum,"21/13,21/16",Signe Lenning,Linnea Nordnes Prestø
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herredouble,Alexander Hansen,Jesper Norum,Marius Sandvær,Gustav Langsæter,"21/19,22/20",Alexander Hansen,Jesper Norum
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herredouble,Brage Moe Bjertnes,Steinar Furu Olsen,Signe Lenning,Linnea Nordnes Prestø,"21/10,21/10",Brage Moe Bjertnes,Steinar Furu Olsen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herredouble,Marius Sandvær,Gustav Langsæter,Brage Moe Bjertnes,Steinar Furu Olsen,"21/12,21/13",Marius Sandvær,Gustav Langsæter
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herredouble,Alexander Hansen,Jesper Norum,Brage Moe Bjertnes,Steinar Furu Olsen,"21/19,22/20",Alexander Hansen,Jesper Norum
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 A,Herredouble,Marius Sandvær,Gustav Langsæter,Signe Lenning,Linnea Nordnes Prestø,"21/15,21/18",Marius Sandvær,Gustav Langsæter
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Gustav Langsæter,,Dennis Østensson,"21/16,21/15",Gustav Langsæter,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Storm Andreas Jahr-Nilsen,,Andre Olsen- Dahlen,"12/21,22/20,23/21",Storm Andreas Jahr-Nilsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Andre Olsen- Dahlen,,Gustav Langsæter,"19/21,21/14,21/19",Andre Olsen- Dahlen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Storm Andreas Jahr-Nilsen,,Steffen Andreassen,"21/17,21/11",Storm Andreas Jahr-Nilsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Andre Olsen- Dahlen,,Dennis Østensson,"21/13,21/19",Andre Olsen- Dahlen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Gustav Langsæter,,Steffen Andreassen,"21/6,21/7",Gustav Langsæter,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Dennis Østensson,,Steffen Andreassen,"21/18,21/15",Dennis Østensson,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Gustav Langsæter,,Storm Andreas Jahr-Nilsen,"21/10,21/13",Gustav Langsæter,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Storm Andreas Jahr-Nilsen,,Dennis Østensson,"14/21,21/18,21/14",Storm Andreas Jahr-Nilsen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Herresingle,,Andre Olsen- Dahlen,,Steffen Andreassen,"21/14,21/12",Andre Olsen- Dahlen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Damesingle,,Amalie Hjørdis Johansen,,Frida Olsen Roan,"21/18,21/13",Amalie Hjørdis Johansen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Damesingle,,Eline Nikolaisen Engevik,,Nathalie Pettersen Kleiven,"21/12,21/12",Eline Nikolaisen Engevik,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Damesingle,,Amalie Hjørdis Johansen,,Nathalie Pettersen Kleiven,"21/14,21/23,21/19",Amalie Hjørdis Johansen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Damesingle,,Eline Nikolaisen Engevik,,Frida Olsen Roan,"24/22,21/19",Eline Nikolaisen Engevik,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Damesingle,,Eline Nikolaisen Engevik,,Amalie Hjørdis Johansen,"21/16,21/15",Eline Nikolaisen Engevik,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U9 B,Damesingle,,Frida Olsen Roan,,Nathalie Pettersen Kleiven,"21/15,21/13",Frida Olsen Roan,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,Damesingle,,Anette Jakobsen Mathisen,,Linnea Nordnes Prestø,"21/15,21/12",Anette Jakobsen Mathisen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,Damesingle,,Signe Lenning,,Laura Taidla,"21/18,15/21,21/16",Signe Lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,Damesingle,,Laura Taidla,,Linnea Nordnes Prestø,"21/14,21/7",Laura Taidla,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,Damesingle,,Signe Lenning,,Anette Jakobsen Mathisen,"21/18,21/14",Signe Lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,Damesingle,,Signe Lenning,,Linnea Nordnes Prestø,"21/18,21/18",Signe Lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 A,Damesingle,,Laura Taidla,,Anette Jakobsen Mathisen,"21/6,21/8",Laura Taidla,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,Herresingle,,Benjamin Wang,,Filip Andre Brasøygård Johansen,"21/18,21/18",Benjamin Wang,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,Herresingle,,Benjamin Wang,,Even Johan  Engevik,"21/11,21/7",Benjamin Wang,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U11 B,Herresingle,,Filip Andre Brasøygård Johansen,,Even Johan  Engevik,"21/13,22/20",Filip Andre Brasøygård Johansen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herresingle,,Gaute Bringsli,,Alexandar Stojanovic,"21/18,15/21,21/15",Gaute Bringsli,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Gaute Bringsli,"21/14,21/16",Sander Bjertnes Hansen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Alexandar Stojanovic,"21/15,21/13",Sander Bjertnes Hansen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herredouble,Even Johan  Engevik,Benjamin Wang,Laura Taidla,Anette Jakobsen Mathisen,"21/16,21/10",Even Johan  Engevik,Benjamin Wang
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herredouble,Sander Bjertnes Hansen,Gaute Bringsli,Alexandar Stojanovic,Filip Andre Brasøygård Johansen,"21/11,21/12",Sander Bjertnes Hansen,Gaute Bringsli
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herredouble,Alexandar Stojanovic,Filip Andre Brasøygård Johansen,Laura Taidla,Anette Jakobsen Mathisen,"21/12,21/13",Alexandar Stojanovic,Filip Andre Brasøygård Johansen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herredouble,Sander Bjertnes Hansen,Gaute Bringsli,Even Johan  Engevik,Benjamin Wang,"21/9,21/11",Sander Bjertnes Hansen,Gaute Bringsli
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herredouble,Sander Bjertnes Hansen,Gaute Bringsli,Laura Taidla,Anette Jakobsen Mathisen,"21/2,21/8",Sander Bjertnes Hansen,Gaute Bringsli
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Herredouble,Alexandar Stojanovic,Filip Andre Brasøygård Johansen,Even Johan  Engevik,Benjamin Wang,"21/14,21/10",Alexandar Stojanovic,Filip Andre Brasøygård Johansen
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Mixeddouble,Laura Taidla,Gaute Bringsli,Alexandar Stojanovic,Linnea Nordnes Prestø,"23/21,21/14",Laura Taidla,Gaute Bringsli
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Mixeddouble,Sander Bjertnes Hansen,Signe Lenning,Anette Jakobsen Mathisen,Filip Andre Brasøygård Johansen,"21/5,21/8",Sander Bjertnes Hansen,Signe Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Mixeddouble,Alexandar Stojanovic,Linnea Nordnes Prestø,Anette Jakobsen Mathisen,Filip Andre Brasøygård Johansen,"21/11,21/13",Alexandar Stojanovic,Linnea Nordnes Prestø
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Mixeddouble,Sander Bjertnes Hansen,Signe Lenning,Laura Taidla,Gaute Bringsli,"21/13,21/16",Sander Bjertnes Hansen,Signe Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Mixeddouble,Sander Bjertnes Hansen,Signe Lenning,Alexandar Stojanovic,Linnea Nordnes Prestø,"21/18,21/18",Sander Bjertnes Hansen,Signe Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U13 A,Mixeddouble,Laura Taidla,Gaute Bringsli,Anette Jakobsen Mathisen,Filip Andre Brasøygård Johansen,"21/9,21/17",Laura Taidla,Gaute Bringsli
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Jonas J Grande,,Elias Lenning,"21/17,7/21,21/18",Jonas J Grande,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Børge Håland,,Roger Skagen,"21/9,21/13",Børge Håland,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Jonas J Grande,,Roger Skagen,"21/5,21/6",Jonas J Grande,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Jonas J Grande,,Børge Håland,"21/17,15/21,21/13",Jonas J Grande,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Elias Lenning,,Benjamin Rølvåg,"21/9,21/17",Elias Lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Elias Lenning,,Vegard Mathiassen Larsen,"21/7,21/8",Elias Lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U15 A,Herresingle,,Benjamin Rølvåg,,Vegard Mathiassen Larsen,"21/4,21/4",Benjamin Rølvåg,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Live Hov Grønbech,,Anne Berit Iversen,"21/14,21/8",Live Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Live Hov Grønbech,,Ingvild Håland,"21/7,21/10",Live Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Anne Berit Iversen,,kristiane lenning,"21/12,21/18",Anne Berit Iversen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Louise Prestø,,Sophie Larsen,"21/10,21/14",Louise Prestø,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Ingvild Håland,,Sophie Larsen,"21/19,21/7",Ingvild Håland,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Ingvild Håland,,Louise Prestø,"18/21,21/16,21/17",Ingvild Håland,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Live Hov Grønbech,,Anja Stojanovic,"21/2,21/5",Live Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Live Hov Grønbech,,Ina Finanger Skog,"21/16,21/6",Live Hov Grønbech,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Ina Finanger Skog,,Anja Stojanovic,"21/10,21/1",Ina Finanger Skog,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,kristiane lenning,,Solveig Heggheim,"21/6,21/8",kristiane lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Solveig Heggheim,,Benedicte Pinto,"21/13,21/11",Solveig Heggheim,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,kristiane lenning,,Benedicte Pinto,"21/5,21/1",kristiane lenning,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Frida Prestø,,Rebekka Finanger Skog,"21/8,21/15",Frida Prestø,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Anne Berit Iversen,,Frida Prestø,"21/12,21/13",Anne Berit Iversen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Damesingle,,Anne Berit Iversen,,Rebekka Finanger Skog,"21/9,21/7",Anne Berit Iversen,
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Solveig Heggheim,Jonas J Grande,Ina Finanger Skog,Benjamin Rølvåg,"21/14,21/19",Solveig Heggheim,Jonas J Grande
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Frida Prestø,Børge Håland,Marcus Hanssen,Anja Stojanovic,"21/14,21/17",Frida Prestø,Børge Håland
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Live Hov Grønbech,Elias Lenning,Solveig Heggheim,Jonas J Grande,"21/15,21/18",Live Hov Grønbech,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Frida Prestø,Børge Håland,Ina Finanger Skog,Benjamin Rølvåg,"21/13,20/22,21/17",Frida Prestø,Børge Håland
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Live Hov Grønbech,Elias Lenning,Frida Prestø,Børge Håland,"21/4,21/12",Live Hov Grønbech,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Ina Finanger Skog,Benjamin Rølvåg,Marcus Hanssen,Anja Stojanovic,"21/7,21/18",Ina Finanger Skog,Benjamin Rølvåg
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Live Hov Grønbech,Elias Lenning,Marcus Hanssen,Anja Stojanovic,"21/11,21/17",Live Hov Grønbech,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Frida Prestø,Børge Håland,Solveig Heggheim,Jonas J Grande,"26/24,21/15",Frida Prestø,Børge Håland
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Live Hov Grønbech,Elias Lenning,Ina Finanger Skog,Benjamin Rølvåg,"21/9,21/15",Live Hov Grønbech,Elias Lenning
+2015/2016,Herøy Marine Harvest Cup,30.10.2015,U17 A,Mixeddouble,Solveig Heggheim,Jonas J Grande,Marcus Hanssen,Anja Stojanovic,"21/9,21/14",Solveig Heggheim,Jonas J Grande

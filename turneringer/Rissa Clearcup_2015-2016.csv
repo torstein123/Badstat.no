@@ -1,382 +1,333 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Karoline Lerengen,"17/21,21/13,21/15",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Andrea Løvold,,Karoline Lerengen,"22/20,21/16",Andrea Løvold,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Andrea Løvold,"21/16,21/16",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Helle Sofie Sagøy,"21/6,21/12",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Karoline Lerengen,,Sunniva Sørensen,"21/17,21/14",Karoline Lerengen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Andrea Løvold,"16/21,21/14,21/13",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Karoline Lerengen,"21/17,21/13",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Sunniva Sørensen,"21/7,21/10",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Sunniva Sørensen,"21/8,21/10",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Sunniva Sørensen,,Andrea Løvold,"21/18,23/21",Sunniva Sørensen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Robin Kruksve Krux,Fredrik Lian,Ørjan Emil Strand,Lars Valentin,"21/18,21/18",Robin Kruksve Krux,Fredrik Lian
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Robin Kruksve Krux,Fredrik Lian,"25/23,21/17",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Ørjan Emil Strand,Lars Valentin,"19/21,21/9,21/14",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Karoline Lerengen,Sunniva Sørensen,"21/7,23/25,21/13",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Karoline Lerengen,Sunniva Sørensen,"21/15,21/14",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Anita Olsen,Hilde Vatterholm,"21/18,21/17",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Anita Olsen,Hilde Vatterholm,"21/9,21/16",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Anita Olsen,Hilde Vatterholm,Karoline Lerengen,Sunniva Sørensen,"21/23,21/19,21/19",Anita Olsen,Hilde Vatterholm
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Helle Sofie Sagøy,Andrea Løvold,"21/12,21/15",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Oddbjørn Svinsås,,Ivan Hegseth,"21/8,21/13",Oddbjørn Svinsås,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Torleiv Hov Grønbech,,Ivan Hegseth,"21/16,21/18",Torleiv Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Torleiv Hov Grønbech,,Oddbjørn Svinsås,"21/17,21/13",Torleiv Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Torleiv Hov Grønbech,,Sondre Løvold,"21/23,21/17,21/11",Torleiv Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Oddbjørn Svinsås,,Sondre Løvold,"21/14,21/14",Oddbjørn Svinsås,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Sondre Løvold,,Ivan Hegseth,"21/12,21/18",Sondre Løvold,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Oddbjørn Svinsås,,Ivan Hegseth,"21/8,21/13",Oddbjørn Svinsås,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Torleiv Hov Grønbech,,Ivan Hegseth,"21/16,21/18",Torleiv Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Torleiv Hov Grønbech,,Oddbjørn Svinsås,"21/17,21/13",Torleiv Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Torleiv Hov Grønbech,,Sondre Løvold,"21/23,21/17,21/11",Torleiv Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Oddbjørn Svinsås,,Sondre Løvold,"21/14,21/14",Oddbjørn Svinsås,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,,Sondre Løvold,,Ivan Hegseth,"21/12,21/18",Sondre Løvold,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Steinar Fornes,Lars Erik Karlsen,Torleiv Hov Grønbech,Markus Heggheim,"21/14,16/21,21/18",Steinar Fornes,Lars Erik Karlsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Steinar Fornes,Lars Erik Karlsen,Oddbjørn Svinsås,Fredrik Skånøy,"21/15,24/22",Steinar Fornes,Lars Erik Karlsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Steinar Fornes,Lars Erik Karlsen,Emil Pettersen,Torgeir Lenning,"21/19,21/12",Steinar Fornes,Lars Erik Karlsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Torleiv Hov Grønbech,Markus Heggheim,Even Langås Kvam,Ivan Hegseth,"21/11,21/11",Torleiv Hov Grønbech,Markus Heggheim
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Erlend Kruksve,Sander Espeseth,Even Langås Kvam,Ivan Hegseth,"21/18,21/13",Erlend Kruksve,Sander Espeseth
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Erlend Kruksve,Sander Espeseth,Aleksander Berg,Kristoffer Brandsås Berg,"21/14,21/19",Erlend Kruksve,Sander Espeseth
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Aleksander Berg,Kristoffer Brandsås Berg,Even Langås Kvam,Ivan Hegseth,"21/15,14/21,21/18",Aleksander Berg,Kristoffer Brandsås Berg
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Torleiv Hov Grønbech,Markus Heggheim,Aleksander Berg,Kristoffer Brandsås Berg,"21/18,21/17",Torleiv Hov Grønbech,Markus Heggheim
-2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Torleiv Hov Grønbech,Markus Heggheim,Erlend Kruksve,Sander Espeseth,"20/22,21/9,21/18",Torleiv Hov Grønbech,Markus Heggheim
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Steinar Fornes,"19/21,21/12,21/14",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Robin Kruksve Krux,"21/19,21/15",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Steinar Fornes,,Svend Helge Hegseth,"21/12,21/13",Steinar Fornes,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Svend Helge Hegseth,,Aleksander Berg,"21/12,21/17",Svend Helge Hegseth,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Robin Kruksve Krux,,Adrian Olsen-Loe Pedersen,"21/10,21/14",Robin Kruksve Krux,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Magnus Eidissen,,Adrian Olsen-Loe Pedersen,"18/21,21/18,21/16",Magnus Eidissen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Robin Kruksve Krux,,Magnus Eidissen,"21/16,21/13",Robin Kruksve Krux,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Kristoffer Brandsås Berg,,Terje Knutseth,"21/17,21/11",Kristoffer Brandsås Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Terje Knutseth,"21/9,21/13",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Kristoffer Brandsås Berg,"24/26,21/10,21/7",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Svend Helge Hegseth,,Marius Olsen,"21/13,21/14",Svend Helge Hegseth,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Aleksander Berg,,Tor Atle Kleven,"21/15,21/15",Aleksander Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Aleksander Berg,,Sander Espeseth,"21/17,21/8",Aleksander Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Sander Espeseth,,Tor Atle Kleven,"21/8,21/10",Sander Espeseth,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Steinar Fornes,,Simen Johansen,"21/7,21/7",Steinar Fornes,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Steinar Fornes,,Jørgen Olsen,"21/18,21/12",Steinar Fornes,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Jørgen Olsen,,Simen Johansen,"23/21,24/22",Jørgen Olsen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Steinar Fornes,"19/21,21/12,21/14",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Robin Kruksve Krux,"21/19,21/15",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Steinar Fornes,,Svend Helge Hegseth,"21/12,21/13",Steinar Fornes,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Svend Helge Hegseth,,Aleksander Berg,"21/12,21/17",Svend Helge Hegseth,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Robin Kruksve Krux,,Adrian Olsen-Loe Pedersen,"21/10,21/14",Robin Kruksve Krux,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Magnus Eidissen,,Adrian Olsen-Loe Pedersen,"18/21,21/18,21/16",Magnus Eidissen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Robin Kruksve Krux,,Magnus Eidissen,"21/16,21/13",Robin Kruksve Krux,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Kristoffer Brandsås Berg,,Terje Knutseth,"21/17,21/11",Kristoffer Brandsås Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Terje Knutseth,"21/9,21/13",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Markus Heggheim,,Kristoffer Brandsås Berg,"24/26,21/10,21/7",Markus Heggheim,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Svend Helge Hegseth,,Marius Olsen,"21/13,21/14",Svend Helge Hegseth,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Aleksander Berg,,Tor Atle Kleven,"21/15,21/15",Aleksander Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Aleksander Berg,,Sander Espeseth,"21/17,21/8",Aleksander Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Sander Espeseth,,Tor Atle Kleven,"21/8,21/10",Sander Espeseth,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Steinar Fornes,,Simen Johansen,"21/7,21/7",Steinar Fornes,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Steinar Fornes,,Jørgen Olsen,"21/18,21/12",Steinar Fornes,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Jørgen Olsen,,Simen Johansen,"23/21,24/22",Jørgen Olsen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Julie Kristin Vatterholm,,Karoline Hegseth Nordland,"21/14,21/12",Julie Kristin Vatterholm,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Camilla Stokkaune,,Julie Kristin Vatterholm,"21/13,21/13",Camilla Stokkaune,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,,Camilla Stokkaune,,Karoline Hegseth Nordland,"21/8,21/7",Camilla Stokkaune,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Anders Grande,Svend Helge Hegseth,Shayan Jalilian,Isak L. Hasselvold,"21/8,21/16",Anders Grande,Svend Helge Hegseth
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Anders Grande,Svend Helge Hegseth,Jonas J Grande,Sondre Løvold,"21/18,21/19",Anders Grande,Svend Helge Hegseth
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan,Magnus Eidissen,Simen Johansen,"23/21,21/19",Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Jonas J Grande,Sondre Løvold,Magnus Eidissen,Simen Johansen,"21/18,21/14",Jonas J Grande,Sondre Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Jonas J Grande,Sondre Løvold,Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan,"19/21,21/17,21/16",Jonas J Grande,Sondre Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Anders Grande,Svend Helge Hegseth,Magnus Eidissen,Simen Johansen,"20/22,21/12,21/14",Anders Grande,Svend Helge Hegseth
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Anders Grande,Svend Helge Hegseth,Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan,"21/9,21/11",Anders Grande,Svend Helge Hegseth
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Jørgen Olsen,Marius Olsen,Erik Winger,Jan Aage Nyborg,"21/17,21/16",Jørgen Olsen,Marius Olsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Shayan Jalilian,Isak L. Hasselvold,Terje Knutseth,Tor Atle Kleven,"21/16,21/19",Shayan Jalilian,Isak L. Hasselvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Terje Knutseth,Tor Atle Kleven,Jørgen Olsen,Marius Olsen,"21/15,21/17",Terje Knutseth,Tor Atle Kleven
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Terje Knutseth,Tor Atle Kleven,Erik Winger,Jan Aage Nyborg,"21/16,21/15",Terje Knutseth,Tor Atle Kleven
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Shayan Jalilian,Isak L. Hasselvold,Jørgen Olsen,Marius Olsen,"21/11,15/21,21/14",Shayan Jalilian,Isak L. Hasselvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Shayan Jalilian,Isak L. Hasselvold,Erik Winger,Jan Aage Nyborg,"21/15,21/11",Shayan Jalilian,Isak L. Hasselvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Jenny Aalberg,Karoline Hegseth Nordland,"21/18,21/9",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Elin Hansen,Barbro Johnsen,Jenny Aalberg,Karoline Hegseth Nordland,"21/15,21/13",Elin Hansen,Barbro Johnsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Elin Hansen,Barbro Johnsen,Marte Loeng,Lena Falch,"14/21,21/18,21/19",Elin Hansen,Barbro Johnsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Elin Hansen,Barbro Johnsen,Hilde Kristine Aurstad Rennan,Lena Grande,"21/10,21/11",Elin Hansen,Barbro Johnsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Elin Hansen,Barbro Johnsen,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/18,23/21",Elin Hansen,Barbro Johnsen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Marte Loeng,Lena Falch,"21/8,21/17",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Jenny Aalberg,Karoline Hegseth Nordland,Hilde Kristine Aurstad Rennan,Lena Grande,"21/17,21/16",Jenny Aalberg,Karoline Hegseth Nordland
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Marte Loeng,Lena Falch,Hilde Kristine Aurstad Rennan,Lena Grande,"21/7,21/11",Marte Loeng,Lena Falch
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Hilde Kristine Aurstad Rennan,Lena Grande,"21/12,21/6",Julie Kristin Vatterholm,Nordis Østerås Sandberg
-2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Marte Loeng,Lena Falch,Jenny Aalberg,Karoline Hegseth Nordland,"21/9,21/15",Marte Loeng,Lena Falch
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erik S. Hulsund,,Sander Bredesen,"21/10,21/12",Erik S. Hulsund,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erlend Sandøy,,Erik S. Hulsund,"21/13,19/21,21/18",Erlend Sandøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erlend Sandøy,,Sander Bredesen,"21/11,21/8",Erlend Sandøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erlend Sandøy,,Jomar Hermstad,"21/17,18/21,21/18",Erlend Sandøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Jomar Hermstad,,Erik S. Hulsund,"21/14,21/19",Jomar Hermstad,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Jomar Hermstad,,Sander Bredesen,"21/14,21/15",Jomar Hermstad,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erik S. Hulsund,,Sander Bredesen,"21/10,21/12",Erik S. Hulsund,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erlend Sandøy,,Erik S. Hulsund,"21/13,19/21,21/18",Erlend Sandøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erlend Sandøy,,Sander Bredesen,"21/11,21/8",Erlend Sandøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Erlend Sandøy,,Jomar Hermstad,"21/17,18/21,21/18",Erlend Sandøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Jomar Hermstad,,Erik S. Hulsund,"21/14,21/19",Jomar Hermstad,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Jomar Hermstad,,Sander Bredesen,"21/14,21/15",Jomar Hermstad,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Elin Hansen,,Gunn Anita Husby Hegseth,"21/6,21/10",Elin Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Lena Falch,,Marte Loeng,"21/15,18/21,24/22",Lena Falch,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Elin Hansen,,Nina Stenkjær,"16/21,21/14,21/19",Elin Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Lena Falch,,Gunn Anita Husby Hegseth,"21/6,21/6",Lena Falch,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Nina Stenkjær,,Marte Loeng,"19/21,21/9,21/9",Nina Stenkjær,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Lena Falch,,Nina Stenkjær,"21/16,21/13",Lena Falch,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Elin Hansen,,Lena Falch,"21/13,22/20",Elin Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Marte Loeng,,Gunn Anita Husby Hegseth,"21/17,21/7",Marte Loeng,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Elin Hansen,,Marte Loeng,"21/14,21/18",Elin Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,,Nina Stenkjær,,Gunn Anita Husby Hegseth,"21/10,21/5",Nina Stenkjær,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Sigurd Lorvik,Mikael Grande,Tor Morten Aalberg,Kjell Kvarmesbakk,"11/21,21/17,21/17",Sigurd Lorvik,Mikael Grande
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Sigurd Lorvik,Mikael Grande,Sander Bredesen,Erlend Sandøy,"21/17,19/21,21/14",Sigurd Lorvik,Mikael Grande
-2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Sander Bredesen,Erlend Sandøy,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/18,21/17",Sander Bredesen,Erlend Sandøy
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Karoline Lerengen,"17/21,21/13,21/15",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Andrea Løvold,,Karoline Lerengen,"22/20,21/16",Andrea Løvold,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Andrea Løvold,"21/16,21/16",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Helle Sofie Sagøy,"21/6,21/12",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Karoline Lerengen,,Sunniva Sørensen,"21/17,21/14",Karoline Lerengen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Andrea Løvold,"16/21,21/14,21/13",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Karoline Lerengen,"21/17,21/13",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Sunniva Sørensen,"21/7,21/10",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Sunniva Sørensen,"21/8,21/10",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Sunniva Sørensen,,Andrea Løvold,"21/18,23/21",Sunniva Sørensen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Robin Kruksve Krux,Fredrik Lian,Ørjan Emil Strand,Lars Valentin,"21/18,21/18",Robin Kruksve Krux,Fredrik Lian
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Robin Kruksve Krux,Fredrik Lian,"25/23,21/17",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Ørjan Emil Strand,Lars Valentin,"19/21,21/9,21/14",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Karoline Lerengen,Sunniva Sørensen,"21/7,23/25,21/13",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Karoline Lerengen,Sunniva Sørensen,"21/15,21/14",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Anita Olsen,Hilde Vatterholm,"21/18,21/17",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Anita Olsen,Hilde Vatterholm,"21/9,21/16",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Anita Olsen,Hilde Vatterholm,Karoline Lerengen,Sunniva Sørensen,"21/23,21/19,21/19",Anita Olsen,Hilde Vatterholm
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Helle Sofie Sagøy,Andrea Løvold,"21/12,21/15",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Karoline Lerengen,"17/21,21/13,21/15",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Andrea Løvold,,Karoline Lerengen,"22/20,21/16",Andrea Løvold,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Andrea Løvold,"21/16,21/16",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Helle Sofie Sagøy,"21/6,21/12",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Karoline Lerengen,,Sunniva Sørensen,"21/17,21/14",Karoline Lerengen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Andrea Løvold,"16/21,21/14,21/13",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Karoline Lerengen,"21/17,21/13",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Sunniva Sørensen,"21/7,21/10",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Sunniva Sørensen,"21/8,21/10",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Sunniva Sørensen,,Andrea Løvold,"21/18,23/21",Sunniva Sørensen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Robin Kruksve Krux,Fredrik Lian,Ørjan Emil Strand,Lars Valentin,"21/18,21/18",Robin Kruksve Krux,Fredrik Lian
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Robin Kruksve Krux,Fredrik Lian,"25/23,21/17",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Ørjan Emil Strand,Lars Valentin,"19/21,21/9,21/14",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Karoline Lerengen,Sunniva Sørensen,"21/7,23/25,21/13",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Karoline Lerengen,Sunniva Sørensen,"21/15,21/14",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Anita Olsen,Hilde Vatterholm,"21/18,21/17",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Anita Olsen,Hilde Vatterholm,"21/9,21/16",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Anita Olsen,Hilde Vatterholm,Karoline Lerengen,Sunniva Sørensen,"21/23,21/19,21/19",Anita Olsen,Hilde Vatterholm
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Helle Sofie Sagøy,Andrea Løvold,"21/12,21/15",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Martin Stenkjær,,Tarjei Strand,"21/18,21/16",Martin Stenkjær,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Knut Hermann Stenvaag,,Martin Stenkjær,"21/13,21/11",Knut Hermann Stenvaag,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,William Valentin,,Tarjei Strand,"22/20,21/7",William Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Knut Hermann Stenvaag,,Tarjei Strand,"21/13,21/7",Knut Hermann Stenvaag,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,William Valentin,,Martin Stenkjær,"22/20,20/22,21/18",William Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Knut Hermann Stenvaag,,William Valentin,"21/9,21/6",Knut Hermann Stenvaag,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Martin Stenkjær,,Tarjei Strand,"21/18,21/16",Martin Stenkjær,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Knut Hermann Stenvaag,,Martin Stenkjær,"21/13,21/11",Knut Hermann Stenvaag,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,William Valentin,,Tarjei Strand,"22/20,21/7",William Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Knut Hermann Stenvaag,,Tarjei Strand,"21/13,21/7",Knut Hermann Stenvaag,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,William Valentin,,Martin Stenkjær,"22/20,20/22,21/18",William Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 A,,Knut Hermann Stenvaag,,William Valentin,"21/9,21/6",Knut Hermann Stenvaag,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Trine Søraas Johannessen,,Petter Fallrø,"21/8,21/18",Trine Søraas Johannessen,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Gina Karlsbakk Småge,,Hedda Henriksen,"24/22,21/12",Gina Karlsbakk Småge,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Petter Fallrø,,Gina Karlsbakk Småge,"21/14,21/10",Petter Fallrø,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Petter Fallrø,,Hedda Henriksen,"21/10,21/9",Petter Fallrø,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Kamilla Bakke Foss,,Ragnhild Stenvaag,"21/6,21/9",Kamilla Bakke Foss,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Trine Søraas Johannessen,,Ragnhild Stenvaag,"21/8,21/10",Trine Søraas Johannessen,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Trine Søraas Johannessen,,Kamilla Bakke Foss,"21/18,21/14",Trine Søraas Johannessen,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Trine Søraas Johannessen,,Petter Fallrø,"21/8,21/18",Trine Søraas Johannessen,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Gina Karlsbakk Småge,,Hedda Henriksen,"24/22,21/12",Gina Karlsbakk Småge,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Petter Fallrø,,Gina Karlsbakk Småge,"21/14,21/10",Petter Fallrø,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Petter Fallrø,,Hedda Henriksen,"21/10,21/9",Petter Fallrø,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Kamilla Bakke Foss,,Ragnhild Stenvaag,"21/6,21/9",Kamilla Bakke Foss,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Trine Søraas Johannessen,,Ragnhild Stenvaag,"21/8,21/10",Trine Søraas Johannessen,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,,Trine Søraas Johannessen,,Kamilla Bakke Foss,"21/18,21/14",Trine Søraas Johannessen,
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Kamilla Bakke Foss,Hedda Henriksen,Gustav Langsæter,Petter Fallrø,"18/21,23/21,21/11",Kamilla Bakke Foss,Hedda Henriksen
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Kamilla Bakke Foss,Hedda Henriksen,Gina Karlsbakk Småge,Ragnhild Stenvaag,"21/14,18/21,21/10",Kamilla Bakke Foss,Hedda Henriksen
-2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Gustav Langsæter,Petter Fallrø,Gina Karlsbakk Småge,Ragnhild Stenvaag,"21/12,21/15",Gustav Langsæter,Petter Fallrø
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Børge Håland,,Sander Bjertnes Hansen,"21/13,21/19",Børge Håland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Børge Håland,,Sander Hegseth,"21/11,21/10",Børge Håland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Hegseth,,Gard Vik Langhammer,"15/21,21/15,21/18",Sander Hegseth,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Børge Håland,,Gard Vik Langhammer,"21/3,21/7",Børge Håland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Bjertnes Hansen,,Jens Karlsbakk Småge,"21/7,21/5",Sander Bjertnes Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Kasper Hegseth Nordland,,Robin Heimdal,"21/10,22/20",Kasper Hegseth Nordland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Bjertnes Hansen,,Robin Heimdal,"21/13,13/21,21/14",Sander Bjertnes Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Kasper Hegseth Nordland,,Jens Karlsbakk Småge,"21/4,21/6",Kasper Hegseth Nordland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Robin Heimdal,,Jens Karlsbakk Småge,"21/11,21/8",Robin Heimdal,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Bjertnes Hansen,,Kasper Hegseth Nordland,"21/18,14/21,23/21",Sander Bjertnes Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Børge Håland,,Sander Bjertnes Hansen,"21/13,21/19",Børge Håland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Børge Håland,,Sander Hegseth,"21/11,21/10",Børge Håland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Hegseth,,Gard Vik Langhammer,"15/21,21/15,21/18",Sander Hegseth,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Børge Håland,,Gard Vik Langhammer,"21/3,21/7",Børge Håland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Bjertnes Hansen,,Jens Karlsbakk Småge,"21/7,21/5",Sander Bjertnes Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Kasper Hegseth Nordland,,Robin Heimdal,"21/10,22/20",Kasper Hegseth Nordland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Bjertnes Hansen,,Robin Heimdal,"21/13,13/21,21/14",Sander Bjertnes Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Kasper Hegseth Nordland,,Jens Karlsbakk Småge,"21/4,21/6",Kasper Hegseth Nordland,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Robin Heimdal,,Jens Karlsbakk Småge,"21/11,21/8",Robin Heimdal,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Sander Bjertnes Hansen,,Kasper Hegseth Nordland,"21/18,14/21,23/21",Sander Bjertnes Hansen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Silje B. Karlsen,,Stine Marie Jakobsen,"21/19,21/14",Silje B. Karlsen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Vivild Våbenø Berg,,Elin S. Hulsund,"21/17,21/10",Vivild Våbenø Berg,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Stine Marie Jakobsen,,Elin S. Hulsund,"21/12,21/13",Stine Marie Jakobsen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Stine Marie Jakobsen,,Vivild Våbenø Berg,"21/19,21/5",Stine Marie Jakobsen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Marion Loeng Ryan,,Lena Knutseth,"21/10,21/11",Marion Loeng Ryan,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Silje B. Karlsen,,Lena Knutseth,"21/2,21/4",Silje B. Karlsen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,,Silje B. Karlsen,,Marion Loeng Ryan,"21/12,21/14",Silje B. Karlsen,
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Martin Stenkjær,Knut Hermann Stenvaag,Tarjei Strand,William Valentin,"21/12,21/13",Martin Stenkjær,Knut Hermann Stenvaag
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Julian Hanssen,Sander Bjertnes Hansen,Tarjei Strand,William Valentin,"21/8,21/16",Julian Hanssen,Sander Bjertnes Hansen
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Sander Hegseth,Kasper Hegseth Nordland,Martin Stenkjær,Knut Hermann Stenvaag,"21/6,21/15",Sander Hegseth,Kasper Hegseth Nordland
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Jens Karlsbakk Småge,Gard Vik Langhammer,Tarjei Strand,William Valentin,"21/8,21/18",Jens Karlsbakk Småge,Gard Vik Langhammer
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Martin Stenkjær,Knut Hermann Stenvaag,Jens Karlsbakk Småge,Gard Vik Langhammer,"21/16,21/16",Martin Stenkjær,Knut Hermann Stenvaag
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Sander Hegseth,Kasper Hegseth Nordland,Tarjei Strand,William Valentin,"21/6,21/10",Sander Hegseth,Kasper Hegseth Nordland
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Julian Hanssen,Sander Bjertnes Hansen,Martin Stenkjær,Knut Hermann Stenvaag,"21/18,21/16",Julian Hanssen,Sander Bjertnes Hansen
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Sander Hegseth,Kasper Hegseth Nordland,Julian Hanssen,Sander Bjertnes Hansen,"21/14,21/11",Sander Hegseth,Kasper Hegseth Nordland
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Sander Hegseth,Kasper Hegseth Nordland,Jens Karlsbakk Småge,Gard Vik Langhammer,"22/20,21/10",Sander Hegseth,Kasper Hegseth Nordland
-2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Julian Hanssen,Sander Bjertnes Hansen,Jens Karlsbakk Småge,Gard Vik Langhammer,"21/19,21/18",Julian Hanssen,Sander Bjertnes Hansen
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Karoline Lerengen,"17/21,21/13,21/15",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Andrea Løvold,,Karoline Lerengen,"22/20,21/16",Andrea Løvold,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Andrea Løvold,"21/16,21/16",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Helle Sofie Sagøy,"21/6,21/12",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Karoline Lerengen,,Sunniva Sørensen,"21/17,21/14",Karoline Lerengen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Andrea Løvold,"16/21,21/14,21/13",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Karoline Lerengen,"21/17,21/13",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Helle Sofie Sagøy,,Sunniva Sørensen,"21/7,21/10",Helle Sofie Sagøy,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Gunn Fiskergaard,,Sunniva Sørensen,"21/8,21/10",Gunn Fiskergaard,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,,Sunniva Sørensen,,Andrea Løvold,"21/18,23/21",Sunniva Sørensen,
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Robin Kruksve Krux,Fredrik Lian,Ørjan Emil Strand,Lars Valentin,"21/18,21/18",Robin Kruksve Krux,Fredrik Lian
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Robin Kruksve Krux,Fredrik Lian,"25/23,21/17",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Roar Natvig,Trond Mære,Ørjan Emil Strand,Lars Valentin,"19/21,21/9,21/14",Roar Natvig,Trond Mære
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Karoline Lerengen,Sunniva Sørensen,"21/7,23/25,21/13",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Karoline Lerengen,Sunniva Sørensen,"21/15,21/14",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Helle Sofie Sagøy,Andrea Løvold,Anita Olsen,Hilde Vatterholm,"21/18,21/17",Helle Sofie Sagøy,Andrea Løvold
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Anita Olsen,Hilde Vatterholm,"21/9,21/16",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Anita Olsen,Hilde Vatterholm,Karoline Lerengen,Sunniva Sørensen,"21/23,21/19,21/19",Anita Olsen,Hilde Vatterholm
-2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Ingalill Mikalsen,Gunn Fiskergaard,Helle Sofie Sagøy,Andrea Løvold,"21/12,21/15",Ingalill Mikalsen,Gunn Fiskergaard
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Jonas J Grande,"21/17,21/16",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Shayan Jalilian,"21/17,21/18",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Jonas J Grande,,Mathias Loeng Ryan,"21/9,21/8",Jonas J Grande,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Joakim Aurstad Rennan,,Mathias Loeng Ryan,"21/8,21/12",Joakim Aurstad Rennan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Jonas J Grande,,Jon Francisco Sjong,"21/3,21/16",Jonas J Grande,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Mathias Loeng Ryan,,Jon Francisco Sjong,"21/13,21/18",Mathias Loeng Ryan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Jonas J Grande,,Joakim Aurstad Rennan,"21/17,23/21",Jonas J Grande,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Joakim Aurstad Rennan,,Jon Francisco Sjong,"21/19,21/15",Joakim Aurstad Rennan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Shayan Jalilian,,Øystein Heimdal,"21/11,21/16",Shayan Jalilian,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Øystein Heimdal,,Odin Mauset Skaugen,"21/16,25/23",Øystein Heimdal,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Shayan Jalilian,,Odin Mauset Skaugen,"21/9,21/6",Shayan Jalilian,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Elias Lenning,"21/15,21/17",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Runar Bakke  Foss,"21/15,22/20",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Elias Lenning,,Runar Bakke  Foss,"21/19,13/21,21/15",Elias Lenning,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Jonas J Grande,"21/17,21/16",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Shayan Jalilian,"21/17,21/18",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Jonas J Grande,,Mathias Loeng Ryan,"21/9,21/8",Jonas J Grande,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Joakim Aurstad Rennan,,Mathias Loeng Ryan,"21/8,21/12",Joakim Aurstad Rennan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Jonas J Grande,,Jon Francisco Sjong,"21/3,21/16",Jonas J Grande,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Mathias Loeng Ryan,,Jon Francisco Sjong,"21/13,21/18",Mathias Loeng Ryan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Jonas J Grande,,Joakim Aurstad Rennan,"21/17,23/21",Jonas J Grande,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Joakim Aurstad Rennan,,Jon Francisco Sjong,"21/19,21/15",Joakim Aurstad Rennan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Shayan Jalilian,,Øystein Heimdal,"21/11,21/16",Shayan Jalilian,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Øystein Heimdal,,Odin Mauset Skaugen,"21/16,25/23",Øystein Heimdal,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Shayan Jalilian,,Odin Mauset Skaugen,"21/9,21/6",Shayan Jalilian,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Elias Lenning,"21/15,21/17",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Isak L. Hasselvold,,Runar Bakke  Foss,"21/15,22/20",Isak L. Hasselvold,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Elias Lenning,,Runar Bakke  Foss,"21/19,13/21,21/15",Elias Lenning,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Live Hov Grønbech,,Rikke Grongstad,"21/12,21/8",Live Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Marte Stokkaune,,Eira Vik Langhammer,"21/5,21/3",Marte Stokkaune,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Live Hov Grønbech,,Eira Vik Langhammer,"21/7,21/3",Live Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Live Hov Grønbech,,Marte Stokkaune,"21/14,21/9",Live Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Marte Stokkaune,,Ingrid Småvollan,"21/8,21/19",Marte Stokkaune,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Ingrid Småvollan,,Eira Vik Langhammer,"21/11,21/16",Ingrid Småvollan,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Live Hov Grønbech,,Ingrid Småvollan,"21/5,21/9",Live Hov Grønbech,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Rikke Grongstad,,Frida Prestø,"21/13,21/9",Rikke Grongstad,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Frida Prestø,,Moana Vadseth Furholm,"21/7,21/17",Frida Prestø,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Rikke Grongstad,,Thelma Lovise Flaat-Gåsbakk,"21/14,21/7",Rikke Grongstad,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Rikke Grongstad,,Moana Vadseth Furholm,"21/11,21/12",Rikke Grongstad,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Frida Prestø,,Thelma Lovise Flaat-Gåsbakk,"21/10,21/6",Frida Prestø,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,,Moana Vadseth Furholm,,Thelma Lovise Flaat-Gåsbakk,"21/12,21/13",Moana Vadseth Furholm,
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Elias Lenning,Børge Håland,Robin Heimdal,Runar Bakke  Foss,"21/12,21/12",Elias Lenning,Børge Håland
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Øystein Heimdal,Odin Mauset Skaugen,Mathias Loeng Ryan,Jon Francisco Sjong,"21/14,18/21,21/19",Øystein Heimdal,Odin Mauset Skaugen
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Øystein Heimdal,Odin Mauset Skaugen,Robin Heimdal,Runar Bakke  Foss,"21/14,21/17",Øystein Heimdal,Odin Mauset Skaugen
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Elias Lenning,Børge Håland,Mathias Loeng Ryan,Jon Francisco Sjong,"21/13,21/14",Elias Lenning,Børge Håland
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Robin Heimdal,Runar Bakke  Foss,Mathias Loeng Ryan,Jon Francisco Sjong,"21/17,21/19",Robin Heimdal,Runar Bakke  Foss
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Elias Lenning,Børge Håland,Øystein Heimdal,Odin Mauset Skaugen,"21/8,16/21,21/15",Elias Lenning,Børge Håland
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Eira Vik Langhammer,Moana Vadseth Furholm,Rikke Grongstad,Ida Sofie Barslett,"21/14,18/21,21/12",Eira Vik Langhammer,Moana Vadseth Furholm
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Frida Prestø,Live Hov Grønbech,Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan,"21/16,21/4",Frida Prestø,Live Hov Grønbech
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan,Rikke Grongstad,Ida Sofie Barslett,"21/11,21/9",Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Frida Prestø,Live Hov Grønbech,Eira Vik Langhammer,Moana Vadseth Furholm,"21/4,21/12",Frida Prestø,Live Hov Grønbech
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Eira Vik Langhammer,Moana Vadseth Furholm,Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan,"21/18,21/17",Eira Vik Langhammer,Moana Vadseth Furholm
-2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Frida Prestø,Live Hov Grønbech,Rikke Grongstad,Ida Sofie Barslett,"21/9,21/7",Frida Prestø,Live Hov Grønbech
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Trond Mære,,Lars Valentin,"21/18,21/18",Trond Mære,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Lars Valentin,,Fredrik Lian,"21/16,21/16",Lars Valentin,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Roar Natvig,,Fredrik Lian,"21/17,21/19",Roar Natvig,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Lars Valentin,,Roar Natvig,"21/16,18/21,24/22",Lars Valentin,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Trond Mære,,Fredrik Skånøy,"21/14,21/10",Trond Mære,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Emil Pettersen,,Fredrik Skånøy,"21/16,21/6",Emil Pettersen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Emil Pettersen,,Ørjan Emil Strand,"21/14,21/10",Emil Pettersen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Trond Mære,,Emil Pettersen,"21/17,21/10",Trond Mære,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Fredrik Skånøy,,Ørjan Emil Strand,"21/17,19/21,21/15",Fredrik Skånøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herresingle,,Trond Mære,,Ørjan Emil Strand,"21/11,21/9",Trond Mære,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Helle Sofie Sagøy,,Karoline Lerengen,"17/21,21/13,21/15",Helle Sofie Sagøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Andrea Løvold,,Karoline Lerengen,"22/20,21/16",Andrea Løvold,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Gunn Fiskergaard,,Andrea Løvold,"21/16,21/16",Gunn Fiskergaard,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Gunn Fiskergaard,,Helle Sofie Sagøy,"21/6,21/12",Gunn Fiskergaard,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Karoline Lerengen,,Sunniva Sørensen,"21/17,21/14",Karoline Lerengen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Helle Sofie Sagøy,,Andrea Løvold,"16/21,21/14,21/13",Helle Sofie Sagøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Gunn Fiskergaard,,Karoline Lerengen,"21/17,21/13",Gunn Fiskergaard,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Helle Sofie Sagøy,,Sunniva Sørensen,"21/7,21/10",Helle Sofie Sagøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Gunn Fiskergaard,,Sunniva Sørensen,"21/8,21/10",Gunn Fiskergaard,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damesingle,,Sunniva Sørensen,,Andrea Løvold,"21/18,23/21",Sunniva Sørensen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herredouble,Robin Kruksve Krux,Fredrik Lian,Ørjan Emil Strand,Lars Valentin,"21/18,21/18",Robin Kruksve Krux,Fredrik Lian
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herredouble,Roar Natvig,Trond Mære,Robin Kruksve Krux,Fredrik Lian,"25/23,21/17",Roar Natvig,Trond Mære
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Herredouble,Roar Natvig,Trond Mære,Ørjan Emil Strand,Lars Valentin,"19/21,21/9,21/14",Roar Natvig,Trond Mære
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damedouble,Helle Sofie Sagøy,Andrea Løvold,Karoline Lerengen,Sunniva Sørensen,"21/7,23/25,21/13",Helle Sofie Sagøy,Andrea Løvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damedouble,Ingalill Mikalsen,Gunn Fiskergaard,Karoline Lerengen,Sunniva Sørensen,"21/15,21/14",Ingalill Mikalsen,Gunn Fiskergaard
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damedouble,Helle Sofie Sagøy,Andrea Løvold,Anita Olsen,Hilde Vatterholm,"21/18,21/17",Helle Sofie Sagøy,Andrea Løvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damedouble,Ingalill Mikalsen,Gunn Fiskergaard,Anita Olsen,Hilde Vatterholm,"21/9,21/16",Ingalill Mikalsen,Gunn Fiskergaard
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damedouble,Anita Olsen,Hilde Vatterholm,Karoline Lerengen,Sunniva Sørensen,"21/23,21/19,21/19",Anita Olsen,Hilde Vatterholm
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Damedouble,Ingalill Mikalsen,Gunn Fiskergaard,Helle Sofie Sagøy,Andrea Løvold,"21/12,21/15",Ingalill Mikalsen,Gunn Fiskergaard
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Hilde Vatterholm,Roar Natvig,"21/19,21/16",Anita Olsen,Trond Mære
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Andrea Løvold,Even Langås Kvam,"21/10,20/22,21/10",Anita Olsen,Trond Mære
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Gunn Fiskergaard,Lars Valentin,"10/21,21/10,23/21",Anita Olsen,Trond Mære
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Gunn Fiskergaard,Lars Valentin,Andrea Løvold,Even Langås Kvam,"21/7,21/15",Gunn Fiskergaard,Lars Valentin
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Ingalill Mikalsen,Fredrik Lian,Helle Sofie Sagøy,Erlend Kruksve,"21/14,21/13",Ingalill Mikalsen,Fredrik Lian
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Ingalill Mikalsen,Fredrik Lian,"21/15,17/21,22/20",Hilde Vatterholm,Roar Natvig
+2015/2016,Rissa Clearcup ,26.09.2015,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Helle Sofie Sagøy,Erlend Kruksve,"21/18,21/11",Hilde Vatterholm,Roar Natvig
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herresingle,,Oddbjørn Svinsås,,Ivan Hegseth,"21/8,21/13",Oddbjørn Svinsås,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Ivan Hegseth,"21/16,21/18",Torleiv Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Oddbjørn Svinsås,"21/17,21/13",Torleiv Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Sondre Løvold,"21/23,21/17,21/11",Torleiv Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herresingle,,Oddbjørn Svinsås,,Sondre Løvold,"21/14,21/14",Oddbjørn Svinsås,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herresingle,,Sondre Løvold,,Ivan Hegseth,"21/12,21/18",Sondre Løvold,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Steinar Fornes,Lars Erik Karlsen,Torleiv Hov Grønbech,Markus Heggheim,"21/14,16/21,21/18",Steinar Fornes,Lars Erik Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Steinar Fornes,Lars Erik Karlsen,Oddbjørn Svinsås,Fredrik Skånøy,"21/15,24/22",Steinar Fornes,Lars Erik Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Steinar Fornes,Lars Erik Karlsen,Emil Pettersen,Torgeir Lenning,"21/19,21/12",Steinar Fornes,Lars Erik Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Torleiv Hov Grønbech,Markus Heggheim,Even Langås Kvam,Ivan Hegseth,"21/11,21/11",Torleiv Hov Grønbech,Markus Heggheim
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Erlend Kruksve,Sander Espeseth,Even Langås Kvam,Ivan Hegseth,"21/18,21/13",Erlend Kruksve,Sander Espeseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Erlend Kruksve,Sander Espeseth,Aleksander Berg,Kristoffer Brandsås Berg,"21/14,21/19",Erlend Kruksve,Sander Espeseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Aleksander Berg,Kristoffer Brandsås Berg,Even Langås Kvam,Ivan Hegseth,"21/15,14/21,21/18",Aleksander Berg,Kristoffer Brandsås Berg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Torleiv Hov Grønbech,Markus Heggheim,Aleksander Berg,Kristoffer Brandsås Berg,"21/18,21/17",Torleiv Hov Grønbech,Markus Heggheim
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Herredouble,Torleiv Hov Grønbech,Markus Heggheim,Erlend Kruksve,Sander Espeseth,"20/22,21/9,21/18",Torleiv Hov Grønbech,Markus Heggheim
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Fredrik Skånøy,Camilla Stokkaune,Ingvild Håland,Magnus Eidissen,"21/7,18/21,21/8",Fredrik Skånøy,Camilla Stokkaune
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Robin Kruksve Krux,Karoline Lerengen,Ingvild Håland,Magnus Eidissen,"21/13,21/11",Robin Kruksve Krux,Karoline Lerengen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Emil Pettersen,Barbro Johnsen,Fredrik Skånøy,Camilla Stokkaune,"21/18,21/18",Emil Pettersen,Barbro Johnsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Sunniva Sørensen,Lars Erik Karlsen,Emil Pettersen,Barbro Johnsen,"21/16,21/8",Sunniva Sørensen,Lars Erik Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Robin Kruksve Krux,Karoline Lerengen,Fredrik Skånøy,Camilla Stokkaune,"14/21,23/21,21/14",Robin Kruksve Krux,Karoline Lerengen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Sunniva Sørensen,Lars Erik Karlsen,Ingvild Håland,Magnus Eidissen,"21/17,21/17",Sunniva Sørensen,Lars Erik Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Robin Kruksve Krux,Karoline Lerengen,Sunniva Sørensen,Lars Erik Karlsen,"21/19,21/17",Robin Kruksve Krux,Karoline Lerengen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Ingvild Håland,Magnus Eidissen,Emil Pettersen,Barbro Johnsen,"21/18,16/21,21/14",Ingvild Håland,Magnus Eidissen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN B,Mixeddouble,Fredrik Skånøy,Camilla Stokkaune,Sunniva Sørensen,Lars Erik Karlsen,"21/17,18/21,21/16",Fredrik Skånøy,Camilla Stokkaune
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Markus Heggheim,,Steinar Fornes,"19/21,21/12,21/14",Markus Heggheim,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Markus Heggheim,,Robin Kruksve Krux,"21/19,21/15",Markus Heggheim,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Steinar Fornes,,Svend Helge Hegseth,"21/12,21/13",Steinar Fornes,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Svend Helge Hegseth,,Aleksander Berg,"21/12,21/17",Svend Helge Hegseth,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Robin Kruksve Krux,,Adrian Olsen-Loe Pedersen,"21/10,21/14",Robin Kruksve Krux,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Magnus Eidissen,,Adrian Olsen-Loe Pedersen,"18/21,21/18,21/16",Magnus Eidissen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Robin Kruksve Krux,,Magnus Eidissen,"21/16,21/13",Robin Kruksve Krux,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Kristoffer Brandsås Berg,,Terje Knutseth,"21/17,21/11",Kristoffer Brandsås Berg,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Markus Heggheim,,Terje Knutseth,"21/9,21/13",Markus Heggheim,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Markus Heggheim,,Kristoffer Brandsås Berg,"24/26,21/10,21/7",Markus Heggheim,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Svend Helge Hegseth,,Marius Olsen,"21/13,21/14",Svend Helge Hegseth,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Aleksander Berg,,Tor Atle Kleven,"21/15,21/15",Aleksander Berg,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Aleksander Berg,,Sander Espeseth,"21/17,21/8",Aleksander Berg,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Sander Espeseth,,Tor Atle Kleven,"21/8,21/10",Sander Espeseth,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Steinar Fornes,,Simen Johansen,"21/7,21/7",Steinar Fornes,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Steinar Fornes,,Jørgen Olsen,"21/18,21/12",Steinar Fornes,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herresingle,,Jørgen Olsen,,Simen Johansen,"23/21,24/22",Jørgen Olsen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damesingle,,Julie Kristin Vatterholm,,Karoline Hegseth Nordland,"21/14,21/12",Julie Kristin Vatterholm,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damesingle,,Camilla Stokkaune,,Julie Kristin Vatterholm,"21/13,21/13",Camilla Stokkaune,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damesingle,,Camilla Stokkaune,,Karoline Hegseth Nordland,"21/8,21/7",Camilla Stokkaune,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Shayan Jalilian,Isak L. Hasselvold,"21/8,21/16",Anders Grande,Svend Helge Hegseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Jonas J Grande,Sondre Løvold,"21/18,21/19",Anders Grande,Svend Helge Hegseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan,Magnus Eidissen,Simen Johansen,"23/21,21/19",Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Jonas J Grande,Sondre Løvold,Magnus Eidissen,Simen Johansen,"21/18,21/14",Jonas J Grande,Sondre Løvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Jonas J Grande,Sondre Løvold,Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan,"19/21,21/17,21/16",Jonas J Grande,Sondre Løvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Magnus Eidissen,Simen Johansen,"20/22,21/12,21/14",Anders Grande,Svend Helge Hegseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Anders Grande,Svend Helge Hegseth,Adrian Olsen-Loe Pedersen,Joakim Aurstad Rennan,"21/9,21/11",Anders Grande,Svend Helge Hegseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Jørgen Olsen,Marius Olsen,Erik Winger,Jan Aage Nyborg,"21/17,21/16",Jørgen Olsen,Marius Olsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Shayan Jalilian,Isak L. Hasselvold,Terje Knutseth,Tor Atle Kleven,"21/16,21/19",Shayan Jalilian,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Terje Knutseth,Tor Atle Kleven,Jørgen Olsen,Marius Olsen,"21/15,21/17",Terje Knutseth,Tor Atle Kleven
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Terje Knutseth,Tor Atle Kleven,Erik Winger,Jan Aage Nyborg,"21/16,21/15",Terje Knutseth,Tor Atle Kleven
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Shayan Jalilian,Isak L. Hasselvold,Jørgen Olsen,Marius Olsen,"21/11,15/21,21/14",Shayan Jalilian,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Herredouble,Shayan Jalilian,Isak L. Hasselvold,Erik Winger,Jan Aage Nyborg,"21/15,21/11",Shayan Jalilian,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Jenny Aalberg,Karoline Hegseth Nordland,"21/18,21/9",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Elin Hansen,Barbro Johnsen,Jenny Aalberg,Karoline Hegseth Nordland,"21/15,21/13",Elin Hansen,Barbro Johnsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Elin Hansen,Barbro Johnsen,Marte Loeng,Lena Falch,"14/21,21/18,21/19",Elin Hansen,Barbro Johnsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Elin Hansen,Barbro Johnsen,Hilde Kristine Aurstad Rennan,Lena Grande,"21/10,21/11",Elin Hansen,Barbro Johnsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Elin Hansen,Barbro Johnsen,Julie Kristin Vatterholm,Nordis Østerås Sandberg,"21/18,23/21",Elin Hansen,Barbro Johnsen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Marte Loeng,Lena Falch,"21/8,21/17",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Jenny Aalberg,Karoline Hegseth Nordland,Hilde Kristine Aurstad Rennan,Lena Grande,"21/17,21/16",Jenny Aalberg,Karoline Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Marte Loeng,Lena Falch,Hilde Kristine Aurstad Rennan,Lena Grande,"21/7,21/11",Marte Loeng,Lena Falch
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Hilde Kristine Aurstad Rennan,Lena Grande,"21/12,21/6",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Damedouble,Marte Loeng,Lena Falch,Jenny Aalberg,Karoline Hegseth Nordland,"21/9,21/15",Marte Loeng,Lena Falch
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Markus Heggheim,Anne Berit Iversen,Lena Falch,Steinar Fornes,"21/18,21/16",Markus Heggheim,Anne Berit Iversen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Nordis Østerås Sandberg,Kristoffer Brandsås Berg,"22/20,21/10",Lena Falch,Steinar Fornes
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Markus Heggheim,Anne Berit Iversen,Jenny Aalberg,Aleksander Berg,"21/11,21/16",Markus Heggheim,Anne Berit Iversen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Jenny Aalberg,Aleksander Berg,Julie Kristin Vatterholm,Jørgen Olsen,"21/13,21/16",Jenny Aalberg,Aleksander Berg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Markus Heggheim,Anne Berit Iversen,Julie Kristin Vatterholm,Jørgen Olsen,"21/9,21/12",Markus Heggheim,Anne Berit Iversen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Sophie Larsen,Simen Johansen,Ivan Hegseth,Karoline Hegseth Nordland,"21/18,21/15",Sophie Larsen,Simen Johansen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Nordis Østerås Sandberg,Kristoffer Brandsås Berg,Ivan Hegseth,Karoline Hegseth Nordland,"21/7,21/8",Nordis Østerås Sandberg,Kristoffer Brandsås Berg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Nordis Østerås Sandberg,Kristoffer Brandsås Berg,Sophie Larsen,Simen Johansen,"21/8,21/9",Nordis Østerås Sandberg,Kristoffer Brandsås Berg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Hilde Kristine Aurstad Rennan,Marius Olsen,"21/9,21/8",Lena Falch,Steinar Fornes
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Torleiv Hov Grønbech,kristiane lenning,Hilde Kristine Aurstad Rennan,Marius Olsen,"21/17,21/6",Torleiv Hov Grønbech,kristiane lenning
+2015/2016,Rissa Clearcup ,26.09.2015,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Torleiv Hov Grønbech,kristiane lenning,"18/21,21/19,21/8",Lena Falch,Steinar Fornes
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herresingle,,Erik S. Hulsund,,Sander Bredesen,"21/10,21/12",Erik S. Hulsund,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herresingle,,Erlend Sandøy,,Erik S. Hulsund,"21/13,19/21,21/18",Erlend Sandøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herresingle,,Erlend Sandøy,,Sander Bredesen,"21/11,21/8",Erlend Sandøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herresingle,,Erlend Sandøy,,Jomar Hermstad,"21/17,18/21,21/18",Erlend Sandøy,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herresingle,,Jomar Hermstad,,Erik S. Hulsund,"21/14,21/19",Jomar Hermstad,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herresingle,,Jomar Hermstad,,Sander Bredesen,"21/14,21/15",Jomar Hermstad,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Elin Hansen,,Gunn Anita Husby Hegseth,"21/6,21/10",Elin Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Lena Falch,,Marte Loeng,"21/15,18/21,24/22",Lena Falch,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Elin Hansen,,Nina Stenkjær,"16/21,21/14,21/19",Elin Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Lena Falch,,Gunn Anita Husby Hegseth,"21/6,21/6",Lena Falch,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Nina Stenkjær,,Marte Loeng,"19/21,21/9,21/9",Nina Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Lena Falch,,Nina Stenkjær,"21/16,21/13",Lena Falch,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Elin Hansen,,Lena Falch,"21/13,22/20",Elin Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Marte Loeng,,Gunn Anita Husby Hegseth,"21/17,21/7",Marte Loeng,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Elin Hansen,,Marte Loeng,"21/14,21/18",Elin Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Damesingle,,Nina Stenkjær,,Gunn Anita Husby Hegseth,"21/10,21/5",Nina Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herredouble,Sigurd Lorvik,Mikael Grande,Tor Morten Aalberg,Kjell Kvarmesbakk,"11/21,21/17,21/17",Sigurd Lorvik,Mikael Grande
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herredouble,Sigurd Lorvik,Mikael Grande,Sander Bredesen,Erlend Sandøy,"21/17,19/21,21/14",Sigurd Lorvik,Mikael Grande
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Herredouble,Sander Bredesen,Erlend Sandøy,Tor Morten Aalberg,Kjell Kvarmesbakk,"21/18,21/17",Sander Bredesen,Erlend Sandøy
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Marte Loeng,Jan Aage Nyborg,Nina Stenkjær,Tor Morten Aalberg,"18/21,21/12,21/18",Marte Loeng,Jan Aage Nyborg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Svend Helge Hegseth,Gunn Anita Husby Hegseth,Nina Stenkjær,Tor Morten Aalberg,"21/6,21/13",Svend Helge Hegseth,Gunn Anita Husby Hegseth
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Lena Grande,Adrian Olsen-Loe Pedersen,Nina Stenkjær,Tor Morten Aalberg,"21/10,21/7",Lena Grande,Adrian Olsen-Loe Pedersen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Elin Hansen,Erik Winger,Lena Grande,Adrian Olsen-Loe Pedersen,"21/18,21/16",Elin Hansen,Erik Winger
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Marte Loeng,Jan Aage Nyborg,Svend Helge Hegseth,Gunn Anita Husby Hegseth,"21/18,21/15",Marte Loeng,Jan Aage Nyborg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Marte Loeng,Jan Aage Nyborg,Lena Grande,Adrian Olsen-Loe Pedersen,"20/22,21/18,21/3",Marte Loeng,Jan Aage Nyborg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Elin Hansen,Erik Winger,Nina Stenkjær,Tor Morten Aalberg,"21/10,21/18",Elin Hansen,Erik Winger
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Lena Grande,Adrian Olsen-Loe Pedersen,Svend Helge Hegseth,Gunn Anita Husby Hegseth,"10/21,21/15,21/11",Lena Grande,Adrian Olsen-Loe Pedersen
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Marte Loeng,Jan Aage Nyborg,Elin Hansen,Erik Winger,"21/13,21/18",Marte Loeng,Jan Aage Nyborg
+2015/2016,Rissa Clearcup ,26.09.2015,SEN D,Mixeddouble,Elin Hansen,Erik Winger,Svend Helge Hegseth,Gunn Anita Husby Hegseth,"21/13,7/21,21/19",Elin Hansen,Erik Winger
+2015/2016,Rissa Clearcup ,26.09.2015,U11 A,Herresingle,,Martin Stenkjær,,Tarjei Strand,"21/18,21/16",Martin Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 A,Herresingle,,Knut Hermann Stenvaag,,Martin Stenkjær,"21/13,21/11",Knut Hermann Stenvaag,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 A,Herresingle,,William Valentin,,Tarjei Strand,"22/20,21/7",William Valentin,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 A,Herresingle,,Knut Hermann Stenvaag,,Tarjei Strand,"21/13,21/7",Knut Hermann Stenvaag,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 A,Herresingle,,William Valentin,,Martin Stenkjær,"22/20,20/22,21/18",William Valentin,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 A,Herresingle,,Knut Hermann Stenvaag,,William Valentin,"21/9,21/6",Knut Hermann Stenvaag,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Trine Søraas Johannessen,,Petter Fallrø,"21/8,21/18",Trine Søraas Johannessen,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Gina Karlsbakk Småge,,Hedda Henriksen,"24/22,21/12",Gina Karlsbakk Småge,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Petter Fallrø,,Gina Karlsbakk Småge,"21/14,21/10",Petter Fallrø,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Petter Fallrø,,Hedda Henriksen,"21/10,21/9",Petter Fallrø,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Kamilla Bakke Foss,,Ragnhild Stenvaag,"21/6,21/9",Kamilla Bakke Foss,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Trine Søraas Johannessen,,Ragnhild Stenvaag,"21/8,21/10",Trine Søraas Johannessen,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herresingle,,Trine Søraas Johannessen,,Kamilla Bakke Foss,"21/18,21/14",Trine Søraas Johannessen,
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herredouble,Kamilla Bakke Foss,Hedda Henriksen,Gustav Langsæter,Petter Fallrø,"18/21,23/21,21/11",Kamilla Bakke Foss,Hedda Henriksen
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herredouble,Kamilla Bakke Foss,Hedda Henriksen,Gina Karlsbakk Småge,Ragnhild Stenvaag,"21/14,18/21,21/10",Kamilla Bakke Foss,Hedda Henriksen
+2015/2016,Rissa Clearcup ,26.09.2015,U11 B,Herredouble,Gustav Langsæter,Petter Fallrø,Gina Karlsbakk Småge,Ragnhild Stenvaag,"21/12,21/15",Gustav Langsæter,Petter Fallrø
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Børge Håland,,Sander Bjertnes Hansen,"21/13,21/19",Børge Håland,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Børge Håland,,Sander Hegseth,"21/11,21/10",Børge Håland,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Sander Hegseth,,Gard Vik Langhammer,"15/21,21/15,21/18",Sander Hegseth,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Børge Håland,,Gard Vik Langhammer,"21/3,21/7",Børge Håland,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Jens Karlsbakk Småge,"21/7,21/5",Sander Bjertnes Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Kasper Hegseth Nordland,,Robin Heimdal,"21/10,22/20",Kasper Hegseth Nordland,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Robin Heimdal,"21/13,13/21,21/14",Sander Bjertnes Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Kasper Hegseth Nordland,,Jens Karlsbakk Småge,"21/4,21/6",Kasper Hegseth Nordland,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Robin Heimdal,,Jens Karlsbakk Småge,"21/11,21/8",Robin Heimdal,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Kasper Hegseth Nordland,"21/18,14/21,23/21",Sander Bjertnes Hansen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Silje B. Karlsen,,Stine Marie Jakobsen,"21/19,21/14",Silje B. Karlsen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Vivild Våbenø Berg,,Elin S. Hulsund,"21/17,21/10",Vivild Våbenø Berg,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Stine Marie Jakobsen,,Elin S. Hulsund,"21/12,21/13",Stine Marie Jakobsen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Stine Marie Jakobsen,,Vivild Våbenø Berg,"21/19,21/5",Stine Marie Jakobsen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Marion Loeng Ryan,,Lena Knutseth,"21/10,21/11",Marion Loeng Ryan,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Silje B. Karlsen,,Lena Knutseth,"21/2,21/4",Silje B. Karlsen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Damesingle,,Silje B. Karlsen,,Marion Loeng Ryan,"21/12,21/14",Silje B. Karlsen,
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Martin Stenkjær,Knut Hermann Stenvaag,Tarjei Strand,William Valentin,"21/12,21/13",Martin Stenkjær,Knut Hermann Stenvaag
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Julian Hanssen,Sander Bjertnes Hansen,Tarjei Strand,William Valentin,"21/8,21/16",Julian Hanssen,Sander Bjertnes Hansen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Sander Hegseth,Kasper Hegseth Nordland,Martin Stenkjær,Knut Hermann Stenvaag,"21/6,21/15",Sander Hegseth,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Jens Karlsbakk Småge,Gard Vik Langhammer,Tarjei Strand,William Valentin,"21/8,21/18",Jens Karlsbakk Småge,Gard Vik Langhammer
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Martin Stenkjær,Knut Hermann Stenvaag,Jens Karlsbakk Småge,Gard Vik Langhammer,"21/16,21/16",Martin Stenkjær,Knut Hermann Stenvaag
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Sander Hegseth,Kasper Hegseth Nordland,Tarjei Strand,William Valentin,"21/6,21/10",Sander Hegseth,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Julian Hanssen,Sander Bjertnes Hansen,Martin Stenkjær,Knut Hermann Stenvaag,"21/18,21/16",Julian Hanssen,Sander Bjertnes Hansen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Sander Hegseth,Kasper Hegseth Nordland,Julian Hanssen,Sander Bjertnes Hansen,"21/14,21/11",Sander Hegseth,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Sander Hegseth,Kasper Hegseth Nordland,Jens Karlsbakk Småge,Gard Vik Langhammer,"22/20,21/10",Sander Hegseth,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Herredouble,Julian Hanssen,Sander Bjertnes Hansen,Jens Karlsbakk Småge,Gard Vik Langhammer,"21/19,21/18",Julian Hanssen,Sander Bjertnes Hansen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Robin Heimdal,Stine Marie Jakobsen,Vetle Mikael Kvellheim,Lena Knutseth,"21/14,21/18",Robin Heimdal,Stine Marie Jakobsen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Marion Loeng Ryan,Kasper Hegseth Nordland,Sander Hegseth,Silje B. Karlsen,"16/21,21/14,21/18",Marion Loeng Ryan,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Marion Loeng Ryan,Kasper Hegseth Nordland,Robin Heimdal,Stine Marie Jakobsen,"21/17,21/18",Marion Loeng Ryan,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Vetle Mikael Kvellheim,Lena Knutseth,Julian Hanssen,Vivild Våbenø Berg,"21/16,21/11",Vetle Mikael Kvellheim,Lena Knutseth
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Sander Hegseth,Silje B. Karlsen,Vetle Mikael Kvellheim,Lena Knutseth,"21/18,18/21,21/16",Sander Hegseth,Silje B. Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Marion Loeng Ryan,Kasper Hegseth Nordland,Julian Hanssen,Vivild Våbenø Berg,"21/8,21/8",Marion Loeng Ryan,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Robin Heimdal,Stine Marie Jakobsen,Julian Hanssen,Vivild Våbenø Berg,"21/11,21/15",Robin Heimdal,Stine Marie Jakobsen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Marion Loeng Ryan,Kasper Hegseth Nordland,Vetle Mikael Kvellheim,Lena Knutseth,"21/16,21/19",Marion Loeng Ryan,Kasper Hegseth Nordland
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Sander Hegseth,Silje B. Karlsen,Julian Hanssen,Vivild Våbenø Berg,"21/19,21/8",Sander Hegseth,Silje B. Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,U13 A,Mixeddouble,Sander Hegseth,Silje B. Karlsen,Robin Heimdal,Stine Marie Jakobsen,"21/15,14/21,22/20",Sander Hegseth,Silje B. Karlsen
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Isak L. Hasselvold,,Jonas J Grande,"21/17,21/16",Isak L. Hasselvold,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Isak L. Hasselvold,,Shayan Jalilian,"21/17,21/18",Isak L. Hasselvold,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Jonas J Grande,,Mathias Loeng Ryan,"21/9,21/8",Jonas J Grande,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Joakim Aurstad Rennan,,Mathias Loeng Ryan,"21/8,21/12",Joakim Aurstad Rennan,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Jonas J Grande,,Jon Francisco Sjong,"21/3,21/16",Jonas J Grande,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Mathias Loeng Ryan,,Jon Francisco Sjong,"21/13,21/18",Mathias Loeng Ryan,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Jonas J Grande,,Joakim Aurstad Rennan,"21/17,23/21",Jonas J Grande,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Joakim Aurstad Rennan,,Jon Francisco Sjong,"21/19,21/15",Joakim Aurstad Rennan,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Shayan Jalilian,,Øystein Heimdal,"21/11,21/16",Shayan Jalilian,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Øystein Heimdal,,Odin Mauset Skaugen,"21/16,25/23",Øystein Heimdal,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Shayan Jalilian,,Odin Mauset Skaugen,"21/9,21/6",Shayan Jalilian,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Isak L. Hasselvold,,Elias Lenning,"21/15,21/17",Isak L. Hasselvold,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Isak L. Hasselvold,,Runar Bakke  Foss,"21/15,22/20",Isak L. Hasselvold,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herresingle,,Elias Lenning,,Runar Bakke  Foss,"21/19,13/21,21/15",Elias Lenning,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Live Hov Grønbech,,Rikke Grongstad,"21/12,21/8",Live Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Marte Stokkaune,,Eira Vik Langhammer,"21/5,21/3",Marte Stokkaune,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Live Hov Grønbech,,Eira Vik Langhammer,"21/7,21/3",Live Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Live Hov Grønbech,,Marte Stokkaune,"21/14,21/9",Live Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Marte Stokkaune,,Ingrid Småvollan,"21/8,21/19",Marte Stokkaune,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Ingrid Småvollan,,Eira Vik Langhammer,"21/11,21/16",Ingrid Småvollan,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Live Hov Grønbech,,Ingrid Småvollan,"21/5,21/9",Live Hov Grønbech,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Rikke Grongstad,,Frida Prestø,"21/13,21/9",Rikke Grongstad,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Frida Prestø,,Moana Vadseth Furholm,"21/7,21/17",Frida Prestø,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Rikke Grongstad,,Thelma Lovise Flaat-Gåsbakk,"21/14,21/7",Rikke Grongstad,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Rikke Grongstad,,Moana Vadseth Furholm,"21/11,21/12",Rikke Grongstad,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Frida Prestø,,Thelma Lovise Flaat-Gåsbakk,"21/10,21/6",Frida Prestø,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damesingle,,Moana Vadseth Furholm,,Thelma Lovise Flaat-Gåsbakk,"21/12,21/13",Moana Vadseth Furholm,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herredouble,Elias Lenning,Børge Håland,Robin Heimdal,Runar Bakke  Foss,"21/12,21/12",Elias Lenning,Børge Håland
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herredouble,Øystein Heimdal,Odin Mauset Skaugen,Mathias Loeng Ryan,Jon Francisco Sjong,"21/14,18/21,21/19",Øystein Heimdal,Odin Mauset Skaugen
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herredouble,Øystein Heimdal,Odin Mauset Skaugen,Robin Heimdal,Runar Bakke  Foss,"21/14,21/17",Øystein Heimdal,Odin Mauset Skaugen
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herredouble,Elias Lenning,Børge Håland,Mathias Loeng Ryan,Jon Francisco Sjong,"21/13,21/14",Elias Lenning,Børge Håland
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herredouble,Robin Heimdal,Runar Bakke  Foss,Mathias Loeng Ryan,Jon Francisco Sjong,"21/17,21/19",Robin Heimdal,Runar Bakke  Foss
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Herredouble,Elias Lenning,Børge Håland,Øystein Heimdal,Odin Mauset Skaugen,"21/8,16/21,21/15",Elias Lenning,Børge Håland
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damedouble,Eira Vik Langhammer,Moana Vadseth Furholm,Rikke Grongstad,Ida Sofie Barslett,"21/14,18/21,21/12",Eira Vik Langhammer,Moana Vadseth Furholm
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damedouble,Frida Prestø,Live Hov Grønbech,Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan,"21/16,21/4",Frida Prestø,Live Hov Grønbech
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damedouble,Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan,Rikke Grongstad,Ida Sofie Barslett,"21/11,21/9",Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damedouble,Frida Prestø,Live Hov Grønbech,Eira Vik Langhammer,Moana Vadseth Furholm,"21/4,21/12",Frida Prestø,Live Hov Grønbech
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damedouble,Eira Vik Langhammer,Moana Vadseth Furholm,Thelma Lovise Flaat-Gåsbakk,Ingrid Småvollan,"21/18,21/17",Eira Vik Langhammer,Moana Vadseth Furholm
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Damedouble,Frida Prestø,Live Hov Grønbech,Rikke Grongstad,Ida Sofie Barslett,"21/9,21/7",Frida Prestø,Live Hov Grønbech
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Ingrid Småvollan,Isak L. Hasselvold,Jonas J Grande,Marte Stokkaune,"25/23,16/21,21/14",Ingrid Småvollan,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Børge Håland,Frida Prestø,Ida Sofie Barslett,Jon Francisco Sjong,"21/10,21/3",Børge Håland,Frida Prestø
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Jonas J Grande,Marte Stokkaune,Børge Håland,Frida Prestø,"21/18,12/21,21/16",Jonas J Grande,Marte Stokkaune
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Rikke Grongstad,Shayan Jalilian,Ida Sofie Barslett,Jon Francisco Sjong,"21/8,21/8",Rikke Grongstad,Shayan Jalilian
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Jonas J Grande,Marte Stokkaune,Ida Sofie Barslett,Jon Francisco Sjong,"21/8,21/5",Jonas J Grande,Marte Stokkaune
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Rikke Grongstad,Shayan Jalilian,Børge Håland,Frida Prestø,"21/17,21/12",Rikke Grongstad,Shayan Jalilian
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Jonas J Grande,Marte Stokkaune,Rikke Grongstad,Shayan Jalilian,"21/19,21/10",Jonas J Grande,Marte Stokkaune
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Elias Lenning,Live Hov Grønbech,Thelma Lovise Flaat-Gåsbakk,Mathias Loeng Ryan,"21/16,21/8",Elias Lenning,Live Hov Grønbech
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Ingrid Småvollan,Isak L. Hasselvold,Malin Kolstrøm,Joakim Aurstad Rennan,"21/15,21/18",Ingrid Småvollan,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Malin Kolstrøm,Joakim Aurstad Rennan,Thelma Lovise Flaat-Gåsbakk,Mathias Loeng Ryan,"21/14,21/15",Malin Kolstrøm,Joakim Aurstad Rennan
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Elias Lenning,Live Hov Grønbech,Malin Kolstrøm,Joakim Aurstad Rennan,"21/18,21/17",Elias Lenning,Live Hov Grønbech
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Ingrid Småvollan,Isak L. Hasselvold,Thelma Lovise Flaat-Gåsbakk,Mathias Loeng Ryan,"21/18,21/13",Ingrid Småvollan,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,U15 A,Mixeddouble,Ingrid Småvollan,Isak L. Hasselvold,Elias Lenning,Live Hov Grønbech,"21/19,21/19",Ingrid Småvollan,Isak L. Hasselvold
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Herresingle,,Jonas Midtøy,,Vetle Mikael Kvellheim,"9/21,21/13,21/19",Jonas Midtøy,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Herresingle,,Gustav Seglsten,,Julian Hanssen,"21/16,21/15",Gustav Seglsten,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Herresingle,,Vetle Mikael Kvellheim,,Julian Hanssen,"21/10,21/14",Vetle Mikael Kvellheim,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Herresingle,,Jonas Midtøy,,Gustav Seglsten,"25/23,21/10",Jonas Midtøy,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Herresingle,,Jonas Midtøy,,Julian Hanssen,"21/14,21/3",Jonas Midtøy,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Herresingle,,Gustav Seglsten,,Vetle Mikael Kvellheim,"11/21,21/13,22/20",Gustav Seglsten,
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Damedouble,Marion Loeng Ryan,Malin Kolstrøm,Vivild Våbenø Berg,Lena Knutseth,"21/9,21/9",Marion Loeng Ryan,Malin Kolstrøm
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Damedouble,Stine Marie Jakobsen,Elin S. Hulsund,Vivild Våbenø Berg,Lena Knutseth,"21/11,21/12",Stine Marie Jakobsen,Elin S. Hulsund
+2015/2016,Rissa Clearcup ,26.09.2015,U15 B,Damedouble,Marion Loeng Ryan,Malin Kolstrøm,Stine Marie Jakobsen,Elin S. Hulsund,"21/14,21/7",Marion Loeng Ryan,Malin Kolstrøm
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Erlend Kruksve,,Danila Gataullin,"21/17,21/18",Erlend Kruksve,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Erlend Kruksve,,Vemund Wennemo,"21/18,21/10",Erlend Kruksve,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Danila Gataullin,,Iver Aalberg,"21/19,21/15",Danila Gataullin,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Danila Gataullin,,Vegard Strand,"21/11,21/19",Danila Gataullin,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Christian Asbjørnsen,,Sander Grandetrø,"13/21,21/12,21/11",Christian Asbjørnsen,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Erlend Kruksve,,Sander Grandetrø,"21/6,21/5",Erlend Kruksve,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Erlend Kruksve,,Christian Asbjørnsen,"21/10,21/10",Erlend Kruksve,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Andreas Futaker,,Kristian Bondhus,"21/9,21/13",Andreas Futaker,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Vemund Wennemo,,Magnus Farstad,"21/7,21/17",Vemund Wennemo,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Kristian Bondhus,,Magnus Farstad,"22/20,13/21,21/11",Kristian Bondhus,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Vemund Wennemo,,Andreas Futaker,"21/9,23/21",Vemund Wennemo,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Vemund Wennemo,,Kristian Bondhus,"21/11,21/18",Vemund Wennemo,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Andreas Futaker,,Magnus Farstad,"22/20,21/11",Andreas Futaker,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Adrian Bruaset,,Jakob Karlsmoen,"21/11,21/10",Adrian Bruaset,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Danila Gataullin,,Jakob Karlsmoen,"21/4,21/6",Danila Gataullin,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Danila Gataullin,,Adrian Bruaset,"21/12,21/10",Danila Gataullin,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Marcus Hanssen,,Sigurd Lorvik,"21/9,21/13",Marcus Hanssen,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Vegard Strand,,Sigurd Lorvik,"21/23,21/7,21/11",Vegard Strand,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Vegard Strand,,Marcus Hanssen,"21/17,16/21,21/12",Vegard Strand,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Iver Karlsbakk Småge,,Alexander Rye,"21/17,21/14",Iver Karlsbakk Småge,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Mikael Grande,,Alexander Rye,"19/21,21/13,21/10",Mikael Grande,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Iver Aalberg,,Iver Karlsbakk Småge,"21/6,21/8",Iver Aalberg,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Iver Aalberg,,Alexander Rye,"21/6,21/6",Iver Aalberg,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Mikael Grande,,Iver Karlsbakk Småge,"21/4,21/15",Mikael Grande,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herresingle,,Iver Aalberg,,Mikael Grande,"21/9,21/10",Iver Aalberg,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Ina Stenkjær,,Silje V. Kruksve Aasland,"21/11,21/19",Ina Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Ina Stenkjær,,Anne Berit Iversen,"21/14,21/10",Ina Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Silje V. Kruksve Aasland,,Louise Prestø,"21/7,21/6",Silje V. Kruksve Aasland,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Louise Prestø,,Tora Vik Langhammer,"21/17,21/4",Louise Prestø,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Silje V. Kruksve Aasland,,Ingvild Håland,"21/16,24/22",Silje V. Kruksve Aasland,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Silje V. Kruksve Aasland,,Tora Vik Langhammer,"21/11,21/6",Silje V. Kruksve Aasland,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Ingvild Håland,,Louise Prestø,"22/20,21/15",Ingvild Håland,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Ingvild Håland,,Tora Vik Langhammer,"21/15,21/10",Ingvild Håland,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Jenny Aalberg,,Sophie Larsen,"21/14,21/19",Jenny Aalberg,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Anne Berit Iversen,,Sophie Larsen,"21/12,21/7",Anne Berit Iversen,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Anne Berit Iversen,,Jenny Aalberg,"21/13,21/6",Anne Berit Iversen,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Ina Stenkjær,,Andrea Marie Engeseth,"21/6,21/8",Ina Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,kristiane lenning,,Andrea Marie Engeseth,"21/7,21/8",kristiane lenning,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damesingle,,Ina Stenkjær,,kristiane lenning,"21/11,25/23",Ina Stenkjær,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Iver Aalberg,Danila Gataullin,Christian Asbjørnsen,Vegard Strand,"25/23,21/10",Iver Aalberg,Danila Gataullin
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Iver Aalberg,Danila Gataullin,Magnus Farstad,Alexander Rye,"21/3,21/7",Iver Aalberg,Danila Gataullin
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Iver Aalberg,Danila Gataullin,Sander Grandetrø,Andreas Futaker,"21/11,22/20",Iver Aalberg,Danila Gataullin
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Sander Grandetrø,Andreas Futaker,Magnus Farstad,Alexander Rye,"21/13,21/11",Sander Grandetrø,Andreas Futaker
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Adrian Bruaset,Iver Karlsbakk Småge,Kristian Bondhus,Jakob Karlsmoen,"21/15,19/21,22/20",Adrian Bruaset,Iver Karlsbakk Småge
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Christian Asbjørnsen,Vegard Strand,Vemund Wennemo,Marcus Hanssen,"21/15,15/21,21/14",Christian Asbjørnsen,Vegard Strand
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Christian Asbjørnsen,Vegard Strand,Kristian Bondhus,Jakob Karlsmoen,"21/7,21/4",Christian Asbjørnsen,Vegard Strand
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Vemund Wennemo,Marcus Hanssen,Adrian Bruaset,Iver Karlsbakk Småge,"21/15,21/3",Vemund Wennemo,Marcus Hanssen
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Vemund Wennemo,Marcus Hanssen,Kristian Bondhus,Jakob Karlsmoen,"21/7,21/12",Vemund Wennemo,Marcus Hanssen
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Herredouble,Christian Asbjørnsen,Vegard Strand,Adrian Bruaset,Iver Karlsbakk Småge,"21/2,21/14",Christian Asbjørnsen,Vegard Strand
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ina Stenkjær,Silje V. Kruksve Aasland,Sophie Larsen,Anja Stojanovic,"21/18,21/18",Ina Stenkjær,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ingvild Håland,Anne Berit Iversen,Andrea Marie Engeseth,Tora Vik Langhammer,"21/2,21/6",Ingvild Håland,Anne Berit Iversen
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ingvild Håland,Anne Berit Iversen,kristiane lenning,Louise Prestø,"21/15,16/21,21/17",Ingvild Håland,Anne Berit Iversen
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ina Stenkjær,Silje V. Kruksve Aasland,Andrea Marie Engeseth,Tora Vik Langhammer,"21/10,21/6",Ina Stenkjær,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,kristiane lenning,Louise Prestø,Sophie Larsen,Anja Stojanovic,"21/4,21/6",kristiane lenning,Louise Prestø
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ina Stenkjær,Silje V. Kruksve Aasland,kristiane lenning,Louise Prestø,"21/19,21/18",Ina Stenkjær,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ingvild Håland,Anne Berit Iversen,Sophie Larsen,Anja Stojanovic,"21/9,21/8",Ingvild Håland,Anne Berit Iversen
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Andrea Marie Engeseth,Tora Vik Langhammer,Sophie Larsen,Anja Stojanovic,"21/9,19/21,21/19",Andrea Marie Engeseth,Tora Vik Langhammer
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,Ina Stenkjær,Silje V. Kruksve Aasland,Ingvild Håland,Anne Berit Iversen,"23/21,22/20",Ina Stenkjær,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Damedouble,kristiane lenning,Louise Prestø,Andrea Marie Engeseth,Tora Vik Langhammer,"21/10,21/7",kristiane lenning,Louise Prestø
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Iver Aalberg,Silje V. Kruksve Aasland,Vemund Wennemo,Louise Prestø,"15/21,21/19,22/20",Iver Aalberg,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Danila Gataullin,Ina Stenkjær,Andrea Marie Engeseth,Kristian Bondhus,"21/1,21/5",Danila Gataullin,Ina Stenkjær
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Vemund Wennemo,Louise Prestø,Andrea Marie Engeseth,Kristian Bondhus,"21/11,21/18",Vemund Wennemo,Louise Prestø
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Vemund Wennemo,Louise Prestø,Danila Gataullin,Ina Stenkjær,"22/20,10/21,21/14",Vemund Wennemo,Louise Prestø
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Moana Vadseth Furholm,Vegard Strand,Tora Vik Langhammer,Christian Asbjørnsen,"21/13,21/18",Moana Vadseth Furholm,Vegard Strand
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Iver Aalberg,Silje V. Kruksve Aasland,Moana Vadseth Furholm,Vegard Strand,"21/8,21/16",Iver Aalberg,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 A,Mixeddouble,Iver Aalberg,Silje V. Kruksve Aasland,Tora Vik Langhammer,Christian Asbjørnsen,"21/11,21/14",Iver Aalberg,Silje V. Kruksve Aasland
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Damesingle,,Malin Kolstrøm,,Sigrid Våbenø Berg,"21/6,21/8",Malin Kolstrøm,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Damesingle,,Malin Kolstrøm,,Malin Bjørkås,"21/7,21/14",Malin Kolstrøm,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Damesingle,,Malin Bjørkås,,Sigrid Våbenø Berg,"21/11,21/11",Malin Bjørkås,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Damesingle,,Malin Bjørkås,,Anja Stojanovic,"22/20,21/9",Malin Bjørkås,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Damesingle,,Sigrid Våbenø Berg,,Anja Stojanovic,"21/13,19/21,21/9",Sigrid Våbenø Berg,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Damesingle,,Malin Kolstrøm,,Anja Stojanovic,"21/11,21/11",Malin Kolstrøm,
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Mixeddouble,Erik S. Hulsund,Malin Bjørkås,Sigrid Våbenø Berg,Sander Bredesen,"19/21,21/17,21/9",Erik S. Hulsund,Malin Bjørkås
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Mixeddouble,Sigrid Våbenø Berg,Sander Bredesen,Anja Stojanovic,Marcus Hanssen,"21/17,11/21,21/19",Sigrid Våbenø Berg,Sander Bredesen
+2015/2016,Rissa Clearcup ,26.09.2015,U17 B,Mixeddouble,Anja Stojanovic,Marcus Hanssen,Erik S. Hulsund,Malin Bjørkås,"21/16,21/18",Anja Stojanovic,Marcus Hanssen

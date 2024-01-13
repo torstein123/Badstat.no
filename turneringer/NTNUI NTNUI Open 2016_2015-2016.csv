@@ -1,156 +1,121 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Beda Büchel,"21/17,21/19",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Amund Skavhaug,"21/19,17/21,21/14",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Beda Büchel,,Andreas Stenhaug,"21/17,21/15",Beda Büchel,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Rune Oterhals,,Even Langås Kvam,"21/13,21/10",Rune Oterhals,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Even Langås Kvam,"19/21,21/13,21/11",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Rune Oterhals,"21/13,21/17",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Amund Skavhaug,,Håkon Skogland Halvorsen,"18/21,21/19,21/13",Amund Skavhaug,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Håkon Skogland Halvorsen,,Xuan Thong Nguyen,"21/7,25/23",Håkon Skogland Halvorsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Amund Skavhaug,,Xuan Thong Nguyen,"21/16,21/16",Amund Skavhaug,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Beda Büchel,,Torbjørn Nilsen,"25/23,21/17",Beda Büchel,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Åsmund Oma,,Torbjørn Nilsen,"21/14,21/7",Åsmund Oma,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Beda Büchel,,Åsmund Oma,"23/21,21/16",Beda Büchel,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Fredrik Skånøy,,Egil Johansen,"16/21,23/21,21/16",Fredrik Skånøy,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Egil Johansen,,Andreas Stenhaug,"21/19,19/21,21/18",Egil Johansen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Andreas Stenhaug,,Fredrik Skånøy,"21/13,21/23,21/17",Andreas Stenhaug,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Beda Büchel,"21/17,21/19",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Amund Skavhaug,"21/19,17/21,21/14",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Beda Büchel,,Andreas Stenhaug,"21/17,21/15",Beda Büchel,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Rune Oterhals,,Even Langås Kvam,"21/13,21/10",Rune Oterhals,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Even Langås Kvam,"19/21,21/13,21/11",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Petter Svendsen,,Rune Oterhals,"21/13,21/17",Petter Svendsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Amund Skavhaug,,Håkon Skogland Halvorsen,"18/21,21/19,21/13",Amund Skavhaug,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Håkon Skogland Halvorsen,,Xuan Thong Nguyen,"21/7,25/23",Håkon Skogland Halvorsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Amund Skavhaug,,Xuan Thong Nguyen,"21/16,21/16",Amund Skavhaug,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Beda Büchel,,Torbjørn Nilsen,"25/23,21/17",Beda Büchel,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Åsmund Oma,,Torbjørn Nilsen,"21/14,21/7",Åsmund Oma,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Beda Büchel,,Åsmund Oma,"23/21,21/16",Beda Büchel,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Fredrik Skånøy,,Egil Johansen,"16/21,23/21,21/16",Fredrik Skånøy,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Egil Johansen,,Andreas Stenhaug,"21/19,19/21,21/18",Egil Johansen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Andreas Stenhaug,,Fredrik Skånøy,"21/13,21/23,21/17",Andreas Stenhaug,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Mari Helene Bøe,,Kathrine Sellevoll,"21/13,21/12",Mari Helene Bøe,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Karoline Lerengen,,Andrea Løvold,"21/13,21/14",Karoline Lerengen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Mari Helene Bøe,,Sara Hvidsten,"21/14,21/18",Mari Helene Bøe,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Sara Hvidsten,,Andrea Løvold,"17/21,21/6,21/18",Sara Hvidsten,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Mari Helene Bøe,,Karoline Lerengen,"21/9,19/21,21/10",Mari Helene Bøe,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Sara Hvidsten,,Karoline Lerengen,"16/21,21/14,21/19",Sara Hvidsten,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Mari Helene Bøe,,Andrea Løvold,"21/4,21/16",Mari Helene Bøe,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Elisabeth Thrane,,Nordis Østerås Sandberg,"21/9,21/9",Elisabeth Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Kathrine Sellevoll,,Helle Sofie Sagøy,"21/7,21/3",Kathrine Sellevoll,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,,Kathrine Sellevoll,,Nordis Østerås Sandberg,"21/14,21/6",Kathrine Sellevoll,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Rune Oterhals,Petter Svendsen,Beda Büchel,Egil Johansen,"21/19,19/21,21/15",Rune Oterhals,Petter Svendsen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Torbjørn Nilsen,Åsmund Oma,Amund Skavhaug,Robert Barø,"16/21,21/16,21/16",Torbjørn Nilsen,Åsmund Oma
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Rune Oterhals,Petter Svendsen,Torbjørn Nilsen,Åsmund Oma,"21/11,11/21,21/17",Rune Oterhals,Petter Svendsen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Rune Oterhals,Petter Svendsen,Amund Skavhaug,Robert Barø,"21/19,21/17",Rune Oterhals,Petter Svendsen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Fredrik Skånøy,Oddbjørn Svinsås,Thomas Agung D. A. Thrane,Bård Thrane,"21/10,20/22,21/18",Fredrik Skånøy,Oddbjørn Svinsås
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Beda Büchel,Egil Johansen,Andreas Stenhaug,Håkon Skogland Halvorsen,"21/18,21/17",Beda Büchel,Egil Johansen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Beda Büchel,Egil Johansen,Fredrik Skånøy,Oddbjørn Svinsås,"23/21,21/12",Beda Büchel,Egil Johansen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Andreas Stenhaug,Håkon Skogland Halvorsen,Thomas Agung D. A. Thrane,Bård Thrane,"18/21,21/18,21/11",Andreas Stenhaug,Håkon Skogland Halvorsen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Andreas Stenhaug,Håkon Skogland Halvorsen,Fredrik Skånøy,Oddbjørn Svinsås,"21/19,14/21,21/19",Andreas Stenhaug,Håkon Skogland Halvorsen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Beda Büchel,Egil Johansen,Thomas Agung D. A. Thrane,Bård Thrane,"21/12,21/18",Beda Büchel,Egil Johansen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Kathrine Sellevoll,Mari Helene Bøe,Oda Lauten,Patricia Ysabel Sosa,"21/6,21/5",Kathrine Sellevoll,Mari Helene Bøe
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Sara Hvidsten,Elisabeth Thrane,Karoline Lerengen,Andrea Løvold,"18/21,21/14,21/19",Sara Hvidsten,Elisabeth Thrane
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Kathrine Sellevoll,Mari Helene Bøe,Sara Hvidsten,Elisabeth Thrane,"21/13,21/16",Kathrine Sellevoll,Mari Helene Bøe
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Karoline Lerengen,Andrea Løvold,Oda Lauten,Patricia Ysabel Sosa,"21/16,21/11",Karoline Lerengen,Andrea Løvold
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Kathrine Sellevoll,Mari Helene Bøe,Karoline Lerengen,Andrea Løvold,"21/10,21/16",Kathrine Sellevoll,Mari Helene Bøe
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Sara Hvidsten,Elisabeth Thrane,Oda Lauten,Patricia Ysabel Sosa,"21/9,21/6",Sara Hvidsten,Elisabeth Thrane
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Bård Thrane,,Oddbjørn Svinsås,"21/9,21/17",Bård Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Bård Thrane,,Remi André Martinsen,"21/12,21/12",Bård Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Remi André Martinsen,,Mikael Grande,"21/13,21/15",Remi André Martinsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Bård Thrane,,Mikael Grande,"21/11,21/13",Bård Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Thomas Agung D. A. Thrane,,Ruben Edna,"21/18,22/20",Thomas Agung D. A. Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Oddbjørn Svinsås,,Ruben Edna,"21/10,21/16",Oddbjørn Svinsås,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Oddbjørn Svinsås,,Thomas Agung D. A. Thrane,"21/12,21/19",Oddbjørn Svinsås,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Bård Thrane,,Oddbjørn Svinsås,"21/9,21/17",Bård Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Bård Thrane,,Remi André Martinsen,"21/12,21/12",Bård Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Remi André Martinsen,,Mikael Grande,"21/13,21/15",Remi André Martinsen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Bård Thrane,,Mikael Grande,"21/11,21/13",Bård Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Thomas Agung D. A. Thrane,,Ruben Edna,"21/18,22/20",Thomas Agung D. A. Thrane,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Oddbjørn Svinsås,,Ruben Edna,"21/10,21/16",Oddbjørn Svinsås,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,,Oddbjørn Svinsås,,Thomas Agung D. A. Thrane,"21/12,21/19",Oddbjørn Svinsås,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Tor Sporsem,"21/12,21/11",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Tor Sporsem,,Daniel Groos,"24/22,22/20",Tor Sporsem,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Robert Barø,"21/19,11/21,21/14",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Daniel Groos,,Lars Erik Junge,"21/18,21/16",Daniel Groos,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Robert Barø,,Guangcheng Hua,"21/13,21/14",Robert Barø,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,David Wu,"21/12,21/13",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Tor Sporsem,,Mohana Rajpalke,"21/12,21/17",Tor Sporsem,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Mohana Rajpalke,,Sulalit Bandyopadhyay,"21/0,21/0",Mohana Rajpalke,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Tor Sporsem,,Sulalit Bandyopadhyay,"21/8,21/12",Tor Sporsem,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Runar Jenssen,,Paul-Johan Gustad,"21/16,21/11",Runar Jenssen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lars Erik Junge,,Runar Jenssen,"21/18,21/17",Lars Erik Junge,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lars Erik Junge,,Paul-Johan Gustad,"20/22,21/14,21/14",Lars Erik Junge,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Daniel Groos,,Andreas Lønes,"21/17,21/11",Daniel Groos,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Daniel Groos,,Ernst Torsgård,"22/17,20/22,19/12",Daniel Groos,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Andreas Lønes,,Ernst Torsgård,"21/14,15/21,21/16",Andreas Lønes,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Guangcheng Hua,,Bhushan Taskar,"21/13,21/16",Guangcheng Hua,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Guangcheng Hua,,Lars Kåre Gjønnes,"17/21,21/11,21/15",Guangcheng Hua,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lars Kåre Gjønnes,,Bhushan Taskar,"21/7,21/6",Lars Kåre Gjønnes,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lasse Henriksen,,Andreas Stensbye,"21/11,18/21,21/13",Lasse Henriksen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Robert Barø,,Andreas Stensbye,"21/4,21/4",Robert Barø,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Robert Barø,,Lasse Henriksen,"21/10,21/5",Robert Barø,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,David Wu,,Svend-Peder Oseth,"21/19,23/21",David Wu,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,David Wu,,Ragnar Bråstein,"21/18,21/8",David Wu,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Svend-Peder Oseth,,Ragnar Bråstein,"21/15,21/17",Svend-Peder Oseth,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Shareq Mohd Nazir,,Roald Rødberg,"21/0,21/0",Shareq Mohd Nazir,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Roald Rødberg,"21/15,21/16",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Shareq Mohd Nazir,"13/21,21/17,21/16",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Tor Sporsem,"21/12,21/11",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Tor Sporsem,,Daniel Groos,"24/22,22/20",Tor Sporsem,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Robert Barø,"21/19,11/21,21/14",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Daniel Groos,,Lars Erik Junge,"21/18,21/16",Daniel Groos,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Robert Barø,,Guangcheng Hua,"21/13,21/14",Robert Barø,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,David Wu,"21/12,21/13",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Tor Sporsem,,Mohana Rajpalke,"21/12,21/17",Tor Sporsem,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Mohana Rajpalke,,Sulalit Bandyopadhyay,"21/0,21/0",Mohana Rajpalke,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Tor Sporsem,,Sulalit Bandyopadhyay,"21/8,21/12",Tor Sporsem,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Runar Jenssen,,Paul-Johan Gustad,"21/16,21/11",Runar Jenssen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lars Erik Junge,,Runar Jenssen,"21/18,21/17",Lars Erik Junge,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lars Erik Junge,,Paul-Johan Gustad,"20/22,21/14,21/14",Lars Erik Junge,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Daniel Groos,,Andreas Lønes,"21/17,21/11",Daniel Groos,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Daniel Groos,,Ernst Torsgård,"22/17,20/22,19/12",Daniel Groos,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Andreas Lønes,,Ernst Torsgård,"21/14,15/21,21/16",Andreas Lønes,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Guangcheng Hua,,Bhushan Taskar,"21/13,21/16",Guangcheng Hua,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Guangcheng Hua,,Lars Kåre Gjønnes,"17/21,21/11,21/15",Guangcheng Hua,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lars Kåre Gjønnes,,Bhushan Taskar,"21/7,21/6",Lars Kåre Gjønnes,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Lasse Henriksen,,Andreas Stensbye,"21/11,18/21,21/13",Lasse Henriksen,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Robert Barø,,Andreas Stensbye,"21/4,21/4",Robert Barø,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Robert Barø,,Lasse Henriksen,"21/10,21/5",Robert Barø,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,David Wu,,Svend-Peder Oseth,"21/19,23/21",David Wu,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,David Wu,,Ragnar Bråstein,"21/18,21/8",David Wu,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Svend-Peder Oseth,,Ragnar Bråstein,"21/15,21/17",Svend-Peder Oseth,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Shareq Mohd Nazir,,Roald Rødberg,"21/0,21/0",Shareq Mohd Nazir,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Roald Rødberg,"21/15,21/16",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Sebastian Schoder Moreno,,Shareq Mohd Nazir,"13/21,21/17,21/16",Sebastian Schoder Moreno,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Annagha Mital,,Patricia Ysabel Sosa,"21/9,21/11",Annagha Mital,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Helene Winger,,Oda Lauten,"21/13,21/13",Helene Winger,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Helene Winger,,Angelika Grande,"21/14,21/8",Helene Winger,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Oda Lauten,,Patricia Ysabel Sosa,"21/18,12/21,22/20",Oda Lauten,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Annagha Mital,,Helene Winger,"21/15,21/15",Annagha Mital,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Oda Lauten,,Angelika Grande,"21/13,21/3",Oda Lauten,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Helene Winger,,Patricia Ysabel Sosa,"21/16,22/20",Helene Winger,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Annagha Mital,,Angelika Grande,"21/5,21/3",Annagha Mital,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Oda Lauten,,Annagha Mital,"19/21,21/16,21/16",Oda Lauten,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,,Patricia Ysabel Sosa,,Angelika Grande,"21/9,15/21,21/10",Patricia Ysabel Sosa,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Tor Sporsem,Guangcheng Hua,Ernst Torsgård,Roald Rødberg,"21/11,21/12",Tor Sporsem,Guangcheng Hua
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Ernst Torsgård,Roald Rødberg,Ruben Edna,Runar Jenssen,"21/14,18/21,21/14",Ernst Torsgård,Roald Rødberg
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Tor Sporsem,Guangcheng Hua,Nordis Østerås Sandberg,Mikael Grande,"21/7,21/12",Tor Sporsem,Guangcheng Hua
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Erik Winger,Jan Aage Nyborg,Andreas Lønes,Svend-Peder Oseth,"21/17,21/17",Erik Winger,Jan Aage Nyborg
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Ruben Edna,Runar Jenssen,Erik Winger,Jan Aage Nyborg,"21/13,21/13",Ruben Edna,Runar Jenssen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Ruben Edna,Runar Jenssen,Andreas Lønes,Svend-Peder Oseth,"21/14,22/20",Ruben Edna,Runar Jenssen
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Shareq Mohd Nazir,Mohana Rajpalke,David Wu,Bhushan Taskar,"17/21,21/11,21/11",Shareq Mohd Nazir,Mohana Rajpalke
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Ernst Torsgård,Roald Rødberg,David Wu,Bhushan Taskar,"27/25,21/15",Ernst Torsgård,Roald Rødberg
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Ernst Torsgård,Roald Rødberg,Shareq Mohd Nazir,Mohana Rajpalke,"21/16,21/19",Ernst Torsgård,Roald Rødberg
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Nordis Østerås Sandberg,Mikael Grande,Faheem Ali,Sulalit Bandyopadhyay,"21/14,26/24",Nordis Østerås Sandberg,Mikael Grande
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Egil Svinsaas,Tore Suul Grande,Faheem Ali,Sulalit Bandyopadhyay,"21/19,21/14",Egil Svinsaas,Tore Suul Grande
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Nordis Østerås Sandberg,Mikael Grande,Egil Svinsaas,Tore Suul Grande,"21/9,21/12",Nordis Østerås Sandberg,Mikael Grande
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Lars Kåre Gjønnes,Even Langås Kvam,gwendolyn lin,Nur Mamat,"21/2,21/9",Lars Kåre Gjønnes,Even Langås Kvam
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Tor Sporsem,Guangcheng Hua,Lars Kåre Gjønnes,Even Langås Kvam,"26/24,21/13",Tor Sporsem,Guangcheng Hua
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Tor Sporsem,Guangcheng Hua,gwendolyn lin,Nur Mamat,"21/14,21/6",Tor Sporsem,Guangcheng Hua
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,,Adrian Bruaset,,Erik Winger,"21/17,21/10",Adrian Bruaset,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,,Erik Winger,,Jan Aage Nyborg,"21/17,21/19",Erik Winger,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,,Adrian Bruaset,,Egil Svinsaas,"21/7,21/16",Adrian Bruaset,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,,Adrian Bruaset,,Erik Winger,"21/17,21/10",Adrian Bruaset,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,,Erik Winger,,Jan Aage Nyborg,"21/17,21/19",Erik Winger,
-2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,,Adrian Bruaset,,Egil Svinsaas,"21/7,21/16",Adrian Bruaset,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Petter Svendsen,,Beda Büchel,"21/17,21/19",Petter Svendsen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Petter Svendsen,,Amund Skavhaug,"21/19,17/21,21/14",Petter Svendsen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Beda Büchel,,Andreas Stenhaug,"21/17,21/15",Beda Büchel,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Rune Oterhals,,Even Langås Kvam,"21/13,21/10",Rune Oterhals,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Petter Svendsen,,Even Langås Kvam,"19/21,21/13,21/11",Petter Svendsen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Petter Svendsen,,Rune Oterhals,"21/13,21/17",Petter Svendsen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Amund Skavhaug,,Håkon Skogland Halvorsen,"18/21,21/19,21/13",Amund Skavhaug,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Håkon Skogland Halvorsen,,Xuan Thong Nguyen,"21/7,25/23",Håkon Skogland Halvorsen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Amund Skavhaug,,Xuan Thong Nguyen,"21/16,21/16",Amund Skavhaug,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Beda Büchel,,Torbjørn Nilsen,"25/23,21/17",Beda Büchel,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Åsmund Oma,,Torbjørn Nilsen,"21/14,21/7",Åsmund Oma,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Beda Büchel,,Åsmund Oma,"23/21,21/16",Beda Büchel,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Fredrik Skånøy,,Egil Johansen,"16/21,23/21,21/16",Fredrik Skånøy,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Egil Johansen,,Andreas Stenhaug,"21/19,19/21,21/18",Egil Johansen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herresingle,,Andreas Stenhaug,,Fredrik Skånøy,"21/13,21/23,21/17",Andreas Stenhaug,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Mari Helene Bøe,,Kathrine Sellevoll,"21/13,21/12",Mari Helene Bøe,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Karoline Lerengen,,Andrea Løvold,"21/13,21/14",Karoline Lerengen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Mari Helene Bøe,,Sara Hvidsten,"21/14,21/18",Mari Helene Bøe,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Sara Hvidsten,,Andrea Løvold,"17/21,21/6,21/18",Sara Hvidsten,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Mari Helene Bøe,,Karoline Lerengen,"21/9,19/21,21/10",Mari Helene Bøe,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Sara Hvidsten,,Karoline Lerengen,"16/21,21/14,21/19",Sara Hvidsten,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Mari Helene Bøe,,Andrea Løvold,"21/4,21/16",Mari Helene Bøe,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Elisabeth Thrane,,Nordis Østerås Sandberg,"21/9,21/9",Elisabeth Thrane,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Kathrine Sellevoll,,Helle Sofie Sagøy,"21/7,21/3",Kathrine Sellevoll,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damesingle,,Kathrine Sellevoll,,Nordis Østerås Sandberg,"21/14,21/6",Kathrine Sellevoll,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Rune Oterhals,Petter Svendsen,Beda Büchel,Egil Johansen,"21/19,19/21,21/15",Rune Oterhals,Petter Svendsen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Torbjørn Nilsen,Åsmund Oma,Amund Skavhaug,Robert Barø,"16/21,21/16,21/16",Torbjørn Nilsen,Åsmund Oma
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Rune Oterhals,Petter Svendsen,Torbjørn Nilsen,Åsmund Oma,"21/11,11/21,21/17",Rune Oterhals,Petter Svendsen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Rune Oterhals,Petter Svendsen,Amund Skavhaug,Robert Barø,"21/19,21/17",Rune Oterhals,Petter Svendsen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Fredrik Skånøy,Oddbjørn Svinsås,Thomas Agung D. A. Thrane,Bård Thrane,"21/10,20/22,21/18",Fredrik Skånøy,Oddbjørn Svinsås
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Beda Büchel,Egil Johansen,Andreas Stenhaug,Håkon Skogland Halvorsen,"21/18,21/17",Beda Büchel,Egil Johansen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Beda Büchel,Egil Johansen,Fredrik Skånøy,Oddbjørn Svinsås,"23/21,21/12",Beda Büchel,Egil Johansen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Andreas Stenhaug,Håkon Skogland Halvorsen,Thomas Agung D. A. Thrane,Bård Thrane,"18/21,21/18,21/11",Andreas Stenhaug,Håkon Skogland Halvorsen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Andreas Stenhaug,Håkon Skogland Halvorsen,Fredrik Skånøy,Oddbjørn Svinsås,"21/19,14/21,21/19",Andreas Stenhaug,Håkon Skogland Halvorsen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Herredouble,Beda Büchel,Egil Johansen,Thomas Agung D. A. Thrane,Bård Thrane,"21/12,21/18",Beda Büchel,Egil Johansen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damedouble,Kathrine Sellevoll,Mari Helene Bøe,Oda Lauten,Patricia Ysabel Sosa,"21/6,21/5",Kathrine Sellevoll,Mari Helene Bøe
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damedouble,Sara Hvidsten,Elisabeth Thrane,Karoline Lerengen,Andrea Løvold,"18/21,21/14,21/19",Sara Hvidsten,Elisabeth Thrane
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damedouble,Kathrine Sellevoll,Mari Helene Bøe,Sara Hvidsten,Elisabeth Thrane,"21/13,21/16",Kathrine Sellevoll,Mari Helene Bøe
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damedouble,Karoline Lerengen,Andrea Løvold,Oda Lauten,Patricia Ysabel Sosa,"21/16,21/11",Karoline Lerengen,Andrea Løvold
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damedouble,Kathrine Sellevoll,Mari Helene Bøe,Karoline Lerengen,Andrea Løvold,"21/10,21/16",Kathrine Sellevoll,Mari Helene Bøe
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Damedouble,Sara Hvidsten,Elisabeth Thrane,Oda Lauten,Patricia Ysabel Sosa,"21/9,21/6",Sara Hvidsten,Elisabeth Thrane
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Mixeddouble,Rune Oterhals,Kathrine Sellevoll,Karoline Lerengen,Fredrik Skånøy,"18/21,21/12,21/18",Rune Oterhals,Kathrine Sellevoll
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Mixeddouble,Åsmund Oma,Mari Helene Bøe,Karoline Lerengen,Fredrik Skånøy,"21/16,21/12",Åsmund Oma,Mari Helene Bøe
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN A,Mixeddouble,Åsmund Oma,Mari Helene Bøe,Rune Oterhals,Kathrine Sellevoll,"21/10,17/21,21/8",Åsmund Oma,Mari Helene Bøe
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Bård Thrane,,Oddbjørn Svinsås,"21/9,21/17",Bård Thrane,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Bård Thrane,,Remi André Martinsen,"21/12,21/12",Bård Thrane,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Remi André Martinsen,,Mikael Grande,"21/13,21/15",Remi André Martinsen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Bård Thrane,,Mikael Grande,"21/11,21/13",Bård Thrane,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Thomas Agung D. A. Thrane,,Ruben Edna,"21/18,22/20",Thomas Agung D. A. Thrane,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Oddbjørn Svinsås,,Ruben Edna,"21/10,21/16",Oddbjørn Svinsås,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN B,Herresingle,,Oddbjørn Svinsås,,Thomas Agung D. A. Thrane,"21/12,21/19",Oddbjørn Svinsås,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Sebastian Schoder Moreno,,Tor Sporsem,"21/12,21/11",Sebastian Schoder Moreno,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Tor Sporsem,,Daniel Groos,"24/22,22/20",Tor Sporsem,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Sebastian Schoder Moreno,,Robert Barø,"21/19,11/21,21/14",Sebastian Schoder Moreno,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Daniel Groos,,Lars Erik Junge,"21/18,21/16",Daniel Groos,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Robert Barø,,Guangcheng Hua,"21/13,21/14",Robert Barø,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Sebastian Schoder Moreno,,David Wu,"21/12,21/13",Sebastian Schoder Moreno,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Tor Sporsem,,Mohana Rajpalke,"21/12,21/17",Tor Sporsem,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Mohana Rajpalke,,Sulalit Bandyopadhyay,"21/0,21/0",Mohana Rajpalke,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Tor Sporsem,,Sulalit Bandyopadhyay,"21/8,21/12",Tor Sporsem,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Runar Jenssen,,Paul-Johan Gustad,"21/16,21/11",Runar Jenssen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Lars Erik Junge,,Runar Jenssen,"21/18,21/17",Lars Erik Junge,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Lars Erik Junge,,Paul-Johan Gustad,"20/22,21/14,21/14",Lars Erik Junge,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Daniel Groos,,Andreas Lønes,"21/17,21/11",Daniel Groos,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Daniel Groos,,Ernst Torsgård,"22/17,20/22,19/12",Daniel Groos,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Andreas Lønes,,Ernst Torsgård,"21/14,15/21,21/16",Andreas Lønes,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Guangcheng Hua,,Bhushan Taskar,"21/13,21/16",Guangcheng Hua,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Guangcheng Hua,,Lars Kåre Gjønnes,"17/21,21/11,21/15",Guangcheng Hua,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Lars Kåre Gjønnes,,Bhushan Taskar,"21/7,21/6",Lars Kåre Gjønnes,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Lasse Henriksen,,Andreas Stensbye,"21/11,18/21,21/13",Lasse Henriksen,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Robert Barø,,Andreas Stensbye,"21/4,21/4",Robert Barø,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Robert Barø,,Lasse Henriksen,"21/10,21/5",Robert Barø,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,David Wu,,Svend-Peder Oseth,"21/19,23/21",David Wu,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,David Wu,,Ragnar Bråstein,"21/18,21/8",David Wu,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Svend-Peder Oseth,,Ragnar Bråstein,"21/15,21/17",Svend-Peder Oseth,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Shareq Mohd Nazir,,Roald Rødberg,"21/0,21/0",Shareq Mohd Nazir,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Sebastian Schoder Moreno,,Roald Rødberg,"21/15,21/16",Sebastian Schoder Moreno,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herresingle,,Sebastian Schoder Moreno,,Shareq Mohd Nazir,"13/21,21/17,21/16",Sebastian Schoder Moreno,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Annagha Mital,,Patricia Ysabel Sosa,"21/9,21/11",Annagha Mital,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Helene Winger,,Oda Lauten,"21/13,21/13",Helene Winger,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Helene Winger,,Angelika Grande,"21/14,21/8",Helene Winger,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Oda Lauten,,Patricia Ysabel Sosa,"21/18,12/21,22/20",Oda Lauten,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Annagha Mital,,Helene Winger,"21/15,21/15",Annagha Mital,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Oda Lauten,,Angelika Grande,"21/13,21/3",Oda Lauten,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Helene Winger,,Patricia Ysabel Sosa,"21/16,22/20",Helene Winger,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Annagha Mital,,Angelika Grande,"21/5,21/3",Annagha Mital,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Oda Lauten,,Annagha Mital,"19/21,21/16,21/16",Oda Lauten,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Damesingle,,Patricia Ysabel Sosa,,Angelika Grande,"21/9,15/21,21/10",Patricia Ysabel Sosa,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Tor Sporsem,Guangcheng Hua,Ernst Torsgård,Roald Rødberg,"21/11,21/12",Tor Sporsem,Guangcheng Hua
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Ernst Torsgård,Roald Rødberg,Ruben Edna,Runar Jenssen,"21/14,18/21,21/14",Ernst Torsgård,Roald Rødberg
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Tor Sporsem,Guangcheng Hua,Nordis Østerås Sandberg,Mikael Grande,"21/7,21/12",Tor Sporsem,Guangcheng Hua
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Andreas Lønes,Svend-Peder Oseth,"21/17,21/17",Erik Winger,Jan Aage Nyborg
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Ruben Edna,Runar Jenssen,Erik Winger,Jan Aage Nyborg,"21/13,21/13",Ruben Edna,Runar Jenssen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Ruben Edna,Runar Jenssen,Andreas Lønes,Svend-Peder Oseth,"21/14,22/20",Ruben Edna,Runar Jenssen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Shareq Mohd Nazir,Mohana Rajpalke,David Wu,Bhushan Taskar,"17/21,21/11,21/11",Shareq Mohd Nazir,Mohana Rajpalke
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Ernst Torsgård,Roald Rødberg,David Wu,Bhushan Taskar,"27/25,21/15",Ernst Torsgård,Roald Rødberg
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Ernst Torsgård,Roald Rødberg,Shareq Mohd Nazir,Mohana Rajpalke,"21/16,21/19",Ernst Torsgård,Roald Rødberg
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Nordis Østerås Sandberg,Mikael Grande,Faheem Ali,Sulalit Bandyopadhyay,"21/14,26/24",Nordis Østerås Sandberg,Mikael Grande
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Egil Svinsaas,Tore Suul Grande,Faheem Ali,Sulalit Bandyopadhyay,"21/19,21/14",Egil Svinsaas,Tore Suul Grande
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Nordis Østerås Sandberg,Mikael Grande,Egil Svinsaas,Tore Suul Grande,"21/9,21/12",Nordis Østerås Sandberg,Mikael Grande
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Lars Kåre Gjønnes,Even Langås Kvam,gwendolyn lin,Nur Mamat,"21/2,21/9",Lars Kåre Gjønnes,Even Langås Kvam
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Tor Sporsem,Guangcheng Hua,Lars Kåre Gjønnes,Even Langås Kvam,"26/24,21/13",Tor Sporsem,Guangcheng Hua
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Herredouble,Tor Sporsem,Guangcheng Hua,gwendolyn lin,Nur Mamat,"21/14,21/6",Tor Sporsem,Guangcheng Hua
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Bård Thrane,Elisabeth Thrane,Annagha Mital,Sebastian Schoder Moreno,"21/16,21/19",Bård Thrane,Elisabeth Thrane
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Annagha Mital,Sebastian Schoder Moreno,Adrian Bruaset,Helene Winger,"21/19,21/12",Annagha Mital,Sebastian Schoder Moreno
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Bård Thrane,Elisabeth Thrane,Angelika Grande,Tore Suul Grande,"21/9,21/6",Bård Thrane,Elisabeth Thrane
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Daniel Groos,Patricia Ysabel Sosa,MANIKANDAN PALANICHAMY,gwendolyn lin,"21/19,21/12",Daniel Groos,Patricia Ysabel Sosa
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Bård Thrane,Elisabeth Thrane,Daniel Groos,Patricia Ysabel Sosa,"21/11,21/5",Bård Thrane,Elisabeth Thrane
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,MANIKANDAN PALANICHAMY,gwendolyn lin,Angelika Grande,Tore Suul Grande,"21/19,21/12",MANIKANDAN PALANICHAMY,gwendolyn lin
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Daniel Groos,Patricia Ysabel Sosa,Angelika Grande,Tore Suul Grande,"21/9,21/16",Daniel Groos,Patricia Ysabel Sosa
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Bård Thrane,Elisabeth Thrane,MANIKANDAN PALANICHAMY,gwendolyn lin,"21/6,21/11",Bård Thrane,Elisabeth Thrane
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Xuan Thong Nguyen,Theresa Nguyen,Sulalit Bandyopadhyay,Nur Mamat,"21/19,21/15",Xuan Thong Nguyen,Theresa Nguyen
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Adrian Bruaset,Helene Winger,Xuan Thong Nguyen,Theresa Nguyen,"21/18,21/13",Adrian Bruaset,Helene Winger
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Adrian Bruaset,Helene Winger,Sulalit Bandyopadhyay,Nur Mamat,"21/9,21/18",Adrian Bruaset,Helene Winger
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Andreas Lønes,Oda Lauten,Nordis Østerås Sandberg,Runar Jenssen,"21/16,21/19",Andreas Lønes,Oda Lauten
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Annagha Mital,Sebastian Schoder Moreno,Andreas Lønes,Oda Lauten,"19/21,21/14,21/6",Annagha Mital,Sebastian Schoder Moreno
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN C,Mixeddouble,Annagha Mital,Sebastian Schoder Moreno,Nordis Østerås Sandberg,Runar Jenssen,"21/9,21/15",Annagha Mital,Sebastian Schoder Moreno
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,Herresingle,,Adrian Bruaset,,Erik Winger,"21/17,21/10",Adrian Bruaset,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,Herresingle,,Erik Winger,,Jan Aage Nyborg,"21/17,21/19",Erik Winger,
+2015/2016,NTNUI NTNUI Open 2016,04.03.2016,SEN D,Herresingle,,Adrian Bruaset,,Egil Svinsaas,"21/7,21/16",Adrian Bruaset,

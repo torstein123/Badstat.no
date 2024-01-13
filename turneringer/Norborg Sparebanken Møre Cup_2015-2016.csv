@@ -1,238 +1,186 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Ørjan Emil Strand,Tor Stenvaag,"21/12,21/4",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Rune Enoksen,Øyvind Støylen,"21/12,12/21,21/15",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Ørjan Emil Strand,Tor Stenvaag,"21/18,21/17",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Rune Enoksen,Øyvind Støylen,"21/12,21/15",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Per Ivar Furholm,"Runar Tandstad, ikke i bruk","21/14,21/15",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Ørjan Emil Strand,Tor Stenvaag,Rune Enoksen,Øyvind Støylen,"23/21,21/19",Ørjan Emil Strand,Tor Stenvaag
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Randi Ulla Nogva,Trine Sperre,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/15,21/16",Randi Ulla Nogva,Trine Sperre
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Randi Ulla Nogva,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/12",Randi Ulla Nogva,Trine Sperre
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/14,23/21",Gunn Fiskergaard,Sissel W. Schmidt
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Runar Tandstad,"19/21,21/19,21/17",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Runar Tandstad,,Daniel Ask,"16/21,23/21,24/22",Runar Tandstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Sander Espeseth,"21/14,21/10",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Runar Tandstad,,Glenn Humlen,"21/13,21/9",Runar Tandstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Sander Espeseth,,Glenn Humlen,"22/24,21/18,21/7",Sander Espeseth,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Runar Tandstad,,Sander Espeseth,"21/10,21/19",Runar Tandstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Daniel Ask,,Erik Winger,"21/9,21/12",Daniel Ask,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Kjetil Knutsen,"21/17,21/16",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Erik Winger,"21/10,21/11",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Daniel Ask,,Kjetil Knutsen,"21/5,21/11",Daniel Ask,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Kjetil Knutsen,,Erik Winger,"21/10,21/12",Kjetil Knutsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Daniel Ask,"21/19,21/18",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Runar Tandstad,"19/21,21/19,21/17",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Runar Tandstad,,Daniel Ask,"16/21,23/21,24/22",Runar Tandstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Sander Espeseth,"21/14,21/10",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Runar Tandstad,,Glenn Humlen,"21/13,21/9",Runar Tandstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Sander Espeseth,,Glenn Humlen,"22/24,21/18,21/7",Sander Espeseth,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Runar Tandstad,,Sander Espeseth,"21/10,21/19",Runar Tandstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Daniel Ask,,Erik Winger,"21/9,21/12",Daniel Ask,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Kjetil Knutsen,"21/17,21/16",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Erik Winger,"21/10,21/11",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Daniel Ask,,Kjetil Knutsen,"21/5,21/11",Daniel Ask,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Kjetil Knutsen,,Erik Winger,"21/10,21/12",Kjetil Knutsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,,Per Gunnar Søvik,,Daniel Ask,"21/19,21/18",Per Gunnar Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Adrian Bruaset,Kjetil Knutsen,Jan Aage Nyborg,Erik Winger,"23/21,22/20",Adrian Bruaset,Kjetil Knutsen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Sander Espeseth,Per Gunnar Søvik,Daniel Ask,Glenn Humlen,"9/21,21/13,23/21",Sander Espeseth,Per Gunnar Søvik
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Daniel Ask,Glenn Humlen,Jan Aage Nyborg,Erik Winger,"17/21,21/16,21/15",Daniel Ask,Glenn Humlen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Sander Espeseth,Per Gunnar Søvik,Adrian Bruaset,Kjetil Knutsen,"21/16,21/12",Sander Espeseth,Per Gunnar Søvik
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Sander Espeseth,Per Gunnar Søvik,Jan Aage Nyborg,Erik Winger,"21/15,21/18",Sander Espeseth,Per Gunnar Søvik
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Daniel Ask,Glenn Humlen,Adrian Bruaset,Kjetil Knutsen,"21/11,21/8",Daniel Ask,Glenn Humlen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Ørjan Emil Strand,Tor Stenvaag,"21/12,21/4",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Rune Enoksen,Øyvind Støylen,"21/12,12/21,21/15",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Ørjan Emil Strand,Tor Stenvaag,"21/18,21/17",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Rune Enoksen,Øyvind Støylen,"21/12,21/15",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Per Ivar Furholm,"Runar Tandstad, ikke i bruk","21/14,21/15",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Ørjan Emil Strand,Tor Stenvaag,Rune Enoksen,Øyvind Støylen,"23/21,21/19",Ørjan Emil Strand,Tor Stenvaag
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Randi Ulla Nogva,Trine Sperre,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/15,21/16",Randi Ulla Nogva,Trine Sperre
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Randi Ulla Nogva,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/12",Randi Ulla Nogva,Trine Sperre
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/14,23/21",Gunn Fiskergaard,Sissel W. Schmidt
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,,Øygunn Varpe,,Amalie Berstad,"21/17,21/16",Øygunn Varpe,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,,Karoline Hegseth Nordland,,Øygunn Varpe,"21/6,21/4",Karoline Hegseth Nordland,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,,Karoline Hegseth Nordland,,Amalie Berstad,"21/4,21/5",Karoline Hegseth Nordland,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,,Øygunn Varpe,,Amalie Berstad,"21/17,21/16",Øygunn Varpe,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,,Karoline Hegseth Nordland,,Øygunn Varpe,"21/6,21/4",Karoline Hegseth Nordland,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,,Karoline Hegseth Nordland,,Amalie Berstad,"21/4,21/5",Karoline Hegseth Nordland,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Øygunn Varpe,Malin Uggedal,Amalie Berstad,Andrea Marie Engeseth,"21/19,22/20",Øygunn Varpe,Malin Uggedal
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Karoline Hegseth Nordland,Helene Winger,Øygunn Varpe,Malin Uggedal,"21/15,21/17",Karoline Hegseth Nordland,Helene Winger
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Karoline Hegseth Nordland,Helene Winger,Amalie Berstad,Andrea Marie Engeseth,"21/11,21/7",Karoline Hegseth Nordland,Helene Winger
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,,Heidi Hartmann,,Ragnhild Stenvaag,"21/10,21/14",Heidi Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,,Heidi Hartmann,,Eirik Tresselt Støylen,"21/12,21/14",Heidi Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,,Ragnhild Stenvaag,,Eirik Tresselt Støylen,"9/21,21/15,21/15",Ragnhild Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,,Heidi Hartmann,,Ragnhild Stenvaag,"21/10,21/14",Heidi Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,,Heidi Hartmann,,Eirik Tresselt Støylen,"21/12,21/14",Heidi Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,,Ragnhild Stenvaag,,Eirik Tresselt Støylen,"9/21,21/15,21/15",Ragnhild Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Ørjan Emil Strand,Tor Stenvaag,"21/12,21/4",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Rune Enoksen,Øyvind Støylen,"21/12,12/21,21/15",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Ørjan Emil Strand,Tor Stenvaag,"21/18,21/17",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Rune Enoksen,Øyvind Støylen,"21/12,21/15",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Lars Valentin,Thomas Pedersen,Per Ivar Furholm,"Runar Tandstad, ikke i bruk","21/14,21/15",Lars Valentin,Thomas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Ørjan Emil Strand,Tor Stenvaag,Rune Enoksen,Øyvind Støylen,"23/21,21/19",Ørjan Emil Strand,Tor Stenvaag
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Randi Ulla Nogva,Trine Sperre,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/15,21/16",Randi Ulla Nogva,Trine Sperre
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Randi Ulla Nogva,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/12",Randi Ulla Nogva,Trine Sperre
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/14,23/21",Gunn Fiskergaard,Sissel W. Schmidt
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Martin Stene Olsen,,Tarjei Strand,"21/3,21/6",Martin Stene Olsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Peder Uggedal Søvik,,William Valentin,"21/17,17/21,21/19",Peder Uggedal Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,William Valentin,,Tarjei Strand,"21/14,21/11",William Valentin,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Martin Stene Olsen,,Peder Uggedal Søvik,"21/14,21/11",Martin Stene Olsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Tarjei Strand,,Peder Uggedal Søvik,"22/20,18/21,21/17",Tarjei Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Martin Stene Olsen,,William Valentin,"21/10,21/4",Martin Stene Olsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Martin Stene Olsen,,Tarjei Strand,"21/3,21/6",Martin Stene Olsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Peder Uggedal Søvik,,William Valentin,"21/17,17/21,21/19",Peder Uggedal Søvik,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,William Valentin,,Tarjei Strand,"21/14,21/11",William Valentin,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Martin Stene Olsen,,Peder Uggedal Søvik,"21/14,21/11",Martin Stene Olsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Tarjei Strand,,Peder Uggedal Søvik,"22/20,18/21,21/17",Tarjei Strand,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Martin Stene Olsen,,William Valentin,"21/10,21/4",Martin Stene Olsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Sofie Steinsbu,,Andrea Ulla Nogva,"17/21,21/13,21/16",Sofie Steinsbu,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Ronja Hartmann,,Sofie Steinsbu,"21/14,21/7",Ronja Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Ronja Hartmann,,Andrea Ulla Nogva,"21/13,21/15",Ronja Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Sofie Steinsbu,,Ida-Marie Midtlid,"21/17,21/13",Sofie Steinsbu,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Ronja Hartmann,,Ida-Marie Midtlid,"21/12,21/7",Ronja Hartmann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,,Andrea Ulla Nogva,,Ida-Marie Midtlid,"21/11,21/19",Andrea Ulla Nogva,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Ronja Hartmann,Andrea Ulla Nogva,Ida-Marie Midtlid,Sofie Steinsbu,"21/10,21/7",Ronja Hartmann,Andrea Ulla Nogva
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,Marius Aleksander Bye,,Heidrun Ervik,"21/18,19/21,21/4",Marius Aleksander Bye,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,August Welle Bay,,Jonas Pedersen,"21/11,17/21,21/11",August Welle Bay,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,Jonas Pedersen,,Marius Aleksander Bye,"21/13,21/13",Jonas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,Jonas Pedersen,,Heidrun Ervik,"21/14,21/9",Jonas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,August Welle Bay,,Heidrun Ervik,"21/8,21/16",August Welle Bay,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,August Welle Bay,,Marius Aleksander Bye,"21/11,21/13",August Welle Bay,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,Marius Aleksander Bye,,Heidrun Ervik,"21/18,19/21,21/4",Marius Aleksander Bye,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,August Welle Bay,,Jonas Pedersen,"21/11,17/21,21/11",August Welle Bay,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,Jonas Pedersen,,Marius Aleksander Bye,"21/13,21/13",Jonas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,Jonas Pedersen,,Heidrun Ervik,"21/14,21/9",Jonas Pedersen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,August Welle Bay,,Heidrun Ervik,"21/8,21/16",August Welle Bay,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,,August Welle Bay,,Marius Aleksander Bye,"21/11,21/13",August Welle Bay,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Heidrun Ervik,Jonas Pedersen,Heidi Hartmann,Ragnhild Stenvaag,"22/20,21/17",Heidrun Ervik,Jonas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Heidi Hartmann,Ragnhild Stenvaag,Marius Aleksander Bye,Eirik Tresselt Støylen,"21/10,21/13",Heidi Hartmann,Ragnhild Stenvaag
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Heidrun Ervik,Jonas Pedersen,Marius Aleksander Bye,Eirik Tresselt Støylen,"18/21,23/21,22/20",Heidrun Ervik,Jonas Pedersen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Gard Vik Langhammer,"21/15,21/17",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Knut Hermann Stenvaag,"21/8,21/6",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Gard Vik Langhammer,,Trygve Gulbrandsen,"21/7,11/21,21/13",Gard Vik Langhammer,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Gard Vik Langhammer,,Eskil Styve,"21/13,21/13",Gard Vik Langhammer,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Eskil Styve,"21/12,21/17",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Gard Vik Langhammer,"21/13,21/15",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Trygve Gulbrandsen,,Henrik Welle Bay,"21/6,21/19",Trygve Gulbrandsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Knut Hermann Stenvaag,,Andri Snær Stefansson,"21/13,21/18",Knut Hermann Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Knut Hermann Stenvaag,,Henrik Welle Bay,"21/6,21/13",Knut Hermann Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/9,21/11",Trygve Gulbrandsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Trygve Gulbrandsen,,Knut Hermann Stenvaag,"21/17,21/14",Trygve Gulbrandsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Andri Snær Stefansson,,Henrik Welle Bay,"21/15,21/17",Andri Snær Stefansson,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Gard Vik Langhammer,"21/15,21/17",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Knut Hermann Stenvaag,"21/8,21/6",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Gard Vik Langhammer,,Trygve Gulbrandsen,"21/7,11/21,21/13",Gard Vik Langhammer,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Gard Vik Langhammer,,Eskil Styve,"21/13,21/13",Gard Vik Langhammer,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Eskil Styve,"21/12,21/17",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Nikolai Hagemann,,Gard Vik Langhammer,"21/13,21/15",Nikolai Hagemann,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Trygve Gulbrandsen,,Henrik Welle Bay,"21/6,21/19",Trygve Gulbrandsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Knut Hermann Stenvaag,,Andri Snær Stefansson,"21/13,21/18",Knut Hermann Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Knut Hermann Stenvaag,,Henrik Welle Bay,"21/6,21/13",Knut Hermann Stenvaag,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/9,21/11",Trygve Gulbrandsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Trygve Gulbrandsen,,Knut Hermann Stenvaag,"21/17,21/14",Trygve Gulbrandsen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Andri Snær Stefansson,,Henrik Welle Bay,"21/15,21/17",Andri Snær Stefansson,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Synne Steinsbu,,Marte Hjelle,"21/17,11/21,21/18",Synne Steinsbu,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Andrea Heggstad,,Viktoria Humlen,"21/15,21/11",Andrea Heggstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Viktoria Humlen,,Marte Hjelle,"21/11,21/14",Viktoria Humlen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Andrea Heggstad,,Synne Steinsbu,"21/6,21/3",Andrea Heggstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Viktoria Humlen,,Synne Steinsbu,"21/15,21/8",Viktoria Humlen,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,,Andrea Heggstad,,Marte Hjelle,"21/6,21/3",Andrea Heggstad,
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Eskil Styve,Knut Hermann Stenvaag,Andri Snær Stefansson,Peder Uggedal Søvik,"21/17,21/9",Eskil Styve,Knut Hermann Stenvaag
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Trygve Gulbrandsen,Gard Vik Langhammer,William Valentin,Tarjei Strand,"21/10,21/5",Trygve Gulbrandsen,Gard Vik Langhammer
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Nikolai Hagemann,Martin Stene Olsen,Trygve Gulbrandsen,Gard Vik Langhammer,"21/12,21/11",Nikolai Hagemann,Martin Stene Olsen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Nikolai Hagemann,Martin Stene Olsen,William Valentin,Tarjei Strand,"21/2,21/11",Nikolai Hagemann,Martin Stene Olsen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Trygve Gulbrandsen,Gard Vik Langhammer,Eskil Styve,Knut Hermann Stenvaag,"21/15,21/11",Trygve Gulbrandsen,Gard Vik Langhammer
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Andri Snær Stefansson,Peder Uggedal Søvik,William Valentin,Tarjei Strand,"17/21,21/16,21/14",Andri Snær Stefansson,Peder Uggedal Søvik
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Nikolai Hagemann,Martin Stene Olsen,Eskil Styve,Knut Hermann Stenvaag,"21/19,21/11",Nikolai Hagemann,Martin Stene Olsen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Trygve Gulbrandsen,Gard Vik Langhammer,Andri Snær Stefansson,Peder Uggedal Søvik,"21/11,21/11",Trygve Gulbrandsen,Gard Vik Langhammer
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Eskil Styve,Knut Hermann Stenvaag,William Valentin,Tarjei Strand,"21/8,22/20",Eskil Styve,Knut Hermann Stenvaag
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Nikolai Hagemann,Martin Stene Olsen,Andri Snær Stefansson,Peder Uggedal Søvik,"21/6,21/9",Nikolai Hagemann,Martin Stene Olsen
-2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Viktoria Humlen,Andrea Heggstad,Marte Hjelle,Synne Steinsbu,"21/10,21/7",Viktoria Humlen,Andrea Heggstad
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Thomas Pedersen,,Robert Sulebakk,"21/12,21/18",Thomas Pedersen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Robert Sulebakk,,Gunn Fiskergaard,"21/15,21/12",Robert Sulebakk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Thomas Pedersen,,Per Ivar Furholm,"21/11,21/14",Thomas Pedersen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Thomas Pedersen,,Rune Enoksen,"21/7,21/10",Thomas Pedersen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Robert Sulebakk,,Rune Enoksen,"21/12,21/14",Robert Sulebakk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Thomas Pedersen,,Tor Stenvaag,"21/9,21/9",Thomas Pedersen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Tor Stenvaag,,Rune Enoksen,"21/12,21/7",Tor Stenvaag,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Robert Sulebakk,,Thomas Pedersen,"20/22,21/18,21/18",Robert Sulebakk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Robert Sulebakk,,Tor Stenvaag,"21/16,21/14",Robert Sulebakk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Trine Sperre,,Gunn Fiskergaard,"21/18,21/16",Trine Sperre,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Gunn Fiskergaard,,Ørjan Emil Strand,"22/20,22/20",Gunn Fiskergaard,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Per Ivar Furholm,,Trine Sperre,"21/7,21/9",Per Ivar Furholm,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Ørjan Emil Strand,,Trine Sperre,"21/19,21/18",Ørjan Emil Strand,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Per Ivar Furholm,,Gunn Fiskergaard,"21/17,21/18",Per Ivar Furholm,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herresingle,,Per Ivar Furholm,,Ørjan Emil Strand,"21/15,21/14",Per Ivar Furholm,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herredouble,Lars Valentin,Thomas Pedersen,Ørjan Emil Strand,Tor Stenvaag,"21/12,21/4",Lars Valentin,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herredouble,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Rune Enoksen,Øyvind Støylen,"21/12,12/21,21/15",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herredouble,Per Ivar Furholm,"Runar Tandstad, ikke i bruk",Ørjan Emil Strand,Tor Stenvaag,"21/18,21/17",Per Ivar Furholm,"Runar Tandstad, ikke i bruk"
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herredouble,Lars Valentin,Thomas Pedersen,Rune Enoksen,Øyvind Støylen,"21/12,21/15",Lars Valentin,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herredouble,Lars Valentin,Thomas Pedersen,Per Ivar Furholm,"Runar Tandstad, ikke i bruk","21/14,21/15",Lars Valentin,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Herredouble,Ørjan Emil Strand,Tor Stenvaag,Rune Enoksen,Øyvind Støylen,"23/21,21/19",Ørjan Emil Strand,Tor Stenvaag
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Damedouble,Randi Ulla Nogva,Trine Sperre,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/15,21/16",Randi Ulla Nogva,Trine Sperre
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Damedouble,Randi Ulla Nogva,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/16,21/12",Randi Ulla Nogva,Trine Sperre
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Damedouble,Gunn Fiskergaard,Sissel W. Schmidt,Cecilie Welle Bay,Elisabeth Hjellegjerde Skog,"21/14,23/21",Gunn Fiskergaard,Sissel W. Schmidt
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Trine Sperre,Thomas Pedersen,Lars Valentin,Sissel W. Schmidt,"21/14,10/21,22/20",Trine Sperre,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Robert Sulebakk,Inger Margrethe Midtlid,Rune Enoksen,Cecilie Welle Bay,"21/18,14/21,21/13",Robert Sulebakk,Inger Margrethe Midtlid
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Trine Sperre,Thomas Pedersen,Per Ivar Furholm,Elisabeth Hjellegjerde Skog,"21/18,21/12",Trine Sperre,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Per Ivar Furholm,Elisabeth Hjellegjerde Skog,Rune Enoksen,Cecilie Welle Bay,"15/21,21/14,21/17",Per Ivar Furholm,Elisabeth Hjellegjerde Skog
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Trine Sperre,Thomas Pedersen,Rune Enoksen,Cecilie Welle Bay,"21/13,21/12",Trine Sperre,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Robert Sulebakk,Inger Margrethe Midtlid,Lars Valentin,Sissel W. Schmidt,"22/20,21/8",Robert Sulebakk,Inger Margrethe Midtlid
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Lars Valentin,Sissel W. Schmidt,Per Ivar Furholm,Elisabeth Hjellegjerde Skog,"21/13,21/16",Lars Valentin,Sissel W. Schmidt
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Lars Valentin,Sissel W. Schmidt,Rune Enoksen,Cecilie Welle Bay,"21/13,21/16",Lars Valentin,Sissel W. Schmidt
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Trine Sperre,Thomas Pedersen,Robert Sulebakk,Inger Margrethe Midtlid,"21/16,21/19",Trine Sperre,Thomas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN A,Mixeddouble,Robert Sulebakk,Inger Margrethe Midtlid,Per Ivar Furholm,Elisabeth Hjellegjerde Skog,"21/13,14/21,21/12",Robert Sulebakk,Inger Margrethe Midtlid
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Per Gunnar Søvik,,Runar Tandstad,"19/21,21/19,21/17",Per Gunnar Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Runar Tandstad,,Daniel Ask,"16/21,23/21,24/22",Runar Tandstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Per Gunnar Søvik,,Sander Espeseth,"21/14,21/10",Per Gunnar Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Runar Tandstad,,Glenn Humlen,"21/13,21/9",Runar Tandstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Sander Espeseth,,Glenn Humlen,"22/24,21/18,21/7",Sander Espeseth,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Runar Tandstad,,Sander Espeseth,"21/10,21/19",Runar Tandstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Daniel Ask,,Erik Winger,"21/9,21/12",Daniel Ask,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Per Gunnar Søvik,,Kjetil Knutsen,"21/17,21/16",Per Gunnar Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Per Gunnar Søvik,,Erik Winger,"21/10,21/11",Per Gunnar Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Daniel Ask,,Kjetil Knutsen,"21/5,21/11",Daniel Ask,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Kjetil Knutsen,,Erik Winger,"21/10,21/12",Kjetil Knutsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herresingle,,Per Gunnar Søvik,,Daniel Ask,"21/19,21/18",Per Gunnar Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herredouble,Adrian Bruaset,Kjetil Knutsen,Jan Aage Nyborg,Erik Winger,"23/21,22/20",Adrian Bruaset,Kjetil Knutsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herredouble,Sander Espeseth,Per Gunnar Søvik,Daniel Ask,Glenn Humlen,"9/21,21/13,23/21",Sander Espeseth,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herredouble,Daniel Ask,Glenn Humlen,Jan Aage Nyborg,Erik Winger,"17/21,21/16,21/15",Daniel Ask,Glenn Humlen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herredouble,Sander Espeseth,Per Gunnar Søvik,Adrian Bruaset,Kjetil Knutsen,"21/16,21/12",Sander Espeseth,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herredouble,Sander Espeseth,Per Gunnar Søvik,Jan Aage Nyborg,Erik Winger,"21/15,21/18",Sander Espeseth,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN B,Herredouble,Daniel Ask,Glenn Humlen,Adrian Bruaset,Kjetil Knutsen,"21/11,21/8",Daniel Ask,Glenn Humlen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Damesingle,,Øygunn Varpe,,Amalie Berstad,"21/17,21/16",Øygunn Varpe,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Damesingle,,Karoline Hegseth Nordland,,Øygunn Varpe,"21/6,21/4",Karoline Hegseth Nordland,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Damesingle,,Karoline Hegseth Nordland,,Amalie Berstad,"21/4,21/5",Karoline Hegseth Nordland,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Damedouble,Øygunn Varpe,Malin Uggedal,Amalie Berstad,Andrea Marie Engeseth,"21/19,22/20",Øygunn Varpe,Malin Uggedal
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Damedouble,Karoline Hegseth Nordland,Helene Winger,Øygunn Varpe,Malin Uggedal,"21/15,21/17",Karoline Hegseth Nordland,Helene Winger
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Damedouble,Karoline Hegseth Nordland,Helene Winger,Amalie Berstad,Andrea Marie Engeseth,"21/11,21/7",Karoline Hegseth Nordland,Helene Winger
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Malin Uggedal,Per Gunnar Søvik,Sander Espeseth,Anne-Marthe Espeseth,"21/16,21/14",Malin Uggedal,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Sander Espeseth,Anne-Marthe Espeseth,Øygunn Varpe,Adrian Bruaset,"21/15,19/21,21/18",Sander Espeseth,Anne-Marthe Espeseth
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Malin Uggedal,Per Gunnar Søvik,Helene Winger,Erik Winger,"21/16,21/18",Malin Uggedal,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Sander Espeseth,Anne-Marthe Espeseth,Jiaqi Lei,Kjetil Knutsen,"21/15,21/10",Sander Espeseth,Anne-Marthe Espeseth
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Helene Winger,Erik Winger,Jiaqi Lei,Kjetil Knutsen,"21/11,23/21",Helene Winger,Erik Winger
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Sander Espeseth,Anne-Marthe Espeseth,Helene Winger,Erik Winger,"8/21,21/16,21/14",Sander Espeseth,Anne-Marthe Espeseth
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Malin Uggedal,Per Gunnar Søvik,Amalie Berstad,Øyvind Støylen,"21/13,21/14",Malin Uggedal,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Øygunn Varpe,Adrian Bruaset,Karoline Hegseth Nordland,Jan Aage Nyborg,"21/17,18/21,21/17",Øygunn Varpe,Adrian Bruaset
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Malin Uggedal,Per Gunnar Søvik,Karoline Hegseth Nordland,Jan Aage Nyborg,"21/14,24/22",Malin Uggedal,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Øygunn Varpe,Adrian Bruaset,Amalie Berstad,Øyvind Støylen,"21/16,21/18",Øygunn Varpe,Adrian Bruaset
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Amalie Berstad,Øyvind Støylen,Karoline Hegseth Nordland,Jan Aage Nyborg,"21/16,9/21,21/15",Amalie Berstad,Øyvind Støylen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,SEN D,Mixeddouble,Malin Uggedal,Per Gunnar Søvik,Øygunn Varpe,Adrian Bruaset,"21/18,19/21,21/11",Malin Uggedal,Per Gunnar Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,Herresingle,,Heidi Hartmann,,Ragnhild Stenvaag,"21/10,21/14",Heidi Hartmann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,Herresingle,,Heidi Hartmann,,Eirik Tresselt Støylen,"21/12,21/14",Heidi Hartmann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U9 A,Herresingle,,Ragnhild Stenvaag,,Eirik Tresselt Støylen,"9/21,21/15,21/15",Ragnhild Stenvaag,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Herresingle,,Martin Stene Olsen,,Tarjei Strand,"21/3,21/6",Martin Stene Olsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Herresingle,,Peder Uggedal Søvik,,William Valentin,"21/17,17/21,21/19",Peder Uggedal Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Herresingle,,William Valentin,,Tarjei Strand,"21/14,21/11",William Valentin,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Herresingle,,Martin Stene Olsen,,Peder Uggedal Søvik,"21/14,21/11",Martin Stene Olsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Herresingle,,Tarjei Strand,,Peder Uggedal Søvik,"22/20,18/21,21/17",Tarjei Strand,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Herresingle,,Martin Stene Olsen,,William Valentin,"21/10,21/4",Martin Stene Olsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damesingle,,Sofie Steinsbu,,Andrea Ulla Nogva,"17/21,21/13,21/16",Sofie Steinsbu,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damesingle,,Ronja Hartmann,,Sofie Steinsbu,"21/14,21/7",Ronja Hartmann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damesingle,,Ronja Hartmann,,Andrea Ulla Nogva,"21/13,21/15",Ronja Hartmann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damesingle,,Sofie Steinsbu,,Ida-Marie Midtlid,"21/17,21/13",Sofie Steinsbu,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damesingle,,Ronja Hartmann,,Ida-Marie Midtlid,"21/12,21/7",Ronja Hartmann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damesingle,,Andrea Ulla Nogva,,Ida-Marie Midtlid,"21/11,21/19",Andrea Ulla Nogva,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Damedouble,Ronja Hartmann,Andrea Ulla Nogva,Ida-Marie Midtlid,Sofie Steinsbu,"21/10,21/7",Ronja Hartmann,Andrea Ulla Nogva
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Ronja Hartmann,Martin Stene Olsen,Sofie Steinsbu,Knut Hermann Stenvaag,"21/19,21/16",Ronja Hartmann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Ronja Hartmann,Martin Stene Olsen,Andrea Ulla Nogva,Tarjei Strand,"21/8,21/9",Ronja Hartmann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Sofie Steinsbu,Knut Hermann Stenvaag,William Valentin,Ida-Marie Midtlid,"16/21,21/18,21/15",Sofie Steinsbu,Knut Hermann Stenvaag
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Ronja Hartmann,Martin Stene Olsen,Eirik Tresselt Støylen,Ragnhild Stenvaag,"21/6,21/4",Ronja Hartmann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Sofie Steinsbu,Knut Hermann Stenvaag,Eirik Tresselt Støylen,Ragnhild Stenvaag,"21/12,21/6",Sofie Steinsbu,Knut Hermann Stenvaag
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Ronja Hartmann,Martin Stene Olsen,Sofie Steinsbu,Knut Hermann Stenvaag,"21/15,21/14",Ronja Hartmann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,William Valentin,Ida-Marie Midtlid,Peder Uggedal Søvik,Heidi Hartmann,"21/17,21/10",William Valentin,Ida-Marie Midtlid
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,Andrea Ulla Nogva,Tarjei Strand,Peder Uggedal Søvik,Heidi Hartmann,"19/21,21/18,21/19",Andrea Ulla Nogva,Tarjei Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 A,Mixeddouble,William Valentin,Ida-Marie Midtlid,Andrea Ulla Nogva,Tarjei Strand,"21/16,21/19",William Valentin,Ida-Marie Midtlid
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herresingle,,Marius Aleksander Bye,,Heidrun Ervik,"21/18,19/21,21/4",Marius Aleksander Bye,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herresingle,,August Welle Bay,,Jonas Pedersen,"21/11,17/21,21/11",August Welle Bay,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herresingle,,Jonas Pedersen,,Marius Aleksander Bye,"21/13,21/13",Jonas Pedersen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herresingle,,Jonas Pedersen,,Heidrun Ervik,"21/14,21/9",Jonas Pedersen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herresingle,,August Welle Bay,,Heidrun Ervik,"21/8,21/16",August Welle Bay,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herresingle,,August Welle Bay,,Marius Aleksander Bye,"21/11,21/13",August Welle Bay,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herredouble,Heidrun Ervik,Jonas Pedersen,Heidi Hartmann,Ragnhild Stenvaag,"22/20,21/17",Heidrun Ervik,Jonas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herredouble,Heidi Hartmann,Ragnhild Stenvaag,Marius Aleksander Bye,Eirik Tresselt Støylen,"21/10,21/13",Heidi Hartmann,Ragnhild Stenvaag
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U11 B,Herredouble,Heidrun Ervik,Jonas Pedersen,Marius Aleksander Bye,Eirik Tresselt Støylen,"18/21,23/21,22/20",Heidrun Ervik,Jonas Pedersen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Nikolai Hagemann,,Gard Vik Langhammer,"21/15,21/17",Nikolai Hagemann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Nikolai Hagemann,,Knut Hermann Stenvaag,"21/8,21/6",Nikolai Hagemann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Gard Vik Langhammer,,Trygve Gulbrandsen,"21/7,11/21,21/13",Gard Vik Langhammer,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Gard Vik Langhammer,,Eskil Styve,"21/13,21/13",Gard Vik Langhammer,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Nikolai Hagemann,,Eskil Styve,"21/12,21/17",Nikolai Hagemann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Nikolai Hagemann,,Gard Vik Langhammer,"21/13,21/15",Nikolai Hagemann,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Trygve Gulbrandsen,,Henrik Welle Bay,"21/6,21/19",Trygve Gulbrandsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Knut Hermann Stenvaag,,Andri Snær Stefansson,"21/13,21/18",Knut Hermann Stenvaag,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Knut Hermann Stenvaag,,Henrik Welle Bay,"21/6,21/13",Knut Hermann Stenvaag,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/9,21/11",Trygve Gulbrandsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Trygve Gulbrandsen,,Knut Hermann Stenvaag,"21/17,21/14",Trygve Gulbrandsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herresingle,,Andri Snær Stefansson,,Henrik Welle Bay,"21/15,21/17",Andri Snær Stefansson,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damesingle,,Synne Steinsbu,,Marte Hjelle,"21/17,11/21,21/18",Synne Steinsbu,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damesingle,,Andrea Heggstad,,Viktoria Humlen,"21/15,21/11",Andrea Heggstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damesingle,,Viktoria Humlen,,Marte Hjelle,"21/11,21/14",Viktoria Humlen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damesingle,,Andrea Heggstad,,Synne Steinsbu,"21/6,21/3",Andrea Heggstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damesingle,,Viktoria Humlen,,Synne Steinsbu,"21/15,21/8",Viktoria Humlen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damesingle,,Andrea Heggstad,,Marte Hjelle,"21/6,21/3",Andrea Heggstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Eskil Styve,Knut Hermann Stenvaag,Andri Snær Stefansson,Peder Uggedal Søvik,"21/17,21/9",Eskil Styve,Knut Hermann Stenvaag
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,William Valentin,Tarjei Strand,"21/10,21/5",Trygve Gulbrandsen,Gard Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Nikolai Hagemann,Martin Stene Olsen,Trygve Gulbrandsen,Gard Vik Langhammer,"21/12,21/11",Nikolai Hagemann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Nikolai Hagemann,Martin Stene Olsen,William Valentin,Tarjei Strand,"21/2,21/11",Nikolai Hagemann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,Eskil Styve,Knut Hermann Stenvaag,"21/15,21/11",Trygve Gulbrandsen,Gard Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Andri Snær Stefansson,Peder Uggedal Søvik,William Valentin,Tarjei Strand,"17/21,21/16,21/14",Andri Snær Stefansson,Peder Uggedal Søvik
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Nikolai Hagemann,Martin Stene Olsen,Eskil Styve,Knut Hermann Stenvaag,"21/19,21/11",Nikolai Hagemann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,Andri Snær Stefansson,Peder Uggedal Søvik,"21/11,21/11",Trygve Gulbrandsen,Gard Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Eskil Styve,Knut Hermann Stenvaag,William Valentin,Tarjei Strand,"21/8,22/20",Eskil Styve,Knut Hermann Stenvaag
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Herredouble,Nikolai Hagemann,Martin Stene Olsen,Andri Snær Stefansson,Peder Uggedal Søvik,"21/6,21/9",Nikolai Hagemann,Martin Stene Olsen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Damedouble,Viktoria Humlen,Andrea Heggstad,Marte Hjelle,Synne Steinsbu,"21/10,21/7",Viktoria Humlen,Andrea Heggstad
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Linnea Alvilde Espeseth,Nikolai Hagemann,Andrea Heggstad,Gard Vik Langhammer,"18/21,21/17,21/10",Linnea Alvilde Espeseth,Nikolai Hagemann
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Andrea Heggstad,Gard Vik Langhammer,Synne Steinsbu,Trygve Gulbrandsen,"21/11,21/16",Andrea Heggstad,Gard Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Andri Snær Stefansson,Marte Hjelle,Synne Steinsbu,Trygve Gulbrandsen,"21/17,15/21,21/16",Andri Snær Stefansson,Marte Hjelle
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Eskil Styve,Viktoria Humlen,Andri Snær Stefansson,Marte Hjelle,"18/21,21/11,21/7",Eskil Styve,Viktoria Humlen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Andrea Heggstad,Gard Vik Langhammer,Andri Snær Stefansson,Marte Hjelle,"21/13,21/6",Andrea Heggstad,Gard Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Eskil Styve,Viktoria Humlen,Synne Steinsbu,Trygve Gulbrandsen,"21/12,21/12",Eskil Styve,Viktoria Humlen
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Linnea Alvilde Espeseth,Nikolai Hagemann,Andri Snær Stefansson,Marte Hjelle,"21/10,21/5",Linnea Alvilde Espeseth,Nikolai Hagemann
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Andrea Heggstad,Gard Vik Langhammer,Eskil Styve,Viktoria Humlen,"21/12,20/22,21/14",Andrea Heggstad,Gard Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Linnea Alvilde Espeseth,Nikolai Hagemann,Eskil Styve,Viktoria Humlen,"21/12,21/10",Linnea Alvilde Espeseth,Nikolai Hagemann
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U13 A,Mixeddouble,Linnea Alvilde Espeseth,Nikolai Hagemann,Synne Steinsbu,Trygve Gulbrandsen,"21/6,21/11",Linnea Alvilde Espeseth,Nikolai Hagemann
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Linnea Alvilde Espeseth,,Jiaqi Lei,"21/7,21/6",Linnea Alvilde Espeseth,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Helene Winger,,Eira Vik Langhammer,"21/10,19/21,21/4",Helene Winger,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Helene Winger,,Jiaqi Lei,"21/5,21/4",Helene Winger,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Moana Vadseth Furholm,,Eira Vik Langhammer,"21/10,21/13",Moana Vadseth Furholm,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Helene Winger,,Moana Vadseth Furholm,"21/15,17/21,21/16",Helene Winger,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Linnea Alvilde Espeseth,,Eira Vik Langhammer,"21/11,21/15",Linnea Alvilde Espeseth,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Moana Vadseth Furholm,,Jiaqi Lei,"21/10,21/5",Moana Vadseth Furholm,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Eira Vik Langhammer,,Jiaqi Lei,"21/5,21/7",Eira Vik Langhammer,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Linnea Alvilde Espeseth,,Helene Winger,"23/21,21/19",Linnea Alvilde Espeseth,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U15 A,Damesingle,,Linnea Alvilde Espeseth,,Moana Vadseth Furholm,"27/25,21/10",Linnea Alvilde Espeseth,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Christian Asbjørnsen,,Vegard Strand,"21/10,21/16",Christian Asbjørnsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Vegard Strand,,Adrian Bruaset,"22/20,21/19",Vegard Strand,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Christian Asbjørnsen,,Alexander Rye,"21/13,21/5",Christian Asbjørnsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Alexander Rye,,Kristian Bondhus,"22/20,11/21,21/15",Alexander Rye,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Vegard Strand,,Kristian Bondhus,"21/15,21/17",Vegard Strand,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Vegard Strand,,Alexander Rye,"21/8,21/9",Vegard Strand,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Adrian Bruaset,,Magnus Farstad,"21/15,21/16",Adrian Bruaset,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Christian Asbjørnsen,,Markus Skauvik Veblungsnes,"21/0,21/2",Christian Asbjørnsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Christian Asbjørnsen,,Magnus Farstad,"21/6,21/5",Christian Asbjørnsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Adrian Bruaset,,Markus Skauvik Veblungsnes,"21/8,21/2",Adrian Bruaset,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Christian Asbjørnsen,,Adrian Bruaset,"21/18,21/16",Christian Asbjørnsen,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herresingle,,Magnus Farstad,,Markus Skauvik Veblungsnes,"21/18,21/8",Magnus Farstad,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damesingle,,Tuva Bjørbekk,,Tora Vik Langhammer,"17/21,21/14,21/14",Tuva Bjørbekk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damesingle,,Emma Søvik,,Andrea Marie Engeseth,"21/16,24/22",Emma Søvik,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damesingle,,Tora Vik Langhammer,,Emma Søvik,"21/18,24/22",Tora Vik Langhammer,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damesingle,,Tuva Bjørbekk,,Andrea Marie Engeseth,"21/9,21/7",Tuva Bjørbekk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damesingle,,Tuva Bjørbekk,,Emma Søvik,"21/13,21/5",Tuva Bjørbekk,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damesingle,,Tora Vik Langhammer,,Andrea Marie Engeseth,"21/6,21/23,21/13",Tora Vik Langhammer,
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herredouble,Kristian Bondhus,Markus Skauvik Veblungsnes,Magnus Farstad,Alexander Rye,"21/16,21/16",Kristian Bondhus,Markus Skauvik Veblungsnes
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herredouble,Christian Asbjørnsen,Vegard Strand,Kristian Bondhus,Markus Skauvik Veblungsnes,"21/2,21/9",Christian Asbjørnsen,Vegard Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Herredouble,Christian Asbjørnsen,Vegard Strand,Magnus Farstad,Alexander Rye,"21/7,21/5",Christian Asbjørnsen,Vegard Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Damedouble,Tuva Bjørbekk,Tora Vik Langhammer,Moana Vadseth Furholm,Eira Vik Langhammer,"21/18,21/18",Tuva Bjørbekk,Tora Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Emma Søvik,Ørjan Emil Strand,Kristian Bondhus,Andrea Marie Engeseth,"21/12,21/11",Emma Søvik,Ørjan Emil Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Emma Søvik,Ørjan Emil Strand,Moana Vadseth Furholm,Vegard Strand,"21/15,13/21,21/18",Emma Søvik,Ørjan Emil Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Christian Asbjørnsen,Tora Vik Langhammer,Moana Vadseth Furholm,Vegard Strand,"21/17,15/21,25/23",Christian Asbjørnsen,Tora Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Emma Søvik,Ørjan Emil Strand,Tuva Bjørbekk,Magnus Farstad,"21/15,21/18",Emma Søvik,Ørjan Emil Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Christian Asbjørnsen,Tora Vik Langhammer,Kristian Bondhus,Andrea Marie Engeseth,"21/19,21/14",Christian Asbjørnsen,Tora Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Kristian Bondhus,Andrea Marie Engeseth,Tuva Bjørbekk,Magnus Farstad,"21/18,21/23,21/15",Kristian Bondhus,Andrea Marie Engeseth
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Emma Søvik,Ørjan Emil Strand,Christian Asbjørnsen,Tora Vik Langhammer,"22/20,11/21,21/12",Emma Søvik,Ørjan Emil Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Moana Vadseth Furholm,Vegard Strand,Kristian Bondhus,Andrea Marie Engeseth,"22/20,21/14",Moana Vadseth Furholm,Vegard Strand
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Christian Asbjørnsen,Tora Vik Langhammer,Tuva Bjørbekk,Magnus Farstad,"21/9,21/12",Christian Asbjørnsen,Tora Vik Langhammer
+2015/2016,Norborg Sparebanken Møre Cup,14.11.2015,U17 A,Mixeddouble,Moana Vadseth Furholm,Vegard Strand,Tuva Bjørbekk,Magnus Farstad,"21/11,21/18",Moana Vadseth Furholm,Vegard Strand

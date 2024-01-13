@@ -1,436 +1,340 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"21/13,23/21",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dianne Christine Geronimo,,Linnea Nordnes Prestø,"21/15,21/17",Dianne Christine Geronimo,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Sara Buvik,"21/9,21/12",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Dianne Christine Geronimo,"21/16,16/21,21/17",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Linnea Nordnes Prestø,"21/5,21/15",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Sara Buvik,"21/13,21/15",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/7,21/14",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Sara Buvik,,Dianne Christine Geronimo,"21/13,21/19",Sara Buvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Sara Buvik,,Linnea Nordnes Prestø,"21/7,21/17",Sara Buvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Dianne Christine Geronimo,"21/10,21/7",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Leonard Meyer Nordnes,Sigve Hallager,"21/15,21/11",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Ole Petter Øren,Emil Pettersen,"21/14,21/11",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Ole Petter Øren,Emil Pettersen,"21/16,21/13,21/0",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Henrik Buvik,Benjamin Rølvåg,"21/14,21/9",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Leonard Meyer Nordnes,Sigve Hallager,Marius Sandvær,William R. Barø,"21/17,22/20",Leonard Meyer Nordnes,Sigve Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Leonard Meyer Nordnes,Sigve Hallager,Øyvind W. Selboe,Kristoffer Kielland Rædergård,"21/16,21/17",Leonard Meyer Nordnes,Sigve Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Øyvind W. Selboe,Kristoffer Kielland Rædergård,Marius Sandvær,William R. Barø,"18/21,21/14,21/16",Øyvind W. Selboe,Kristoffer Kielland Rædergård
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Barbro Johnsen,Linnea Nordnes Prestø,"21/15,21/8",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Sara Buvik,Ingvild Håland,Camilla Stokkaune,Dianne Christine Geronimo,"17/21,21/18,21/17",Sara Buvik,Ingvild Håland
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Barbro Johnsen,Linnea Nordnes Prestø,"21/10,21/13",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Sara Buvik,Ingvild Håland,"21/9,21/19",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Sara Buvik,Ingvild Håland,Barbro Johnsen,Linnea Nordnes Prestø,"21/18,21/7",Sara Buvik,Ingvild Håland
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Camilla Stokkaune,Dianne Christine Geronimo,"21/15,21/14",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Robert Barø,"21/16,21/18",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Ole Christoffer Olsen,"21/9,25/23",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Robert Barø,,Morten Langen,"21/12,21/17",Robert Barø,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Langen,,Erik Måøy,"21/12,24/22",Morten Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Robert Barø,,Erik Måøy,"21/13,21/15",Robert Barø,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Marius Olav Evensen,"21/5,21/16",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Tore Hansen,,Marius Olav Evensen,"21/13,16/21,21/19",Tore Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Tore Hansen,"19/21,21/11,21/17",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Ole Christoffer Olsen,,Vegard Leksås,"24/22,21/14",Ole Christoffer Olsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Vegard Leksås,,Lars Petter Danielsen,"21/11,21/17",Vegard Leksås,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Ole Christoffer Olsen,,Lars Petter Danielsen,"22/20,21/15",Ole Christoffer Olsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Robert Barø,"21/16,21/18",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Ole Christoffer Olsen,"21/9,25/23",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Robert Barø,,Morten Langen,"21/12,21/17",Robert Barø,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Langen,,Erik Måøy,"21/12,24/22",Morten Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Robert Barø,,Erik Måøy,"21/13,21/15",Robert Barø,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Marius Olav Evensen,"21/5,21/16",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Tore Hansen,,Marius Olav Evensen,"21/13,16/21,21/19",Tore Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Morten Solberg,,Tore Hansen,"19/21,21/11,21/17",Morten Solberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Ole Christoffer Olsen,,Vegard Leksås,"24/22,21/14",Ole Christoffer Olsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Vegard Leksås,,Lars Petter Danielsen,"21/11,21/17",Vegard Leksås,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,,Ole Christoffer Olsen,,Lars Petter Danielsen,"22/20,21/15",Ole Christoffer Olsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Vegard Leksås,Morten Solberg,Tore Hansen,Håvard Soløy,"17/21,21/9,21/14",Vegard Leksås,Morten Solberg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Ole Christoffer Olsen,Tommy Mokkelbost,Erik Måøy,Runar Måøy,"14/21,21/15,21/11",Ole Christoffer Olsen,Tommy Mokkelbost
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Tore Hansen,Håvard Soløy,Ole Christoffer Olsen,Tommy Mokkelbost,"21/17,21/15",Tore Hansen,Håvard Soløy
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Tore Hansen,Håvard Soløy,Erik Måøy,Runar Måøy,"21/9,20/22,21/9",Tore Hansen,Håvard Soløy
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Vegard Leksås,Morten Solberg,Morten Langen,Marius Olav Evensen,"21/13,21/14",Vegard Leksås,Morten Solberg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Ole Martin Kolberg,Marius Brevik,Gaute Sellevoll,Marius Andre' Elsfjordstrand Beck,"21/16,21/9",Ole Martin Kolberg,Marius Brevik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Vegard Leksås,Morten Solberg,Ole Martin Kolberg,Marius Brevik,"21/15,21/13",Vegard Leksås,Morten Solberg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Morten Langen,Marius Olav Evensen,Gaute Sellevoll,Marius Andre' Elsfjordstrand Beck,"21/8,21/11",Morten Langen,Marius Olav Evensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Vegard Leksås,Morten Solberg,Gaute Sellevoll,Marius Andre' Elsfjordstrand Beck,"21/5,21/14",Vegard Leksås,Morten Solberg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Morten Langen,Marius Olav Evensen,Ole Martin Kolberg,Marius Brevik,"21/10,21/17",Morten Langen,Marius Olav Evensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Torbjörn Sörlin,"21/17,10/21,23/21",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Torbjörn Sörlin,,Stig Gåsbakk,"21/13,21/17",Torbjörn Sörlin,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Vemund Korssjøen,"21/8,21/17",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Stig Gåsbakk,,Marius Brevik,"21/14,18/21,21/18",Stig Gåsbakk,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Marius Brevik,,Ole Martin Kolberg,"21/6,20/22,21/14",Marius Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Stig Gåsbakk,,Ole Martin Kolberg,"21/13,21/18",Stig Gåsbakk,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Lars Bjørnar Vist,,Øystein Sveine,"21/17,21/8",Lars Bjørnar Vist,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Torbjörn Sörlin,,Øystein Sveine,"21/13,21/14",Torbjörn Sörlin,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Torbjörn Sörlin,,Lars Bjørnar Vist,"21/18,21/19",Torbjörn Sörlin,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Frode Brønstad,,Joar Gåsbakk,"21/18,21/19",Frode Brønstad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Vemund Korssjøen,,Frode Brønstad,"21/17,21/17",Vemund Korssjøen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Vemund Korssjøen,,Joar Gåsbakk,"21/13,21/11",Vemund Korssjøen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Per Arne Hammer,,Inge Rosset,"23/21,17/21,21/10",Per Arne Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Inge Rosset,"21/14,21/13",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Per Arne Hammer,"21/10,21/9",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Torbjörn Sörlin,"21/17,10/21,23/21",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Torbjörn Sörlin,,Stig Gåsbakk,"21/13,21/17",Torbjörn Sörlin,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Vemund Korssjøen,"21/8,21/17",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Stig Gåsbakk,,Marius Brevik,"21/14,18/21,21/18",Stig Gåsbakk,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Marius Brevik,,Ole Martin Kolberg,"21/6,20/22,21/14",Marius Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Stig Gåsbakk,,Ole Martin Kolberg,"21/13,21/18",Stig Gåsbakk,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Lars Bjørnar Vist,,Øystein Sveine,"21/17,21/8",Lars Bjørnar Vist,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Torbjörn Sörlin,,Øystein Sveine,"21/13,21/14",Torbjörn Sörlin,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Torbjörn Sörlin,,Lars Bjørnar Vist,"21/18,21/19",Torbjörn Sörlin,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Frode Brønstad,,Joar Gåsbakk,"21/18,21/19",Frode Brønstad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Vemund Korssjøen,,Frode Brønstad,"21/17,21/17",Vemund Korssjøen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Vemund Korssjøen,,Joar Gåsbakk,"21/13,21/11",Vemund Korssjøen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Per Arne Hammer,,Inge Rosset,"23/21,17/21,21/10",Per Arne Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Inge Rosset,"21/14,21/13",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,,Asgeir Våbenø Berg,,Per Arne Hammer,"21/10,21/9",Asgeir Våbenø Berg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Asgeir Våbenø Berg,William Aaberg Rølvåg,Vemund Korssjøen,Lars Bjørnar Vist,"21/19,21/19",Asgeir Våbenø Berg,William Aaberg Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Asgeir Våbenø Berg,William Aaberg Rølvåg,Frode Brønstad,Jonny Colen,"21/7,21/15",Asgeir Våbenø Berg,William Aaberg Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Vemund Korssjøen,Lars Bjørnar Vist,Torbjörn Sörlin,Torbjørn Gåsbakk,"21/18,21/18",Vemund Korssjøen,Lars Bjørnar Vist
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Torbjörn Sörlin,Torbjørn Gåsbakk,Jan Aage Nyborg,John Thomas Krogstad,"21/14,21/19",Torbjörn Sörlin,Torbjørn Gåsbakk
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Vemund Korssjøen,Lars Bjørnar Vist,Jan Aage Nyborg,John Thomas Krogstad,"21/10,21/15",Vemund Korssjøen,Lars Bjørnar Vist
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Asgeir Våbenø Berg,William Aaberg Rølvåg,Øystein Sveine,Rune Ringseth Bjørhusdahl,"21/12,21/13",Asgeir Våbenø Berg,William Aaberg Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Øystein Sveine,Rune Ringseth Bjørhusdahl,Eimund Sandbugt-Hammer,Per Arne Hammer,"21/9,21/8",Øystein Sveine,Rune Ringseth Bjørhusdahl
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Asgeir Våbenø Berg,William Aaberg Rølvåg,Eimund Sandbugt-Hammer,Per Arne Hammer,"21/9,21/2",Asgeir Våbenø Berg,William Aaberg Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Frode Brønstad,Jonny Colen,Inge Rosset,Svenn Jostein Bergin,"19/21,21/7,21/11",Frode Brønstad,Jonny Colen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Frode Brønstad,Jonny Colen,Joar Gåsbakk,Stig Gåsbakk,"21/12,18/21,21/12",Frode Brønstad,Jonny Colen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Joar Gåsbakk,Stig Gåsbakk,Inge Rosset,Svenn Jostein Bergin,"21/16,21/15",Joar Gåsbakk,Stig Gåsbakk
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Rune Ringseth Bjørhusdahl,"21/15,13/21,21/16",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Rune Ringseth Bjørhusdahl,,Johannes Lillevik Førde,"21/19,22/24,21/8",Rune Ringseth Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Svend Morten Reinertsen,,Line Eldegard,"21/16,21/15",Svend Morten Reinertsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Zhilin Yang,"21/10,21/8",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Line Eldegard,,Zhilin Yang,"22/24,21/16,21/11",Line Eldegard,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Svend Morten Reinertsen,"21/4,21/8",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Zhilin Yang,,Svend Morten Reinertsen,"21/17,21/18",Zhilin Yang,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Line Eldegard,"21/12,21/17",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Eivind Moe,,Kurt Førde,"21/19,21/15",Eivind Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Johannes Lillevik Førde,,Kurt Førde,"21/11,21/18",Johannes Lillevik Førde,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Johannes Lillevik Førde,,Eivind Moe,"19/21,21/15,21/17",Johannes Lillevik Førde,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Rune Ringseth Bjørhusdahl,,Marius Andre' Elsfjordstrand Beck,"21/11,21/10",Rune Ringseth Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Carl Danielsen,,Marius Andre' Elsfjordstrand Beck,"21/16,11/21,21/18",Carl Danielsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Rune Ringseth Bjørhusdahl,,Carl Danielsen,"21/9,21/11",Rune Ringseth Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Rune Ringseth Bjørhusdahl,"21/15,13/21,21/16",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Rune Ringseth Bjørhusdahl,,Johannes Lillevik Førde,"21/19,22/24,21/8",Rune Ringseth Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Svend Morten Reinertsen,,Line Eldegard,"21/16,21/15",Svend Morten Reinertsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Zhilin Yang,"21/10,21/8",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Line Eldegard,,Zhilin Yang,"22/24,21/16,21/11",Line Eldegard,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Svend Morten Reinertsen,"21/4,21/8",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Zhilin Yang,,Svend Morten Reinertsen,"21/17,21/18",Zhilin Yang,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Jonny Colen,,Line Eldegard,"21/12,21/17",Jonny Colen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Eivind Moe,,Kurt Førde,"21/19,21/15",Eivind Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Johannes Lillevik Førde,,Kurt Førde,"21/11,21/18",Johannes Lillevik Førde,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Johannes Lillevik Førde,,Eivind Moe,"19/21,21/15,21/17",Johannes Lillevik Førde,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Rune Ringseth Bjørhusdahl,,Marius Andre' Elsfjordstrand Beck,"21/11,21/10",Rune Ringseth Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Carl Danielsen,,Marius Andre' Elsfjordstrand Beck,"21/16,11/21,21/18",Carl Danielsen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Rune Ringseth Bjørhusdahl,,Carl Danielsen,"21/9,21/11",Rune Ringseth Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Marit Sveine Aspnes,,Hui Qian Yang,"21/6,21/12",Marit Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Elin Hansen,,Ida Lillevik Førde,"21/12,21/5",Elin Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Elin Hansen,,Hui Qian Yang,"21/9,21/6",Elin Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Marit Sveine Aspnes,,Ida Lillevik Førde,"21/17,21/13",Marit Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Ida Lillevik Førde,,Hui Qian Yang,"21/15,24/22",Ida Lillevik Førde,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,,Elin Hansen,,Marit Sveine Aspnes,"21/14,21/16",Elin Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Einar Mathias Øren,Johannes Lillevik Førde,"21/12,21/15",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Einar Mathias Øren,Johannes Lillevik Førde,Hege Merethe Rølvåg,Mirjam Finanger,"24/26,21/14,21/18",Einar Mathias Øren,Johannes Lillevik Førde
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Elin Hansen,Line Eldegard,Frode Wold,Odd Magne Lund,"22/20,17/21,22/20",Elin Hansen,Line Eldegard
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Hege Merethe Rølvåg,Mirjam Finanger,Frode Wold,Odd Magne Lund,"21/17,21/11",Hege Merethe Rølvåg,Mirjam Finanger
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Einar Mathias Øren,Johannes Lillevik Førde,Elin Hansen,Line Eldegard,"24/26,21/14,21/11",Einar Mathias Øren,Johannes Lillevik Førde
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Hege Merethe Rølvåg,Mirjam Finanger,Elin Hansen,Line Eldegard,"21/8,21/13",Hege Merethe Rølvåg,Mirjam Finanger
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Einar Mathias Øren,Johannes Lillevik Førde,Frode Wold,Odd Magne Lund,"21/16,21/18",Einar Mathias Øren,Johannes Lillevik Førde
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Nikolai Danielsen,Carl Danielsen,Kurt Førde,Dag Ivar Lillevik,"21/14,21/16",Nikolai Danielsen,Carl Danielsen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Magnus Mollan,Viktor Vorum Jablonski,"21/16,21/13",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Kurt Førde,Dag Ivar Lillevik,"21/16,21/8",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Magnus Mollan,Viktor Vorum Jablonski,Nikolai Danielsen,Carl Danielsen,"21/17,21/10",Magnus Mollan,Viktor Vorum Jablonski
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Magnus Mollan,Viktor Vorum Jablonski,Kurt Førde,Dag Ivar Lillevik,"21/18,21/11",Magnus Mollan,Viktor Vorum Jablonski
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Nikolai Danielsen,Carl Danielsen,"21/10,21/12",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Marit Sveine Aspnes,Ida Hånes,Erle Nordbakk,Vilde Hanssen,"21/6,21/6",Marit Sveine Aspnes,Ida Hånes
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Siv Solum Buvik,Ida Lillevik Førde,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,"14/21,21/17,25/23",Siv Solum Buvik,Ida Lillevik Førde
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Marit Sveine Aspnes,Ida Hånes,Siv Solum Buvik,Ida Lillevik Førde,"21/13,21/11",Marit Sveine Aspnes,Ida Hånes
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,Erle Nordbakk,Vilde Hanssen,"21/15,21/13",Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Marit Sveine Aspnes,Ida Hånes,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,"21/16,21/8",Marit Sveine Aspnes,Ida Hånes
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Erle Nordbakk,Vilde Hanssen,Siv Solum Buvik,Ida Lillevik Førde,"21/19,24/22",Erle Nordbakk,Vilde Hanssen
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Nathan Gilay,,Isak Urstad Himo,"21/17,21/10",Nathan Gilay,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Simon Balvold,,Nathan Gilay,"21/18,21/19",Simon Balvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Simon Balvold,,Isak Urstad Himo,"21/14,23/21",Simon Balvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Noah Fick Lynum,,Casper Bjørhusdahl,"21/18,21/19",Noah Fick Lynum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Isak Sveine Aspnes,,David Donner,"22/20,21/13",Isak Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,David Donner,,Casper Bjørhusdahl,"21/12,19/21,21/0",David Donner,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Isak Sveine Aspnes,,Noah Fick Lynum,"21/13,25/23",Isak Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Isak Sveine Aspnes,,Casper Bjørhusdahl,"21/9,21/14",Isak Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Noah Fick Lynum,,David Donner,"11/21,21/15,21/0",Noah Fick Lynum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Nathan Gilay,,Isak Urstad Himo,"21/17,21/10",Nathan Gilay,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Simon Balvold,,Nathan Gilay,"21/18,21/19",Simon Balvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Simon Balvold,,Isak Urstad Himo,"21/14,23/21",Simon Balvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Noah Fick Lynum,,Casper Bjørhusdahl,"21/18,21/19",Noah Fick Lynum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Isak Sveine Aspnes,,David Donner,"22/20,21/13",Isak Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,David Donner,,Casper Bjørhusdahl,"21/12,19/21,21/0",David Donner,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Isak Sveine Aspnes,,Noah Fick Lynum,"21/13,25/23",Isak Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Isak Sveine Aspnes,,Casper Bjørhusdahl,"21/9,21/14",Isak Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Noah Fick Lynum,,David Donner,"11/21,21/15,21/0",Noah Fick Lynum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Ronja Michelle Pettersen,,Ida Marie Tømmerås Skorstad,"21/12,21/16",Ronja Michelle Pettersen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Ronja Michelle Pettersen,,Najma Omar,"21/7,21/11",Ronja Michelle Pettersen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Ida Marie Tømmerås Skorstad,,Najma Omar,"21/15,21/9",Ida Marie Tømmerås Skorstad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Alde Andrea Rohde Hallager,,Alma Marie Øren,"21/23,21/18,21/0",Alde Andrea Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Matilde Langen,,Jenny Bergin Olsen,"21/17,21/17",Matilde Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Alma Marie Øren,,Matilde Langen,"21/14,21/10",Alma Marie Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Alde Andrea Rohde Hallager,,Jenny Bergin Olsen,"21/14,21/11",Alde Andrea Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Alma Marie Øren,,Jenny Bergin Olsen,"21/12,21/10",Alma Marie Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,,Alde Andrea Rohde Hallager,,Matilde Langen,"21/13,21/12",Alde Andrea Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Isak Sveine Aspnes,Casper Bjørhusdahl,Isak Urstad Himo,Nathan Gilay,"21/13,15/21,21/0",Isak Sveine Aspnes,Casper Bjørhusdahl
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Noah Fick Lynum,David Donner,Isak Sveine Aspnes,Casper Bjørhusdahl,"17/21,21/18,21/0",Noah Fick Lynum,David Donner
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Isak Urstad Himo,Nathan Gilay,Noah Fick Lynum,David Donner,"14/21,21/11,21/0",Isak Urstad Himo,Nathan Gilay
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Alma Marie Øren,Ronja Michelle Pettersen,Alde Andrea Rohde Hallager,Ida Marie Tømmerås Skorstad,"21/13,21/18",Alma Marie Øren,Ronja Michelle Pettersen
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Alde Andrea Rohde Hallager,Ida Marie Tømmerås Skorstad,Matilde Langen,Jenny Bergin Olsen,"21/13,21/11",Alde Andrea Rohde Hallager,Ida Marie Tømmerås Skorstad
-2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Alma Marie Øren,Ronja Michelle Pettersen,Matilde Langen,Jenny Bergin Olsen,"21/11,19/21,21/0",Alma Marie Øren,Ronja Michelle Pettersen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"21/13,23/21",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dianne Christine Geronimo,,Linnea Nordnes Prestø,"21/15,21/17",Dianne Christine Geronimo,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Sara Buvik,"21/9,21/12",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Dianne Christine Geronimo,"21/16,16/21,21/17",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Linnea Nordnes Prestø,"21/5,21/15",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Sara Buvik,"21/13,21/15",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/7,21/14",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Sara Buvik,,Dianne Christine Geronimo,"21/13,21/19",Sara Buvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Sara Buvik,,Linnea Nordnes Prestø,"21/7,21/17",Sara Buvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Dianne Christine Geronimo,"21/10,21/7",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Leonard Meyer Nordnes,Sigve Hallager,"21/15,21/11",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Ole Petter Øren,Emil Pettersen,"21/14,21/11",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Ole Petter Øren,Emil Pettersen,"21/16,21/13,21/0",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Henrik Buvik,Benjamin Rølvåg,"21/14,21/9",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Leonard Meyer Nordnes,Sigve Hallager,Marius Sandvær,William R. Barø,"21/17,22/20",Leonard Meyer Nordnes,Sigve Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Leonard Meyer Nordnes,Sigve Hallager,Øyvind W. Selboe,Kristoffer Kielland Rædergård,"21/16,21/17",Leonard Meyer Nordnes,Sigve Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Øyvind W. Selboe,Kristoffer Kielland Rædergård,Marius Sandvær,William R. Barø,"18/21,21/14,21/16",Øyvind W. Selboe,Kristoffer Kielland Rædergård
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Barbro Johnsen,Linnea Nordnes Prestø,"21/15,21/8",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Sara Buvik,Ingvild Håland,Camilla Stokkaune,Dianne Christine Geronimo,"17/21,21/18,21/17",Sara Buvik,Ingvild Håland
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Barbro Johnsen,Linnea Nordnes Prestø,"21/10,21/13",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Sara Buvik,Ingvild Håland,"21/9,21/19",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Sara Buvik,Ingvild Håland,Barbro Johnsen,Linnea Nordnes Prestø,"21/18,21/7",Sara Buvik,Ingvild Håland
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Camilla Stokkaune,Dianne Christine Geronimo,"21/15,21/14",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Liam Sveine Aspnes,,Håkon Elias Jørgensen,"21/9,21/12",Liam Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Teodor Husmo Sandøy,,Elias Urstad Himo,"21/18,21/18",Teodor Husmo Sandøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Teodor Husmo Sandøy,,Liam Sveine Aspnes,"22/24,21/10,21/18",Teodor Husmo Sandøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Håkon Elias Jørgensen,,Elias Urstad Himo,"21/19,21/14",Håkon Elias Jørgensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Liam Sveine Aspnes,,Elias Urstad Himo,"21/12,21/13",Liam Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Teodor Husmo Sandøy,,Håkon Elias Jørgensen,"21/13,21/18",Teodor Husmo Sandøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Liam Sveine Aspnes,,Håkon Elias Jørgensen,"21/9,21/12",Liam Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Teodor Husmo Sandøy,,Elias Urstad Himo,"21/18,21/18",Teodor Husmo Sandøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Teodor Husmo Sandøy,,Liam Sveine Aspnes,"22/24,21/10,21/18",Teodor Husmo Sandøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Håkon Elias Jørgensen,,Elias Urstad Himo,"21/19,21/14",Håkon Elias Jørgensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Liam Sveine Aspnes,,Elias Urstad Himo,"21/12,21/13",Liam Sveine Aspnes,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Teodor Husmo Sandøy,,Håkon Elias Jørgensen,"21/13,21/18",Teodor Husmo Sandøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Linnea Finanger Skog,,Vilja Heia,"21/16,21/11",Linnea Finanger Skog,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Thea Oline Moe,,Saabiriin Omar,"21/11,21/11",Thea Oline Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Linnea Finanger Skog,,Saabiriin Omar,"21/4,21/7",Linnea Finanger Skog,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Vilja Heia,,Thea Oline Moe,"21/12,21/10",Vilja Heia,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Linnea Finanger Skog,,Thea Oline Moe,"21/14,21/16",Linnea Finanger Skog,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Vilja Heia,,Saabiriin Omar,"21/9,21/1",Vilja Heia,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Ina Maria Skogmo Bjørhusdahl,,Ingeborg Tømmerås Skorstad,"21/5,21/10",Ina Maria Skogmo Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Nora Langen,,Ida Amalie Skårn,"21/8,21/10",Nora Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Ida Amalie Skårn,,Ingeborg Tømmerås Skorstad,"21/12,21/10",Ida Amalie Skårn,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Nora Langen,,Ina Maria Skogmo Bjørhusdahl,"21/18,20/22,21/13",Nora Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Nora Langen,,Ingeborg Tømmerås Skorstad,"21/15,21/9",Nora Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,,Ina Maria Skogmo Bjørhusdahl,,Ida Amalie Skårn,"21/14,21/6",Ina Maria Skogmo Bjørhusdahl,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Vilja Heia,Nora Langen,Elias Urstad Himo,Liam Sveine Aspnes,"21/15,21/18",Vilja Heia,Nora Langen
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Daniel Lillevik Førde,Teodor Husmo Sandøy,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,"19/21,21/18,21/19",Daniel Lillevik Førde,Teodor Husmo Sandøy
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Daniel Lillevik Førde,Teodor Husmo Sandøy,Elias Urstad Himo,Liam Sveine Aspnes,"21/11,21/16",Daniel Lillevik Førde,Teodor Husmo Sandøy
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Vilja Heia,Nora Langen,"21/19,21/17",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Elias Urstad Himo,Liam Sveine Aspnes,"21/5,21/6",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Vilja Heia,Nora Langen,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,"21/12,21/6",Vilja Heia,Nora Langen
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,Elias Urstad Himo,Liam Sveine Aspnes,"21/11,21/15",Ingeborg Tømmerås Skorstad,Linnea Finanger Skog
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Daniel Lillevik Førde,Teodor Husmo Sandøy,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,"21/18,13/21,21/17",Daniel Lillevik Førde,Teodor Husmo Sandøy
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Vilja Heia,Nora Langen,Daniel Lillevik Førde,Teodor Husmo Sandøy,"21/17,12/21,21/13",Vilja Heia,Nora Langen
-2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,"21/11,21/6",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"21/13,23/21",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dianne Christine Geronimo,,Linnea Nordnes Prestø,"21/15,21/17",Dianne Christine Geronimo,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Sara Buvik,"21/9,21/12",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Dianne Christine Geronimo,"21/16,16/21,21/17",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Linnea Nordnes Prestø,"21/5,21/15",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Sara Buvik,"21/13,21/15",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/7,21/14",Dorthe Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Sara Buvik,,Dianne Christine Geronimo,"21/13,21/19",Sara Buvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Sara Buvik,,Linnea Nordnes Prestø,"21/7,21/17",Sara Buvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,,Nila Lorvik,,Dianne Christine Geronimo,"21/10,21/7",Nila Lorvik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Leonard Meyer Nordnes,Sigve Hallager,"21/15,21/11",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Ole Petter Øren,Emil Pettersen,"21/14,21/11",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Ole Petter Øren,Emil Pettersen,"21/16,21/13,21/0",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Isak L. Hasselvold,Kai Roger Stensen,Henrik Buvik,Benjamin Rølvåg,"21/14,21/9",Isak L. Hasselvold,Kai Roger Stensen
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Leonard Meyer Nordnes,Sigve Hallager,Marius Sandvær,William R. Barø,"21/17,22/20",Leonard Meyer Nordnes,Sigve Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Leonard Meyer Nordnes,Sigve Hallager,Øyvind W. Selboe,Kristoffer Kielland Rædergård,"21/16,21/17",Leonard Meyer Nordnes,Sigve Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Øyvind W. Selboe,Kristoffer Kielland Rædergård,Marius Sandvær,William R. Barø,"18/21,21/14,21/16",Øyvind W. Selboe,Kristoffer Kielland Rædergård
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Barbro Johnsen,Linnea Nordnes Prestø,"21/15,21/8",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Sara Buvik,Ingvild Håland,Camilla Stokkaune,Dianne Christine Geronimo,"17/21,21/18,21/17",Sara Buvik,Ingvild Håland
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Camilla Stokkaune,Dianne Christine Geronimo,Barbro Johnsen,Linnea Nordnes Prestø,"21/10,21/13",Camilla Stokkaune,Dianne Christine Geronimo
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Sara Buvik,Ingvild Håland,"21/9,21/19",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Sara Buvik,Ingvild Håland,Barbro Johnsen,Linnea Nordnes Prestø,"21/18,21/7",Sara Buvik,Ingvild Håland
-2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Nila Lorvik,Dorthe Lorvik,Camilla Stokkaune,Dianne Christine Geronimo,"21/15,21/14",Nila Lorvik,Dorthe Lorvik
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/7,21/5",Benjamin Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Benjamin Brevik,,Amund Børmark,"21/2,21/3",Benjamin Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Benjamin Brevik,,Jaran Salater Nygård,"21/2,21/6",Benjamin Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jaran Salater Nygård,,Amund Børmark,"21/16,21/10",Jaran Salater Nygård,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jonathan Rohde Hallager,,Viktor Eldegard,"21/10,21/10",Jonathan Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jonathan Rohde Hallager,,Oliver Langen,"21/10,21/11",Jonathan Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Konrad Soløy Myrbostad,,Oliver Langen,"21/10,21/15",Konrad Soløy Myrbostad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Konrad Soløy Myrbostad,,Viktor Eldegard,"21/15,21/14",Konrad Soløy Myrbostad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Oliver Langen,,Viktor Eldegard,"21/16,19/21,21/17",Oliver Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jonathan Rohde Hallager,,Konrad Soløy Myrbostad,"21/15,19/21,21/12",Jonathan Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/7,21/5",Benjamin Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Benjamin Brevik,,Amund Børmark,"21/2,21/3",Benjamin Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Benjamin Brevik,,Jaran Salater Nygård,"21/2,21/6",Benjamin Brevik,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jaran Salater Nygård,,Amund Børmark,"21/16,21/10",Jaran Salater Nygård,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jonathan Rohde Hallager,,Viktor Eldegard,"21/10,21/10",Jonathan Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jonathan Rohde Hallager,,Oliver Langen,"21/10,21/11",Jonathan Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Konrad Soløy Myrbostad,,Oliver Langen,"21/10,21/15",Konrad Soløy Myrbostad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Konrad Soløy Myrbostad,,Viktor Eldegard,"21/15,21/14",Konrad Soløy Myrbostad,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Oliver Langen,,Viktor Eldegard,"21/16,19/21,21/17",Oliver Langen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Jonathan Rohde Hallager,,Konrad Soløy Myrbostad,"21/15,19/21,21/12",Jonathan Rohde Hallager,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Daria Mari Beck,,Alva Karoline Sandøy Bredrup,"21/15,21/12",Daria Mari Beck,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Maja Mathilde Johnsen Sørgjerd,,Alva Karoline Sandøy Bredrup,"21/8,21/11",Maja Mathilde Johnsen Sørgjerd,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,,Maja Mathilde Johnsen Sørgjerd,,Daria Mari Beck,"21/19,21/11",Maja Mathilde Johnsen Sørgjerd,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Anton Einarsen Fiskum,,Karl William Hanssen,"21/18,13/21,22/20",Anton Einarsen Fiskum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Anton Einarsen Fiskum,,Michael Donner,"19/21,21/13,21/13",Anton Einarsen Fiskum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Anton Einarsen Fiskum,,Noah Hallan,"21/19,21/11",Anton Einarsen Fiskum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Michael Donner,,Noah Hallan,"21/6,21/13",Michael Donner,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Karl William Hanssen,,Sivert Vik-Mo Falch,"21/8,21/4",Karl William Hanssen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Karl William Hanssen,,Gustav Arnøy,"19/21,21/13,21/12",Karl William Hanssen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Gustav Arnøy,,Sivert Vik-Mo Falch,"21/15,21/16",Gustav Arnøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Anton Einarsen Fiskum,,Karl William Hanssen,"21/18,13/21,22/20",Anton Einarsen Fiskum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Anton Einarsen Fiskum,,Michael Donner,"19/21,21/13,21/13",Anton Einarsen Fiskum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Anton Einarsen Fiskum,,Noah Hallan,"21/19,21/11",Anton Einarsen Fiskum,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Michael Donner,,Noah Hallan,"21/6,21/13",Michael Donner,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Karl William Hanssen,,Sivert Vik-Mo Falch,"21/8,21/4",Karl William Hanssen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Karl William Hanssen,,Gustav Arnøy,"19/21,21/13,21/12",Karl William Hanssen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,,Gustav Arnøy,,Sivert Vik-Mo Falch,"21/15,21/16",Gustav Arnøy,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Karl William Hanssen,Anton Einarsen Fiskum,Michael Donner,Sivert Vik-Mo Falch,"21/11,21/11",Karl William Hanssen,Anton Einarsen Fiskum
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Karl William Hanssen,Anton Einarsen Fiskum,Noah Hallan,Gustav Arnøy,"21/18,21/11",Karl William Hanssen,Anton Einarsen Fiskum
-2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Noah Hallan,Gustav Arnøy,Michael Donner,Sivert Vik-Mo Falch,"21/15,12/21,21/17",Noah Hallan,Gustav Arnøy
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Eimund Sandbugt-Hammer,,Vebjørn Børmark,"21/15,9/21,21/19",Eimund Sandbugt-Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Einar Mathias Øren,,Viktor Vorum Jablonski,"21/18,21/12",Einar Mathias Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Eimund Sandbugt-Hammer,,Viktor Vorum Jablonski,"19/21,21/14,22/20",Eimund Sandbugt-Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Ludvig Kolberg,,Viktor Vorum Jablonski,"21/15,21/7",Ludvig Kolberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Einar Mathias Øren,,Ludvig Kolberg,"21/17,21/18",Einar Mathias Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Vebjørn Børmark,,Viktor Vorum Jablonski,"21/14,18/21,21/10",Vebjørn Børmark,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Eimund Sandbugt-Hammer,,Ludvig Kolberg,"21/17,21/18",Eimund Sandbugt-Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Ludvig Kolberg,,Vebjørn Børmark,"19/21,21/19,21/19",Ludvig Kolberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Einar Mathias Øren,,Eimund Sandbugt-Hammer,"21/10,19/21,21/11",Einar Mathias Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Eimund Sandbugt-Hammer,,Vebjørn Børmark,"21/15,9/21,21/19",Eimund Sandbugt-Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Einar Mathias Øren,,Viktor Vorum Jablonski,"21/18,21/12",Einar Mathias Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Eimund Sandbugt-Hammer,,Viktor Vorum Jablonski,"19/21,21/14,22/20",Eimund Sandbugt-Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Ludvig Kolberg,,Viktor Vorum Jablonski,"21/15,21/7",Ludvig Kolberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Einar Mathias Øren,,Ludvig Kolberg,"21/17,21/18",Einar Mathias Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Vebjørn Børmark,,Viktor Vorum Jablonski,"21/14,18/21,21/10",Vebjørn Børmark,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Eimund Sandbugt-Hammer,,Ludvig Kolberg,"21/17,21/18",Eimund Sandbugt-Hammer,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Ludvig Kolberg,,Vebjørn Børmark,"19/21,21/19,21/19",Ludvig Kolberg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,,Einar Mathias Øren,,Eimund Sandbugt-Hammer,"21/10,19/21,21/11",Einar Mathias Øren,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Sindre Emanuel Moe,,Abdulahi Abdulahi,"21/3,21/4",Sindre Emanuel Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Arnold Strand,,Tobias Langlie,"11/21,21/17,21/18",Arnold Strand,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Abdulahi Abdulahi,,Tobias Langlie,"21/23,21/15,22/20",Abdulahi Abdulahi,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Arnold Strand,"21/14,21/15",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Sindre Emanuel Moe,,Tobias Langlie,"21/17,21/18",Sindre Emanuel Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Abdulahi Abdulahi,"21/13,21/9",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Sindre Emanuel Moe,,Arnold Strand,"21/17,21/8",Sindre Emanuel Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Tobias Langlie,"21/16,25/23",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Arnold Strand,,Abdulahi Abdulahi,"21/10,21/14",Arnold Strand,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Sindre Emanuel Moe,"21/11,21/9",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Sindre Emanuel Moe,,Abdulahi Abdulahi,"21/3,21/4",Sindre Emanuel Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Arnold Strand,,Tobias Langlie,"11/21,21/17,21/18",Arnold Strand,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Abdulahi Abdulahi,,Tobias Langlie,"21/23,21/15,22/20",Abdulahi Abdulahi,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Arnold Strand,"21/14,21/15",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Sindre Emanuel Moe,,Tobias Langlie,"21/17,21/18",Sindre Emanuel Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Abdulahi Abdulahi,"21/13,21/9",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Sindre Emanuel Moe,,Arnold Strand,"21/17,21/8",Sindre Emanuel Moe,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Tobias Langlie,"21/16,25/23",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Arnold Strand,,Abdulahi Abdulahi,"21/10,21/14",Arnold Strand,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Kenneth Bernhoff,,Sindre Emanuel Moe,"21/11,21/9",Kenneth Bernhoff,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Thea Isabell Hansen,,Annelotte Storsul Sverdrup,"21/3,21/5",Thea Isabell Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Marthe Evjenth,,Thea Storheil,"21/10,21/8",Marthe Evjenth,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Emilie Romundstad Nyborg,,Annelotte Storsul Sverdrup,"21/12,21/14",Emilie Romundstad Nyborg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Thea Isabell Hansen,,Marthe Evjenth,"21/10,21/11",Thea Isabell Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Thea Isabell Hansen,,Thea Storheil,"21/7,21/6",Thea Isabell Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Emilie Romundstad Nyborg,,Marthe Evjenth,"21/15,21/17",Emilie Romundstad Nyborg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Marthe Evjenth,,Annelotte Storsul Sverdrup,"21/13,21/16",Marthe Evjenth,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Emilie Romundstad Nyborg,,Thea Storheil,"21/5,21/10",Emilie Romundstad Nyborg,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Annelotte Storsul Sverdrup,,Thea Storheil,"21/14,21/10",Annelotte Storsul Sverdrup,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,,Thea Isabell Hansen,,Emilie Romundstad Nyborg,"21/6,21/7",Thea Isabell Hansen,
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Tobias Langlie,Konrad Soløy Myrbostad,Arnold Strand,Abdulahi Abdulahi,"21/13,21/11",Tobias Langlie,Konrad Soløy Myrbostad
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Kenneth Bernhoff,Sindre Emanuel Moe,Viktor Eldegard,Jaran Salater Nygård,"22/20,21/17",Kenneth Bernhoff,Sindre Emanuel Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Kenneth Bernhoff,Sindre Emanuel Moe,Tobias Langlie,Konrad Soløy Myrbostad,"22/20,21/18",Kenneth Bernhoff,Sindre Emanuel Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Oliver Langen,Jonathan Rohde Hallager,Arnold Strand,Abdulahi Abdulahi,"21/12,21/10",Oliver Langen,Jonathan Rohde Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Oliver Langen,Jonathan Rohde Hallager,Tobias Langlie,Konrad Soløy Myrbostad,"21/9,17/21,21/19",Oliver Langen,Jonathan Rohde Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Viktor Eldegard,Jaran Salater Nygård,Arnold Strand,Abdulahi Abdulahi,"21/11,21/10",Viktor Eldegard,Jaran Salater Nygård
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Oliver Langen,Jonathan Rohde Hallager,Kenneth Bernhoff,Sindre Emanuel Moe,"21/10,21/14",Oliver Langen,Jonathan Rohde Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Viktor Eldegard,Jaran Salater Nygård,Tobias Langlie,Konrad Soløy Myrbostad,"21/10,21/10",Viktor Eldegard,Jaran Salater Nygård
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Kenneth Bernhoff,Sindre Emanuel Moe,Arnold Strand,Abdulahi Abdulahi,"21/14,17/21,21/14",Kenneth Bernhoff,Sindre Emanuel Moe
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Oliver Langen,Jonathan Rohde Hallager,Viktor Eldegard,Jaran Salater Nygård,"21/12,21/10",Oliver Langen,Jonathan Rohde Hallager
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Thea Isabell Hansen,Marthe Evjenth,Thea Storheil,Annelotte Storsul Sverdrup,"21/5,21/8",Thea Isabell Hansen,Marthe Evjenth
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Alva Karoline Sandøy Bredrup,Daria Mari Beck,Thea Storheil,Annelotte Storsul Sverdrup,"21/3,21/10",Alva Karoline Sandøy Bredrup,Daria Mari Beck
-2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Thea Isabell Hansen,Marthe Evjenth,Alva Karoline Sandøy Bredrup,Daria Mari Beck,"21/18,22/20",Thea Isabell Hansen,Marthe Evjenth
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Kai Roger Stensen,,Isak L. Hasselvold,"21/12,21/9",Kai Roger Stensen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Kai Roger Stensen,,Øyvind W. Selboe,"21/14,21/16",Kai Roger Stensen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Kai Roger Stensen,,Henrik Buvik,"21/14,21/15",Kai Roger Stensen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Øyvind W. Selboe,,William R. Barø,"21/18,21/15",Øyvind W. Selboe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Øyvind W. Selboe,,Ole Petter Øren,"20/22,21/15,21/18",Øyvind W. Selboe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Ole Petter Øren,,William R. Barø,"22/20,21/17",Ole Petter Øren,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Håvard Soløy,,Emil Pettersen,"21/10,12/21,21/19",Håvard Soløy,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Marius Sandvær,,Håvard Soløy,"21/13,22/20",Marius Sandvær,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Marius Sandvær,,Emil Pettersen,"21/11,21/16",Marius Sandvær,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Isak L. Hasselvold,,Benjamin Rølvåg,"21/14,21/11",Isak L. Hasselvold,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Isak L. Hasselvold,,Leonard Meyer Nordnes,"21/16,21/10",Isak L. Hasselvold,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herresingle,,Benjamin Rølvåg,,Leonard Meyer Nordnes,"21/13,11/21,21/17",Benjamin Rølvåg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Nila Lorvik,,Dorthe Lorvik,"21/13,23/21",Nila Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Dianne Christine Geronimo,,Linnea Nordnes Prestø,"21/15,21/17",Dianne Christine Geronimo,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Nila Lorvik,,Sara Buvik,"21/9,21/12",Nila Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Dorthe Lorvik,,Dianne Christine Geronimo,"21/16,16/21,21/17",Dorthe Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Nila Lorvik,,Linnea Nordnes Prestø,"21/5,21/15",Nila Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Dorthe Lorvik,,Sara Buvik,"21/13,21/15",Dorthe Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/7,21/14",Dorthe Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Sara Buvik,,Dianne Christine Geronimo,"21/13,21/19",Sara Buvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Sara Buvik,,Linnea Nordnes Prestø,"21/7,21/17",Sara Buvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damesingle,,Nila Lorvik,,Dianne Christine Geronimo,"21/10,21/7",Nila Lorvik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Isak L. Hasselvold,Kai Roger Stensen,Leonard Meyer Nordnes,Sigve Hallager,"21/15,21/11",Isak L. Hasselvold,Kai Roger Stensen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Isak L. Hasselvold,Kai Roger Stensen,Ole Petter Øren,Emil Pettersen,"21/14,21/11",Isak L. Hasselvold,Kai Roger Stensen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Henrik Buvik,Benjamin Rølvåg,Ole Petter Øren,Emil Pettersen,"21/16,21/13,21/0",Henrik Buvik,Benjamin Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Isak L. Hasselvold,Kai Roger Stensen,Henrik Buvik,Benjamin Rølvåg,"21/14,21/9",Isak L. Hasselvold,Kai Roger Stensen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Leonard Meyer Nordnes,Sigve Hallager,Marius Sandvær,William R. Barø,"21/17,22/20",Leonard Meyer Nordnes,Sigve Hallager
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Leonard Meyer Nordnes,Sigve Hallager,Øyvind W. Selboe,Kristoffer Kielland Rædergård,"21/16,21/17",Leonard Meyer Nordnes,Sigve Hallager
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Herredouble,Øyvind W. Selboe,Kristoffer Kielland Rædergård,Marius Sandvær,William R. Barø,"18/21,21/14,21/16",Øyvind W. Selboe,Kristoffer Kielland Rædergård
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damedouble,Nila Lorvik,Dorthe Lorvik,Barbro Johnsen,Linnea Nordnes Prestø,"21/15,21/8",Nila Lorvik,Dorthe Lorvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damedouble,Sara Buvik,Ingvild Håland,Camilla Stokkaune,Dianne Christine Geronimo,"17/21,21/18,21/17",Sara Buvik,Ingvild Håland
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damedouble,Camilla Stokkaune,Dianne Christine Geronimo,Barbro Johnsen,Linnea Nordnes Prestø,"21/10,21/13",Camilla Stokkaune,Dianne Christine Geronimo
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damedouble,Nila Lorvik,Dorthe Lorvik,Sara Buvik,Ingvild Håland,"21/9,21/19",Nila Lorvik,Dorthe Lorvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damedouble,Sara Buvik,Ingvild Håland,Barbro Johnsen,Linnea Nordnes Prestø,"21/18,21/7",Sara Buvik,Ingvild Håland
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Damedouble,Nila Lorvik,Dorthe Lorvik,Camilla Stokkaune,Dianne Christine Geronimo,"21/15,21/14",Nila Lorvik,Dorthe Lorvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Isak L. Hasselvold,Ingvild Håland,Sigve Hallager,Hanna B. Kværnø,"17/21,21/19,21/18",Isak L. Hasselvold,Ingvild Håland
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Sigve Hallager,Hanna B. Kværnø,Marius Sandvær,Nila Lorvik,"21/14,18/21,21/8",Sigve Hallager,Hanna B. Kværnø
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Emil Pettersen,Linnea Nordnes Prestø,Erik Måøy,Hildegunn Måøy,"21/13,21/16",Emil Pettersen,Linnea Nordnes Prestø
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Isak L. Hasselvold,Ingvild Håland,Emil Pettersen,Linnea Nordnes Prestø,"21/9,21/9",Isak L. Hasselvold,Ingvild Håland
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Isak L. Hasselvold,Ingvild Håland,Kai Roger Stensen,Dorthe Lorvik,"21/19,21/13",Isak L. Hasselvold,Ingvild Håland
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Kai Roger Stensen,Dorthe Lorvik,Emil Pettersen,Linnea Nordnes Prestø,"21/12,21/12",Kai Roger Stensen,Dorthe Lorvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Sigve Hallager,Hanna B. Kværnø,Camilla Stokkaune,Kristoffer Kielland Rædergård,"17/21,21/14,21/19",Sigve Hallager,Hanna B. Kværnø
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Camilla Stokkaune,Kristoffer Kielland Rædergård,Ole Petter Øren,Barbro Johnsen,"21/13,21/15",Camilla Stokkaune,Kristoffer Kielland Rædergård
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Sigve Hallager,Hanna B. Kværnø,Ole Petter Øren,Barbro Johnsen,"21/14,21/19",Sigve Hallager,Hanna B. Kværnø
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Benjamin Rølvåg,Sara Buvik,Dianne Christine Geronimo,Øyvind W. Selboe,"21/19,21/18",Benjamin Rølvåg,Sara Buvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Marius Sandvær,Nila Lorvik,Dianne Christine Geronimo,Øyvind W. Selboe,"21/10,21/15",Marius Sandvær,Nila Lorvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN A,Mixeddouble,Marius Sandvær,Nila Lorvik,Benjamin Rølvåg,Sara Buvik,"21/17,23/21",Marius Sandvær,Nila Lorvik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Morten Solberg,,Robert Barø,"21/16,21/18",Morten Solberg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Morten Solberg,,Ole Christoffer Olsen,"21/9,25/23",Morten Solberg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Robert Barø,,Morten Langen,"21/12,21/17",Robert Barø,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Morten Langen,,Erik Måøy,"21/12,24/22",Morten Langen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Robert Barø,,Erik Måøy,"21/13,21/15",Robert Barø,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Morten Solberg,,Marius Olav Evensen,"21/5,21/16",Morten Solberg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Tore Hansen,,Marius Olav Evensen,"21/13,16/21,21/19",Tore Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Morten Solberg,,Tore Hansen,"19/21,21/11,21/17",Morten Solberg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Ole Christoffer Olsen,,Vegard Leksås,"24/22,21/14",Ole Christoffer Olsen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Vegard Leksås,,Lars Petter Danielsen,"21/11,21/17",Vegard Leksås,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herresingle,,Ole Christoffer Olsen,,Lars Petter Danielsen,"22/20,21/15",Ole Christoffer Olsen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Vegard Leksås,Morten Solberg,Tore Hansen,Håvard Soløy,"17/21,21/9,21/14",Vegard Leksås,Morten Solberg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Ole Christoffer Olsen,Tommy Mokkelbost,Erik Måøy,Runar Måøy,"14/21,21/15,21/11",Ole Christoffer Olsen,Tommy Mokkelbost
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Tore Hansen,Håvard Soløy,Ole Christoffer Olsen,Tommy Mokkelbost,"21/17,21/15",Tore Hansen,Håvard Soløy
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Tore Hansen,Håvard Soløy,Erik Måøy,Runar Måøy,"21/9,20/22,21/9",Tore Hansen,Håvard Soløy
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Vegard Leksås,Morten Solberg,Morten Langen,Marius Olav Evensen,"21/13,21/14",Vegard Leksås,Morten Solberg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Ole Martin Kolberg,Marius Brevik,Gaute Sellevoll,Marius Andre' Elsfjordstrand Beck,"21/16,21/9",Ole Martin Kolberg,Marius Brevik
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Vegard Leksås,Morten Solberg,Ole Martin Kolberg,Marius Brevik,"21/15,21/13",Vegard Leksås,Morten Solberg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Morten Langen,Marius Olav Evensen,Gaute Sellevoll,Marius Andre' Elsfjordstrand Beck,"21/8,21/11",Morten Langen,Marius Olav Evensen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Vegard Leksås,Morten Solberg,Gaute Sellevoll,Marius Andre' Elsfjordstrand Beck,"21/5,21/14",Vegard Leksås,Morten Solberg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN B,Herredouble,Morten Langen,Marius Olav Evensen,Ole Martin Kolberg,Marius Brevik,"21/10,21/17",Morten Langen,Marius Olav Evensen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Torbjörn Sörlin,"21/17,10/21,23/21",Asgeir Våbenø Berg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Torbjörn Sörlin,,Stig Gåsbakk,"21/13,21/17",Torbjörn Sörlin,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Vemund Korssjøen,"21/8,21/17",Asgeir Våbenø Berg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Stig Gåsbakk,,Marius Brevik,"21/14,18/21,21/18",Stig Gåsbakk,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Marius Brevik,,Ole Martin Kolberg,"21/6,20/22,21/14",Marius Brevik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Stig Gåsbakk,,Ole Martin Kolberg,"21/13,21/18",Stig Gåsbakk,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Lars Bjørnar Vist,,Øystein Sveine,"21/17,21/8",Lars Bjørnar Vist,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Torbjörn Sörlin,,Øystein Sveine,"21/13,21/14",Torbjörn Sörlin,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Torbjörn Sörlin,,Lars Bjørnar Vist,"21/18,21/19",Torbjörn Sörlin,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Frode Brønstad,,Joar Gåsbakk,"21/18,21/19",Frode Brønstad,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Vemund Korssjøen,,Frode Brønstad,"21/17,21/17",Vemund Korssjøen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Vemund Korssjøen,,Joar Gåsbakk,"21/13,21/11",Vemund Korssjøen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Per Arne Hammer,,Inge Rosset,"23/21,17/21,21/10",Per Arne Hammer,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Inge Rosset,"21/14,21/13",Asgeir Våbenø Berg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Per Arne Hammer,"21/10,21/9",Asgeir Våbenø Berg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,William Aaberg Rølvåg,Vemund Korssjøen,Lars Bjørnar Vist,"21/19,21/19",Asgeir Våbenø Berg,William Aaberg Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,William Aaberg Rølvåg,Frode Brønstad,Jonny Colen,"21/7,21/15",Asgeir Våbenø Berg,William Aaberg Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Vemund Korssjøen,Lars Bjørnar Vist,Torbjörn Sörlin,Torbjørn Gåsbakk,"21/18,21/18",Vemund Korssjøen,Lars Bjørnar Vist
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Torbjörn Sörlin,Torbjørn Gåsbakk,Jan Aage Nyborg,John Thomas Krogstad,"21/14,21/19",Torbjörn Sörlin,Torbjørn Gåsbakk
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Vemund Korssjøen,Lars Bjørnar Vist,Jan Aage Nyborg,John Thomas Krogstad,"21/10,21/15",Vemund Korssjøen,Lars Bjørnar Vist
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,William Aaberg Rølvåg,Øystein Sveine,Rune Ringseth Bjørhusdahl,"21/12,21/13",Asgeir Våbenø Berg,William Aaberg Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Øystein Sveine,Rune Ringseth Bjørhusdahl,Eimund Sandbugt-Hammer,Per Arne Hammer,"21/9,21/8",Øystein Sveine,Rune Ringseth Bjørhusdahl
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,William Aaberg Rølvåg,Eimund Sandbugt-Hammer,Per Arne Hammer,"21/9,21/2",Asgeir Våbenø Berg,William Aaberg Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Frode Brønstad,Jonny Colen,Inge Rosset,Svenn Jostein Bergin,"19/21,21/7,21/11",Frode Brønstad,Jonny Colen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Frode Brønstad,Jonny Colen,Joar Gåsbakk,Stig Gåsbakk,"21/12,18/21,21/12",Frode Brønstad,Jonny Colen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Herredouble,Joar Gåsbakk,Stig Gåsbakk,Inge Rosset,Svenn Jostein Bergin,"21/16,21/15",Joar Gåsbakk,Stig Gåsbakk
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Tore Hansen,Mirjam Finanger,Stig Gåsbakk,Line Eldegard,"21/10,21/19",Tore Hansen,Mirjam Finanger
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Torbjörn Sörlin,Marte Vorum (ikke bruk denne),Marit Sveine Aspnes,Ole Martin Kolberg,"21/14,21/7",Torbjörn Sörlin,Marte Vorum (ikke bruk denne)
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Tore Hansen,Mirjam Finanger,Lars Bjørnar Vist,Ida Hånes,"21/17,21/23,21/18",Tore Hansen,Mirjam Finanger
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Tore Hansen,Mirjam Finanger,Marit Sveine Aspnes,Ole Martin Kolberg,"16/21,21/11,21/14",Tore Hansen,Mirjam Finanger
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Torbjörn Sörlin,Marte Vorum (ikke bruk denne),Lars Bjørnar Vist,Ida Hånes,"23/25,21/8,21/13",Torbjörn Sörlin,Marte Vorum (ikke bruk denne)
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Lars Bjørnar Vist,Ida Hånes,Marit Sveine Aspnes,Ole Martin Kolberg,"21/18,22/20",Lars Bjørnar Vist,Ida Hånes
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Tore Hansen,Mirjam Finanger,Torbjörn Sörlin,Marte Vorum (ikke bruk denne),"5/21,21/19,21/16",Tore Hansen,Mirjam Finanger
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Stig Gåsbakk,Line Eldegard,Elin Hansen,Eivind Moe,"21/15,21/14",Stig Gåsbakk,Line Eldegard
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Ida Lillevik Førde,Joar Gåsbakk,Aina Kaspersen,John Thomas Krogstad,"14/21,21/19,22/20",Ida Lillevik Førde,Joar Gåsbakk
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Aina Kaspersen,John Thomas Krogstad,Elin Hansen,Eivind Moe,"21/11,21/14",Aina Kaspersen,John Thomas Krogstad
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Stig Gåsbakk,Line Eldegard,Ida Lillevik Førde,Joar Gåsbakk,"21/11,21/10",Stig Gåsbakk,Line Eldegard
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Ida Lillevik Førde,Joar Gåsbakk,Elin Hansen,Eivind Moe,"21/12,18/21,21/18",Ida Lillevik Førde,Joar Gåsbakk
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN C,Mixeddouble,Stig Gåsbakk,Line Eldegard,Aina Kaspersen,John Thomas Krogstad,"21/8,21/17",Stig Gåsbakk,Line Eldegard
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Jonny Colen,,Rune Ringseth Bjørhusdahl,"21/15,13/21,21/16",Jonny Colen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Rune Ringseth Bjørhusdahl,,Johannes Lillevik Førde,"21/19,22/24,21/8",Rune Ringseth Bjørhusdahl,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Svend Morten Reinertsen,,Line Eldegard,"21/16,21/15",Svend Morten Reinertsen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Jonny Colen,,Zhilin Yang,"21/10,21/8",Jonny Colen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Line Eldegard,,Zhilin Yang,"22/24,21/16,21/11",Line Eldegard,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Jonny Colen,,Svend Morten Reinertsen,"21/4,21/8",Jonny Colen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Zhilin Yang,,Svend Morten Reinertsen,"21/17,21/18",Zhilin Yang,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Jonny Colen,,Line Eldegard,"21/12,21/17",Jonny Colen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Eivind Moe,,Kurt Førde,"21/19,21/15",Eivind Moe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Johannes Lillevik Førde,,Kurt Førde,"21/11,21/18",Johannes Lillevik Førde,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Johannes Lillevik Førde,,Eivind Moe,"19/21,21/15,21/17",Johannes Lillevik Førde,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Rune Ringseth Bjørhusdahl,,Marius Andre' Elsfjordstrand Beck,"21/11,21/10",Rune Ringseth Bjørhusdahl,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Carl Danielsen,,Marius Andre' Elsfjordstrand Beck,"21/16,11/21,21/18",Carl Danielsen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herresingle,,Rune Ringseth Bjørhusdahl,,Carl Danielsen,"21/9,21/11",Rune Ringseth Bjørhusdahl,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damesingle,,Marit Sveine Aspnes,,Hui Qian Yang,"21/6,21/12",Marit Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damesingle,,Elin Hansen,,Ida Lillevik Førde,"21/12,21/5",Elin Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damesingle,,Elin Hansen,,Hui Qian Yang,"21/9,21/6",Elin Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damesingle,,Marit Sveine Aspnes,,Ida Lillevik Førde,"21/17,21/13",Marit Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damesingle,,Ida Lillevik Førde,,Hui Qian Yang,"21/15,24/22",Ida Lillevik Førde,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damesingle,,Elin Hansen,,Marit Sveine Aspnes,"21/14,21/16",Elin Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Einar Mathias Øren,Johannes Lillevik Førde,"21/12,21/15",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Einar Mathias Øren,Johannes Lillevik Førde,Hege Merethe Rølvåg,Mirjam Finanger,"24/26,21/14,21/18",Einar Mathias Øren,Johannes Lillevik Førde
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Elin Hansen,Line Eldegard,Frode Wold,Odd Magne Lund,"22/20,17/21,22/20",Elin Hansen,Line Eldegard
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Hege Merethe Rølvåg,Mirjam Finanger,Frode Wold,Odd Magne Lund,"21/17,21/11",Hege Merethe Rølvåg,Mirjam Finanger
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Einar Mathias Øren,Johannes Lillevik Førde,Elin Hansen,Line Eldegard,"24/26,21/14,21/11",Einar Mathias Øren,Johannes Lillevik Førde
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Hege Merethe Rølvåg,Mirjam Finanger,Elin Hansen,Line Eldegard,"21/8,21/13",Hege Merethe Rølvåg,Mirjam Finanger
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Einar Mathias Øren,Johannes Lillevik Førde,Frode Wold,Odd Magne Lund,"21/16,21/18",Einar Mathias Øren,Johannes Lillevik Førde
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Nikolai Danielsen,Carl Danielsen,Kurt Førde,Dag Ivar Lillevik,"21/14,21/16",Nikolai Danielsen,Carl Danielsen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Magnus Mollan,Viktor Vorum Jablonski,"21/16,21/13",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Kurt Førde,Dag Ivar Lillevik,"21/16,21/8",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Magnus Mollan,Viktor Vorum Jablonski,Nikolai Danielsen,Carl Danielsen,"21/17,21/10",Magnus Mollan,Viktor Vorum Jablonski
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Magnus Mollan,Viktor Vorum Jablonski,Kurt Førde,Dag Ivar Lillevik,"21/18,21/11",Magnus Mollan,Viktor Vorum Jablonski
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Nikolai Danielsen,Carl Danielsen,"21/10,21/12",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damedouble,Marit Sveine Aspnes,Ida Hånes,Erle Nordbakk,Vilde Hanssen,"21/6,21/6",Marit Sveine Aspnes,Ida Hånes
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damedouble,Siv Solum Buvik,Ida Lillevik Førde,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,"14/21,21/17,25/23",Siv Solum Buvik,Ida Lillevik Førde
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damedouble,Marit Sveine Aspnes,Ida Hånes,Siv Solum Buvik,Ida Lillevik Førde,"21/13,21/11",Marit Sveine Aspnes,Ida Hånes
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damedouble,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,Erle Nordbakk,Vilde Hanssen,"21/15,21/13",Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damedouble,Marit Sveine Aspnes,Ida Hånes,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,"21/16,21/8",Marit Sveine Aspnes,Ida Hånes
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Damedouble,Erle Nordbakk,Vilde Hanssen,Siv Solum Buvik,Ida Lillevik Førde,"21/19,24/22",Erle Nordbakk,Vilde Hanssen
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Erle Nordbakk,Svenn Jostein Bergin,Vilde Hanssen,Odd Magne Lund,"21/15,21/13",Erle Nordbakk,Svenn Jostein Bergin
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Erle Nordbakk,Svenn Jostein Bergin,Torbjørn Gåsbakk,Halldis Gåsbakk,"21/23,21/15,25/23",Erle Nordbakk,Svenn Jostein Bergin
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Erle Nordbakk,Svenn Jostein Bergin,Zhilin Yang,Hui Qian Yang,"21/16,21/7",Erle Nordbakk,Svenn Jostein Bergin
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Torbjørn Gåsbakk,Halldis Gåsbakk,Zhilin Yang,Hui Qian Yang,"21/12,21/8",Torbjørn Gåsbakk,Halldis Gåsbakk
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Inge Rosset,Evy Grande Brauten,Vilde Hanssen,Odd Magne Lund,"21/18,21/16",Inge Rosset,Evy Grande Brauten
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Vilde Hanssen,Odd Magne Lund,Hege Merethe Rølvåg,Dag Ivar Lillevik,"24/22,21/12",Vilde Hanssen,Odd Magne Lund
+2022/2023,Grong Namdal Open 2023,24.02.2023,SEN D,Mixeddouble,Hege Merethe Rølvåg,Dag Ivar Lillevik,Inge Rosset,Evy Grande Brauten,"21/14,21/16",Hege Merethe Rølvåg,Dag Ivar Lillevik
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Nathan Gilay,,Isak Urstad Himo,"21/17,21/10",Nathan Gilay,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Simon Balvold,,Nathan Gilay,"21/18,21/19",Simon Balvold,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Simon Balvold,,Isak Urstad Himo,"21/14,23/21",Simon Balvold,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Noah Fick Lynum,,Casper Bjørhusdahl,"21/18,21/19",Noah Fick Lynum,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Isak Sveine Aspnes,,David Donner,"22/20,21/13",Isak Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,David Donner,,Casper Bjørhusdahl,"21/12,19/21,21/0",David Donner,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Isak Sveine Aspnes,,Noah Fick Lynum,"21/13,25/23",Isak Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Isak Sveine Aspnes,,Casper Bjørhusdahl,"21/9,21/14",Isak Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herresingle,,Noah Fick Lynum,,David Donner,"11/21,21/15,21/0",Noah Fick Lynum,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Ronja Michelle Pettersen,,Ida Marie Tømmerås Skorstad,"21/12,21/16",Ronja Michelle Pettersen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Ronja Michelle Pettersen,,Najma Omar,"21/7,21/11",Ronja Michelle Pettersen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Ida Marie Tømmerås Skorstad,,Najma Omar,"21/15,21/9",Ida Marie Tømmerås Skorstad,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Alde Andrea Rohde Hallager,,Alma Marie Øren,"21/23,21/18,21/0",Alde Andrea Rohde Hallager,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Matilde Langen,,Jenny Bergin Olsen,"21/17,21/17",Matilde Langen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Alma Marie Øren,,Matilde Langen,"21/14,21/10",Alma Marie Øren,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Alde Andrea Rohde Hallager,,Jenny Bergin Olsen,"21/14,21/11",Alde Andrea Rohde Hallager,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Alma Marie Øren,,Jenny Bergin Olsen,"21/12,21/10",Alma Marie Øren,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damesingle,,Alde Andrea Rohde Hallager,,Matilde Langen,"21/13,21/12",Alde Andrea Rohde Hallager,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herredouble,Isak Sveine Aspnes,Casper Bjørhusdahl,Isak Urstad Himo,Nathan Gilay,"21/13,15/21,21/0",Isak Sveine Aspnes,Casper Bjørhusdahl
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herredouble,Noah Fick Lynum,David Donner,Isak Sveine Aspnes,Casper Bjørhusdahl,"17/21,21/18,21/0",Noah Fick Lynum,David Donner
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Herredouble,Isak Urstad Himo,Nathan Gilay,Noah Fick Lynum,David Donner,"14/21,21/11,21/0",Isak Urstad Himo,Nathan Gilay
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damedouble,Alma Marie Øren,Ronja Michelle Pettersen,Alde Andrea Rohde Hallager,Ida Marie Tømmerås Skorstad,"21/13,21/18",Alma Marie Øren,Ronja Michelle Pettersen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damedouble,Alde Andrea Rohde Hallager,Ida Marie Tømmerås Skorstad,Matilde Langen,Jenny Bergin Olsen,"21/13,21/11",Alde Andrea Rohde Hallager,Ida Marie Tømmerås Skorstad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Damedouble,Alma Marie Øren,Ronja Michelle Pettersen,Matilde Langen,Jenny Bergin Olsen,"21/11,19/21,21/0",Alma Marie Øren,Ronja Michelle Pettersen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Mixeddouble,Alde Andrea Rohde Hallager,Simon Balvold,Ida Marie Tømmerås Skorstad,Noah Fick Lynum,"22/20,21/19",Alde Andrea Rohde Hallager,Simon Balvold
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Mixeddouble,David Donner,Ronja Michelle Pettersen,Jenny Bergin Olsen,Isak Sveine Aspnes,"21/12,21/13",David Donner,Ronja Michelle Pettersen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Mixeddouble,David Donner,Ronja Michelle Pettersen,Ida Marie Tømmerås Skorstad,Noah Fick Lynum,"21/17,21/19",David Donner,Ronja Michelle Pettersen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Mixeddouble,Alde Andrea Rohde Hallager,Simon Balvold,Jenny Bergin Olsen,Isak Sveine Aspnes,"21/8,21/12",Alde Andrea Rohde Hallager,Simon Balvold
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Mixeddouble,Jenny Bergin Olsen,Isak Sveine Aspnes,Ida Marie Tømmerås Skorstad,Noah Fick Lynum,"21/16,21/16",Jenny Bergin Olsen,Isak Sveine Aspnes
+2022/2023,Grong Namdal Open 2023,24.02.2023,U9 A,Mixeddouble,David Donner,Ronja Michelle Pettersen,Alde Andrea Rohde Hallager,Simon Balvold,"21/18,21/12",David Donner,Ronja Michelle Pettersen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herresingle,,Liam Sveine Aspnes,,Håkon Elias Jørgensen,"21/9,21/12",Liam Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herresingle,,Teodor Husmo Sandøy,,Elias Urstad Himo,"21/18,21/18",Teodor Husmo Sandøy,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herresingle,,Teodor Husmo Sandøy,,Liam Sveine Aspnes,"22/24,21/10,21/18",Teodor Husmo Sandøy,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herresingle,,Håkon Elias Jørgensen,,Elias Urstad Himo,"21/19,21/14",Håkon Elias Jørgensen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herresingle,,Liam Sveine Aspnes,,Elias Urstad Himo,"21/12,21/13",Liam Sveine Aspnes,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herresingle,,Teodor Husmo Sandøy,,Håkon Elias Jørgensen,"21/13,21/18",Teodor Husmo Sandøy,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Linnea Finanger Skog,,Vilja Heia,"21/16,21/11",Linnea Finanger Skog,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Thea Oline Moe,,Saabiriin Omar,"21/11,21/11",Thea Oline Moe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Linnea Finanger Skog,,Saabiriin Omar,"21/4,21/7",Linnea Finanger Skog,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Vilja Heia,,Thea Oline Moe,"21/12,21/10",Vilja Heia,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Linnea Finanger Skog,,Thea Oline Moe,"21/14,21/16",Linnea Finanger Skog,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Vilja Heia,,Saabiriin Omar,"21/9,21/1",Vilja Heia,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Ingeborg Tømmerås Skorstad,"21/5,21/10",Ina Maria Skogmo Bjørhusdahl,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Nora Langen,,Ida Amalie Skårn,"21/8,21/10",Nora Langen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Ida Amalie Skårn,,Ingeborg Tømmerås Skorstad,"21/12,21/10",Ida Amalie Skårn,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Nora Langen,,Ina Maria Skogmo Bjørhusdahl,"21/18,20/22,21/13",Nora Langen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Nora Langen,,Ingeborg Tømmerås Skorstad,"21/15,21/9",Nora Langen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Ida Amalie Skårn,"21/14,21/6",Ina Maria Skogmo Bjørhusdahl,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Vilja Heia,Nora Langen,Elias Urstad Himo,Liam Sveine Aspnes,"21/15,21/18",Vilja Heia,Nora Langen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Daniel Lillevik Førde,Teodor Husmo Sandøy,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,"19/21,21/18,21/19",Daniel Lillevik Førde,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Daniel Lillevik Førde,Teodor Husmo Sandøy,Elias Urstad Himo,Liam Sveine Aspnes,"21/11,21/16",Daniel Lillevik Førde,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Vilja Heia,Nora Langen,"21/19,21/17",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Elias Urstad Himo,Liam Sveine Aspnes,"21/5,21/6",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Vilja Heia,Nora Langen,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,"21/12,21/6",Vilja Heia,Nora Langen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,Elias Urstad Himo,Liam Sveine Aspnes,"21/11,21/15",Ingeborg Tømmerås Skorstad,Linnea Finanger Skog
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Daniel Lillevik Førde,Teodor Husmo Sandøy,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,"21/18,13/21,21/17",Daniel Lillevik Førde,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Vilja Heia,Nora Langen,Daniel Lillevik Førde,Teodor Husmo Sandøy,"21/17,12/21,21/13",Vilja Heia,Nora Langen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Herredouble,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Ingeborg Tømmerås Skorstad,Linnea Finanger Skog,"21/11,21/6",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl,Ingeborg Tømmerås Skorstad,Elias Urstad Himo,"21/3,21/11",Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Alma Marie Øren,Daniel Lillevik Førde,Håkon Elias Jørgensen,Thea Oline Moe,"21/18,21/18",Alma Marie Øren,Daniel Lillevik Førde
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Linnea Finanger Skog,Teodor Husmo Sandøy,Alma Marie Øren,Daniel Lillevik Førde,"21/15,21/9",Linnea Finanger Skog,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl,Håkon Elias Jørgensen,Thea Oline Moe,"21/10,21/4",Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Ingeborg Tømmerås Skorstad,Elias Urstad Himo,Alma Marie Øren,Daniel Lillevik Førde,"21/17,21/23,21/14",Ingeborg Tømmerås Skorstad,Elias Urstad Himo
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Linnea Finanger Skog,Teodor Husmo Sandøy,Håkon Elias Jørgensen,Thea Oline Moe,"21/13,21/14",Linnea Finanger Skog,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl,Alma Marie Øren,Daniel Lillevik Førde,"21/16,21/7",Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Linnea Finanger Skog,Teodor Husmo Sandøy,Ingeborg Tømmerås Skorstad,Elias Urstad Himo,"18/21,21/9,21/19",Linnea Finanger Skog,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Linnea Finanger Skog,Teodor Husmo Sandøy,Liam Sveine Aspnes,Ina Maria Skogmo Bjørhusdahl,"9/21,21/14,21/17",Linnea Finanger Skog,Teodor Husmo Sandøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U11 A,Mixeddouble,Ingeborg Tømmerås Skorstad,Elias Urstad Himo,Håkon Elias Jørgensen,Thea Oline Moe,"21/8,21/19",Ingeborg Tømmerås Skorstad,Elias Urstad Himo
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/7,21/5",Benjamin Brevik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Benjamin Brevik,,Amund Børmark,"21/2,21/3",Benjamin Brevik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Benjamin Brevik,,Jaran Salater Nygård,"21/2,21/6",Benjamin Brevik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Jaran Salater Nygård,,Amund Børmark,"21/16,21/10",Jaran Salater Nygård,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Jonathan Rohde Hallager,,Viktor Eldegard,"21/10,21/10",Jonathan Rohde Hallager,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Jonathan Rohde Hallager,,Oliver Langen,"21/10,21/11",Jonathan Rohde Hallager,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Konrad Soløy Myrbostad,,Oliver Langen,"21/10,21/15",Konrad Soløy Myrbostad,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Konrad Soløy Myrbostad,,Viktor Eldegard,"21/15,21/14",Konrad Soløy Myrbostad,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Oliver Langen,,Viktor Eldegard,"21/16,19/21,21/17",Oliver Langen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Herresingle,,Jonathan Rohde Hallager,,Konrad Soløy Myrbostad,"21/15,19/21,21/12",Jonathan Rohde Hallager,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Damesingle,,Daria Mari Beck,,Alva Karoline Sandøy Bredrup,"21/15,21/12",Daria Mari Beck,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Damesingle,,Maja Mathilde Johnsen Sørgjerd,,Alva Karoline Sandøy Bredrup,"21/8,21/11",Maja Mathilde Johnsen Sørgjerd,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 A,Damesingle,,Maja Mathilde Johnsen Sørgjerd,,Daria Mari Beck,"21/19,21/11",Maja Mathilde Johnsen Sørgjerd,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Anton Einarsen Fiskum,,Karl William Hanssen,"21/18,13/21,22/20",Anton Einarsen Fiskum,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Anton Einarsen Fiskum,,Michael Donner,"19/21,21/13,21/13",Anton Einarsen Fiskum,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Anton Einarsen Fiskum,,Noah Hallan,"21/19,21/11",Anton Einarsen Fiskum,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Michael Donner,,Noah Hallan,"21/6,21/13",Michael Donner,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Karl William Hanssen,,Sivert Vik-Mo Falch,"21/8,21/4",Karl William Hanssen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Karl William Hanssen,,Gustav Arnøy,"19/21,21/13,21/12",Karl William Hanssen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herresingle,,Gustav Arnøy,,Sivert Vik-Mo Falch,"21/15,21/16",Gustav Arnøy,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herredouble,Karl William Hanssen,Anton Einarsen Fiskum,Michael Donner,Sivert Vik-Mo Falch,"21/11,21/11",Karl William Hanssen,Anton Einarsen Fiskum
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herredouble,Karl William Hanssen,Anton Einarsen Fiskum,Noah Hallan,Gustav Arnøy,"21/18,21/11",Karl William Hanssen,Anton Einarsen Fiskum
+2022/2023,Grong Namdal Open 2023,24.02.2023,U13 B,Herredouble,Noah Hallan,Gustav Arnøy,Michael Donner,Sivert Vik-Mo Falch,"21/15,12/21,21/17",Noah Hallan,Gustav Arnøy
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Eimund Sandbugt-Hammer,,Vebjørn Børmark,"21/15,9/21,21/19",Eimund Sandbugt-Hammer,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Einar Mathias Øren,,Viktor Vorum Jablonski,"21/18,21/12",Einar Mathias Øren,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Eimund Sandbugt-Hammer,,Viktor Vorum Jablonski,"19/21,21/14,22/20",Eimund Sandbugt-Hammer,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Ludvig Kolberg,,Viktor Vorum Jablonski,"21/15,21/7",Ludvig Kolberg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Einar Mathias Øren,,Ludvig Kolberg,"21/17,21/18",Einar Mathias Øren,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Vebjørn Børmark,,Viktor Vorum Jablonski,"21/14,18/21,21/10",Vebjørn Børmark,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Eimund Sandbugt-Hammer,,Ludvig Kolberg,"21/17,21/18",Eimund Sandbugt-Hammer,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Ludvig Kolberg,,Vebjørn Børmark,"19/21,21/19,21/19",Ludvig Kolberg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Herresingle,,Einar Mathias Øren,,Eimund Sandbugt-Hammer,"21/10,19/21,21/11",Einar Mathias Øren,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Mixeddouble,Pernille Lillevik,William Aaberg Rølvåg,Kristiane Rohde Hallager,Ludvig Kolberg,"21/6,21/12",Pernille Lillevik,William Aaberg Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Mixeddouble,William R. Barø,Shuwen Yang,Asgeir Våbenø Berg,Silje Lyngstad Skavhaug,"21/7,21/13",William R. Barø,Shuwen Yang
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Mixeddouble,Asgeir Våbenø Berg,Silje Lyngstad Skavhaug,Kristiane Rohde Hallager,Ludvig Kolberg,"21/10,21/6",Asgeir Våbenø Berg,Silje Lyngstad Skavhaug
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Mixeddouble,William R. Barø,Shuwen Yang,Pernille Lillevik,William Aaberg Rølvåg,"21/12,21/6",William R. Barø,Shuwen Yang
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Mixeddouble,William R. Barø,Shuwen Yang,Kristiane Rohde Hallager,Ludvig Kolberg,"21/3,21/5",William R. Barø,Shuwen Yang
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 A,Mixeddouble,Pernille Lillevik,William Aaberg Rølvåg,Asgeir Våbenø Berg,Silje Lyngstad Skavhaug,"21/15,22/20",Pernille Lillevik,William Aaberg Rølvåg
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Sindre Emanuel Moe,,Abdulahi Abdulahi,"21/3,21/4",Sindre Emanuel Moe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Arnold Strand,,Tobias Langlie,"11/21,21/17,21/18",Arnold Strand,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Abdulahi Abdulahi,,Tobias Langlie,"21/23,21/15,22/20",Abdulahi Abdulahi,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Kenneth Bernhoff,,Arnold Strand,"21/14,21/15",Kenneth Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Sindre Emanuel Moe,,Tobias Langlie,"21/17,21/18",Sindre Emanuel Moe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Kenneth Bernhoff,,Abdulahi Abdulahi,"21/13,21/9",Kenneth Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Sindre Emanuel Moe,,Arnold Strand,"21/17,21/8",Sindre Emanuel Moe,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Kenneth Bernhoff,,Tobias Langlie,"21/16,25/23",Kenneth Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Arnold Strand,,Abdulahi Abdulahi,"21/10,21/14",Arnold Strand,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herresingle,,Kenneth Bernhoff,,Sindre Emanuel Moe,"21/11,21/9",Kenneth Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Thea Isabell Hansen,,Annelotte Storsul Sverdrup,"21/3,21/5",Thea Isabell Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Marthe Evjenth,,Thea Storheil,"21/10,21/8",Marthe Evjenth,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Emilie Romundstad Nyborg,,Annelotte Storsul Sverdrup,"21/12,21/14",Emilie Romundstad Nyborg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Thea Isabell Hansen,,Marthe Evjenth,"21/10,21/11",Thea Isabell Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Thea Isabell Hansen,,Thea Storheil,"21/7,21/6",Thea Isabell Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Emilie Romundstad Nyborg,,Marthe Evjenth,"21/15,21/17",Emilie Romundstad Nyborg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Marthe Evjenth,,Annelotte Storsul Sverdrup,"21/13,21/16",Marthe Evjenth,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Emilie Romundstad Nyborg,,Thea Storheil,"21/5,21/10",Emilie Romundstad Nyborg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Annelotte Storsul Sverdrup,,Thea Storheil,"21/14,21/10",Annelotte Storsul Sverdrup,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damesingle,,Thea Isabell Hansen,,Emilie Romundstad Nyborg,"21/6,21/7",Thea Isabell Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Tobias Langlie,Konrad Soløy Myrbostad,Arnold Strand,Abdulahi Abdulahi,"21/13,21/11",Tobias Langlie,Konrad Soløy Myrbostad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Kenneth Bernhoff,Sindre Emanuel Moe,Viktor Eldegard,Jaran Salater Nygård,"22/20,21/17",Kenneth Bernhoff,Sindre Emanuel Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Kenneth Bernhoff,Sindre Emanuel Moe,Tobias Langlie,Konrad Soløy Myrbostad,"22/20,21/18",Kenneth Bernhoff,Sindre Emanuel Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Oliver Langen,Jonathan Rohde Hallager,Arnold Strand,Abdulahi Abdulahi,"21/12,21/10",Oliver Langen,Jonathan Rohde Hallager
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Oliver Langen,Jonathan Rohde Hallager,Tobias Langlie,Konrad Soløy Myrbostad,"21/9,17/21,21/19",Oliver Langen,Jonathan Rohde Hallager
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Viktor Eldegard,Jaran Salater Nygård,Arnold Strand,Abdulahi Abdulahi,"21/11,21/10",Viktor Eldegard,Jaran Salater Nygård
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Oliver Langen,Jonathan Rohde Hallager,Kenneth Bernhoff,Sindre Emanuel Moe,"21/10,21/14",Oliver Langen,Jonathan Rohde Hallager
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Viktor Eldegard,Jaran Salater Nygård,Tobias Langlie,Konrad Soløy Myrbostad,"21/10,21/10",Viktor Eldegard,Jaran Salater Nygård
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Kenneth Bernhoff,Sindre Emanuel Moe,Arnold Strand,Abdulahi Abdulahi,"21/14,17/21,21/14",Kenneth Bernhoff,Sindre Emanuel Moe
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Herredouble,Oliver Langen,Jonathan Rohde Hallager,Viktor Eldegard,Jaran Salater Nygård,"21/12,21/10",Oliver Langen,Jonathan Rohde Hallager
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damedouble,Thea Isabell Hansen,Marthe Evjenth,Thea Storheil,Annelotte Storsul Sverdrup,"21/5,21/8",Thea Isabell Hansen,Marthe Evjenth
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damedouble,Alva Karoline Sandøy Bredrup,Daria Mari Beck,Thea Storheil,Annelotte Storsul Sverdrup,"21/3,21/10",Alva Karoline Sandøy Bredrup,Daria Mari Beck
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Damedouble,Thea Isabell Hansen,Marthe Evjenth,Alva Karoline Sandøy Bredrup,Daria Mari Beck,"21/18,22/20",Thea Isabell Hansen,Marthe Evjenth
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd,Jonathan Rohde Hallager,Alva Karoline Sandøy Bredrup,"21/8,21/9",Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Jonathan Rohde Hallager,Alva Karoline Sandøy Bredrup,Sindre Emanuel Moe,Thea Isabell Hansen,"21/18,21/19",Jonathan Rohde Hallager,Alva Karoline Sandøy Bredrup
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Johannes Lillevik Førde,Marthe Evjenth,Sindre Emanuel Moe,Thea Isabell Hansen,"21/12,22/20",Johannes Lillevik Førde,Marthe Evjenth
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Daria Mari Beck,Konrad Soløy Myrbostad,Jonathan Rohde Hallager,Alva Karoline Sandøy Bredrup,"21/11,21/14",Daria Mari Beck,Konrad Soløy Myrbostad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Daria Mari Beck,Konrad Soløy Myrbostad,Sindre Emanuel Moe,Thea Isabell Hansen,"21/16,21/11",Daria Mari Beck,Konrad Soløy Myrbostad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Johannes Lillevik Førde,Marthe Evjenth,Jonathan Rohde Hallager,Alva Karoline Sandøy Bredrup,"21/15,21/10",Johannes Lillevik Førde,Marthe Evjenth
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Johannes Lillevik Førde,Marthe Evjenth,Daria Mari Beck,Konrad Soløy Myrbostad,"21/15,21/19",Johannes Lillevik Førde,Marthe Evjenth
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd,Sindre Emanuel Moe,Thea Isabell Hansen,"21/14,21/12",Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd,Johannes Lillevik Førde,Marthe Evjenth,"21/19,21/14",Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd
+2022/2023,Grong Namdal Open 2023,24.02.2023,U15 B,Mixeddouble,Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd,Daria Mari Beck,Konrad Soløy Myrbostad,"21/8,12/21,22/20",Benjamin Brevik,Maja Mathilde Johnsen Sørgjerd
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,Gaute Sellevoll,,Edvart Soløy Myrbostad,"21/11,21/16",Gaute Sellevoll,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,Alexander Hansen,,Viktor Mokkelbost,"21/13,21/13",Alexander Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,Gaute Sellevoll,,Alexander Hansen,"21/15,21/6",Gaute Sellevoll,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,William Aaberg Rølvåg,,Viktor Mokkelbost,"21/9,21/10",William Aaberg Rølvåg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,Alexander Hansen,,Edvart Soløy Myrbostad,"21/16,21/15",Alexander Hansen,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,William Aaberg Rølvåg,,Gaute Sellevoll,"21/17,22/20",William Aaberg Rølvåg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,Edvart Soløy Myrbostad,,Viktor Mokkelbost,"16/21,21/18,21/19",Edvart Soløy Myrbostad,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,William Aaberg Rølvåg,,Alexander Hansen,"21/12,21/15",William Aaberg Rølvåg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,Gaute Sellevoll,,Viktor Mokkelbost,"21/8,21/6",Gaute Sellevoll,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herresingle,,William Aaberg Rølvåg,,Edvart Soløy Myrbostad,"21/17,21/8",William Aaberg Rølvåg,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Damesingle,,Shuwen Yang,,Silje Lyngstad Skavhaug,"21/8,21/11",Shuwen Yang,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Damesingle,,Pernille Lillevik,,Sylvia Husmo,"21/9,21/7",Pernille Lillevik,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Damesingle,,Shuwen Yang,,Pernille Lillevik,"21/9,21/7",Shuwen Yang,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Damesingle,,Shuwen Yang,,Sylvia Husmo,"21/6,21/1",Shuwen Yang,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Damesingle,,Silje Lyngstad Skavhaug,,Kristiane Rohde Hallager,"21/17,21/14",Silje Lyngstad Skavhaug,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Ludvig Kolberg,Benjamin Brevik,Vebjørn Børmark,Amund Børmark,"21/14,21/13",Ludvig Kolberg,Benjamin Brevik
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Mats Bernhoff,Alexander Hansen,Martin Wallenius Hesjeli,Viktor Mokkelbost,"21/8,24/22",Mats Bernhoff,Alexander Hansen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Lukas Stonys,Edvart Soløy Myrbostad,Ludvig Kolberg,Benjamin Brevik,"21/13,22/20",Lukas Stonys,Edvart Soløy Myrbostad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Martin Wallenius Hesjeli,Viktor Mokkelbost,Vebjørn Børmark,Amund Børmark,"21/14,21/19",Martin Wallenius Hesjeli,Viktor Mokkelbost
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Ludvig Kolberg,Benjamin Brevik,Martin Wallenius Hesjeli,Viktor Mokkelbost,"21/12,22/24,21/19",Ludvig Kolberg,Benjamin Brevik
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Mats Bernhoff,Alexander Hansen,Vebjørn Børmark,Amund Børmark,"21/9,21/12",Mats Bernhoff,Alexander Hansen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Lukas Stonys,Edvart Soløy Myrbostad,Vebjørn Børmark,Amund Børmark,"21/14,21/14",Lukas Stonys,Edvart Soløy Myrbostad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Mats Bernhoff,Alexander Hansen,Ludvig Kolberg,Benjamin Brevik,"21/19,18/21,21/15",Mats Bernhoff,Alexander Hansen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Lukas Stonys,Edvart Soløy Myrbostad,Martin Wallenius Hesjeli,Viktor Mokkelbost,"13/21,21/18,21/18",Lukas Stonys,Edvart Soløy Myrbostad
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Herredouble,Mats Bernhoff,Alexander Hansen,Lukas Stonys,Edvart Soløy Myrbostad,"21/17,21/11",Mats Bernhoff,Alexander Hansen
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Damedouble,Silje Lyngstad Skavhaug,Shuwen Yang,Kristiane Rohde Hallager,Pernille Lillevik,"21/10,19/21,21/13",Silje Lyngstad Skavhaug,Shuwen Yang
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 A,Mixeddouble,Minni Elise Aakvik,Gaute Sellevoll,Edvart Soløy Myrbostad,Sylvia Husmo,"21/17,21/17",Minni Elise Aakvik,Gaute Sellevoll
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Mats Bernhoff,,Magnus Mollan,"21/19,19/21,21/17",Mats Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Lukas Stonys,,Martin Wallenius Hesjeli,"21/5,21/19",Lukas Stonys,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Mats Bernhoff,,Martin Wallenius Hesjeli,"21/15,21/19",Mats Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Lukas Stonys,,Nikolai Danielsen,"21/15,21/11",Lukas Stonys,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Martin Wallenius Hesjeli,,Magnus Mollan,"21/15,19/21,21/18",Martin Wallenius Hesjeli,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Mats Bernhoff,,Nikolai Danielsen,"21/14,21/15",Mats Bernhoff,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Lukas Stonys,,Magnus Mollan,"21/9,21/16",Lukas Stonys,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Martin Wallenius Hesjeli,,Nikolai Danielsen,"21/13,21/17",Martin Wallenius Hesjeli,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Lukas Stonys,,Mats Bernhoff,"17/21,21/16,21/13",Lukas Stonys,
+2022/2023,Grong Namdal Open 2023,24.02.2023,U17 B,Herresingle,,Magnus Mollan,,Nikolai Danielsen,"19/21,21/12,21/19",Magnus Mollan,

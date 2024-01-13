@@ -3,7 +3,9 @@ import { useParams, Link } from 'react-router-dom';
 import data from './combined_rankings.json';
 import { Line } from 'react-chartjs-2';
 import './styles.css'; // Import the styles.css file
-import PlayerTournaments from './components/PlayerTournaments'; // Import the new component
+import PlayerRecentMatches from './components/PlayerRecentMatches';
+
+
 
 
 
@@ -142,7 +144,6 @@ const PlayerDetail = () => {
     improvementMessage = 'Stabil';
   }
 
-const playerTournaments = playerData.tournaments || [];
   
   return (
     <div className="player-detail-container">
@@ -195,9 +196,14 @@ const playerTournaments = playerData.tournaments || [];
           ))}
         </tbody>
       </table>
+      <PlayerRecentMatches playerName={playerName} />
+      </div>
+
       
-      <PlayerTournaments playerName={playerName} playerTournaments={playerTournaments} /></div>
   );
+
+
+
   
 };
 

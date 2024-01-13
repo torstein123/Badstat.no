@@ -1,215 +1,126 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Richard Jakobsen,"21/15,21/10",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Johannes Orri Olafsson,"21/15,21/12",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Johannes Orri Olafsson,,Richard Jakobsen,"21/12,21/14",Johannes Orri Olafsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Bent Mørken,"21/9,21/9",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Richard Jakobsen,"21/9,21/17",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Johannes Orri Olafsson,"21/14,21/15",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Richard Jakobsen,"21/15,21/10",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Johannes Orri Olafsson,"21/15,21/12",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Johannes Orri Olafsson,,Richard Jakobsen,"21/12,21/14",Johannes Orri Olafsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Bent Mørken,"21/9,21/9",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Richard Jakobsen,"21/9,21/17",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Johannes Orri Olafsson,"21/14,21/15",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Carl Christian Møller Jacobsen,Truls Helgerød,Frida Bjørvik Løvheim,Marielle Sørby,"21/10,21/6",Carl Christian Møller Jacobsen,Truls Helgerød
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"25/23,21/19",Bent Mørken,Richard Jakobsen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Frida Bjørvik Løvheim,Marielle Sørby,"21/14,21/13",Johannes Orri Olafsson,Marius Sørby
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Carl Christian Møller Jacobsen,Truls Helgerød,Bent Mørken,Richard Jakobsen,"21/14,25/23",Carl Christian Møller Jacobsen,Truls Helgerød
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Bent Mørken,Richard Jakobsen,Frida Bjørvik Løvheim,Marielle Sørby,"21/8,21/10",Bent Mørken,Richard Jakobsen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Carl Christian Møller Jacobsen,Truls Helgerød,Johannes Orri Olafsson,Marius Sørby,"21/8,21/15",Carl Christian Møller Jacobsen,Truls Helgerød
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Richard Jakobsen,"21/15,21/10",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Johannes Orri Olafsson,"21/15,21/12",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Johannes Orri Olafsson,,Richard Jakobsen,"21/12,21/14",Johannes Orri Olafsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Bent Mørken,"21/9,21/9",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Richard Jakobsen,"21/9,21/17",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Johannes Orri Olafsson,"21/14,21/15",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Richard Jakobsen,"21/15,21/10",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Johannes Orri Olafsson,"21/15,21/12",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Johannes Orri Olafsson,,Richard Jakobsen,"21/12,21/14",Johannes Orri Olafsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Bent Mørken,"21/9,21/9",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Carl Christian Møller Jacobsen,,Richard Jakobsen,"21/9,21/17",Carl Christian Møller Jacobsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,,Bent Mørken,,Johannes Orri Olafsson,"21/14,21/15",Bent Mørken,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Carl Christian Møller Jacobsen,Truls Helgerød,Frida Bjørvik Løvheim,Marielle Sørby,"21/10,21/6",Carl Christian Møller Jacobsen,Truls Helgerød
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"25/23,21/19",Bent Mørken,Richard Jakobsen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Frida Bjørvik Løvheim,Marielle Sørby,"21/14,21/13",Johannes Orri Olafsson,Marius Sørby
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Carl Christian Møller Jacobsen,Truls Helgerød,Bent Mørken,Richard Jakobsen,"21/14,25/23",Carl Christian Møller Jacobsen,Truls Helgerød
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Bent Mørken,Richard Jakobsen,Frida Bjørvik Løvheim,Marielle Sørby,"21/8,21/10",Bent Mørken,Richard Jakobsen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Carl Christian Møller Jacobsen,Truls Helgerød,Johannes Orri Olafsson,Marius Sørby,"21/8,21/15",Carl Christian Møller Jacobsen,Truls Helgerød
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Rishi Arvind Phatak,,Svein Jacob Kaspersen,"21/8,21/2",Rishi Arvind Phatak,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Marius Imset,,Rune Enoksen,"21/9,21/12",Marius Imset,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Rune Enoksen,,Svein Jacob Kaspersen,"18/21,21/14,21/16",Rune Enoksen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Marius Imset,,Rishi Arvind Phatak,"21/17,21/12",Marius Imset,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Svein Jacob Kaspersen,,Marius Imset,"21/6,21/11",Svein Jacob Kaspersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Rishi Arvind Phatak,,Rune Enoksen,"21/13,21/9",Rishi Arvind Phatak,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Rishi Arvind Phatak,,Svein Jacob Kaspersen,"21/8,21/2",Rishi Arvind Phatak,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Marius Imset,,Rune Enoksen,"21/9,21/12",Marius Imset,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Rune Enoksen,,Svein Jacob Kaspersen,"18/21,21/14,21/16",Rune Enoksen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Marius Imset,,Rishi Arvind Phatak,"21/17,21/12",Marius Imset,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Svein Jacob Kaspersen,,Marius Imset,"21/6,21/11",Svein Jacob Kaspersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,,Rishi Arvind Phatak,,Rune Enoksen,"21/13,21/9",Rishi Arvind Phatak,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Jørgen Thorp,"21/16,21/10",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Aleksander Boutenko,"21/9,21/14",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Marius Dolven,"19/21,21/16,21/16",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Endre Sundby Dalen,"21/9,21/10",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Marius Dolven,,Einar Høksnes,"21/17,21/7",Marius Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Marius Dolven,,Endre Sundby Dalen,"21/13,24/26,21/16",Marius Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Einar Høksnes,"21/6,21/7",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Endre Sundby Dalen,,Einar Høksnes,"21/10,21/18",Endre Sundby Dalen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Marius Dolven,"21/13,21/7",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Aleksander Boutenko,,Steinar Høiback,"21/13,16/21,21/10",Aleksander Boutenko,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Steinar Høiback,"21/15,21/12",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Aleksander Boutenko,,Dave Derder,"21/16,19/21,21/19",Aleksander Boutenko,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Aleksander Boutenko,"21/15,21/17",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Dave Derder,,Steinar Høiback,"21/19,21/17",Dave Derder,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Dave Derder,"21/13,21/13",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Jørgen Thorp,"21/16,21/10",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Aleksander Boutenko,"21/9,21/14",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Marius Dolven,"19/21,21/16,21/16",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Endre Sundby Dalen,"21/9,21/10",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Marius Dolven,,Einar Høksnes,"21/17,21/7",Marius Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Marius Dolven,,Endre Sundby Dalen,"21/13,24/26,21/16",Marius Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Einar Høksnes,"21/6,21/7",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Endre Sundby Dalen,,Einar Høksnes,"21/10,21/18",Endre Sundby Dalen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Svein Brenna,,Marius Dolven,"21/13,21/7",Svein Brenna,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Aleksander Boutenko,,Steinar Høiback,"21/13,16/21,21/10",Aleksander Boutenko,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Steinar Høiback,"21/15,21/12",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Aleksander Boutenko,,Dave Derder,"21/16,19/21,21/19",Aleksander Boutenko,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Aleksander Boutenko,"21/15,21/17",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Dave Derder,,Steinar Høiback,"21/19,21/17",Dave Derder,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,,Jørgen Thorp,,Dave Derder,"21/13,21/13",Jørgen Thorp,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Adnan Safdar Warraich,Hassan Ali,Rishi Arvind Phatak,Rune Enoksen,"20/22,21/19,25/23",Adnan Safdar Warraich,Hassan Ali
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Rishi Arvind Phatak,Rune Enoksen,Victor Yeap,Svein Jacob Kaspersen,"21/14,21/12",Rishi Arvind Phatak,Rune Enoksen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Adnan Safdar Warraich,Hassan Ali,Pelle Cornelius Nordeide,Eirik Wallentin,"21/15,21/9",Adnan Safdar Warraich,Hassan Ali
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Rishi Arvind Phatak,Rune Enoksen,Einar Høksnes,Jing Jin,"21/11,21/11",Rishi Arvind Phatak,Rune Enoksen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Pelle Cornelius Nordeide,Eirik Wallentin,Marius Dolven,Steinar Høiback,"21/10,21/17",Pelle Cornelius Nordeide,Eirik Wallentin
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Rishi Arvind Phatak,Rune Enoksen,Marius Dolven,Steinar Høiback,"21/6,21/9",Rishi Arvind Phatak,Rune Enoksen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Pelle Cornelius Nordeide,Eirik Wallentin,Einar Høksnes,Jing Jin,"21/18,21/13",Pelle Cornelius Nordeide,Eirik Wallentin
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Rishi Arvind Phatak,Rune Enoksen,Pelle Cornelius Nordeide,Eirik Wallentin,"21/14,21/13",Rishi Arvind Phatak,Rune Enoksen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Einar Høksnes,Jing Jin,Marius Dolven,Steinar Høiback,"21/15,21/15",Einar Høksnes,Jing Jin
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Victor Yeap,Svein Jacob Kaspersen,Fredrik T.N. Joakimsen,Jakob Grønstøl,"21/9,21/17",Victor Yeap,Svein Jacob Kaspersen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Adnan Safdar Warraich,Hassan Ali,Jørgen Thorp,Svein Brenna,"21/17,21/6",Adnan Safdar Warraich,Hassan Ali
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Adnan Safdar Warraich,Hassan Ali,Fredrik T.N. Joakimsen,Jakob Grønstøl,"21/9,21/12",Adnan Safdar Warraich,Hassan Ali
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Victor Yeap,Svein Jacob Kaspersen,Jørgen Thorp,Svein Brenna,"21/18,21/7",Victor Yeap,Svein Jacob Kaspersen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Jørgen Thorp,Svein Brenna,Fredrik T.N. Joakimsen,Jakob Grønstøl,"21/14,21/23,21/19",Jørgen Thorp,Svein Brenna
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Adnan Safdar Warraich,Hassan Ali,Victor Yeap,Svein Jacob Kaspersen,"21/16,21/11",Adnan Safdar Warraich,Hassan Ali
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Anne Kathrine Wenaas Ribe,"21/9,21/18",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Hong-Thien Nguyen Phatak,"21/8,21/10",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Anne Kathrine Wenaas Ribe,,Silje Stenstad Nilsen,"21/10,16/21,21/10",Anne Kathrine Wenaas Ribe,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Silje Stenstad Nilsen,,Betzy Margrethe Parelius Wammer,"17/21,21/18,21/8",Silje Stenstad Nilsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Betzy Margrethe Parelius Wammer,"21/8,21/6",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Silje Stenstad Nilsen,"21/6,21/7",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Anne Kathrine Wenaas Ribe,,Anita Løvheim,"21/15,21/12",Anne Kathrine Wenaas Ribe,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Anne Kathrine Wenaas Ribe,,Hong-Thien Nguyen Phatak,"21/19,21/19",Anne Kathrine Wenaas Ribe,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Hong-Thien Nguyen Phatak,,Anita Løvheim,"21/12,21/13",Hong-Thien Nguyen Phatak,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Anne Kathrine Wenaas Ribe,"21/9,21/18",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Hong-Thien Nguyen Phatak,"21/8,21/10",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Anne Kathrine Wenaas Ribe,,Silje Stenstad Nilsen,"21/10,16/21,21/10",Anne Kathrine Wenaas Ribe,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Silje Stenstad Nilsen,,Betzy Margrethe Parelius Wammer,"17/21,21/18,21/8",Silje Stenstad Nilsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Betzy Margrethe Parelius Wammer,"21/8,21/6",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Marielle Sørby,,Silje Stenstad Nilsen,"21/6,21/7",Marielle Sørby,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Anne Kathrine Wenaas Ribe,,Anita Løvheim,"21/15,21/12",Anne Kathrine Wenaas Ribe,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Anne Kathrine Wenaas Ribe,,Hong-Thien Nguyen Phatak,"21/19,21/19",Anne Kathrine Wenaas Ribe,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,,Hong-Thien Nguyen Phatak,,Anita Løvheim,"21/12,21/13",Hong-Thien Nguyen Phatak,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Hong-Thien Nguyen Phatak,Betzy Margrethe Parelius Wammer,Anita Løvheim,Anne Kathrine Wenaas Ribe,"10/21,21/19,21/16",Hong-Thien Nguyen Phatak,Betzy Margrethe Parelius Wammer
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Hafrun Jònsdottìr,Marie A. Toverud,Hong-Thien Nguyen Phatak,Betzy Margrethe Parelius Wammer,"24/22,16/21,21/7",Hafrun Jònsdottìr,Marie A. Toverud
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Hafrun Jònsdottìr,Marie A. Toverud,Anita Løvheim,Anne Kathrine Wenaas Ribe,"21/17,17/21,21/17",Hafrun Jònsdottìr,Marie A. Toverud
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Fredrik Paulsen Lauritsen,"22/20,21/18",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Mari N. Joakimsen,"21/12,21/9",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Ryan Danie,"23/21,21/16",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Mari N. Joakimsen,,Åsmund Petersen,"21/6,24/26,21/7",Mari N. Joakimsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Leon Aleksander Holstein,"21/3,21/8",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Karthikkesh Chandran,,Sebastian Kaalstad,"21/19,21/11",Karthikkesh Chandran,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Leon Aleksander Holstein,,Casper Westlin Solli,"21/11,21/9",Leon Aleksander Holstein,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Leon Aleksander Holstein,,Karthikkesh Chandran,"21/17,21/12",Leon Aleksander Holstein,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Casper Westlin Solli,"21/6,21/4",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Karthikkesh Chandran,,Casper Westlin Solli,"21/10,22/20",Karthikkesh Chandran,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Sebastian Kaalstad,"21/4,21/3",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Casper Westlin Solli,,Sebastian Kaalstad,"21/14,22/20",Casper Westlin Solli,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Leon Aleksander Holstein,"21/6,21/4",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Karthikkesh Chandran,"21/4,21/4",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Leon Aleksander Holstein,,Sebastian Kaalstad,"21/11,21/11",Leon Aleksander Holstein,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Mari N. Joakimsen,,Alfred Egenes,"21/16,21/11",Mari N. Joakimsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Emil Kristensen Midttun,"21/6,21/8",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Alfred Egenes,"21/14,21/6",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Mari N. Joakimsen,,Emil Kristensen Midttun,"21/9,21/11",Mari N. Joakimsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Alfred Egenes,,Emil Kristensen Midttun,"21/14,21/13",Alfred Egenes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Mari N. Joakimsen,"21/11,21/14",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Åsmund Petersen,,Edward Salvesen,"21/15,21/12",Åsmund Petersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Eirik Østbye Dahl,"21/8,21/8",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Åsmund Petersen,,Eirik Østbye Dahl,"21/19,21/13",Åsmund Petersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Marcus Myrbråten,"21/5,21/9",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Åsmund Petersen,,Marcus Myrbråten,"21/14,21/13",Åsmund Petersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Edward Salvesen,,Eirik Østbye Dahl,"21/16,21/18",Edward Salvesen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Eirik Østbye Dahl,,Marcus Myrbråten,"21/12,21/8",Eirik Østbye Dahl,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Edward Salvesen,"21/4,21/7",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Åsmund Petersen,"21/5,21/9",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Edward Salvesen,,Marcus Myrbråten,"21/19,21/14",Edward Salvesen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Fredrik Paulsen Lauritsen,"22/20,21/18",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Mari N. Joakimsen,"21/12,21/9",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Ryan Danie,"23/21,21/16",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Mari N. Joakimsen,,Åsmund Petersen,"21/6,24/26,21/7",Mari N. Joakimsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Leon Aleksander Holstein,"21/3,21/8",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Karthikkesh Chandran,,Sebastian Kaalstad,"21/19,21/11",Karthikkesh Chandran,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Leon Aleksander Holstein,,Casper Westlin Solli,"21/11,21/9",Leon Aleksander Holstein,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Leon Aleksander Holstein,,Karthikkesh Chandran,"21/17,21/12",Leon Aleksander Holstein,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Casper Westlin Solli,"21/6,21/4",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Karthikkesh Chandran,,Casper Westlin Solli,"21/10,22/20",Karthikkesh Chandran,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Sebastian Kaalstad,"21/4,21/3",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Casper Westlin Solli,,Sebastian Kaalstad,"21/14,22/20",Casper Westlin Solli,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Leon Aleksander Holstein,"21/6,21/4",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Fredrik Paulsen Lauritsen,,Karthikkesh Chandran,"21/4,21/4",Fredrik Paulsen Lauritsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Leon Aleksander Holstein,,Sebastian Kaalstad,"21/11,21/11",Leon Aleksander Holstein,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Mari N. Joakimsen,,Alfred Egenes,"21/16,21/11",Mari N. Joakimsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Emil Kristensen Midttun,"21/6,21/8",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Alfred Egenes,"21/14,21/6",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Mari N. Joakimsen,,Emil Kristensen Midttun,"21/9,21/11",Mari N. Joakimsen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Alfred Egenes,,Emil Kristensen Midttun,"21/14,21/13",Alfred Egenes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Martin Bjørvik Løvheim,,Mari N. Joakimsen,"21/11,21/14",Martin Bjørvik Løvheim,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Åsmund Petersen,,Edward Salvesen,"21/15,21/12",Åsmund Petersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Eirik Østbye Dahl,"21/8,21/8",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Åsmund Petersen,,Eirik Østbye Dahl,"21/19,21/13",Åsmund Petersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Marcus Myrbråten,"21/5,21/9",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Åsmund Petersen,,Marcus Myrbråten,"21/14,21/13",Åsmund Petersen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Edward Salvesen,,Eirik Østbye Dahl,"21/16,21/18",Edward Salvesen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Eirik Østbye Dahl,,Marcus Myrbråten,"21/12,21/8",Eirik Østbye Dahl,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Edward Salvesen,"21/4,21/7",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Ryan Danie,,Åsmund Petersen,"21/5,21/9",Ryan Danie,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,,Edward Salvesen,,Marcus Myrbråten,"21/19,21/14",Edward Salvesen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Ryan Danie,Fredrik Paulsen Lauritsen,Alfred Egenes,Edward Salvesen,"21/17,21/9",Ryan Danie,Fredrik Paulsen Lauritsen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Mathias Farmen Johansen,Martin Bjørvik Løvheim,Alfred Egenes,Edward Salvesen,"21/16,9/21,21/16",Mathias Farmen Johansen,Martin Bjørvik Løvheim
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Ryan Danie,Fredrik Paulsen Lauritsen,Mathias Farmen Johansen,Martin Bjørvik Løvheim,"21/16,21/9",Ryan Danie,Fredrik Paulsen Lauritsen
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Herman Hjørungnes,,Mathias Farmen Johansen,"21/4,21/8",Herman Hjørungnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Herman Hjørungnes,,August Vistnes,"21/9,21/11",Herman Hjørungnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Mathias Farmen Johansen,,Victor Andrè Motland,"21/18,21/9",Mathias Farmen Johansen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Herman Hjørungnes,,Victor Andrè Motland,"21/7,21/4",Herman Hjørungnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Mathias Farmen Johansen,,August Vistnes,"15/21,21/14,23/21",Mathias Farmen Johansen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Mathias Farmen Johansen,,Daniel Kvernsveen Akre,"21/17,25/23",Mathias Farmen Johansen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,August Vistnes,,Daniel Kvernsveen Akre,"21/10,21/9",August Vistnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Herman Hjørungnes,,Mathias Farmen Johansen,"21/4,21/8",Herman Hjørungnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Herman Hjørungnes,,August Vistnes,"21/9,21/11",Herman Hjørungnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Mathias Farmen Johansen,,Victor Andrè Motland,"21/18,21/9",Mathias Farmen Johansen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Herman Hjørungnes,,Victor Andrè Motland,"21/7,21/4",Herman Hjørungnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Mathias Farmen Johansen,,August Vistnes,"15/21,21/14,23/21",Mathias Farmen Johansen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,Mathias Farmen Johansen,,Daniel Kvernsveen Akre,"21/17,25/23",Mathias Farmen Johansen,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,,August Vistnes,,Daniel Kvernsveen Akre,"21/10,21/9",August Vistnes,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Sondre Dolven,,Jon Vidar Jonsson,"21/16,21/19",Sondre Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Sondre Dolven,,Shreyas Danve,"20/22,21/10,21/17",Sondre Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Aksel Holth,"21/14,21/14",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Sondre Dolven,,Aksel Holth,"21/9,21/13",Sondre Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Ole Ramberg Singler,"21/5,21/10",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Shreyas Danve,,Felix Rostad,"21/17,17/21,21/15",Shreyas Danve,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Felix Rostad,,Ole Ramberg Singler,"21/17,21/13",Felix Rostad,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Shreyas Danve,"21/11,21/13",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Shreyas Danve,,Ole Ramberg Singler,"21/15,21/8",Shreyas Danve,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Felix Rostad,"21/14,21/14",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Sondre Dolven,,Jon Vidar Jonsson,"21/16,21/19",Sondre Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Sondre Dolven,,Shreyas Danve,"20/22,21/10,21/17",Sondre Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Aksel Holth,"21/14,21/14",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Sondre Dolven,,Aksel Holth,"21/9,21/13",Sondre Dolven,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Ole Ramberg Singler,"21/5,21/10",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Shreyas Danve,,Felix Rostad,"21/17,17/21,21/15",Shreyas Danve,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Felix Rostad,,Ole Ramberg Singler,"21/17,21/13",Felix Rostad,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Shreyas Danve,"21/11,21/13",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Shreyas Danve,,Ole Ramberg Singler,"21/15,21/8",Shreyas Danve,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,,Jon Vidar Jonsson,,Felix Rostad,"21/14,21/14",Jon Vidar Jonsson,
-2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Jon Vidar Jonsson,Sondre Dolven,Aksel Holth,Felix Rostad,"21/14,21/11",Jon Vidar Jonsson,Sondre Dolven
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herresingle,,Bent Mørken,,Richard Jakobsen,"21/15,21/10",Bent Mørken,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herresingle,,Carl Christian Møller Jacobsen,,Johannes Orri Olafsson,"21/15,21/12",Carl Christian Møller Jacobsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herresingle,,Johannes Orri Olafsson,,Richard Jakobsen,"21/12,21/14",Johannes Orri Olafsson,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herresingle,,Carl Christian Møller Jacobsen,,Bent Mørken,"21/9,21/9",Carl Christian Møller Jacobsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herresingle,,Carl Christian Møller Jacobsen,,Richard Jakobsen,"21/9,21/17",Carl Christian Møller Jacobsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herresingle,,Bent Mørken,,Johannes Orri Olafsson,"21/14,21/15",Bent Mørken,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herredouble,Carl Christian Møller Jacobsen,Truls Helgerød,Frida Bjørvik Løvheim,Marielle Sørby,"21/10,21/6",Carl Christian Møller Jacobsen,Truls Helgerød
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herredouble,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"25/23,21/19",Bent Mørken,Richard Jakobsen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herredouble,Johannes Orri Olafsson,Marius Sørby,Frida Bjørvik Løvheim,Marielle Sørby,"21/14,21/13",Johannes Orri Olafsson,Marius Sørby
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herredouble,Carl Christian Møller Jacobsen,Truls Helgerød,Bent Mørken,Richard Jakobsen,"21/14,25/23",Carl Christian Møller Jacobsen,Truls Helgerød
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herredouble,Bent Mørken,Richard Jakobsen,Frida Bjørvik Løvheim,Marielle Sørby,"21/8,21/10",Bent Mørken,Richard Jakobsen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN E,Herredouble,Carl Christian Møller Jacobsen,Truls Helgerød,Johannes Orri Olafsson,Marius Sørby,"21/8,21/15",Carl Christian Møller Jacobsen,Truls Helgerød
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,Herresingle,,Rishi Arvind Phatak,,Svein Jacob Kaspersen,"21/8,21/2",Rishi Arvind Phatak,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,Herresingle,,Marius Imset,,Rune Enoksen,"21/9,21/12",Marius Imset,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,Herresingle,,Rune Enoksen,,Svein Jacob Kaspersen,"18/21,21/14,21/16",Rune Enoksen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,Herresingle,,Marius Imset,,Rishi Arvind Phatak,"21/17,21/12",Marius Imset,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,Herresingle,,Svein Jacob Kaspersen,,Marius Imset,"21/6,21/11",Svein Jacob Kaspersen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN B,Herresingle,,Rishi Arvind Phatak,,Rune Enoksen,"21/13,21/9",Rishi Arvind Phatak,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Svein Brenna,,Jørgen Thorp,"21/16,21/10",Svein Brenna,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Svein Brenna,,Aleksander Boutenko,"21/9,21/14",Svein Brenna,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Jørgen Thorp,,Marius Dolven,"19/21,21/16,21/16",Jørgen Thorp,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Svein Brenna,,Endre Sundby Dalen,"21/9,21/10",Svein Brenna,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Marius Dolven,,Einar Høksnes,"21/17,21/7",Marius Dolven,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Marius Dolven,,Endre Sundby Dalen,"21/13,24/26,21/16",Marius Dolven,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Svein Brenna,,Einar Høksnes,"21/6,21/7",Svein Brenna,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Endre Sundby Dalen,,Einar Høksnes,"21/10,21/18",Endre Sundby Dalen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Svein Brenna,,Marius Dolven,"21/13,21/7",Svein Brenna,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Aleksander Boutenko,,Steinar Høiback,"21/13,16/21,21/10",Aleksander Boutenko,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Jørgen Thorp,,Steinar Høiback,"21/15,21/12",Jørgen Thorp,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Aleksander Boutenko,,Dave Derder,"21/16,19/21,21/19",Aleksander Boutenko,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Jørgen Thorp,,Aleksander Boutenko,"21/15,21/17",Jørgen Thorp,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Dave Derder,,Steinar Høiback,"21/19,21/17",Dave Derder,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herresingle,,Jørgen Thorp,,Dave Derder,"21/13,21/13",Jørgen Thorp,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Adnan Safdar Warraich,Hassan Ali,Rishi Arvind Phatak,Rune Enoksen,"20/22,21/19,25/23",Adnan Safdar Warraich,Hassan Ali
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Rishi Arvind Phatak,Rune Enoksen,Victor Yeap,Svein Jacob Kaspersen,"21/14,21/12",Rishi Arvind Phatak,Rune Enoksen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Adnan Safdar Warraich,Hassan Ali,Pelle Cornelius Nordeide,Eirik Wallentin,"21/15,21/9",Adnan Safdar Warraich,Hassan Ali
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Rishi Arvind Phatak,Rune Enoksen,Einar Høksnes,Jing Jin,"21/11,21/11",Rishi Arvind Phatak,Rune Enoksen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Pelle Cornelius Nordeide,Eirik Wallentin,Marius Dolven,Steinar Høiback,"21/10,21/17",Pelle Cornelius Nordeide,Eirik Wallentin
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Rishi Arvind Phatak,Rune Enoksen,Marius Dolven,Steinar Høiback,"21/6,21/9",Rishi Arvind Phatak,Rune Enoksen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Pelle Cornelius Nordeide,Eirik Wallentin,Einar Høksnes,Jing Jin,"21/18,21/13",Pelle Cornelius Nordeide,Eirik Wallentin
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Rishi Arvind Phatak,Rune Enoksen,Pelle Cornelius Nordeide,Eirik Wallentin,"21/14,21/13",Rishi Arvind Phatak,Rune Enoksen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Einar Høksnes,Jing Jin,Marius Dolven,Steinar Høiback,"21/15,21/15",Einar Høksnes,Jing Jin
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Victor Yeap,Svein Jacob Kaspersen,Fredrik T.N. Joakimsen,Jakob Grønstøl,"21/9,21/17",Victor Yeap,Svein Jacob Kaspersen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Adnan Safdar Warraich,Hassan Ali,Jørgen Thorp,Svein Brenna,"21/17,21/6",Adnan Safdar Warraich,Hassan Ali
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Adnan Safdar Warraich,Hassan Ali,Fredrik T.N. Joakimsen,Jakob Grønstøl,"21/9,21/12",Adnan Safdar Warraich,Hassan Ali
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Victor Yeap,Svein Jacob Kaspersen,Jørgen Thorp,Svein Brenna,"21/18,21/7",Victor Yeap,Svein Jacob Kaspersen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Jørgen Thorp,Svein Brenna,Fredrik T.N. Joakimsen,Jakob Grønstøl,"21/14,21/23,21/19",Jørgen Thorp,Svein Brenna
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN C,Herredouble,Adnan Safdar Warraich,Hassan Ali,Victor Yeap,Svein Jacob Kaspersen,"21/16,21/11",Adnan Safdar Warraich,Hassan Ali
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Marielle Sørby,,Anne Kathrine Wenaas Ribe,"21/9,21/18",Marielle Sørby,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Marielle Sørby,,Hong-Thien Nguyen Phatak,"21/8,21/10",Marielle Sørby,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Anne Kathrine Wenaas Ribe,,Silje Stenstad Nilsen,"21/10,16/21,21/10",Anne Kathrine Wenaas Ribe,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Silje Stenstad Nilsen,,Betzy Margrethe Parelius Wammer,"17/21,21/18,21/8",Silje Stenstad Nilsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Marielle Sørby,,Betzy Margrethe Parelius Wammer,"21/8,21/6",Marielle Sørby,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Marielle Sørby,,Silje Stenstad Nilsen,"21/6,21/7",Marielle Sørby,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Anne Kathrine Wenaas Ribe,,Anita Løvheim,"21/15,21/12",Anne Kathrine Wenaas Ribe,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Anne Kathrine Wenaas Ribe,,Hong-Thien Nguyen Phatak,"21/19,21/19",Anne Kathrine Wenaas Ribe,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damesingle,,Hong-Thien Nguyen Phatak,,Anita Løvheim,"21/12,21/13",Hong-Thien Nguyen Phatak,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damedouble,Hong-Thien Nguyen Phatak,Betzy Margrethe Parelius Wammer,Anita Løvheim,Anne Kathrine Wenaas Ribe,"10/21,21/19,21/16",Hong-Thien Nguyen Phatak,Betzy Margrethe Parelius Wammer
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damedouble,Hafrun Jònsdottìr,Marie A. Toverud,Hong-Thien Nguyen Phatak,Betzy Margrethe Parelius Wammer,"24/22,16/21,21/7",Hafrun Jònsdottìr,Marie A. Toverud
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,SEN D,Damedouble,Hafrun Jònsdottìr,Marie A. Toverud,Anita Løvheim,Anne Kathrine Wenaas Ribe,"21/17,17/21,21/17",Hafrun Jònsdottìr,Marie A. Toverud
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Fredrik Paulsen Lauritsen,"22/20,21/18",Martin Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Fredrik Paulsen Lauritsen,,Mari N. Joakimsen,"21/12,21/9",Fredrik Paulsen Lauritsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Ryan Danie,"23/21,21/16",Martin Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Mari N. Joakimsen,,Åsmund Petersen,"21/6,24/26,21/7",Mari N. Joakimsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Leon Aleksander Holstein,"21/3,21/8",Martin Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Karthikkesh Chandran,,Sebastian Kaalstad,"21/19,21/11",Karthikkesh Chandran,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Leon Aleksander Holstein,,Casper Westlin Solli,"21/11,21/9",Leon Aleksander Holstein,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Leon Aleksander Holstein,,Karthikkesh Chandran,"21/17,21/12",Leon Aleksander Holstein,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Fredrik Paulsen Lauritsen,,Casper Westlin Solli,"21/6,21/4",Fredrik Paulsen Lauritsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Karthikkesh Chandran,,Casper Westlin Solli,"21/10,22/20",Karthikkesh Chandran,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Fredrik Paulsen Lauritsen,,Sebastian Kaalstad,"21/4,21/3",Fredrik Paulsen Lauritsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Casper Westlin Solli,,Sebastian Kaalstad,"21/14,22/20",Casper Westlin Solli,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Fredrik Paulsen Lauritsen,,Leon Aleksander Holstein,"21/6,21/4",Fredrik Paulsen Lauritsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Fredrik Paulsen Lauritsen,,Karthikkesh Chandran,"21/4,21/4",Fredrik Paulsen Lauritsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Leon Aleksander Holstein,,Sebastian Kaalstad,"21/11,21/11",Leon Aleksander Holstein,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Mari N. Joakimsen,,Alfred Egenes,"21/16,21/11",Mari N. Joakimsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Emil Kristensen Midttun,"21/6,21/8",Martin Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Alfred Egenes,"21/14,21/6",Martin Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Mari N. Joakimsen,,Emil Kristensen Midttun,"21/9,21/11",Mari N. Joakimsen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Alfred Egenes,,Emil Kristensen Midttun,"21/14,21/13",Alfred Egenes,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Mari N. Joakimsen,"21/11,21/14",Martin Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Åsmund Petersen,,Edward Salvesen,"21/15,21/12",Åsmund Petersen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Ryan Danie,,Eirik Østbye Dahl,"21/8,21/8",Ryan Danie,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Åsmund Petersen,,Eirik Østbye Dahl,"21/19,21/13",Åsmund Petersen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Ryan Danie,,Marcus Myrbråten,"21/5,21/9",Ryan Danie,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Åsmund Petersen,,Marcus Myrbråten,"21/14,21/13",Åsmund Petersen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Edward Salvesen,,Eirik Østbye Dahl,"21/16,21/18",Edward Salvesen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Eirik Østbye Dahl,,Marcus Myrbråten,"21/12,21/8",Eirik Østbye Dahl,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Ryan Danie,,Edward Salvesen,"21/4,21/7",Ryan Danie,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Ryan Danie,,Åsmund Petersen,"21/5,21/9",Ryan Danie,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herresingle,,Edward Salvesen,,Marcus Myrbråten,"21/19,21/14",Edward Salvesen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herredouble,Ryan Danie,Fredrik Paulsen Lauritsen,Alfred Egenes,Edward Salvesen,"21/17,21/9",Ryan Danie,Fredrik Paulsen Lauritsen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herredouble,Mathias Farmen Johansen,Martin Bjørvik Løvheim,Alfred Egenes,Edward Salvesen,"21/16,9/21,21/16",Mathias Farmen Johansen,Martin Bjørvik Løvheim
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 A,Herredouble,Ryan Danie,Fredrik Paulsen Lauritsen,Mathias Farmen Johansen,Martin Bjørvik Løvheim,"21/16,21/9",Ryan Danie,Fredrik Paulsen Lauritsen
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,Herman Hjørungnes,,Mathias Farmen Johansen,"21/4,21/8",Herman Hjørungnes,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,Herman Hjørungnes,,August Vistnes,"21/9,21/11",Herman Hjørungnes,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,Mathias Farmen Johansen,,Victor Andrè Motland,"21/18,21/9",Mathias Farmen Johansen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,Herman Hjørungnes,,Victor Andrè Motland,"21/7,21/4",Herman Hjørungnes,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,Mathias Farmen Johansen,,August Vistnes,"15/21,21/14,23/21",Mathias Farmen Johansen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,Mathias Farmen Johansen,,Daniel Kvernsveen Akre,"21/17,25/23",Mathias Farmen Johansen,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U13 C,Herresingle,,August Vistnes,,Daniel Kvernsveen Akre,"21/10,21/9",August Vistnes,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Sondre Dolven,,Jon Vidar Jonsson,"21/16,21/19",Sondre Dolven,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Sondre Dolven,,Shreyas Danve,"20/22,21/10,21/17",Sondre Dolven,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Jon Vidar Jonsson,,Aksel Holth,"21/14,21/14",Jon Vidar Jonsson,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Sondre Dolven,,Aksel Holth,"21/9,21/13",Sondre Dolven,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Jon Vidar Jonsson,,Ole Ramberg Singler,"21/5,21/10",Jon Vidar Jonsson,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Shreyas Danve,,Felix Rostad,"21/17,17/21,21/15",Shreyas Danve,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Felix Rostad,,Ole Ramberg Singler,"21/17,21/13",Felix Rostad,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Jon Vidar Jonsson,,Shreyas Danve,"21/11,21/13",Jon Vidar Jonsson,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Shreyas Danve,,Ole Ramberg Singler,"21/15,21/8",Shreyas Danve,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herresingle,,Jon Vidar Jonsson,,Felix Rostad,"21/14,21/14",Jon Vidar Jonsson,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U15 A,Herredouble,Jon Vidar Jonsson,Sondre Dolven,Aksel Holth,Felix Rostad,"21/14,21/11",Jon Vidar Jonsson,Sondre Dolven
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Truls Helgerød,,Pelle Cornelius Nordeide,"21/10,21/9",Truls Helgerød,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Truls Helgerød,,Daniel Ombasic,"21/3,21/3",Truls Helgerød,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Pelle Cornelius Nordeide,,Eirik Wallentin,"17/21,21/19,21/12",Pelle Cornelius Nordeide,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Eirik Wallentin,,Henrik Strand Høiback,"21/10,21/17",Eirik Wallentin,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Truls Helgerød,,Eirik Wallentin,"21/9,21/10",Truls Helgerød,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Truls Helgerød,,Henrik Strand Høiback,"21/8,21/5",Truls Helgerød,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Herresingle,,Pelle Cornelius Nordeide,,Daniel Ombasic,"21/2,21/2",Pelle Cornelius Nordeide,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Damesingle,,Frida Bjørvik Løvheim,,Miranda Starup Jensen,"21/1,21/4",Frida Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Damesingle,,Julie Norberg,,Miranda Starup Jensen,"21/6,21/15",Julie Norberg,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Damesingle,,Frida Bjørvik Løvheim,,Julie Norberg,"21/3,21/10",Frida Bjørvik Løvheim,
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Mixeddouble,Pelle Cornelius Nordeide,Julie Norberg,Jon Vidar Jonsson,Miranda Starup Jensen,"21/14,21/9",Pelle Cornelius Nordeide,Julie Norberg
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Mixeddouble,Truls Helgerød,Marie A. Toverud,Jon Vidar Jonsson,Miranda Starup Jensen,"21/12,21/18",Truls Helgerød,Marie A. Toverud
+2022/2023,Sandefjord Kretsmesterskap VBT,21.01.2023,U19 A,Mixeddouble,Pelle Cornelius Nordeide,Julie Norberg,Truls Helgerød,Marie A. Toverud,"22/20,21/19",Pelle Cornelius Nordeide,Julie Norberg

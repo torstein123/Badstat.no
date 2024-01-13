@@ -1,164 +1,136 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Brynjar Hus,"21/15,21/8",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Mathias Wong,"21/19,21/11",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Thomas Dinh,"21/9,21/12",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Varun Manikandan,"21/11,21/13",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mathias Wong,,Sturla Mørk,"16/21,21/10,21/15",Mathias Wong,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Thomas Dinh,,Haakon Lærkerød Jelsness,"21/16,21/17",Thomas Dinh,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Heine Lam Nybakk,"21/15,21/11",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Varun Manikandan,,Jakob Langeland Risa,"21/19,21/15",Varun Manikandan,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sturla Mørk,,Måns Anders Lund Mabäcker,"21/6,21/9",Sturla Mørk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Haakon Lærkerød Jelsness,,Marius Sandvær,"21/17,21/8",Haakon Lærkerød Jelsness,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heine Lam Nybakk,,Lukas Skrunes Sundt,"21/10,21/9",Heine Lam Nybakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linus Nordal,,Andreas Fjellanger,"21/15,21/11",Linus Nordal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Andreas Fjellanger,"21/3,21/2",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Linus Nordal,"21/9,21/6",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sindre Gjuvsland,,Vebjørn Isberg Haugan,"21/9,21/9",Sindre Gjuvsland,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Varun Manikandan,,Sindre Gjuvsland,"21/10,21/9",Varun Manikandan,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Varun Manikandan,,Vebjørn Isberg Haugan,"21/3,21/6",Varun Manikandan,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Yatin Mehta,,Simen Knutsen,"21/12,21/17",Yatin Mehta,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Jakob Langeland Risa,,Yatin Mehta,"21/10,21/13",Jakob Langeland Risa,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Jakob Langeland Risa,,Simen Knutsen,"21/12,21/18",Jakob Langeland Risa,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Herman Kolstø,,Adam Tollisen Leyland,"21/13,21/17",Herman Kolstø,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mathias Wong,,Adam Tollisen Leyland,"21/3,21/5",Mathias Wong,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mathias Wong,,Herman Kolstø,"21/11,21/5",Mathias Wong,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Adit Sharma,,Eirik Tryland Laheld,"21/10,21/18",Adit Sharma,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sturla Mørk,,Adit Sharma,"18/21,21/10,21/18",Sturla Mørk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sturla Mørk,,Eirik Tryland Laheld,"21/10,21/7",Sturla Mørk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Måns Anders Lund Mabäcker,,William Aaberg Rølvåg,"21/16,16/21,21/13",Måns Anders Lund Mabäcker,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Marius Sandvær,,William R. Barø,"21/17,21/11",Marius Sandvær,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,William R. Barø,,Adrian Helle Ekerhovd,"21/18,21/14",William R. Barø,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Marius Sandvær,,Adrian Helle Ekerhovd,"21/9,21/15",Marius Sandvær,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Henrik Frende Lavik-Haug,,Sondre Dolven,"21/15,21/13",Henrik Frende Lavik-Haug,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Haakon Lærkerød Jelsness,,Sondre Dolven,"21/3,21/5",Haakon Lærkerød Jelsness,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Haakon Lærkerød Jelsness,,Henrik Frende Lavik-Haug,"21/14,21/11",Haakon Lærkerød Jelsness,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Fabian Flak,,Åsmund Sundal-Gjerdevik,"21/11,21/17",Fabian Flak,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Thomas Dinh,,Åsmund Sundal-Gjerdevik,"21/6,21/10",Thomas Dinh,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Thomas Dinh,,Fabian Flak,"21/7,21/5",Thomas Dinh,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Lukas Skrunes Sundt,,Ole Kristian Lie,"21/14,21/10",Lukas Skrunes Sundt,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Lukas Skrunes Sundt,,Kristian Robstad,"21/6,21/8",Lukas Skrunes Sundt,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Ole Kristian Lie,,Kristian Robstad,"21/13,21/18",Ole Kristian Lie,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Noah Østhassel Harman,,Adam Millan,"21/14,21/17",Noah Østhassel Harman,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heine Lam Nybakk,,Adam Millan,"21/4,21/2",Heine Lam Nybakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heine Lam Nybakk,,Noah Østhassel Harman,"21/3,21/16",Heine Lam Nybakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Herman Dalan  Eidissen,,Albert Aasheim-Engen,"21/6,21/4",Herman Dalan  Eidissen,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Albert Aasheim-Engen,"21/9,21/5",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Herman Dalan  Eidissen,"21/16,21/10",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Brynjar Hus,"21/15,21/8",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Mathias Wong,"21/19,21/11",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Thomas Dinh,"21/9,21/12",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Varun Manikandan,"21/11,21/13",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mathias Wong,,Sturla Mørk,"16/21,21/10,21/15",Mathias Wong,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Thomas Dinh,,Haakon Lærkerød Jelsness,"21/16,21/17",Thomas Dinh,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Heine Lam Nybakk,"21/15,21/11",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Varun Manikandan,,Jakob Langeland Risa,"21/19,21/15",Varun Manikandan,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sturla Mørk,,Måns Anders Lund Mabäcker,"21/6,21/9",Sturla Mørk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Haakon Lærkerød Jelsness,,Marius Sandvær,"21/17,21/8",Haakon Lærkerød Jelsness,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heine Lam Nybakk,,Lukas Skrunes Sundt,"21/10,21/9",Heine Lam Nybakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linus Nordal,,Andreas Fjellanger,"21/15,21/11",Linus Nordal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Andreas Fjellanger,"21/3,21/2",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Brynjar Hus,,Linus Nordal,"21/9,21/6",Brynjar Hus,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sindre Gjuvsland,,Vebjørn Isberg Haugan,"21/9,21/9",Sindre Gjuvsland,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Varun Manikandan,,Sindre Gjuvsland,"21/10,21/9",Varun Manikandan,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Varun Manikandan,,Vebjørn Isberg Haugan,"21/3,21/6",Varun Manikandan,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Yatin Mehta,,Simen Knutsen,"21/12,21/17",Yatin Mehta,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Jakob Langeland Risa,,Yatin Mehta,"21/10,21/13",Jakob Langeland Risa,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Jakob Langeland Risa,,Simen Knutsen,"21/12,21/18",Jakob Langeland Risa,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Herman Kolstø,,Adam Tollisen Leyland,"21/13,21/17",Herman Kolstø,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mathias Wong,,Adam Tollisen Leyland,"21/3,21/5",Mathias Wong,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mathias Wong,,Herman Kolstø,"21/11,21/5",Mathias Wong,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Adit Sharma,,Eirik Tryland Laheld,"21/10,21/18",Adit Sharma,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sturla Mørk,,Adit Sharma,"18/21,21/10,21/18",Sturla Mørk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sturla Mørk,,Eirik Tryland Laheld,"21/10,21/7",Sturla Mørk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Måns Anders Lund Mabäcker,,William Aaberg Rølvåg,"21/16,16/21,21/13",Måns Anders Lund Mabäcker,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Marius Sandvær,,William R. Barø,"21/17,21/11",Marius Sandvær,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,William R. Barø,,Adrian Helle Ekerhovd,"21/18,21/14",William R. Barø,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Marius Sandvær,,Adrian Helle Ekerhovd,"21/9,21/15",Marius Sandvær,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Henrik Frende Lavik-Haug,,Sondre Dolven,"21/15,21/13",Henrik Frende Lavik-Haug,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Haakon Lærkerød Jelsness,,Sondre Dolven,"21/3,21/5",Haakon Lærkerød Jelsness,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Haakon Lærkerød Jelsness,,Henrik Frende Lavik-Haug,"21/14,21/11",Haakon Lærkerød Jelsness,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Fabian Flak,,Åsmund Sundal-Gjerdevik,"21/11,21/17",Fabian Flak,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Thomas Dinh,,Åsmund Sundal-Gjerdevik,"21/6,21/10",Thomas Dinh,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Thomas Dinh,,Fabian Flak,"21/7,21/5",Thomas Dinh,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Lukas Skrunes Sundt,,Ole Kristian Lie,"21/14,21/10",Lukas Skrunes Sundt,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Lukas Skrunes Sundt,,Kristian Robstad,"21/6,21/8",Lukas Skrunes Sundt,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Ole Kristian Lie,,Kristian Robstad,"21/13,21/18",Ole Kristian Lie,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Noah Østhassel Harman,,Adam Millan,"21/14,21/17",Noah Østhassel Harman,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heine Lam Nybakk,,Adam Millan,"21/4,21/2",Heine Lam Nybakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heine Lam Nybakk,,Noah Østhassel Harman,"21/3,21/16",Heine Lam Nybakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Herman Dalan  Eidissen,,Albert Aasheim-Engen,"21/6,21/4",Herman Dalan  Eidissen,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Albert Aasheim-Engen,"21/9,21/5",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Aldrin Nelson,,Herman Dalan  Eidissen,"21/16,21/10",Aldrin Nelson,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linnea Holmedal,,Nila Lorvik,"21/3,21/18",Linnea Holmedal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Nila Lorvik,,Akarija Anton Reginold,"21/10,21/16",Nila Lorvik,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linnea Holmedal,,Selma Kvarenes Bjørnestøl,"21/17,21/12",Linnea Holmedal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Akarija Anton Reginold,,Emilie Lie Cook,"21/10,21/9",Akarija Anton Reginold,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Selma Kvarenes Bjørnestøl,,Sofie Jin Reistadbakk,"21/7,21/17",Selma Kvarenes Bjørnestøl,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Nila Lorvik,,Vilma Aasheim-Engen,"21/19,21/17",Nila Lorvik,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mina Korssund,,Hedda Berg Angell,"21/4,21/11",Mina Korssund,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Vilma Aasheim-Engen,,Hedda Berg Angell,"21/12,21/18",Vilma Aasheim-Engen,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Nila Lorvik,,Mina Korssund,"25/23,21/17",Nila Lorvik,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Mina Korssund,,Vilma Aasheim-Engen,"21/15,21/12",Mina Korssund,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Nila Lorvik,,Hedda Berg Angell,"21/8,21/13",Nila Lorvik,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Akarija Anton Reginold,,Andrea Nygård,"21/6,21/11",Akarija Anton Reginold,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Akarija Anton Reginold,,Emilie Alrek Eide,"21/19,21/17",Akarija Anton Reginold,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Emilie Alrek Eide,,Andrea Nygård,"21/17,21/16",Emilie Alrek Eide,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Anine Halvorsen Egge,,Emilie Lie Cook,"17/21,21/13,21/17",Anine Halvorsen Egge,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Signe Lenning,,Anine Halvorsen Egge,"17/21,21/17,21/12",Signe Lenning,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Emilie Lie Cook,,Signe Lenning,"21/13,17/21,21/16",Emilie Lie Cook,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Dorthe Lorvik,,Juli Helen Johansen Klungtveit,"18/21,21/18,21/16",Dorthe Lorvik,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sofie Jin Reistadbakk,,Juli Helen Johansen Klungtveit,"21/14,21/15",Sofie Jin Reistadbakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Sofie Jin Reistadbakk,,Dorthe Lorvik,"21/17,21/8",Sofie Jin Reistadbakk,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Laura Zeying Du,,Rakel Millan,"21/5,21/8",Laura Zeying Du,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Selma Kvarenes Bjørnestøl,,Laura Zeying Du,"21/19,21/9",Selma Kvarenes Bjørnestøl,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Selma Kvarenes Bjørnestøl,,Rakel Millan,"21/4,21/6",Selma Kvarenes Bjørnestøl,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heidi Hartmann,,Milla Maevski,"21/11,21/12",Heidi Hartmann,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linnea Holmedal,,Arathija Anton Reginold,"21/14,21/10",Linnea Holmedal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Arathija Anton Reginold,,Milla Maevski,"21/12,21/12",Arathija Anton Reginold,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linnea Holmedal,,Heidi Hartmann,"21/7,19/21,21/14",Linnea Holmedal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Linnea Holmedal,,Milla Maevski,"21/8,21/5",Linnea Holmedal,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,,Heidi Hartmann,,Arathija Anton Reginold,"21/15,17/21,21/12",Heidi Hartmann,
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Lukas Skrunes Sundt,Brynjar Hus,Herman Dalan  Eidissen,Aldrin Nelson,"21/17,21/18",Lukas Skrunes Sundt,Brynjar Hus
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Herman Dalan  Eidissen,Aldrin Nelson,Haakon Lærkerød Jelsness,Mathias Wong,"22/20,12/21,21/11",Herman Dalan  Eidissen,Aldrin Nelson
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Lukas Skrunes Sundt,Brynjar Hus,Adit Sharma,Varun Manikandan,"21/9,21/4",Lukas Skrunes Sundt,Brynjar Hus
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Haakon Lærkerød Jelsness,Mathias Wong,Åsmund Sundal-Gjerdevik,Sturla Mørk,"21/12,21/12",Haakon Lærkerød Jelsness,Mathias Wong
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Herman Dalan  Eidissen,Aldrin Nelson,Thomas Dinh,Heine Lam Nybakk,"21/23,21/16,21/19",Herman Dalan  Eidissen,Aldrin Nelson
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Adit Sharma,Varun Manikandan,Jakob Langeland Risa,Ole Kristian Lie,"21/17,21/11",Adit Sharma,Varun Manikandan
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Lukas Skrunes Sundt,Brynjar Hus,Adrian Helle Ekerhovd,Sindre Gjuvsland,"21/11,21/13",Lukas Skrunes Sundt,Brynjar Hus
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Thomas Dinh,Heine Lam Nybakk,Yatin Mehta,Sondre Dolven,"21/3,21/6",Thomas Dinh,Heine Lam Nybakk
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Jakob Langeland Risa,Ole Kristian Lie,Marius Sandvær,Herman Kolstø,"18/21,21/18,21/14",Jakob Langeland Risa,Ole Kristian Lie
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Marius Sandvær,Herman Kolstø,Henrik Frende Lavik-Haug,William Aaberg Rølvåg,"21/9,21/17",Marius Sandvær,Herman Kolstø
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Haakon Lærkerød Jelsness,Mathias Wong,Marius Sandvær,Herman Kolstø,"21/10,21/15",Haakon Lærkerød Jelsness,Mathias Wong
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Haakon Lærkerød Jelsness,Mathias Wong,Henrik Frende Lavik-Haug,William Aaberg Rølvåg,"21/6,21/14",Haakon Lærkerød Jelsness,Mathias Wong
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Jakob Langeland Risa,Ole Kristian Lie,Albert Aasheim-Engen,William R. Barø,"21/11,21/15",Jakob Langeland Risa,Ole Kristian Lie
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Herman Dalan  Eidissen,Aldrin Nelson,Jakob Langeland Risa,Ole Kristian Lie,"21/14,21/10",Herman Dalan  Eidissen,Aldrin Nelson
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Herman Dalan  Eidissen,Aldrin Nelson,Albert Aasheim-Engen,William R. Barø,"21/6,21/7",Herman Dalan  Eidissen,Aldrin Nelson
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Åsmund Sundal-Gjerdevik,Sturla Mørk,Andreas Fjellanger,Kristian Robstad,"21/10,21/15",Åsmund Sundal-Gjerdevik,Sturla Mørk
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Adit Sharma,Varun Manikandan,Andreas Fjellanger,Kristian Robstad,"21/5,21/6",Adit Sharma,Varun Manikandan
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Adit Sharma,Varun Manikandan,Åsmund Sundal-Gjerdevik,Sturla Mørk,"21/15,16/21,21/14",Adit Sharma,Varun Manikandan
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Adrian Helle Ekerhovd,Sindre Gjuvsland,Yatin Mehta,Sondre Dolven,"21/13,21/15",Adrian Helle Ekerhovd,Sindre Gjuvsland
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Fabian Flak,Noah Østhassel Harman,Vebjørn Isberg Haugan,Adam Millan,"21/17,21/14",Fabian Flak,Noah Østhassel Harman
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Adrian Helle Ekerhovd,Sindre Gjuvsland,Vebjørn Isberg Haugan,Adam Millan,"21/11,21/12",Adrian Helle Ekerhovd,Sindre Gjuvsland
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Yatin Mehta,Sondre Dolven,Fabian Flak,Noah Østhassel Harman,"21/19,19/21,21/18",Yatin Mehta,Sondre Dolven
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Adrian Helle Ekerhovd,Sindre Gjuvsland,Fabian Flak,Noah Østhassel Harman,"21/14,21/16",Adrian Helle Ekerhovd,Sindre Gjuvsland
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Yatin Mehta,Sondre Dolven,Vebjørn Isberg Haugan,Adam Millan,"21/18,21/11",Yatin Mehta,Sondre Dolven
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Thomas Dinh,Heine Lam Nybakk,Eirik Tryland Laheld,Adam Tollisen Leyland,"21/8,21/9",Thomas Dinh,Heine Lam Nybakk
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Lukas Skrunes Sundt,Brynjar Hus,Eirik Tryland Laheld,Adam Tollisen Leyland,"21/10,21/8",Lukas Skrunes Sundt,Brynjar Hus
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Lukas Skrunes Sundt,Brynjar Hus,Thomas Dinh,Heine Lam Nybakk,"21/17,21/19",Lukas Skrunes Sundt,Brynjar Hus
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Linnea Holmedal,Mina Korssund,Vilma Aasheim-Engen,Heidi Hartmann,"21/11,17/21,21/15",Linnea Holmedal,Mina Korssund
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Linnea Holmedal,Mina Korssund,Sofie Jin Reistadbakk,Emilie Alrek Eide,"21/23,21/9,21/12",Linnea Holmedal,Mina Korssund
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Vilma Aasheim-Engen,Heidi Hartmann,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,"21/15,21/19",Vilma Aasheim-Engen,Heidi Hartmann
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Sofie Jin Reistadbakk,Emilie Alrek Eide,Arathija Anton Reginold,Akarija Anton Reginold,"21/14,21/12",Sofie Jin Reistadbakk,Emilie Alrek Eide
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,Dorthe Lorvik,Signe Lenning,"21/15,21/7",Hedda Berg Angell,Selma Kvarenes Bjørnestøl
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Dorthe Lorvik,Signe Lenning,Rakel Millan,Milla Maevski,"21/16,21/15",Dorthe Lorvik,Signe Lenning
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Linnea Holmedal,Mina Korssund,Rakel Millan,Milla Maevski,"21/6,21/9",Linnea Holmedal,Mina Korssund
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Linnea Holmedal,Mina Korssund,Dorthe Lorvik,Signe Lenning,"21/4,21/11",Linnea Holmedal,Mina Korssund
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,Arathija Anton Reginold,Akarija Anton Reginold,"21/17,19/21,23/21",Hedda Berg Angell,Selma Kvarenes Bjørnestøl
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Arathija Anton Reginold,Akarija Anton Reginold,Anine Halvorsen Egge,Juli Helen Johansen Klungtveit,"23/21,21/16",Arathija Anton Reginold,Akarija Anton Reginold
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,Anine Halvorsen Egge,Juli Helen Johansen Klungtveit,"22/20,21/15",Hedda Berg Angell,Selma Kvarenes Bjørnestøl
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Emilie Lie Cook,Nila Lorvik,Laura Zeying Du,Andrea Nygård,"21/11,21/16",Emilie Lie Cook,Nila Lorvik
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Sofie Jin Reistadbakk,Emilie Alrek Eide,Emilie Lie Cook,Nila Lorvik,"21/18,21/16",Sofie Jin Reistadbakk,Emilie Alrek Eide
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Vilma Aasheim-Engen,Heidi Hartmann,Laura Zeying Du,Andrea Nygård,"21/6,21/16",Vilma Aasheim-Engen,Heidi Hartmann
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Sofie Jin Reistadbakk,Emilie Alrek Eide,Laura Zeying Du,Andrea Nygård,"21/10,21/7",Sofie Jin Reistadbakk,Emilie Alrek Eide
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Vilma Aasheim-Engen,Heidi Hartmann,Emilie Lie Cook,Nila Lorvik,"21/10,21/13",Vilma Aasheim-Engen,Heidi Hartmann
-2020/2021,Slagen RT 15,24.10.2020,U15 A,Vilma Aasheim-Engen,Heidi Hartmann,Sofie Jin Reistadbakk,Emilie Alrek Eide,"21/16,21/19",Vilma Aasheim-Engen,Heidi Hartmann
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Aldrin Nelson,,Brynjar Hus,"21/15,21/8",Aldrin Nelson,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Brynjar Hus,,Mathias Wong,"21/19,21/11",Brynjar Hus,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Aldrin Nelson,,Thomas Dinh,"21/9,21/12",Aldrin Nelson,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Brynjar Hus,,Varun Manikandan,"21/11,21/13",Brynjar Hus,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Mathias Wong,,Sturla Mørk,"16/21,21/10,21/15",Mathias Wong,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Thomas Dinh,,Haakon Lærkerød Jelsness,"21/16,21/17",Thomas Dinh,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Aldrin Nelson,,Heine Lam Nybakk,"21/15,21/11",Aldrin Nelson,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Varun Manikandan,,Jakob Langeland Risa,"21/19,21/15",Varun Manikandan,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Sturla Mørk,,Måns Anders Lund Mabäcker,"21/6,21/9",Sturla Mørk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Marius Sandvær,"21/17,21/8",Haakon Lærkerød Jelsness,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Heine Lam Nybakk,,Lukas Skrunes Sundt,"21/10,21/9",Heine Lam Nybakk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Linus Nordal,,Andreas Fjellanger,"21/15,21/11",Linus Nordal,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Brynjar Hus,,Andreas Fjellanger,"21/3,21/2",Brynjar Hus,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Brynjar Hus,,Linus Nordal,"21/9,21/6",Brynjar Hus,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Sindre Gjuvsland,,Vebjørn Isberg Haugan,"21/9,21/9",Sindre Gjuvsland,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Varun Manikandan,,Sindre Gjuvsland,"21/10,21/9",Varun Manikandan,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Varun Manikandan,,Vebjørn Isberg Haugan,"21/3,21/6",Varun Manikandan,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Yatin Mehta,,Simen Knutsen,"21/12,21/17",Yatin Mehta,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Jakob Langeland Risa,,Yatin Mehta,"21/10,21/13",Jakob Langeland Risa,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Jakob Langeland Risa,,Simen Knutsen,"21/12,21/18",Jakob Langeland Risa,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Herman Kolstø,,Adam Tollisen Leyland,"21/13,21/17",Herman Kolstø,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Mathias Wong,,Adam Tollisen Leyland,"21/3,21/5",Mathias Wong,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Mathias Wong,,Herman Kolstø,"21/11,21/5",Mathias Wong,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Adit Sharma,,Eirik Tryland Laheld,"21/10,21/18",Adit Sharma,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Sturla Mørk,,Adit Sharma,"18/21,21/10,21/18",Sturla Mørk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Sturla Mørk,,Eirik Tryland Laheld,"21/10,21/7",Sturla Mørk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Måns Anders Lund Mabäcker,,William Aaberg Rølvåg,"21/16,16/21,21/13",Måns Anders Lund Mabäcker,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Marius Sandvær,,William R. Barø,"21/17,21/11",Marius Sandvær,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,William R. Barø,,Adrian Helle Ekerhovd,"21/18,21/14",William R. Barø,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Marius Sandvær,,Adrian Helle Ekerhovd,"21/9,21/15",Marius Sandvær,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Henrik Frende Lavik-Haug,,Sondre Dolven,"21/15,21/13",Henrik Frende Lavik-Haug,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Sondre Dolven,"21/3,21/5",Haakon Lærkerød Jelsness,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Henrik Frende Lavik-Haug,"21/14,21/11",Haakon Lærkerød Jelsness,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Fabian Flak,,Åsmund Sundal-Gjerdevik,"21/11,21/17",Fabian Flak,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Thomas Dinh,,Åsmund Sundal-Gjerdevik,"21/6,21/10",Thomas Dinh,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Thomas Dinh,,Fabian Flak,"21/7,21/5",Thomas Dinh,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Lukas Skrunes Sundt,,Ole Kristian Lie,"21/14,21/10",Lukas Skrunes Sundt,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Lukas Skrunes Sundt,,Kristian Robstad,"21/6,21/8",Lukas Skrunes Sundt,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Ole Kristian Lie,,Kristian Robstad,"21/13,21/18",Ole Kristian Lie,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Noah Østhassel Harman,,Adam Millan,"21/14,21/17",Noah Østhassel Harman,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Heine Lam Nybakk,,Adam Millan,"21/4,21/2",Heine Lam Nybakk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Heine Lam Nybakk,,Noah Østhassel Harman,"21/3,21/16",Heine Lam Nybakk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Herman Dalan  Eidissen,,Albert Aasheim-Engen,"21/6,21/4",Herman Dalan  Eidissen,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Aldrin Nelson,,Albert Aasheim-Engen,"21/9,21/5",Aldrin Nelson,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herresingle,,Aldrin Nelson,,Herman Dalan  Eidissen,"21/16,21/10",Aldrin Nelson,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Linnea Holmedal,,Nila Lorvik,"21/3,21/18",Linnea Holmedal,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Nila Lorvik,,Akarija Anton Reginold,"21/10,21/16",Nila Lorvik,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Linnea Holmedal,,Selma Kvarenes Bjørnestøl,"21/17,21/12",Linnea Holmedal,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Akarija Anton Reginold,,Emilie Lie Cook,"21/10,21/9",Akarija Anton Reginold,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Sofie Jin Reistadbakk,"21/7,21/17",Selma Kvarenes Bjørnestøl,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Nila Lorvik,,Vilma Aasheim-Engen,"21/19,21/17",Nila Lorvik,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Mina Korssund,,Hedda Berg Angell,"21/4,21/11",Mina Korssund,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Vilma Aasheim-Engen,,Hedda Berg Angell,"21/12,21/18",Vilma Aasheim-Engen,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Nila Lorvik,,Mina Korssund,"25/23,21/17",Nila Lorvik,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Mina Korssund,,Vilma Aasheim-Engen,"21/15,21/12",Mina Korssund,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Nila Lorvik,,Hedda Berg Angell,"21/8,21/13",Nila Lorvik,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Akarija Anton Reginold,,Andrea Nygård,"21/6,21/11",Akarija Anton Reginold,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Akarija Anton Reginold,,Emilie Alrek Eide,"21/19,21/17",Akarija Anton Reginold,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Emilie Alrek Eide,,Andrea Nygård,"21/17,21/16",Emilie Alrek Eide,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Anine Halvorsen Egge,,Emilie Lie Cook,"17/21,21/13,21/17",Anine Halvorsen Egge,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Signe Lenning,,Anine Halvorsen Egge,"17/21,21/17,21/12",Signe Lenning,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Emilie Lie Cook,,Signe Lenning,"21/13,17/21,21/16",Emilie Lie Cook,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Dorthe Lorvik,,Juli Helen Johansen Klungtveit,"18/21,21/18,21/16",Dorthe Lorvik,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Sofie Jin Reistadbakk,,Juli Helen Johansen Klungtveit,"21/14,21/15",Sofie Jin Reistadbakk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Sofie Jin Reistadbakk,,Dorthe Lorvik,"21/17,21/8",Sofie Jin Reistadbakk,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Laura Zeying Du,,Rakel Millan,"21/5,21/8",Laura Zeying Du,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Laura Zeying Du,"21/19,21/9",Selma Kvarenes Bjørnestøl,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Rakel Millan,"21/4,21/6",Selma Kvarenes Bjørnestøl,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Heidi Hartmann,,Milla Maevski,"21/11,21/12",Heidi Hartmann,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Linnea Holmedal,,Arathija Anton Reginold,"21/14,21/10",Linnea Holmedal,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Arathija Anton Reginold,,Milla Maevski,"21/12,21/12",Arathija Anton Reginold,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Linnea Holmedal,,Heidi Hartmann,"21/7,19/21,21/14",Linnea Holmedal,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Linnea Holmedal,,Milla Maevski,"21/8,21/5",Linnea Holmedal,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damesingle,,Heidi Hartmann,,Arathija Anton Reginold,"21/15,17/21,21/12",Heidi Hartmann,
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Herman Dalan  Eidissen,Aldrin Nelson,"21/17,21/18",Lukas Skrunes Sundt,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Herman Dalan  Eidissen,Aldrin Nelson,Haakon Lærkerød Jelsness,Mathias Wong,"22/20,12/21,21/11",Herman Dalan  Eidissen,Aldrin Nelson
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Adit Sharma,Varun Manikandan,"21/9,21/4",Lukas Skrunes Sundt,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Haakon Lærkerød Jelsness,Mathias Wong,Åsmund Sundal-Gjerdevik,Sturla Mørk,"21/12,21/12",Haakon Lærkerød Jelsness,Mathias Wong
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Herman Dalan  Eidissen,Aldrin Nelson,Thomas Dinh,Heine Lam Nybakk,"21/23,21/16,21/19",Herman Dalan  Eidissen,Aldrin Nelson
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Adit Sharma,Varun Manikandan,Jakob Langeland Risa,Ole Kristian Lie,"21/17,21/11",Adit Sharma,Varun Manikandan
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Adrian Helle Ekerhovd,Sindre Gjuvsland,"21/11,21/13",Lukas Skrunes Sundt,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Thomas Dinh,Heine Lam Nybakk,Yatin Mehta,Sondre Dolven,"21/3,21/6",Thomas Dinh,Heine Lam Nybakk
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Jakob Langeland Risa,Ole Kristian Lie,Marius Sandvær,Herman Kolstø,"18/21,21/18,21/14",Jakob Langeland Risa,Ole Kristian Lie
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Marius Sandvær,Herman Kolstø,Henrik Frende Lavik-Haug,William Aaberg Rølvåg,"21/9,21/17",Marius Sandvær,Herman Kolstø
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Haakon Lærkerød Jelsness,Mathias Wong,Marius Sandvær,Herman Kolstø,"21/10,21/15",Haakon Lærkerød Jelsness,Mathias Wong
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Haakon Lærkerød Jelsness,Mathias Wong,Henrik Frende Lavik-Haug,William Aaberg Rølvåg,"21/6,21/14",Haakon Lærkerød Jelsness,Mathias Wong
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Jakob Langeland Risa,Ole Kristian Lie,Albert Aasheim-Engen,William R. Barø,"21/11,21/15",Jakob Langeland Risa,Ole Kristian Lie
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Herman Dalan  Eidissen,Aldrin Nelson,Jakob Langeland Risa,Ole Kristian Lie,"21/14,21/10",Herman Dalan  Eidissen,Aldrin Nelson
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Herman Dalan  Eidissen,Aldrin Nelson,Albert Aasheim-Engen,William R. Barø,"21/6,21/7",Herman Dalan  Eidissen,Aldrin Nelson
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Åsmund Sundal-Gjerdevik,Sturla Mørk,Andreas Fjellanger,Kristian Robstad,"21/10,21/15",Åsmund Sundal-Gjerdevik,Sturla Mørk
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Adit Sharma,Varun Manikandan,Andreas Fjellanger,Kristian Robstad,"21/5,21/6",Adit Sharma,Varun Manikandan
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Adit Sharma,Varun Manikandan,Åsmund Sundal-Gjerdevik,Sturla Mørk,"21/15,16/21,21/14",Adit Sharma,Varun Manikandan
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Adrian Helle Ekerhovd,Sindre Gjuvsland,Yatin Mehta,Sondre Dolven,"21/13,21/15",Adrian Helle Ekerhovd,Sindre Gjuvsland
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Fabian Flak,Noah Østhassel Harman,Vebjørn Isberg Haugan,Adam Millan,"21/17,21/14",Fabian Flak,Noah Østhassel Harman
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Adrian Helle Ekerhovd,Sindre Gjuvsland,Vebjørn Isberg Haugan,Adam Millan,"21/11,21/12",Adrian Helle Ekerhovd,Sindre Gjuvsland
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Yatin Mehta,Sondre Dolven,Fabian Flak,Noah Østhassel Harman,"21/19,19/21,21/18",Yatin Mehta,Sondre Dolven
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Adrian Helle Ekerhovd,Sindre Gjuvsland,Fabian Flak,Noah Østhassel Harman,"21/14,21/16",Adrian Helle Ekerhovd,Sindre Gjuvsland
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Yatin Mehta,Sondre Dolven,Vebjørn Isberg Haugan,Adam Millan,"21/18,21/11",Yatin Mehta,Sondre Dolven
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Thomas Dinh,Heine Lam Nybakk,Eirik Tryland Laheld,Adam Tollisen Leyland,"21/8,21/9",Thomas Dinh,Heine Lam Nybakk
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Eirik Tryland Laheld,Adam Tollisen Leyland,"21/10,21/8",Lukas Skrunes Sundt,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Thomas Dinh,Heine Lam Nybakk,"21/17,21/19",Lukas Skrunes Sundt,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Linnea Holmedal,Mina Korssund,Vilma Aasheim-Engen,Heidi Hartmann,"21/11,17/21,21/15",Linnea Holmedal,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Linnea Holmedal,Mina Korssund,Sofie Jin Reistadbakk,Emilie Alrek Eide,"21/23,21/9,21/12",Linnea Holmedal,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,"21/15,21/19",Vilma Aasheim-Engen,Heidi Hartmann
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Sofie Jin Reistadbakk,Emilie Alrek Eide,Arathija Anton Reginold,Akarija Anton Reginold,"21/14,21/12",Sofie Jin Reistadbakk,Emilie Alrek Eide
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,Dorthe Lorvik,Signe Lenning,"21/15,21/7",Hedda Berg Angell,Selma Kvarenes Bjørnestøl
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Dorthe Lorvik,Signe Lenning,Rakel Millan,Milla Maevski,"21/16,21/15",Dorthe Lorvik,Signe Lenning
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Linnea Holmedal,Mina Korssund,Rakel Millan,Milla Maevski,"21/6,21/9",Linnea Holmedal,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Linnea Holmedal,Mina Korssund,Dorthe Lorvik,Signe Lenning,"21/4,21/11",Linnea Holmedal,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,Arathija Anton Reginold,Akarija Anton Reginold,"21/17,19/21,23/21",Hedda Berg Angell,Selma Kvarenes Bjørnestøl
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Arathija Anton Reginold,Akarija Anton Reginold,Anine Halvorsen Egge,Juli Helen Johansen Klungtveit,"23/21,21/16",Arathija Anton Reginold,Akarija Anton Reginold
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Hedda Berg Angell,Selma Kvarenes Bjørnestøl,Anine Halvorsen Egge,Juli Helen Johansen Klungtveit,"22/20,21/15",Hedda Berg Angell,Selma Kvarenes Bjørnestøl
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Emilie Lie Cook,Nila Lorvik,Laura Zeying Du,Andrea Nygård,"21/11,21/16",Emilie Lie Cook,Nila Lorvik
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Sofie Jin Reistadbakk,Emilie Alrek Eide,Emilie Lie Cook,Nila Lorvik,"21/18,21/16",Sofie Jin Reistadbakk,Emilie Alrek Eide
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Laura Zeying Du,Andrea Nygård,"21/6,21/16",Vilma Aasheim-Engen,Heidi Hartmann
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Sofie Jin Reistadbakk,Emilie Alrek Eide,Laura Zeying Du,Andrea Nygård,"21/10,21/7",Sofie Jin Reistadbakk,Emilie Alrek Eide
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Emilie Lie Cook,Nila Lorvik,"21/10,21/13",Vilma Aasheim-Engen,Heidi Hartmann
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Sofie Jin Reistadbakk,Emilie Alrek Eide,"21/16,21/19",Vilma Aasheim-Engen,Heidi Hartmann
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Linnea Holmedal,Brynjar Hus,Sturla Mørk,Selma Kvarenes Bjørnestøl,"21/8,16/21,21/19",Linnea Holmedal,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Linnea Holmedal,Brynjar Hus,Haakon Lærkerød Jelsness,Mina Korssund,"21/7,14/21,21/11",Linnea Holmedal,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Sturla Mørk,Selma Kvarenes Bjørnestøl,Heine Lam Nybakk,Emilie Alrek Eide,"22/20,21/12",Sturla Mørk,Selma Kvarenes Bjørnestøl
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Linnea Holmedal,Brynjar Hus,Emilie Lie Cook,Adit Sharma,"21/8,21/5",Linnea Holmedal,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Aldrin Nelson,Arathija Anton Reginold,"21/16,21/19",Haakon Lærkerød Jelsness,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Heine Lam Nybakk,Emilie Alrek Eide,Vilma Aasheim-Engen,Varun Manikandan,"21/18,16/21,21/12",Heine Lam Nybakk,Emilie Alrek Eide
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Sturla Mørk,Selma Kvarenes Bjørnestøl,Akarija Anton Reginold,Lukas Skrunes Sundt,"21/8,21/15",Sturla Mørk,Selma Kvarenes Bjørnestøl
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Vilma Aasheim-Engen,Varun Manikandan,Dorthe Lorvik,Adrian Helle Ekerhovd,"21/11,21/7",Vilma Aasheim-Engen,Varun Manikandan
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Linnea Holmedal,Brynjar Hus,Signe Lenning,William Aaberg Rølvåg,"21/6,21/5",Linnea Holmedal,Brynjar Hus
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Emilie Lie Cook,Adit Sharma,Andrea Nygård,Eirik Tryland Laheld,"21/2,21/8",Emilie Lie Cook,Adit Sharma
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Aldrin Nelson,Arathija Anton Reginold,Albert Aasheim-Engen,Milla Maevski,"21/2,21/7",Aldrin Nelson,Arathija Anton Reginold
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Heine Lam Nybakk,Emilie Alrek Eide,Heidi Hartmann,William R. Barø,"21/15,21/12",Heine Lam Nybakk,Emilie Alrek Eide
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Akarija Anton Reginold,Lukas Skrunes Sundt,Anine Halvorsen Egge,Noah Østhassel Harman,"21/8,21/13",Akarija Anton Reginold,Lukas Skrunes Sundt
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Sturla Mørk,Selma Kvarenes Bjørnestøl,Mathias Wong,Sofie Jin Reistadbakk,"20/22,22/20,21/16",Sturla Mørk,Selma Kvarenes Bjørnestøl
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Jakob Langeland Risa,Juli Helen Johansen Klungtveit,"21/13,19/21,21/15",Haakon Lærkerød Jelsness,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Andreas Fjellanger,Hedda Berg Angell,"21/7,21/5",Haakon Lærkerød Jelsness,Mina Korssund
+2020/2021,Slagen RT 15,24.10.2020,U15 A,Mixeddouble,Vilma Aasheim-Engen,Varun Manikandan,Marius Sandvær,Nila Lorvik,"21/16,17/21,21/13",Vilma Aasheim-Engen,Varun Manikandan

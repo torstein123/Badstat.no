@@ -1,244 +1,130 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Trine Sperre,,Tora Vik Langhammer,"21/11,21/4",Trine Sperre,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/10,21/12",Gunn Fiskergaard,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Gunn Fiskergaard,,Trine Sperre,"19/21,21/18,21/18",Gunn Fiskergaard,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Thomas Pedersen,Lars Valentin,"22/20,19/21,21/14",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Vegard Strand,Christian Asbjørnsen,"21/16,21/13",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Lian,Robert Barø,Vegard Strand,Christian Asbjørnsen,"21/15,21/11",Fredrik Lian,Robert Barø
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Fredrik Lian,Robert Barø,"21/13,21/15",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Tor Stenvaag,Ørjan Emil Strand,"19/21,21/8,21/10",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Skånøy,Jonas J Grande,Andre Korsgaten,Rune Enoksen,"21/12,21/13",Fredrik Skånøy,Jonas J Grande
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Skånøy,Jonas J Grande,Tor Stenvaag,Ørjan Emil Strand,"21/17,21/14",Fredrik Skånøy,Jonas J Grande
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Andre Korsgaten,Rune Enoksen,"21/4,21/8",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Fredrik Skånøy,Jonas J Grande,"21/10,21/10",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Tor Stenvaag,Ørjan Emil Strand,Andre Korsgaten,Rune Enoksen,"21/14,21/12",Tor Stenvaag,Ørjan Emil Strand
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Trine Sperre,Tora Vik Langhammer,"21/16,21/8",Gunn Fiskergaard,Sissel W. Schmidt
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Emma Søvik,Ingrid Stene Olsen,"21/9,21/11",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Trine Sperre,Tora Vik Langhammer,"21/17,21/9",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Gunn Fiskergaard,Sissel W. Schmidt,"21/19,16/21,21/15",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Emma Søvik,Ingrid Stene Olsen,"21/19,21/14",Gunn Fiskergaard,Sissel W. Schmidt
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Trine Sperre,Tora Vik Langhammer,Emma Søvik,Ingrid Stene Olsen,"14/21,21/13,24/22",Trine Sperre,Tora Vik Langhammer
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Kristian Hyllestad,,Tor Stenvaag,"21/14,21/18",Kristian Hyllestad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Robert Barø,,Jonas J Grande,"21/13,21/7",Robert Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Jonas J Grande,,Tor Stenvaag,"6/21,21/15,21/16",Jonas J Grande,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Robert Barø,,Kristian Hyllestad,"21/8,21/14",Robert Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Robert Barø,,Tor Stenvaag,"21/13,21/13",Robert Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Kristian Hyllestad,,Jonas J Grande,"21/11,21/14",Kristian Hyllestad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Kristian Hyllestad,,Tor Stenvaag,"21/14,21/18",Kristian Hyllestad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Robert Barø,,Jonas J Grande,"21/13,21/7",Robert Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Jonas J Grande,,Tor Stenvaag,"6/21,21/15,21/16",Jonas J Grande,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Robert Barø,,Kristian Hyllestad,"21/8,21/14",Robert Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Robert Barø,,Tor Stenvaag,"21/13,21/13",Robert Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Kristian Hyllestad,,Jonas J Grande,"21/11,21/14",Kristian Hyllestad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Ingrid Stene Olsen,,Emma Søvik,"21/19,21/15",Ingrid Stene Olsen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Emma Søvik,,Amalie Berstad,"21/3,21/10",Emma Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,,Ingrid Stene Olsen,,Amalie Berstad,"21/2,21/0",Ingrid Stene Olsen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Adrian Bruaset,,Andre Korsgaten,"21/16,22/20",Adrian Bruaset,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Runar Tandstad,,Jonas Midtøy,"17/21,21/13,21/10",Runar Tandstad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Adrian Bruaset,,Runar Tandstad,"21/15,21/8",Adrian Bruaset,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Jonas Midtøy,,Andre Korsgaten,"21/16,22/20",Jonas Midtøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Adrian Bruaset,,Jonas Midtøy,"16/21,21/4,21/17",Adrian Bruaset,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Runar Tandstad,,Andre Korsgaten,"21/13,21/15",Runar Tandstad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Adrian Bruaset,,Andre Korsgaten,"21/16,22/20",Adrian Bruaset,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Runar Tandstad,,Jonas Midtøy,"17/21,21/13,21/10",Runar Tandstad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Adrian Bruaset,,Runar Tandstad,"21/15,21/8",Adrian Bruaset,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Jonas Midtøy,,Andre Korsgaten,"21/16,22/20",Jonas Midtøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Adrian Bruaset,,Jonas Midtøy,"16/21,21/4,21/17",Adrian Bruaset,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,,Runar Tandstad,,Andre Korsgaten,"21/13,21/15",Runar Tandstad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Adrian Bruaset,Peter Lid Midtgård,Runar Tandstad,Erlend Hellberg,"21/17,17/21,21/19",Adrian Bruaset,Peter Lid Midtgård
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Arne Bjørn Berger,Kristian Hyllestad,Runar Tandstad,Erlend Hellberg,"21/14,21/18",Arne Bjørn Berger,Kristian Hyllestad
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Arne Bjørn Berger,Kristian Hyllestad,Adrian Bruaset,Peter Lid Midtgård,"21/18,21/17",Arne Bjørn Berger,Kristian Hyllestad
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN D,,Arne Bjørn Berger,,Erlend Hellberg,"21/15,22/20",Arne Bjørn Berger,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN D,,Arne Bjørn Berger,,Erlend Hellberg,"21/15,22/20",Arne Bjørn Berger,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Vikaas Subburam,,Halvor Bell,"21/5,21/11",Vikaas Subburam,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Vikaas Subburam,,Halvor Bell,"21/5,21/11",Vikaas Subburam,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Sarah Wulff Brunstad,,Kari Wolz,"21/10,21/16",Sarah Wulff Brunstad,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Karen Uggedal Søvik,,Selma Leikanger Østraat,"16/21,21/17,22/20",Karen Uggedal Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Karen Uggedal Søvik,,Sarah Wulff Brunstad,"21/10,21/19",Karen Uggedal Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Selma Leikanger Østraat,,Kari Wolz,"21/13,21/16",Selma Leikanger Østraat,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Selma Leikanger Østraat,,Sarah Wulff Brunstad,"21/13,21/7",Selma Leikanger Østraat,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,,Kari Wolz,,Karen Uggedal Søvik,"21/16,17/21,21/18",Kari Wolz,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Trine Sperre,,Tora Vik Langhammer,"21/11,21/4",Trine Sperre,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/10,21/12",Gunn Fiskergaard,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Gunn Fiskergaard,,Trine Sperre,"19/21,21/18,21/18",Gunn Fiskergaard,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Thomas Pedersen,Lars Valentin,"22/20,19/21,21/14",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Vegard Strand,Christian Asbjørnsen,"21/16,21/13",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Lian,Robert Barø,Vegard Strand,Christian Asbjørnsen,"21/15,21/11",Fredrik Lian,Robert Barø
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Fredrik Lian,Robert Barø,"21/13,21/15",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Tor Stenvaag,Ørjan Emil Strand,"19/21,21/8,21/10",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Skånøy,Jonas J Grande,Andre Korsgaten,Rune Enoksen,"21/12,21/13",Fredrik Skånøy,Jonas J Grande
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Skånøy,Jonas J Grande,Tor Stenvaag,Ørjan Emil Strand,"21/17,21/14",Fredrik Skånøy,Jonas J Grande
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Andre Korsgaten,Rune Enoksen,"21/4,21/8",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Fredrik Skånøy,Jonas J Grande,"21/10,21/10",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Tor Stenvaag,Ørjan Emil Strand,Andre Korsgaten,Rune Enoksen,"21/14,21/12",Tor Stenvaag,Ørjan Emil Strand
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Trine Sperre,Tora Vik Langhammer,"21/16,21/8",Gunn Fiskergaard,Sissel W. Schmidt
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Emma Søvik,Ingrid Stene Olsen,"21/9,21/11",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Trine Sperre,Tora Vik Langhammer,"21/17,21/9",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Gunn Fiskergaard,Sissel W. Schmidt,"21/19,16/21,21/15",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Emma Søvik,Ingrid Stene Olsen,"21/19,21/14",Gunn Fiskergaard,Sissel W. Schmidt
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Trine Sperre,Tora Vik Langhammer,Emma Søvik,Ingrid Stene Olsen,"14/21,21/13,24/22",Trine Sperre,Tora Vik Langhammer
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,Stefan Wolz,,Viljar Bell,"21/9,21/7",Stefan Wolz,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,William R. Barø,,Stefan Wolz,"21/8,21/8",William R. Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,William R. Barø,,Viljar Bell,"21/7,21/8",William R. Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,Stefan Wolz,,Viljar Bell,"21/9,21/7",Stefan Wolz,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,William R. Barø,,Stefan Wolz,"21/8,21/8",William R. Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,William R. Barø,,Viljar Bell,"21/7,21/8",William R. Barø,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,Mia Henriksen,,Celine H Solvang Søvik,"21/16,21/15",Mia Henriksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,Ragnhild Stenvaag,,Mia Henriksen,"21/8,21/6",Ragnhild Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,,Ragnhild Stenvaag,,Celine H Solvang Søvik,"21/7,21/14",Ragnhild Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Heidi Hartmann,Ragnhild Stenvaag,William R. Barø,Stefan Wolz,"21/8,21/8",Heidi Hartmann,Ragnhild Stenvaag
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,William R. Barø,Stefan Wolz,Celine H Solvang Søvik,Mia Henriksen,"19/21,21/15,21/8",William R. Barø,Stefan Wolz
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Heidi Hartmann,Ragnhild Stenvaag,Celine H Solvang Søvik,Mia Henriksen,"21/9,21/3",Heidi Hartmann,Ragnhild Stenvaag
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Trine Sperre,,Tora Vik Langhammer,"21/11,21/4",Trine Sperre,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/10,21/12",Gunn Fiskergaard,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,,Gunn Fiskergaard,,Trine Sperre,"19/21,21/18,21/18",Gunn Fiskergaard,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Thomas Pedersen,Lars Valentin,"22/20,19/21,21/14",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Vegard Strand,Christian Asbjørnsen,"21/16,21/13",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Lian,Robert Barø,Vegard Strand,Christian Asbjørnsen,"21/15,21/11",Fredrik Lian,Robert Barø
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Benjamin Moeyersons,Robert Sulebakk,Fredrik Lian,Robert Barø,"21/13,21/15",Benjamin Moeyersons,Robert Sulebakk
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Tor Stenvaag,Ørjan Emil Strand,"19/21,21/8,21/10",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Skånøy,Jonas J Grande,Andre Korsgaten,Rune Enoksen,"21/12,21/13",Fredrik Skånøy,Jonas J Grande
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Fredrik Skånøy,Jonas J Grande,Tor Stenvaag,Ørjan Emil Strand,"21/17,21/14",Fredrik Skånøy,Jonas J Grande
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Andre Korsgaten,Rune Enoksen,"21/4,21/8",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Thomas Pedersen,Lars Valentin,Fredrik Skånøy,Jonas J Grande,"21/10,21/10",Thomas Pedersen,Lars Valentin
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Tor Stenvaag,Ørjan Emil Strand,Andre Korsgaten,Rune Enoksen,"21/14,21/12",Tor Stenvaag,Ørjan Emil Strand
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Trine Sperre,Tora Vik Langhammer,"21/16,21/8",Gunn Fiskergaard,Sissel W. Schmidt
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Emma Søvik,Ingrid Stene Olsen,"21/9,21/11",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Trine Sperre,Tora Vik Langhammer,"21/17,21/9",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Gunn Fiskergaard,Sissel W. Schmidt,"21/19,16/21,21/15",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Gunn Fiskergaard,Sissel W. Schmidt,Emma Søvik,Ingrid Stene Olsen,"21/19,21/14",Gunn Fiskergaard,Sissel W. Schmidt
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Trine Sperre,Tora Vik Langhammer,Emma Søvik,Ingrid Stene Olsen,"14/21,21/13,24/22",Trine Sperre,Tora Vik Langhammer
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Peder Uggedal Søvik,"19/21,21/10,21/11",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,William Valentin,,Luca Lan,"17/21,21/4,21/12",William Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Peder Uggedal Søvik,,Luca Lan,"21/12,21/15",Peder Uggedal Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Peder Uggedal Søvik,,William Valentin,"21/12,21/13",Peder Uggedal Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Jonas Pedersen,,Tarjei Strand,"21/16,21/11",Jonas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Martin Stene Olsen,"21/13,21/11",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Tarjei Strand,"21/13,21/7",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Martin Stene Olsen,,Jonas Pedersen,"21/9,21/9",Martin Stene Olsen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Jonas Pedersen,"21/8,21/3",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Martin Stene Olsen,,Tarjei Strand,"21/12,21/9",Martin Stene Olsen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Peder Uggedal Søvik,"19/21,21/10,21/11",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,William Valentin,,Luca Lan,"17/21,21/4,21/12",William Valentin,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Peder Uggedal Søvik,,Luca Lan,"21/12,21/15",Peder Uggedal Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Peder Uggedal Søvik,,William Valentin,"21/12,21/13",Peder Uggedal Søvik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Jonas Pedersen,,Tarjei Strand,"21/16,21/11",Jonas Pedersen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Martin Stene Olsen,"21/13,21/11",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Tarjei Strand,"21/13,21/7",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Martin Stene Olsen,,Jonas Pedersen,"21/9,21/9",Martin Stene Olsen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Knut Hermann Stenvaag,,Jonas Pedersen,"21/8,21/3",Knut Hermann Stenvaag,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Martin Stene Olsen,,Tarjei Strand,"21/12,21/9",Martin Stene Olsen,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Heidi Hartmann,,Heidrun Ervik,"21/18,21/19",Heidi Hartmann,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Heidi Hartmann,,Andrea Ulla Nogva,"21/18,21/17",Heidi Hartmann,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,,Heidrun Ervik,,Andrea Ulla Nogva,"21/16,21/7",Heidrun Ervik,
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Ronja Hartmann,Andrea Ulla Nogva,Tarjei Strand,William Valentin,"21/11,21/9",Ronja Hartmann,Andrea Ulla Nogva
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Ronja Hartmann,Andrea Ulla Nogva,Jonas Pedersen,Peder Uggedal Søvik,"21/13,21/10",Ronja Hartmann,Andrea Ulla Nogva
-2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Tarjei Strand,William Valentin,Jonas Pedersen,Peder Uggedal Søvik,"21/10,21/10",Tarjei Strand,William Valentin
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Thomas Pedersen,,Fredrik Skånøy,"21/17,21/7",Thomas Pedersen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Fredrik Lian,,Christian Asbjørnsen,"21/7,21/8",Fredrik Lian,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Thomas Pedersen,,Christian Asbjørnsen,"21/5,21/10",Thomas Pedersen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Fredrik Skånøy,,Fredrik Lian,"21/19,15/21,21/17",Fredrik Skånøy,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Thomas Pedersen,,Fredrik Lian,"21/11,21/18",Thomas Pedersen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Fredrik Skånøy,,Christian Asbjørnsen,"21/19,21/17",Fredrik Skånøy,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Thomas Pedersen,,Lars Valentin,"22/20,21/12",Thomas Pedersen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Robert Sulebakk,,Thomas Pedersen,"21/18,21/19",Robert Sulebakk,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Robert Sulebakk,,Lars Valentin,"21/18,21/18",Robert Sulebakk,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Lars Valentin,,Vegard Strand,"11/21,21/10,21/14",Lars Valentin,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Rune Enoksen,,Peter Lid Midtgård,"22/24,21/14,21/7",Rune Enoksen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Lars Valentin,,Peter Lid Midtgård,"21/6,21/11",Lars Valentin,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Vegard Strand,,Rune Enoksen,"21/12,21/11",Vegard Strand,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Lars Valentin,,Rune Enoksen,"21/7,21/10",Lars Valentin,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Vegard Strand,,Peter Lid Midtgård,"21/2,21/7",Vegard Strand,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Benjamin Moeyersons,,Ørjan Emil Strand,"13/21,21/9,21/10",Benjamin Moeyersons,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Robert Sulebakk,,Benjamin Moeyersons,"12/21,21/16,21/17",Robert Sulebakk,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herresingle,,Robert Sulebakk,,Ørjan Emil Strand,"24/22,21/12",Robert Sulebakk,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damesingle,,Trine Sperre,,Tora Vik Langhammer,"21/11,21/4",Trine Sperre,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damesingle,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/10,21/12",Gunn Fiskergaard,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damesingle,,Gunn Fiskergaard,,Trine Sperre,"19/21,21/18,21/18",Gunn Fiskergaard,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Benjamin Moeyersons,Robert Sulebakk,Thomas Pedersen,Lars Valentin,"22/20,19/21,21/14",Benjamin Moeyersons,Robert Sulebakk
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Benjamin Moeyersons,Robert Sulebakk,Vegard Strand,Christian Asbjørnsen,"21/16,21/13",Benjamin Moeyersons,Robert Sulebakk
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Fredrik Lian,Robert Barø,Vegard Strand,Christian Asbjørnsen,"21/15,21/11",Fredrik Lian,Robert Barø
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Benjamin Moeyersons,Robert Sulebakk,Fredrik Lian,Robert Barø,"21/13,21/15",Benjamin Moeyersons,Robert Sulebakk
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Thomas Pedersen,Lars Valentin,Tor Stenvaag,Ørjan Emil Strand,"19/21,21/8,21/10",Thomas Pedersen,Lars Valentin
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Fredrik Skånøy,Jonas J Grande,Andre Korsgaten,Rune Enoksen,"21/12,21/13",Fredrik Skånøy,Jonas J Grande
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Fredrik Skånøy,Jonas J Grande,Tor Stenvaag,Ørjan Emil Strand,"21/17,21/14",Fredrik Skånøy,Jonas J Grande
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Thomas Pedersen,Lars Valentin,Andre Korsgaten,Rune Enoksen,"21/4,21/8",Thomas Pedersen,Lars Valentin
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Thomas Pedersen,Lars Valentin,Fredrik Skånøy,Jonas J Grande,"21/10,21/10",Thomas Pedersen,Lars Valentin
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Herredouble,Tor Stenvaag,Ørjan Emil Strand,Andre Korsgaten,Rune Enoksen,"21/14,21/12",Tor Stenvaag,Ørjan Emil Strand
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damedouble,Gunn Fiskergaard,Sissel W. Schmidt,Trine Sperre,Tora Vik Langhammer,"21/16,21/8",Gunn Fiskergaard,Sissel W. Schmidt
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damedouble,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Emma Søvik,Ingrid Stene Olsen,"21/9,21/11",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damedouble,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Trine Sperre,Tora Vik Langhammer,"21/17,21/9",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damedouble,Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay,Gunn Fiskergaard,Sissel W. Schmidt,"21/19,16/21,21/15",Elisabeth Vatnehol Straumsheim,Cecilie Welle Bay
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damedouble,Gunn Fiskergaard,Sissel W. Schmidt,Emma Søvik,Ingrid Stene Olsen,"21/19,21/14",Gunn Fiskergaard,Sissel W. Schmidt
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Damedouble,Trine Sperre,Tora Vik Langhammer,Emma Søvik,Ingrid Stene Olsen,"14/21,21/13,24/22",Trine Sperre,Tora Vik Langhammer
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Mixeddouble,Thomas Pedersen,Trine Sperre,Fredrik Lian,Emma Søvik,"21/13,21/14",Thomas Pedersen,Trine Sperre
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Mixeddouble,Fredrik Lian,Emma Søvik,Tora Vik Langhammer,Christian Asbjørnsen,"21/15,21/8",Fredrik Lian,Emma Søvik
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Mixeddouble,Thomas Pedersen,Trine Sperre,Tora Vik Langhammer,Christian Asbjørnsen,"21/11,21/13",Thomas Pedersen,Trine Sperre
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Mixeddouble,Ingrid Stene Olsen,Fredrik Skånøy,Rune Enoksen,Cecilie Welle Bay,"19/21,21/10,21/16",Ingrid Stene Olsen,Fredrik Skånøy
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Mixeddouble,Sissel W. Schmidt,Lars Valentin,Ingrid Stene Olsen,Fredrik Skånøy,"21/11,21/14",Sissel W. Schmidt,Lars Valentin
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN A,Mixeddouble,Sissel W. Schmidt,Lars Valentin,Rune Enoksen,Cecilie Welle Bay,"21/5,21/16",Sissel W. Schmidt,Lars Valentin
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Herresingle,,Kristian Hyllestad,,Tor Stenvaag,"21/14,21/18",Kristian Hyllestad,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Herresingle,,Robert Barø,,Jonas J Grande,"21/13,21/7",Robert Barø,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Herresingle,,Jonas J Grande,,Tor Stenvaag,"6/21,21/15,21/16",Jonas J Grande,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Herresingle,,Robert Barø,,Kristian Hyllestad,"21/8,21/14",Robert Barø,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Herresingle,,Robert Barø,,Tor Stenvaag,"21/13,21/13",Robert Barø,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Herresingle,,Kristian Hyllestad,,Jonas J Grande,"21/11,21/14",Kristian Hyllestad,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Damesingle,,Ingrid Stene Olsen,,Emma Søvik,"21/19,21/15",Ingrid Stene Olsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Damesingle,,Emma Søvik,,Amalie Berstad,"21/3,21/10",Emma Søvik,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN B,Damesingle,,Ingrid Stene Olsen,,Amalie Berstad,"21/2,21/0",Ingrid Stene Olsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herresingle,,Adrian Bruaset,,Andre Korsgaten,"21/16,22/20",Adrian Bruaset,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herresingle,,Runar Tandstad,,Jonas Midtøy,"17/21,21/13,21/10",Runar Tandstad,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herresingle,,Adrian Bruaset,,Runar Tandstad,"21/15,21/8",Adrian Bruaset,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herresingle,,Jonas Midtøy,,Andre Korsgaten,"21/16,22/20",Jonas Midtøy,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herresingle,,Adrian Bruaset,,Jonas Midtøy,"16/21,21/4,21/17",Adrian Bruaset,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herresingle,,Runar Tandstad,,Andre Korsgaten,"21/13,21/15",Runar Tandstad,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herredouble,Adrian Bruaset,Peter Lid Midtgård,Runar Tandstad,Erlend Hellberg,"21/17,17/21,21/19",Adrian Bruaset,Peter Lid Midtgård
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herredouble,Arne Bjørn Berger,Kristian Hyllestad,Runar Tandstad,Erlend Hellberg,"21/14,21/18",Arne Bjørn Berger,Kristian Hyllestad
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Herredouble,Arne Bjørn Berger,Kristian Hyllestad,Adrian Bruaset,Peter Lid Midtgård,"21/18,21/17",Arne Bjørn Berger,Kristian Hyllestad
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Mixeddouble,Runar Tandstad,Elisabeth Vatnehol Straumsheim,Jonas Midtøy,Amalie Berstad,"21/7,21/4",Runar Tandstad,Elisabeth Vatnehol Straumsheim
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN C,Mixeddouble,Runar Tandstad,Elisabeth Vatnehol Straumsheim,Adrian Bruaset,Irene Vik,"21/12,21/6",Runar Tandstad,Elisabeth Vatnehol Straumsheim
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,SEN D,Herresingle,,Arne Bjørn Berger,,Erlend Hellberg,"21/15,22/20",Arne Bjørn Berger,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Herresingle,,Vikaas Subburam,,Halvor Bell,"21/5,21/11",Vikaas Subburam,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Damesingle,,Sarah Wulff Brunstad,,Kari Wolz,"21/10,21/16",Sarah Wulff Brunstad,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Damesingle,,Karen Uggedal Søvik,,Selma Leikanger Østraat,"16/21,21/17,22/20",Karen Uggedal Søvik,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Damesingle,,Karen Uggedal Søvik,,Sarah Wulff Brunstad,"21/10,21/19",Karen Uggedal Søvik,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Damesingle,,Selma Leikanger Østraat,,Kari Wolz,"21/13,21/16",Selma Leikanger Østraat,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Damesingle,,Selma Leikanger Østraat,,Sarah Wulff Brunstad,"21/13,21/7",Selma Leikanger Østraat,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U9 A,Damesingle,,Kari Wolz,,Karen Uggedal Søvik,"21/16,17/21,21/18",Kari Wolz,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Herresingle,,Stefan Wolz,,Viljar Bell,"21/9,21/7",Stefan Wolz,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Herresingle,,William R. Barø,,Stefan Wolz,"21/8,21/8",William R. Barø,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Herresingle,,William R. Barø,,Viljar Bell,"21/7,21/8",William R. Barø,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Damesingle,,Mia Henriksen,,Celine H Solvang Søvik,"21/16,21/15",Mia Henriksen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Damesingle,,Ragnhild Stenvaag,,Mia Henriksen,"21/8,21/6",Ragnhild Stenvaag,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Damesingle,,Ragnhild Stenvaag,,Celine H Solvang Søvik,"21/7,21/14",Ragnhild Stenvaag,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Herredouble,Heidi Hartmann,Ragnhild Stenvaag,William R. Barø,Stefan Wolz,"21/8,21/8",Heidi Hartmann,Ragnhild Stenvaag
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Herredouble,William R. Barø,Stefan Wolz,Celine H Solvang Søvik,Mia Henriksen,"19/21,21/15,21/8",William R. Barø,Stefan Wolz
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U11 A,Herredouble,Heidi Hartmann,Ragnhild Stenvaag,Celine H Solvang Søvik,Mia Henriksen,"21/9,21/3",Heidi Hartmann,Ragnhild Stenvaag
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Knut Hermann Stenvaag,,Peder Uggedal Søvik,"19/21,21/10,21/11",Knut Hermann Stenvaag,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,William Valentin,,Luca Lan,"17/21,21/4,21/12",William Valentin,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Peder Uggedal Søvik,,Luca Lan,"21/12,21/15",Peder Uggedal Søvik,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Peder Uggedal Søvik,,William Valentin,"21/12,21/13",Peder Uggedal Søvik,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Jonas Pedersen,,Tarjei Strand,"21/16,21/11",Jonas Pedersen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Knut Hermann Stenvaag,,Martin Stene Olsen,"21/13,21/11",Knut Hermann Stenvaag,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Knut Hermann Stenvaag,,Tarjei Strand,"21/13,21/7",Knut Hermann Stenvaag,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Martin Stene Olsen,,Jonas Pedersen,"21/9,21/9",Martin Stene Olsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Knut Hermann Stenvaag,,Jonas Pedersen,"21/8,21/3",Knut Hermann Stenvaag,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herresingle,,Martin Stene Olsen,,Tarjei Strand,"21/12,21/9",Martin Stene Olsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Damesingle,,Heidi Hartmann,,Heidrun Ervik,"21/18,21/19",Heidi Hartmann,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Damesingle,,Heidi Hartmann,,Andrea Ulla Nogva,"21/18,21/17",Heidi Hartmann,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Damesingle,,Heidrun Ervik,,Andrea Ulla Nogva,"21/16,21/7",Heidrun Ervik,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herredouble,Ronja Hartmann,Andrea Ulla Nogva,Tarjei Strand,William Valentin,"21/11,21/9",Ronja Hartmann,Andrea Ulla Nogva
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herredouble,Ronja Hartmann,Andrea Ulla Nogva,Jonas Pedersen,Peder Uggedal Søvik,"21/13,21/10",Ronja Hartmann,Andrea Ulla Nogva
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Herredouble,Tarjei Strand,William Valentin,Jonas Pedersen,Peder Uggedal Søvik,"21/10,21/10",Tarjei Strand,William Valentin
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,William R. Barø,Ragnhild Stenvaag,"19/21,21/16,21/10",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidrun Ervik,Jonas Pedersen,William Valentin,Celine H Solvang Søvik,"21/13,21/12",Heidrun Ervik,Jonas Pedersen
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,William R. Barø,Ragnhild Stenvaag,Tarjei Strand,Mia Henriksen,"21/13,21/13",William R. Barø,Ragnhild Stenvaag
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,William Valentin,Celine H Solvang Søvik,"23/21,19/21,21/15",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidrun Ervik,Jonas Pedersen,Tarjei Strand,Mia Henriksen,"21/14,21/19",Heidrun Ervik,Jonas Pedersen
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,William R. Barø,Ragnhild Stenvaag,William Valentin,Celine H Solvang Søvik,"21/17,21/18",William R. Barø,Ragnhild Stenvaag
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,Tarjei Strand,Mia Henriksen,"21/6,21/9",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidrun Ervik,Jonas Pedersen,William R. Barø,Ragnhild Stenvaag,"21/11,21/17",Heidrun Ervik,Jonas Pedersen
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,William Valentin,Celine H Solvang Søvik,Tarjei Strand,Mia Henriksen,"24/22,21/18",William Valentin,Celine H Solvang Søvik
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,Heidrun Ervik,Jonas Pedersen,"21/9,18/21,22/20",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Ronja Hartmann,,Rami Majeed,"21/0,21/5",Ronja Hartmann,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Rami Majeed,"21/1,21/2",Trygve Gulbrandsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Ronja Hartmann,"21/18,21/12",Trygve Gulbrandsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/3,21/7",Trygve Gulbrandsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Gard Vik Langhammer,"16/21,21/18,21/16",Trygve Gulbrandsen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Gard Vik Langhammer,,Andri Snær Stefansson,"21/3,21/6",Gard Vik Langhammer,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Kristoffer Jenssen,,Petter Leikanger,"21/10,21/17",Kristoffer Jenssen,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Andri Snær Stefansson,,Petter Leikanger,"7/21,21/18,21/11",Andri Snær Stefansson,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Andri Snær Stefansson,,Kristoffer Jenssen,"21/9,21/13",Andri Snær Stefansson,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Eskil Styve,,Jens Karlsbakk Småge,"21/14,20/22,21/17",Eskil Styve,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Gard Vik Langhammer,,Eskil Styve,"21/14,21/11",Gard Vik Langhammer,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Herresingle,,Gard Vik Langhammer,,Jens Karlsbakk Småge,"21/8,21/2",Gard Vik Langhammer,
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U15 A,Mixeddouble,Andrea Ulla Nogva,Trygve Gulbrandsen,Martin Stene Olsen,Ronja Hartmann,"21/15,21/7",Andrea Ulla Nogva,Trygve Gulbrandsen
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,Andri Snær Stefansson,Jonas Midtøy,"21/8,21/8",Trygve Gulbrandsen,Gard Vik Langhammer
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Andri Snær Stefansson,Jonas Midtøy,Martin Stene Olsen,Kristoffer Jenssen,"21/13,21/16",Andri Snær Stefansson,Jonas Midtøy
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,Eskil Styve,Knut Hermann Stenvaag,"21/18,22/20",Trygve Gulbrandsen,Gard Vik Langhammer
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Andri Snær Stefansson,Jonas Midtøy,Rami Majeed,Petter Leikanger,"21/4,21/6",Andri Snær Stefansson,Jonas Midtøy
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Eskil Styve,Knut Hermann Stenvaag,Martin Stene Olsen,Kristoffer Jenssen,"21/17,21/16",Eskil Styve,Knut Hermann Stenvaag
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,Rami Majeed,Petter Leikanger,"21/4,21/3",Trygve Gulbrandsen,Gard Vik Langhammer
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Eskil Styve,Knut Hermann Stenvaag,Rami Majeed,Petter Leikanger,"21/12,21/10",Eskil Styve,Knut Hermann Stenvaag
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Trygve Gulbrandsen,Gard Vik Langhammer,Martin Stene Olsen,Kristoffer Jenssen,"21/6,21/15",Trygve Gulbrandsen,Gard Vik Langhammer
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Andri Snær Stefansson,Jonas Midtøy,Eskil Styve,Knut Hermann Stenvaag,"18/21,21/16,21/18",Andri Snær Stefansson,Jonas Midtøy
+2017/2018,Ålesund Ålesundcupen 2017,21.10.2017,U17 A,Herredouble,Martin Stene Olsen,Kristoffer Jenssen,Rami Majeed,Petter Leikanger,"21/10,21/6",Martin Stene Olsen,Kristoffer Jenssen

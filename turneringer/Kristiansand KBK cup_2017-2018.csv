@@ -1,415 +1,320 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Jonas Sørstrand,"21/12,21/17",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Jonas Sørstrand,"21/11,21/13",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Vera Østhassel Harman,,Frida Haukeland,"21/12,21/10",Vera Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Fabian Kjellevik Holst,"21/7,21/8",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Helena Sperre Stephens,"21/10,21/18",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Vera Østhassel Harman,"21/15,21/12",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Frida Haukeland,,Fabian Kjellevik Holst,"22/20,21/13",Frida Haukeland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Vera Østhassel Harman,,Fabian Kjellevik Holst,"21/11,16/21,21/15",Vera Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Frida Haukeland,"21/7,21/10",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Vera Østhassel Harman,,Jonas Sørstrand,"25/23,21/19",Vera Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Fabian Kjellevik Holst,"21/9,21/13",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Frida Haukeland,"21/13,21/13",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Jonas Sørstrand,,Fabian Kjellevik Holst,"17/21,21/19,21/14",Jonas Sørstrand,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Vera Østhassel Harman,"21/19,21/10",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Erle Egilstad,"21/18,21/17",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Jonas Sørstrand,,Frida Haukeland,"22/20,21/12",Jonas Sørstrand,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Helena Sperre Stephens,"21/13,18/21,21/18",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Vera Østhassel Harman,"21/11,21/13",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Jonas Sørstrand,"21/16,21/13",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Frida Haukeland,"21/10,21/11",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Fabian Kjellevik Holst,"21/12,21/7",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Jonas Sørstrand,"21/12,21/17",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Jonas Sørstrand,"21/11,21/13",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Vera Østhassel Harman,,Frida Haukeland,"21/12,21/10",Vera Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Fabian Kjellevik Holst,"21/7,21/8",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Helena Sperre Stephens,"21/10,21/18",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Vera Østhassel Harman,"21/15,21/12",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Frida Haukeland,,Fabian Kjellevik Holst,"22/20,21/13",Frida Haukeland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Vera Østhassel Harman,,Fabian Kjellevik Holst,"21/11,16/21,21/15",Vera Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Frida Haukeland,"21/7,21/10",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Vera Østhassel Harman,,Jonas Sørstrand,"25/23,21/19",Vera Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Fabian Kjellevik Holst,"21/9,21/13",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Frida Haukeland,"21/13,21/13",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Jonas Sørstrand,,Fabian Kjellevik Holst,"17/21,21/19,21/14",Jonas Sørstrand,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Vera Østhassel Harman,"21/19,21/10",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Erle Egilstad,"21/18,21/17",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Jonas Sørstrand,,Frida Haukeland,"22/20,21/12",Jonas Sørstrand,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Helena Sperre Stephens,"21/13,18/21,21/18",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Vera Østhassel Harman,"21/11,21/13",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Erle Egilstad,,Jonas Sørstrand,"21/16,21/13",Erle Egilstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Helena Sperre Stephens,,Frida Haukeland,"21/10,21/11",Helena Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,,Isaiah Abusdal Malm,,Fabian Kjellevik Holst,"21/12,21/7",Isaiah Abusdal Malm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Mathias Solberg,"21/3,21/5",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Asbjørn Salcher Ågedal,,Mathias Solberg,"21/7,21/7",Asbjørn Salcher Ågedal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Asbjørn Salcher Ågedal,"24/22,21/14",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Silas Andersen Abusdal,,Christoffer Svendsen,"21/6,21/7",Silas Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Ola Helgerød,"12/21,21/11,22/20",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Arne Loen Bue,"21/9,21/9",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Oliver Olafsen,,Mathias Solberg,"21/8,21/15",Oliver Olafsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Vetle Morvik Kragholm,,Johan Skjeggedal Evanger,"21/7,21/15",Vetle Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Arne Loen Bue,"21/16,21/6",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Ola Helgerød,"21/14,21/14",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Samuel Naglestad Moi,,Silas Andersen Abusdal,"11/21,21/19,21/18",Samuel Naglestad Moi,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Mathias Solberg,,Johan Skjeggedal Evanger,"21/14,21/16",Mathias Solberg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Vetle Morvik Kragholm,,Oliver Olafsen,"21/15,21/20",Vetle Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Albin Johan Sundin,"21/14,21/12",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Ola Helgerød,,Arne Loen Bue,"21/4,21/14",Ola Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Samuel Naglestad Moi,,Christoffer Svendsen,"21/12,21/11",Samuel Naglestad Moi,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Vetle Morvik Kragholm,,Mathias Solberg,"21/12,21/4",Vetle Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Oliver Olafsen,,Johan Skjeggedal Evanger,"21/9,21/10",Oliver Olafsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Ola Helgerød,,Samuel Naglestad Moi,"21/9,21/8",Ola Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Samuel Naglestad Moi,,Oliver Olafsen,"21/15,21/19",Samuel Naglestad Moi,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Ola Helgerød,,Oliver Olafsen,"21/6,12/8",Ola Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Arne Loen Bue,,Johan Skjeggedal Evanger,"21/4,21/9",Arne Loen Bue,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Christoffer Svendsen,,Johan Skjeggedal Evanger,"21/15,21/15",Christoffer Svendsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Arne Loen Bue,,Christoffer Svendsen,"21/5,21/5",Arne Loen Bue,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Vetle Morvik Kragholm,"21/8,21/12",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Silas Andersen Abusdal,,Vetle Morvik Kragholm,"21/17,16/21,21/10",Silas Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Silas Andersen Abusdal,"25/23,21/17",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Mathias Solberg,"21/3,21/5",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Asbjørn Salcher Ågedal,,Mathias Solberg,"21/7,21/7",Asbjørn Salcher Ågedal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Asbjørn Salcher Ågedal,"24/22,21/14",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Silas Andersen Abusdal,,Christoffer Svendsen,"21/6,21/7",Silas Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Ola Helgerød,"12/21,21/11,22/20",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Arne Loen Bue,"21/9,21/9",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Oliver Olafsen,,Mathias Solberg,"21/8,21/15",Oliver Olafsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Vetle Morvik Kragholm,,Johan Skjeggedal Evanger,"21/7,21/15",Vetle Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Albin Johan Sundin,,Arne Loen Bue,"21/16,21/6",Albin Johan Sundin,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Ola Helgerød,"21/14,21/14",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Samuel Naglestad Moi,,Silas Andersen Abusdal,"11/21,21/19,21/18",Samuel Naglestad Moi,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Mathias Solberg,,Johan Skjeggedal Evanger,"21/14,21/16",Mathias Solberg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Vetle Morvik Kragholm,,Oliver Olafsen,"21/15,21/20",Vetle Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Albin Johan Sundin,"21/14,21/12",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Ola Helgerød,,Arne Loen Bue,"21/4,21/14",Ola Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Samuel Naglestad Moi,,Christoffer Svendsen,"21/12,21/11",Samuel Naglestad Moi,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Vetle Morvik Kragholm,,Mathias Solberg,"21/12,21/4",Vetle Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Oliver Olafsen,,Johan Skjeggedal Evanger,"21/9,21/10",Oliver Olafsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Ola Helgerød,,Samuel Naglestad Moi,"21/9,21/8",Ola Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Samuel Naglestad Moi,,Oliver Olafsen,"21/15,21/19",Samuel Naglestad Moi,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Ola Helgerød,,Oliver Olafsen,"21/6,12/8",Ola Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Arne Loen Bue,,Johan Skjeggedal Evanger,"21/4,21/9",Arne Loen Bue,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Christoffer Svendsen,,Johan Skjeggedal Evanger,"21/15,21/15",Christoffer Svendsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Arne Loen Bue,,Christoffer Svendsen,"21/5,21/5",Arne Loen Bue,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Vetle Morvik Kragholm,"21/8,21/12",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Silas Andersen Abusdal,,Vetle Morvik Kragholm,"21/17,16/21,21/10",Silas Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,,Thomas Kelly Ramsgaard,,Silas Andersen Abusdal,"25/23,21/17",Thomas Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Albin Johan Sundin,Silas Andersen Abusdal,Arne Loen Bue,Oliver Olafsen,"21/11,21/5",Albin Johan Sundin,Silas Andersen Abusdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Vetle Morvik Kragholm,Olav Mjelde Løvdal,Fabian Kjellevik Holst,Christoffer Svendsen,"21/5,21/10",Vetle Morvik Kragholm,Olav Mjelde Løvdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Christian Ripegutu,Aksel Bue,Mathias Solberg,Samuel Naglestad Moi,"21/9,21/17",Christian Ripegutu,Aksel Bue
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Arne Loen Bue,Oliver Olafsen,Mathias Solberg,Samuel Naglestad Moi,"21/17,21/15",Arne Loen Bue,Oliver Olafsen
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Albin Johan Sundin,Silas Andersen Abusdal,Vetle Morvik Kragholm,Olav Mjelde Løvdal,"21/12,21/10",Albin Johan Sundin,Silas Andersen Abusdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Christian Ripegutu,Aksel Bue,Fabian Kjellevik Holst,Christoffer Svendsen,"21/8,21/10",Christian Ripegutu,Aksel Bue
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Arne Loen Bue,Oliver Olafsen,Fabian Kjellevik Holst,Christoffer Svendsen,"21/2,21/5",Arne Loen Bue,Oliver Olafsen
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Albin Johan Sundin,Silas Andersen Abusdal,Mathias Solberg,Samuel Naglestad Moi,"21/15,21/14",Albin Johan Sundin,Silas Andersen Abusdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Christian Ripegutu,Aksel Bue,Vetle Morvik Kragholm,Olav Mjelde Løvdal,"21/19,18/21,22/20",Christian Ripegutu,Aksel Bue
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Christian Ripegutu,Aksel Bue,Arne Loen Bue,Oliver Olafsen,"21/8,21/11",Christian Ripegutu,Aksel Bue
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Albin Johan Sundin,Silas Andersen Abusdal,Fabian Kjellevik Holst,Christoffer Svendsen,"21/5,21/8",Albin Johan Sundin,Silas Andersen Abusdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Vetle Morvik Kragholm,Olav Mjelde Løvdal,Mathias Solberg,Samuel Naglestad Moi,"21/9,21/15",Vetle Morvik Kragholm,Olav Mjelde Løvdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Albin Johan Sundin,Silas Andersen Abusdal,Christian Ripegutu,Aksel Bue,"21/14,16/21,21/18",Albin Johan Sundin,Silas Andersen Abusdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Vetle Morvik Kragholm,Olav Mjelde Løvdal,Arne Loen Bue,Oliver Olafsen,"21/14,21/18",Vetle Morvik Kragholm,Olav Mjelde Løvdal
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Mathias Solberg,Samuel Naglestad Moi,Fabian Kjellevik Holst,Christoffer Svendsen,"21/8,21/11",Mathias Solberg,Samuel Naglestad Moi
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Anna Marie Møretrø,,Alina Reiersølmoen Vigre,"21/14,21/19",Anna Marie Møretrø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Sara Smedsrud Hansen,,Thea Gustavsen,"18/21,21/16,21/17",Sara Smedsrud Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Alina Reiersølmoen Vigre,,Thea Gustavsen,"21/13,25/23",Alina Reiersølmoen Vigre,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Anna Marie Møretrø,"21/8,21/10",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Sara Smedsrud Hansen,"21/3,21/5",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Anna Marie Møretrø,,Thea Gustavsen,"21/16,22/20",Anna Marie Møretrø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Sara Smedsrud Hansen,,Alina Reiersølmoen Vigre,"21/16,21/17",Sara Smedsrud Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Thea Gustavsen,"21/5,21/4",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Alina Reiersølmoen Vigre,"21/5,21/4",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Anna Marie Møretrø,,Sara Smedsrud Hansen,"21/19,21/18",Anna Marie Møretrø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Anna Marie Møretrø,,Alina Reiersølmoen Vigre,"21/14,21/19",Anna Marie Møretrø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Sara Smedsrud Hansen,,Thea Gustavsen,"18/21,21/16,21/17",Sara Smedsrud Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Alina Reiersølmoen Vigre,,Thea Gustavsen,"21/13,25/23",Alina Reiersølmoen Vigre,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Anna Marie Møretrø,"21/8,21/10",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Sara Smedsrud Hansen,"21/3,21/5",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Anna Marie Møretrø,,Thea Gustavsen,"21/16,22/20",Anna Marie Møretrø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Sara Smedsrud Hansen,,Alina Reiersølmoen Vigre,"21/16,21/17",Sara Smedsrud Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Thea Gustavsen,"21/5,21/4",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Maja Egge,,Alina Reiersølmoen Vigre,"21/5,21/4",Maja Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,,Anna Marie Møretrø,,Sara Smedsrud Hansen,"21/19,21/18",Anna Marie Møretrø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Alina Reiersølmoen Vigre,Anna Marie Møretrø,Sara Smedsrud Hansen,Thea Gustavsen,"21/23,21/15,21/18",Alina Reiersølmoen Vigre,Anna Marie Møretrø
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Maja Egge,Frida Haukeland,Erle Egilstad,Vera Østhassel Harman,"21/10,21/14",Maja Egge,Frida Haukeland
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Sara Smedsrud Hansen,Thea Gustavsen,Erle Egilstad,Vera Østhassel Harman,"21/14,21/13",Sara Smedsrud Hansen,Thea Gustavsen
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Maja Egge,Frida Haukeland,Alina Reiersølmoen Vigre,Anna Marie Møretrø,"21/18,22/20",Maja Egge,Frida Haukeland
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Sara Smedsrud Hansen,Thea Gustavsen,Maja Egge,Frida Haukeland,"22/20,22/20",Sara Smedsrud Hansen,Thea Gustavsen
-2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Erle Egilstad,Vera Østhassel Harman,Alina Reiersølmoen Vigre,Anna Marie Møretrø,"23/21,21/18",Erle Egilstad,Vera Østhassel Harman
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Remi Morland,,Jacob Kelly Ramsgaard,"21/14,21/10",Remi Morland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Casper Stiansen,"21/18,21/14",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Jacob Kelly Ramsgaard,,Alexander Morland,"21/13,16/21,21/19",Jacob Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Remi Morland,,Audun Finnseth Kjetså,"21/16,21/12",Remi Morland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Isak Andersen Abusdal,"21/11,21/8",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Sander Østhassel,"22/20,21/19",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Isak Andersen Abusdal,,Fenris Lindland,"21/15,21/10",Isak Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Jonatan Broch Granum,"21/4,21/7",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Jonatan Broch Granum,,Alexander Morland,"21/18,21/10",Jonatan Broch Granum,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Jonatan Broch Granum,"21/8,21/8",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Alexander Morland,"21/7,21/4",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Fenris Lindland,,Audun Finnseth Kjetså,"21/4,21/8",Fenris Lindland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Audun Finnseth Kjetså,"21/5,21/3",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Fenris Lindland,"21/8,21/13",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Isak Andersen Abusdal,,Jacob Kelly Ramsgaard,"21/10,21/10",Isak Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Sander Østhassel,,Remi Morland,"21/9,21/9",Sander Østhassel,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Isak Andersen Abusdal,,Remi Morland,"21/11,21/18",Isak Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Sander Østhassel,,Jacob Kelly Ramsgaard,"21/8,21/5",Sander Østhassel,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Sander Østhassel,,Isak Andersen Abusdal,"21/15,15/21,21/12",Sander Østhassel,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Remi Morland,,Jacob Kelly Ramsgaard,"18/21,21/10,21/12",Remi Morland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Remi Morland,,Jacob Kelly Ramsgaard,"21/14,21/10",Remi Morland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Casper Stiansen,"21/18,21/14",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Jacob Kelly Ramsgaard,,Alexander Morland,"21/13,16/21,21/19",Jacob Kelly Ramsgaard,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Remi Morland,,Audun Finnseth Kjetså,"21/16,21/12",Remi Morland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Isak Andersen Abusdal,"21/11,21/8",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Sander Østhassel,"22/20,21/19",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Isak Andersen Abusdal,,Fenris Lindland,"21/15,21/10",Isak Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Jonatan Broch Granum,"21/4,21/7",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Jonatan Broch Granum,,Alexander Morland,"21/18,21/10",Jonatan Broch Granum,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Jonatan Broch Granum,"21/8,21/8",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Christer Andersen,,Alexander Morland,"21/7,21/4",Christer Andersen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Fenris Lindland,,Audun Finnseth Kjetså,"21/4,21/8",Fenris Lindland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Audun Finnseth Kjetså,"21/5,21/3",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Casper Stiansen,,Fenris Lindland,"21/8,21/13",Casper Stiansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Isak Andersen Abusdal,,Jacob Kelly Ramsgaard,"21/10,21/10",Isak Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Sander Østhassel,,Remi Morland,"21/9,21/9",Sander Østhassel,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Isak Andersen Abusdal,,Remi Morland,"21/11,21/18",Isak Andersen Abusdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Sander Østhassel,,Jacob Kelly Ramsgaard,"21/8,21/5",Sander Østhassel,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Sander Østhassel,,Isak Andersen Abusdal,"21/15,15/21,21/12",Sander Østhassel,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Remi Morland,,Jacob Kelly Ramsgaard,"18/21,21/10,21/12",Remi Morland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Marie Gade Brask,,Emilie Wåland,"21/12,21/17",Marie Gade Brask,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Selma Kvarenes Bjørnestøl,,Maja Morvik Kragholm,"21/15,18/21,21/17",Selma Kvarenes Bjørnestøl,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Emilie Wåland,,Anine Halvorsen Egge,"21/19,21/9",Emilie Wåland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Marie Gade Brask,,Livia Romme Mørch,"21/9,21/7",Marie Gade Brask,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Selma Kvarenes Bjørnestøl,,Frida Tønnesen Vik,"21/9,18/21,21/9",Selma Kvarenes Bjørnestøl,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Maja Morvik Kragholm,,Johanna Danielsen,"21/15,21/16",Maja Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Selma Kvarenes Bjørnestøl,,Anine Halvorsen Egge,"21/9,21/10",Selma Kvarenes Bjørnestøl,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Johanna Danielsen,,Livia Romme Mørch,"21/9,21/12",Johanna Danielsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Anine Halvorsen Egge,,Livia Romme Mørch,"21/11,21/8",Anine Halvorsen Egge,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Selma Kvarenes Bjørnestøl,,Johanna Danielsen,"21/12,21/13",Selma Kvarenes Bjørnestøl,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Johanna Danielsen,,Anine Halvorsen Egge,"21/13,21/17",Johanna Danielsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Selma Kvarenes Bjørnestøl,,Livia Romme Mørch,"21/2,21/0",Selma Kvarenes Bjørnestøl,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Maja Morvik Kragholm,,Frida Tønnesen Vik,"21/12,21/15",Maja Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Marie Gade Brask,,Emilie Wåland,"21/11,22/24,21/17",Marie Gade Brask,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Frida Tønnesen Vik,,Marie Gade Brask,"23/21,21/14",Frida Tønnesen Vik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Maja Morvik Kragholm,,Emilie Wåland,"21/6,21/13",Maja Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Frida Tønnesen Vik,,Emilie Wåland,"21/14,21/17",Frida Tønnesen Vik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,,Maja Morvik Kragholm,,Marie Gade Brask,"21/14,21/15",Maja Morvik Kragholm,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Livia Romme Mørch,Selma Kvarenes Bjørnestøl,Frida Tønnesen Vik,Emilie Wåland,"21/18,9/21,23/21",Livia Romme Mørch,Selma Kvarenes Bjørnestøl
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Livia Romme Mørch,Selma Kvarenes Bjørnestøl,Johanna Danielsen,Anine Halvorsen Egge,"20/22,21/15,21/13",Livia Romme Mørch,Selma Kvarenes Bjørnestøl
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Frida Tønnesen Vik,Emilie Wåland,Johanna Danielsen,Anine Halvorsen Egge,"21/19,21/15",Frida Tønnesen Vik,Emilie Wåland
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Marie Gade Brask,Maja Morvik Kragholm,Livia Romme Mørch,Selma Kvarenes Bjørnestøl,"21/19,21/14",Marie Gade Brask,Maja Morvik Kragholm
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Marie Gade Brask,Maja Morvik Kragholm,Frida Tønnesen Vik,Emilie Wåland,"21/19,21/14",Marie Gade Brask,Maja Morvik Kragholm
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Marie Gade Brask,Maja Morvik Kragholm,Johanna Danielsen,Anine Halvorsen Egge,"21/15,21/12",Marie Gade Brask,Maja Morvik Kragholm
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Adrian Beisland,"21/19,21/14",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Johannes Ramsdalen,,Noah Østhassel Harman,"21/13,21/16",Johannes Ramsdalen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Fabian Flak,,Dmitri Polovnychyy,"21/16,23/21",Fabian Flak,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Fabian Flak,,Andreas Fjellanger,"21/10,21/19",Fabian Flak,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Henrik Engeland Brett,"21/7,21/5",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Håvard Gustavsen,"21/9,21/9",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Erlend Hodne,"21/14,19/21,21/12",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Sander Haugmoen Kapstad,"21/8,21/3",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Adrian Beisland,,Andreas Fjellanger,"21/18,21/16",Adrian Beisland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Håvard Gustavsen,"21/14,21/9",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Henrik Engeland Brett,"21/8,21/12",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Sander Haugmoen Kapstad,,Even Skaar,"7/21,22/20,22/20",Sander Haugmoen Kapstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Erlend Hodne,"21/9,21/12",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Johannes Ramsdalen,,Andreas Fjellanger,"21/14,19/21,21/12",Johannes Ramsdalen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Benjamin Hagberg-Olsen,"21/9,21/12",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Even Skaar,"21/18,21/16",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erlend Hodne,,Sander Haugmoen Kapstad,"18/21,21/12,21/11",Erlend Hodne,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Andreas Fjellanger,"21/18,21/13",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Benjamin Hagberg-Olsen,"21/9,21/16",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Sander Haugmoen Kapstad,"23/21,21/14",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Even Skaar,"21/11,21/13",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Jacob Sperre Stephens,"21/14,21/10",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Andreas Fjellanger,"21/5,21/5",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Truls Helgerød,"21/18,25/27,21/17",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Henrik Engeland Brett,,Benjamin Hagberg-Olsen,"21/17,19/21,21/16",Henrik Engeland Brett,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Jacob Sperre Stephens,"21/12,23/21",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erlend Hodne,,Even Skaar,"21/19,22/20",Erlend Hodne,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Adrian Beisland,,Johannes Ramsdalen,"22/20,21/14",Adrian Beisland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Adrian Beisland,"21/3,21/7",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Noah Østhassel Harman,"21/9,21/12",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Noah Østhassel Harman,,Dmitri Polovnychyy,"21/8,21/17",Noah Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Dmitri Polovnychyy,"21/7,21/7",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Even Skaar,,Adrian Beisland,"21/14,21/11",Even Skaar,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Fabian Flak,,Dmitri Polovnychyy,"21/7,23/21",Fabian Flak,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Fabian Flak,"21/13,21/14",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Dmitri Polovnychyy,"21/1,21/4",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Even Skaar,"23/21,23/21",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Adrian Beisland,,Dmitri Polovnychyy,"21/8,21/14",Adrian Beisland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Even Skaar,,Dmitri Polovnychyy,"21/12,21/12",Even Skaar,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Noah Østhassel Harman,,Fabian Flak,"21/19,10/21,21/19",Noah Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Håvard Gustavsen,,Sander Haugmoen Kapstad,"21/8,22/20",Håvard Gustavsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Sander Haugmoen Kapstad,,Noah Østhassel Harman,"21/14,21/10",Sander Haugmoen Kapstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Håvard Gustavsen,,Noah Østhassel Harman,"21/9,21/17",Håvard Gustavsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erlend Hodne,,Fabian Flak,"21/10,21/8",Erlend Hodne,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Henrik Engeland Brett,,Fabian Flak,"21/11,21/9",Henrik Engeland Brett,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Henrik Engeland Brett,,Erlend Hodne,"22/20,21/11",Henrik Engeland Brett,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Johannes Ramsdalen,"21/4,21/9",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Kristian Robstad,"21/9,21/6",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Kristian Robstad,"21/14,21/9",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Johannes Ramsdalen,"21/4,21/10",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Aslak Smith,"22/20,21/17",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Johannes Ramsdalen,"21/9,21/19",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Adrian Beisland,"21/19,21/14",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Johannes Ramsdalen,,Noah Østhassel Harman,"21/13,21/16",Johannes Ramsdalen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Fabian Flak,,Dmitri Polovnychyy,"21/16,23/21",Fabian Flak,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Fabian Flak,,Andreas Fjellanger,"21/10,21/19",Fabian Flak,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Henrik Engeland Brett,"21/7,21/5",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Håvard Gustavsen,"21/9,21/9",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Erlend Hodne,"21/14,19/21,21/12",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Sander Haugmoen Kapstad,"21/8,21/3",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Adrian Beisland,,Andreas Fjellanger,"21/18,21/16",Adrian Beisland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Håvard Gustavsen,"21/14,21/9",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Henrik Engeland Brett,"21/8,21/12",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Sander Haugmoen Kapstad,,Even Skaar,"7/21,22/20,22/20",Sander Haugmoen Kapstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Erlend Hodne,"21/9,21/12",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Johannes Ramsdalen,,Andreas Fjellanger,"21/14,19/21,21/12",Johannes Ramsdalen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Benjamin Hagberg-Olsen,"21/9,21/12",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Even Skaar,"21/18,21/16",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erlend Hodne,,Sander Haugmoen Kapstad,"18/21,21/12,21/11",Erlend Hodne,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Andreas Fjellanger,"21/18,21/13",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Benjamin Hagberg-Olsen,"21/9,21/16",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Jacob Sperre Stephens,,Sander Haugmoen Kapstad,"23/21,21/14",Jacob Sperre Stephens,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Even Skaar,"21/11,21/13",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Jacob Sperre Stephens,"21/14,21/10",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Truls Helgerød,,Andreas Fjellanger,"21/5,21/5",Truls Helgerød,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Truls Helgerød,"21/18,25/27,21/17",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Henrik Engeland Brett,,Benjamin Hagberg-Olsen,"21/17,19/21,21/16",Henrik Engeland Brett,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Jacob Sperre Stephens,"21/12,23/21",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erlend Hodne,,Even Skaar,"21/19,22/20",Erlend Hodne,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Adrian Beisland,,Johannes Ramsdalen,"22/20,21/14",Adrian Beisland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Adrian Beisland,"21/3,21/7",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Noah Østhassel Harman,"21/9,21/12",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Noah Østhassel Harman,,Dmitri Polovnychyy,"21/8,21/17",Noah Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Dmitri Polovnychyy,"21/7,21/7",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Even Skaar,,Adrian Beisland,"21/14,21/11",Even Skaar,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Fabian Flak,,Dmitri Polovnychyy,"21/7,23/21",Fabian Flak,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Fabian Flak,"21/13,21/14",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Dmitri Polovnychyy,"21/1,21/4",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Benjamin Hagberg-Olsen,,Even Skaar,"23/21,23/21",Benjamin Hagberg-Olsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Adrian Beisland,,Dmitri Polovnychyy,"21/8,21/14",Adrian Beisland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Even Skaar,,Dmitri Polovnychyy,"21/12,21/12",Even Skaar,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Noah Østhassel Harman,,Fabian Flak,"21/19,10/21,21/19",Noah Østhassel Harman,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Håvard Gustavsen,,Sander Haugmoen Kapstad,"21/8,22/20",Håvard Gustavsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Sander Haugmoen Kapstad,,Noah Østhassel Harman,"21/14,21/10",Sander Haugmoen Kapstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Håvard Gustavsen,,Noah Østhassel Harman,"21/9,21/17",Håvard Gustavsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erlend Hodne,,Fabian Flak,"21/10,21/8",Erlend Hodne,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Henrik Engeland Brett,,Fabian Flak,"21/11,21/9",Henrik Engeland Brett,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Henrik Engeland Brett,,Erlend Hodne,"22/20,21/11",Henrik Engeland Brett,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Johannes Ramsdalen,"21/4,21/9",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Kristian Robstad,"21/9,21/6",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Aslak Smith,,Kristian Robstad,"21/14,21/9",Aslak Smith,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Johannes Ramsdalen,"21/4,21/10",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Erling Egtvedt,,Aslak Smith,"22/20,21/17",Erling Egtvedt,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,,Kristian Robstad,,Johannes Ramsdalen,"21/9,21/19",Kristian Robstad,
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Erling Egtvedt,Truls Helgerød,Remi Morland,Jacob Kelly Ramsgaard,"21/17,21/15",Erling Egtvedt,Truls Helgerød
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Erling Egtvedt,Truls Helgerød,Benjamin Hagberg-Olsen,Ola Helgerød,"21/8,21/8",Erling Egtvedt,Truls Helgerød
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Remi Morland,Jacob Kelly Ramsgaard,Alexander Morland,Audun Finnseth Kjetså,"21/14,16/21,21/15",Remi Morland,Jacob Kelly Ramsgaard
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Benjamin Hagberg-Olsen,Ola Helgerød,Kristian Robstad,Sander Haugmoen Kapstad,"22/20,21/17",Benjamin Hagberg-Olsen,Ola Helgerød
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Alexander Morland,Audun Finnseth Kjetså,Noah Østhassel Harman,Dmitri Polovnychyy,"21/7,21/7",Alexander Morland,Audun Finnseth Kjetså
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Erling Egtvedt,Truls Helgerød,Alexander Morland,Audun Finnseth Kjetså,"21/13,21/18",Erling Egtvedt,Truls Helgerød
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Erling Egtvedt,Truls Helgerød,Noah Østhassel Harman,Dmitri Polovnychyy,"21/7,21/6",Erling Egtvedt,Truls Helgerød
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Adrian Beisland,Håvard Gustavsen,Henrik Engeland Brett,Johannes Ramsdalen,"17/21,21/19,21/17",Adrian Beisland,Håvard Gustavsen
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Adrian Beisland,Håvard Gustavsen,Kristian Robstad,Sander Haugmoen Kapstad,"21/15,21/16",Adrian Beisland,Håvard Gustavsen
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Kristian Robstad,Sander Haugmoen Kapstad,Henrik Engeland Brett,Johannes Ramsdalen,"13/21,22/20,21/19",Kristian Robstad,Sander Haugmoen Kapstad
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Benjamin Hagberg-Olsen,Ola Helgerød,Fabian Flak,Andreas Fjellanger,"21/7,21/6",Benjamin Hagberg-Olsen,Ola Helgerød
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Remi Morland,Jacob Kelly Ramsgaard,Benjamin Hagberg-Olsen,Ola Helgerød,"21/19,18/21,21/8",Remi Morland,Jacob Kelly Ramsgaard
-2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Remi Morland,Jacob Kelly Ramsgaard,Fabian Flak,Andreas Fjellanger,"21/4,21/8",Remi Morland,Jacob Kelly Ramsgaard
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Peder Pripp,,Erik Neverdal,"21/16,21/12",Peder Pripp,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Andreas Andersen Roksvåg,"21/12,21/5",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Lars Torkelsen,"21/9,21/12",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Andreas Andersen Roksvåg,,Sebastian Reijnen,"21/15,21/10",Andreas Andersen Roksvåg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Peder Pripp,"21/12,21/9",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Sebastian Reijnen,,Peder Pripp,"21/16,17/21,21/19",Sebastian Reijnen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Sebastian Reijnen,"21/9,21/5",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Andreas Andersen Roksvåg,,Erik Neverdal,"21/9,21/11",Andreas Andersen Roksvåg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Lars Torkelsen,,Erik Neverdal,"21/16,15/21,21/17",Lars Torkelsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Andreas Andersen Roksvåg,,Lars Torkelsen,"21/10,21/8",Andreas Andersen Roksvåg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Peder Pripp,,Erik Neverdal,"21/16,21/12",Peder Pripp,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Andreas Andersen Roksvåg,"21/12,21/5",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Lars Torkelsen,"21/9,21/12",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Andreas Andersen Roksvåg,,Sebastian Reijnen,"21/15,21/10",Andreas Andersen Roksvåg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Peder Pripp,"21/12,21/9",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Sebastian Reijnen,,Peder Pripp,"21/16,17/21,21/19",Sebastian Reijnen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hermod Holte Haugland,,Sebastian Reijnen,"21/9,21/5",Hermod Holte Haugland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Andreas Andersen Roksvåg,,Erik Neverdal,"21/9,21/11",Andreas Andersen Roksvåg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Lars Torkelsen,,Erik Neverdal,"21/16,15/21,21/17",Lars Torkelsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Andreas Andersen Roksvåg,,Lars Torkelsen,"21/10,21/8",Andreas Andersen Roksvåg,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hedda Loen Bue,,Benedikte Omdal,"16/21,21/19,21/17",Hedda Loen Bue,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Nora  Omdal,,Emma Morvik Kragholm,"21/14,21/16",Nora  Omdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Hedda Loen Bue,,Emma Morvik Kragholm,"21/13,21/15",Hedda Loen Bue,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Benedikte Omdal,,Nora  Omdal,"21/16,12/21,21/19",Benedikte Omdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Nora  Omdal,,Hedda Loen Bue,"21/19,21/19",Nora  Omdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,,Benedikte Omdal,,Emma Morvik Kragholm,"21/17,21/17",Benedikte Omdal,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Isak Andersen Abusdal,Casper Stiansen,Peder Pripp,Andreas Andersen Roksvåg,"21/17,21/17",Isak Andersen Abusdal,Casper Stiansen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Jonatan Broch Granum,Sander Østhassel,Fenris Lindland,Christer Andersen,"25/23,21/18",Jonatan Broch Granum,Sander Østhassel
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Peder Pripp,Andreas Andersen Roksvåg,Samuel Storaker,Hermod Holte Haugland,"21/8,15/21,21/17",Peder Pripp,Andreas Andersen Roksvåg
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Isak Andersen Abusdal,Casper Stiansen,Nora  Omdal,Emma Morvik Kragholm,"21/5,21/15",Isak Andersen Abusdal,Casper Stiansen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Jonatan Broch Granum,Sander Østhassel,Benedikte Omdal,Hedda Loen Bue,"21/15,21/12",Jonatan Broch Granum,Sander Østhassel
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Fenris Lindland,Christer Andersen,Sebastian Reijnen,Linas Tunaal-Larsen,"21/11,21/18",Fenris Lindland,Christer Andersen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Nora  Omdal,Emma Morvik Kragholm,Jonatan Broch Granum,Sander Østhassel,"21/5,21/19",Nora  Omdal,Emma Morvik Kragholm
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Samuel Storaker,Hermod Holte Haugland,Sebastian Reijnen,Linas Tunaal-Larsen,"21/15,21/16",Samuel Storaker,Hermod Holte Haugland
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Nora  Omdal,Emma Morvik Kragholm,Sebastian Reijnen,Linas Tunaal-Larsen,"21/15,21/14",Nora  Omdal,Emma Morvik Kragholm
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Samuel Storaker,Hermod Holte Haugland,Jonatan Broch Granum,Sander Østhassel,"21/19,22/20",Samuel Storaker,Hermod Holte Haugland
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Samuel Storaker,Hermod Holte Haugland,Nora  Omdal,Emma Morvik Kragholm,"21/19,21/15",Samuel Storaker,Hermod Holte Haugland
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Jonatan Broch Granum,Sander Østhassel,Sebastian Reijnen,Linas Tunaal-Larsen,"21/13,21/15",Jonatan Broch Granum,Sander Østhassel
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Peder Pripp,Andreas Andersen Roksvåg,Benedikte Omdal,Hedda Loen Bue,"18/21,21/10,21/14",Peder Pripp,Andreas Andersen Roksvåg
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Isak Andersen Abusdal,Casper Stiansen,Fenris Lindland,Christer Andersen,"12/21,21/15,21/19",Isak Andersen Abusdal,Casper Stiansen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Isak Andersen Abusdal,Casper Stiansen,Peder Pripp,Andreas Andersen Roksvåg,"21/12,21/19",Isak Andersen Abusdal,Casper Stiansen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Fenris Lindland,Christer Andersen,Benedikte Omdal,Hedda Loen Bue,"21/15,21/14",Fenris Lindland,Christer Andersen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Peder Pripp,Andreas Andersen Roksvåg,Fenris Lindland,Christer Andersen,"21/15,21/12",Peder Pripp,Andreas Andersen Roksvåg
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Isak Andersen Abusdal,Casper Stiansen,Benedikte Omdal,Hedda Loen Bue,"21/13,21/11",Isak Andersen Abusdal,Casper Stiansen
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Julian Aulin Bøe,"21/17,16/21,21/17",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Fredrik Lillesund,,Phillip Sperre Stephens,"17/21,23/21,21/16",Fredrik Lillesund,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Milosh Mitik,"21/14,21/23,21/16",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Markus Aanesen,"21/18,25/27,21/7",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Albert Salvesen-Orø,,Ali Reza Sedghi,"22/20,21/17",Albert Salvesen-Orø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Milosh Mitik,,Alf Willbergh-Lindeland,"21/11,21/19",Milosh Mitik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Niklas Holst Hansen,"21/14,10/21,21/16",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Markus Aanesen,,Birk Sebastian Andresen,"21/14,21/5",Markus Aanesen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Samuel Storaker,"21/12,21/19",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Niklas Holst Hansen,,Sivert Fredheim Bjorvand,"21/10,21/9",Niklas Holst Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Birk Sebastian Andresen,,David Møll,"17/21,21/12,21/12",Birk Sebastian Andresen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Milosh Mitik,,Phillip Sperre Stephens,"21/12,21/11",Milosh Mitik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Milosh Mitik,,David Møll,"21/19,21/16",Milosh Mitik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,David Møll,,Phillip Sperre Stephens,"21/14,19/21,21/15",David Møll,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Birk Sebastian Andresen,"21/14,21/9",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Birk Sebastian Andresen,,Fredrik Lillesund,"21/10,21/12",Birk Sebastian Andresen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Fredrik Lillesund,"21/9,21/8",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Markus Aanesen,,Albert Salvesen-Orø,"21/11,21/7",Markus Aanesen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Markus Aanesen,,Alf Willbergh-Lindeland,"21/16,21/14",Markus Aanesen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Alf Willbergh-Lindeland,,Albert Salvesen-Orø,"21/11,21/13",Alf Willbergh-Lindeland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Sivert Fredheim Bjorvand,,Ali Reza Sedghi,"21/10,21/9",Sivert Fredheim Bjorvand,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Samuel Storaker,,Ali Reza Sedghi,"21/6,21/9",Samuel Storaker,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Samuel Storaker,,Sivert Fredheim Bjorvand,"21/12,21/12",Samuel Storaker,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Nicolay Monsen Thygesen,"21/16,21/6",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Niklas Holst Hansen,"21/16,21/13",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Niklas Holst Hansen,,Nicolay Monsen Thygesen,"21/13,21/5",Niklas Holst Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Julian Aulin Bøe,"21/17,16/21,21/17",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Fredrik Lillesund,,Phillip Sperre Stephens,"17/21,23/21,21/16",Fredrik Lillesund,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Milosh Mitik,"21/14,21/23,21/16",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Markus Aanesen,"21/18,25/27,21/7",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Albert Salvesen-Orø,,Ali Reza Sedghi,"22/20,21/17",Albert Salvesen-Orø,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Milosh Mitik,,Alf Willbergh-Lindeland,"21/11,21/19",Milosh Mitik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Niklas Holst Hansen,"21/14,10/21,21/16",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Markus Aanesen,,Birk Sebastian Andresen,"21/14,21/5",Markus Aanesen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Samuel Storaker,"21/12,21/19",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Niklas Holst Hansen,,Sivert Fredheim Bjorvand,"21/10,21/9",Niklas Holst Hansen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Birk Sebastian Andresen,,David Møll,"17/21,21/12,21/12",Birk Sebastian Andresen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Milosh Mitik,,Phillip Sperre Stephens,"21/12,21/11",Milosh Mitik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Milosh Mitik,,David Møll,"21/19,21/16",Milosh Mitik,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,David Møll,,Phillip Sperre Stephens,"21/14,19/21,21/15",David Møll,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Birk Sebastian Andresen,"21/14,21/9",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Birk Sebastian Andresen,,Fredrik Lillesund,"21/10,21/12",Birk Sebastian Andresen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Linas Tunaal-Larsen,,Fredrik Lillesund,"21/9,21/8",Linas Tunaal-Larsen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Markus Aanesen,,Albert Salvesen-Orø,"21/11,21/7",Markus Aanesen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Markus Aanesen,,Alf Willbergh-Lindeland,"21/16,21/14",Markus Aanesen,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Alf Willbergh-Lindeland,,Albert Salvesen-Orø,"21/11,21/13",Alf Willbergh-Lindeland,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Sivert Fredheim Bjorvand,,Ali Reza Sedghi,"21/10,21/9",Sivert Fredheim Bjorvand,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Samuel Storaker,,Ali Reza Sedghi,"21/6,21/9",Samuel Storaker,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Samuel Storaker,,Sivert Fredheim Bjorvand,"21/12,21/12",Samuel Storaker,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Nicolay Monsen Thygesen,"21/16,21/6",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Julian Aulin Bøe,,Niklas Holst Hansen,"21/16,21/13",Julian Aulin Bøe,
-2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,,Niklas Holst Hansen,,Nicolay Monsen Thygesen,"21/13,21/5",Niklas Holst Hansen,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Helena Sperre Stephens,,Jonas Sørstrand,"21/12,21/17",Helena Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Isaiah Abusdal Malm,,Jonas Sørstrand,"21/11,21/13",Isaiah Abusdal Malm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Vera Østhassel Harman,,Frida Haukeland,"21/12,21/10",Vera Østhassel Harman,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Erle Egilstad,,Fabian Kjellevik Holst,"21/7,21/8",Erle Egilstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Isaiah Abusdal Malm,,Helena Sperre Stephens,"21/10,21/18",Isaiah Abusdal Malm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Erle Egilstad,,Vera Østhassel Harman,"21/15,21/12",Erle Egilstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Frida Haukeland,,Fabian Kjellevik Holst,"22/20,21/13",Frida Haukeland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Vera Østhassel Harman,,Fabian Kjellevik Holst,"21/11,16/21,21/15",Vera Østhassel Harman,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Erle Egilstad,,Frida Haukeland,"21/7,21/10",Erle Egilstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Vera Østhassel Harman,,Jonas Sørstrand,"25/23,21/19",Vera Østhassel Harman,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Helena Sperre Stephens,,Fabian Kjellevik Holst,"21/9,21/13",Helena Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Isaiah Abusdal Malm,,Frida Haukeland,"21/13,21/13",Isaiah Abusdal Malm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Jonas Sørstrand,,Fabian Kjellevik Holst,"17/21,21/19,21/14",Jonas Sørstrand,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Helena Sperre Stephens,,Vera Østhassel Harman,"21/19,21/10",Helena Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Isaiah Abusdal Malm,,Erle Egilstad,"21/18,21/17",Isaiah Abusdal Malm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Jonas Sørstrand,,Frida Haukeland,"22/20,21/12",Jonas Sørstrand,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Erle Egilstad,,Helena Sperre Stephens,"21/13,18/21,21/18",Erle Egilstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Isaiah Abusdal Malm,,Vera Østhassel Harman,"21/11,21/13",Isaiah Abusdal Malm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Erle Egilstad,,Jonas Sørstrand,"21/16,21/13",Erle Egilstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Helena Sperre Stephens,,Frida Haukeland,"21/10,21/11",Helena Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U9 B,Herresingle,,Isaiah Abusdal Malm,,Fabian Kjellevik Holst,"21/12,21/7",Isaiah Abusdal Malm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Albin Johan Sundin,,Mathias Solberg,"21/3,21/5",Albin Johan Sundin,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Asbjørn Salcher Ågedal,,Mathias Solberg,"21/7,21/7",Asbjørn Salcher Ågedal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Albin Johan Sundin,,Asbjørn Salcher Ågedal,"24/22,21/14",Albin Johan Sundin,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Silas Andersen Abusdal,,Christoffer Svendsen,"21/6,21/7",Silas Andersen Abusdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Albin Johan Sundin,,Ola Helgerød,"12/21,21/11,22/20",Albin Johan Sundin,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Thomas Kelly Ramsgaard,,Arne Loen Bue,"21/9,21/9",Thomas Kelly Ramsgaard,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Oliver Olafsen,,Mathias Solberg,"21/8,21/15",Oliver Olafsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Vetle Morvik Kragholm,,Johan Skjeggedal Evanger,"21/7,21/15",Vetle Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Albin Johan Sundin,,Arne Loen Bue,"21/16,21/6",Albin Johan Sundin,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Thomas Kelly Ramsgaard,,Ola Helgerød,"21/14,21/14",Thomas Kelly Ramsgaard,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Samuel Naglestad Moi,,Silas Andersen Abusdal,"11/21,21/19,21/18",Samuel Naglestad Moi,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Mathias Solberg,,Johan Skjeggedal Evanger,"21/14,21/16",Mathias Solberg,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Vetle Morvik Kragholm,,Oliver Olafsen,"21/15,21/20",Vetle Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Thomas Kelly Ramsgaard,,Albin Johan Sundin,"21/14,21/12",Thomas Kelly Ramsgaard,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Ola Helgerød,,Arne Loen Bue,"21/4,21/14",Ola Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Samuel Naglestad Moi,,Christoffer Svendsen,"21/12,21/11",Samuel Naglestad Moi,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Vetle Morvik Kragholm,,Mathias Solberg,"21/12,21/4",Vetle Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Oliver Olafsen,,Johan Skjeggedal Evanger,"21/9,21/10",Oliver Olafsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Ola Helgerød,,Samuel Naglestad Moi,"21/9,21/8",Ola Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Samuel Naglestad Moi,,Oliver Olafsen,"21/15,21/19",Samuel Naglestad Moi,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Ola Helgerød,,Oliver Olafsen,"21/6,12/8",Ola Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Arne Loen Bue,,Johan Skjeggedal Evanger,"21/4,21/9",Arne Loen Bue,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Christoffer Svendsen,,Johan Skjeggedal Evanger,"21/15,21/15",Christoffer Svendsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Arne Loen Bue,,Christoffer Svendsen,"21/5,21/5",Arne Loen Bue,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Thomas Kelly Ramsgaard,,Vetle Morvik Kragholm,"21/8,21/12",Thomas Kelly Ramsgaard,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Silas Andersen Abusdal,,Vetle Morvik Kragholm,"21/17,16/21,21/10",Silas Andersen Abusdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herresingle,,Thomas Kelly Ramsgaard,,Silas Andersen Abusdal,"25/23,21/17",Thomas Kelly Ramsgaard,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Albin Johan Sundin,Silas Andersen Abusdal,Arne Loen Bue,Oliver Olafsen,"21/11,21/5",Albin Johan Sundin,Silas Andersen Abusdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Vetle Morvik Kragholm,Olav Mjelde Løvdal,Fabian Kjellevik Holst,Christoffer Svendsen,"21/5,21/10",Vetle Morvik Kragholm,Olav Mjelde Løvdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Christian Ripegutu,Aksel Bue,Mathias Solberg,Samuel Naglestad Moi,"21/9,21/17",Christian Ripegutu,Aksel Bue
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Arne Loen Bue,Oliver Olafsen,Mathias Solberg,Samuel Naglestad Moi,"21/17,21/15",Arne Loen Bue,Oliver Olafsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Albin Johan Sundin,Silas Andersen Abusdal,Vetle Morvik Kragholm,Olav Mjelde Løvdal,"21/12,21/10",Albin Johan Sundin,Silas Andersen Abusdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Christian Ripegutu,Aksel Bue,Fabian Kjellevik Holst,Christoffer Svendsen,"21/8,21/10",Christian Ripegutu,Aksel Bue
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Arne Loen Bue,Oliver Olafsen,Fabian Kjellevik Holst,Christoffer Svendsen,"21/2,21/5",Arne Loen Bue,Oliver Olafsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Albin Johan Sundin,Silas Andersen Abusdal,Mathias Solberg,Samuel Naglestad Moi,"21/15,21/14",Albin Johan Sundin,Silas Andersen Abusdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Christian Ripegutu,Aksel Bue,Vetle Morvik Kragholm,Olav Mjelde Løvdal,"21/19,18/21,22/20",Christian Ripegutu,Aksel Bue
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Christian Ripegutu,Aksel Bue,Arne Loen Bue,Oliver Olafsen,"21/8,21/11",Christian Ripegutu,Aksel Bue
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Albin Johan Sundin,Silas Andersen Abusdal,Fabian Kjellevik Holst,Christoffer Svendsen,"21/5,21/8",Albin Johan Sundin,Silas Andersen Abusdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Vetle Morvik Kragholm,Olav Mjelde Løvdal,Mathias Solberg,Samuel Naglestad Moi,"21/9,21/15",Vetle Morvik Kragholm,Olav Mjelde Løvdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Albin Johan Sundin,Silas Andersen Abusdal,Christian Ripegutu,Aksel Bue,"21/14,16/21,21/18",Albin Johan Sundin,Silas Andersen Abusdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Vetle Morvik Kragholm,Olav Mjelde Løvdal,Arne Loen Bue,Oliver Olafsen,"21/14,21/18",Vetle Morvik Kragholm,Olav Mjelde Løvdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Herredouble,Mathias Solberg,Samuel Naglestad Moi,Fabian Kjellevik Holst,Christoffer Svendsen,"21/8,21/11",Mathias Solberg,Samuel Naglestad Moi
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Mixeddouble,Vera Østhassel Harman,Arne Loen Bue,Frida Haukeland,Silas Andersen Abusdal,"13/21,21/15,21/17",Vera Østhassel Harman,Arne Loen Bue
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Mixeddouble,Vera Østhassel Harman,Arne Loen Bue,Erle Egilstad,Oliver Olafsen,"15/21,21/13,21/18",Vera Østhassel Harman,Arne Loen Bue
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 A,Mixeddouble,Frida Haukeland,Silas Andersen Abusdal,Erle Egilstad,Oliver Olafsen,"25/23,21/14",Frida Haukeland,Silas Andersen Abusdal
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Anna Marie Møretrø,,Alina Reiersølmoen Vigre,"21/14,21/19",Anna Marie Møretrø,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Sara Smedsrud Hansen,,Thea Gustavsen,"18/21,21/16,21/17",Sara Smedsrud Hansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Alina Reiersølmoen Vigre,,Thea Gustavsen,"21/13,25/23",Alina Reiersølmoen Vigre,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Maja Egge,,Anna Marie Møretrø,"21/8,21/10",Maja Egge,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Maja Egge,,Sara Smedsrud Hansen,"21/3,21/5",Maja Egge,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Anna Marie Møretrø,,Thea Gustavsen,"21/16,22/20",Anna Marie Møretrø,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Sara Smedsrud Hansen,,Alina Reiersølmoen Vigre,"21/16,21/17",Sara Smedsrud Hansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Maja Egge,,Thea Gustavsen,"21/5,21/4",Maja Egge,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Maja Egge,,Alina Reiersølmoen Vigre,"21/5,21/4",Maja Egge,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damesingle,,Anna Marie Møretrø,,Sara Smedsrud Hansen,"21/19,21/18",Anna Marie Møretrø,
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damedouble,Alina Reiersølmoen Vigre,Anna Marie Møretrø,Sara Smedsrud Hansen,Thea Gustavsen,"21/23,21/15,21/18",Alina Reiersølmoen Vigre,Anna Marie Møretrø
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damedouble,Maja Egge,Frida Haukeland,Erle Egilstad,Vera Østhassel Harman,"21/10,21/14",Maja Egge,Frida Haukeland
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damedouble,Sara Smedsrud Hansen,Thea Gustavsen,Erle Egilstad,Vera Østhassel Harman,"21/14,21/13",Sara Smedsrud Hansen,Thea Gustavsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damedouble,Maja Egge,Frida Haukeland,Alina Reiersølmoen Vigre,Anna Marie Møretrø,"21/18,22/20",Maja Egge,Frida Haukeland
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damedouble,Sara Smedsrud Hansen,Thea Gustavsen,Maja Egge,Frida Haukeland,"22/20,22/20",Sara Smedsrud Hansen,Thea Gustavsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U11 B,Damedouble,Erle Egilstad,Vera Østhassel Harman,Alina Reiersølmoen Vigre,Anna Marie Møretrø,"23/21,21/18",Erle Egilstad,Vera Østhassel Harman
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Remi Morland,,Jacob Kelly Ramsgaard,"21/14,21/10",Remi Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Christer Andersen,,Casper Stiansen,"21/18,21/14",Christer Andersen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Jacob Kelly Ramsgaard,,Alexander Morland,"21/13,16/21,21/19",Jacob Kelly Ramsgaard,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Remi Morland,,Audun Finnseth Kjetså,"21/16,21/12",Remi Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Christer Andersen,,Isak Andersen Abusdal,"21/11,21/8",Christer Andersen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Casper Stiansen,,Sander Østhassel,"22/20,21/19",Casper Stiansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Isak Andersen Abusdal,,Fenris Lindland,"21/15,21/10",Isak Andersen Abusdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Casper Stiansen,,Jonatan Broch Granum,"21/4,21/7",Casper Stiansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Jonatan Broch Granum,,Alexander Morland,"21/18,21/10",Jonatan Broch Granum,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Christer Andersen,,Jonatan Broch Granum,"21/8,21/8",Christer Andersen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Christer Andersen,,Alexander Morland,"21/7,21/4",Christer Andersen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Fenris Lindland,,Audun Finnseth Kjetså,"21/4,21/8",Fenris Lindland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Casper Stiansen,,Audun Finnseth Kjetså,"21/5,21/3",Casper Stiansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Casper Stiansen,,Fenris Lindland,"21/8,21/13",Casper Stiansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Isak Andersen Abusdal,,Jacob Kelly Ramsgaard,"21/10,21/10",Isak Andersen Abusdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Sander Østhassel,,Remi Morland,"21/9,21/9",Sander Østhassel,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Isak Andersen Abusdal,,Remi Morland,"21/11,21/18",Isak Andersen Abusdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Sander Østhassel,,Jacob Kelly Ramsgaard,"21/8,21/5",Sander Østhassel,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Sander Østhassel,,Isak Andersen Abusdal,"21/15,15/21,21/12",Sander Østhassel,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Herresingle,,Remi Morland,,Jacob Kelly Ramsgaard,"18/21,21/10,21/12",Remi Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Marie Gade Brask,,Emilie Wåland,"21/12,21/17",Marie Gade Brask,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Maja Morvik Kragholm,"21/15,18/21,21/17",Selma Kvarenes Bjørnestøl,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Emilie Wåland,,Anine Halvorsen Egge,"21/19,21/9",Emilie Wåland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Marie Gade Brask,,Livia Romme Mørch,"21/9,21/7",Marie Gade Brask,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Frida Tønnesen Vik,"21/9,18/21,21/9",Selma Kvarenes Bjørnestøl,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Maja Morvik Kragholm,,Johanna Danielsen,"21/15,21/16",Maja Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Anine Halvorsen Egge,"21/9,21/10",Selma Kvarenes Bjørnestøl,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Johanna Danielsen,,Livia Romme Mørch,"21/9,21/12",Johanna Danielsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Anine Halvorsen Egge,,Livia Romme Mørch,"21/11,21/8",Anine Halvorsen Egge,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Johanna Danielsen,"21/12,21/13",Selma Kvarenes Bjørnestøl,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Johanna Danielsen,,Anine Halvorsen Egge,"21/13,21/17",Johanna Danielsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Livia Romme Mørch,"21/2,21/0",Selma Kvarenes Bjørnestøl,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Maja Morvik Kragholm,,Frida Tønnesen Vik,"21/12,21/15",Maja Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Marie Gade Brask,,Emilie Wåland,"21/11,22/24,21/17",Marie Gade Brask,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Frida Tønnesen Vik,,Marie Gade Brask,"23/21,21/14",Frida Tønnesen Vik,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Maja Morvik Kragholm,,Emilie Wåland,"21/6,21/13",Maja Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Frida Tønnesen Vik,,Emilie Wåland,"21/14,21/17",Frida Tønnesen Vik,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damesingle,,Maja Morvik Kragholm,,Marie Gade Brask,"21/14,21/15",Maja Morvik Kragholm,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damedouble,Livia Romme Mørch,Selma Kvarenes Bjørnestøl,Frida Tønnesen Vik,Emilie Wåland,"21/18,9/21,23/21",Livia Romme Mørch,Selma Kvarenes Bjørnestøl
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damedouble,Livia Romme Mørch,Selma Kvarenes Bjørnestøl,Johanna Danielsen,Anine Halvorsen Egge,"20/22,21/15,21/13",Livia Romme Mørch,Selma Kvarenes Bjørnestøl
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damedouble,Frida Tønnesen Vik,Emilie Wåland,Johanna Danielsen,Anine Halvorsen Egge,"21/19,21/15",Frida Tønnesen Vik,Emilie Wåland
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damedouble,Marie Gade Brask,Maja Morvik Kragholm,Livia Romme Mørch,Selma Kvarenes Bjørnestøl,"21/19,21/14",Marie Gade Brask,Maja Morvik Kragholm
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damedouble,Marie Gade Brask,Maja Morvik Kragholm,Frida Tønnesen Vik,Emilie Wåland,"21/19,21/14",Marie Gade Brask,Maja Morvik Kragholm
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Damedouble,Marie Gade Brask,Maja Morvik Kragholm,Johanna Danielsen,Anine Halvorsen Egge,"21/15,21/12",Marie Gade Brask,Maja Morvik Kragholm
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Mixeddouble,Maja Morvik Kragholm,Jonatan Broch Granum,Frida Tønnesen Vik,Isak Andersen Abusdal,"21/19,21/12",Maja Morvik Kragholm,Jonatan Broch Granum
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Mixeddouble,Selma Kvarenes Bjørnestøl,Casper Stiansen,Emilie Wåland,Sander Østhassel,"21/11,21/14",Selma Kvarenes Bjørnestøl,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Mixeddouble,Selma Kvarenes Bjørnestøl,Casper Stiansen,Maja Morvik Kragholm,Jonatan Broch Granum,"21/18,21/13",Selma Kvarenes Bjørnestøl,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Mixeddouble,Emilie Wåland,Sander Østhassel,Frida Tønnesen Vik,Isak Andersen Abusdal,"21/17,21/15",Emilie Wåland,Sander Østhassel
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Mixeddouble,Emilie Wåland,Sander Østhassel,Maja Morvik Kragholm,Jonatan Broch Granum,"21/16,22/20",Emilie Wåland,Sander Østhassel
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 A,Mixeddouble,Selma Kvarenes Bjørnestøl,Casper Stiansen,Frida Tønnesen Vik,Isak Andersen Abusdal,"16/21,21/11,21/14",Selma Kvarenes Bjørnestøl,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Kristian Robstad,,Adrian Beisland,"21/19,21/14",Kristian Robstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Johannes Ramsdalen,,Noah Østhassel Harman,"21/13,21/16",Johannes Ramsdalen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Fabian Flak,,Dmitri Polovnychyy,"21/16,23/21",Fabian Flak,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Fabian Flak,,Andreas Fjellanger,"21/10,21/19",Fabian Flak,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Truls Helgerød,,Henrik Engeland Brett,"21/7,21/5",Truls Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Håvard Gustavsen,"21/9,21/9",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Jacob Sperre Stephens,,Erlend Hodne,"21/14,19/21,21/12",Jacob Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Aslak Smith,,Sander Haugmoen Kapstad,"21/8,21/3",Aslak Smith,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Adrian Beisland,,Andreas Fjellanger,"21/18,21/16",Adrian Beisland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Benjamin Hagberg-Olsen,,Håvard Gustavsen,"21/14,21/9",Benjamin Hagberg-Olsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Henrik Engeland Brett,"21/8,21/12",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Sander Haugmoen Kapstad,,Even Skaar,"7/21,22/20,22/20",Sander Haugmoen Kapstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Aslak Smith,,Erlend Hodne,"21/9,21/12",Aslak Smith,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Johannes Ramsdalen,,Andreas Fjellanger,"21/14,19/21,21/12",Johannes Ramsdalen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Truls Helgerød,,Benjamin Hagberg-Olsen,"21/9,21/12",Truls Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Jacob Sperre Stephens,,Even Skaar,"21/18,21/16",Jacob Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erlend Hodne,,Sander Haugmoen Kapstad,"18/21,21/12,21/11",Erlend Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Jacob Sperre Stephens,,Andreas Fjellanger,"21/18,21/13",Jacob Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Benjamin Hagberg-Olsen,"21/9,21/16",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Jacob Sperre Stephens,,Sander Haugmoen Kapstad,"23/21,21/14",Jacob Sperre Stephens,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Aslak Smith,,Even Skaar,"21/11,21/13",Aslak Smith,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Truls Helgerød,,Jacob Sperre Stephens,"21/14,21/10",Truls Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Truls Helgerød,,Andreas Fjellanger,"21/5,21/5",Truls Helgerød,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Truls Helgerød,"21/18,25/27,21/17",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Henrik Engeland Brett,,Benjamin Hagberg-Olsen,"21/17,19/21,21/16",Henrik Engeland Brett,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Aslak Smith,,Jacob Sperre Stephens,"21/12,23/21",Aslak Smith,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erlend Hodne,,Even Skaar,"21/19,22/20",Erlend Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Adrian Beisland,,Johannes Ramsdalen,"22/20,21/14",Adrian Beisland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Benjamin Hagberg-Olsen,,Adrian Beisland,"21/3,21/7",Benjamin Hagberg-Olsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Kristian Robstad,,Noah Østhassel Harman,"21/9,21/12",Kristian Robstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Noah Østhassel Harman,,Dmitri Polovnychyy,"21/8,21/17",Noah Østhassel Harman,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Kristian Robstad,,Dmitri Polovnychyy,"21/7,21/7",Kristian Robstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Even Skaar,,Adrian Beisland,"21/14,21/11",Even Skaar,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Fabian Flak,,Dmitri Polovnychyy,"21/7,23/21",Fabian Flak,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Kristian Robstad,,Fabian Flak,"21/13,21/14",Kristian Robstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Benjamin Hagberg-Olsen,,Dmitri Polovnychyy,"21/1,21/4",Benjamin Hagberg-Olsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Benjamin Hagberg-Olsen,,Even Skaar,"23/21,23/21",Benjamin Hagberg-Olsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Adrian Beisland,,Dmitri Polovnychyy,"21/8,21/14",Adrian Beisland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Even Skaar,,Dmitri Polovnychyy,"21/12,21/12",Even Skaar,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Noah Østhassel Harman,,Fabian Flak,"21/19,10/21,21/19",Noah Østhassel Harman,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Håvard Gustavsen,,Sander Haugmoen Kapstad,"21/8,22/20",Håvard Gustavsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Sander Haugmoen Kapstad,,Noah Østhassel Harman,"21/14,21/10",Sander Haugmoen Kapstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Håvard Gustavsen,,Noah Østhassel Harman,"21/9,21/17",Håvard Gustavsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erlend Hodne,,Fabian Flak,"21/10,21/8",Erlend Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Henrik Engeland Brett,,Fabian Flak,"21/11,21/9",Henrik Engeland Brett,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Henrik Engeland Brett,,Erlend Hodne,"22/20,21/11",Henrik Engeland Brett,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Aslak Smith,,Johannes Ramsdalen,"21/4,21/9",Aslak Smith,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Kristian Robstad,"21/9,21/6",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Aslak Smith,,Kristian Robstad,"21/14,21/9",Aslak Smith,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Johannes Ramsdalen,"21/4,21/10",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Erling Egtvedt,,Aslak Smith,"22/20,21/17",Erling Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herresingle,,Kristian Robstad,,Johannes Ramsdalen,"21/9,21/19",Kristian Robstad,
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Erling Egtvedt,Truls Helgerød,Remi Morland,Jacob Kelly Ramsgaard,"21/17,21/15",Erling Egtvedt,Truls Helgerød
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Erling Egtvedt,Truls Helgerød,Benjamin Hagberg-Olsen,Ola Helgerød,"21/8,21/8",Erling Egtvedt,Truls Helgerød
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Remi Morland,Jacob Kelly Ramsgaard,Alexander Morland,Audun Finnseth Kjetså,"21/14,16/21,21/15",Remi Morland,Jacob Kelly Ramsgaard
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Benjamin Hagberg-Olsen,Ola Helgerød,Kristian Robstad,Sander Haugmoen Kapstad,"22/20,21/17",Benjamin Hagberg-Olsen,Ola Helgerød
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Alexander Morland,Audun Finnseth Kjetså,Noah Østhassel Harman,Dmitri Polovnychyy,"21/7,21/7",Alexander Morland,Audun Finnseth Kjetså
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Erling Egtvedt,Truls Helgerød,Alexander Morland,Audun Finnseth Kjetså,"21/13,21/18",Erling Egtvedt,Truls Helgerød
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Erling Egtvedt,Truls Helgerød,Noah Østhassel Harman,Dmitri Polovnychyy,"21/7,21/6",Erling Egtvedt,Truls Helgerød
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Adrian Beisland,Håvard Gustavsen,Henrik Engeland Brett,Johannes Ramsdalen,"17/21,21/19,21/17",Adrian Beisland,Håvard Gustavsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Adrian Beisland,Håvard Gustavsen,Kristian Robstad,Sander Haugmoen Kapstad,"21/15,21/16",Adrian Beisland,Håvard Gustavsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Kristian Robstad,Sander Haugmoen Kapstad,Henrik Engeland Brett,Johannes Ramsdalen,"13/21,22/20,21/19",Kristian Robstad,Sander Haugmoen Kapstad
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Benjamin Hagberg-Olsen,Ola Helgerød,Fabian Flak,Andreas Fjellanger,"21/7,21/6",Benjamin Hagberg-Olsen,Ola Helgerød
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Remi Morland,Jacob Kelly Ramsgaard,Benjamin Hagberg-Olsen,Ola Helgerød,"21/19,18/21,21/8",Remi Morland,Jacob Kelly Ramsgaard
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Herredouble,Remi Morland,Jacob Kelly Ramsgaard,Fabian Flak,Andreas Fjellanger,"21/4,21/8",Remi Morland,Jacob Kelly Ramsgaard
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Marie Gade Brask,Johannes Ramsdalen,Sara Smedsrud Hansen,Adrian Beisland,"21/12,21/5",Marie Gade Brask,Johannes Ramsdalen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Johanna Danielsen,Albin Johan Sundin,Thea Gustavsen,Håvard Gustavsen,"21/5,21/8",Johanna Danielsen,Albin Johan Sundin
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Livia Romme Mørch,Kristian Robstad,Sara Smedsrud Hansen,Adrian Beisland,"21/12,21/13",Livia Romme Mørch,Kristian Robstad
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Marie Gade Brask,Johannes Ramsdalen,Johanna Danielsen,Albin Johan Sundin,"21/15,21/4",Marie Gade Brask,Johannes Ramsdalen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Livia Romme Mørch,Kristian Robstad,Thea Gustavsen,Håvard Gustavsen,"21/11,21/9",Livia Romme Mørch,Kristian Robstad
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Johanna Danielsen,Albin Johan Sundin,Sara Smedsrud Hansen,Adrian Beisland,"21/10,21/4",Johanna Danielsen,Albin Johan Sundin
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Marie Gade Brask,Johannes Ramsdalen,Livia Romme Mørch,Kristian Robstad,"21/16,21/19",Marie Gade Brask,Johannes Ramsdalen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Marie Gade Brask,Johannes Ramsdalen,Thea Gustavsen,Håvard Gustavsen,"21/19,21/17",Marie Gade Brask,Johannes Ramsdalen
+2017/2018,Kristiansand KBK cup,02.12.2017,U13 B,Mixeddouble,Johanna Danielsen,Albin Johan Sundin,Livia Romme Mørch,Kristian Robstad,"21/13,21/9",Johanna Danielsen,Albin Johan Sundin
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Peder Pripp,,Erik Neverdal,"21/16,21/12",Peder Pripp,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Hermod Holte Haugland,,Andreas Andersen Roksvåg,"21/12,21/5",Hermod Holte Haugland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Hermod Holte Haugland,,Lars Torkelsen,"21/9,21/12",Hermod Holte Haugland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Andreas Andersen Roksvåg,,Sebastian Reijnen,"21/15,21/10",Andreas Andersen Roksvåg,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Hermod Holte Haugland,,Peder Pripp,"21/12,21/9",Hermod Holte Haugland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Sebastian Reijnen,,Peder Pripp,"21/16,17/21,21/19",Sebastian Reijnen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Hermod Holte Haugland,,Sebastian Reijnen,"21/9,21/5",Hermod Holte Haugland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Andreas Andersen Roksvåg,,Erik Neverdal,"21/9,21/11",Andreas Andersen Roksvåg,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Lars Torkelsen,,Erik Neverdal,"21/16,15/21,21/17",Lars Torkelsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herresingle,,Andreas Andersen Roksvåg,,Lars Torkelsen,"21/10,21/8",Andreas Andersen Roksvåg,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Damesingle,,Hedda Loen Bue,,Benedikte Omdal,"16/21,21/19,21/17",Hedda Loen Bue,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Damesingle,,Nora  Omdal,,Emma Morvik Kragholm,"21/14,21/16",Nora  Omdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Damesingle,,Hedda Loen Bue,,Emma Morvik Kragholm,"21/13,21/15",Hedda Loen Bue,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Damesingle,,Benedikte Omdal,,Nora  Omdal,"21/16,12/21,21/19",Benedikte Omdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Damesingle,,Nora  Omdal,,Hedda Loen Bue,"21/19,21/19",Nora  Omdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Damesingle,,Benedikte Omdal,,Emma Morvik Kragholm,"21/17,21/17",Benedikte Omdal,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Isak Andersen Abusdal,Casper Stiansen,Peder Pripp,Andreas Andersen Roksvåg,"21/17,21/17",Isak Andersen Abusdal,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Jonatan Broch Granum,Sander Østhassel,Fenris Lindland,Christer Andersen,"25/23,21/18",Jonatan Broch Granum,Sander Østhassel
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Peder Pripp,Andreas Andersen Roksvåg,Samuel Storaker,Hermod Holte Haugland,"21/8,15/21,21/17",Peder Pripp,Andreas Andersen Roksvåg
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Isak Andersen Abusdal,Casper Stiansen,Nora  Omdal,Emma Morvik Kragholm,"21/5,21/15",Isak Andersen Abusdal,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Jonatan Broch Granum,Sander Østhassel,Benedikte Omdal,Hedda Loen Bue,"21/15,21/12",Jonatan Broch Granum,Sander Østhassel
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Fenris Lindland,Christer Andersen,Sebastian Reijnen,Linas Tunaal-Larsen,"21/11,21/18",Fenris Lindland,Christer Andersen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Nora  Omdal,Emma Morvik Kragholm,Jonatan Broch Granum,Sander Østhassel,"21/5,21/19",Nora  Omdal,Emma Morvik Kragholm
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Samuel Storaker,Hermod Holte Haugland,Sebastian Reijnen,Linas Tunaal-Larsen,"21/15,21/16",Samuel Storaker,Hermod Holte Haugland
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Nora  Omdal,Emma Morvik Kragholm,Sebastian Reijnen,Linas Tunaal-Larsen,"21/15,21/14",Nora  Omdal,Emma Morvik Kragholm
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Samuel Storaker,Hermod Holte Haugland,Jonatan Broch Granum,Sander Østhassel,"21/19,22/20",Samuel Storaker,Hermod Holte Haugland
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Samuel Storaker,Hermod Holte Haugland,Nora  Omdal,Emma Morvik Kragholm,"21/19,21/15",Samuel Storaker,Hermod Holte Haugland
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Jonatan Broch Granum,Sander Østhassel,Sebastian Reijnen,Linas Tunaal-Larsen,"21/13,21/15",Jonatan Broch Granum,Sander Østhassel
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Peder Pripp,Andreas Andersen Roksvåg,Benedikte Omdal,Hedda Loen Bue,"18/21,21/10,21/14",Peder Pripp,Andreas Andersen Roksvåg
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Isak Andersen Abusdal,Casper Stiansen,Fenris Lindland,Christer Andersen,"12/21,21/15,21/19",Isak Andersen Abusdal,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Isak Andersen Abusdal,Casper Stiansen,Peder Pripp,Andreas Andersen Roksvåg,"21/12,21/19",Isak Andersen Abusdal,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Fenris Lindland,Christer Andersen,Benedikte Omdal,Hedda Loen Bue,"21/15,21/14",Fenris Lindland,Christer Andersen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Peder Pripp,Andreas Andersen Roksvåg,Fenris Lindland,Christer Andersen,"21/15,21/12",Peder Pripp,Andreas Andersen Roksvåg
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 A,Herredouble,Isak Andersen Abusdal,Casper Stiansen,Benedikte Omdal,Hedda Loen Bue,"21/13,21/11",Isak Andersen Abusdal,Casper Stiansen
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Linas Tunaal-Larsen,,Julian Aulin Bøe,"21/17,16/21,21/17",Linas Tunaal-Larsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Fredrik Lillesund,,Phillip Sperre Stephens,"17/21,23/21,21/16",Fredrik Lillesund,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Linas Tunaal-Larsen,,Milosh Mitik,"21/14,21/23,21/16",Linas Tunaal-Larsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Julian Aulin Bøe,,Markus Aanesen,"21/18,25/27,21/7",Julian Aulin Bøe,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Albert Salvesen-Orø,,Ali Reza Sedghi,"22/20,21/17",Albert Salvesen-Orø,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Milosh Mitik,,Alf Willbergh-Lindeland,"21/11,21/19",Milosh Mitik,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Linas Tunaal-Larsen,,Niklas Holst Hansen,"21/14,10/21,21/16",Linas Tunaal-Larsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Markus Aanesen,,Birk Sebastian Andresen,"21/14,21/5",Markus Aanesen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Julian Aulin Bøe,,Samuel Storaker,"21/12,21/19",Julian Aulin Bøe,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Niklas Holst Hansen,,Sivert Fredheim Bjorvand,"21/10,21/9",Niklas Holst Hansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Birk Sebastian Andresen,,David Møll,"17/21,21/12,21/12",Birk Sebastian Andresen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Milosh Mitik,,Phillip Sperre Stephens,"21/12,21/11",Milosh Mitik,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Milosh Mitik,,David Møll,"21/19,21/16",Milosh Mitik,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,David Møll,,Phillip Sperre Stephens,"21/14,19/21,21/15",David Møll,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Linas Tunaal-Larsen,,Birk Sebastian Andresen,"21/14,21/9",Linas Tunaal-Larsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Birk Sebastian Andresen,,Fredrik Lillesund,"21/10,21/12",Birk Sebastian Andresen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Linas Tunaal-Larsen,,Fredrik Lillesund,"21/9,21/8",Linas Tunaal-Larsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Markus Aanesen,,Albert Salvesen-Orø,"21/11,21/7",Markus Aanesen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Markus Aanesen,,Alf Willbergh-Lindeland,"21/16,21/14",Markus Aanesen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Alf Willbergh-Lindeland,,Albert Salvesen-Orø,"21/11,21/13",Alf Willbergh-Lindeland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Sivert Fredheim Bjorvand,,Ali Reza Sedghi,"21/10,21/9",Sivert Fredheim Bjorvand,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Samuel Storaker,,Ali Reza Sedghi,"21/6,21/9",Samuel Storaker,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Samuel Storaker,,Sivert Fredheim Bjorvand,"21/12,21/12",Samuel Storaker,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Julian Aulin Bøe,,Nicolay Monsen Thygesen,"21/16,21/6",Julian Aulin Bøe,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Julian Aulin Bøe,,Niklas Holst Hansen,"21/16,21/13",Julian Aulin Bøe,
+2017/2018,Kristiansand KBK cup,02.12.2017,U15 B,Herresingle,,Niklas Holst Hansen,,Nicolay Monsen Thygesen,"21/13,21/5",Niklas Holst Hansen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Andreas Hodne,,Seim Eyob,"21/13,21/7",Andreas Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Jostein Thorsland Madsen,,Ådne Finnseth Kjetså,"21/17,21/14",Jostein Thorsland Madsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Andreas Hodne,,Ådne Finnseth Kjetså,"21/16,21/12",Andreas Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Jostein Thorsland Madsen,,Chris Frederik Reiersen,"21/17,21/14",Jostein Thorsland Madsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Andreas Hodne,,Chris Frederik Reiersen,"21/7,21/7",Andreas Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Seim Eyob,,Ådne Finnseth Kjetså,"21/10,21/9",Seim Eyob,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Jostein Thorsland Madsen,,Seim Eyob,"21/18,21/17",Jostein Thorsland Madsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Chris Frederik Reiersen,,Ådne Finnseth Kjetså,"21/17,19/21,21/19",Chris Frederik Reiersen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Andreas Hodne,,Jostein Thorsland Madsen,"21/11,21/12",Andreas Hodne,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herresingle,,Chris Frederik Reiersen,,Seim Eyob,"20/22,21/13,21/19",Chris Frederik Reiersen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,June Morland,,Ida Speikeland Smithsen,"21/18,18/21,21/8",June Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,Ida Speikeland Smithsen,,Laila Løvheim Hakkam,"21/18,23/21",Ida Speikeland Smithsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,June Morland,,Astrid Egtvedt,"21/13,22/20",June Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,Laila Løvheim Hakkam,,Astrid Egtvedt,"21/16,21/10",Laila Løvheim Hakkam,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,Astrid Egtvedt,,Norah Lindland,"21/18,21/19",Astrid Egtvedt,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,Laila Løvheim Hakkam,,Norah Lindland,"21/6,21/18",Laila Løvheim Hakkam,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,June Morland,,Kira Amalie Nyberg,"21/9,21/4",June Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,June Morland,,Ida Speikeland Smithsen,"21/14,21/7",June Morland,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Damesingle,,Ida Speikeland Smithsen,,Kira Amalie Nyberg,"21/11,21/15",Ida Speikeland Smithsen,
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Astrid Egtvedt,Nicolay Monsen Thygesen,Niklas Holst Hansen,Albert Salvesen-Orø,"21/18,21/18",Astrid Egtvedt,Nicolay Monsen Thygesen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Chris Frederik Reiersen,Andreas Hodne,Birk Sebastian Andresen,Milosh Mitik,"21/14,18/21,21/14",Chris Frederik Reiersen,Andreas Hodne
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Niklas Holst Hansen,Albert Salvesen-Orø,Ali Reza Sedghi,Fredrik Lillesund,"21/16,21/9",Niklas Holst Hansen,Albert Salvesen-Orø
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Birk Sebastian Andresen,Milosh Mitik,Julian Aulin Bøe,Markus Aanesen,"21/10,21/18",Birk Sebastian Andresen,Milosh Mitik
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Chris Frederik Reiersen,Andreas Hodne,David Møll,Lars Torkelsen,"21/16,21/15",Chris Frederik Reiersen,Andreas Hodne
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Birk Sebastian Andresen,Milosh Mitik,Ida Speikeland Smithsen,Laila Løvheim Hakkam,"21/15,21/12",Birk Sebastian Andresen,Milosh Mitik
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Chris Frederik Reiersen,Andreas Hodne,Sivert Fredheim Bjorvand,Alf Willbergh-Lindeland,"21/18,21/11",Chris Frederik Reiersen,Andreas Hodne
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Julian Aulin Bøe,Markus Aanesen,Sivert Fredheim Bjorvand,Alf Willbergh-Lindeland,"21/14,21/16",Julian Aulin Bøe,Markus Aanesen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Julian Aulin Bøe,Markus Aanesen,Astrid Egtvedt,Nicolay Monsen Thygesen,"21/15,21/12",Julian Aulin Bøe,Markus Aanesen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Sivert Fredheim Bjorvand,Alf Willbergh-Lindeland,Astrid Egtvedt,Nicolay Monsen Thygesen,"21/17,18/21,21/11",Sivert Fredheim Bjorvand,Alf Willbergh-Lindeland
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Chris Frederik Reiersen,Andreas Hodne,Ali Reza Sedghi,Fredrik Lillesund,"21/6,21/10",Chris Frederik Reiersen,Andreas Hodne
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Ida Speikeland Smithsen,Laila Løvheim Hakkam,Ali Reza Sedghi,Fredrik Lillesund,"21/12,21/8",Ida Speikeland Smithsen,Laila Løvheim Hakkam
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Chris Frederik Reiersen,Andreas Hodne,Ida Speikeland Smithsen,Laila Løvheim Hakkam,"21/11,21/16",Chris Frederik Reiersen,Andreas Hodne
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,Birk Sebastian Andresen,Milosh Mitik,Niklas Holst Hansen,Albert Salvesen-Orø,"12/21,21/15,21/17",Birk Sebastian Andresen,Milosh Mitik
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,David Møll,Lars Torkelsen,Birk Sebastian Andresen,Milosh Mitik,"24/22,21/18",David Møll,Lars Torkelsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Herredouble,David Møll,Lars Torkelsen,Niklas Holst Hansen,Albert Salvesen-Orø,"21/11,21/13",David Møll,Lars Torkelsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Hermod Holte Haugland,Norah Lindland,Nora  Omdal,Peder Pripp,"18/21,21/18,21/18",Hermod Holte Haugland,Norah Lindland
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Emma Morvik Kragholm,Linas Tunaal-Larsen,Laila Løvheim Hakkam,Birk Sebastian Andresen,"21/16,21/18",Emma Morvik Kragholm,Linas Tunaal-Larsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Hermod Holte Haugland,Norah Lindland,Benedikte Omdal,Andreas Andersen Roksvåg,"12/21,21/11,23/21",Hermod Holte Haugland,Norah Lindland
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Nora  Omdal,Peder Pripp,Hedda Loen Bue,Sebastian Reijnen,"26/28,21/13,21/11",Nora  Omdal,Peder Pripp
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Laila Løvheim Hakkam,Birk Sebastian Andresen,Ida Speikeland Smithsen,Alf Willbergh-Lindeland,"21/19,21/12",Laila Løvheim Hakkam,Birk Sebastian Andresen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Emma Morvik Kragholm,Linas Tunaal-Larsen,Erik Neverdal,Anine Halvorsen Egge,"21/5,21/9",Emma Morvik Kragholm,Linas Tunaal-Larsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Ida Speikeland Smithsen,Alf Willbergh-Lindeland,Erik Neverdal,Anine Halvorsen Egge,"16/21,21/17,22/20",Ida Speikeland Smithsen,Alf Willbergh-Lindeland
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Benedikte Omdal,Andreas Andersen Roksvåg,Hedda Loen Bue,Sebastian Reijnen,"25/23,21/18",Benedikte Omdal,Andreas Andersen Roksvåg
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Hedda Loen Bue,Sebastian Reijnen,Ida Speikeland Smithsen,Alf Willbergh-Lindeland,"21/19,21/11",Hedda Loen Bue,Sebastian Reijnen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Benedikte Omdal,Andreas Andersen Roksvåg,Ida Speikeland Smithsen,Alf Willbergh-Lindeland,"21/4,21/6",Benedikte Omdal,Andreas Andersen Roksvåg
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Benedikte Omdal,Andreas Andersen Roksvåg,Erik Neverdal,Anine Halvorsen Egge,"21/13,21/8",Benedikte Omdal,Andreas Andersen Roksvåg
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Hedda Loen Bue,Sebastian Reijnen,Erik Neverdal,Anine Halvorsen Egge,"21/5,21/10",Hedda Loen Bue,Sebastian Reijnen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Hermod Holte Haugland,Norah Lindland,Laila Løvheim Hakkam,Birk Sebastian Andresen,"21/10,21/8",Hermod Holte Haugland,Norah Lindland
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Nora  Omdal,Peder Pripp,Emma Morvik Kragholm,Linas Tunaal-Larsen,"21/13,21/12",Nora  Omdal,Peder Pripp
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Nora  Omdal,Peder Pripp,Laila Løvheim Hakkam,Birk Sebastian Andresen,"21/10,21/6",Nora  Omdal,Peder Pripp
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Hermod Holte Haugland,Norah Lindland,Emma Morvik Kragholm,Linas Tunaal-Larsen,"12/21,21/18,21/14",Hermod Holte Haugland,Norah Lindland
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Emma Morvik Kragholm,Linas Tunaal-Larsen,Laila Løvheim Hakkam,Birk Sebastian Andresen,"21/13,21/18",Emma Morvik Kragholm,Linas Tunaal-Larsen
+2017/2018,Kristiansand KBK cup,02.12.2017,U17 B,Mixeddouble,Nora  Omdal,Peder Pripp,Hermod Holte Haugland,Norah Lindland,"21/9,21/17",Nora  Omdal,Peder Pripp

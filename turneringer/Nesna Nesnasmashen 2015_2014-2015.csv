@@ -1,144 +1,121 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Tore Hansen,"21/9,21/7",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Stian Prestø,,Reidar Bråten,"21/9,21/9",Stian Prestø,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Tarjei Bruaas,"21/5,21/11",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Stian Prestø,"21/9,21/13",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Tarjei Bruaas,,Reidar Bråten,"21/19,7/21,21/14",Tarjei Bruaas,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Stian Prestø,,Tarjei Bruaas,"21/15,22/20",Stian Prestø,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Reidar Bråten,"21/11,21/9",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Magnus Eidissen,,Tommy Johnsen,"21/17,21/15",Magnus Eidissen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Tore Hansen,,Torleiv Hov Grønbech,"21/13,21/17",Tore Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Tore Hansen,,Magnus Eidissen,"21/13,21/13",Tore Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Torleiv Hov Grønbech,,Magnus Eidissen,"19/21,23/21,21/18",Torleiv Hov Grønbech,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Tore Hansen,"21/9,21/7",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Stian Prestø,,Reidar Bråten,"21/9,21/9",Stian Prestø,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Tarjei Bruaas,"21/5,21/11",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Stian Prestø,"21/9,21/13",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Tarjei Bruaas,,Reidar Bråten,"21/19,7/21,21/14",Tarjei Bruaas,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Stian Prestø,,Tarjei Bruaas,"21/15,22/20",Stian Prestø,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Håvard Soløy,,Reidar Bråten,"21/11,21/9",Håvard Soløy,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Magnus Eidissen,,Tommy Johnsen,"21/17,21/15",Magnus Eidissen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Tore Hansen,,Torleiv Hov Grønbech,"21/13,21/17",Tore Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Tore Hansen,,Magnus Eidissen,"21/13,21/13",Tore Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,,Torleiv Hov Grønbech,,Magnus Eidissen,"19/21,23/21,21/18",Torleiv Hov Grønbech,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Nina Skogseth,,Hanne Osen,"21/10,21/19",Nina Skogseth,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Mirjam Finanger,,Hanne Osen,"21/6,21/8",Mirjam Finanger,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Elisa Z Johansen,,Hanne Osen,"21/19,21/19",Elisa Z Johansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Lone Hopstad,,Nina Skogseth,"21/9,23/21",Lone Hopstad,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Mirjam Finanger,,Lone Hopstad,"21/18,21/19",Mirjam Finanger,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Lone Hopstad,,Hanne Osen,"21/14,21/11",Lone Hopstad,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Mirjam Finanger,,Nina Skogseth,"30/29,22/20",Mirjam Finanger,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Nina Skogseth,,Hanne Osen,"21/10,21/19",Nina Skogseth,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Mirjam Finanger,,Hanne Osen,"21/6,21/8",Mirjam Finanger,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Elisa Z Johansen,,Hanne Osen,"21/19,21/19",Elisa Z Johansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Lone Hopstad,,Nina Skogseth,"21/9,23/21",Lone Hopstad,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Mirjam Finanger,,Lone Hopstad,"21/18,21/19",Mirjam Finanger,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Lone Hopstad,,Hanne Osen,"21/14,21/11",Lone Hopstad,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,,Mirjam Finanger,,Nina Skogseth,"30/29,22/20",Mirjam Finanger,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Lone Hopstad,Mirjam Finanger,Tobias Brosjø,Morten Mediå,"21/18,21/17",Lone Hopstad,Mirjam Finanger
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Lone Hopstad,Mirjam Finanger,Elisa Z Johansen,Sophie Larsen,"16/21,21/19,21/10",Lone Hopstad,Mirjam Finanger
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Elisa Z Johansen,Sophie Larsen,Tobias Brosjø,Morten Mediå,"21/6,24/22",Elisa Z Johansen,Sophie Larsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Jørgen Wika Haraldsen,Tarjei Bruaas,Tobias Brosjø,Morten Mediå,"21/11,21/18",Jørgen Wika Haraldsen,Tarjei Bruaas
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Jørgen Wika Haraldsen,Tarjei Bruaas,Lone Hopstad,Mirjam Finanger,"21/16,17/21,21/13",Jørgen Wika Haraldsen,Tarjei Bruaas
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Jørgen Wika Haraldsen,Tarjei Bruaas,Elisa Z Johansen,Sophie Larsen,"21/16,21/12",Jørgen Wika Haraldsen,Tarjei Bruaas
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Jørgen Wika Haraldsen,,Morten Mediå,"21/14,12/21,21/17",Jørgen Wika Haraldsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Morten Mediå,,Kjetil Brinchmann Halvorsen,"21/5,21/0",Morten Mediå,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Morten Mediå,,Marius Krokå,"22/20,16/21,21/16",Morten Mediå,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Marius Krokå,,Kjetil Brinchmann Halvorsen,"21/6,21/2",Marius Krokå,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Tobias Brosjø,,Niklas Johansen,"21/15,21/13",Tobias Brosjø,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Jørgen Wika Haraldsen,,Tobias Brosjø,"21/13,21/12",Jørgen Wika Haraldsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Jørgen Wika Haraldsen,,Niklas Johansen,"21/12,21/4",Jørgen Wika Haraldsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Jørgen Wika Haraldsen,,Morten Mediå,"21/14,12/21,21/17",Jørgen Wika Haraldsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Morten Mediå,,Kjetil Brinchmann Halvorsen,"21/5,21/0",Morten Mediå,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Morten Mediå,,Marius Krokå,"22/20,16/21,21/16",Morten Mediå,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Marius Krokå,,Kjetil Brinchmann Halvorsen,"21/6,21/2",Marius Krokå,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Tobias Brosjø,,Niklas Johansen,"21/15,21/13",Tobias Brosjø,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Jørgen Wika Haraldsen,,Tobias Brosjø,"21/13,21/12",Jørgen Wika Haraldsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Jørgen Wika Haraldsen,,Niklas Johansen,"21/12,21/4",Jørgen Wika Haraldsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Aileen Paulsen,,Sophie Larsen,"22/20,24/22",Aileen Paulsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Aileen Paulsen,,Solveig Heggheim,"21/18,21/19",Aileen Paulsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Solveig Heggheim,,Line Klæbo,"21/13,22/24,21/17",Solveig Heggheim,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Aileen Paulsen,,Line Klæbo,"22/20,21/7",Aileen Paulsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Line Larsen,,Hanne Wågan Olsen,"21/13,18/21,21/9",Line Larsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Sophie Larsen,,Line Larsen,"21/11,21/10",Sophie Larsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,,Sophie Larsen,,Hanne Wågan Olsen,"21/12,21/7",Sophie Larsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U9 A,Signe Lenning,Brage Moe Bjertnes,Linnea Nordnes Prestø,Steinar Furu Olsen,"21/19,21/9",Signe Lenning,Brage Moe Bjertnes
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Laura Taidla,"16/21,21/18,21/11",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Laura Taidla,,Linnea Nordnes Prestø,"21/15,21/15",Laura Taidla,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Alexander Hansen,,Linnea Nordnes Prestø,"16/21,21/18,21/6",Alexander Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Laura Taidla,,Alexander Hansen,"21/17,21/11",Laura Taidla,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Amalie Angel,"21/12,21/8",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Signe Lenning,,Steinar Furu Olsen,"21/12,21/11",Signe Lenning,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Signe Lenning,,Amalie Angel,"21/10,21/9",Signe Lenning,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Steinar Furu Olsen,"21/16,21/17",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Steinar Furu Olsen,,Amalie Angel,"24/22,21/17",Steinar Furu Olsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Signe Lenning,"21/13,21/18",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Laura Taidla,"16/21,21/18,21/11",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Laura Taidla,,Linnea Nordnes Prestø,"21/15,21/15",Laura Taidla,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Alexander Hansen,,Linnea Nordnes Prestø,"16/21,21/18,21/6",Alexander Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Laura Taidla,,Alexander Hansen,"21/17,21/11",Laura Taidla,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Amalie Angel,"21/12,21/8",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Signe Lenning,,Steinar Furu Olsen,"21/12,21/11",Signe Lenning,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Signe Lenning,,Amalie Angel,"21/10,21/9",Signe Lenning,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Steinar Furu Olsen,"21/16,21/17",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Steinar Furu Olsen,,Amalie Angel,"24/22,21/17",Steinar Furu Olsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,,Brage Moe Bjertnes,,Signe Lenning,"21/13,21/18",Brage Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Brage Moe Bjertnes,Alexander Hansen,Linnea Nordnes Prestø,Signe Lenning,"18/21,21/17,21/12",Brage Moe Bjertnes,Alexander Hansen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Brage Moe Bjertnes,Alexander Hansen,Amalie Angel,Laura Taidla,"21/14,14/21,21/12",Brage Moe Bjertnes,Alexander Hansen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Linnea Nordnes Prestø,Signe Lenning,Amalie Angel,Laura Taidla,"21/14,21/15",Linnea Nordnes Prestø,Signe Lenning
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,perry andre leirvik,"21/16,21/15",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,perry andre leirvik,,Julian Hanssen,"21/7,21/15",perry andre leirvik,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,perry andre leirvik,,Vegard Mathiassen Larsen,"21/11,21/16",perry andre leirvik,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Vegard Mathiassen Larsen,,Julian Hanssen,"21/16,21/9",Vegard Mathiassen Larsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,maya lauvås,"21/11,21/15",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,maya lauvås,,Jonas Sandstrak Gullesen,"21/12,17/21,21/18",maya lauvås,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,Sigve Moe Bjertnes,"21/17,21/15",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sigve Moe Bjertnes,,maya lauvås,"21/15,21/7",Sigve Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,Jonas Sandstrak Gullesen,"21/14,17/21,21/8",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sigve Moe Bjertnes,,Jonas Sandstrak Gullesen,"21/2,21/12",Sigve Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,perry andre leirvik,"21/16,21/15",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,perry andre leirvik,,Julian Hanssen,"21/7,21/15",perry andre leirvik,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,perry andre leirvik,,Vegard Mathiassen Larsen,"21/11,21/16",perry andre leirvik,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Vegard Mathiassen Larsen,,Julian Hanssen,"21/16,21/9",Vegard Mathiassen Larsen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,maya lauvås,"21/11,21/15",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,maya lauvås,,Jonas Sandstrak Gullesen,"21/12,17/21,21/18",maya lauvås,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,Sigve Moe Bjertnes,"21/17,21/15",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sigve Moe Bjertnes,,maya lauvås,"21/15,21/7",Sigve Moe Bjertnes,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sander Bjertnes Hansen,,Jonas Sandstrak Gullesen,"21/14,17/21,21/8",Sander Bjertnes Hansen,
-2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,,Sigve Moe Bjertnes,,Jonas Sandstrak Gullesen,"21/2,21/12",Sigve Moe Bjertnes,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Herredouble,Reidar Bråten,Tommy Johnsen,Torleiv Hov Grønbech,Stian Prestø,"21/17,21/11",Reidar Bråten,Tommy Johnsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Herredouble,Magnus Eidissen,Johannes Arnhoff Hagen,Tore Hansen,Håvard Soløy,"21/8,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Herredouble,Magnus Eidissen,Johannes Arnhoff Hagen,Reidar Bråten,Tommy Johnsen,"21/12,21/18",Magnus Eidissen,Johannes Arnhoff Hagen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Herredouble,Tore Hansen,Håvard Soløy,Torleiv Hov Grønbech,Stian Prestø,"21/13,21/17",Tore Hansen,Håvard Soløy
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Herredouble,Tore Hansen,Håvard Soløy,Reidar Bråten,Tommy Johnsen,"21/15,21/11",Tore Hansen,Håvard Soløy
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN A,Herredouble,Magnus Eidissen,Johannes Arnhoff Hagen,Torleiv Hov Grønbech,Stian Prestø,"21/12,21/11",Magnus Eidissen,Johannes Arnhoff Hagen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Håvard Soløy,,Tore Hansen,"21/9,21/7",Håvard Soløy,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Stian Prestø,,Reidar Bråten,"21/9,21/9",Stian Prestø,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Håvard Soløy,,Tarjei Bruaas,"21/5,21/11",Håvard Soløy,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Håvard Soløy,,Stian Prestø,"21/9,21/13",Håvard Soløy,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Tarjei Bruaas,,Reidar Bråten,"21/19,7/21,21/14",Tarjei Bruaas,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Stian Prestø,,Tarjei Bruaas,"21/15,22/20",Stian Prestø,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Håvard Soløy,,Reidar Bråten,"21/11,21/9",Håvard Soløy,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Magnus Eidissen,,Tommy Johnsen,"21/17,21/15",Magnus Eidissen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Tore Hansen,,Torleiv Hov Grønbech,"21/13,21/17",Tore Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Tore Hansen,,Magnus Eidissen,"21/13,21/13",Tore Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Herresingle,,Torleiv Hov Grønbech,,Magnus Eidissen,"19/21,23/21,21/18",Torleiv Hov Grønbech,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Lone Hopstad,Håvard Soløy,Reidar Bråten,Nina Skogseth,"21/15,21/18",Lone Hopstad,Håvard Soløy
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Lone Hopstad,Håvard Soløy,Stian Prestø,Solveig Heggheim,"21/11,21/10",Lone Hopstad,Håvard Soløy
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Hanne Osen,Tommy Johnsen,Stian Prestø,Solveig Heggheim,"21/17,21/17",Hanne Osen,Tommy Johnsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Lone Hopstad,Håvard Soløy,Hanne Osen,Tommy Johnsen,"21/12,21/13",Lone Hopstad,Håvard Soløy
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Elisa Z Johansen,Magnus Eidissen,Mirjam Finanger,Tore Hansen,"14/21,21/16,21/14",Elisa Z Johansen,Magnus Eidissen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Reidar Bråten,Nina Skogseth,Mirjam Finanger,Tore Hansen,"21/16,21/19",Reidar Bråten,Nina Skogseth
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN B,Mixeddouble,Reidar Bråten,Nina Skogseth,Elisa Z Johansen,Magnus Eidissen,"24/22,21/14",Reidar Bråten,Nina Skogseth
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Nina Skogseth,,Hanne Osen,"21/10,21/19",Nina Skogseth,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Mirjam Finanger,,Hanne Osen,"21/6,21/8",Mirjam Finanger,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Elisa Z Johansen,,Hanne Osen,"21/19,21/19",Elisa Z Johansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Lone Hopstad,,Nina Skogseth,"21/9,23/21",Lone Hopstad,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Mirjam Finanger,,Lone Hopstad,"21/18,21/19",Mirjam Finanger,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Lone Hopstad,,Hanne Osen,"21/14,21/11",Lone Hopstad,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Damesingle,,Mirjam Finanger,,Nina Skogseth,"30/29,22/20",Mirjam Finanger,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Herredouble,Lone Hopstad,Mirjam Finanger,Tobias Brosjø,Morten Mediå,"21/18,21/17",Lone Hopstad,Mirjam Finanger
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Herredouble,Lone Hopstad,Mirjam Finanger,Elisa Z Johansen,Sophie Larsen,"16/21,21/19,21/10",Lone Hopstad,Mirjam Finanger
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Herredouble,Elisa Z Johansen,Sophie Larsen,Tobias Brosjø,Morten Mediå,"21/6,24/22",Elisa Z Johansen,Sophie Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Herredouble,Jørgen Wika Haraldsen,Tarjei Bruaas,Tobias Brosjø,Morten Mediå,"21/11,21/18",Jørgen Wika Haraldsen,Tarjei Bruaas
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Herredouble,Jørgen Wika Haraldsen,Tarjei Bruaas,Lone Hopstad,Mirjam Finanger,"21/16,17/21,21/13",Jørgen Wika Haraldsen,Tarjei Bruaas
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN C,Herredouble,Jørgen Wika Haraldsen,Tarjei Bruaas,Elisa Z Johansen,Sophie Larsen,"21/16,21/12",Jørgen Wika Haraldsen,Tarjei Bruaas
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Jørgen Wika Haraldsen,,Morten Mediå,"21/14,12/21,21/17",Jørgen Wika Haraldsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Morten Mediå,,Kjetil Brinchmann Halvorsen,"21/5,21/0",Morten Mediå,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Morten Mediå,,Marius Krokå,"22/20,16/21,21/16",Morten Mediå,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Marius Krokå,,Kjetil Brinchmann Halvorsen,"21/6,21/2",Marius Krokå,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Tobias Brosjø,,Niklas Johansen,"21/15,21/13",Tobias Brosjø,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Jørgen Wika Haraldsen,,Tobias Brosjø,"21/13,21/12",Jørgen Wika Haraldsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Herresingle,,Jørgen Wika Haraldsen,,Niklas Johansen,"21/12,21/4",Jørgen Wika Haraldsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Aileen Paulsen,,Sophie Larsen,"22/20,24/22",Aileen Paulsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Aileen Paulsen,,Solveig Heggheim,"21/18,21/19",Aileen Paulsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Solveig Heggheim,,Line Klæbo,"21/13,22/24,21/17",Solveig Heggheim,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Aileen Paulsen,,Line Klæbo,"22/20,21/7",Aileen Paulsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Line Larsen,,Hanne Wågan Olsen,"21/13,18/21,21/9",Line Larsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Sophie Larsen,,Line Larsen,"21/11,21/10",Sophie Larsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Damesingle,,Sophie Larsen,,Hanne Wågan Olsen,"21/12,21/7",Sophie Larsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Mixeddouble,Torleiv Hov Grønbech,Sophie Larsen,Marius Krokå,julie bang,"21/19,21/6",Torleiv Hov Grønbech,Sophie Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Mixeddouble,Tarjei Bruaas,Hanne Wågan Olsen,Morten Mediå,Line Larsen,"22/20,21/11",Tarjei Bruaas,Hanne Wågan Olsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Mixeddouble,Torleiv Hov Grønbech,Sophie Larsen,Tarjei Bruaas,Hanne Wågan Olsen,"21/11,21/9",Torleiv Hov Grønbech,Sophie Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Mixeddouble,Marius Krokå,julie bang,Tobias Brosjø,Line Klæbo,"21/15,21/19",Marius Krokå,julie bang
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Mixeddouble,Marius Krokå,julie bang,Niklas Johansen,Aileen Paulsen,"21/14,23/21",Marius Krokå,julie bang
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,SEN D,Mixeddouble,Tobias Brosjø,Line Klæbo,Niklas Johansen,Aileen Paulsen,"21/9,16/21,21/15",Tobias Brosjø,Line Klæbo
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U9 A,Mixeddouble,Signe Lenning,Brage Moe Bjertnes,Linnea Nordnes Prestø,Steinar Furu Olsen,"21/19,21/9",Signe Lenning,Brage Moe Bjertnes
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Brage Moe Bjertnes,,Laura Taidla,"16/21,21/18,21/11",Brage Moe Bjertnes,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Laura Taidla,,Linnea Nordnes Prestø,"21/15,21/15",Laura Taidla,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Alexander Hansen,,Linnea Nordnes Prestø,"16/21,21/18,21/6",Alexander Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Laura Taidla,,Alexander Hansen,"21/17,21/11",Laura Taidla,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Brage Moe Bjertnes,,Amalie Angel,"21/12,21/8",Brage Moe Bjertnes,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Signe Lenning,,Steinar Furu Olsen,"21/12,21/11",Signe Lenning,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Signe Lenning,,Amalie Angel,"21/10,21/9",Signe Lenning,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Brage Moe Bjertnes,,Steinar Furu Olsen,"21/16,21/17",Brage Moe Bjertnes,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Steinar Furu Olsen,,Amalie Angel,"24/22,21/17",Steinar Furu Olsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herresingle,,Brage Moe Bjertnes,,Signe Lenning,"21/13,21/18",Brage Moe Bjertnes,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herredouble,Brage Moe Bjertnes,Alexander Hansen,Linnea Nordnes Prestø,Signe Lenning,"18/21,21/17,21/12",Brage Moe Bjertnes,Alexander Hansen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herredouble,Brage Moe Bjertnes,Alexander Hansen,Amalie Angel,Laura Taidla,"21/14,14/21,21/12",Brage Moe Bjertnes,Alexander Hansen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U11 A,Herredouble,Linnea Nordnes Prestø,Signe Lenning,Amalie Angel,Laura Taidla,"21/14,21/15",Linnea Nordnes Prestø,Signe Lenning
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,perry andre leirvik,"21/16,21/15",Sander Bjertnes Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,perry andre leirvik,,Julian Hanssen,"21/7,21/15",perry andre leirvik,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,perry andre leirvik,,Vegard Mathiassen Larsen,"21/11,21/16",perry andre leirvik,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Vegard Mathiassen Larsen,,Julian Hanssen,"21/16,21/9",Vegard Mathiassen Larsen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,maya lauvås,"21/11,21/15",Sander Bjertnes Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,maya lauvås,,Jonas Sandstrak Gullesen,"21/12,17/21,21/18",maya lauvås,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Sigve Moe Bjertnes,"21/17,21/15",Sander Bjertnes Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Sigve Moe Bjertnes,,maya lauvås,"21/15,21/7",Sigve Moe Bjertnes,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Sander Bjertnes Hansen,,Jonas Sandstrak Gullesen,"21/14,17/21,21/8",Sander Bjertnes Hansen,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U13 A,Herresingle,,Sigve Moe Bjertnes,,Jonas Sandstrak Gullesen,"21/2,21/12",Sigve Moe Bjertnes,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herresingle,,Benjamin Rølvåg,,Kristoffer Stangen Lillevik,"21/8,21/2",Benjamin Rølvåg,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herresingle,,Henrik Tønder,,Erik Brodersen Henriksen,"21/12,21/15",Henrik Tønder,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herresingle,,Kristoffer Stangen Lillevik,,Erik Brodersen Henriksen,"19/21,21/19,21/15",Kristoffer Stangen Lillevik,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herresingle,,Benjamin Rølvåg,,Henrik Tønder,"21/14,21/9",Benjamin Rølvåg,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herresingle,,Benjamin Rølvåg,,Erik Brodersen Henriksen,"21/3,21/2",Benjamin Rølvåg,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herresingle,,Henrik Tønder,,Kristoffer Stangen Lillevik,"21/16,21/18",Henrik Tønder,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Tha Thluai Hnem Nawl,,Ina Finanger Skog,"23/21,18/21,21/18",Tha Thluai Hnem Nawl,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Ina Finanger Skog,,Benedicte Pinto,"21/5,21/12",Ina Finanger Skog,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Rebekka Finanger Skog,,Benedicte Pinto,"21/3,21/3",Rebekka Finanger Skog,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Ina Finanger Skog,,Rebekka Finanger Skog,"21/12,21/16",Ina Finanger Skog,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Tha Thluai Hnem Nawl,,Anja Stojanovic,"21/4,21/3",Tha Thluai Hnem Nawl,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Maiken Solbakken Buschmann,,julie bang,"14/21,21/15,21/17",Maiken Solbakken Buschmann,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Maiken Solbakken Buschmann,,Anja Stojanovic,"21/9,21/13",Maiken Solbakken Buschmann,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Tha Thluai Hnem Nawl,,julie bang,"21/6,21/10",Tha Thluai Hnem Nawl,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,Tha Thluai Hnem Nawl,,Maiken Solbakken Buschmann,"21/12,21/15",Tha Thluai Hnem Nawl,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Damesingle,,julie bang,,Anja Stojanovic,"21/6,21/12",julie bang,
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Jonas Sandstrak Gullesen,Julian Hanssen,Anja Stojanovic,Benedicte Pinto,"21/14,21/13",Jonas Sandstrak Gullesen,Julian Hanssen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Sander Bjertnes Hansen,Vegard Mathiassen Larsen,Kristoffer Stangen Lillevik,Erik Brodersen Henriksen,"21/17,18/21,21/17",Sander Bjertnes Hansen,Vegard Mathiassen Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Sander Bjertnes Hansen,Vegard Mathiassen Larsen,julie bang,maya lauvås,"21/17,21/19",Sander Bjertnes Hansen,Vegard Mathiassen Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Kristoffer Stangen Lillevik,Erik Brodersen Henriksen,Anja Stojanovic,Benedicte Pinto,"21/8,21/14",Kristoffer Stangen Lillevik,Erik Brodersen Henriksen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Sander Bjertnes Hansen,Vegard Mathiassen Larsen,Jonas Sandstrak Gullesen,Julian Hanssen,"21/7,21/11",Sander Bjertnes Hansen,Vegard Mathiassen Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,julie bang,maya lauvås,Anja Stojanovic,Benedicte Pinto,"21/7,21/6",julie bang,maya lauvås
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Kristoffer Stangen Lillevik,Erik Brodersen Henriksen,Jonas Sandstrak Gullesen,Julian Hanssen,"21/9,21/15",Kristoffer Stangen Lillevik,Erik Brodersen Henriksen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,julie bang,maya lauvås,Kristoffer Stangen Lillevik,Erik Brodersen Henriksen,"21/10,13/21,21/11",julie bang,maya lauvås
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,Sander Bjertnes Hansen,Vegard Mathiassen Larsen,Anja Stojanovic,Benedicte Pinto,"21/12,21/12",Sander Bjertnes Hansen,Vegard Mathiassen Larsen
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Herredouble,julie bang,maya lauvås,Jonas Sandstrak Gullesen,Julian Hanssen,"21/14,21/15",julie bang,maya lauvås
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,Ina Finanger Skog,Benjamin Rølvåg,Rebekka Finanger Skog,Tha Thluai Hnem Nawl,"24/22,21/18",Ina Finanger Skog,Benjamin Rølvåg
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,Ina Finanger Skog,Benjamin Rølvåg,maya lauvås,perry andre leirvik,"21/16,21/10",Ina Finanger Skog,Benjamin Rølvåg
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,maya lauvås,perry andre leirvik,Anja Stojanovic,Sander Bjertnes Hansen,"21/13,17/21,21/8",maya lauvås,perry andre leirvik
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,Ina Finanger Skog,Benjamin Rølvåg,Anja Stojanovic,Sander Bjertnes Hansen,"21/9,21/4",Ina Finanger Skog,Benjamin Rølvåg
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,Maiken Solbakken Buschmann,Henrik Tønder,Benedicte Pinto,Jonas Sandstrak Gullesen,"21/5,21/12",Maiken Solbakken Buschmann,Henrik Tønder
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,Rebekka Finanger Skog,Tha Thluai Hnem Nawl,Maiken Solbakken Buschmann,Henrik Tønder,"21/10,21/10",Rebekka Finanger Skog,Tha Thluai Hnem Nawl
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U15 A,Mixeddouble,Rebekka Finanger Skog,Tha Thluai Hnem Nawl,Benedicte Pinto,Jonas Sandstrak Gullesen,"21/7,21/2",Rebekka Finanger Skog,Tha Thluai Hnem Nawl
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U19 A,Herredouble,Rebekka Finanger Skog,Benjamin Rølvåg,Solveig Heggheim,Aileen Paulsen,"19/21,21/7,21/16",Rebekka Finanger Skog,Benjamin Rølvåg
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U19 A,Herredouble,Ina Finanger Skog,Tha Thluai Hnem Nawl,Line Klæbo,Maiken Solbakken Buschmann,"21/18,21/13",Ina Finanger Skog,Tha Thluai Hnem Nawl
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U19 A,Herredouble,Rebekka Finanger Skog,Benjamin Rølvåg,Line Klæbo,Maiken Solbakken Buschmann,"21/17,21/10",Rebekka Finanger Skog,Benjamin Rølvåg
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U19 A,Herredouble,Ina Finanger Skog,Tha Thluai Hnem Nawl,Solveig Heggheim,Aileen Paulsen,"17/21,21/13,21/11",Ina Finanger Skog,Tha Thluai Hnem Nawl
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U19 A,Herredouble,Rebekka Finanger Skog,Benjamin Rølvåg,Ina Finanger Skog,Tha Thluai Hnem Nawl,"21/19,22/20",Rebekka Finanger Skog,Benjamin Rølvåg
+2014/2015,Nesna Nesnasmashen 2015,20.03.2015,U19 A,Herredouble,Solveig Heggheim,Aileen Paulsen,Line Klæbo,Maiken Solbakken Buschmann,"21/10,21/15",Solveig Heggheim,Aileen Paulsen

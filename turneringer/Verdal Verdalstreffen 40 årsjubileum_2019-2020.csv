@@ -1,339 +1,167 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ingvild Håland,,Anne Berit Bergsmo,"21/9,21/6",Ingvild Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Margarita Wcislo,"21/17,21/17",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Andrea Løvold,"21/16,21/17",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Margarita Wcislo,"21/14,21/13",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Anne Berit Bergsmo,"21/18,21/11",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Ingvild Håland,"21/16,18/21,25/23",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Dianne Christine Geronimo,"21/14,21/15",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Dianne Christine Geronimo,,Barbro Johnsen,"21/4,21/19",Dianne Christine Geronimo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/6,21/5",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Sara Buvik,"21/12,21/10",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Sara Buvik,,Nordis Østerås Sandberg,"21/12,21/14",Sara Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Nordis Østerås Sandberg,"21/12,21/16",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Amund Skavhaug,Robert Barø,"21/19,15/21,21/13",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Lars Erik Karlsen,Roar Natvig,Fredrik Skånøy,Rune Oterhals,"18/21,21/18,21/17",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Adrian Olsen-Loe Pedersen,Jonas Midtøy,"21/11,21/17",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Erlend Kruksve,Robin Kruksve Krux,Lars Erik Karlsen,Roar Natvig,"21/19,18/21,21/12",Erlend Kruksve,Robin Kruksve Krux
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Erlend Kruksve,Robin Kruksve Krux,"25/23,21/19",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Erlend Kruksve,Robin Kruksve Krux,"21/15,21/14",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Lars Erik Karlsen,Roar Natvig,"21/19,21/15",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/16,16/21,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ole Petter Øren,Henrik Buvik,Svend Helge Hegseth,Trond Mære,"21/17,21/12",Ole Petter Øren,Henrik Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Esben Bjørkmann Pettersen,Geoffrey Werner,Ole Petter Øren,Henrik Buvik,"19/21,21/17,21/19",Esben Bjørkmann Pettersen,Geoffrey Werner
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Svend Helge Hegseth,Trond Mære,"21/19,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Svend Helge Hegseth,Trond Mære,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/19,21/17",Svend Helge Hegseth,Trond Mære
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Ole Petter Øren,Henrik Buvik,"21/19,21/14",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Anita Olsen,Anne Berit Bergsmo,"21/12,21/19",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Ingvild Håland,Dianne Christine Geronimo,"21/18,21/19",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Anita Olsen,Anne Berit Bergsmo,"25/27,21/16,21/14",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Hildegunn Måøy,Margarita Wcislo,"17/21,21/19,21/17",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Anne Berit Bergsmo,"21/14,21/13",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Andrea Løvold,Marte Stokkaune,"21/16,21/19",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Runar Måøy,,Sander Johansen,"21/10,21/9",Runar Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Adrian Olsen-Loe Pedersen,"21/17,21/19",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Adrian Olsen-Loe Pedersen,,Andreas Futaker,"19/21,21/14,21/17",Adrian Olsen-Loe Pedersen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Runar Måøy,"21/12,21/15",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Sander Johansen,,Andreas Futaker,"15/21,21/19,21/14",Sander Johansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Runar Måøy,,Adrian Olsen-Loe Pedersen,"21/15,21/19",Runar Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Adrian Olsen-Loe Pedersen,,Sander Johansen,"18/21,21/10,21/15",Adrian Olsen-Loe Pedersen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Andreas Futaker,"21/14,21/18",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Sander Johansen,"21/10,22/20",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Runar Måøy,,Andreas Futaker,"21/5,21/11",Runar Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Runar Måøy,,Sander Johansen,"21/10,21/9",Runar Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Adrian Olsen-Loe Pedersen,"21/17,21/19",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Adrian Olsen-Loe Pedersen,,Andreas Futaker,"19/21,21/14,21/17",Adrian Olsen-Loe Pedersen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Runar Måøy,"21/12,21/15",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Sander Johansen,,Andreas Futaker,"15/21,21/19,21/14",Sander Johansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Runar Måøy,,Adrian Olsen-Loe Pedersen,"21/15,21/19",Runar Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Adrian Olsen-Loe Pedersen,,Sander Johansen,"18/21,21/10,21/15",Adrian Olsen-Loe Pedersen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Andreas Futaker,"21/14,21/18",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Robert Barø,,Sander Johansen,"21/10,22/20",Robert Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,,Runar Måøy,,Andreas Futaker,"21/5,21/11",Runar Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Benjamin Rølvåg,Sander Johansen,Kristoffer Brandsås Berg,Sander Hegseth,"22/20,15/21,21/7",Benjamin Rølvåg,Sander Johansen
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Erik Winger,Jan Aage Nyborg,Sigurd Lorvik,Steinar Fornes,"17/21,21/14,21/14",Erik Winger,Jan Aage Nyborg
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Benjamin Rølvåg,Sander Johansen,Erik Winger,Jan Aage Nyborg,"21/7,21/12",Benjamin Rølvåg,Sander Johansen
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Benjamin Rølvåg,Sander Johansen,Sigurd Lorvik,Steinar Fornes,"21/11,21/18",Benjamin Rølvåg,Sander Johansen
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Kristoffer Brandsås Berg,Sander Hegseth,Markus Måøy,Runar Måøy,"21/18,21/9",Kristoffer Brandsås Berg,Sander Hegseth
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Markus Måøy,Runar Måøy,Andreas Futaker,Jørgen Olsen,"21/10,21/15",Markus Måøy,Runar Måøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Kristoffer Brandsås Berg,Sander Hegseth,Andreas Futaker,Jørgen Olsen,"21/15,21/16",Kristoffer Brandsås Berg,Sander Hegseth
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Sigurd Lorvik,"17/21,21/13,21/10",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Stig Gåsbakk,"16/21,21/17,24/22",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Håvard Buvik,"21/18,22/20",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Jørgen Olsen,"21/15,21/12",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Terje Knutseth,,Marius Olav Evensen,"21/12,17/21,21/12",Terje Knutseth,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Terje Knutseth,"21/15,21/11",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Marius Olav Evensen,"21/11,21/9",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Håvard Buvik,,Marius Olsen,"21/17,21/13",Håvard Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Håvard Buvik,,Markus Måøy,"14/21,21/12,21/18",Håvard Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Markus Måøy,,Marius Olsen,"21/12,21/10",Markus Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Jørgen Olsen,,Rune Fortunato,"18/21,21/19,22/20",Jørgen Olsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Inge Rosset,,Rune Fortunato,"21/11,21/19",Inge Rosset,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Jørgen Olsen,,Inge Rosset,"21/14,21/18",Jørgen Olsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Lars Petter Danielsen,,Svenn Jostein Bergin,"20/22,21/12,21/12",Lars Petter Danielsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Lars Petter Danielsen,"21/17,21/8",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Svenn Jostein Bergin,"21/13,21/15",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Stig Gåsbakk,,Sigurd Hellberg,"21/18,25/23",Stig Gåsbakk,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Martin Haagenstad,,Sigurd Hellberg,"22/20,21/13",Martin Haagenstad,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Stig Gåsbakk,,Martin Haagenstad,"18/21,27/25,23/21",Stig Gåsbakk,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Sigurd Lorvik,"17/21,21/13,21/10",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Stig Gåsbakk,"16/21,21/17,24/22",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Håvard Buvik,"21/18,22/20",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Jørgen Olsen,"21/15,21/12",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Terje Knutseth,,Marius Olav Evensen,"21/12,17/21,21/12",Terje Knutseth,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Terje Knutseth,"21/15,21/11",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Steinar Fornes,,Marius Olav Evensen,"21/11,21/9",Steinar Fornes,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Håvard Buvik,,Marius Olsen,"21/17,21/13",Håvard Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Håvard Buvik,,Markus Måøy,"14/21,21/12,21/18",Håvard Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Markus Måøy,,Marius Olsen,"21/12,21/10",Markus Måøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Jørgen Olsen,,Rune Fortunato,"18/21,21/19,22/20",Jørgen Olsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Inge Rosset,,Rune Fortunato,"21/11,21/19",Inge Rosset,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Jørgen Olsen,,Inge Rosset,"21/14,21/18",Jørgen Olsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Lars Petter Danielsen,,Svenn Jostein Bergin,"20/22,21/12,21/12",Lars Petter Danielsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Lars Petter Danielsen,"21/17,21/8",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Sigurd Lorvik,,Svenn Jostein Bergin,"21/13,21/15",Sigurd Lorvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Stig Gåsbakk,,Sigurd Hellberg,"21/18,25/23",Stig Gåsbakk,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Martin Haagenstad,,Sigurd Hellberg,"22/20,21/13",Martin Haagenstad,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,,Stig Gåsbakk,,Martin Haagenstad,"18/21,27/25,23/21",Stig Gåsbakk,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Stig Gåsbakk,Lars Petter Danielsen,Inge Rosset,Svenn Jostein Bergin,"21/9,21/17",Stig Gåsbakk,Lars Petter Danielsen
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Terje Knutseth,Martin Haagenstad,Inge Rosset,Svenn Jostein Bergin,"13/21,21/12,21/19",Terje Knutseth,Martin Haagenstad
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Terje Knutseth,Martin Haagenstad,Stig Gåsbakk,Lars Petter Danielsen,"21/14,16/21,23/21",Terje Knutseth,Martin Haagenstad
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Børge Håland,William R. Barø,Marius Olav Evensen,Håvard Buvik,"21/14,21/14",Børge Håland,William R. Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Børge Håland,William R. Barø,Terje Knutseth,Martin Haagenstad,"18/21,21/15,21/17",Børge Håland,William R. Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Terje Knutseth,Martin Haagenstad,Marius Olav Evensen,Håvard Buvik,"27/25,21/17",Terje Knutseth,Martin Haagenstad
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Børge Håland,William R. Barø,Marius Olsen,Sigurd Hellberg,"19/21,21/19,21/16",Børge Håland,William R. Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Marius Olsen,Sigurd Hellberg,Brage Hennissen Modell,Joar Gåsbakk,"21/12,21/11",Marius Olsen,Sigurd Hellberg
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Børge Håland,William R. Barø,Brage Hennissen Modell,Joar Gåsbakk,"21/10,21/10",Børge Håland,William R. Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Helge Formo,Torbjørn Gåsbakk,Rune Fortunato,Leo Fortunato,"20/22,21/14,21/11",Helge Formo,Torbjørn Gåsbakk
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Marius Olav Evensen,Håvard Buvik,Helge Formo,Torbjørn Gåsbakk,"21/16,21/16",Marius Olav Evensen,Håvard Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Marius Olav Evensen,Håvard Buvik,Rune Fortunato,Leo Fortunato,"21/14,21/13",Marius Olav Evensen,Håvard Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Nordis Østerås Sandberg,Julie Kristin Vatterholm,MARTE EGGEN,Sara Buvik,"23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Helene Winger,Iris Olafsen-Solberg,MARTE EGGEN,Sara Buvik,"14/21,21/17,21/8",Helene Winger,Iris Olafsen-Solberg
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Helene Winger,Iris Olafsen-Solberg,"16/21,21/16,21/11",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Tone Iren Hansen,Angelika Grande,"21/7,21/7",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,MARTE EGGEN,Sara Buvik,Barbro Johnsen,Susanne Engseth,"21/17,14/21,21/14",MARTE EGGEN,Sara Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Barbro Johnsen,Susanne Engseth,"21/18,21/10",Nordis Østerås Sandberg,Julie Kristin Vatterholm
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Helene Winger,Iris Olafsen-Solberg,Tone Iren Hansen,Angelika Grande,"21/14,21/5",Helene Winger,Iris Olafsen-Solberg
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Barbro Johnsen,Susanne Engseth,Helene Winger,Iris Olafsen-Solberg,"21/17,21/8",Barbro Johnsen,Susanne Engseth
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,MARTE EGGEN,Sara Buvik,Tone Iren Hansen,Angelika Grande,"21/8,21/11",MARTE EGGEN,Sara Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Barbro Johnsen,Susanne Engseth,Tone Iren Hansen,Angelika Grande,"21/12,21/6",Barbro Johnsen,Susanne Engseth
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN D,Angelika Grande,Mikael Grande,Aina Kaspersen,John Thomas Krogstad,"21/6,21/11",Angelika Grande,Mikael Grande
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN D,Tone Iren Hansen,Sigurd Hellberg,Aina Kaspersen,John Thomas Krogstad,"21/16,21/18",Tone Iren Hansen,Sigurd Hellberg
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN D,Angelika Grande,Mikael Grande,Tone Iren Hansen,Sigurd Hellberg,"21/14,21/10",Angelika Grande,Mikael Grande
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ingvild Håland,,Anne Berit Bergsmo,"21/9,21/6",Ingvild Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Margarita Wcislo,"21/17,21/17",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Andrea Løvold,"21/16,21/17",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Margarita Wcislo,"21/14,21/13",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Anne Berit Bergsmo,"21/18,21/11",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Ingvild Håland,"21/16,18/21,25/23",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Dianne Christine Geronimo,"21/14,21/15",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Dianne Christine Geronimo,,Barbro Johnsen,"21/4,21/19",Dianne Christine Geronimo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/6,21/5",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Sara Buvik,"21/12,21/10",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Sara Buvik,,Nordis Østerås Sandberg,"21/12,21/14",Sara Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Nordis Østerås Sandberg,"21/12,21/16",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Amund Skavhaug,Robert Barø,"21/19,15/21,21/13",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Lars Erik Karlsen,Roar Natvig,Fredrik Skånøy,Rune Oterhals,"18/21,21/18,21/17",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Adrian Olsen-Loe Pedersen,Jonas Midtøy,"21/11,21/17",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Erlend Kruksve,Robin Kruksve Krux,Lars Erik Karlsen,Roar Natvig,"21/19,18/21,21/12",Erlend Kruksve,Robin Kruksve Krux
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Erlend Kruksve,Robin Kruksve Krux,"25/23,21/19",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Erlend Kruksve,Robin Kruksve Krux,"21/15,21/14",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Lars Erik Karlsen,Roar Natvig,"21/19,21/15",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/16,16/21,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ole Petter Øren,Henrik Buvik,Svend Helge Hegseth,Trond Mære,"21/17,21/12",Ole Petter Øren,Henrik Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Esben Bjørkmann Pettersen,Geoffrey Werner,Ole Petter Øren,Henrik Buvik,"19/21,21/17,21/19",Esben Bjørkmann Pettersen,Geoffrey Werner
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Svend Helge Hegseth,Trond Mære,"21/19,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Svend Helge Hegseth,Trond Mære,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/19,21/17",Svend Helge Hegseth,Trond Mære
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Ole Petter Øren,Henrik Buvik,"21/19,21/14",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Anita Olsen,Anne Berit Bergsmo,"21/12,21/19",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Ingvild Håland,Dianne Christine Geronimo,"21/18,21/19",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Anita Olsen,Anne Berit Bergsmo,"25/27,21/16,21/14",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Hildegunn Måøy,Margarita Wcislo,"17/21,21/19,21/17",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Anne Berit Bergsmo,"21/14,21/13",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Andrea Løvold,Marte Stokkaune,"21/16,21/19",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ingvild Håland,,Anne Berit Bergsmo,"21/9,21/6",Ingvild Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Margarita Wcislo,"21/17,21/17",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Andrea Løvold,"21/16,21/17",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Margarita Wcislo,"21/14,21/13",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Anne Berit Bergsmo,"21/18,21/11",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Ingvild Håland,"21/16,18/21,25/23",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Dianne Christine Geronimo,"21/14,21/15",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Dianne Christine Geronimo,,Barbro Johnsen,"21/4,21/19",Dianne Christine Geronimo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/6,21/5",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Sara Buvik,"21/12,21/10",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Sara Buvik,,Nordis Østerås Sandberg,"21/12,21/14",Sara Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Nordis Østerås Sandberg,"21/12,21/16",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Amund Skavhaug,Robert Barø,"21/19,15/21,21/13",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Lars Erik Karlsen,Roar Natvig,Fredrik Skånøy,Rune Oterhals,"18/21,21/18,21/17",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Adrian Olsen-Loe Pedersen,Jonas Midtøy,"21/11,21/17",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Erlend Kruksve,Robin Kruksve Krux,Lars Erik Karlsen,Roar Natvig,"21/19,18/21,21/12",Erlend Kruksve,Robin Kruksve Krux
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Erlend Kruksve,Robin Kruksve Krux,"25/23,21/19",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Erlend Kruksve,Robin Kruksve Krux,"21/15,21/14",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Lars Erik Karlsen,Roar Natvig,"21/19,21/15",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/16,16/21,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ole Petter Øren,Henrik Buvik,Svend Helge Hegseth,Trond Mære,"21/17,21/12",Ole Petter Øren,Henrik Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Esben Bjørkmann Pettersen,Geoffrey Werner,Ole Petter Øren,Henrik Buvik,"19/21,21/17,21/19",Esben Bjørkmann Pettersen,Geoffrey Werner
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Svend Helge Hegseth,Trond Mære,"21/19,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Svend Helge Hegseth,Trond Mære,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/19,21/17",Svend Helge Hegseth,Trond Mære
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Ole Petter Øren,Henrik Buvik,"21/19,21/14",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Anita Olsen,Anne Berit Bergsmo,"21/12,21/19",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Ingvild Håland,Dianne Christine Geronimo,"21/18,21/19",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Anita Olsen,Anne Berit Bergsmo,"25/27,21/16,21/14",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Hildegunn Måøy,Margarita Wcislo,"17/21,21/19,21/17",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Anne Berit Bergsmo,"21/14,21/13",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Andrea Løvold,Marte Stokkaune,"21/16,21/19",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Ingvild Håland,,Anne Berit Bergsmo,"21/9,21/6",Ingvild Håland,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Margarita Wcislo,"21/17,21/17",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Andrea Løvold,"21/16,21/17",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Margarita Wcislo,"21/14,21/13",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Anne Berit Bergsmo,"21/18,21/11",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Andrea Løvold,,Ingvild Håland,"21/16,18/21,25/23",Andrea Løvold,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Dianne Christine Geronimo,"21/14,21/15",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Dianne Christine Geronimo,,Barbro Johnsen,"21/4,21/19",Dianne Christine Geronimo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/6,21/5",Margarita Wcislo,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Sara Buvik,"21/12,21/10",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Sara Buvik,,Nordis Østerås Sandberg,"21/12,21/14",Sara Buvik,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,,Marte Stokkaune,,Nordis Østerås Sandberg,"21/12,21/16",Marte Stokkaune,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Amund Skavhaug,Robert Barø,"21/19,15/21,21/13",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Lars Erik Karlsen,Roar Natvig,Fredrik Skånøy,Rune Oterhals,"18/21,21/18,21/17",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Adrian Olsen-Loe Pedersen,Jonas Midtøy,"21/11,21/17",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Erlend Kruksve,Robin Kruksve Krux,Lars Erik Karlsen,Roar Natvig,"21/19,18/21,21/12",Erlend Kruksve,Robin Kruksve Krux
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Erlend Kruksve,Robin Kruksve Krux,"25/23,21/19",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Fredrik Skånøy,Rune Oterhals,Erlend Kruksve,Robin Kruksve Krux,"21/15,21/14",Fredrik Skånøy,Rune Oterhals
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Lars Erik Karlsen,Roar Natvig,"21/19,21/15",Adrian Olsen-Loe Pedersen,Jonas Midtøy
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/16,16/21,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ole Petter Øren,Henrik Buvik,Svend Helge Hegseth,Trond Mære,"21/17,21/12",Ole Petter Øren,Henrik Buvik
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Esben Bjørkmann Pettersen,Geoffrey Werner,Ole Petter Øren,Henrik Buvik,"19/21,21/17,21/19",Esben Bjørkmann Pettersen,Geoffrey Werner
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Svend Helge Hegseth,Trond Mære,"21/19,21/19",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Svend Helge Hegseth,Trond Mære,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/19,21/17",Svend Helge Hegseth,Trond Mære
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Amund Skavhaug,Robert Barø,Ole Petter Øren,Henrik Buvik,"21/19,21/14",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Anita Olsen,Anne Berit Bergsmo,"21/12,21/19",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Ingvild Håland,Dianne Christine Geronimo,"21/18,21/19",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Anita Olsen,Anne Berit Bergsmo,"25/27,21/16,21/14",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Andrea Løvold,Marte Stokkaune,Hildegunn Måøy,Margarita Wcislo,"17/21,21/19,21/17",Andrea Løvold,Marte Stokkaune
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Anne Berit Bergsmo,"21/14,21/13",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Ingvild Håland,Dianne Christine Geronimo,Andrea Løvold,Marte Stokkaune,"21/16,21/19",Ingvild Håland,Dianne Christine Geronimo
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Mattis Sæther-Danielsen,,Einar Mathias Øren,"21/10,21/6",Mattis Sæther-Danielsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Alexander Hansen,"21/6,21/6",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Marcus Leander Aasland Grande,,Mattis Sæther-Danielsen,"19/21,21/14,21/18",Marcus Leander Aasland Grande,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Alexander Hansen,,Einar Mathias Øren,"21/10,21/13",Alexander Hansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Marcus Leander Aasland Grande,,Einar Mathias Øren,"21/16,21/3",Marcus Leander Aasland Grande,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Mattis Sæther-Danielsen,"21/5,21/1",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Marcus Leander Aasland Grande,"21/3,21/4",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Alexander Hansen,,Mattis Sæther-Danielsen,"19/21,21/16,21/18",Alexander Hansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Alexander Hansen,,Marcus Leander Aasland Grande,"21/10,21/14",Alexander Hansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Einar Mathias Øren,"21/3,21/5",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Mattis Sæther-Danielsen,,Einar Mathias Øren,"21/10,21/6",Mattis Sæther-Danielsen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Alexander Hansen,"21/6,21/6",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Marcus Leander Aasland Grande,,Mattis Sæther-Danielsen,"19/21,21/14,21/18",Marcus Leander Aasland Grande,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Alexander Hansen,,Einar Mathias Øren,"21/10,21/13",Alexander Hansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Marcus Leander Aasland Grande,,Einar Mathias Øren,"21/16,21/3",Marcus Leander Aasland Grande,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Mattis Sæther-Danielsen,"21/5,21/1",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Marcus Leander Aasland Grande,"21/3,21/4",William R. Barø,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Alexander Hansen,,Mattis Sæther-Danielsen,"19/21,21/16,21/18",Alexander Hansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,Alexander Hansen,,Marcus Leander Aasland Grande,"21/10,21/14",Alexander Hansen,
-2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,,William R. Barø,,Einar Mathias Øren,"21/3,21/5",William R. Barø,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Fredrik Skånøy,,Amund Skavhaug,"21/14,21/16",Fredrik Skånøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Fredrik Skånøy,,Roar Natvig,"21/10,21/7",Fredrik Skånøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Amund Skavhaug,,Erlend Kruksve,"12/21,21/18,21/19",Amund Skavhaug,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Fredrik Skånøy,,Jonas Midtøy,"21/15,21/8",Fredrik Skånøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Børge Håland,,Jonas Midtøy,"21/17,23/21",Børge Håland,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Fredrik Skånøy,,Børge Håland,"21/10,19/21,21/9",Fredrik Skånøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Ole Petter Øren,,Esben Bjørkmann Pettersen,"21/14,21/5",Ole Petter Øren,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Roar Natvig,,Esben Bjørkmann Pettersen,"21/8,21/15",Roar Natvig,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Roar Natvig,,Ole Petter Øren,"21/18,10/21,21/13",Roar Natvig,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Amund Skavhaug,,Kristoffer Brandsås Berg,"21/13,21/14",Amund Skavhaug,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Rune Oterhals,,Henrik Buvik,"20/22,21/12,21/13",Rune Oterhals,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Erlend Kruksve,,Henrik Buvik,"21/4,21/9",Erlend Kruksve,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herresingle,,Erlend Kruksve,,Rune Oterhals,"11/21,21/17,21/10",Erlend Kruksve,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Ingvild Håland,,Anne Berit Bergsmo,"21/9,21/6",Ingvild Håland,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Andrea Løvold,,Margarita Wcislo,"21/17,21/17",Andrea Løvold,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Marte Stokkaune,,Andrea Løvold,"21/16,21/17",Marte Stokkaune,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Marte Stokkaune,,Margarita Wcislo,"21/14,21/13",Marte Stokkaune,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Andrea Løvold,,Anne Berit Bergsmo,"21/18,21/11",Andrea Løvold,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Andrea Løvold,,Ingvild Håland,"21/16,18/21,25/23",Andrea Løvold,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Margarita Wcislo,,Dianne Christine Geronimo,"21/14,21/15",Margarita Wcislo,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Dianne Christine Geronimo,,Barbro Johnsen,"21/4,21/19",Dianne Christine Geronimo,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Margarita Wcislo,,Barbro Johnsen,"21/6,21/5",Margarita Wcislo,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Marte Stokkaune,,Sara Buvik,"21/12,21/10",Marte Stokkaune,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Sara Buvik,,Nordis Østerås Sandberg,"21/12,21/14",Sara Buvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damesingle,,Marte Stokkaune,,Nordis Østerås Sandberg,"21/12,21/16",Marte Stokkaune,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Fredrik Skånøy,Rune Oterhals,Amund Skavhaug,Robert Barø,"21/19,15/21,21/13",Fredrik Skånøy,Rune Oterhals
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Lars Erik Karlsen,Roar Natvig,Fredrik Skånøy,Rune Oterhals,"18/21,21/18,21/17",Lars Erik Karlsen,Roar Natvig
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Fredrik Skånøy,Rune Oterhals,Adrian Olsen-Loe Pedersen,Jonas Midtøy,"21/11,21/17",Fredrik Skånøy,Rune Oterhals
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Erlend Kruksve,Robin Kruksve Krux,Lars Erik Karlsen,Roar Natvig,"21/19,18/21,21/12",Erlend Kruksve,Robin Kruksve Krux
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Erlend Kruksve,Robin Kruksve Krux,"25/23,21/19",Adrian Olsen-Loe Pedersen,Jonas Midtøy
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Fredrik Skånøy,Rune Oterhals,Erlend Kruksve,Robin Kruksve Krux,"21/15,21/14",Fredrik Skånøy,Rune Oterhals
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Adrian Olsen-Loe Pedersen,Jonas Midtøy,Lars Erik Karlsen,Roar Natvig,"21/19,21/15",Adrian Olsen-Loe Pedersen,Jonas Midtøy
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/16,16/21,21/13",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Ole Petter Øren,Henrik Buvik,Svend Helge Hegseth,Trond Mære,"21/17,21/12",Ole Petter Øren,Henrik Buvik
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Esben Bjørkmann Pettersen,Geoffrey Werner,Ole Petter Øren,Henrik Buvik,"19/21,21/17,21/19",Esben Bjørkmann Pettersen,Geoffrey Werner
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Svend Helge Hegseth,Trond Mære,"21/19,21/19",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Svend Helge Hegseth,Trond Mære,Esben Bjørkmann Pettersen,Geoffrey Werner,"21/19,21/17",Svend Helge Hegseth,Trond Mære
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Ole Petter Øren,Henrik Buvik,"21/19,21/14",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damedouble,Andrea Løvold,Marte Stokkaune,Anita Olsen,Anne Berit Bergsmo,"21/12,21/19",Andrea Løvold,Marte Stokkaune
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damedouble,Hildegunn Måøy,Margarita Wcislo,Ingvild Håland,Dianne Christine Geronimo,"21/18,21/19",Hildegunn Måøy,Margarita Wcislo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damedouble,Ingvild Håland,Dianne Christine Geronimo,Anita Olsen,Anne Berit Bergsmo,"25/27,21/16,21/14",Ingvild Håland,Dianne Christine Geronimo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damedouble,Andrea Løvold,Marte Stokkaune,Hildegunn Måøy,Margarita Wcislo,"17/21,21/19,21/17",Andrea Løvold,Marte Stokkaune
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damedouble,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Anne Berit Bergsmo,"21/14,21/13",Hildegunn Måøy,Margarita Wcislo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Damedouble,Ingvild Håland,Dianne Christine Geronimo,Andrea Løvold,Marte Stokkaune,"21/16,21/19",Ingvild Håland,Dianne Christine Geronimo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Sara Buvik,Benjamin Rølvåg,"21/10,21/14",Anita Olsen,Trond Mære
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Hilde Vatterholm,Roar Natvig,"14/21,21/12,21/12",Anita Olsen,Trond Mære
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Andrea Løvold,Erlend Kruksve,Anita Olsen,Trond Mære,"23/21,21/15",Andrea Løvold,Erlend Kruksve
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Andrea Løvold,Erlend Kruksve,Hilde Vatterholm,Roar Natvig,"21/18,21/19",Andrea Løvold,Erlend Kruksve
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Sara Buvik,Benjamin Rølvåg,Barbro Johnsen,Ole Petter Øren,"21/13,21/19",Sara Buvik,Benjamin Rølvåg
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Fredrik Skånøy,Marte Stokkaune,"21/17,21/15",Anita Olsen,Trond Mære
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Anita Olsen,Trond Mære,Barbro Johnsen,Ole Petter Øren,"21/18,21/17",Anita Olsen,Trond Mære
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Sara Buvik,Benjamin Rølvåg,"21/19,21/12",Fredrik Skånøy,Marte Stokkaune
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Barbro Johnsen,Ole Petter Øren,"21/13,22/20",Fredrik Skånøy,Marte Stokkaune
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,"21/18,21/12",Hilde Vatterholm,Roar Natvig
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Geoffrey Werner,Dianne Christine Geronimo,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,"21/12,21/19",Geoffrey Werner,Dianne Christine Geronimo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Geoffrey Werner,Dianne Christine Geronimo,"23/21,21/18",Hilde Vatterholm,Roar Natvig
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Lars Erik Karlsen,Anne Berit Bergsmo,Børge Håland,Ingvild Håland,"19/21,21/19,21/19",Lars Erik Karlsen,Anne Berit Bergsmo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Andrea Løvold,Erlend Kruksve,Børge Håland,Ingvild Håland,"21/18,21/16",Andrea Løvold,Erlend Kruksve
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN A,Mixeddouble,Andrea Løvold,Erlend Kruksve,Lars Erik Karlsen,Anne Berit Bergsmo,"21/18,22/20",Andrea Løvold,Erlend Kruksve
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Runar Måøy,,Sander Johansen,"21/10,21/9",Runar Måøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Robert Barø,,Adrian Olsen-Loe Pedersen,"21/17,21/19",Robert Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Adrian Olsen-Loe Pedersen,,Andreas Futaker,"19/21,21/14,21/17",Adrian Olsen-Loe Pedersen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Robert Barø,,Runar Måøy,"21/12,21/15",Robert Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Sander Johansen,,Andreas Futaker,"15/21,21/19,21/14",Sander Johansen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Runar Måøy,,Adrian Olsen-Loe Pedersen,"21/15,21/19",Runar Måøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Adrian Olsen-Loe Pedersen,,Sander Johansen,"18/21,21/10,21/15",Adrian Olsen-Loe Pedersen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Robert Barø,,Andreas Futaker,"21/14,21/18",Robert Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Robert Barø,,Sander Johansen,"21/10,22/20",Robert Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herresingle,,Runar Måøy,,Andreas Futaker,"21/5,21/11",Runar Måøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Benjamin Rølvåg,Sander Johansen,Kristoffer Brandsås Berg,Sander Hegseth,"22/20,15/21,21/7",Benjamin Rølvåg,Sander Johansen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Erik Winger,Jan Aage Nyborg,Sigurd Lorvik,Steinar Fornes,"17/21,21/14,21/14",Erik Winger,Jan Aage Nyborg
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Benjamin Rølvåg,Sander Johansen,Erik Winger,Jan Aage Nyborg,"21/7,21/12",Benjamin Rølvåg,Sander Johansen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Benjamin Rølvåg,Sander Johansen,Sigurd Lorvik,Steinar Fornes,"21/11,21/18",Benjamin Rølvåg,Sander Johansen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Kristoffer Brandsås Berg,Sander Hegseth,Markus Måøy,Runar Måøy,"21/18,21/9",Kristoffer Brandsås Berg,Sander Hegseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Markus Måøy,Runar Måøy,Andreas Futaker,Jørgen Olsen,"21/10,21/15",Markus Måøy,Runar Måøy
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Herredouble,Kristoffer Brandsås Berg,Sander Hegseth,Andreas Futaker,Jørgen Olsen,"21/15,21/16",Kristoffer Brandsås Berg,Sander Hegseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Mixeddouble,Hildegunn Måøy,Markus Måøy,Jørgen Olsen,Julie Kristin Vatterholm,"21/14,21/14",Hildegunn Måøy,Markus Måøy
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Helene Winger,Adrian Olsen-Loe Pedersen,"17/21,21/16,22/20",Jørgen Olsen,Julie Kristin Vatterholm
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN B,Mixeddouble,Helene Winger,Adrian Olsen-Loe Pedersen,Hildegunn Måøy,Markus Måøy,"21/15,21/18",Helene Winger,Adrian Olsen-Loe Pedersen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Steinar Fornes,,Sigurd Lorvik,"17/21,21/13,21/10",Steinar Fornes,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Sigurd Lorvik,,Stig Gåsbakk,"16/21,21/17,24/22",Sigurd Lorvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Steinar Fornes,,Håvard Buvik,"21/18,22/20",Steinar Fornes,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Sigurd Lorvik,,Jørgen Olsen,"21/15,21/12",Sigurd Lorvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Terje Knutseth,,Marius Olav Evensen,"21/12,17/21,21/12",Terje Knutseth,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Steinar Fornes,,Terje Knutseth,"21/15,21/11",Steinar Fornes,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Steinar Fornes,,Marius Olav Evensen,"21/11,21/9",Steinar Fornes,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Håvard Buvik,,Marius Olsen,"21/17,21/13",Håvard Buvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Håvard Buvik,,Markus Måøy,"14/21,21/12,21/18",Håvard Buvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Markus Måøy,,Marius Olsen,"21/12,21/10",Markus Måøy,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Jørgen Olsen,,Rune Fortunato,"18/21,21/19,22/20",Jørgen Olsen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Inge Rosset,,Rune Fortunato,"21/11,21/19",Inge Rosset,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Jørgen Olsen,,Inge Rosset,"21/14,21/18",Jørgen Olsen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Lars Petter Danielsen,,Svenn Jostein Bergin,"20/22,21/12,21/12",Lars Petter Danielsen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Sigurd Lorvik,,Lars Petter Danielsen,"21/17,21/8",Sigurd Lorvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Sigurd Lorvik,,Svenn Jostein Bergin,"21/13,21/15",Sigurd Lorvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Stig Gåsbakk,,Sigurd Hellberg,"21/18,25/23",Stig Gåsbakk,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Martin Haagenstad,,Sigurd Hellberg,"22/20,21/13",Martin Haagenstad,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herresingle,,Stig Gåsbakk,,Martin Haagenstad,"18/21,27/25,23/21",Stig Gåsbakk,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Lars Petter Danielsen,Stig Gåsbakk,Svenn Jostein Bergin,Inge Rosset,"21/9,21/17",Lars Petter Danielsen,Stig Gåsbakk
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Martin Haagenstad,Terje Knutseth,Svenn Jostein Bergin,Inge Rosset,"13/21,21/12,21/19",Martin Haagenstad,Terje Knutseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Martin Haagenstad,Terje Knutseth,Lars Petter Danielsen,Stig Gåsbakk,"21/14,16/21,23/21",Martin Haagenstad,Terje Knutseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Børge Håland,William R. Barø,Håvard Buvik,Marius Olav Evensen,"21/14,21/14",Børge Håland,William R. Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Børge Håland,William R. Barø,Martin Haagenstad,Terje Knutseth,"18/21,21/15,21/17",Børge Håland,William R. Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Martin Haagenstad,Terje Knutseth,Håvard Buvik,Marius Olav Evensen,"27/25,21/17",Martin Haagenstad,Terje Knutseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Børge Håland,William R. Barø,Marius Olsen,Sigurd Hellberg,"19/21,21/19,21/16",Børge Håland,William R. Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Marius Olsen,Sigurd Hellberg,Brage Hennissen Modell,Joar Gåsbakk,"21/12,21/11",Marius Olsen,Sigurd Hellberg
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Børge Håland,William R. Barø,Brage Hennissen Modell,Joar Gåsbakk,"21/10,21/10",Børge Håland,William R. Barø
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Torbjørn Gåsbakk,Helge Formo,Leo Fortunato,Rune Fortunato,"20/22,21/14,21/11",Torbjørn Gåsbakk,Helge Formo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Håvard Buvik,Marius Olav Evensen,Torbjørn Gåsbakk,Helge Formo,"21/16,21/16",Håvard Buvik,Marius Olav Evensen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Herredouble,Håvard Buvik,Marius Olav Evensen,Leo Fortunato,Rune Fortunato,"21/14,21/13",Håvard Buvik,Marius Olav Evensen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Sara Buvik,MARTE EGGEN,"23/21,21/18",Nordis Østerås Sandberg,Julie Kristin Vatterholm
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Helene Winger,Iris Olafsen-Solberg,Sara Buvik,MARTE EGGEN,"14/21,21/17,21/8",Helene Winger,Iris Olafsen-Solberg
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Helene Winger,Iris Olafsen-Solberg,"16/21,21/16,21/11",Nordis Østerås Sandberg,Julie Kristin Vatterholm
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Tone Iren Hansen,Angelika Grande,"21/7,21/7",Nordis Østerås Sandberg,Julie Kristin Vatterholm
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Sara Buvik,MARTE EGGEN,Barbro Johnsen,Susanne Engseth,"21/17,14/21,21/14",Sara Buvik,MARTE EGGEN
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Nordis Østerås Sandberg,Julie Kristin Vatterholm,Barbro Johnsen,Susanne Engseth,"21/18,21/10",Nordis Østerås Sandberg,Julie Kristin Vatterholm
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Helene Winger,Iris Olafsen-Solberg,Tone Iren Hansen,Angelika Grande,"21/14,21/5",Helene Winger,Iris Olafsen-Solberg
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Barbro Johnsen,Susanne Engseth,Helene Winger,Iris Olafsen-Solberg,"21/17,21/8",Barbro Johnsen,Susanne Engseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Sara Buvik,MARTE EGGEN,Tone Iren Hansen,Angelika Grande,"21/8,21/11",Sara Buvik,MARTE EGGEN
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Damedouble,Barbro Johnsen,Susanne Engseth,Tone Iren Hansen,Angelika Grande,"21/12,21/6",Barbro Johnsen,Susanne Engseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Mixeddouble,Susanne Engseth,Steinar Fornes,Sander Johansen,Vanja H. Hartviksen,"21/15,19/21,21/10",Susanne Engseth,Steinar Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Mixeddouble,Susanne Engseth,Steinar Fornes,MARTE EGGEN,Martin Haagenstad,"21/16,19/21,21/9",Susanne Engseth,Steinar Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN C,Mixeddouble,MARTE EGGEN,Martin Haagenstad,Sander Johansen,Vanja H. Hartviksen,"21/14,21/17",MARTE EGGEN,Martin Haagenstad
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN D,Mixeddouble,Angelika Grande,Mikael Grande,Aina Kaspersen,John Thomas Krogstad,"21/6,21/11",Angelika Grande,Mikael Grande
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN D,Mixeddouble,Tone Iren Hansen,Sigurd Hellberg,Aina Kaspersen,John Thomas Krogstad,"21/16,21/18",Tone Iren Hansen,Sigurd Hellberg
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,SEN D,Mixeddouble,Angelika Grande,Mikael Grande,Tone Iren Hansen,Sigurd Hellberg,"21/14,21/10",Angelika Grande,Mikael Grande
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U11 A,Mixeddouble,Marcus Leander Aasland Grande,Maja Fossbakken Knutseth,Einar Mathias Øren,Maja Mathilde Johnsen Sørgjerd,"21/9,21/10",Marcus Leander Aasland Grande,Maja Fossbakken Knutseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U11 A,Mixeddouble,Marcus Leander Aasland Grande,Maja Fossbakken Knutseth,Tilde Evensen,Mattis Sæther-Danielsen,"21/17,21/19",Marcus Leander Aasland Grande,Maja Fossbakken Knutseth
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U11 A,Mixeddouble,Tilde Evensen,Mattis Sæther-Danielsen,Einar Mathias Øren,Maja Mathilde Johnsen Sørgjerd,"21/10,21/13",Tilde Evensen,Mattis Sæther-Danielsen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,Mattis Sæther-Danielsen,,Einar Mathias Øren,"21/10,21/6",Mattis Sæther-Danielsen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,William R. Barø,,Alexander Hansen,"21/6,21/6",William R. Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Mattis Sæther-Danielsen,"19/21,21/14,21/18",Marcus Leander Aasland Grande,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,Alexander Hansen,,Einar Mathias Øren,"21/10,21/13",Alexander Hansen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Einar Mathias Øren,"21/16,21/3",Marcus Leander Aasland Grande,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,William R. Barø,,Mattis Sæther-Danielsen,"21/5,21/1",William R. Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,William R. Barø,,Marcus Leander Aasland Grande,"21/3,21/4",William R. Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,Alexander Hansen,,Mattis Sæther-Danielsen,"19/21,21/16,21/18",Alexander Hansen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,Alexander Hansen,,Marcus Leander Aasland Grande,"21/10,21/14",Alexander Hansen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 A,Herresingle,,William R. Barø,,Einar Mathias Øren,"21/3,21/5",William R. Barø,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Minni Elise Aakvik,,Maja Fossbakken Knutseth,"21/9,21/6",Minni Elise Aakvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Minni Elise Aakvik,,Tilde Evensen,"21/2,21/6",Minni Elise Aakvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Tilde Evensen,,Hedda Frotjold-Mo,"15/21,21/14,21/15",Tilde Evensen,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Minni Elise Aakvik,,Hedda Frotjold-Mo,"21/2,21/5",Minni Elise Aakvik,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Maja Fossbakken Knutseth,,Emilie Romundstad Nyborg,"21/17,21/18",Maja Fossbakken Knutseth,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Maja Fossbakken Knutseth,,Maja Mathilde Johnsen Sørgjerd,"21/8,21/17",Maja Fossbakken Knutseth,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U13 B,Damesingle,,Emilie Romundstad Nyborg,,Maja Mathilde Johnsen Sørgjerd,"21/15,21/6",Emilie Romundstad Nyborg,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 A,Damesingle,,Agnes Fornes,,Linnea Evensen,"21/3,21/6",Agnes Fornes,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 A,Mixeddouble,Leo Fortunato,Linnea Evensen,Brage Hennissen Modell,Minni Elise Aakvik,"21/19,21/16",Leo Fortunato,Linnea Evensen
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 A,Mixeddouble,William R. Barø,Agnes Fornes,Leo Fortunato,Linnea Evensen,"21/10,21/18",William R. Barø,Agnes Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 A,Mixeddouble,William R. Barø,Agnes Fornes,Brage Hennissen Modell,Minni Elise Aakvik,"21/5,21/16",William R. Barø,Agnes Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 B,Damedouble,Maja Fossbakken Knutseth,Agnes Fornes,Maja Mathilde Johnsen Sørgjerd,Tilde Evensen,"21/15,21/7",Maja Fossbakken Knutseth,Agnes Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 B,Damedouble,Linnea Evensen,Minni Elise Aakvik,Emilie Romundstad Nyborg,Hedda Frotjold-Mo,"21/18,21/11",Linnea Evensen,Minni Elise Aakvik
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 B,Damedouble,Linnea Evensen,Minni Elise Aakvik,Maja Mathilde Johnsen Sørgjerd,Tilde Evensen,"21/9,21/11",Linnea Evensen,Minni Elise Aakvik
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 B,Damedouble,Maja Fossbakken Knutseth,Agnes Fornes,Emilie Romundstad Nyborg,Hedda Frotjold-Mo,"21/9,21/9",Maja Fossbakken Knutseth,Agnes Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 B,Damedouble,Emilie Romundstad Nyborg,Hedda Frotjold-Mo,Maja Mathilde Johnsen Sørgjerd,Tilde Evensen,"21/16,21/8",Emilie Romundstad Nyborg,Hedda Frotjold-Mo
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U15 B,Damedouble,Maja Fossbakken Knutseth,Agnes Fornes,Linnea Evensen,Minni Elise Aakvik,"22/20,21/12",Maja Fossbakken Knutseth,Agnes Fornes
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Leo Fortunato,,Joar Gåsbakk,"21/12,21/15",Leo Fortunato,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Benjamin Rølvåg,,Sander Hegseth,"21/13,21/7",Benjamin Rølvåg,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Leo Fortunato,,Brage Hennissen Modell,"21/13,19/21,21/17",Leo Fortunato,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Sander Hegseth,,Joar Gåsbakk,"21/5,21/8",Sander Hegseth,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Joar Gåsbakk,,Brage Hennissen Modell,"19/21,21/9,21/12",Joar Gåsbakk,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Benjamin Rølvåg,,Leo Fortunato,"21/7,21/11",Benjamin Rølvåg,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Benjamin Rølvåg,,Brage Hennissen Modell,"21/4,21/5",Benjamin Rølvåg,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Sander Hegseth,,Leo Fortunato,"21/10,21/16",Sander Hegseth,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Sander Hegseth,,Brage Hennissen Modell,"21/7,21/4",Sander Hegseth,
+2019/2020,Verdal Verdalstreffen 40 årsjubileum,15.02.2020,U19 A,Herresingle,,Benjamin Rølvåg,,Joar Gåsbakk,"21/2,21/6",Benjamin Rølvåg,

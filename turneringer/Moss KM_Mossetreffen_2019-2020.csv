@@ -1,208 +1,143 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,,Baard Janitz,,Noah Andersen,"21/13,21/13",Baard Janitz,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,,Baard Janitz,,Noah Andersen,"21/13,21/13",Baard Janitz,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,,Kaisa Isabell Sandboe,,Ingunn Sunde,"21/13,15/21,21/16",Kaisa Isabell Sandboe,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,,Ingunn Sunde,,Camilla Persen,"21/16,21/17",Ingunn Sunde,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,,Kaisa Isabell Sandboe,,Camilla Persen,"21/9,21/12",Kaisa Isabell Sandboe,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Ingunn Sunde,Camilla Persen,Merete Ruud Tuskin,Wenche Brinchmann,"16/21,21/12,21/9",Ingunn Sunde,Camilla Persen
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Ingunn Sunde,Camilla Persen,Merete Ruud Tuskin,Wenche Brinchmann,"16/21,21/12,21/9",Ingunn Sunde,Camilla Persen
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
-2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Cristiano Berger,"21/14,21/14",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Aaron Nathaniel Helgesen,"21/13,21/0",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Cristiano Berger,,Vilde Rolfsøn,"21/12,21/12",Cristiano Berger,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Vaiva Andriulyte,"21/9,21/6",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Cristiano Berger,,Aaron Nathaniel Helgesen,"21/11,21/18",Cristiano Berger,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Cristiano Berger,,Vaiva Andriulyte,"21/7,21/6",Cristiano Berger,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Vilde Rolfsøn,,Aaron Nathaniel Helgesen,"19/21,21/16,21/17",Vilde Rolfsøn,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Aaron Nathaniel Helgesen,,Vaiva Andriulyte,"15/21,22/20,21/14",Aaron Nathaniel Helgesen,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Vilde Rolfsøn,"21/11,21/6",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Vaiva Andriulyte,,Vilde Rolfsøn,"18/21,21/16,21/18",Vaiva Andriulyte,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Cristiano Berger,"21/14,21/14",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Aaron Nathaniel Helgesen,"21/13,21/0",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Cristiano Berger,,Vilde Rolfsøn,"21/12,21/12",Cristiano Berger,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Vaiva Andriulyte,"21/9,21/6",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Cristiano Berger,,Aaron Nathaniel Helgesen,"21/11,21/18",Cristiano Berger,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Cristiano Berger,,Vaiva Andriulyte,"21/7,21/6",Cristiano Berger,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Vilde Rolfsøn,,Aaron Nathaniel Helgesen,"19/21,21/16,21/17",Vilde Rolfsøn,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Aaron Nathaniel Helgesen,,Vaiva Andriulyte,"15/21,22/20,21/14",Aaron Nathaniel Helgesen,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Shreyas Danve,,Vilde Rolfsøn,"21/11,21/6",Shreyas Danve,
-2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,,Vaiva Andriulyte,,Vilde Rolfsøn,"18/21,21/16,21/18",Vaiva Andriulyte,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Jonas Ruud Tuskin,,Martin Enghaug,"21/15,21/14",Jonas Ruud Tuskin,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Martin Enghaug,,Magnus Tjøm,"21/13,17/21,21/7",Martin Enghaug,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Jonas Ruud Tuskin,,Marius Aga,"21/9,21/13",Jonas Ruud Tuskin,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Martin Enghaug,,Marius Aga,"21/11,21/8",Martin Enghaug,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Magnus Tjøm,,Tommy Helander,"24/22,21/16",Magnus Tjøm,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Jonas Ruud Tuskin,,Tommy Helander,"21/18,21/14",Jonas Ruud Tuskin,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herresingle,,Jonas Ruud Tuskin,,Magnus Tjøm,"21/17,21/16",Jonas Ruud Tuskin,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Elise Lærkerød Jelsness,,Henny Lyfjell,"21/13,17/21,21/16",Elise Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Henny Lyfjell,,Kristin Thømt,"21/14,21/19",Henny Lyfjell,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Elise Lærkerød Jelsness,,Berit Thyness,"21/15,21/23,21/12",Elise Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Cecilie Li,,Kristin Thømt,"21/13,21/5",Cecilie Li,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Berit Thyness,,Henny Lyfjell,"17/21,21/17,21/13",Berit Thyness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Cecilie Li,,Elise Lærkerød Jelsness,"21/14,13/21,21/14",Cecilie Li,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Berit Thyness,,Kristin Thømt,"21/11,21/7",Berit Thyness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/15,21/6",Elise Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Cecilie Li,,Berit Thyness,"21/13,21/11",Cecilie Li,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damesingle,,Henny Lyfjell,,Cecilie Li,"21/16,19/21,21/9",Henny Lyfjell,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herredouble,Haakon Lærkerød Jelsness,Mathias Wong,Marius Aga,Daniel Brustad Snorrason,"21/16,21/19",Haakon Lærkerød Jelsness,Mathias Wong
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herredouble,Jonas Ruud Tuskin,Magnus Tjøm,Marius Aga,Daniel Brustad Snorrason,"21/18,21/9",Jonas Ruud Tuskin,Magnus Tjøm
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Herredouble,Jonas Ruud Tuskin,Magnus Tjøm,Haakon Lærkerød Jelsness,Mathias Wong,"21/15,21/15",Jonas Ruud Tuskin,Magnus Tjøm
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damedouble,Henny Lyfjell,Berit Thyness,Kristin Thømt,Bente Sotnes,"21/16,21/12",Henny Lyfjell,Berit Thyness
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damedouble,Henny Lyfjell,Berit Thyness,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/17,21/14",Henny Lyfjell,Berit Thyness
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Damedouble,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Kristin Thømt,Bente Sotnes,"21/17,21/17",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Mixeddouble,Elise Lærkerød Jelsness,Martin Enghaug,Henny Lyfjell,Jonas Ruud Tuskin,"21/15,21/15",Elise Lærkerød Jelsness,Martin Enghaug
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Mixeddouble,Henny Lyfjell,Jonas Ruud Tuskin,Kristin Thømt,Tommy Helander,"21/13,21/18",Henny Lyfjell,Jonas Ruud Tuskin
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Mixeddouble,Jeanette Svendsen,Arben Holstad,Elise Lærkerød Jelsness,Martin Enghaug,"12/21,21/12,21/7",Jeanette Svendsen,Arben Holstad
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Mixeddouble,Jeanette Svendsen,Arben Holstad,Kristin Thømt,Tommy Helander,"21/16,21/6",Jeanette Svendsen,Arben Holstad
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Mixeddouble,Elise Lærkerød Jelsness,Martin Enghaug,Kristin Thømt,Tommy Helander,"17/21,23/21,21/14",Elise Lærkerød Jelsness,Martin Enghaug
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN E,Mixeddouble,Jeanette Svendsen,Arben Holstad,Henny Lyfjell,Jonas Ruud Tuskin,"21/15,21/10",Jeanette Svendsen,Arben Holstad
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,Herresingle,,Baard Janitz,,Noah Andersen,"21/13,21/13",Baard Janitz,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,Damesingle,,Kaisa Isabell Sandboe,,Ingunn Sunde,"21/13,15/21,21/16",Kaisa Isabell Sandboe,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,Damesingle,,Ingunn Sunde,,Camilla Persen,"21/16,21/17",Ingunn Sunde,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN B,Damesingle,,Kaisa Isabell Sandboe,,Camilla Persen,"21/9,21/12",Kaisa Isabell Sandboe,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Damedouble,Ingunn Sunde,Camilla Persen,Merete Ruud Tuskin,Wenche Brinchmann,"16/21,21/12,21/9",Ingunn Sunde,Camilla Persen
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Mixeddouble,Merete Ruud Tuskin,Cao Van Dang,Ingunn Sunde,Camilla Persen,"21/10,19/21,21/18",Merete Ruud Tuskin,Cao Van Dang
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Mixeddouble,Wenche Brinchmann,Jan Erik Beck,Ingunn Sunde,Camilla Persen,"14/21,21/16,21/17",Wenche Brinchmann,Jan Erik Beck
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Ingunn Sunde,Camilla Persen,"21/9,21/6",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Merete Ruud Tuskin,Cao Van Dang,"21/16,21/16",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Mixeddouble,Merete Ruud Tuskin,Cao Van Dang,Wenche Brinchmann,Jan Erik Beck,"21/13,21/16",Merete Ruud Tuskin,Cao Van Dang
+2019/2020,Moss KM/Mossetreffen,19.10.2019,SEN C,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Wenche Brinchmann,Jan Erik Beck,"21/8,21/14",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Shreyas Danve,,Cristiano Berger,"21/14,21/14",Shreyas Danve,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Shreyas Danve,,Aaron Nathaniel Helgesen,"21/13,21/0",Shreyas Danve,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Cristiano Berger,,Vilde Rolfsøn,"21/12,21/12",Cristiano Berger,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Shreyas Danve,,Vaiva Andriulyte,"21/9,21/6",Shreyas Danve,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Cristiano Berger,,Aaron Nathaniel Helgesen,"21/11,21/18",Cristiano Berger,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Cristiano Berger,,Vaiva Andriulyte,"21/7,21/6",Cristiano Berger,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Vilde Rolfsøn,,Aaron Nathaniel Helgesen,"19/21,21/16,21/17",Vilde Rolfsøn,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Aaron Nathaniel Helgesen,,Vaiva Andriulyte,"15/21,22/20,21/14",Aaron Nathaniel Helgesen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Shreyas Danve,,Vilde Rolfsøn,"21/11,21/6",Shreyas Danve,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U11 B,Herresingle,,Vaiva Andriulyte,,Vilde Rolfsøn,"18/21,21/16,21/18",Vaiva Andriulyte,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 A,Herresingle,,Henrik Frende Lavik-Haug,,Adrian Janitz,"21/7,21/18",Henrik Frende Lavik-Haug,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 A,Herredouble,Adam Millan,Vebjørn Isberg Haugan,Farhan Khan,Måns Anders Lund Mabäcker,"21/18,21/19",Adam Millan,Vebjørn Isberg Haugan
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Adam Millan,Vebjørn Isberg Haugan,"21/13,21/10",Adrian Janitz,Henrik Frende Lavik-Haug
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Farhan Khan,Måns Anders Lund Mabäcker,"21/15,21/17",Adrian Janitz,Henrik Frende Lavik-Haug
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Måns Anders Lund Mabäcker,,Vebjørn Isberg Haugan,"21/19,21/14",Måns Anders Lund Mabäcker,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Vebjørn Isberg Haugan,,Adam Millan,"17/21,21/19,21/14",Vebjørn Isberg Haugan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Måns Anders Lund Mabäcker,,Farhan Khan,"21/8,21/5",Måns Anders Lund Mabäcker,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Farhan Khan,,Gard Løkensgard Sørensen,"21/6,21/23,21/9",Farhan Khan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Vebjørn Isberg Haugan,,Gard Løkensgard Sørensen,"21/7,21/3",Vebjørn Isberg Haugan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Vebjørn Isberg Haugan,,Farhan Khan,"21/16,21/18",Vebjørn Isberg Haugan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Adam Millan,,Aksel Victor Sanchis,"27/25,21/14",Adam Millan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Måns Anders Lund Mabäcker,,Shravan Ramkumar,"21/8,21/14",Måns Anders Lund Mabäcker,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Aksel Victor Sanchis,,Shravan Ramkumar,"21/10,21/15",Aksel Victor Sanchis,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Måns Anders Lund Mabäcker,,Adam Millan,"21/18,21/18",Måns Anders Lund Mabäcker,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Måns Anders Lund Mabäcker,,Aksel Victor Sanchis,"21/10,21/12",Måns Anders Lund Mabäcker,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Herresingle,,Adam Millan,,Shravan Ramkumar,"21/18,21/11",Adam Millan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Zara Khan,,Helle Janitz,"19/21,21/12,21/10",Zara Khan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Helena Nonboe Andersen,,Hannah Wong,"21/7,21/9",Helena Nonboe Andersen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Zara Khan,,Laura Ane Opheim,"21/17,8/21,22/20",Zara Khan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Helle Janitz,,Helena Nonboe Andersen,"21/19,21/17",Helle Janitz,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Laura Ane Opheim,,Helle Janitz,"21/14,21/14",Laura Ane Opheim,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Zara Khan,,Hannah Wong,"21/9,21/6",Zara Khan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Laura Ane Opheim,,Helena Nonboe Andersen,"21/13,21/14",Laura Ane Opheim,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Helle Janitz,,Hannah Wong,"21/19,21/13",Helle Janitz,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Laura Ane Opheim,,Hannah Wong,"21/12,21/14",Laura Ane Opheim,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U13 B,Damesingle,,Zara Khan,,Helena Nonboe Andersen,"21/14,21/12",Zara Khan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Mathias Wong,"22/20,24/22",Haakon Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Philip Allport Fossum,"21/11,21/15",Haakon Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Mathias Wong,,Armand Bruun,"21/17,14/21,21/16",Mathias Wong,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Armand Bruun,,Tristan Thøgersen,"21/14,21/15",Armand Bruun,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Magnus Linderoth,"21/23,21/9,21/19",Haakon Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Tristan Thøgersen,"21/17,21/13",Haakon Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Armand Bruun,,Magnus Linderoth,"21/15,21/14",Armand Bruun,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Magnus Linderoth,,Tristan Thøgersen,"21/12,21/13",Magnus Linderoth,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Armand Bruun,"13/21,21/11,21/14",Haakon Lærkerød Jelsness,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Philip Allport Fossum,,Adam Tollisen Leyland,"21/8,21/17",Philip Allport Fossum,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Mathias Wong,,Mikkel Grevsnes,"21/9,21/9",Mathias Wong,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Mathias Wong,,Adam Tollisen Leyland,"21/6,21/7",Mathias Wong,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Philip Allport Fossum,,Mikkel Grevsnes,"21/13,21/15",Philip Allport Fossum,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Mikkel Grevsnes,,Adam Tollisen Leyland,"21/14,21/19",Mikkel Grevsnes,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Herresingle,,Mathias Wong,,Philip Allport Fossum,"21/14,21/16",Mathias Wong,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Mina Korssund,"21/9,21/8",Kristine  Grande Ødegårdstuen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Sofie Jin Reistadbakk,"21/11,21/10",Kristine  Grande Ødegårdstuen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Mina Korssund,,Nicoline Wærsten,"21/17,21/19",Mina Korssund,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Sofie Jin Reistadbakk,,Milla Maevski,"21/8,21/10",Sofie Jin Reistadbakk,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Nicoline Wærsten,,Vilma Aasheim-Engen,"21/17,21/15",Nicoline Wærsten,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Nicoline Wærsten,,Emma Yasmin Ruud,"21/16,21/13",Nicoline Wærsten,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Emma Yasmin Ruud,"21/13,21/8",Kristine  Grande Ødegårdstuen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Nicoline Wærsten,"21/16,21/13",Kristine  Grande Ødegårdstuen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Vilma Aasheim-Engen,,Rakel Millan,"21/12,21/5",Vilma Aasheim-Engen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Milla Maevski,,Rakel Millan,"20/22,21/17,21/16",Milla Maevski,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Vilma Aasheim-Engen,,Milla Maevski,"21/10,21/6",Vilma Aasheim-Engen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Sofie Jin Reistadbakk,,Laura Zeying Du,"21/7,21/10",Sofie Jin Reistadbakk,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Mina Korssund,,Sofie Jin Reistadbakk,"21/17,21/19",Mina Korssund,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damesingle,,Mina Korssund,,Laura Zeying Du,"21/2,21/7",Mina Korssund,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damedouble,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Rakel Millan,Milla Maevski,"21/6,21/6",Sofie Jin Reistadbakk,Emma Yasmin Ruud
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damedouble,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Mina Korssund,Nicoline Wærsten,"21/19,21/13",Sofie Jin Reistadbakk,Emma Yasmin Ruud
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Rakel Millan,Milla Maevski,"21/9,21/9",Mina Korssund,Nicoline Wærsten
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Mixeddouble,Magnus Linderoth,Emma Yasmin Ruud,Sofie Jin Reistadbakk,Fredrik Heiberg,"21/14,21/16",Magnus Linderoth,Emma Yasmin Ruud
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Magnus Linderoth,Emma Yasmin Ruud,"21/9,21/9",Haakon Lærkerød Jelsness,Mina Korssund
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Mathias Wong,Nicoline Wærsten,"21/19,21/15",Haakon Lærkerød Jelsness,Mina Korssund
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Mixeddouble,Mathias Wong,Nicoline Wærsten,Magnus Linderoth,Emma Yasmin Ruud,"21/16,21/13",Mathias Wong,Nicoline Wærsten
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Mixeddouble,Mathias Wong,Nicoline Wærsten,Sofie Jin Reistadbakk,Fredrik Heiberg,"21/12,21/8",Mathias Wong,Nicoline Wærsten
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Sofie Jin Reistadbakk,Fredrik Heiberg,"21/9,21/7",Haakon Lærkerød Jelsness,Mina Korssund
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Herresingle,,Sverre Johann Gundersen,,Jonas Sebastian Vågnes Rolf,"21/4,21/9",Sverre Johann Gundersen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Herresingle,,Fredrik Heiberg,,Leo Oscar Lunde,"21/16,21/11",Fredrik Heiberg,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Herresingle,,Fredrik Heiberg,,Sverre Johann Gundersen,"21/3,21/8",Fredrik Heiberg,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Herresingle,,Leo Oscar Lunde,,Jonas Sebastian Vågnes Rolf,"21/6,21/6",Leo Oscar Lunde,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Herresingle,,Leo Oscar Lunde,,Sverre Johann Gundersen,"21/14,21/11",Leo Oscar Lunde,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Herresingle,,Fredrik Heiberg,,Jonas Sebastian Vågnes Rolf,"21/6,21/1",Fredrik Heiberg,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Oline Hanssen,,Mia Emilie Utne Kristiansen,"21/15,17/21,21/17",Oline Hanssen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Mia Emilie Utne Kristiansen,,Mikaela Stordal,"21/11,21/18",Mia Emilie Utne Kristiansen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Oline Hanssen,,Maryam Khan,"22/20,21/15",Oline Hanssen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Mia Emilie Utne Kristiansen,,Benedicte Olsen,"21/4,21/1",Mia Emilie Utne Kristiansen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Mia Emilie Utne Kristiansen,,Maryam Khan,"21/16,21/15",Mia Emilie Utne Kristiansen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Maryam Khan,,Benedicte Olsen,"21/7,21/7",Maryam Khan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Mikaela Stordal,,Ida Victoria Børslett,"21/5,21/3",Mikaela Stordal,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Oline Hanssen,,Othilie Segtnan,"21/6,21/4",Oline Hanssen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Mikaela Stordal,,Othilie Segtnan,"21/11,21/5",Mikaela Stordal,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Oline Hanssen,,Ida Victoria Børslett,"21/4,21/4",Oline Hanssen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Oline Hanssen,,Mikaela Stordal,"21/10,22/20",Oline Hanssen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damesingle,,Othilie Segtnan,,Ida Victoria Børslett,"21/5,21/7",Othilie Segtnan,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U15 B,Damedouble,Mia Emilie Utne Kristiansen,Oline Hanssen,Zara Khan,Helle Janitz,"21/15,21/6",Mia Emilie Utne Kristiansen,Oline Hanssen
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Andreas Korssund,,Daniel Brustad Snorrason,"21/18,21/5",Andreas Korssund,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Bjørn Deron,,Zhongyan Yu,"21/9,21/17",Bjørn Deron,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Elias Ausen,,Zhongyan Yu,"21/19,16/21,21/19",Elias Ausen,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Andreas Korssund,,Bjørn Deron,"21/11,21/13",Andreas Korssund,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Bjørn Deron,,Daniel Brustad Snorrason,"21/11,21/11",Bjørn Deron,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Andreas Korssund,,Elias Ausen,"21/12,21/11",Andreas Korssund,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Daniel Brustad Snorrason,,Elias Ausen,"23/21,23/25,21/9",Daniel Brustad Snorrason,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Zhongyan Yu,,Andreas Korssund,"21/18,8/21,21/15",Zhongyan Yu,
+2019/2020,Moss KM/Mossetreffen,19.10.2019,U17 A,Herresingle,,Zhongyan Yu,,Daniel Brustad Snorrason,"21/15,19/21,21/19",Zhongyan Yu,

@@ -1,584 +1,397 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Annejet Bos,"21/15,21/19",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/17,21/17",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Annejet Bos,,Mariann Andreassen,"21/18,21/10",Annejet Bos,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Line Klæbo,"21/9,21/9",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Annejet Bos,,Line Klæbo,"21/15,21/13",Annejet Bos,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Mette Skjævesland Pedersen,"26/24,23/21",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Annejet Bos,"21/18,21/13",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mariann Andreassen,,Line Klæbo,"21/16,21/14",Mariann Andreassen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Mariann Andreassen,"19/21,21/14,21/11",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Line Klæbo,"21/10,21/8",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sindre Gjuvsland,Ole Kristian Lie,Vetle Vinnes Bråten,Edvin Nordbø,"23/21,22/20",Sindre Gjuvsland,Ole Kristian Lie
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Vetle Vinnes Bråten,Edvin Nordbø,"21/10,21/9",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Sindre Gjuvsland,Ole Kristian Lie,"21/15,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sondre Lie Foldnes,Dennis Andersen Moe,Gøran Olsen,Ivan Sundt,"23/21,13/21,23/21",Sondre Lie Foldnes,Dennis Andersen Moe
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/16,22/20",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Gøran Olsen,Ivan Sundt,"21/10,21/16",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sondre Lie Foldnes,Dennis Andersen Moe,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/10,21/15",Sondre Lie Foldnes,Dennis Andersen Moe
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Sondre Lie Foldnes,Dennis Andersen Moe,"21/17,21/8",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,Line Klæbo,Annejet Bos,"21/19,21/23,21/19",Svenja Tyrhardt,Ida Marie Thomassen Stiegler
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Julie Langeland Risa,Anne Lie Foldnes,"16/21,21/19,22/20",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Line Klæbo,Annejet Bos,"21/13,21/14",Julie Langeland Risa,Anne Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/5,21/12",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Line Klæbo,Annejet Bos,"21/19,21/6",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/18,19/21,21/16",Julie Langeland Risa,Anne Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Anders Bellesen,"21/17,13/21,21/14",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Torstein Monsen,"21/18,21/18",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Anders Bellesen,,Kjetil Ragde,"21/15,21/16",Anders Bellesen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Kjetil Ragde,,Morten Solsvik,"21/11,21/18",Kjetil Ragde,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Anders Bellesen,,Morten Solsvik,"21/17,21/6",Anders Bellesen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Torstein Monsen,,Apurva Jain,"21/13,14/21,21/15",Torstein Monsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Apurva Jain,,Torstein Vikse Olsen,"21/19,21/10",Apurva Jain,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Torstein Monsen,,Torstein Vikse Olsen,"23/21,21/14",Torstein Monsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Morten Straume,"14/21,21/18,21/14",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Morten Straume,,Aleksej Roman Kustrin Iversen,"21/14,19/21,21/18",Morten Straume,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Aleksej Roman Kustrin Iversen,"21/13,15/21,21/17",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Anders Bellesen,"21/17,13/21,21/14",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Torstein Monsen,"21/18,21/18",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Anders Bellesen,,Kjetil Ragde,"21/15,21/16",Anders Bellesen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Kjetil Ragde,,Morten Solsvik,"21/11,21/18",Kjetil Ragde,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Anders Bellesen,,Morten Solsvik,"21/17,21/6",Anders Bellesen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Torstein Monsen,,Apurva Jain,"21/13,14/21,21/15",Torstein Monsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Apurva Jain,,Torstein Vikse Olsen,"21/19,21/10",Apurva Jain,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Torstein Monsen,,Torstein Vikse Olsen,"23/21,21/14",Torstein Monsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Morten Straume,"14/21,21/18,21/14",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Morten Straume,,Aleksej Roman Kustrin Iversen,"21/14,19/21,21/18",Morten Straume,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,,Dennis Andersen Moe,,Aleksej Roman Kustrin Iversen,"21/13,15/21,21/17",Dennis Andersen Moe,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Mats Lervåg,Torstein Monsen,Aleksej Roman Kustrin Iversen,Simen Mjelva,"21/15,23/21",Mats Lervåg,Torstein Monsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Aleksej Roman Kustrin Iversen,Simen Mjelva,Agus Darmawan,Fery Simbolon,"10/21,21/14,21/8",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Andreas Vikse Dahle,Torstein Vikse Olsen,Vidar Korsnes,Hans Olav Femsteinevik,"21/14,21/16",Andreas Vikse Dahle,Torstein Vikse Olsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Mats Lervåg,Torstein Monsen,Adrian Helle Ekerhovd,Eirik Ekerhovd,"21/12,21/12",Mats Lervåg,Torstein Monsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Andreas Vikse Dahle,Torstein Vikse Olsen,Adrian Helle Ekerhovd,Eirik Ekerhovd,"21/18,8/21,21/17",Andreas Vikse Dahle,Torstein Vikse Olsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Mats Lervåg,Torstein Monsen,Vidar Korsnes,Hans Olav Femsteinevik,"21/12,21/10",Mats Lervåg,Torstein Monsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Mats Lervåg,Torstein Monsen,Andreas Vikse Dahle,Torstein Vikse Olsen,"21/17,21/9",Mats Lervåg,Torstein Monsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Adrian Helle Ekerhovd,Eirik Ekerhovd,Vidar Korsnes,Hans Olav Femsteinevik,"21/13,14/21,21/17",Adrian Helle Ekerhovd,Eirik Ekerhovd
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Aleksej Roman Kustrin Iversen,Simen Mjelva,Håvard Moe Jacobsen,Anders Bellesen,"21/14,21/13",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Aleksej Roman Kustrin Iversen,Simen Mjelva,Tor Egil Frøyland,Reidar Kulshamar,"21/12,21/11",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Tor Egil Frøyland,Reidar Kulshamar,Håvard Moe Jacobsen,Anders Bellesen,"23/21,19/21,24/22",Tor Egil Frøyland,Reidar Kulshamar
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Siby Abraham,Naimish Doshi,William Wilsone Walker,Erik Moe,"19/21,21/14,21/14",Siby Abraham,Naimish Doshi
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Agus Darmawan,Fery Simbolon,William Wilsone Walker,Erik Moe,"21/10,21/7",Agus Darmawan,Fery Simbolon
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Agus Darmawan,Fery Simbolon,Siby Abraham,Naimish Doshi,"21/15,21/12",Agus Darmawan,Fery Simbolon
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Brage Løken-Jacobsen,,Pål Kolstø,"22/24,21/7,22/20",Brage Løken-Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Fery Simbolon,,Ådne Vik,"21/5,21/9",Fery Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Brage Løken-Jacobsen,,Simen Mjelva,"21/17,21/12",Brage Løken-Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Simen Mjelva,,Ådne Vik,"21/4,21/5",Simen Mjelva,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Fery Simbolon,,Brage Løken-Jacobsen,"21/18,15/21,21/16",Fery Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Brage Løken-Jacobsen,,Ådne Vik,"21/2,21/2",Brage Løken-Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Simen Mjelva,,Fery Simbolon,"21/16,21/18",Simen Mjelva,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Tor Egil Frøyland,,Pål Kolstø,"21/14,21/12",Tor Egil Frøyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Eirik Ekerhovd,,Vidar Korsnes,"20/22,21/18,21/15",Eirik Ekerhovd,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Pål Kolstø,,Eirik Ekerhovd,"21/18,21/16",Pål Kolstø,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Vidar Korsnes,,Tor Egil Frøyland,"23/21,21/11",Vidar Korsnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Pål Kolstø,,Vidar Korsnes,"21/12,21/15",Pål Kolstø,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Eirik Ekerhovd,,Tor Egil Frøyland,"9/21,21/12,21/12",Eirik Ekerhovd,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Brage Løken-Jacobsen,,Pål Kolstø,"22/24,21/7,22/20",Brage Løken-Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Fery Simbolon,,Ådne Vik,"21/5,21/9",Fery Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Brage Løken-Jacobsen,,Simen Mjelva,"21/17,21/12",Brage Løken-Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Simen Mjelva,,Ådne Vik,"21/4,21/5",Simen Mjelva,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Fery Simbolon,,Brage Løken-Jacobsen,"21/18,15/21,21/16",Fery Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Brage Løken-Jacobsen,,Ådne Vik,"21/2,21/2",Brage Løken-Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Simen Mjelva,,Fery Simbolon,"21/16,21/18",Simen Mjelva,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Tor Egil Frøyland,,Pål Kolstø,"21/14,21/12",Tor Egil Frøyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Eirik Ekerhovd,,Vidar Korsnes,"20/22,21/18,21/15",Eirik Ekerhovd,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Pål Kolstø,,Eirik Ekerhovd,"21/18,21/16",Pål Kolstø,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Vidar Korsnes,,Tor Egil Frøyland,"23/21,21/11",Vidar Korsnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Pål Kolstø,,Vidar Korsnes,"21/12,21/15",Pål Kolstø,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Eirik Ekerhovd,,Tor Egil Frøyland,"9/21,21/12,21/12",Eirik Ekerhovd,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Sara Bellesen,,Therese Meland,"21/10,23/21",Sara Bellesen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Bao Quynh Truong,,Therese Meland,"24/22,14/21,21/18",Bao Quynh Truong,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Bao Quynh Truong,,Ida Marie Thomassen Stiegler,"21/16,21/18",Bao Quynh Truong,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Bao Quynh Truong,,Sara Bellesen,"21/16,21/10",Bao Quynh Truong,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Ida Marie Thomassen Stiegler,,Therese Meland,"21/13,21/11",Ida Marie Thomassen Stiegler,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,,Sara Bellesen,,Ida Marie Thomassen Stiegler,"21/18,21/7",Sara Bellesen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Stian Horvei,"21/16,24/22",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Jarle Andresen,"21/19,21/4",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Stian Lie,"21/15,21/16",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Jim Høyland,"21/14,21/15",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Endre Lindheim,"21/18,27/25",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Magnus Severinsen,,Markus Vik,"21/18,21/19",Magnus Severinsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jarle Andresen,,Peter Julian Sundberg,"21/18,21/18",Jarle Andresen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Peter Julian Sundberg,,Markus Vik,"21/14,21/14",Peter Julian Sundberg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Einar Morgan Utne,,Magnus Severinsen,"21/7,18/21,21/11",Einar Morgan Utne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Einar Morgan Utne,,Markus Vik,"21/14,21/13",Einar Morgan Utne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jarle Andresen,,Magnus Severinsen,"25/23,19/21,21/17",Jarle Andresen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jarle Andresen,,Markus Vik,"22/20,21/4",Jarle Andresen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Peter Julian Sundberg,,Einar Morgan Utne,"21/19,13/21,21/14",Peter Julian Sundberg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Peter Julian Sundberg,,Magnus Severinsen,"21/10,21/11",Peter Julian Sundberg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Einar Morgan Utne,,Jarle Andresen,"26/24,18/21,23/21",Einar Morgan Utne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Haarr Dyvik,,Sverre Svensen,"13/21,22/20,21/15",Per Haarr Dyvik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jim Høyland,,Morten Amundsen,"21/10,21/15",Jim Høyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Sverre Svensen,,Morten Amundsen,"21/13,21/6",Sverre Svensen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jim Høyland,,Per Haarr Dyvik,"15/21,21/14,21/15",Jim Høyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jim Høyland,,Sverre Svensen,"21/19,19/21,21/12",Jim Høyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Haarr Dyvik,,Morten Amundsen,"21/11,21/13",Per Haarr Dyvik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Audun Knutsønn Hauge,,Sondre Thoresen Tendeland,"21/13,21/16",Audun Knutsønn Hauge,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Ferdinand Line Forgaard,"21/16,21/14",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Audun Knutsønn Hauge,,Ferdinand Line Forgaard,"21/15,24/22",Audun Knutsønn Hauge,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Sondre Thoresen Tendeland,"20/22,21/11,21/10",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Audun Knutsønn Hauge,"21/16,21/10",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Ferdinand Line Forgaard,,Sondre Thoresen Tendeland,"21/18,14/21,22/20",Ferdinand Line Forgaard,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Tommy Bjørkelund,,Jørgen Schanke Grude,"21/15,21/5",Tommy Bjørkelund,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Endre Lindheim,,Simen Prestnes Fosså,"20/22,21/12,21/14",Endre Lindheim,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Tommy Bjørkelund,,Simen Prestnes Fosså,"21/15,21/17",Tommy Bjørkelund,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Andreas Vikse Dahle,,Jørgen Schanke Grude,"21/7,21/4",Andreas Vikse Dahle,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Tommy Bjørkelund,,Andreas Vikse Dahle,"21/11,21/13",Tommy Bjørkelund,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Endre Lindheim,,Jørgen Schanke Grude,"21/8,21/13",Endre Lindheim,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Andreas Vikse Dahle,,Simen Prestnes Fosså,"21/14,21/17",Andreas Vikse Dahle,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Simen Prestnes Fosså,,Jørgen Schanke Grude,"21/9,21/11",Simen Prestnes Fosså,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Endre Lindheim,,Andreas Vikse Dahle,"21/16,21/9",Endre Lindheim,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Bohman,,Svein Hjertholm,"21/14,21/13",Per Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Håvard Moe Jacobsen,"21/19,21/9",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Bohman,,Håvard Moe Jacobsen,"21/18,21/16",Per Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Svein Hjertholm,"21/13,21/11",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Per Bohman,"21/14,21/8",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Håvard Moe Jacobsen,,Svein Hjertholm,"21/10,21/12",Håvard Moe Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Ole Håvard Rustad,,Christian Haugstad Mathisen,"21/16,21/9",Ole Håvard Rustad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Hans Olav Femsteinevik,,Reavan Victor Thorsteinsson,"21/15,21/14",Hans Olav Femsteinevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Hans Olav Femsteinevik,,Christian Haugstad Mathisen,"21/6,21/8",Hans Olav Femsteinevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Lie,,Ole Håvard Rustad,"21/16,21/9",Stian Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Reavan Victor Thorsteinsson,,Ole Håvard Rustad,"21/8,21/9",Reavan Victor Thorsteinsson,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Lie,,Hans Olav Femsteinevik,"21/12,21/12",Stian Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Hans Olav Femsteinevik,,Ole Håvard Rustad,"21/14,21/11",Hans Olav Femsteinevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Lie,,Reavan Victor Thorsteinsson,"21/14,23/21",Stian Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Stian Horvei,"21/16,24/22",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Jarle Andresen,"21/19,21/4",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Stian Lie,"21/15,21/16",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Jim Høyland,"21/14,21/15",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Endre Lindheim,"21/18,27/25",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Magnus Severinsen,,Markus Vik,"21/18,21/19",Magnus Severinsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jarle Andresen,,Peter Julian Sundberg,"21/18,21/18",Jarle Andresen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Peter Julian Sundberg,,Markus Vik,"21/14,21/14",Peter Julian Sundberg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Einar Morgan Utne,,Magnus Severinsen,"21/7,18/21,21/11",Einar Morgan Utne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Einar Morgan Utne,,Markus Vik,"21/14,21/13",Einar Morgan Utne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jarle Andresen,,Magnus Severinsen,"25/23,19/21,21/17",Jarle Andresen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jarle Andresen,,Markus Vik,"22/20,21/4",Jarle Andresen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Peter Julian Sundberg,,Einar Morgan Utne,"21/19,13/21,21/14",Peter Julian Sundberg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Peter Julian Sundberg,,Magnus Severinsen,"21/10,21/11",Peter Julian Sundberg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Einar Morgan Utne,,Jarle Andresen,"26/24,18/21,23/21",Einar Morgan Utne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Haarr Dyvik,,Sverre Svensen,"13/21,22/20,21/15",Per Haarr Dyvik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jim Høyland,,Morten Amundsen,"21/10,21/15",Jim Høyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Sverre Svensen,,Morten Amundsen,"21/13,21/6",Sverre Svensen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jim Høyland,,Per Haarr Dyvik,"15/21,21/14,21/15",Jim Høyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Jim Høyland,,Sverre Svensen,"21/19,19/21,21/12",Jim Høyland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Haarr Dyvik,,Morten Amundsen,"21/11,21/13",Per Haarr Dyvik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Audun Knutsønn Hauge,,Sondre Thoresen Tendeland,"21/13,21/16",Audun Knutsønn Hauge,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Ferdinand Line Forgaard,"21/16,21/14",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Audun Knutsønn Hauge,,Ferdinand Line Forgaard,"21/15,24/22",Audun Knutsønn Hauge,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Sondre Thoresen Tendeland,"20/22,21/11,21/10",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Horvei,,Audun Knutsønn Hauge,"21/16,21/10",Stian Horvei,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Ferdinand Line Forgaard,,Sondre Thoresen Tendeland,"21/18,14/21,22/20",Ferdinand Line Forgaard,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Tommy Bjørkelund,,Jørgen Schanke Grude,"21/15,21/5",Tommy Bjørkelund,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Endre Lindheim,,Simen Prestnes Fosså,"20/22,21/12,21/14",Endre Lindheim,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Tommy Bjørkelund,,Simen Prestnes Fosså,"21/15,21/17",Tommy Bjørkelund,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Andreas Vikse Dahle,,Jørgen Schanke Grude,"21/7,21/4",Andreas Vikse Dahle,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Tommy Bjørkelund,,Andreas Vikse Dahle,"21/11,21/13",Tommy Bjørkelund,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Endre Lindheim,,Jørgen Schanke Grude,"21/8,21/13",Endre Lindheim,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Andreas Vikse Dahle,,Simen Prestnes Fosså,"21/14,21/17",Andreas Vikse Dahle,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Simen Prestnes Fosså,,Jørgen Schanke Grude,"21/9,21/11",Simen Prestnes Fosså,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Endre Lindheim,,Andreas Vikse Dahle,"21/16,21/9",Endre Lindheim,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Bohman,,Svein Hjertholm,"21/14,21/13",Per Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Håvard Moe Jacobsen,"21/19,21/9",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Per Bohman,,Håvard Moe Jacobsen,"21/18,21/16",Per Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Svein Hjertholm,"21/13,21/11",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Leiv Arne Risa,,Per Bohman,"21/14,21/8",Leiv Arne Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Håvard Moe Jacobsen,,Svein Hjertholm,"21/10,21/12",Håvard Moe Jacobsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Ole Håvard Rustad,,Christian Haugstad Mathisen,"21/16,21/9",Ole Håvard Rustad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Hans Olav Femsteinevik,,Reavan Victor Thorsteinsson,"21/15,21/14",Hans Olav Femsteinevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Hans Olav Femsteinevik,,Christian Haugstad Mathisen,"21/6,21/8",Hans Olav Femsteinevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Lie,,Ole Håvard Rustad,"21/16,21/9",Stian Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Reavan Victor Thorsteinsson,,Ole Håvard Rustad,"21/8,21/9",Reavan Victor Thorsteinsson,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Lie,,Hans Olav Femsteinevik,"21/12,21/12",Stian Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Hans Olav Femsteinevik,,Ole Håvard Rustad,"21/14,21/11",Hans Olav Femsteinevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Stian Lie,,Reavan Victor Thorsteinsson,"21/14,23/21",Stian Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Lena Gloppen,,Johanne Salthella,"21/18,21/17",Lena Gloppen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Katrine Aske,,Tetiana Yakovenko,"21/6,21/1",Katrine Aske,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Lena Gloppen,,Tetiana Yakovenko,"21/7,21/6",Lena Gloppen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Lena Gloppen,,Katrine Aske,"21/12,21/18",Lena Gloppen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Johanne Salthella,,Kjersti Hestenes,"21/19,21/14",Johanne Salthella,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Kjersti Hestenes,,Nora Lindanger,"21/11,21/13",Kjersti Hestenes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,,Johanne Salthella,,Nora Lindanger,"21/10,21/11",Johanne Salthella,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Ashutosh  Dubey,Anilkumar Unnithan,"22/24,21/13,21/15",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Stian Horvei,Peter Julian Sundberg,"21/11,21/17",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Ashutosh  Dubey,Anilkumar Unnithan,Svein Hjertholm,Pål Kolstø,"21/12,21/19",Ashutosh  Dubey,Anilkumar Unnithan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Brage Løken-Jacobsen,Emil Lien Akre,Ole Håvard Rustad,Magnus Severinsen,"21/8,21/11",Brage Løken-Jacobsen,Emil Lien Akre
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Ole Håvard Rustad,Magnus Severinsen,"21/13,21/12",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Brage Løken-Jacobsen,Emil Lien Akre,"21/12,21/15",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Simen Prestnes Fosså,Jarle Andresen,Sondre Thoresen Tendeland,Per Haarr Dyvik,"21/13,14/21,22/20",Simen Prestnes Fosså,Jarle Andresen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Stian Horvei,Peter Julian Sundberg,Jørgen Schanke Grude,Ferdinand Line Forgaard,"21/7,23/21",Stian Horvei,Peter Julian Sundberg
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sondre Thoresen Tendeland,Per Haarr Dyvik,Jørgen Schanke Grude,Ferdinand Line Forgaard,"21/8,21/19",Sondre Thoresen Tendeland,Per Haarr Dyvik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Stian Horvei,Peter Julian Sundberg,Simen Prestnes Fosså,Jarle Andresen,"16/21,21/19,21/15",Stian Horvei,Peter Julian Sundberg
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Stian Horvei,Peter Julian Sundberg,Sondre Thoresen Tendeland,Per Haarr Dyvik,"21/19,21/14",Stian Horvei,Peter Julian Sundberg
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Simen Prestnes Fosså,Jarle Andresen,Jørgen Schanke Grude,Ferdinand Line Forgaard,"21/14,21/9",Simen Prestnes Fosså,Jarle Andresen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Jim Høyland,Sverre Svensen,Georg Solli,Jone Kannelønning,"21/10,21/8",Jim Høyland,Sverre Svensen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Svein Hjertholm,Pål Kolstø,Jim Høyland,Sverre Svensen,"21/17,21/13",Svein Hjertholm,Pål Kolstø
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Svein Hjertholm,Pål Kolstø,Georg Solli,Jone Kannelønning,"21/4,21/8",Svein Hjertholm,Pål Kolstø
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Jostein Urheim,Morten Amundsen,Audun Knutsønn Hauge,Stian Lie,"21/11,21/8",Jostein Urheim,Morten Amundsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Ashutosh  Dubey,Anilkumar Unnithan,Jostein Urheim,Morten Amundsen,"21/17,21/16",Ashutosh  Dubey,Anilkumar Unnithan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Ashutosh  Dubey,Anilkumar Unnithan,Audun Knutsønn Hauge,Stian Lie,"21/9,21/15",Ashutosh  Dubey,Anilkumar Unnithan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Lena Gloppen,Bao Quynh Truong,Ann Elin Digernes,Ingeborg Halvorsen,"21/16,21/13",Lena Gloppen,Bao Quynh Truong
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Maurina Adriana,Audrina Ammara Darmawan,Emily Linn Wallace,Anne Lisbet Flåten,"21/15,21/18",Maurina Adriana,Audrina Ammara Darmawan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Maurina Adriana,Audrina Ammara Darmawan,Ann Elin Digernes,Ingeborg Halvorsen,"21/12,21/13",Maurina Adriana,Audrina Ammara Darmawan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Lena Gloppen,Bao Quynh Truong,Sara Bellesen,Nora Lindanger,"21/19,21/16",Lena Gloppen,Bao Quynh Truong
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sara Bellesen,Nora Lindanger,Ann Elin Digernes,Ingeborg Halvorsen,"21/16,21/18",Sara Bellesen,Nora Lindanger
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Lena Gloppen,Bao Quynh Truong,Emily Linn Wallace,Anne Lisbet Flåten,"21/17,21/18",Lena Gloppen,Bao Quynh Truong
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Emily Linn Wallace,Anne Lisbet Flåten,Ann Elin Digernes,Ingeborg Halvorsen,"21/7,21/14",Emily Linn Wallace,Anne Lisbet Flåten
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sara Bellesen,Nora Lindanger,Maurina Adriana,Audrina Ammara Darmawan,"21/16,21/16",Sara Bellesen,Nora Lindanger
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Lena Gloppen,Bao Quynh Truong,Maurina Adriana,Audrina Ammara Darmawan,"21/12,21/18",Lena Gloppen,Bao Quynh Truong
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Sara Bellesen,Nora Lindanger,Emily Linn Wallace,Anne Lisbet Flåten,"22/20,21/13",Sara Bellesen,Nora Lindanger
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Annejet Bos,"21/15,21/19",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/17,21/17",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Annejet Bos,,Mariann Andreassen,"21/18,21/10",Annejet Bos,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Line Klæbo,"21/9,21/9",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Annejet Bos,,Line Klæbo,"21/15,21/13",Annejet Bos,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Mette Skjævesland Pedersen,"26/24,23/21",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Annejet Bos,"21/18,21/13",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mariann Andreassen,,Line Klæbo,"21/16,21/14",Mariann Andreassen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Mariann Andreassen,"19/21,21/14,21/11",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Line Klæbo,"21/10,21/8",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sindre Gjuvsland,Ole Kristian Lie,Vetle Vinnes Bråten,Edvin Nordbø,"23/21,22/20",Sindre Gjuvsland,Ole Kristian Lie
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Vetle Vinnes Bråten,Edvin Nordbø,"21/10,21/9",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Sindre Gjuvsland,Ole Kristian Lie,"21/15,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sondre Lie Foldnes,Dennis Andersen Moe,Gøran Olsen,Ivan Sundt,"23/21,13/21,23/21",Sondre Lie Foldnes,Dennis Andersen Moe
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/16,22/20",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Gøran Olsen,Ivan Sundt,"21/10,21/16",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sondre Lie Foldnes,Dennis Andersen Moe,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/10,21/15",Sondre Lie Foldnes,Dennis Andersen Moe
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Sondre Lie Foldnes,Dennis Andersen Moe,"21/17,21/8",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,Line Klæbo,Annejet Bos,"21/19,21/23,21/19",Svenja Tyrhardt,Ida Marie Thomassen Stiegler
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Julie Langeland Risa,Anne Lie Foldnes,"16/21,21/19,22/20",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Line Klæbo,Annejet Bos,"21/13,21/14",Julie Langeland Risa,Anne Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/5,21/12",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Line Klæbo,Annejet Bos,"21/19,21/6",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/18,19/21,21/16",Julie Langeland Risa,Anne Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Annejet Bos,"21/15,21/19",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/17,21/17",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Annejet Bos,,Mariann Andreassen,"21/18,21/10",Annejet Bos,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Line Klæbo,"21/9,21/9",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Annejet Bos,,Line Klæbo,"21/15,21/13",Annejet Bos,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Mette Skjævesland Pedersen,"26/24,23/21",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Annejet Bos,"21/18,21/13",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mariann Andreassen,,Line Klæbo,"21/16,21/14",Mariann Andreassen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Nikol Hermansen,,Mariann Andreassen,"19/21,21/14,21/11",Nikol Hermansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,,Mette Skjævesland Pedersen,,Line Klæbo,"21/10,21/8",Mette Skjævesland Pedersen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sindre Gjuvsland,Ole Kristian Lie,Vetle Vinnes Bråten,Edvin Nordbø,"23/21,22/20",Sindre Gjuvsland,Ole Kristian Lie
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Vetle Vinnes Bråten,Edvin Nordbø,"21/10,21/9",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Sindre Gjuvsland,Ole Kristian Lie,"21/15,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sondre Lie Foldnes,Dennis Andersen Moe,Gøran Olsen,Ivan Sundt,"23/21,13/21,23/21",Sondre Lie Foldnes,Dennis Andersen Moe
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/16,22/20",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Gøran Olsen,Ivan Sundt,"21/10,21/16",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Sondre Lie Foldnes,Dennis Andersen Moe,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/10,21/15",Sondre Lie Foldnes,Dennis Andersen Moe
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Vijay Ramaswamy,Yahya Januarilham,Sondre Lie Foldnes,Dennis Andersen Moe,"21/17,21/8",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,Line Klæbo,Annejet Bos,"21/19,21/23,21/19",Svenja Tyrhardt,Ida Marie Thomassen Stiegler
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Julie Langeland Risa,Anne Lie Foldnes,"16/21,21/19,22/20",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Line Klæbo,Annejet Bos,"21/13,21/14",Julie Langeland Risa,Anne Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/5,21/12",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mette Skjævesland Pedersen,Nikol Hermansen,Line Klæbo,Annejet Bos,"21/19,21/6",Mette Skjævesland Pedersen,Nikol Hermansen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/18,19/21,21/16",Julie Langeland Risa,Anne Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,,Amalie Langeland Risa,,Mariam Sheikh,"21/18,21/14",Amalie Langeland Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,,Amalie Langeland Risa,,Danielle Martinsen,"21/11,21/3",Amalie Langeland Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,,Mariam Sheikh,,Danielle Martinsen,"21/7,21/11",Mariam Sheikh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,,Amalie Langeland Risa,,Mariam Sheikh,"21/18,21/14",Amalie Langeland Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,,Amalie Langeland Risa,,Danielle Martinsen,"21/11,21/3",Amalie Langeland Risa,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,,Mariam Sheikh,,Danielle Martinsen,"21/7,21/11",Mariam Sheikh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Vetle Ystaas,Gabriel Alexander Simbolon,Alma Lund,Danielle Martinsen,"21/11,21/8",Vetle Ystaas,Gabriel Alexander Simbolon
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Noris Ekanger,Amalie Langeland Risa,Anna Thomson,Alida Helland,"21/1,21/7",Noris Ekanger,Amalie Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Vetle Ystaas,Gabriel Alexander Simbolon,Anna Thomson,Alida Helland,"21/17,21/11",Vetle Ystaas,Gabriel Alexander Simbolon
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Noris Ekanger,Amalie Langeland Risa,Alma Lund,Danielle Martinsen,"21/7,21/5",Noris Ekanger,Amalie Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Noris Ekanger,Amalie Langeland Risa,Vetle Ystaas,Gabriel Alexander Simbolon,"21/9,21/6",Noris Ekanger,Amalie Langeland Risa
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Anna Thomson,Alida Helland,Alma Lund,Danielle Martinsen,"21/17,21/12",Anna Thomson,Alida Helland
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Noris Ekanger,,Audvin Jansen,"21/7,21/10",Noris Ekanger,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Noris Ekanger,,Eliah Alsaker,"21/5,21/7",Noris Ekanger,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Gabriel Alexander Simbolon,,Eliah Alsaker,"21/7,21/18",Gabriel Alexander Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Noris Ekanger,,Gabriel Alexander Simbolon,"21/11,21/7",Noris Ekanger,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Audvin Jansen,,Vetle Ystaas,"21/7,21/8",Audvin Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Audvin Jansen,,Thomas Davidsen Vikshåland,"21/18,21/16",Audvin Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Thomas Davidsen Vikshåland,,Vetle Ystaas,"21/15,21/19",Thomas Davidsen Vikshåland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Noris Ekanger,,Audvin Jansen,"21/7,21/10",Noris Ekanger,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Noris Ekanger,,Eliah Alsaker,"21/5,21/7",Noris Ekanger,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Gabriel Alexander Simbolon,,Eliah Alsaker,"21/7,21/18",Gabriel Alexander Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Noris Ekanger,,Gabriel Alexander Simbolon,"21/11,21/7",Noris Ekanger,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Audvin Jansen,,Vetle Ystaas,"21/7,21/8",Audvin Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Audvin Jansen,,Thomas Davidsen Vikshåland,"21/18,21/16",Audvin Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Thomas Davidsen Vikshåland,,Vetle Ystaas,"21/15,21/19",Thomas Davidsen Vikshåland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Anna Thomson,,Tiana Tveit Mosdal,"24/22,21/14",Anna Thomson,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Alida Helland,,Anna Thomson,"22/20,21/11",Alida Helland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,,Alida Helland,,Tiana Tveit Mosdal,"21/5,21/8",Alida Helland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Oliver Hansen,"21/10,20/22,21/16",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Levi Stueland Bjørkavåg,"21/19,21/18",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Even Øyen Selsaas,"22/20,18/21,21/12",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Levi Stueland Bjørkavåg,,Thorben Mikal Ekren Ludvig,"21/12,21/16",Levi Stueland Bjørkavåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Aleksander Hettervik Trapp,"21/10,21/3",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Markus Ekerhovd Sylta,"21/9,21/11",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Even Øyen Selsaas,,Kristoffer Tobota-Johannessen,"21/15,21/10",Even Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Levi Stueland Bjørkavåg,,Nicolas Amadeus Simbolon,"21/17,21/12",Levi Stueland Bjørkavåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Max Straume,"17/21,21/12,21/6",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Markus Ekerhovd Sylta,,William Økland Henriksen,"21/5,21/14",Markus Ekerhovd Sylta,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Kristoffer Tobota-Johannessen,,Henrik Grønning Strømfors,"21/7,21/14",Kristoffer Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Markus Ekerhovd Sylta,,Simen Våge Sætersdal,"24/22,21/12",Markus Ekerhovd Sylta,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"21/13,21/8",Thorben Mikal Ekren Ludvig,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Thorben Mikal Ekren Ludvig,,Markus Ekerhovd Sylta,"21/12,21/11",Thorben Mikal Ekren Ludvig,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Levi Stueland Bjørkavåg,,William Økland Henriksen,"21/8,21/9",Levi Stueland Bjørkavåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Aleksander Hettervik Trapp,,Emanuel Johan Nyvoll,"21/9,21/17",Aleksander Hettervik Trapp,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Aleksander Hettervik Trapp,,Henrik Grønning Strømfors,"24/22,21/9",Aleksander Hettervik Trapp,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Henrik Grønning Strømfors,,Emanuel Johan Nyvoll,"21/14,19/21,21/19",Henrik Grønning Strømfors,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Leopold Ormazabal Holden,"21/7,21/6",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Nicolas Amadeus Simbolon,"21/7,21/10",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Nicolas Amadeus Simbolon,,Leopold Ormazabal Holden,"21/6,21/8",Nicolas Amadeus Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Filip Skrunes Sundt,"21/13,21/19",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Kristoffer Tobota-Johannessen,,Oliver Hansen,"21/18,22/20",Kristoffer Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Filip Skrunes Sundt,,Kristoffer Tobota-Johannessen,"18/21,21/12,21/17",Filip Skrunes Sundt,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Max Straume,,Noah Midtbø Larsen,"21/10,21/15",Max Straume,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Even Øyen Selsaas,,Noah Midtbø Larsen,"21/0,21/3",Even Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Even Øyen Selsaas,,Max Straume,"15/21,21/14,21/14",Even Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Oliver Hansen,"21/10,20/22,21/16",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Levi Stueland Bjørkavåg,"21/19,21/18",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Even Øyen Selsaas,"22/20,18/21,21/12",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Levi Stueland Bjørkavåg,,Thorben Mikal Ekren Ludvig,"21/12,21/16",Levi Stueland Bjørkavåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Aleksander Hettervik Trapp,"21/10,21/3",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Markus Ekerhovd Sylta,"21/9,21/11",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Even Øyen Selsaas,,Kristoffer Tobota-Johannessen,"21/15,21/10",Even Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Levi Stueland Bjørkavåg,,Nicolas Amadeus Simbolon,"21/17,21/12",Levi Stueland Bjørkavåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Max Straume,"17/21,21/12,21/6",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Markus Ekerhovd Sylta,,William Økland Henriksen,"21/5,21/14",Markus Ekerhovd Sylta,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Kristoffer Tobota-Johannessen,,Henrik Grønning Strømfors,"21/7,21/14",Kristoffer Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Markus Ekerhovd Sylta,,Simen Våge Sætersdal,"24/22,21/12",Markus Ekerhovd Sylta,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"21/13,21/8",Thorben Mikal Ekren Ludvig,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Thorben Mikal Ekren Ludvig,,Markus Ekerhovd Sylta,"21/12,21/11",Thorben Mikal Ekren Ludvig,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Levi Stueland Bjørkavåg,,William Økland Henriksen,"21/8,21/9",Levi Stueland Bjørkavåg,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Aleksander Hettervik Trapp,,Emanuel Johan Nyvoll,"21/9,21/17",Aleksander Hettervik Trapp,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Aleksander Hettervik Trapp,,Henrik Grønning Strømfors,"24/22,21/9",Aleksander Hettervik Trapp,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Henrik Grønning Strømfors,,Emanuel Johan Nyvoll,"21/14,19/21,21/19",Henrik Grønning Strømfors,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Leopold Ormazabal Holden,"21/7,21/6",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Alexander Tobota-Johannessen,,Nicolas Amadeus Simbolon,"21/7,21/10",Alexander Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Nicolas Amadeus Simbolon,,Leopold Ormazabal Holden,"21/6,21/8",Nicolas Amadeus Simbolon,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Oliver Hansen,,Filip Skrunes Sundt,"21/13,21/19",Oliver Hansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Kristoffer Tobota-Johannessen,,Oliver Hansen,"21/18,22/20",Kristoffer Tobota-Johannessen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Filip Skrunes Sundt,,Kristoffer Tobota-Johannessen,"18/21,21/12,21/17",Filip Skrunes Sundt,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Max Straume,,Noah Midtbø Larsen,"21/10,21/15",Max Straume,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Even Øyen Selsaas,,Noah Midtbø Larsen,"21/0,21/3",Even Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Even Øyen Selsaas,,Max Straume,"15/21,21/14,21/14",Even Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Elisabeth Lie,,Tanaya Nalawade,"22/20,21/18",Elisabeth Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Tanaya Nalawade,,Lotta Birkeland Bergtun,"21/17,21/17",Tanaya Nalawade,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,,Elisabeth Lie,,Lotta Birkeland Bergtun,"21/19,21/10",Elisabeth Lie,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Vyom Naimish Doshi,Ashwath Anandathirthan,Filip Skrunes Sundt,Even Øyen Selsaas,"21/16,21/9",Vyom Naimish Doshi,Ashwath Anandathirthan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,Filip Skrunes Sundt,Even Øyen Selsaas,"20/22,21/12,21/13",Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Vyom Naimish Doshi,Ashwath Anandathirthan,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"19/21,21/19,21/12",Vyom Naimish Doshi,Ashwath Anandathirthan
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Nanna Helena Rikala Olsen,"21/5,21/14",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Christine Torsvik Loga,,Lilja Lothe Ringen,"21/2,21/5",Christine Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Laura Hus,,Lilja Lothe Ringen,"21/16,21/8",Laura Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Christine Torsvik Loga,"21/19,21/13",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Laura Hus,,Nanna Helena Rikala Olsen,"21/13,21/11",Laura Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Lilja Lothe Ringen,"21/7,21/4",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Lilja Lothe Ringen,,Nanna Helena Rikala Olsen,"21/17,14/21,21/14",Lilja Lothe Ringen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Christine Torsvik Loga,,Laura Hus,"21/9,21/11",Christine Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Christine Torsvik Loga,,Nanna Helena Rikala Olsen,"21/4,21/4",Christine Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Laura Hus,"21/6,21/8",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Nanna Helena Rikala Olsen,"21/5,21/14",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Christine Torsvik Loga,,Lilja Lothe Ringen,"21/2,21/5",Christine Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Laura Hus,,Lilja Lothe Ringen,"21/16,21/8",Laura Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Christine Torsvik Loga,"21/19,21/13",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Laura Hus,,Nanna Helena Rikala Olsen,"21/13,21/11",Laura Hus,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Lilja Lothe Ringen,"21/7,21/4",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Lilja Lothe Ringen,,Nanna Helena Rikala Olsen,"21/17,14/21,21/14",Lilja Lothe Ringen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Christine Torsvik Loga,,Laura Hus,"21/9,21/11",Christine Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Christine Torsvik Loga,,Nanna Helena Rikala Olsen,"21/4,21/4",Christine Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,,Kruthika Raghavan Subodh,,Laura Hus,"21/6,21/8",Kruthika Raghavan Subodh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Oliver Hansen,Simon Leonard Knarr,Markus Ekerhovd Sylta,William Økland Henriksen,"11/21,21/19,21/15",Oliver Hansen,Simon Leonard Knarr
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Simen Våge Sætersdal,Max Straume,Henrik Grønning Strømfors,Nicolas Amadeus Simbolon,"21/7,21/9",Simen Våge Sætersdal,Max Straume
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Oliver Hansen,Simon Leonard Knarr,Henrik Grønning Strømfors,Nicolas Amadeus Simbolon,"21/15,21/11",Oliver Hansen,Simon Leonard Knarr
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Markus Ekerhovd Sylta,William Økland Henriksen,Henrik Grønning Strømfors,Nicolas Amadeus Simbolon,"21/10,21/11",Markus Ekerhovd Sylta,William Økland Henriksen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Simen Våge Sætersdal,Max Straume,Oliver Hansen,Simon Leonard Knarr,"21/14,21/15",Simen Våge Sætersdal,Max Straume
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Lotta Birkeland Bergtun,Kruthika Raghavan Subodh,Tanaya Nalawade,Lilja Lothe Ringen,"21/19,21/9",Lotta Birkeland Bergtun,Kruthika Raghavan Subodh
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Christine Torsvik Loga,Elisabeth Lie,Lotta Birkeland Bergtun,Kruthika Raghavan Subodh,"16/21,21/14,21/6",Christine Torsvik Loga,Elisabeth Lie
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Christine Torsvik Loga,Elisabeth Lie,Tanaya Nalawade,Lilja Lothe Ringen,"21/16,21/12",Christine Torsvik Loga,Elisabeth Lie
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Martin Våge Sætersdal,"21/10,21/19",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Martin Våge Sætersdal,,Mathias Kallevik,"21/18,21/19",Martin Våge Sætersdal,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Aksel Eriksen Johnsen,"21/17,21/12",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Mathias Kallevik,,Vyom Naimish Doshi,"23/21,21/8",Mathias Kallevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Aksel Eriksen Johnsen,,Eskild Røssland,"21/18,16/21,21/14",Aksel Eriksen Johnsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Martin Våge Sætersdal,,Julian Økland Henriksen,"21/9,21/9",Martin Våge Sætersdal,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Aksel Eriksen Johnsen,,Julian Økland Henriksen,"21/19,21/16",Aksel Eriksen Johnsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Martin Våge Sætersdal,,Aksel Eriksen Johnsen,"21/10,21/11",Martin Våge Sætersdal,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Vyom Naimish Doshi,,Ashwath Anandathirthan,"21/13,21/17",Vyom Naimish Doshi,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Eskild Røssland,,Ashwath Anandathirthan,"21/12,21/12",Eskild Røssland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Eskild Røssland,,Vyom Naimish Doshi,"22/20,21/12",Eskild Røssland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Mathias Kallevik,,William Njøten Myrvang,"21/19,17/21,21/19",Mathias Kallevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Erlend Jøsang Munthe,"21/8,21/8",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,William Njøten Myrvang,,Erlend Jøsang Munthe,"21/13,21/12",William Njøten Myrvang,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,William Njøten Myrvang,"21/18,21/18",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Mathias Kallevik,,Erlend Jøsang Munthe,"21/10,21/4",Mathias Kallevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Mathias Kallevik,"16/21,21/14,21/10",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Martin Våge Sætersdal,"21/10,21/19",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Martin Våge Sætersdal,,Mathias Kallevik,"21/18,21/19",Martin Våge Sætersdal,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Aksel Eriksen Johnsen,"21/17,21/12",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Mathias Kallevik,,Vyom Naimish Doshi,"23/21,21/8",Mathias Kallevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Aksel Eriksen Johnsen,,Eskild Røssland,"21/18,16/21,21/14",Aksel Eriksen Johnsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Martin Våge Sætersdal,,Julian Økland Henriksen,"21/9,21/9",Martin Våge Sætersdal,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Aksel Eriksen Johnsen,,Julian Økland Henriksen,"21/19,21/16",Aksel Eriksen Johnsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Martin Våge Sætersdal,,Aksel Eriksen Johnsen,"21/10,21/11",Martin Våge Sætersdal,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Vyom Naimish Doshi,,Ashwath Anandathirthan,"21/13,21/17",Vyom Naimish Doshi,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Eskild Røssland,,Ashwath Anandathirthan,"21/12,21/12",Eskild Røssland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Eskild Røssland,,Vyom Naimish Doshi,"22/20,21/12",Eskild Røssland,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Mathias Kallevik,,William Njøten Myrvang,"21/19,17/21,21/19",Mathias Kallevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Erlend Jøsang Munthe,"21/8,21/8",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,William Njøten Myrvang,,Erlend Jøsang Munthe,"21/13,21/12",William Njøten Myrvang,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,William Njøten Myrvang,"21/18,21/18",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Mathias Kallevik,,Erlend Jøsang Munthe,"21/10,21/4",Mathias Kallevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Håvard Lie Foldnes,,Mathias Kallevik,"16/21,21/14,21/10",Håvard Lie Foldnes,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Camilla Skrunes Sundt,,Thea Øyen Selsaas,"18/21,21/18,21/11",Camilla Skrunes Sundt,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Thea Øyen Selsaas,,Audrina Ammara Darmawan,"21/9,21/10",Thea Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Camilla Skrunes Sundt,,Sophia Isabella Miedler,"21/4,21/4",Camilla Skrunes Sundt,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Thea Øyen Selsaas,,Eldrid Fitjar,"21/7,21/6",Thea Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Thea Øyen Selsaas,,Sophia Isabella Miedler,"21/10,21/6",Thea Øyen Selsaas,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Sophia Isabella Miedler,,Eldrid Fitjar,"21/6,21/15",Sophia Isabella Miedler,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Camilla Skrunes Sundt,,Justé Beinoriuté,"21/4,21/1",Camilla Skrunes Sundt,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Audrina Ammara Darmawan,,Justé Beinoriuté,"21/10,21/8",Audrina Ammara Darmawan,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,,Camilla Skrunes Sundt,,Audrina Ammara Darmawan,"21/19,21/12",Camilla Skrunes Sundt,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Aksel Eriksen Johnsen,Mathias Kallevik,Rasmus Bohman,Levi Stueland Bjørkavåg,"21/12,21/8",Aksel Eriksen Johnsen,Mathias Kallevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Martin Våge Sætersdal,Håvard Lie Foldnes,William Njøten Myrvang,Eskild Røssland,"21/13,21/14",Martin Våge Sætersdal,Håvard Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,William Njøten Myrvang,Eskild Røssland,Rasmus Bohman,Levi Stueland Bjørkavåg,"21/13,21/16",William Njøten Myrvang,Eskild Røssland
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Martin Våge Sætersdal,Håvard Lie Foldnes,Aksel Eriksen Johnsen,Mathias Kallevik,"21/11,21/19",Martin Våge Sætersdal,Håvard Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Martin Våge Sætersdal,Håvard Lie Foldnes,Rasmus Bohman,Levi Stueland Bjørkavåg,"21/12,21/8",Martin Våge Sætersdal,Håvard Lie Foldnes
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,William Njøten Myrvang,Eskild Røssland,Aksel Eriksen Johnsen,Mathias Kallevik,"18/21,21/11,21/12",William Njøten Myrvang,Eskild Røssland
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Rasmus Bohman,"21/15,21/16",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Rasmus Bohman,,Mathias Emil Rong Kårstad,"23/21,21/19",Rasmus Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Åsmund Svennevik,"18/21,21/18,21/10",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Rasmus Bohman,,Sebastian Mortensen,"21/16,21/15",Rasmus Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Åsmund Svennevik,,Joakim Mjøs-Røli,"21/13,21/7",Åsmund Svennevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Joakim Mjøs-Røli,,Marius Johansen,"21/19,21/13",Joakim Mjøs-Røli,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Mathias Emil Rong Kårstad,,Joakim Mjøs-Røli,"21/18,21/11",Mathias Emil Rong Kårstad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Mathias Emil Rong Kårstad,,Marius Johansen,"21/8,21/2",Mathias Emil Rong Kårstad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Åsmund Svennevik,,Kevin Vaaga,"21/6,21/1",Åsmund Svennevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Sebastian Mortensen,,Kevin Vaaga,"21/8,21/6",Sebastian Mortensen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Åsmund Svennevik,,Sebastian Mortensen,"21/18,21/14",Åsmund Svennevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Rasmus Bohman,,Tobias Tobota-Johannessen,"21/11,21/7",Rasmus Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Tobias Tobota-Johannessen,"21/9,21/4",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Rasmus Bohman,"21/7,21/7",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Rasmus Bohman,"21/15,21/16",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Rasmus Bohman,,Mathias Emil Rong Kårstad,"23/21,21/19",Rasmus Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Åsmund Svennevik,"18/21,21/18,21/10",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Rasmus Bohman,,Sebastian Mortensen,"21/16,21/15",Rasmus Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Åsmund Svennevik,,Joakim Mjøs-Røli,"21/13,21/7",Åsmund Svennevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Joakim Mjøs-Røli,,Marius Johansen,"21/19,21/13",Joakim Mjøs-Røli,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Mathias Emil Rong Kårstad,,Joakim Mjøs-Røli,"21/18,21/11",Mathias Emil Rong Kårstad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Mathias Emil Rong Kårstad,,Marius Johansen,"21/8,21/2",Mathias Emil Rong Kårstad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Åsmund Svennevik,,Kevin Vaaga,"21/6,21/1",Åsmund Svennevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Sebastian Mortensen,,Kevin Vaaga,"21/8,21/6",Sebastian Mortensen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Åsmund Svennevik,,Sebastian Mortensen,"21/18,21/14",Åsmund Svennevik,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Rasmus Bohman,,Tobias Tobota-Johannessen,"21/11,21/7",Rasmus Bohman,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Tobias Tobota-Johannessen,"21/9,21/4",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Junzhe Liao,,Rasmus Bohman,"21/7,21/7",Junzhe Liao,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Maham Sheikh,,Solvor Jansen,"21/10,21/4",Maham Sheikh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Maham Sheikh,,Vilde Rødje Karlsen,"21/12,21/13",Maham Sheikh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Solvor Jansen,,Sofia Ormazabal Holden,"22/20,113/21,21/18",Solvor Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Alisa Yakovenko,,Mia Elisabeth Le Feuvre,"21/14,21/15",Alisa Yakovenko,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Alisa Yakovenko,,Sofia Ormazabal Holden,"21/19,11/21,21/13",Alisa Yakovenko,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Solvor Jansen,,Mia Elisabeth Le Feuvre,"21/14,19/21,21/13",Solvor Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Sofia Ormazabal Holden,,Mia Elisabeth Le Feuvre,"21/12,21/10",Sofia Ormazabal Holden,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Solvor Jansen,,Alisa Yakovenko,"23/21,19/21,21/11",Solvor Jansen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Vilde Rødje Karlsen,,Malena Soleil Scarpello,"21/17,228/26",Vilde Rødje Karlsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Olea Aanestad,,Nora Jæger Thorland,"23/21,21/16",Olea Aanestad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Vilde Rødje Karlsen,,Nora Jæger Thorland,"21/14,21/15",Vilde Rødje Karlsen,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Malena Soleil Scarpello,,Olea Aanestad,"21/18,21/17",Malena Soleil Scarpello,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Olea Aanestad,,Vilde Rødje Karlsen,"16/21,21/16,22/20",Olea Aanestad,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Malena Soleil Scarpello,,Nora Jæger Thorland,"21/9,21/10",Malena Soleil Scarpello,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Marie Torsvik Loga,,Hanne Stople,"21/13,21/12",Marie Torsvik Loga,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Maham Sheikh,,Hanne Stople,"21/10,21/7",Maham Sheikh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,,Maham Sheikh,,Marie Torsvik Loga,"21/15,21/10",Maham Sheikh,
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Julian Økland Henriksen,Åsmund Svennevik,Mathias Emil Rong Kårstad,Joakim Mjøs-Røli,"21/13,21/16",Julian Økland Henriksen,Åsmund Svennevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Junzhe Liao,Sebastian Mortensen,Kevin Vaaga,Tobias Tobota-Johannessen,"21/6,21/12",Junzhe Liao,Sebastian Mortensen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Julian Økland Henriksen,Åsmund Svennevik,Kevin Vaaga,Tobias Tobota-Johannessen,"21/8,21/12",Julian Økland Henriksen,Åsmund Svennevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Julian Økland Henriksen,Åsmund Svennevik,Junzhe Liao,Sebastian Mortensen,"16/21,21/11,21/12",Julian Økland Henriksen,Åsmund Svennevik
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Marius Johansen,Ørjan Lønning Bertelsen,Adrian Chaipiboon-Sømo,Daniel Johansson Norem,"23/21,21/11",Marius Johansen,Ørjan Lønning Bertelsen
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Mathias Emil Rong Kårstad,Joakim Mjøs-Røli,Adrian Chaipiboon-Sømo,Daniel Johansson Norem,"21/6,21/16",Mathias Emil Rong Kårstad,Joakim Mjøs-Røli
-2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Mathias Emil Rong Kårstad,Joakim Mjøs-Røli,Marius Johansen,Ørjan Lønning Bertelsen,"21/9,21/10",Mathias Emil Rong Kårstad,Joakim Mjøs-Røli
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Brynjar Hus,,Mats Lervåg,"21/14,21/11",Brynjar Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Mats Lervåg,,Stian Ekroll Glenne,"21/16,21/15",Mats Lervåg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Brynjar Hus,,Keveen Kumar Balasingam,"21/18,21/18",Brynjar Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Stian Ekroll Glenne,,Vetle Vinnes Bråten,"21/8,21/19",Stian Ekroll Glenne,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Keveen Kumar Balasingam,,Gøran Olsen,"21/15,21/19",Keveen Kumar Balasingam,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Vetle Vinnes Bråten,,Gøran Olsen,"21/14,21/16",Vetle Vinnes Bråten,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Stian Ekroll Glenne,,Keveen Kumar Balasingam,"21/12,14/21,21/18",Stian Ekroll Glenne,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/14",Keveen Kumar Balasingam,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Stian Ekroll Glenne,,Gøran Olsen,"21/19,8/21,21/17",Stian Ekroll Glenne,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Brynjar Hus,,Sondre Lie Foldnes,"21/11,21/7",Brynjar Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Mats Lervåg,,Kristoffer Sveen Hjertholm,"21/18,21/18",Mats Lervåg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/7,21/9",Brynjar Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Mats Lervåg,,Sondre Lie Foldnes,"21/15,21/11",Mats Lervåg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Brynjar Hus,,Mats Lervåg,"21/17,21/9",Brynjar Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herresingle,,Sondre Lie Foldnes,,Kristoffer Sveen Hjertholm,"21/19,21/19",Sondre Lie Foldnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Nikol Hermansen,,Annejet Bos,"21/15,21/19",Nikol Hermansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/17,21/17",Mette Skjævesland Pedersen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Annejet Bos,,Mariann Andreassen,"21/18,21/10",Annejet Bos,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Nikol Hermansen,,Line Klæbo,"21/9,21/9",Nikol Hermansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Annejet Bos,,Line Klæbo,"21/15,21/13",Annejet Bos,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Nikol Hermansen,,Mette Skjævesland Pedersen,"26/24,23/21",Nikol Hermansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Annejet Bos,"21/18,21/13",Mette Skjævesland Pedersen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Mariann Andreassen,,Line Klæbo,"21/16,21/14",Mariann Andreassen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Nikol Hermansen,,Mariann Andreassen,"19/21,21/14,21/11",Nikol Hermansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Line Klæbo,"21/10,21/8",Mette Skjævesland Pedersen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Sindre Gjuvsland,Ole Kristian Lie,Vetle Vinnes Bråten,Edvin Nordbø,"23/21,22/20",Sindre Gjuvsland,Ole Kristian Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Vetle Vinnes Bråten,Edvin Nordbø,"21/10,21/9",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Sindre Gjuvsland,Ole Kristian Lie,"21/15,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Sondre Lie Foldnes,Dennis Andersen Moe,Gøran Olsen,Ivan Sundt,"23/21,13/21,23/21",Sondre Lie Foldnes,Dennis Andersen Moe
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Vijay Ramaswamy,Yahya Januarilham,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/16,22/20",Vijay Ramaswamy,Yahya Januarilham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Vijay Ramaswamy,Yahya Januarilham,Gøran Olsen,Ivan Sundt,"21/10,21/16",Vijay Ramaswamy,Yahya Januarilham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Sondre Lie Foldnes,Dennis Andersen Moe,Kristoffer Sveen Hjertholm,Herman Kolstø,"21/10,21/15",Sondre Lie Foldnes,Dennis Andersen Moe
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Herredouble,Vijay Ramaswamy,Yahya Januarilham,Sondre Lie Foldnes,Dennis Andersen Moe,"21/17,21/8",Vijay Ramaswamy,Yahya Januarilham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damedouble,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,Line Klæbo,Annejet Bos,"21/19,21/23,21/19",Svenja Tyrhardt,Ida Marie Thomassen Stiegler
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damedouble,Mette Skjævesland Pedersen,Nikol Hermansen,Julie Langeland Risa,Anne Lie Foldnes,"16/21,21/19,22/20",Mette Skjævesland Pedersen,Nikol Hermansen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damedouble,Julie Langeland Risa,Anne Lie Foldnes,Line Klæbo,Annejet Bos,"21/13,21/14",Julie Langeland Risa,Anne Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damedouble,Mette Skjævesland Pedersen,Nikol Hermansen,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/5,21/12",Mette Skjævesland Pedersen,Nikol Hermansen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damedouble,Mette Skjævesland Pedersen,Nikol Hermansen,Line Klæbo,Annejet Bos,"21/19,21/6",Mette Skjævesland Pedersen,Nikol Hermansen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Damedouble,Julie Langeland Risa,Anne Lie Foldnes,Svenja Tyrhardt,Ida Marie Thomassen Stiegler,"21/18,19/21,21/16",Julie Langeland Risa,Anne Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Mette Skjævesland Pedersen,Yahya Januarilham,"9/21,21/14,21/18",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Anne Lie Foldnes,Dennis Andersen Moe,"24/26,21/14,21/12",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Mette Skjævesland Pedersen,Yahya Januarilham,Svenja Tyrhardt,Gøran Olsen,"15/21,21/13,21/16",Mette Skjævesland Pedersen,Yahya Januarilham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Svenja Tyrhardt,Gøran Olsen,Edvin Nordbø,Mariann Andreassen,"21/6,21/11",Svenja Tyrhardt,Gøran Olsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Edvin Nordbø,Mariann Andreassen,"21/15,21/15",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Svenja Tyrhardt,Gøran Olsen,"21/15,19/21,21/18",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Mette Skjævesland Pedersen,Yahya Januarilham,Vetle Vinnes Bråten,Nikol Hermansen,"21/15,21/10",Mette Skjævesland Pedersen,Yahya Januarilham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Mette Skjævesland Pedersen,Yahya Januarilham,Anne Lie Foldnes,Dennis Andersen Moe,"21/16,11/21,21/19",Mette Skjævesland Pedersen,Yahya Januarilham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN A,Mixeddouble,Anne Lie Foldnes,Dennis Andersen Moe,Vetle Vinnes Bråten,Nikol Hermansen,"21/14,21/15",Anne Lie Foldnes,Dennis Andersen Moe
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Dennis Andersen Moe,,Anders Bellesen,"21/17,13/21,21/14",Dennis Andersen Moe,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Dennis Andersen Moe,,Torstein Monsen,"21/18,21/18",Dennis Andersen Moe,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Anders Bellesen,,Kjetil Ragde,"21/15,21/16",Anders Bellesen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Kjetil Ragde,,Morten Solsvik,"21/11,21/18",Kjetil Ragde,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Anders Bellesen,,Morten Solsvik,"21/17,21/6",Anders Bellesen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Torstein Monsen,,Apurva Jain,"21/13,14/21,21/15",Torstein Monsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Apurva Jain,,Torstein Vikse Olsen,"21/19,21/10",Apurva Jain,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Torstein Monsen,,Torstein Vikse Olsen,"23/21,21/14",Torstein Monsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Dennis Andersen Moe,,Morten Straume,"14/21,21/18,21/14",Dennis Andersen Moe,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Morten Straume,,Aleksej Roman Kustrin Iversen,"21/14,19/21,21/18",Morten Straume,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herresingle,,Dennis Andersen Moe,,Aleksej Roman Kustrin Iversen,"21/13,15/21,21/17",Dennis Andersen Moe,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Mats Lervåg,Torstein Monsen,Simen Mjelva,Aleksej Roman Kustrin Iversen,"21/15,23/21",Mats Lervåg,Torstein Monsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Simen Mjelva,Aleksej Roman Kustrin Iversen,Agus Darmawan,Fery Simbolon,"10/21,21/14,21/8",Simen Mjelva,Aleksej Roman Kustrin Iversen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Andreas Vikse Dahle,Torstein Vikse Olsen,Vidar Korsnes,Hans Olav Femsteinevik,"21/14,21/16",Andreas Vikse Dahle,Torstein Vikse Olsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Mats Lervåg,Torstein Monsen,Adrian Helle Ekerhovd,Eirik Ekerhovd,"21/12,21/12",Mats Lervåg,Torstein Monsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Andreas Vikse Dahle,Torstein Vikse Olsen,Adrian Helle Ekerhovd,Eirik Ekerhovd,"21/18,8/21,21/17",Andreas Vikse Dahle,Torstein Vikse Olsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Mats Lervåg,Torstein Monsen,Vidar Korsnes,Hans Olav Femsteinevik,"21/12,21/10",Mats Lervåg,Torstein Monsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Mats Lervåg,Torstein Monsen,Andreas Vikse Dahle,Torstein Vikse Olsen,"21/17,21/9",Mats Lervåg,Torstein Monsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Adrian Helle Ekerhovd,Eirik Ekerhovd,Vidar Korsnes,Hans Olav Femsteinevik,"21/13,14/21,21/17",Adrian Helle Ekerhovd,Eirik Ekerhovd
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Simen Mjelva,Aleksej Roman Kustrin Iversen,Anders Bellesen,Håvard Moe Jacobsen,"21/14,21/13",Simen Mjelva,Aleksej Roman Kustrin Iversen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Simen Mjelva,Aleksej Roman Kustrin Iversen,Reidar Kulshamar,Tor Egil Frøyland,"21/12,21/11",Simen Mjelva,Aleksej Roman Kustrin Iversen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Reidar Kulshamar,Tor Egil Frøyland,Anders Bellesen,Håvard Moe Jacobsen,"23/21,19/21,24/22",Reidar Kulshamar,Tor Egil Frøyland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Naimish Doshi,Siby Abraham,Erik Moe,William Wilsone Walker,"19/21,21/14,21/14",Naimish Doshi,Siby Abraham
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Agus Darmawan,Fery Simbolon,Erik Moe,William Wilsone Walker,"21/10,21/7",Agus Darmawan,Fery Simbolon
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN B,Herredouble,Agus Darmawan,Fery Simbolon,Naimish Doshi,Siby Abraham,"21/15,21/12",Agus Darmawan,Fery Simbolon
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Brage Løken-Jacobsen,,Pål Kolstø,"22/24,21/7,22/20",Brage Løken-Jacobsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Fery Simbolon,,Ådne Vik,"21/5,21/9",Fery Simbolon,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Brage Løken-Jacobsen,,Simen Mjelva,"21/17,21/12",Brage Løken-Jacobsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Simen Mjelva,,Ådne Vik,"21/4,21/5",Simen Mjelva,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Fery Simbolon,,Brage Løken-Jacobsen,"21/18,15/21,21/16",Fery Simbolon,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Brage Løken-Jacobsen,,Ådne Vik,"21/2,21/2",Brage Løken-Jacobsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Simen Mjelva,,Fery Simbolon,"21/16,21/18",Simen Mjelva,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Tor Egil Frøyland,,Pål Kolstø,"21/14,21/12",Tor Egil Frøyland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Eirik Ekerhovd,,Vidar Korsnes,"20/22,21/18,21/15",Eirik Ekerhovd,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Pål Kolstø,,Eirik Ekerhovd,"21/18,21/16",Pål Kolstø,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Vidar Korsnes,,Tor Egil Frøyland,"23/21,21/11",Vidar Korsnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Pål Kolstø,,Vidar Korsnes,"21/12,21/15",Pål Kolstø,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Herresingle,,Eirik Ekerhovd,,Tor Egil Frøyland,"9/21,21/12,21/12",Eirik Ekerhovd,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Damesingle,,Sara Bellesen,,Therese Meland,"21/10,23/21",Sara Bellesen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Damesingle,,Bao Quynh Truong,,Therese Meland,"24/22,14/21,21/18",Bao Quynh Truong,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Damesingle,,Bao Quynh Truong,,Ida Marie Thomassen Stiegler,"21/16,21/18",Bao Quynh Truong,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Damesingle,,Bao Quynh Truong,,Sara Bellesen,"21/16,21/10",Bao Quynh Truong,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Damesingle,,Ida Marie Thomassen Stiegler,,Therese Meland,"21/13,21/11",Ida Marie Thomassen Stiegler,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Damesingle,,Sara Bellesen,,Ida Marie Thomassen Stiegler,"21/18,21/7",Sara Bellesen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Tor Egil Frøyland,Thea Katharina Frøyland,"21/12,21/18",Sara Bellesen,Anders Bellesen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Aleksej Roman Kustrin Iversen,Kjersti Hestenes,"21/15,21/14",Sara Bellesen,Anders Bellesen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Tor Egil Frøyland,Thea Katharina Frøyland,Johanne Salthella,Erik Moe,"21/12,21/9",Tor Egil Frøyland,Thea Katharina Frøyland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Johanne Salthella,Erik Moe,Line Klæbo,Magnus Severinsen,"21/14,18/21,21/18",Johanne Salthella,Erik Moe
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Tor Egil Frøyland,Thea Katharina Frøyland,Line Klæbo,Magnus Severinsen,"18/21,21/7,21/16",Tor Egil Frøyland,Thea Katharina Frøyland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Aleksej Roman Kustrin Iversen,Kjersti Hestenes,Einar Morgan Utne,Emily Linn Wallace,"21/8,21/10",Aleksej Roman Kustrin Iversen,Kjersti Hestenes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Agus Darmawan,Audrina Ammara Darmawan,Einar Morgan Utne,Emily Linn Wallace,"21/9,21/16",Agus Darmawan,Audrina Ammara Darmawan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Aleksej Roman Kustrin Iversen,Kjersti Hestenes,Agus Darmawan,Audrina Ammara Darmawan,"21/18,21/15",Aleksej Roman Kustrin Iversen,Kjersti Hestenes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Torstein Vikse Olsen,Ida Marie Thomassen Stiegler,Fery Simbolon,Maurina Adriana,"21/17,21/7",Torstein Vikse Olsen,Ida Marie Thomassen Stiegler
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Fery Simbolon,Maurina Adriana,"21/15,21/14",Sara Bellesen,Anders Bellesen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Torstein Vikse Olsen,Ida Marie Thomassen Stiegler,"22/24,21/11,21/18",Sara Bellesen,Anders Bellesen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Leiv Arne Risa,,Stian Horvei,"21/16,24/22",Leiv Arne Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Horvei,,Jarle Andresen,"21/19,21/4",Stian Horvei,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Leiv Arne Risa,,Stian Lie,"21/15,21/16",Leiv Arne Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Horvei,,Jim Høyland,"21/14,21/15",Stian Horvei,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Leiv Arne Risa,,Endre Lindheim,"21/18,27/25",Leiv Arne Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Magnus Severinsen,,Markus Vik,"21/18,21/19",Magnus Severinsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Jarle Andresen,,Peter Julian Sundberg,"21/18,21/18",Jarle Andresen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Peter Julian Sundberg,,Markus Vik,"21/14,21/14",Peter Julian Sundberg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Einar Morgan Utne,,Magnus Severinsen,"21/7,18/21,21/11",Einar Morgan Utne,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Einar Morgan Utne,,Markus Vik,"21/14,21/13",Einar Morgan Utne,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Jarle Andresen,,Magnus Severinsen,"25/23,19/21,21/17",Jarle Andresen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Jarle Andresen,,Markus Vik,"22/20,21/4",Jarle Andresen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Peter Julian Sundberg,,Einar Morgan Utne,"21/19,13/21,21/14",Peter Julian Sundberg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Peter Julian Sundberg,,Magnus Severinsen,"21/10,21/11",Peter Julian Sundberg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Einar Morgan Utne,,Jarle Andresen,"26/24,18/21,23/21",Einar Morgan Utne,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Per Haarr Dyvik,,Sverre Svensen,"13/21,22/20,21/15",Per Haarr Dyvik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Jim Høyland,,Morten Amundsen,"21/10,21/15",Jim Høyland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Sverre Svensen,,Morten Amundsen,"21/13,21/6",Sverre Svensen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Jim Høyland,,Per Haarr Dyvik,"15/21,21/14,21/15",Jim Høyland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Jim Høyland,,Sverre Svensen,"21/19,19/21,21/12",Jim Høyland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Per Haarr Dyvik,,Morten Amundsen,"21/11,21/13",Per Haarr Dyvik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Audun Knutsønn Hauge,,Sondre Thoresen Tendeland,"21/13,21/16",Audun Knutsønn Hauge,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Horvei,,Ferdinand Line Forgaard,"21/16,21/14",Stian Horvei,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Audun Knutsønn Hauge,,Ferdinand Line Forgaard,"21/15,24/22",Audun Knutsønn Hauge,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Horvei,,Sondre Thoresen Tendeland,"20/22,21/11,21/10",Stian Horvei,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Horvei,,Audun Knutsønn Hauge,"21/16,21/10",Stian Horvei,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Ferdinand Line Forgaard,,Sondre Thoresen Tendeland,"21/18,14/21,22/20",Ferdinand Line Forgaard,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Tommy Bjørkelund,,Jørgen Schanke Grude,"21/15,21/5",Tommy Bjørkelund,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Endre Lindheim,,Simen Prestnes Fosså,"20/22,21/12,21/14",Endre Lindheim,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Tommy Bjørkelund,,Simen Prestnes Fosså,"21/15,21/17",Tommy Bjørkelund,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Andreas Vikse Dahle,,Jørgen Schanke Grude,"21/7,21/4",Andreas Vikse Dahle,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Tommy Bjørkelund,,Andreas Vikse Dahle,"21/11,21/13",Tommy Bjørkelund,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Endre Lindheim,,Jørgen Schanke Grude,"21/8,21/13",Endre Lindheim,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Andreas Vikse Dahle,,Simen Prestnes Fosså,"21/14,21/17",Andreas Vikse Dahle,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Simen Prestnes Fosså,,Jørgen Schanke Grude,"21/9,21/11",Simen Prestnes Fosså,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Endre Lindheim,,Andreas Vikse Dahle,"21/16,21/9",Endre Lindheim,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Per Bohman,,Svein Hjertholm,"21/14,21/13",Per Bohman,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Leiv Arne Risa,,Håvard Moe Jacobsen,"21/19,21/9",Leiv Arne Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Per Bohman,,Håvard Moe Jacobsen,"21/18,21/16",Per Bohman,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Leiv Arne Risa,,Svein Hjertholm,"21/13,21/11",Leiv Arne Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Leiv Arne Risa,,Per Bohman,"21/14,21/8",Leiv Arne Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Håvard Moe Jacobsen,,Svein Hjertholm,"21/10,21/12",Håvard Moe Jacobsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Ole Håvard Rustad,,Christian Haugstad Mathisen,"21/16,21/9",Ole Håvard Rustad,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Hans Olav Femsteinevik,,Reavan Victor Thorsteinsson,"21/15,21/14",Hans Olav Femsteinevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Hans Olav Femsteinevik,,Christian Haugstad Mathisen,"21/6,21/8",Hans Olav Femsteinevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Lie,,Ole Håvard Rustad,"21/16,21/9",Stian Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Reavan Victor Thorsteinsson,,Ole Håvard Rustad,"21/8,21/9",Reavan Victor Thorsteinsson,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Lie,,Hans Olav Femsteinevik,"21/12,21/12",Stian Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Hans Olav Femsteinevik,,Ole Håvard Rustad,"21/14,21/11",Hans Olav Femsteinevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herresingle,,Stian Lie,,Reavan Victor Thorsteinsson,"21/14,23/21",Stian Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Lena Gloppen,,Johanne Salthella,"21/18,21/17",Lena Gloppen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Katrine Aske,,Tetiana Yakovenko,"21/6,21/1",Katrine Aske,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Lena Gloppen,,Tetiana Yakovenko,"21/7,21/6",Lena Gloppen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Lena Gloppen,,Katrine Aske,"21/12,21/18",Lena Gloppen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Johanne Salthella,,Kjersti Hestenes,"21/19,21/14",Johanne Salthella,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Kjersti Hestenes,,Nora Lindanger,"21/11,21/13",Kjersti Hestenes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damesingle,,Johanne Salthella,,Nora Lindanger,"21/10,21/11",Johanne Salthella,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Ashutosh  Dubey,Anilkumar Unnithan,"22/24,21/13,21/15",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Stian Horvei,Peter Julian Sundberg,"21/11,21/17",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Ashutosh  Dubey,Anilkumar Unnithan,Svein Hjertholm,Pål Kolstø,"21/12,21/19",Ashutosh  Dubey,Anilkumar Unnithan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Brage Løken-Jacobsen,Emil Lien Akre,Ole Håvard Rustad,Magnus Severinsen,"21/8,21/11",Brage Løken-Jacobsen,Emil Lien Akre
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Ole Håvard Rustad,Magnus Severinsen,"21/13,21/12",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik,Brage Løken-Jacobsen,Emil Lien Akre,"21/12,21/15",Sander Kallekodt Fjetland,Åsmund Sundal-Gjerdevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Simen Prestnes Fosså,Jarle Andresen,Sondre Thoresen Tendeland,Per Haarr Dyvik,"21/13,14/21,22/20",Simen Prestnes Fosså,Jarle Andresen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Stian Horvei,Peter Julian Sundberg,Jørgen Schanke Grude,Ferdinand Line Forgaard,"21/7,23/21",Stian Horvei,Peter Julian Sundberg
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Sondre Thoresen Tendeland,Per Haarr Dyvik,Jørgen Schanke Grude,Ferdinand Line Forgaard,"21/8,21/19",Sondre Thoresen Tendeland,Per Haarr Dyvik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Stian Horvei,Peter Julian Sundberg,Simen Prestnes Fosså,Jarle Andresen,"16/21,21/19,21/15",Stian Horvei,Peter Julian Sundberg
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Stian Horvei,Peter Julian Sundberg,Sondre Thoresen Tendeland,Per Haarr Dyvik,"21/19,21/14",Stian Horvei,Peter Julian Sundberg
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Simen Prestnes Fosså,Jarle Andresen,Jørgen Schanke Grude,Ferdinand Line Forgaard,"21/14,21/9",Simen Prestnes Fosså,Jarle Andresen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Jim Høyland,Sverre Svensen,Georg Solli,Jone Kannelønning,"21/10,21/8",Jim Høyland,Sverre Svensen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Svein Hjertholm,Pål Kolstø,Jim Høyland,Sverre Svensen,"21/17,21/13",Svein Hjertholm,Pål Kolstø
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Svein Hjertholm,Pål Kolstø,Georg Solli,Jone Kannelønning,"21/4,21/8",Svein Hjertholm,Pål Kolstø
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Jostein Urheim,Morten Amundsen,Audun Knutsønn Hauge,Stian Lie,"21/11,21/8",Jostein Urheim,Morten Amundsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Ashutosh  Dubey,Anilkumar Unnithan,Jostein Urheim,Morten Amundsen,"21/17,21/16",Ashutosh  Dubey,Anilkumar Unnithan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Herredouble,Ashutosh  Dubey,Anilkumar Unnithan,Audun Knutsønn Hauge,Stian Lie,"21/9,21/15",Ashutosh  Dubey,Anilkumar Unnithan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Lena Gloppen,Bao Quynh Truong,Ann Elin Digernes,Ingeborg Halvorsen,"21/16,21/13",Lena Gloppen,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Maurina Adriana,Audrina Ammara Darmawan,Emily Linn Wallace,Anne Lisbet Flåten,"21/15,21/18",Maurina Adriana,Audrina Ammara Darmawan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Maurina Adriana,Audrina Ammara Darmawan,Ann Elin Digernes,Ingeborg Halvorsen,"21/12,21/13",Maurina Adriana,Audrina Ammara Darmawan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Lena Gloppen,Bao Quynh Truong,Sara Bellesen,Nora Lindanger,"21/19,21/16",Lena Gloppen,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Sara Bellesen,Nora Lindanger,Ann Elin Digernes,Ingeborg Halvorsen,"21/16,21/18",Sara Bellesen,Nora Lindanger
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Lena Gloppen,Bao Quynh Truong,Emily Linn Wallace,Anne Lisbet Flåten,"21/17,21/18",Lena Gloppen,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Emily Linn Wallace,Anne Lisbet Flåten,Ann Elin Digernes,Ingeborg Halvorsen,"21/7,21/14",Emily Linn Wallace,Anne Lisbet Flåten
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Sara Bellesen,Nora Lindanger,Maurina Adriana,Audrina Ammara Darmawan,"21/16,21/16",Sara Bellesen,Nora Lindanger
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Lena Gloppen,Bao Quynh Truong,Maurina Adriana,Audrina Ammara Darmawan,"21/12,21/18",Lena Gloppen,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Damedouble,Sara Bellesen,Nora Lindanger,Emily Linn Wallace,Anne Lisbet Flåten,"22/20,21/13",Sara Bellesen,Nora Lindanger
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Per Haarr Dyvik,Bao Quynh Truong,Hildegunn Waage,Jim Høyland,"21/17,21/18",Per Haarr Dyvik,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Hildegunn Waage,Jim Høyland,Nora Lindanger,Håvard Moe Jacobsen,"21/11,21/16",Hildegunn Waage,Jim Høyland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Per Haarr Dyvik,Bao Quynh Truong,Ingeborg Halvorsen,Sverre Svensen,"21/11,27/25",Per Haarr Dyvik,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Ekaja Dubey,Ashutosh  Dubey,Ingeborg Halvorsen,Sverre Svensen,"21/12,21/17",Ekaja Dubey,Ashutosh  Dubey
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Per Haarr Dyvik,Bao Quynh Truong,Ekaja Dubey,Ashutosh  Dubey,"21/17,21/14",Per Haarr Dyvik,Bao Quynh Truong
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Hildegunn Waage,Jim Høyland,Linn Duong,Einar Kristoffer Kipperberg,"21/15,21/14",Hildegunn Waage,Jim Høyland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Linn Duong,Einar Kristoffer Kipperberg,Ann Elin Digernes,Geir Digernes,"22/20,21/14",Linn Duong,Einar Kristoffer Kipperberg
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Hildegunn Waage,Jim Høyland,Ann Elin Digernes,Geir Digernes,"21/18,21/16",Hildegunn Waage,Jim Høyland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Sondre Thoresen Tendeland,Lena Gloppen,Katrine Aske,Ole Håvard Rustad,"21/14,18/21,21/17",Sondre Thoresen Tendeland,Lena Gloppen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Nora Lindanger,Håvard Moe Jacobsen,Sondre Thoresen Tendeland,Lena Gloppen,"10/21,21/9,21/17",Nora Lindanger,Håvard Moe Jacobsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,SEN D,Mixeddouble,Nora Lindanger,Håvard Moe Jacobsen,Katrine Aske,Ole Håvard Rustad,"21/13,21/18",Nora Lindanger,Håvard Moe Jacobsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Damesingle,,Amalie Langeland Risa,,Mariam Sheikh,"21/18,21/14",Amalie Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Damesingle,,Amalie Langeland Risa,,Danielle Martinsen,"21/11,21/3",Amalie Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Damesingle,,Mariam Sheikh,,Danielle Martinsen,"21/7,21/11",Mariam Sheikh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Herredouble,Vetle Ystaas,Gabriel Alexander Simbolon,Alma Lund,Danielle Martinsen,"21/11,21/8",Vetle Ystaas,Gabriel Alexander Simbolon
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Herredouble,Noris Ekanger,Amalie Langeland Risa,Anna Thomson,Alida Helland,"21/1,21/7",Noris Ekanger,Amalie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Herredouble,Vetle Ystaas,Gabriel Alexander Simbolon,Anna Thomson,Alida Helland,"21/17,21/11",Vetle Ystaas,Gabriel Alexander Simbolon
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Herredouble,Noris Ekanger,Amalie Langeland Risa,Alma Lund,Danielle Martinsen,"21/7,21/5",Noris Ekanger,Amalie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Herredouble,Noris Ekanger,Amalie Langeland Risa,Vetle Ystaas,Gabriel Alexander Simbolon,"21/9,21/6",Noris Ekanger,Amalie Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 A,Herredouble,Anna Thomson,Alida Helland,Alma Lund,Danielle Martinsen,"21/17,21/12",Anna Thomson,Alida Helland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Noris Ekanger,,Audvin Jansen,"21/7,21/10",Noris Ekanger,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Noris Ekanger,,Eliah Alsaker,"21/5,21/7",Noris Ekanger,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Gabriel Alexander Simbolon,,Eliah Alsaker,"21/7,21/18",Gabriel Alexander Simbolon,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Noris Ekanger,,Gabriel Alexander Simbolon,"21/11,21/7",Noris Ekanger,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Audvin Jansen,,Vetle Ystaas,"21/7,21/8",Audvin Jansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Audvin Jansen,,Thomas Davidsen Vikshåland,"21/18,21/16",Audvin Jansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Herresingle,,Thomas Davidsen Vikshåland,,Vetle Ystaas,"21/15,21/19",Thomas Davidsen Vikshåland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Damesingle,,Anna Thomson,,Tiana Tveit Mosdal,"24/22,21/14",Anna Thomson,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Damesingle,,Alida Helland,,Anna Thomson,"22/20,21/11",Alida Helland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U11 B,Damesingle,,Alida Helland,,Tiana Tveit Mosdal,"21/5,21/8",Alida Helland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Oliver Hansen,"21/10,20/22,21/16",Alexander Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Oliver Hansen,,Levi Stueland Bjørkavåg,"21/19,21/18",Oliver Hansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Even Øyen Selsaas,"22/20,18/21,21/12",Alexander Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Levi Stueland Bjørkavåg,,Thorben Mikal Ekren Ludvig,"21/12,21/16",Levi Stueland Bjørkavåg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Oliver Hansen,,Aleksander Hettervik Trapp,"21/10,21/3",Oliver Hansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Markus Ekerhovd Sylta,"21/9,21/11",Alexander Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Even Øyen Selsaas,,Kristoffer Tobota-Johannessen,"21/15,21/10",Even Øyen Selsaas,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Levi Stueland Bjørkavåg,,Nicolas Amadeus Simbolon,"21/17,21/12",Levi Stueland Bjørkavåg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Oliver Hansen,,Max Straume,"17/21,21/12,21/6",Oliver Hansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Markus Ekerhovd Sylta,,William Økland Henriksen,"21/5,21/14",Markus Ekerhovd Sylta,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Kristoffer Tobota-Johannessen,,Henrik Grønning Strømfors,"21/7,21/14",Kristoffer Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Markus Ekerhovd Sylta,,Simen Våge Sætersdal,"24/22,21/12",Markus Ekerhovd Sylta,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"21/13,21/8",Thorben Mikal Ekren Ludvig,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Thorben Mikal Ekren Ludvig,,Markus Ekerhovd Sylta,"21/12,21/11",Thorben Mikal Ekren Ludvig,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Levi Stueland Bjørkavåg,,William Økland Henriksen,"21/8,21/9",Levi Stueland Bjørkavåg,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Aleksander Hettervik Trapp,,Emanuel Johan Nyvoll,"21/9,21/17",Aleksander Hettervik Trapp,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Aleksander Hettervik Trapp,,Henrik Grønning Strømfors,"24/22,21/9",Aleksander Hettervik Trapp,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Henrik Grønning Strømfors,,Emanuel Johan Nyvoll,"21/14,19/21,21/19",Henrik Grønning Strømfors,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Leopold Ormazabal Holden,"21/7,21/6",Alexander Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Nicolas Amadeus Simbolon,"21/7,21/10",Alexander Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Nicolas Amadeus Simbolon,,Leopold Ormazabal Holden,"21/6,21/8",Nicolas Amadeus Simbolon,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Oliver Hansen,,Filip Skrunes Sundt,"21/13,21/19",Oliver Hansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Kristoffer Tobota-Johannessen,,Oliver Hansen,"21/18,22/20",Kristoffer Tobota-Johannessen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Filip Skrunes Sundt,,Kristoffer Tobota-Johannessen,"18/21,21/12,21/17",Filip Skrunes Sundt,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Max Straume,,Noah Midtbø Larsen,"21/10,21/15",Max Straume,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Even Øyen Selsaas,,Noah Midtbø Larsen,"21/0,21/3",Even Øyen Selsaas,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herresingle,,Even Øyen Selsaas,,Max Straume,"15/21,21/14,21/14",Even Øyen Selsaas,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Damesingle,,Elisabeth Lie,,Tanaya Nalawade,"22/20,21/18",Elisabeth Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Damesingle,,Tanaya Nalawade,,Lotta Birkeland Bergtun,"21/17,21/17",Tanaya Nalawade,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Damesingle,,Elisabeth Lie,,Lotta Birkeland Bergtun,"21/19,21/10",Elisabeth Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herredouble,Vyom Naimish Doshi,Ashwath Anandathirthan,Filip Skrunes Sundt,Even Øyen Selsaas,"21/16,21/9",Vyom Naimish Doshi,Ashwath Anandathirthan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herredouble,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,Filip Skrunes Sundt,Even Øyen Selsaas,"20/22,21/12,21/13",Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Herredouble,Vyom Naimish Doshi,Ashwath Anandathirthan,Alexander Tobota-Johannessen,Kristoffer Tobota-Johannessen,"19/21,21/19,21/12",Vyom Naimish Doshi,Ashwath Anandathirthan
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Ashwath Anandathirthan,Kruthika Raghavan Subodh,Henrik Grønning Strømfors,Lilja Lothe Ringen,"21/5,21/2",Ashwath Anandathirthan,Kruthika Raghavan Subodh
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Lotta Birkeland Bergtun,Filip Skrunes Sundt,Vetle Ystaas,Anna Thomson,"21/2,21/4",Lotta Birkeland Bergtun,Filip Skrunes Sundt
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Ashwath Anandathirthan,Kruthika Raghavan Subodh,Vetle Ystaas,Anna Thomson,"21/3,21/4",Ashwath Anandathirthan,Kruthika Raghavan Subodh
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Thorben Mikal Ekren Ludvig,Elisabeth Lie,Henrik Grønning Strømfors,Lilja Lothe Ringen,"21/5,21/6",Thorben Mikal Ekren Ludvig,Elisabeth Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Thorben Mikal Ekren Ludvig,Elisabeth Lie,Ashwath Anandathirthan,Kruthika Raghavan Subodh,"15/21,21/16,21/11",Thorben Mikal Ekren Ludvig,Elisabeth Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Lotta Birkeland Bergtun,Filip Skrunes Sundt,Henrik Grønning Strømfors,Lilja Lothe Ringen,"21/5,21/5",Lotta Birkeland Bergtun,Filip Skrunes Sundt
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Ashwath Anandathirthan,Kruthika Raghavan Subodh,Lotta Birkeland Bergtun,Filip Skrunes Sundt,"21/17,21/14",Ashwath Anandathirthan,Kruthika Raghavan Subodh
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Thorben Mikal Ekren Ludvig,Elisabeth Lie,Vetle Ystaas,Anna Thomson,"21/6,21/2",Thorben Mikal Ekren Ludvig,Elisabeth Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Henrik Grønning Strømfors,Lilja Lothe Ringen,Vetle Ystaas,Anna Thomson,"21/19,21/11",Henrik Grønning Strømfors,Lilja Lothe Ringen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 A,Mixeddouble,Thorben Mikal Ekren Ludvig,Elisabeth Lie,Lotta Birkeland Bergtun,Filip Skrunes Sundt,"16/21,21/17,21/19",Thorben Mikal Ekren Ludvig,Elisabeth Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Kruthika Raghavan Subodh,,Nanna Helena Rikala Olsen,"21/5,21/14",Kruthika Raghavan Subodh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Christine Torsvik Loga,,Lilja Lothe Ringen,"21/2,21/5",Christine Torsvik Loga,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Laura Hus,,Lilja Lothe Ringen,"21/16,21/8",Laura Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Kruthika Raghavan Subodh,,Christine Torsvik Loga,"21/19,21/13",Kruthika Raghavan Subodh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Laura Hus,,Nanna Helena Rikala Olsen,"21/13,21/11",Laura Hus,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Kruthika Raghavan Subodh,,Lilja Lothe Ringen,"21/7,21/4",Kruthika Raghavan Subodh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Lilja Lothe Ringen,,Nanna Helena Rikala Olsen,"21/17,14/21,21/14",Lilja Lothe Ringen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Christine Torsvik Loga,,Laura Hus,"21/9,21/11",Christine Torsvik Loga,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Christine Torsvik Loga,,Nanna Helena Rikala Olsen,"21/4,21/4",Christine Torsvik Loga,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damesingle,,Kruthika Raghavan Subodh,,Laura Hus,"21/6,21/8",Kruthika Raghavan Subodh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Herredouble,Oliver Hansen,Simon Leonard Knarr,Markus Ekerhovd Sylta,William Økland Henriksen,"11/21,21/19,21/15",Oliver Hansen,Simon Leonard Knarr
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Herredouble,Simen Våge Sætersdal,Max Straume,Henrik Grønning Strømfors,Nicolas Amadeus Simbolon,"21/7,21/9",Simen Våge Sætersdal,Max Straume
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Herredouble,Oliver Hansen,Simon Leonard Knarr,Henrik Grønning Strømfors,Nicolas Amadeus Simbolon,"21/15,21/11",Oliver Hansen,Simon Leonard Knarr
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Herredouble,Markus Ekerhovd Sylta,William Økland Henriksen,Henrik Grønning Strømfors,Nicolas Amadeus Simbolon,"21/10,21/11",Markus Ekerhovd Sylta,William Økland Henriksen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Herredouble,Simen Våge Sætersdal,Max Straume,Oliver Hansen,Simon Leonard Knarr,"21/14,21/15",Simen Våge Sætersdal,Max Straume
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damedouble,Lotta Birkeland Bergtun,Kruthika Raghavan Subodh,Tanaya Nalawade,Lilja Lothe Ringen,"21/19,21/9",Lotta Birkeland Bergtun,Kruthika Raghavan Subodh
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damedouble,Christine Torsvik Loga,Elisabeth Lie,Lotta Birkeland Bergtun,Kruthika Raghavan Subodh,"16/21,21/14,21/6",Christine Torsvik Loga,Elisabeth Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U13 B,Damedouble,Christine Torsvik Loga,Elisabeth Lie,Tanaya Nalawade,Lilja Lothe Ringen,"21/16,21/12",Christine Torsvik Loga,Elisabeth Lie
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Håvard Lie Foldnes,,Martin Våge Sætersdal,"21/10,21/19",Håvard Lie Foldnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Martin Våge Sætersdal,,Mathias Kallevik,"21/18,21/19",Martin Våge Sætersdal,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Håvard Lie Foldnes,,Aksel Eriksen Johnsen,"21/17,21/12",Håvard Lie Foldnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Mathias Kallevik,,Vyom Naimish Doshi,"23/21,21/8",Mathias Kallevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Aksel Eriksen Johnsen,,Eskild Røssland,"21/18,16/21,21/14",Aksel Eriksen Johnsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Martin Våge Sætersdal,,Julian Økland Henriksen,"21/9,21/9",Martin Våge Sætersdal,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Aksel Eriksen Johnsen,,Julian Økland Henriksen,"21/19,21/16",Aksel Eriksen Johnsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Martin Våge Sætersdal,,Aksel Eriksen Johnsen,"21/10,21/11",Martin Våge Sætersdal,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Vyom Naimish Doshi,,Ashwath Anandathirthan,"21/13,21/17",Vyom Naimish Doshi,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Eskild Røssland,,Ashwath Anandathirthan,"21/12,21/12",Eskild Røssland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Eskild Røssland,,Vyom Naimish Doshi,"22/20,21/12",Eskild Røssland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Mathias Kallevik,,William Njøten Myrvang,"21/19,17/21,21/19",Mathias Kallevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Håvard Lie Foldnes,,Erlend Jøsang Munthe,"21/8,21/8",Håvard Lie Foldnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,William Njøten Myrvang,,Erlend Jøsang Munthe,"21/13,21/12",William Njøten Myrvang,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Håvard Lie Foldnes,,William Njøten Myrvang,"21/18,21/18",Håvard Lie Foldnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Mathias Kallevik,,Erlend Jøsang Munthe,"21/10,21/4",Mathias Kallevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herresingle,,Håvard Lie Foldnes,,Mathias Kallevik,"16/21,21/14,21/10",Håvard Lie Foldnes,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Camilla Skrunes Sundt,,Thea Øyen Selsaas,"18/21,21/18,21/11",Camilla Skrunes Sundt,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Thea Øyen Selsaas,,Audrina Ammara Darmawan,"21/9,21/10",Thea Øyen Selsaas,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Camilla Skrunes Sundt,,Sophia Isabella Miedler,"21/4,21/4",Camilla Skrunes Sundt,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Thea Øyen Selsaas,,Eldrid Fitjar,"21/7,21/6",Thea Øyen Selsaas,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Thea Øyen Selsaas,,Sophia Isabella Miedler,"21/10,21/6",Thea Øyen Selsaas,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Sophia Isabella Miedler,,Eldrid Fitjar,"21/6,21/15",Sophia Isabella Miedler,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Camilla Skrunes Sundt,,Justé Beinoriuté,"21/4,21/1",Camilla Skrunes Sundt,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Audrina Ammara Darmawan,,Justé Beinoriuté,"21/10,21/8",Audrina Ammara Darmawan,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Damesingle,,Camilla Skrunes Sundt,,Audrina Ammara Darmawan,"21/19,21/12",Camilla Skrunes Sundt,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herredouble,Aksel Eriksen Johnsen,Mathias Kallevik,Rasmus Bohman,Levi Stueland Bjørkavåg,"21/12,21/8",Aksel Eriksen Johnsen,Mathias Kallevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herredouble,Martin Våge Sætersdal,Håvard Lie Foldnes,William Njøten Myrvang,Eskild Røssland,"21/13,21/14",Martin Våge Sætersdal,Håvard Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herredouble,William Njøten Myrvang,Eskild Røssland,Rasmus Bohman,Levi Stueland Bjørkavåg,"21/13,21/16",William Njøten Myrvang,Eskild Røssland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herredouble,Martin Våge Sætersdal,Håvard Lie Foldnes,Aksel Eriksen Johnsen,Mathias Kallevik,"21/11,21/19",Martin Våge Sætersdal,Håvard Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herredouble,Martin Våge Sætersdal,Håvard Lie Foldnes,Rasmus Bohman,Levi Stueland Bjørkavåg,"21/12,21/8",Martin Våge Sætersdal,Håvard Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Herredouble,William Njøten Myrvang,Eskild Røssland,Aksel Eriksen Johnsen,Mathias Kallevik,"18/21,21/11,21/12",William Njøten Myrvang,Eskild Røssland
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Mixeddouble,Maham Sheikh,Håvard Lie Foldnes,Kevin Vaaga,Tanaya Nalawade,"21/11,21/18",Maham Sheikh,Håvard Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Mixeddouble,Sophia Isabella Miedler,Martin Våge Sætersdal,William Njøten Myrvang,Justé Beinoriuté,"21/15,21/11",Sophia Isabella Miedler,Martin Våge Sætersdal
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Mixeddouble,William Njøten Myrvang,Justé Beinoriuté,Kevin Vaaga,Tanaya Nalawade,"21/10,21/15",William Njøten Myrvang,Justé Beinoriuté
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Mixeddouble,Sophia Isabella Miedler,Martin Våge Sætersdal,Maham Sheikh,Håvard Lie Foldnes,"21/11,27/25",Sophia Isabella Miedler,Martin Våge Sætersdal
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Mixeddouble,Sophia Isabella Miedler,Martin Våge Sætersdal,Kevin Vaaga,Tanaya Nalawade,"21/12,21/6",Sophia Isabella Miedler,Martin Våge Sætersdal
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 A,Mixeddouble,Maham Sheikh,Håvard Lie Foldnes,William Njøten Myrvang,Justé Beinoriuté,"20/22,21/14,21/19",Maham Sheikh,Håvard Lie Foldnes
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Junzhe Liao,,Rasmus Bohman,"21/15,21/16",Junzhe Liao,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Rasmus Bohman,,Mathias Emil Rong Kårstad,"23/21,21/19",Rasmus Bohman,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Junzhe Liao,,Åsmund Svennevik,"18/21,21/18,21/10",Junzhe Liao,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Rasmus Bohman,,Sebastian Mortensen,"21/16,21/15",Rasmus Bohman,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Åsmund Svennevik,,Joakim Mjøs-Røli,"21/13,21/7",Åsmund Svennevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Joakim Mjøs-Røli,,Marius Johansen,"21/19,21/13",Joakim Mjøs-Røli,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Mathias Emil Rong Kårstad,,Joakim Mjøs-Røli,"21/18,21/11",Mathias Emil Rong Kårstad,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Mathias Emil Rong Kårstad,,Marius Johansen,"21/8,21/2",Mathias Emil Rong Kårstad,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Åsmund Svennevik,,Kevin Vaaga,"21/6,21/1",Åsmund Svennevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Sebastian Mortensen,,Kevin Vaaga,"21/8,21/6",Sebastian Mortensen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Åsmund Svennevik,,Sebastian Mortensen,"21/18,21/14",Åsmund Svennevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Rasmus Bohman,,Tobias Tobota-Johannessen,"21/11,21/7",Rasmus Bohman,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Junzhe Liao,,Tobias Tobota-Johannessen,"21/9,21/4",Junzhe Liao,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herresingle,,Junzhe Liao,,Rasmus Bohman,"21/7,21/7",Junzhe Liao,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Maham Sheikh,,Solvor Jansen,"21/10,21/4",Maham Sheikh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Maham Sheikh,,Vilde Rødje Karlsen,"21/12,21/13",Maham Sheikh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Solvor Jansen,,Sofia Ormazabal Holden,"22/20,113/21,21/18",Solvor Jansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Alisa Yakovenko,,Mia Elisabeth Le Feuvre,"21/14,21/15",Alisa Yakovenko,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Alisa Yakovenko,,Sofia Ormazabal Holden,"21/19,11/21,21/13",Alisa Yakovenko,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Solvor Jansen,,Mia Elisabeth Le Feuvre,"21/14,19/21,21/13",Solvor Jansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Sofia Ormazabal Holden,,Mia Elisabeth Le Feuvre,"21/12,21/10",Sofia Ormazabal Holden,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Solvor Jansen,,Alisa Yakovenko,"23/21,19/21,21/11",Solvor Jansen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Vilde Rødje Karlsen,,Malena Soleil Scarpello,"21/17,228/26",Vilde Rødje Karlsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Olea Aanestad,,Nora Jæger Thorland,"23/21,21/16",Olea Aanestad,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Vilde Rødje Karlsen,,Nora Jæger Thorland,"21/14,21/15",Vilde Rødje Karlsen,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Malena Soleil Scarpello,,Olea Aanestad,"21/18,21/17",Malena Soleil Scarpello,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Olea Aanestad,,Vilde Rødje Karlsen,"16/21,21/16,22/20",Olea Aanestad,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Malena Soleil Scarpello,,Nora Jæger Thorland,"21/9,21/10",Malena Soleil Scarpello,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Marie Torsvik Loga,,Hanne Stople,"21/13,21/12",Marie Torsvik Loga,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Maham Sheikh,,Hanne Stople,"21/10,21/7",Maham Sheikh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Damesingle,,Maham Sheikh,,Marie Torsvik Loga,"21/15,21/10",Maham Sheikh,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Julian Økland Henriksen,Åsmund Svennevik,Mathias Emil Rong Kårstad,Joakim Mjøs-Røli,"21/13,21/16",Julian Økland Henriksen,Åsmund Svennevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Junzhe Liao,Sebastian Mortensen,Kevin Vaaga,Tobias Tobota-Johannessen,"21/6,21/12",Junzhe Liao,Sebastian Mortensen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Julian Økland Henriksen,Åsmund Svennevik,Kevin Vaaga,Tobias Tobota-Johannessen,"21/8,21/12",Julian Økland Henriksen,Åsmund Svennevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Julian Økland Henriksen,Åsmund Svennevik,Junzhe Liao,Sebastian Mortensen,"16/21,21/11,21/12",Julian Økland Henriksen,Åsmund Svennevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Marius Johansen,Ørjan Lønning Bertelsen,Adrian Chaipiboon-Sømo,Daniel Johansson Norem,"23/21,21/11",Marius Johansen,Ørjan Lønning Bertelsen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Mathias Emil Rong Kårstad,Joakim Mjøs-Røli,Adrian Chaipiboon-Sømo,Daniel Johansson Norem,"21/6,21/16",Mathias Emil Rong Kårstad,Joakim Mjøs-Røli
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U15 B,Herredouble,Mathias Emil Rong Kårstad,Joakim Mjøs-Røli,Marius Johansen,Ørjan Lønning Bertelsen,"21/9,21/10",Mathias Emil Rong Kårstad,Joakim Mjøs-Røli
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Jakob Langeland Risa,,Sindre Gjuvsland,"21/19,25/23",Jakob Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Jakob Langeland Risa,,Ole Kristian Lie,"26/28,21/12,21/9",Jakob Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Herman Kolstø,"21/14,24/22",Sindre Gjuvsland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Jakob Langeland Risa,,Emil Lien Akre,"21/9,21/11",Jakob Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Ole Kristian Lie,,Adrian Helle Ekerhovd,"21/7,21/7",Ole Kristian Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Simen Lien Akre,"21/9,21/5",Sindre Gjuvsland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Herman Kolstø,,Åsmund Sundal-Gjerdevik,"21/11,21/13",Herman Kolstø,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Sindre Gjuvsland,,Sander Kallekodt Fjetland,"21/5,21/8",Sindre Gjuvsland,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Jakob Langeland Risa,,Sander Kallekodt Fjetland,"21/8,21/6",Jakob Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Jakob Langeland Risa,,Sindre Gjuvsland,"21/15,18/21,21/18",Jakob Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Åsmund Sundal-Gjerdevik,,Bjørn Emil Nordbø,"21/5,21/1",Åsmund Sundal-Gjerdevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Ole Kristian Lie,,Bjørn Emil Nordbø,"21/3,21/3",Ole Kristian Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Ole Kristian Lie,,Åsmund Sundal-Gjerdevik,"21/9,21/11",Ole Kristian Lie,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Simen Lien Akre,,Georg Solli,"21/10,21/4",Simen Lien Akre,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Simen Lien Akre,,Emil Lien Akre,"21/15,21/16",Simen Lien Akre,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Emil Lien Akre,,Georg Solli,"21/5,21/7",Emil Lien Akre,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Adrian Helle Ekerhovd,,Jone Kannelønning,"21/8,21/8",Adrian Helle Ekerhovd,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Herman Kolstø,,Jone Kannelønning,"21/4,21/2",Herman Kolstø,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Herresingle,,Herman Kolstø,,Adrian Helle Ekerhovd,"21/19,21/14",Herman Kolstø,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damesingle,,Tora Svennevik,,Anne Byberg,"21/5,21/5",Tora Svennevik,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damesingle,,Juli Helen Johansen Klungtveit,,Oline Langeland Risa,"21/19,21/17",Juli Helen Johansen Klungtveit,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damesingle,,Oline Langeland Risa,,Anne Byberg,"21/1,21/3",Oline Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damesingle,,Juli Helen Johansen Klungtveit,,Tora Svennevik,"21/5,21/4",Juli Helen Johansen Klungtveit,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damesingle,,Juli Helen Johansen Klungtveit,,Anne Byberg,"21/3,21/1",Juli Helen Johansen Klungtveit,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damesingle,,Oline Langeland Risa,,Tora Svennevik,"21/10,21/5",Oline Langeland Risa,
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damedouble,Juli Helen Johansen Klungtveit,Oline Langeland Risa,Sophia Isabella Miedler,Justé Beinoriuté,"21/2,21/5",Juli Helen Johansen Klungtveit,Oline Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damedouble,Camilla Skrunes Sundt,Thea Øyen Selsaas,Sophia Isabella Miedler,Justé Beinoriuté,"21/9,21/12",Camilla Skrunes Sundt,Thea Øyen Selsaas
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Damedouble,Juli Helen Johansen Klungtveit,Oline Langeland Risa,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/18,21/15",Juli Helen Johansen Klungtveit,Oline Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Sindre Gjuvsland,Oline Langeland Risa,Herman Kolstø,Thea Øyen Selsaas,"21/9,21/16",Sindre Gjuvsland,Oline Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Camilla Skrunes Sundt,Åsmund Sundal-Gjerdevik,Tora Svennevik,Eskild Røssland,"21/10,21/9",Camilla Skrunes Sundt,Åsmund Sundal-Gjerdevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Sindre Gjuvsland,Oline Langeland Risa,Tora Svennevik,Eskild Røssland,"21/5,21/4",Sindre Gjuvsland,Oline Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,Herman Kolstø,Thea Øyen Selsaas,"21/16,21/9",Juli Helen Johansen Klungtveit,Jakob Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,Camilla Skrunes Sundt,Åsmund Sundal-Gjerdevik,"21/18,21/8",Juli Helen Johansen Klungtveit,Jakob Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Herman Kolstø,Thea Øyen Selsaas,Tora Svennevik,Eskild Røssland,"21/7,21/2",Herman Kolstø,Thea Øyen Selsaas
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Sindre Gjuvsland,Oline Langeland Risa,Camilla Skrunes Sundt,Åsmund Sundal-Gjerdevik,"21/18,21/10",Sindre Gjuvsland,Oline Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,Tora Svennevik,Eskild Røssland,"21/7,21/6",Juli Helen Johansen Klungtveit,Jakob Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,Sindre Gjuvsland,Oline Langeland Risa,"21/15,21/19",Juli Helen Johansen Klungtveit,Jakob Langeland Risa
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 A,Mixeddouble,Herman Kolstø,Thea Øyen Selsaas,Camilla Skrunes Sundt,Åsmund Sundal-Gjerdevik,"19/21,21/10,21/9",Herman Kolstø,Thea Øyen Selsaas
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 B,Damedouble,Thea-Sofie Lønning Eikemo,Therese Hovland Børgesen,Vilde Rødje Karlsen,Marie Torsvik Loga,"21/16,21/10",Thea-Sofie Lønning Eikemo,Therese Hovland Børgesen
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 B,Damedouble,Maham Sheikh,Tora Svennevik,Thea-Sofie Lønning Eikemo,Therese Hovland Børgesen,"21/12,21/14",Maham Sheikh,Tora Svennevik
+2022/2023,Karmøy Vestlandsmesterskapet,11.11.2022,U17 B,Damedouble,Maham Sheikh,Tora Svennevik,Vilde Rødje Karlsen,Marie Torsvik Loga,"21/13,21/11",Maham Sheikh,Tora Svennevik

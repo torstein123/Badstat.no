@@ -1,418 +1,336 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Geir Storvik,,Pål Endre Pedersen,"21/4,21/11",Geir Storvik,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Geir Storvik,,Bastien Mariyathas,"21/5,21/3",Geir Storvik,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Dimiter Ivanov,,Pål Endre Pedersen,"12/21,21/17,21/15",Dimiter Ivanov,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Pål Endre Pedersen,,Bent Mørken,"21/14,21/18",Pål Endre Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Bent Mørken,,Dimiter Ivanov,"15/21,21/19,21/16",Bent Mørken,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Geir Storvik,,Pål Endre Pedersen,"21/4,21/11",Geir Storvik,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Geir Storvik,,Bastien Mariyathas,"21/5,21/3",Geir Storvik,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Dimiter Ivanov,,Pål Endre Pedersen,"12/21,21/17,21/15",Dimiter Ivanov,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Pål Endre Pedersen,,Bent Mørken,"21/14,21/18",Pål Endre Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,,Bent Mørken,,Dimiter Ivanov,"15/21,21/19,21/16",Bent Mørken,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Richard Jakobsen,Bent Mørken,Christian S. Johnsen,Pål Endre Pedersen,"21/19,21/14",Richard Jakobsen,Bent Mørken
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Vijay Ramaswamy,Yahya Januarilham,Christian S. Johnsen,Pål Endre Pedersen,"21/23,21/16,21/14",Vijay Ramaswamy,Yahya Januarilham
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Richard Jakobsen,Bent Mørken,Vijay Ramaswamy,Yahya Januarilham,"23/21,21/16",Richard Jakobsen,Bent Mørken
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ståle Skorpholm,,Fred-Arvid Nilsen,"21/17,21/12",Ståle Skorpholm,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Jesse Raasakka,"21/6,21/8",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Fred-Arvid Nilsen,"21/7,21/4",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ståle Skorpholm,,Jesse Raasakka,"21/13,21/14",Ståle Skorpholm,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Vijay Ramaswamy,"21/14,21/17",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Ole Petter Øren,"21/16,21/11",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Ole Petter Øren,"21/14,21/16",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Jesse Raasakka,,Fred-Arvid Nilsen,"21/17,13/21,21/14",Jesse Raasakka,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Ståle Skorpholm,"21/9,21/9",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Jakob Larsen,,Børre Kvarv Githmark,"21/14,21/5",Jakob Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Geir Arne Andersen,"21/9,21/9",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Børre Kvarv Githmark,"21/5,21/4",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Jakob Larsen,,Geir Arne Andersen,"21/8,21/14",Jakob Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Geir Arne Andersen,,Børre Kvarv Githmark,"21/18,22/20",Geir Arne Andersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Jakob Larsen,"24/26,21/16,21/17",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ole Petter Øren,,Henrik H Bøje,"21/8,21/10",Ole Petter Øren,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ole Petter Øren,,Alexander Kristensen,"21/13,21/17",Ole Petter Øren,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Alexander Kristensen,,Henrik H Bøje,"21/11,21/12",Alexander Kristensen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ståle Skorpholm,,Fred-Arvid Nilsen,"21/17,21/12",Ståle Skorpholm,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Jesse Raasakka,"21/6,21/8",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Fred-Arvid Nilsen,"21/7,21/4",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ståle Skorpholm,,Jesse Raasakka,"21/13,21/14",Ståle Skorpholm,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Vijay Ramaswamy,"21/14,21/17",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Ole Petter Øren,"21/16,21/11",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Ole Petter Øren,"21/14,21/16",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Jesse Raasakka,,Fred-Arvid Nilsen,"21/17,13/21,21/14",Jesse Raasakka,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Arnt-Helge Karlsen,,Ståle Skorpholm,"21/9,21/9",Arnt-Helge Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Jakob Larsen,,Børre Kvarv Githmark,"21/14,21/5",Jakob Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Geir Arne Andersen,"21/9,21/9",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Børre Kvarv Githmark,"21/5,21/4",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Jakob Larsen,,Geir Arne Andersen,"21/8,21/14",Jakob Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Geir Arne Andersen,,Børre Kvarv Githmark,"21/18,22/20",Geir Arne Andersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Vijay Ramaswamy,,Jakob Larsen,"24/26,21/16,21/17",Vijay Ramaswamy,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ole Petter Øren,,Henrik H Bøje,"21/8,21/10",Ole Petter Øren,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Ole Petter Øren,,Alexander Kristensen,"21/13,21/17",Ole Petter Øren,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Alexander Kristensen,,Henrik H Bøje,"21/11,21/12",Alexander Kristensen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Anne Lie Foldnes,,Rowena Lindberg,"21/18,21/9",Anne Lie Foldnes,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Charlotte Aase,,Monica Fuglesang,"21/6,21/12",Charlotte Aase,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Charlotte Aase,,Rowena Lindberg,"21/5,21/9",Charlotte Aase,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Julie Langeland Risa,,Monica Fuglesang,"21/16,21/10",Julie Langeland Risa,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Julie Langeland Risa,,Rowena Lindberg,"21/13,18/21,21/17",Julie Langeland Risa,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Charlotte Aase,,Anne Lie Foldnes,"21/19,21/15",Charlotte Aase,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Anne Lie Foldnes,,Monica Fuglesang,"21/15,21/11",Anne Lie Foldnes,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Charlotte Aase,,Julie Langeland Risa,"21/18,21/13",Charlotte Aase,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Rowena Lindberg,,Monica Fuglesang,"21/14,21/12",Rowena Lindberg,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,,Anne Lie Foldnes,,Julie Langeland Risa,"17/21,21/11,21/18",Anne Lie Foldnes,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Alexander Kristensen,Odd Arne Haugen,Jesse Raasakka,Henrik H Bøje,"21/11,21/18",Alexander Kristensen,Odd Arne Haugen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,David Wong,Ram Kumar,Tom Smebye,John Thomas Krogstad,"21/13,21/5",David Wong,Ram Kumar
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,David Wong,Ram Kumar,Jesse Raasakka,Henrik H Bøje,"21/10,21/11",David Wong,Ram Kumar
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Alexander Kristensen,Odd Arne Haugen,Tom Smebye,John Thomas Krogstad,"21/13,21/12",Alexander Kristensen,Odd Arne Haugen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,David Wong,Ram Kumar,Ramesh Vinayaga,Devendra Rameshwarsingh,"21/18,21/13",David Wong,Ram Kumar
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Gøran Olsen,Arnt-Helge Karlsen,David Wong,Ram Kumar,"21/7,21/9",Gøran Olsen,Arnt-Helge Karlsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Gøran Olsen,Arnt-Helge Karlsen,Ramesh Vinayaga,Devendra Rameshwarsingh,"21/12,21/5",Gøran Olsen,Arnt-Helge Karlsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Jesse Raasakka,Henrik H Bøje,Tom Smebye,John Thomas Krogstad,"21/14,21/11",Jesse Raasakka,Henrik H Bøje
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,David Wong,Ram Kumar,Alexander Kristensen,Odd Arne Haugen,"25/23,21/15",David Wong,Ram Kumar
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Ramesh Vinayaga,Devendra Rameshwarsingh,Ole Petter Øren,Lars Petter Danielsen,"22/20,21/17",Ramesh Vinayaga,Devendra Rameshwarsingh
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Jørn Lindberg,Jakob Larsen,Fred-Arvid Nilsen,Børre Kvarv Githmark,"21/13,21/17",Jørn Lindberg,Jakob Larsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Ramesh Vinayaga,Devendra Rameshwarsingh,Fred-Arvid Nilsen,Børre Kvarv Githmark,"21/13,21/17",Ramesh Vinayaga,Devendra Rameshwarsingh
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Ole Petter Øren,Lars Petter Danielsen,Jørn Lindberg,Jakob Larsen,"21/17,21/13",Ole Petter Øren,Lars Petter Danielsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Ramesh Vinayaga,Devendra Rameshwarsingh,Jørn Lindberg,Jakob Larsen,"21/15,21/13",Ramesh Vinayaga,Devendra Rameshwarsingh
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Ole Petter Øren,Lars Petter Danielsen,Fred-Arvid Nilsen,Børre Kvarv Githmark,"21/13,21/15",Ole Petter Øren,Lars Petter Danielsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Gøran Olsen,Arnt-Helge Karlsen,Ståle Skorpholm,Tore Foldnes,"21/9,21/6",Gøran Olsen,Arnt-Helge Karlsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Gøran Olsen,Arnt-Helge Karlsen,Huy Thai Dang Cao,Qadeer Alvi,"21/14,21/7",Gøran Olsen,Arnt-Helge Karlsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Huy Thai Dang Cao,Qadeer Alvi,Ståle Skorpholm,Tore Foldnes,"23/21,21/15",Huy Thai Dang Cao,Qadeer Alvi
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Anne Lie Foldnes,Julie Langeland Risa,Charlotte Aase,Terese Owesen,"21/17,18/21,21/18",Anne Lie Foldnes,Julie Langeland Risa
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Anne Lie Foldnes,Julie Langeland Risa,Rowena Lindberg,Lien Nguyen,"21/9,21/15",Anne Lie Foldnes,Julie Langeland Risa
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Anne Lie Foldnes,Julie Langeland Risa,Annika Liungman,Anne Berit Bergsmo,"21/16,21/14",Anne Lie Foldnes,Julie Langeland Risa
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Annika Liungman,Anne Berit Bergsmo,Rowena Lindberg,Lien Nguyen,"21/13,9/21,21/18",Annika Liungman,Anne Berit Bergsmo
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Charlotte Aase,Terese Owesen,Ladislaus Mary Sharmila,Malathy Subramaniam,"21/6,21/6",Charlotte Aase,Terese Owesen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Charlotte Aase,Terese Owesen,Monica Skauvik,Kristina Skauvik,"21/15,21/10",Charlotte Aase,Terese Owesen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Monica Skauvik,Kristina Skauvik,Ladislaus Mary Sharmila,Malathy Subramaniam,"21/15,21/15",Monica Skauvik,Kristina Skauvik
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Robert Sulebakk,"21/19,21/13",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Robert Sulebakk,,Eirik Sørstrand,"21/15,21/14",Robert Sulebakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Lars Christian Larsen,"21/11,21/14",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lars Christian Larsen,,Ken Kold Hansen,"21/10,21/11",Lars Christian Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Robert Sulebakk,,Khiem  Duc Nguyen,"21/18,21/18",Robert Sulebakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Khiem  Duc Nguyen,,Nazim Nordén,"21/11,21/13",Khiem  Duc Nguyen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Robert Sulebakk,,Nazim Nordén,"21/12,21/10",Robert Sulebakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Eirik Sørstrand,,Odd Arne Haugen,"21/19,21/14",Eirik Sørstrand,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Christian S. Johnsen,,Stian Askerød,"21/15,21/9",Christian S. Johnsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Stian Askerød,,Odd Arne Haugen,"24/22,21/17",Stian Askerød,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Eirik Sørstrand,,Christian S. Johnsen,"22/20,21/14",Eirik Sørstrand,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Christian S. Johnsen,,Odd Arne Haugen,"21/10,21/8",Christian S. Johnsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Eirik Sørstrand,,Stian Askerød,"21/12,21/14",Eirik Sørstrand,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Ken Kold Hansen,,Magne Abelsen,"21/11,21/5",Ken Kold Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Ken Kold Hansen,,Bengt Pedersen,"21/16,23/21",Ken Kold Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Bengt Pedersen,,Magne Abelsen,"21/6,21/8",Bengt Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lars Christian Larsen,,Lars Petter Danielsen,"21/12,21/17",Lars Christian Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Huy Thai Dang Cao,,Lars Petter Danielsen,"21/14,21/15",Huy Thai Dang Cao,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lars Christian Larsen,,Huy Thai Dang Cao,"18/21,21/12,21/9",Lars Christian Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Rolf Ove Karlsen,"21/16,21/12",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Rolf Ove Karlsen,,Odd Magnus Bjerkvik,"21/12,21/19",Rolf Ove Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Odd Magnus Bjerkvik,"21/18,18/21,21/10",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Robert Sulebakk,"21/19,21/13",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Robert Sulebakk,,Eirik Sørstrand,"21/15,21/14",Robert Sulebakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Lars Christian Larsen,"21/11,21/14",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lars Christian Larsen,,Ken Kold Hansen,"21/10,21/11",Lars Christian Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Robert Sulebakk,,Khiem  Duc Nguyen,"21/18,21/18",Robert Sulebakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Khiem  Duc Nguyen,,Nazim Nordén,"21/11,21/13",Khiem  Duc Nguyen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Robert Sulebakk,,Nazim Nordén,"21/12,21/10",Robert Sulebakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Eirik Sørstrand,,Odd Arne Haugen,"21/19,21/14",Eirik Sørstrand,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Christian S. Johnsen,,Stian Askerød,"21/15,21/9",Christian S. Johnsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Stian Askerød,,Odd Arne Haugen,"24/22,21/17",Stian Askerød,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Eirik Sørstrand,,Christian S. Johnsen,"22/20,21/14",Eirik Sørstrand,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Christian S. Johnsen,,Odd Arne Haugen,"21/10,21/8",Christian S. Johnsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Eirik Sørstrand,,Stian Askerød,"21/12,21/14",Eirik Sørstrand,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Ken Kold Hansen,,Magne Abelsen,"21/11,21/5",Ken Kold Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Ken Kold Hansen,,Bengt Pedersen,"21/16,23/21",Ken Kold Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Bengt Pedersen,,Magne Abelsen,"21/6,21/8",Bengt Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lars Christian Larsen,,Lars Petter Danielsen,"21/12,21/17",Lars Christian Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Huy Thai Dang Cao,,Lars Petter Danielsen,"21/14,21/15",Huy Thai Dang Cao,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lars Christian Larsen,,Huy Thai Dang Cao,"18/21,21/12,21/9",Lars Christian Larsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Rolf Ove Karlsen,"21/16,21/12",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Rolf Ove Karlsen,,Odd Magnus Bjerkvik,"21/12,21/19",Rolf Ove Karlsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jan Petter Lindland,,Odd Magnus Bjerkvik,"21/18,18/21,21/10",Jan Petter Lindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Trine Sperre,,Lien Nguyen,"21/19,21/18",Trine Sperre,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Trine Sperre,,Liv Merete Hammer,"21/7,21/3",Trine Sperre,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Trine Sperre,,Hilde Røssland,"21/7,21/6",Trine Sperre,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Hilde Røssland,,Liv Merete Hammer,"21/8,21/14",Hilde Røssland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Trine Sperre,,Hilde Genberg,"11/21,22/20,21/9",Trine Sperre,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lien Nguyen,,Jorunn Rasmussen,"21/16,11/21,21/18",Lien Nguyen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Bente Sotnes,,Elisabeth Hjellegjerde Skog,"21/12,21/15",Bente Sotnes,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Lien Nguyen,,Bente Sotnes,"21/9,21/15",Lien Nguyen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jorunn Rasmussen,,Elisabeth Hjellegjerde Skog,"21/9,21/10",Jorunn Rasmussen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Elisabeth Hjellegjerde Skog,,Lien Nguyen,"21/14,11/21,22/20",Elisabeth Hjellegjerde Skog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,,Jorunn Rasmussen,,Bente Sotnes,"21/18,21/15",Jorunn Rasmussen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Rolf Ove Karlsen,Trond Mære,Nils Even Urkedal,Robert Sulebakk,"21/23,21/13,21/16",Rolf Ove Karlsen,Trond Mære
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Rolf Ove Karlsen,Trond Mære,Eirik Sørstrand,Jan Petter Lindland,"21/13,26/24",Rolf Ove Karlsen,Trond Mære
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Nils Even Urkedal,Robert Sulebakk,Odd Magnus Bjerkvik,Geir Storvik,"21/18,21/15",Nils Even Urkedal,Robert Sulebakk
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Rolf Ove Karlsen,Trond Mære,Bengt Pedersen,Øivind Storvik,"21/11,21/14",Rolf Ove Karlsen,Trond Mære
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Rolf Ove Karlsen,Trond Mære,Jarle Grefslie,Baard Janitz,"21/12,21/14",Rolf Ove Karlsen,Trond Mære
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Jarle Grefslie,Baard Janitz,Bengt Pedersen,Øivind Storvik,"21/18,21/15",Jarle Grefslie,Baard Janitz
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Eirik Sørstrand,Jan Petter Lindland,Geir Pedersen,Stian Askerød,"21/13,21/10",Eirik Sørstrand,Jan Petter Lindland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Geir Pedersen,Stian Askerød,Magne Abelsen,William Wilsone Walker,"21/13,21/11",Geir Pedersen,Stian Askerød
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Eirik Sørstrand,Jan Petter Lindland,Magne Abelsen,William Wilsone Walker,"21/13,21/13",Eirik Sørstrand,Jan Petter Lindland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Odd Magnus Bjerkvik,Geir Storvik,Lars Christian Larsen,Ken Kold Hansen,"21/13,25/23",Odd Magnus Bjerkvik,Geir Storvik
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Lars Christian Larsen,Ken Kold Hansen,Erik Winger,Jan Aage Nyborg,"21/4,21/11",Lars Christian Larsen,Ken Kold Hansen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Odd Magnus Bjerkvik,Geir Storvik,Erik Winger,Jan Aage Nyborg,"21/4,21/0",Odd Magnus Bjerkvik,Geir Storvik
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Nils Even Urkedal,Robert Sulebakk,Geir Arne Andersen,Nazim Nordén,"21/10,21/9",Nils Even Urkedal,Robert Sulebakk
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Nils Even Urkedal,Robert Sulebakk,Khiem  Duc Nguyen,Frank Heggen,"21/11,21/17",Nils Even Urkedal,Robert Sulebakk
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Khiem  Duc Nguyen,Frank Heggen,Geir Arne Andersen,Nazim Nordén,"21/6,21/10",Khiem  Duc Nguyen,Frank Heggen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Gunn Fiskergaard,Sissel W. Schmidt,Wenche Brinchmann,Merete Ruud Tuskin,"21/9,21/9",Gunn Fiskergaard,Sissel W. Schmidt
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Berit Thyness,Trine Sperre,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/11,21/13",Berit Thyness,Trine Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Berit Thyness,Trine Sperre,Wenche Brinchmann,Merete Ruud Tuskin,"21/11,21/10",Berit Thyness,Trine Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Gunn Fiskergaard,Sissel W. Schmidt,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/17,21/16",Gunn Fiskergaard,Sissel W. Schmidt
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Monica Halvorsen,Gitte Gandborg,Berit Thyness,Trine Sperre,"21/5,21/15",Monica Halvorsen,Gitte Gandborg
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Berit Thyness,Trine Sperre,Randi Ulla Nogva,Inger Margrethe Midtlid,"21/19,21/9",Berit Thyness,Trine Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Monica Halvorsen,Gitte Gandborg,Randi Ulla Nogva,Inger Margrethe Midtlid,"21/9,21/11",Monica Halvorsen,Gitte Gandborg
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,Wenche Brinchmann,Merete Ruud Tuskin,"21/16,21/9",Elisabeth Hjellegjerde Skog,Cecilie Welle Bay
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Berit Thyness,Trine Sperre,Gunn Fiskergaard,Sissel W. Schmidt,"21/12,21/14",Berit Thyness,Trine Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Monica Halvorsen,Gitte Gandborg,Jorunn Rasmussen,Britt Grindland,"21/9,21/12",Monica Halvorsen,Gitte Gandborg
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Jorunn Rasmussen,Britt Grindland,Anja Niemi,Merete Andreassen,"21/18,14/21,21/15",Jorunn Rasmussen,Britt Grindland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Monica Halvorsen,Gitte Gandborg,Anja Niemi,Merete Andreassen,"21/9,21/11",Monica Halvorsen,Gitte Gandborg
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Jorunn Rasmussen,Britt Grindland,Hilde Genberg,Hilde Røssland,"21/15,21/9",Jorunn Rasmussen,Britt Grindland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Randi Ulla Nogva,Inger Margrethe Midtlid,Anja Olsen,Anita Olsen,"21/14,21/9",Randi Ulla Nogva,Inger Margrethe Midtlid
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Randi Ulla Nogva,Inger Margrethe Midtlid,Kristin Thømt,Bente Sotnes,"16/21,21/15,21/19",Randi Ulla Nogva,Inger Margrethe Midtlid
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Kristin Thømt,Bente Sotnes,Anja Olsen,Anita Olsen,"21/8,18/21,21/16",Kristin Thømt,Bente Sotnes
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Thor Christian Tallaksen,"21/16,21/18",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Nauman Majid,"21/16,21/18",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Thomas Pedersen,"21/12,21/9",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Roar Natvig,"21/11,21/11",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Terje Jacobsen,"22/24,21/6,21/7",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Knut Morten Engen,,Rune Enoksen,"24/22,21/5",Knut Morten Engen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Nauman Majid,,Vegar Næss,"21/16,21/12",Nauman Majid,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Nauman Majid,,Rune Enoksen,"21/12,21/9",Nauman Majid,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Vegar Næss,,Knut Morten Engen,"17/21,21/9,21/11",Vegar Næss,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Vegar Næss,,Rune Enoksen,"21/5,21/12",Vegar Næss,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Nauman Majid,,Knut Morten Engen,"16/21,21/15,21/16",Nauman Majid,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roar Natvig,,Bernard Arntsen,"21/16,21/9",Roar Natvig,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roar Natvig,,Tor Stenvaag,"21/19,21/12",Roar Natvig,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Tor Stenvaag,,Bernard Arntsen,"21/16,21/16",Tor Stenvaag,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Marius Imset,,Richard Jakobsen,"21/14,17/21,21/18",Marius Imset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Marius Imset,"21/10,21/11",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Richard Jakobsen,"21/4,21/11",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Terje Jacobsen,,Tommy Norheim,"16/21,21/11,21/14",Terje Jacobsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Odd Helge Gåsbakk,,Tommy Norheim,"21/8,21/15",Odd Helge Gåsbakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Terje Jacobsen,,Odd Helge Gåsbakk,"21/8,21/18",Terje Jacobsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Frank Heggen,"21/14,21/10",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Inge Holter,"21/9,21/15",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Frank Heggen,,Inge Holter,"21/14,12/21,21/15",Frank Heggen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Xijiang Yu,,Pankaj Bhart,"21/14,21/13",Xijiang Yu,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thomas Pedersen,,Roger Sagen,"21/12,21/10",Thomas Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thomas Pedersen,,Pankaj Bhart,"21/11,21/14",Thomas Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roger Sagen,,Xijiang Yu,"22/20,21/14",Roger Sagen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roger Sagen,,Pankaj Bhart,"22/20,21/14",Roger Sagen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thomas Pedersen,,Xijiang Yu,"21/7,21/12",Thomas Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Thor Christian Tallaksen,"21/16,21/18",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Nauman Majid,"21/16,21/18",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Thomas Pedersen,"21/12,21/9",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Roar Natvig,"21/11,21/11",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Terje Jacobsen,"22/24,21/6,21/7",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Knut Morten Engen,,Rune Enoksen,"24/22,21/5",Knut Morten Engen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Nauman Majid,,Vegar Næss,"21/16,21/12",Nauman Majid,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Nauman Majid,,Rune Enoksen,"21/12,21/9",Nauman Majid,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Vegar Næss,,Knut Morten Engen,"17/21,21/9,21/11",Vegar Næss,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Vegar Næss,,Rune Enoksen,"21/5,21/12",Vegar Næss,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Nauman Majid,,Knut Morten Engen,"16/21,21/15,21/16",Nauman Majid,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roar Natvig,,Bernard Arntsen,"21/16,21/9",Roar Natvig,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roar Natvig,,Tor Stenvaag,"21/19,21/12",Roar Natvig,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Tor Stenvaag,,Bernard Arntsen,"21/16,21/16",Tor Stenvaag,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Marius Imset,,Richard Jakobsen,"21/14,17/21,21/18",Marius Imset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Marius Imset,"21/10,21/11",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thor Christian Tallaksen,,Richard Jakobsen,"21/4,21/11",Thor Christian Tallaksen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Terje Jacobsen,,Tommy Norheim,"16/21,21/11,21/14",Terje Jacobsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Odd Helge Gåsbakk,,Tommy Norheim,"21/8,21/15",Odd Helge Gåsbakk,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Terje Jacobsen,,Odd Helge Gåsbakk,"21/8,21/18",Terje Jacobsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Frank Heggen,"21/14,21/10",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Jan Frode Neverdal,,Inge Holter,"21/9,21/15",Jan Frode Neverdal,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Frank Heggen,,Inge Holter,"21/14,12/21,21/15",Frank Heggen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Xijiang Yu,,Pankaj Bhart,"21/14,21/13",Xijiang Yu,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thomas Pedersen,,Roger Sagen,"21/12,21/10",Thomas Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thomas Pedersen,,Pankaj Bhart,"21/11,21/14",Thomas Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roger Sagen,,Xijiang Yu,"22/20,21/14",Roger Sagen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Roger Sagen,,Pankaj Bhart,"22/20,21/14",Roger Sagen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,,Thomas Pedersen,,Xijiang Yu,"21/7,21/12",Thomas Pedersen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Jan Frode Neverdal,Jan Rasmussen,Tommy Helander,Bjørn Hamang,"21/18,21/9",Jan Frode Neverdal,Jan Rasmussen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Tommy Helander,Bjørn Hamang,Tommy Norheim,Anders Skar,"21/18,19/21,21/14",Tommy Helander,Bjørn Hamang
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Jan Frode Neverdal,Jan Rasmussen,Nauman Majid,Terje Jacobsen,"21/16,21/19",Jan Frode Neverdal,Jan Rasmussen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Thomas Pedersen,Lars Valentin,Vegar Næss,Per Stener Vestli,"21/17,21/14",Thomas Pedersen,Lars Valentin
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Tommy Helander,Bjørn Hamang,Thomas Pedersen,Lars Valentin,"12/21,22/20,22/20",Tommy Helander,Bjørn Hamang
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Tommy Helander,Bjørn Hamang,Vegar Næss,Per Stener Vestli,"21/15,24/22",Tommy Helander,Bjørn Hamang
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Tommy Norheim,Anders Skar,Kanwal Agnihotri,Tanveer Ashraf,"21/1,21/6",Tommy Norheim,Anders Skar
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Bernard Arntsen,Lars Kjørholt,Kanwal Agnihotri,Tanveer Ashraf,"21/4,21/12",Bernard Arntsen,Lars Kjørholt
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Tommy Norheim,Anders Skar,Bernard Arntsen,Lars Kjørholt,"21/15,21/5",Tommy Norheim,Anders Skar
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Nauman Majid,Terje Jacobsen,Odd Helge Gåsbakk,Roar Natvig,"21/18,17/21,21/16",Nauman Majid,Terje Jacobsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Odd Helge Gåsbakk,Roar Natvig,Inge Holter,Tor Stenvaag,"21/13,21/8",Odd Helge Gåsbakk,Roar Natvig
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Odd Helge Gåsbakk,Roar Natvig,Morten Svendsen,Torben Mogensen,"21/9,21/14",Odd Helge Gåsbakk,Roar Natvig
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Nauman Majid,Terje Jacobsen,Inge Holter,Tor Stenvaag,"21/13,21/19",Nauman Majid,Terje Jacobsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Jan Frode Neverdal,Jan Rasmussen,Knut Morten Engen,Kim Christensen,"21/15,21/19",Jan Frode Neverdal,Jan Rasmussen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Jan Frode Neverdal,Jan Rasmussen,Pankaj Bhart,Rune Enoksen,"21/7,21/12",Jan Frode Neverdal,Jan Rasmussen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Knut Morten Engen,Kim Christensen,Pankaj Bhart,Rune Enoksen,"21/9,21/9",Knut Morten Engen,Kim Christensen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,Jarle Grefslie,"21/9,21/10",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,Erik Langeland,"21/19,21/7",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,Anders Skar,"21/11,21/10",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Erik Langeland,,Noralf Gamlem,"13/21,21/13,21/17",Erik Langeland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,Lars Tingstad,"21/17,21/10",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,John Daae,"21/15,21/17",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,Claes Gunnarson,"21/16,21/9",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,John Daae,,Claes Gunnarson,"21/11,21/16",John Daae,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Noralf Gamlem,,Ketil Olsen,"21/13,14/21,24/22",Noralf Gamlem,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Erik Langeland,,Henry Tran,"21/5,21/8",Erik Langeland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Erik Langeland,,Per Arne Hammer,"21/5,21/1",Erik Langeland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Per Arne Hammer,,Henry Tran,"21/15,21/14",Per Arne Hammer,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Lars Kjørholt,,William Wilsone Walker,"21/12,21/12",Lars Kjørholt,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,Lars Kjørholt,"21/11,18/21,21/19",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,William Wilsone Walker,"21/15,21/2",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Lars Tingstad,,Arild Moen,"21/19,22/20",Lars Tingstad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Arild Moen,,Dag Esvall,"21/17,21/8",Arild Moen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Lars Tingstad,,Dag Esvall,"21/16,21/15",Lars Tingstad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Anders Skar,,Hans Georg Hvistendahl,"21/8,18/21,24/22",Anders Skar,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Christian Hervard,,Øivind Storvik,"21/16,21/11",Christian Hervard,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Anders Skar,,Christian Hervard,"21/13,21/17",Anders Skar,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Hans Georg Hvistendahl,,Øivind Storvik,"21/7,21/4",Hans Georg Hvistendahl,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Anders Skar,,Øivind Storvik,"21/8,21/10",Anders Skar,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Hans Georg Hvistendahl,,Christian Hervard,"21/19,21/15",Hans Georg Hvistendahl,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,Jarle Grefslie,"21/9,21/10",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,Erik Langeland,"21/19,21/7",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,Anders Skar,"21/11,21/10",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Erik Langeland,,Noralf Gamlem,"13/21,21/13,21/17",Erik Langeland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,Lars Tingstad,"21/17,21/10",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,John Daae,"21/15,21/17",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Robert Barø,,Claes Gunnarson,"21/16,21/9",Robert Barø,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,John Daae,,Claes Gunnarson,"21/11,21/16",John Daae,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Noralf Gamlem,,Ketil Olsen,"21/13,14/21,24/22",Noralf Gamlem,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Erik Langeland,,Henry Tran,"21/5,21/8",Erik Langeland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Erik Langeland,,Per Arne Hammer,"21/5,21/1",Erik Langeland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Per Arne Hammer,,Henry Tran,"21/15,21/14",Per Arne Hammer,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Lars Kjørholt,,William Wilsone Walker,"21/12,21/12",Lars Kjørholt,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,Lars Kjørholt,"21/11,18/21,21/19",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Jarle Grefslie,,William Wilsone Walker,"21/15,21/2",Jarle Grefslie,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Lars Tingstad,,Arild Moen,"21/19,22/20",Lars Tingstad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Arild Moen,,Dag Esvall,"21/17,21/8",Arild Moen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Lars Tingstad,,Dag Esvall,"21/16,21/15",Lars Tingstad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Anders Skar,,Hans Georg Hvistendahl,"21/8,18/21,24/22",Anders Skar,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Christian Hervard,,Øivind Storvik,"21/16,21/11",Christian Hervard,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Anders Skar,,Christian Hervard,"21/13,21/17",Anders Skar,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Hans Georg Hvistendahl,,Øivind Storvik,"21/7,21/4",Hans Georg Hvistendahl,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Anders Skar,,Øivind Storvik,"21/8,21/10",Anders Skar,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Hans Georg Hvistendahl,,Christian Hervard,"21/19,21/15",Hans Georg Hvistendahl,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Britt Grindland,,Wenche Brinchmann,"21/11,21/6",Britt Grindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Berit Thyness,,Synnøve Furholm,"21/2,21/1",Berit Thyness,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Berit Thyness,,Britt Grindland,"21/10,21/9",Berit Thyness,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Gunn Fiskergaard,,Synnøve Furholm,"21/9,21/7",Gunn Fiskergaard,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Gunn Fiskergaard,,Britt Grindland,"21/16,21/13",Gunn Fiskergaard,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Berit Thyness,,Wenche Brinchmann,"21/6,21/2",Berit Thyness,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Synnøve Furholm,,Wenche Brinchmann,"21/15,18/21,21/15",Synnøve Furholm,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Berit Thyness,,Gunn Fiskergaard,"21/19,21/15",Berit Thyness,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Britt Grindland,,Synnøve Furholm,"21/6,21/9",Britt Grindland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,,Gunn Fiskergaard,,Wenche Brinchmann,"21/9,21/8",Gunn Fiskergaard,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Jan Sørgjerd,Arild Moen,Kjetill Gunnarson,Dag Storli,"18/21,21/16,21/15",Jan Sørgjerd,Arild Moen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Noralf Gamlem,Per Ivar Furholm,Pål Dahlsveen,Tom Storgaard,"21/8,21/9",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Noralf Gamlem,Per Ivar Furholm,Kjetill Gunnarson,Dag Storli,"21/10,21/9",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Jan Sørgjerd,Arild Moen,Pål Dahlsveen,Tom Storgaard,"21/17,21/11",Jan Sørgjerd,Arild Moen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Noralf Gamlem,Per Ivar Furholm,Lars Tingstad,Arne Linnerud,"21/15,21/19",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Noralf Gamlem,Per Ivar Furholm,Arve Henriksen,Sigbjørn Krunenes,"21/12,21/14",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Arve Henriksen,Sigbjørn Krunenes,Lars Tingstad,Arne Linnerud,"21/15,21/12",Arve Henriksen,Sigbjørn Krunenes
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Kjetill Gunnarson,Dag Storli,Pål Dahlsveen,Tom Storgaard,"21/15,21/18",Kjetill Gunnarson,Dag Storli
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Noralf Gamlem,Per Ivar Furholm,Jan Sørgjerd,Arild Moen,"21/11,21/17",Noralf Gamlem,Per Ivar Furholm
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Lars Tingstad,Arne Linnerud,Rune Berg,Dag Esvall,"21/10,21/3",Lars Tingstad,Arne Linnerud
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Christian Hervard,Claes Gunnarson,Ola Gunnes,Henry Tran,"21/9,21/15",Christian Hervard,Claes Gunnarson
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Lars Tingstad,Arne Linnerud,Ola Gunnes,Henry Tran,"21/16,21/8",Lars Tingstad,Arne Linnerud
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Christian Hervard,Claes Gunnarson,Rune Berg,Dag Esvall,"21/13,21/11",Christian Hervard,Claes Gunnarson
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Lars Tingstad,Arne Linnerud,Christian Hervard,Claes Gunnarson,"21/18,19/21,21/16",Lars Tingstad,Arne Linnerud
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Rune Berg,Dag Esvall,Ola Gunnes,Henry Tran,"21/15,16/21,21/8",Rune Berg,Dag Esvall
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Arve Henriksen,Sigbjørn Krunenes,Ketil Olsen,Erik Langeland,"21/18,21/15",Arve Henriksen,Sigbjørn Krunenes
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Arve Henriksen,Sigbjørn Krunenes,Per Arne Hammer,Tor Ragnar Johansen,"21/5,21/8",Arve Henriksen,Sigbjørn Krunenes
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Ketil Olsen,Erik Langeland,Per Arne Hammer,Tor Ragnar Johansen,"21/6,21/15",Ketil Olsen,Erik Langeland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Liv Kristiane Bugge,Ingunn Vie Skare,Kirsten Gulbrandsen,Synnøve Furholm,"21/18,21/16",Liv Kristiane Bugge,Ingunn Vie Skare
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Kirsten Gulbrandsen,Synnøve Furholm,Aina Anmarkrud,Toril Staldvik,"21/14,21/16",Kirsten Gulbrandsen,Synnøve Furholm
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Liv Kristiane Bugge,Ingunn Vie Skare,Aina Anmarkrud,Toril Staldvik,"23/21,21/15",Liv Kristiane Bugge,Ingunn Vie Skare
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Kristian Hyllestad,"21/7,21/7",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Svein Atle Udjus,,Palany Subramaniam,"21/8,21/8",Svein Atle Udjus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Frank M Nielsen,"21/11,21/17",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Svein Atle Udjus,"21/19,21/13",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Svein Atle Udjus,,Frank M Nielsen,"21/8,21/18",Svein Atle Udjus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Frank M Nielsen,,Palany Subramaniam,"21/10,21/9",Frank M Nielsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Palany Subramaniam,"21/14,21/11",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Bengt Jonsson,,Tom Smebye,"21/8,21/15",Bengt Jonsson,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Kristian Hyllestad,,Bjørn Rakstang,"21/19,21/18",Kristian Hyllestad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Kristian Hyllestad,,Bengt Jonsson,"19/21,21/10,21/18",Kristian Hyllestad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Bjørn Rakstang,,Tom Smebye,"21/13,21/13",Bjørn Rakstang,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Bjørn Rakstang,,Bengt Jonsson,"21/15,21/15",Bjørn Rakstang,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Kristian Hyllestad,,Tom Smebye,"21/10,21/19",Kristian Hyllestad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Kristian Hyllestad,"21/7,21/7",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Svein Atle Udjus,,Palany Subramaniam,"21/8,21/8",Svein Atle Udjus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Frank M Nielsen,"21/11,21/17",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Svein Atle Udjus,"21/19,21/13",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Svein Atle Udjus,,Frank M Nielsen,"21/8,21/18",Svein Atle Udjus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Frank M Nielsen,,Palany Subramaniam,"21/10,21/9",Frank M Nielsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Ernst Georg Olsen,,Palany Subramaniam,"21/14,21/11",Ernst Georg Olsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Bengt Jonsson,,Tom Smebye,"21/8,21/15",Bengt Jonsson,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Kristian Hyllestad,,Bjørn Rakstang,"21/19,21/18",Kristian Hyllestad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Kristian Hyllestad,,Bengt Jonsson,"19/21,21/10,21/18",Kristian Hyllestad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Bjørn Rakstang,,Tom Smebye,"21/13,21/13",Bjørn Rakstang,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Bjørn Rakstang,,Bengt Jonsson,"21/15,21/15",Bjørn Rakstang,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,,Kristian Hyllestad,,Tom Smebye,"21/10,21/19",Kristian Hyllestad,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Geir Arnevik,Svein Atle Udjus,Frank M Nielsen,Kristian Hyllestad,"23/21,21/18",Geir Arnevik,Svein Atle Udjus
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Frank M Nielsen,Kristian Hyllestad,Palany Subramaniam,Mervin Joseph,"21/12,21/7",Frank M Nielsen,Kristian Hyllestad
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Frank M Nielsen,Kristian Hyllestad,Zhenggang Xu,Alf Asklund,"21/18,21/18",Frank M Nielsen,Kristian Hyllestad
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Zhenggang Xu,Alf Asklund,Palany Subramaniam,Mervin Joseph,"21/13,21/13",Zhenggang Xu,Alf Asklund
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Geir Arnevik,Svein Atle Udjus,Bengt Jonsson,Arne Kristian Helgestad,"21/8,21/6",Geir Arnevik,Svein Atle Udjus
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Geir Arnevik,Svein Atle Udjus,Bjørn Rakstang,Ernst Georg Olsen,"21/17,21/15",Geir Arnevik,Svein Atle Udjus
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Bjørn Rakstang,Ernst Georg Olsen,Bengt Jonsson,Arne Kristian Helgestad,"21/18,21/15",Bjørn Rakstang,Ernst Georg Olsen
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Niels Gunnar Juel,"21/14,21/11",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Niels Gunnar Juel,,Yngvar Nilsen,"21/16,21/7",Niels Gunnar Juel,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Arne Bjørn Berger,,Rasmus Sigvald Lindberg,"22/24,21/19,21/14",Arne Bjørn Berger,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Yngvar Nilsen,,Rasmus Sigvald Lindberg,"23/21,21/14",Yngvar Nilsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Niels Gunnar Juel,,Arne Bjørn Berger,"21/8,21/14",Niels Gunnar Juel,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Arne Bjørn Berger,,Yngvar Nilsen,"21/15,21/16",Arne Bjørn Berger,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Niels Gunnar Juel,,Rasmus Sigvald Lindberg,"21/8,21/10",Niels Gunnar Juel,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Arvid Kiland,"21/10,21/13",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Knut Braaen,,Staale J. Hultgren,"21/13,21/11",Knut Braaen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Arvid Kiland,,Staale J. Hultgren,"21/19,21/11",Arvid Kiland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Knut Braaen,"21/13,21/19",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Knut Braaen,,Arvid Kiland,"21/17,17/21,21/18",Knut Braaen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Staale J. Hultgren,"21/8,21/6",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Niels Gunnar Juel,"21/14,21/11",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Niels Gunnar Juel,,Yngvar Nilsen,"21/16,21/7",Niels Gunnar Juel,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Arne Bjørn Berger,,Rasmus Sigvald Lindberg,"22/24,21/19,21/14",Arne Bjørn Berger,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Yngvar Nilsen,,Rasmus Sigvald Lindberg,"23/21,21/14",Yngvar Nilsen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Niels Gunnar Juel,,Arne Bjørn Berger,"21/8,21/14",Niels Gunnar Juel,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Arne Bjørn Berger,,Yngvar Nilsen,"21/15,21/16",Arne Bjørn Berger,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Niels Gunnar Juel,,Rasmus Sigvald Lindberg,"21/8,21/10",Niels Gunnar Juel,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Arvid Kiland,"21/10,21/13",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Knut Braaen,,Staale J. Hultgren,"21/13,21/11",Knut Braaen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Arvid Kiland,,Staale J. Hultgren,"21/19,21/11",Arvid Kiland,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Knut Braaen,"21/13,21/19",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Knut Braaen,,Arvid Kiland,"21/17,17/21,21/18",Knut Braaen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,,Morten Aarhus,,Staale J. Hultgren,"21/8,21/6",Morten Aarhus,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Niels Gunnar Juel,Staale J. Hultgren,Yngvar Nilsen,Arvid Kiland,"17/21,21/15,21/17",Niels Gunnar Juel,Staale J. Hultgren
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Bernt Olsvik,Tore Sperre,Morten Aarhus,Arne Bjørn Berger,"21/16,21/12",Bernt Olsvik,Tore Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Morten Aarhus,Arne Bjørn Berger,Niels Gunnar Juel,Staale J. Hultgren,"21/12,18/21,21/19",Morten Aarhus,Arne Bjørn Berger
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Bernt Olsvik,Tore Sperre,Rasmus Sigvald Lindberg,Knut Braaen,"21/11,21/8",Bernt Olsvik,Tore Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Niels Gunnar Juel,Staale J. Hultgren,Rasmus Sigvald Lindberg,Knut Braaen,"21/11,21/12",Niels Gunnar Juel,Staale J. Hultgren
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Yngvar Nilsen,Arvid Kiland,Morten Aarhus,Arne Bjørn Berger,"21/10,17/21,21/15",Yngvar Nilsen,Arvid Kiland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Bernt Olsvik,Tore Sperre,Yngvar Nilsen,Arvid Kiland,"21/16,21/17",Bernt Olsvik,Tore Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Morten Aarhus,Arne Bjørn Berger,Rasmus Sigvald Lindberg,Knut Braaen,"21/12,21/12",Morten Aarhus,Arne Bjørn Berger
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Bernt Olsvik,Tore Sperre,Niels Gunnar Juel,Staale J. Hultgren,"21/13,21/11",Bernt Olsvik,Tore Sperre
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Yngvar Nilsen,Arvid Kiland,Rasmus Sigvald Lindberg,Knut Braaen,"21/13,21/10",Yngvar Nilsen,Arvid Kiland
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Bengt Drageset,"21/18,24/22",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Bengt Drageset,,Anker Arefjord,"21/8,21/5",Bengt Drageset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Arvid Gjæringen,,Anker Arefjord,"21/15,21/14",Arvid Gjæringen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Bengt Drageset,,Arvid Gjæringen,"21/6,21/5",Bengt Drageset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Inge Rosset,,Kåre Ottar Leonhardsen,"21/11,21/5",Inge Rosset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Helge Hansen,"15/21,21/11,21/17",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Kåre Ottar Leonhardsen,"21/7,21/4",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Helge Hansen,,Inge Rosset,"21/10,21/19",Helge Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Helge Hansen,,Kåre Ottar Leonhardsen,"21/7,21/10",Helge Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Inge Rosset,"21/11,21/15",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Bengt Drageset,"21/18,24/22",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Bengt Drageset,,Anker Arefjord,"21/8,21/5",Bengt Drageset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Arvid Gjæringen,,Anker Arefjord,"21/15,21/14",Arvid Gjæringen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Bengt Drageset,,Arvid Gjæringen,"21/6,21/5",Bengt Drageset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Inge Rosset,,Kåre Ottar Leonhardsen,"21/11,21/5",Inge Rosset,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Helge Hansen,"15/21,21/11,21/17",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Kåre Ottar Leonhardsen,"21/7,21/4",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Helge Hansen,,Inge Rosset,"21/10,21/19",Helge Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Helge Hansen,,Kåre Ottar Leonhardsen,"21/7,21/10",Helge Hansen,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,,Ole Kristian Frog,,Inge Rosset,"21/11,21/15",Ole Kristian Frog,
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Helge Hansen,Ole Kristian Frog,Arvid Gjæringen,Karl Grøsle,"21/10,21/7",Helge Hansen,Ole Kristian Frog
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Helge Hansen,Ole Kristian Frog,Knut Liland,Kåre Ottar Leonhardsen,"21/9,21/18",Helge Hansen,Ole Kristian Frog
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Inge Rosset,Svenn Jostein Bergin,Knut Liland,Kåre Ottar Leonhardsen,"21/11,21/8",Inge Rosset,Svenn Jostein Bergin
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Helge Hansen,Ole Kristian Frog,Inge Rosset,Svenn Jostein Bergin,"22/20,21/14",Helge Hansen,Ole Kristian Frog
-2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Arvid Gjæringen,Karl Grøsle,Øyvind Gundersen,Anker Arefjord,"21/13,21/11",Arvid Gjæringen,Karl Grøsle
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herresingle,,Geir Storvik,,Pål Endre Pedersen,"21/4,21/11",Geir Storvik,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herresingle,,Geir Storvik,,Bastien Mariyathas,"21/5,21/3",Geir Storvik,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herresingle,,Dimiter Ivanov,,Pål Endre Pedersen,"12/21,21/17,21/15",Dimiter Ivanov,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herresingle,,Pål Endre Pedersen,,Bent Mørken,"21/14,21/18",Pål Endre Pedersen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herresingle,,Bent Mørken,,Dimiter Ivanov,"15/21,21/19,21/16",Bent Mørken,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herredouble,Richard Jakobsen,Bent Mørken,Christian S. Johnsen,Pål Endre Pedersen,"21/19,21/14",Richard Jakobsen,Bent Mørken
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herredouble,Vijay Ramaswamy,Yahya Januarilham,Christian S. Johnsen,Pål Endre Pedersen,"21/23,21/16,21/14",Vijay Ramaswamy,Yahya Januarilham
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Herredouble,Richard Jakobsen,Bent Mørken,Vijay Ramaswamy,Yahya Januarilham,"23/21,21/16",Richard Jakobsen,Bent Mørken
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V35+ A,Mixeddouble,David Wong,Jeanette Svendsen,Ramesh Vinayaga,Mary Diana Bastien,"21/9,21/14",David Wong,Jeanette Svendsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Ståle Skorpholm,,Fred-Arvid Nilsen,"21/17,21/12",Ståle Skorpholm,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Arnt-Helge Karlsen,,Jesse Raasakka,"21/6,21/8",Arnt-Helge Karlsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Arnt-Helge Karlsen,,Fred-Arvid Nilsen,"21/7,21/4",Arnt-Helge Karlsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Ståle Skorpholm,,Jesse Raasakka,"21/13,21/14",Ståle Skorpholm,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Arnt-Helge Karlsen,,Vijay Ramaswamy,"21/14,21/17",Arnt-Helge Karlsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Arnt-Helge Karlsen,,Ole Petter Øren,"21/16,21/11",Arnt-Helge Karlsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Vijay Ramaswamy,,Ole Petter Øren,"21/14,21/16",Vijay Ramaswamy,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Jesse Raasakka,,Fred-Arvid Nilsen,"21/17,13/21,21/14",Jesse Raasakka,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Arnt-Helge Karlsen,,Ståle Skorpholm,"21/9,21/9",Arnt-Helge Karlsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Jakob Larsen,,Børre Kvarv Githmark,"21/14,21/5",Jakob Larsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Vijay Ramaswamy,,Geir Arne Andersen,"21/9,21/9",Vijay Ramaswamy,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Vijay Ramaswamy,,Børre Kvarv Githmark,"21/5,21/4",Vijay Ramaswamy,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Jakob Larsen,,Geir Arne Andersen,"21/8,21/14",Jakob Larsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Geir Arne Andersen,,Børre Kvarv Githmark,"21/18,22/20",Geir Arne Andersen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Vijay Ramaswamy,,Jakob Larsen,"24/26,21/16,21/17",Vijay Ramaswamy,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Ole Petter Øren,,Henrik H Bøje,"21/8,21/10",Ole Petter Øren,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Ole Petter Øren,,Alexander Kristensen,"21/13,21/17",Ole Petter Øren,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herresingle,,Alexander Kristensen,,Henrik H Bøje,"21/11,21/12",Alexander Kristensen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Anne Lie Foldnes,,Rowena Lindberg,"21/18,21/9",Anne Lie Foldnes,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Charlotte Aase,,Monica Fuglesang,"21/6,21/12",Charlotte Aase,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Charlotte Aase,,Rowena Lindberg,"21/5,21/9",Charlotte Aase,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Julie Langeland Risa,,Monica Fuglesang,"21/16,21/10",Julie Langeland Risa,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Julie Langeland Risa,,Rowena Lindberg,"21/13,18/21,21/17",Julie Langeland Risa,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Charlotte Aase,,Anne Lie Foldnes,"21/19,21/15",Charlotte Aase,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Anne Lie Foldnes,,Monica Fuglesang,"21/15,21/11",Anne Lie Foldnes,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Charlotte Aase,,Julie Langeland Risa,"21/18,21/13",Charlotte Aase,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Rowena Lindberg,,Monica Fuglesang,"21/14,21/12",Rowena Lindberg,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damesingle,,Anne Lie Foldnes,,Julie Langeland Risa,"17/21,21/11,21/18",Anne Lie Foldnes,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Alexander Kristensen,Odd Arne Haugen,Jesse Raasakka,Henrik H Bøje,"21/11,21/18",Alexander Kristensen,Odd Arne Haugen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,David Wong,Ram Kumar,Tom Smebye,John Thomas Krogstad,"21/13,21/5",David Wong,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,David Wong,Ram Kumar,Jesse Raasakka,Henrik H Bøje,"21/10,21/11",David Wong,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Alexander Kristensen,Odd Arne Haugen,Tom Smebye,John Thomas Krogstad,"21/13,21/12",Alexander Kristensen,Odd Arne Haugen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,David Wong,Ram Kumar,Ramesh Vinayaga,Devendra Rameshwarsingh,"21/18,21/13",David Wong,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Gøran Olsen,Arnt-Helge Karlsen,David Wong,Ram Kumar,"21/7,21/9",Gøran Olsen,Arnt-Helge Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Gøran Olsen,Arnt-Helge Karlsen,Ramesh Vinayaga,Devendra Rameshwarsingh,"21/12,21/5",Gøran Olsen,Arnt-Helge Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Jesse Raasakka,Henrik H Bøje,Tom Smebye,John Thomas Krogstad,"21/14,21/11",Jesse Raasakka,Henrik H Bøje
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,David Wong,Ram Kumar,Alexander Kristensen,Odd Arne Haugen,"25/23,21/15",David Wong,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Ramesh Vinayaga,Devendra Rameshwarsingh,Ole Petter Øren,Lars Petter Danielsen,"22/20,21/17",Ramesh Vinayaga,Devendra Rameshwarsingh
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Jørn Lindberg,Jakob Larsen,Fred-Arvid Nilsen,Børre Kvarv Githmark,"21/13,21/17",Jørn Lindberg,Jakob Larsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Ramesh Vinayaga,Devendra Rameshwarsingh,Fred-Arvid Nilsen,Børre Kvarv Githmark,"21/13,21/17",Ramesh Vinayaga,Devendra Rameshwarsingh
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Ole Petter Øren,Lars Petter Danielsen,Jørn Lindberg,Jakob Larsen,"21/17,21/13",Ole Petter Øren,Lars Petter Danielsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Ramesh Vinayaga,Devendra Rameshwarsingh,Jørn Lindberg,Jakob Larsen,"21/15,21/13",Ramesh Vinayaga,Devendra Rameshwarsingh
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Ole Petter Øren,Lars Petter Danielsen,Fred-Arvid Nilsen,Børre Kvarv Githmark,"21/13,21/15",Ole Petter Øren,Lars Petter Danielsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Gøran Olsen,Arnt-Helge Karlsen,Ståle Skorpholm,Tore Foldnes,"21/9,21/6",Gøran Olsen,Arnt-Helge Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Gøran Olsen,Arnt-Helge Karlsen,Huy Thai Dang Cao,Qadeer Alvi,"21/14,21/7",Gøran Olsen,Arnt-Helge Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Herredouble,Huy Thai Dang Cao,Qadeer Alvi,Ståle Skorpholm,Tore Foldnes,"23/21,21/15",Huy Thai Dang Cao,Qadeer Alvi
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Anne Lie Foldnes,Julie Langeland Risa,Charlotte Aase,Terese Owesen,"21/17,18/21,21/18",Anne Lie Foldnes,Julie Langeland Risa
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Anne Lie Foldnes,Julie Langeland Risa,Rowena Lindberg,Lien Nguyen,"21/9,21/15",Anne Lie Foldnes,Julie Langeland Risa
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Anne Lie Foldnes,Julie Langeland Risa,Annika Liungman,Anne Berit Bergsmo,"21/16,21/14",Anne Lie Foldnes,Julie Langeland Risa
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Annika Liungman,Anne Berit Bergsmo,Rowena Lindberg,Lien Nguyen,"21/13,9/21,21/18",Annika Liungman,Anne Berit Bergsmo
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Charlotte Aase,Terese Owesen,Ladislaus Mary Sharmila,Malathy Subramaniam,"21/6,21/6",Charlotte Aase,Terese Owesen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Charlotte Aase,Terese Owesen,Monica Skauvik,Kristina Skauvik,"21/15,21/10",Charlotte Aase,Terese Owesen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Damedouble,Monica Skauvik,Kristina Skauvik,Ladislaus Mary Sharmila,Malathy Subramaniam,"21/15,21/15",Monica Skauvik,Kristina Skauvik
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Charlotte Aase,Ram Kumar,Frank Heggen,Rowena Lindberg,"17/21,21/11,21/5",Charlotte Aase,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Charlotte Aase,Ram Kumar,Anne Lie Foldnes,Arnt-Helge Karlsen,"21/16,21/11",Charlotte Aase,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Anne Lie Foldnes,Arnt-Helge Karlsen,Frank Heggen,Rowena Lindberg,"22/20,21/10",Anne Lie Foldnes,Arnt-Helge Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Charlotte Aase,Ram Kumar,Per Stener Vestli,Julie Langeland Risa,"21/19,21/13",Charlotte Aase,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Charlotte Aase,Ram Kumar,Anne Berit Bergsmo,Rolf Ove Karlsen,"21/17,19/21,21/19",Charlotte Aase,Ram Kumar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Per Stener Vestli,Julie Langeland Risa,Anne Berit Bergsmo,Rolf Ove Karlsen,"15/21,21/17,21/16",Per Stener Vestli,Julie Langeland Risa
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Huy Thai Dang Cao,Ladislaus Mary Sharmila,Tore Foldnes,Hilde Røssland,"21/16,21/12",Huy Thai Dang Cao,Ladislaus Mary Sharmila
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Per Stener Vestli,Julie Langeland Risa,Huy Thai Dang Cao,Ladislaus Mary Sharmila,"21/12,21/16",Per Stener Vestli,Julie Langeland Risa
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Per Stener Vestli,Julie Langeland Risa,Tore Foldnes,Hilde Røssland,"21/11,21/9",Per Stener Vestli,Julie Langeland Risa
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Anne Berit Bergsmo,Rolf Ove Karlsen,Ståle Skorpholm,Monica Skauvik,"21/12,21/9",Anne Berit Bergsmo,Rolf Ove Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Arild Moen,Monica Fuglesang,Ståle Skorpholm,Monica Skauvik,"19/21,21/5,21/15",Arild Moen,Monica Fuglesang
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V40+ A,Mixeddouble,Anne Berit Bergsmo,Rolf Ove Karlsen,Arild Moen,Monica Fuglesang,"21/19,21/18",Anne Berit Bergsmo,Rolf Ove Karlsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Jan Petter Lindland,,Robert Sulebakk,"21/19,21/13",Jan Petter Lindland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Robert Sulebakk,,Eirik Sørstrand,"21/15,21/14",Robert Sulebakk,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Jan Petter Lindland,,Lars Christian Larsen,"21/11,21/14",Jan Petter Lindland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Lars Christian Larsen,,Ken Kold Hansen,"21/10,21/11",Lars Christian Larsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Robert Sulebakk,,Khiem  Duc Nguyen,"21/18,21/18",Robert Sulebakk,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Khiem  Duc Nguyen,,Nazim Nordén,"21/11,21/13",Khiem  Duc Nguyen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Robert Sulebakk,,Nazim Nordén,"21/12,21/10",Robert Sulebakk,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Eirik Sørstrand,,Odd Arne Haugen,"21/19,21/14",Eirik Sørstrand,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Christian S. Johnsen,,Stian Askerød,"21/15,21/9",Christian S. Johnsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Stian Askerød,,Odd Arne Haugen,"24/22,21/17",Stian Askerød,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Eirik Sørstrand,,Christian S. Johnsen,"22/20,21/14",Eirik Sørstrand,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Christian S. Johnsen,,Odd Arne Haugen,"21/10,21/8",Christian S. Johnsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Eirik Sørstrand,,Stian Askerød,"21/12,21/14",Eirik Sørstrand,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Ken Kold Hansen,,Magne Abelsen,"21/11,21/5",Ken Kold Hansen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Ken Kold Hansen,,Bengt Pedersen,"21/16,23/21",Ken Kold Hansen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Bengt Pedersen,,Magne Abelsen,"21/6,21/8",Bengt Pedersen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Lars Christian Larsen,,Lars Petter Danielsen,"21/12,21/17",Lars Christian Larsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Huy Thai Dang Cao,,Lars Petter Danielsen,"21/14,21/15",Huy Thai Dang Cao,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Lars Christian Larsen,,Huy Thai Dang Cao,"18/21,21/12,21/9",Lars Christian Larsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Jan Petter Lindland,,Rolf Ove Karlsen,"21/16,21/12",Jan Petter Lindland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Rolf Ove Karlsen,,Odd Magnus Bjerkvik,"21/12,21/19",Rolf Ove Karlsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herresingle,,Jan Petter Lindland,,Odd Magnus Bjerkvik,"21/18,18/21,21/10",Jan Petter Lindland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Trine Sperre,,Lien Nguyen,"21/19,21/18",Trine Sperre,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Trine Sperre,,Liv Merete Hammer,"21/7,21/3",Trine Sperre,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Trine Sperre,,Hilde Røssland,"21/7,21/6",Trine Sperre,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Hilde Røssland,,Liv Merete Hammer,"21/8,21/14",Hilde Røssland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Trine Sperre,,Hilde Genberg,"11/21,22/20,21/9",Trine Sperre,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Lien Nguyen,,Jorunn Rasmussen,"21/16,11/21,21/18",Lien Nguyen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Bente Sotnes,,Elisabeth Hjellegjerde Skog,"21/12,21/15",Bente Sotnes,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Lien Nguyen,,Bente Sotnes,"21/9,21/15",Lien Nguyen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Jorunn Rasmussen,,Elisabeth Hjellegjerde Skog,"21/9,21/10",Jorunn Rasmussen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Elisabeth Hjellegjerde Skog,,Lien Nguyen,"21/14,11/21,22/20",Elisabeth Hjellegjerde Skog,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damesingle,,Jorunn Rasmussen,,Bente Sotnes,"21/18,21/15",Jorunn Rasmussen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Rolf Ove Karlsen,Trond Mære,Nils Even Urkedal,Robert Sulebakk,"21/23,21/13,21/16",Rolf Ove Karlsen,Trond Mære
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Rolf Ove Karlsen,Trond Mære,Eirik Sørstrand,Jan Petter Lindland,"21/13,26/24",Rolf Ove Karlsen,Trond Mære
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Nils Even Urkedal,Robert Sulebakk,Odd Magnus Bjerkvik,Geir Storvik,"21/18,21/15",Nils Even Urkedal,Robert Sulebakk
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Rolf Ove Karlsen,Trond Mære,Bengt Pedersen,Øivind Storvik,"21/11,21/14",Rolf Ove Karlsen,Trond Mære
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Rolf Ove Karlsen,Trond Mære,Jarle Grefslie,Baard Janitz,"21/12,21/14",Rolf Ove Karlsen,Trond Mære
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Jarle Grefslie,Baard Janitz,Bengt Pedersen,Øivind Storvik,"21/18,21/15",Jarle Grefslie,Baard Janitz
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Eirik Sørstrand,Jan Petter Lindland,Geir Pedersen,Stian Askerød,"21/13,21/10",Eirik Sørstrand,Jan Petter Lindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Geir Pedersen,Stian Askerød,Magne Abelsen,William Wilsone Walker,"21/13,21/11",Geir Pedersen,Stian Askerød
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Eirik Sørstrand,Jan Petter Lindland,Magne Abelsen,William Wilsone Walker,"21/13,21/13",Eirik Sørstrand,Jan Petter Lindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Odd Magnus Bjerkvik,Geir Storvik,Lars Christian Larsen,Ken Kold Hansen,"21/13,25/23",Odd Magnus Bjerkvik,Geir Storvik
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Lars Christian Larsen,Ken Kold Hansen,Erik Winger,Jan Aage Nyborg,"21/4,21/11",Lars Christian Larsen,Ken Kold Hansen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Odd Magnus Bjerkvik,Geir Storvik,Erik Winger,Jan Aage Nyborg,"21/4,21/0",Odd Magnus Bjerkvik,Geir Storvik
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Nils Even Urkedal,Robert Sulebakk,Geir Arne Andersen,Nazim Nordén,"21/10,21/9",Nils Even Urkedal,Robert Sulebakk
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Nils Even Urkedal,Robert Sulebakk,Khiem  Duc Nguyen,Frank Heggen,"21/11,21/17",Nils Even Urkedal,Robert Sulebakk
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Herredouble,Khiem  Duc Nguyen,Frank Heggen,Geir Arne Andersen,Nazim Nordén,"21/6,21/10",Khiem  Duc Nguyen,Frank Heggen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Sissel W. Schmidt,Gunn Fiskergaard,Wenche Brinchmann,Merete Ruud Tuskin,"21/9,21/9",Sissel W. Schmidt,Gunn Fiskergaard
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Berit Thyness,Trine Sperre,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/11,21/13",Berit Thyness,Trine Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Berit Thyness,Trine Sperre,Wenche Brinchmann,Merete Ruud Tuskin,"21/11,21/10",Berit Thyness,Trine Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Sissel W. Schmidt,Gunn Fiskergaard,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,"21/17,21/16",Sissel W. Schmidt,Gunn Fiskergaard
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Monica Halvorsen,Gitte Gandborg,Berit Thyness,Trine Sperre,"21/5,21/15",Monica Halvorsen,Gitte Gandborg
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Berit Thyness,Trine Sperre,Inger Margrethe Midtlid,Randi Ulla Nogva,"21/19,21/9",Berit Thyness,Trine Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Monica Halvorsen,Gitte Gandborg,Inger Margrethe Midtlid,Randi Ulla Nogva,"21/9,21/11",Monica Halvorsen,Gitte Gandborg
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Elisabeth Hjellegjerde Skog,Cecilie Welle Bay,Wenche Brinchmann,Merete Ruud Tuskin,"21/16,21/9",Elisabeth Hjellegjerde Skog,Cecilie Welle Bay
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Berit Thyness,Trine Sperre,Sissel W. Schmidt,Gunn Fiskergaard,"21/12,21/14",Berit Thyness,Trine Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Monica Halvorsen,Gitte Gandborg,Jorunn Rasmussen,Britt Grindland,"21/9,21/12",Monica Halvorsen,Gitte Gandborg
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Jorunn Rasmussen,Britt Grindland,Merete Andreassen,Anja Niemi,"21/18,14/21,21/15",Jorunn Rasmussen,Britt Grindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Monica Halvorsen,Gitte Gandborg,Merete Andreassen,Anja Niemi,"21/9,21/11",Monica Halvorsen,Gitte Gandborg
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Jorunn Rasmussen,Britt Grindland,Hilde Genberg,Hilde Røssland,"21/15,21/9",Jorunn Rasmussen,Britt Grindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Inger Margrethe Midtlid,Randi Ulla Nogva,Anita Olsen,Anja Olsen,"21/14,21/9",Inger Margrethe Midtlid,Randi Ulla Nogva
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Inger Margrethe Midtlid,Randi Ulla Nogva,Bente Sotnes,Kristin Thømt,"16/21,21/15,21/19",Inger Margrethe Midtlid,Randi Ulla Nogva
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Damedouble,Bente Sotnes,Kristin Thømt,Anita Olsen,Anja Olsen,"21/8,18/21,21/16",Bente Sotnes,Kristin Thømt
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Trine Sperre,Thomas Pedersen,Cecilie Welle Bay,Robert Sulebakk,"21/18,21/15",Trine Sperre,Thomas Pedersen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Trine Sperre,Thomas Pedersen,Trond Mære,Anita Olsen,"12/21,21/13,21/11",Trine Sperre,Thomas Pedersen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Cecilie Welle Bay,Robert Sulebakk,Jan Frode Neverdal,Jorunn Rasmussen,"13/21,21/19,21/18",Cecilie Welle Bay,Robert Sulebakk
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Jan Frode Neverdal,Jorunn Rasmussen,Anja Olsen,Vegar Næss,"21/11,21/13",Jan Frode Neverdal,Jorunn Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Trine Sperre,Thomas Pedersen,Bente Sotnes,Terje Jacobsen,"21/16,21/5",Trine Sperre,Thomas Pedersen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Trine Sperre,Thomas Pedersen,Stian Askerød,Monica Halvorsen,"21/9,21/10",Trine Sperre,Thomas Pedersen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Stian Askerød,Monica Halvorsen,Bente Sotnes,Terje Jacobsen,"21/16,21/13",Stian Askerød,Monica Halvorsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Trond Mære,Anita Olsen,Lars Christian Larsen,Liv Merete Hammer,"21/6,21/10",Trond Mære,Anita Olsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Trond Mære,Anita Olsen,Baard Janitz,Wenche Brinchmann,"21/17,21/15",Trond Mære,Anita Olsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Baard Janitz,Wenche Brinchmann,Lars Christian Larsen,Liv Merete Hammer,"23/21,21/10",Baard Janitz,Wenche Brinchmann
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Anja Olsen,Vegar Næss,Annika Liungman,Roar Natvig,"24/22,23/21",Anja Olsen,Vegar Næss
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Anja Olsen,Vegar Næss,Bengt Pedersen,Anja Niemi,"21/11,21/17",Anja Olsen,Vegar Næss
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Annika Liungman,Roar Natvig,Bengt Pedersen,Anja Niemi,"21/15,21/12",Annika Liungman,Roar Natvig
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Lien Nguyen,Jan Petter Lindland,Nazim Nordén,Merete Ruud Tuskin,"21/11,21/9",Lien Nguyen,Jan Petter Lindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Jan Frode Neverdal,Jorunn Rasmussen,Lien Nguyen,Jan Petter Lindland,"21/8,15/21,21/12",Jan Frode Neverdal,Jorunn Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Jan Frode Neverdal,Jorunn Rasmussen,Nazim Nordén,Merete Ruud Tuskin,"21/8,21/11",Jan Frode Neverdal,Jorunn Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Per Ivar Furholm,Elisabeth Hjellegjerde Skog,Devendra Rameshwarsingh,Vidya Gouli,"21/13,21/17",Per Ivar Furholm,Elisabeth Hjellegjerde Skog
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V45+ A,Mixeddouble,Cecilie Welle Bay,Robert Sulebakk,Per Ivar Furholm,Elisabeth Hjellegjerde Skog,"21/14,21/16",Cecilie Welle Bay,Robert Sulebakk
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Jan Frode Neverdal,,Thor Christian Tallaksen,"21/16,21/18",Jan Frode Neverdal,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thor Christian Tallaksen,,Nauman Majid,"21/16,21/18",Thor Christian Tallaksen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Jan Frode Neverdal,,Thomas Pedersen,"21/12,21/9",Jan Frode Neverdal,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thor Christian Tallaksen,,Roar Natvig,"21/11,21/11",Thor Christian Tallaksen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Jan Frode Neverdal,,Terje Jacobsen,"22/24,21/6,21/7",Jan Frode Neverdal,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Knut Morten Engen,,Rune Enoksen,"24/22,21/5",Knut Morten Engen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Nauman Majid,,Vegar Næss,"21/16,21/12",Nauman Majid,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Nauman Majid,,Rune Enoksen,"21/12,21/9",Nauman Majid,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Vegar Næss,,Knut Morten Engen,"17/21,21/9,21/11",Vegar Næss,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Vegar Næss,,Rune Enoksen,"21/5,21/12",Vegar Næss,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Nauman Majid,,Knut Morten Engen,"16/21,21/15,21/16",Nauman Majid,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Roar Natvig,,Bernard Arntsen,"21/16,21/9",Roar Natvig,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Roar Natvig,,Tor Stenvaag,"21/19,21/12",Roar Natvig,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Tor Stenvaag,,Bernard Arntsen,"21/16,21/16",Tor Stenvaag,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Marius Imset,,Richard Jakobsen,"21/14,17/21,21/18",Marius Imset,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thor Christian Tallaksen,,Marius Imset,"21/10,21/11",Thor Christian Tallaksen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thor Christian Tallaksen,,Richard Jakobsen,"21/4,21/11",Thor Christian Tallaksen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Terje Jacobsen,,Tommy Norheim,"16/21,21/11,21/14",Terje Jacobsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Odd Helge Gåsbakk,,Tommy Norheim,"21/8,21/15",Odd Helge Gåsbakk,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Terje Jacobsen,,Odd Helge Gåsbakk,"21/8,21/18",Terje Jacobsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Jan Frode Neverdal,,Frank Heggen,"21/14,21/10",Jan Frode Neverdal,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Jan Frode Neverdal,,Inge Holter,"21/9,21/15",Jan Frode Neverdal,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Frank Heggen,,Inge Holter,"21/14,12/21,21/15",Frank Heggen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Xijiang Yu,,Pankaj Bhart,"21/14,21/13",Xijiang Yu,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thomas Pedersen,,Roger Sagen,"21/12,21/10",Thomas Pedersen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thomas Pedersen,,Pankaj Bhart,"21/11,21/14",Thomas Pedersen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Roger Sagen,,Xijiang Yu,"22/20,21/14",Roger Sagen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Roger Sagen,,Pankaj Bhart,"22/20,21/14",Roger Sagen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herresingle,,Thomas Pedersen,,Xijiang Yu,"21/7,21/12",Thomas Pedersen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Jan Frode Neverdal,Jan Rasmussen,Tommy Helander,Bjørn Hamang,"21/18,21/9",Jan Frode Neverdal,Jan Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Tommy Helander,Bjørn Hamang,Tommy Norheim,Anders Skar,"21/18,19/21,21/14",Tommy Helander,Bjørn Hamang
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Jan Frode Neverdal,Jan Rasmussen,Nauman Majid,Terje Jacobsen,"21/16,21/19",Jan Frode Neverdal,Jan Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Thomas Pedersen,Lars Valentin,Vegar Næss,Per Stener Vestli,"21/17,21/14",Thomas Pedersen,Lars Valentin
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Tommy Helander,Bjørn Hamang,Thomas Pedersen,Lars Valentin,"12/21,22/20,22/20",Tommy Helander,Bjørn Hamang
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Tommy Helander,Bjørn Hamang,Vegar Næss,Per Stener Vestli,"21/15,24/22",Tommy Helander,Bjørn Hamang
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Tommy Norheim,Anders Skar,Kanwal Agnihotri,Tanveer Ashraf,"21/1,21/6",Tommy Norheim,Anders Skar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Bernard Arntsen,Lars Kjørholt,Kanwal Agnihotri,Tanveer Ashraf,"21/4,21/12",Bernard Arntsen,Lars Kjørholt
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Tommy Norheim,Anders Skar,Bernard Arntsen,Lars Kjørholt,"21/15,21/5",Tommy Norheim,Anders Skar
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Nauman Majid,Terje Jacobsen,Odd Helge Gåsbakk,Roar Natvig,"21/18,17/21,21/16",Nauman Majid,Terje Jacobsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Odd Helge Gåsbakk,Roar Natvig,Inge Holter,Tor Stenvaag,"21/13,21/8",Odd Helge Gåsbakk,Roar Natvig
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Odd Helge Gåsbakk,Roar Natvig,Morten Svendsen,Torben Mogensen,"21/9,21/14",Odd Helge Gåsbakk,Roar Natvig
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Nauman Majid,Terje Jacobsen,Inge Holter,Tor Stenvaag,"21/13,21/19",Nauman Majid,Terje Jacobsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Jan Frode Neverdal,Jan Rasmussen,Knut Morten Engen,Kim Christensen,"21/15,21/19",Jan Frode Neverdal,Jan Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Jan Frode Neverdal,Jan Rasmussen,Pankaj Bhart,Rune Enoksen,"21/7,21/12",Jan Frode Neverdal,Jan Rasmussen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Herredouble,Knut Morten Engen,Kim Christensen,Pankaj Bhart,Rune Enoksen,"21/9,21/9",Knut Morten Engen,Kim Christensen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Bent Mørken,Merete Andreassen,Randi Ulla Nogva,Nils Even Urkedal,"19/21,21/14,21/17",Bent Mørken,Merete Andreassen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Tommy Helander,Kristin Thømt,Gunn Fiskergaard,Tor Stenvaag,"21/17,21/14",Tommy Helander,Kristin Thømt
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Randi Ulla Nogva,Nils Even Urkedal,Tommy Helander,Kristin Thømt,"18/21,21/16,21/13",Randi Ulla Nogva,Nils Even Urkedal
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Randi Ulla Nogva,Nils Even Urkedal,Gunn Fiskergaard,Tor Stenvaag,"21/17,21/10",Randi Ulla Nogva,Nils Even Urkedal
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Knut Morten Engen,Gitte Gandborg,Richard Jakobsen,Inger Margrethe Midtlid,"13/21,21/12,22/20",Knut Morten Engen,Gitte Gandborg
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Bent Mørken,Merete Andreassen,Sissel W. Schmidt,Lars Valentin,"21/16,21/19",Bent Mørken,Merete Andreassen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Knut Morten Engen,Gitte Gandborg,Sissel W. Schmidt,Lars Valentin,"19/21,21/14,21/11",Knut Morten Engen,Gitte Gandborg
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Bent Mørken,Merete Andreassen,Richard Jakobsen,Inger Margrethe Midtlid,"21/18,21/17",Bent Mørken,Merete Andreassen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Bent Mørken,Merete Andreassen,Knut Morten Engen,Gitte Gandborg,"21/19,14/21,21/14",Bent Mørken,Merete Andreassen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V50+ A,Mixeddouble,Sissel W. Schmidt,Lars Valentin,Richard Jakobsen,Inger Margrethe Midtlid,"21/11,21/11",Sissel W. Schmidt,Lars Valentin
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Robert Barø,,Jarle Grefslie,"21/9,21/10",Robert Barø,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Robert Barø,,Erik Langeland,"21/19,21/7",Robert Barø,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Jarle Grefslie,,Anders Skar,"21/11,21/10",Jarle Grefslie,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Erik Langeland,,Noralf Gamlem,"13/21,21/13,21/17",Erik Langeland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Jarle Grefslie,,Lars Tingstad,"21/17,21/10",Jarle Grefslie,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Robert Barø,,John Daae,"21/15,21/17",Robert Barø,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Robert Barø,,Claes Gunnarson,"21/16,21/9",Robert Barø,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,John Daae,,Claes Gunnarson,"21/11,21/16",John Daae,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Noralf Gamlem,,Ketil Olsen,"21/13,14/21,24/22",Noralf Gamlem,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Erik Langeland,,Henry Tran,"21/5,21/8",Erik Langeland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Erik Langeland,,Per Arne Hammer,"21/5,21/1",Erik Langeland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Per Arne Hammer,,Henry Tran,"21/15,21/14",Per Arne Hammer,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Lars Kjørholt,,William Wilsone Walker,"21/12,21/12",Lars Kjørholt,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Jarle Grefslie,,Lars Kjørholt,"21/11,18/21,21/19",Jarle Grefslie,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Jarle Grefslie,,William Wilsone Walker,"21/15,21/2",Jarle Grefslie,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Lars Tingstad,,Arild Moen,"21/19,22/20",Lars Tingstad,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Arild Moen,,Dag Esvall,"21/17,21/8",Arild Moen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Lars Tingstad,,Dag Esvall,"21/16,21/15",Lars Tingstad,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Anders Skar,,Hans Georg Hvistendahl,"21/8,18/21,24/22",Anders Skar,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Christian Hervard,,Øivind Storvik,"21/16,21/11",Christian Hervard,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Anders Skar,,Christian Hervard,"21/13,21/17",Anders Skar,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Hans Georg Hvistendahl,,Øivind Storvik,"21/7,21/4",Hans Georg Hvistendahl,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Anders Skar,,Øivind Storvik,"21/8,21/10",Anders Skar,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herresingle,,Hans Georg Hvistendahl,,Christian Hervard,"21/19,21/15",Hans Georg Hvistendahl,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Britt Grindland,,Wenche Brinchmann,"21/11,21/6",Britt Grindland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Berit Thyness,,Synnøve Furholm,"21/2,21/1",Berit Thyness,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Berit Thyness,,Britt Grindland,"21/10,21/9",Berit Thyness,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Gunn Fiskergaard,,Synnøve Furholm,"21/9,21/7",Gunn Fiskergaard,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Gunn Fiskergaard,,Britt Grindland,"21/16,21/13",Gunn Fiskergaard,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Berit Thyness,,Wenche Brinchmann,"21/6,21/2",Berit Thyness,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Synnøve Furholm,,Wenche Brinchmann,"21/15,18/21,21/15",Synnøve Furholm,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Berit Thyness,,Gunn Fiskergaard,"21/19,21/15",Berit Thyness,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Britt Grindland,,Synnøve Furholm,"21/6,21/9",Britt Grindland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damesingle,,Gunn Fiskergaard,,Wenche Brinchmann,"21/9,21/8",Gunn Fiskergaard,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Jan Sørgjerd,Arild Moen,Kjetill Gunnarson,Dag Storli,"18/21,21/16,21/15",Jan Sørgjerd,Arild Moen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Pål Dahlsveen,Tom Storgaard,"21/8,21/9",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Kjetill Gunnarson,Dag Storli,"21/10,21/9",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Jan Sørgjerd,Arild Moen,Pål Dahlsveen,Tom Storgaard,"21/17,21/11",Jan Sørgjerd,Arild Moen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Lars Tingstad,Arne Linnerud,"21/15,21/19",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Arve Henriksen,Sigbjørn Krunenes,"21/12,21/14",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Arve Henriksen,Sigbjørn Krunenes,Lars Tingstad,Arne Linnerud,"21/15,21/12",Arve Henriksen,Sigbjørn Krunenes
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Kjetill Gunnarson,Dag Storli,Pål Dahlsveen,Tom Storgaard,"21/15,21/18",Kjetill Gunnarson,Dag Storli
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Jan Sørgjerd,Arild Moen,"21/11,21/17",Noralf Gamlem,Per Ivar Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Lars Tingstad,Arne Linnerud,Rune Berg,Dag Esvall,"21/10,21/3",Lars Tingstad,Arne Linnerud
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Christian Hervard,Claes Gunnarson,Ola Gunnes,Henry Tran,"21/9,21/15",Christian Hervard,Claes Gunnarson
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Lars Tingstad,Arne Linnerud,Ola Gunnes,Henry Tran,"21/16,21/8",Lars Tingstad,Arne Linnerud
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Christian Hervard,Claes Gunnarson,Rune Berg,Dag Esvall,"21/13,21/11",Christian Hervard,Claes Gunnarson
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Lars Tingstad,Arne Linnerud,Christian Hervard,Claes Gunnarson,"21/18,19/21,21/16",Lars Tingstad,Arne Linnerud
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Rune Berg,Dag Esvall,Ola Gunnes,Henry Tran,"21/15,16/21,21/8",Rune Berg,Dag Esvall
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Arve Henriksen,Sigbjørn Krunenes,Ketil Olsen,Erik Langeland,"21/18,21/15",Arve Henriksen,Sigbjørn Krunenes
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Arve Henriksen,Sigbjørn Krunenes,Per Arne Hammer,Tor Ragnar Johansen,"21/5,21/8",Arve Henriksen,Sigbjørn Krunenes
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Herredouble,Ketil Olsen,Erik Langeland,Per Arne Hammer,Tor Ragnar Johansen,"21/6,21/15",Ketil Olsen,Erik Langeland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damedouble,Liv Kristiane Bugge,Ingunn Vie Skare,Kirsten Gulbrandsen,Synnøve Furholm,"21/18,21/16",Liv Kristiane Bugge,Ingunn Vie Skare
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damedouble,Kirsten Gulbrandsen,Synnøve Furholm,Aina Anmarkrud,Toril Staldvik,"21/14,21/16",Kirsten Gulbrandsen,Synnøve Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Damedouble,Liv Kristiane Bugge,Ingunn Vie Skare,Aina Anmarkrud,Toril Staldvik,"23/21,21/15",Liv Kristiane Bugge,Ingunn Vie Skare
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Geir Arnevik,Britt Grindland,Liv Kristiane Bugge,Noralf Gamlem,"21/11,21/11",Geir Arnevik,Britt Grindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Robert Barø,Synnøve Furholm,Aina Anmarkrud,Arne Kristian Helgestad,"21/12,21/18",Robert Barø,Synnøve Furholm
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Geir Arnevik,Britt Grindland,Robert Barø,Synnøve Furholm,"21/18,21/13",Geir Arnevik,Britt Grindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Geir Arnevik,Britt Grindland,Aina Anmarkrud,Arne Kristian Helgestad,"21/10,21/8",Geir Arnevik,Britt Grindland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Arve Henriksen,Berit Thyness,Liv Kristiane Bugge,Noralf Gamlem,"21/9,17/21,23/21",Arve Henriksen,Berit Thyness
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Toril Staldvik,Sigbjørn Krunenes,Kirsten Gulbrandsen,Hans Georg Hvistendahl,"19/21,21/18,21/15",Toril Staldvik,Sigbjørn Krunenes
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Liv Kristiane Bugge,Noralf Gamlem,Toril Staldvik,Sigbjørn Krunenes,"21/19,21/18",Liv Kristiane Bugge,Noralf Gamlem
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Arve Henriksen,Berit Thyness,Kirsten Gulbrandsen,Hans Georg Hvistendahl,"21/16,19/21,21/7",Arve Henriksen,Berit Thyness
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Liv Kristiane Bugge,Noralf Gamlem,Kirsten Gulbrandsen,Hans Georg Hvistendahl,"21/19,21/18",Liv Kristiane Bugge,Noralf Gamlem
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V55+ A,Mixeddouble,Toril Staldvik,Sigbjørn Krunenes,Arve Henriksen,Berit Thyness,"21/19,21/11",Toril Staldvik,Sigbjørn Krunenes
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Ernst Georg Olsen,,Kristian Hyllestad,"21/7,21/7",Ernst Georg Olsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Svein Atle Udjus,,Palany Subramaniam,"21/8,21/8",Svein Atle Udjus,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Ernst Georg Olsen,,Frank M Nielsen,"21/11,21/17",Ernst Georg Olsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Ernst Georg Olsen,,Svein Atle Udjus,"21/19,21/13",Ernst Georg Olsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Svein Atle Udjus,,Frank M Nielsen,"21/8,21/18",Svein Atle Udjus,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Frank M Nielsen,,Palany Subramaniam,"21/10,21/9",Frank M Nielsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Ernst Georg Olsen,,Palany Subramaniam,"21/14,21/11",Ernst Georg Olsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Bengt Jonsson,,Tom Smebye,"21/8,21/15",Bengt Jonsson,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Kristian Hyllestad,,Bjørn Rakstang,"21/19,21/18",Kristian Hyllestad,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Kristian Hyllestad,,Bengt Jonsson,"19/21,21/10,21/18",Kristian Hyllestad,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Bjørn Rakstang,,Tom Smebye,"21/13,21/13",Bjørn Rakstang,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Bjørn Rakstang,,Bengt Jonsson,"21/15,21/15",Bjørn Rakstang,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herresingle,,Kristian Hyllestad,,Tom Smebye,"21/10,21/19",Kristian Hyllestad,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Geir Arnevik,Svein Atle Udjus,Frank M Nielsen,Kristian Hyllestad,"23/21,21/18",Geir Arnevik,Svein Atle Udjus
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Frank M Nielsen,Kristian Hyllestad,Palany Subramaniam,Mervin Joseph,"21/12,21/7",Frank M Nielsen,Kristian Hyllestad
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Frank M Nielsen,Kristian Hyllestad,Zhenggang Xu,Alf Asklund,"21/18,21/18",Frank M Nielsen,Kristian Hyllestad
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Zhenggang Xu,Alf Asklund,Palany Subramaniam,Mervin Joseph,"21/13,21/13",Zhenggang Xu,Alf Asklund
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Geir Arnevik,Svein Atle Udjus,Bengt Jonsson,Arne Kristian Helgestad,"21/8,21/6",Geir Arnevik,Svein Atle Udjus
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Geir Arnevik,Svein Atle Udjus,Bjørn Rakstang,Ernst Georg Olsen,"21/17,21/15",Geir Arnevik,Svein Atle Udjus
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V60+ A,Herredouble,Bjørn Rakstang,Ernst Georg Olsen,Bengt Jonsson,Arne Kristian Helgestad,"21/18,21/15",Bjørn Rakstang,Ernst Georg Olsen
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Morten Aarhus,,Niels Gunnar Juel,"21/14,21/11",Morten Aarhus,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Niels Gunnar Juel,,Yngvar Nilsen,"21/16,21/7",Niels Gunnar Juel,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Arne Bjørn Berger,,Rasmus Sigvald Lindberg,"22/24,21/19,21/14",Arne Bjørn Berger,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Yngvar Nilsen,,Rasmus Sigvald Lindberg,"23/21,21/14",Yngvar Nilsen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Niels Gunnar Juel,,Arne Bjørn Berger,"21/8,21/14",Niels Gunnar Juel,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Arne Bjørn Berger,,Yngvar Nilsen,"21/15,21/16",Arne Bjørn Berger,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Niels Gunnar Juel,,Rasmus Sigvald Lindberg,"21/8,21/10",Niels Gunnar Juel,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Morten Aarhus,,Arvid Kiland,"21/10,21/13",Morten Aarhus,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Knut Braaen,,Staale J. Hultgren,"21/13,21/11",Knut Braaen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Arvid Kiland,,Staale J. Hultgren,"21/19,21/11",Arvid Kiland,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Morten Aarhus,,Knut Braaen,"21/13,21/19",Morten Aarhus,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Knut Braaen,,Arvid Kiland,"21/17,17/21,21/18",Knut Braaen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herresingle,,Morten Aarhus,,Staale J. Hultgren,"21/8,21/6",Morten Aarhus,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Niels Gunnar Juel,Staale J. Hultgren,Yngvar Nilsen,Arvid Kiland,"17/21,21/15,21/17",Niels Gunnar Juel,Staale J. Hultgren
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Bernt Olsvik,Tore Sperre,Morten Aarhus,Arne Bjørn Berger,"21/16,21/12",Bernt Olsvik,Tore Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Morten Aarhus,Arne Bjørn Berger,Niels Gunnar Juel,Staale J. Hultgren,"21/12,18/21,21/19",Morten Aarhus,Arne Bjørn Berger
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Bernt Olsvik,Tore Sperre,Rasmus Sigvald Lindberg,Knut Braaen,"21/11,21/8",Bernt Olsvik,Tore Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Niels Gunnar Juel,Staale J. Hultgren,Rasmus Sigvald Lindberg,Knut Braaen,"21/11,21/12",Niels Gunnar Juel,Staale J. Hultgren
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Yngvar Nilsen,Arvid Kiland,Morten Aarhus,Arne Bjørn Berger,"21/10,17/21,21/15",Yngvar Nilsen,Arvid Kiland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Bernt Olsvik,Tore Sperre,Yngvar Nilsen,Arvid Kiland,"21/16,21/17",Bernt Olsvik,Tore Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Morten Aarhus,Arne Bjørn Berger,Rasmus Sigvald Lindberg,Knut Braaen,"21/12,21/12",Morten Aarhus,Arne Bjørn Berger
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Bernt Olsvik,Tore Sperre,Niels Gunnar Juel,Staale J. Hultgren,"21/13,21/11",Bernt Olsvik,Tore Sperre
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V65+ A,Herredouble,Yngvar Nilsen,Arvid Kiland,Rasmus Sigvald Lindberg,Knut Braaen,"21/13,21/10",Yngvar Nilsen,Arvid Kiland
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Ole Kristian Frog,,Bengt Drageset,"21/18,24/22",Ole Kristian Frog,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Bengt Drageset,,Anker Arefjord,"21/8,21/5",Bengt Drageset,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Arvid Gjæringen,,Anker Arefjord,"21/15,21/14",Arvid Gjæringen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Bengt Drageset,,Arvid Gjæringen,"21/6,21/5",Bengt Drageset,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Inge Rosset,,Kåre Ottar Leonhardsen,"21/11,21/5",Inge Rosset,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Ole Kristian Frog,,Helge Hansen,"15/21,21/11,21/17",Ole Kristian Frog,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Ole Kristian Frog,,Kåre Ottar Leonhardsen,"21/7,21/4",Ole Kristian Frog,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Helge Hansen,,Inge Rosset,"21/10,21/19",Helge Hansen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Helge Hansen,,Kåre Ottar Leonhardsen,"21/7,21/10",Helge Hansen,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herresingle,,Ole Kristian Frog,,Inge Rosset,"21/11,21/15",Ole Kristian Frog,
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herredouble,Helge Hansen,Ole Kristian Frog,Arvid Gjæringen,Karl Grøsle,"21/10,21/7",Helge Hansen,Ole Kristian Frog
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herredouble,Helge Hansen,Ole Kristian Frog,Knut Liland,Kåre Ottar Leonhardsen,"21/9,21/18",Helge Hansen,Ole Kristian Frog
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herredouble,Inge Rosset,Svenn Jostein Bergin,Knut Liland,Kåre Ottar Leonhardsen,"21/11,21/8",Inge Rosset,Svenn Jostein Bergin
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herredouble,Helge Hansen,Ole Kristian Frog,Inge Rosset,Svenn Jostein Bergin,"22/20,21/14",Helge Hansen,Ole Kristian Frog
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Herredouble,Arvid Gjæringen,Karl Grøsle,Øyvind Gundersen,Anker Arefjord,"21/13,21/11",Arvid Gjæringen,Karl Grøsle
+2022/2023,Frogner Veteranmesterskapet,03.03.2023,V70+ A,Mixeddouble,Ingunn Vie Skare,Bengt Drageset,Knut Liland,Randi Gulbrandsen,"21/11,21/11",Ingunn Vie Skare,Bengt Drageset

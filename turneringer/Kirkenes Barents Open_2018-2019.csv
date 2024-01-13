@@ -1,266 +1,135 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Evelina Chernykh,"21/12,21/15",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Polina Bokovaia,,Iuliia Bogdanova,"21/12,21/11",Polina Bokovaia,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Polina Bokovaia,"21/10,21/9",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Iuliia Bogdanova,"21/5,21/13",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Arina Koraeva,,Svetoslava Petrova,"21/7,21/10",Arina Koraeva,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Arina Koraeva,"21/18,21/12",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Svetoslava Petrova,"21/16,21/11",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Alexander Demyanchuk,Andrei Zhulnov,"21/13,16/21,21/15",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Pavel Ozerinnikov,Egor Beloshitskii,"21/16,21/19",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Alexander Demyanchuk,Andrei Zhulnov,Kirill Markin,Andrei Sherembeev,"21/17,21/18",Alexander Demyanchuk,Andrei Zhulnov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Kirill Markin,Andrei Sherembeev,Aleksei Borovikov,Aleksei Kotelnikov,"21/18,21/19",Kirill Markin,Andrei Sherembeev
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Polina Bokovaia,Arina Koraeva,"21/14,22/20",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Iuliia Bogdanova,Svetoslava Petrova,"21/13,21/15",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Anna Chernova,Evelina Chernykh,"21/11,21/11",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Iuliia Bogdanova,Svetoslava Petrova,"21/10,21/17",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Polina Bokovaia,Arina Koraeva,"21/18,15/21,21/6",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Polina Bokovaia,Arina Koraeva,Iuliia Bogdanova,Svetoslava Petrova,"21/16,21/13",Polina Bokovaia,Arina Koraeva
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Hendry Nordli,,Joakim Andreassen,"21/9,21/18",Hendry Nordli,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Kim Steve Nystad,,Joakim Andreassen,"21/17,22/24,21/10",Kim Steve Nystad,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Alexander Krasnov,,Kim Steve Nystad,"21/15,13/21,22/20",Alexander Krasnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Joakim Andreassen,,Alexander Krasnov,"21/18,22/20",Joakim Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Igor Molchanov,,Arild Hammeren,"21/12,22/20",Igor Molchanov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Hendry Nordli,,Igor Molchanov,"23/21,21/17",Hendry Nordli,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Hendry Nordli,,Arild Hammeren,"21/14,21/9",Hendry Nordli,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Hendry Nordli,,Joakim Andreassen,"21/9,21/18",Hendry Nordli,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Kim Steve Nystad,,Joakim Andreassen,"21/17,22/24,21/10",Kim Steve Nystad,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Alexander Krasnov,,Kim Steve Nystad,"21/15,13/21,22/20",Alexander Krasnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Joakim Andreassen,,Alexander Krasnov,"21/18,22/20",Joakim Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Igor Molchanov,,Arild Hammeren,"21/12,22/20",Igor Molchanov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Hendry Nordli,,Igor Molchanov,"23/21,21/17",Hendry Nordli,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,,Hendry Nordli,,Arild Hammeren,"21/14,21/9",Hendry Nordli,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Bjørn Floer,Hendry Nordli,Nikolai Korostel,Dag Rune Vellene,"9/21,21/16,21/18",Bjørn Floer,Hendry Nordli
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Arild Hammeren,Kim Steve Nystad,Igor Molchanov,Alexander Krasnov,"22/20,21/13",Arild Hammeren,Kim Steve Nystad
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Igor Molchanov,Alexander Krasnov,Nikolai Korostel,Dag Rune Vellene,"28/26,21/19",Igor Molchanov,Alexander Krasnov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Arild Hammeren,Kim Steve Nystad,Bjørn Floer,Hendry Nordli,"21/16,19/21,21/18",Arild Hammeren,Kim Steve Nystad
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Arild Hammeren,Kim Steve Nystad,Nikolai Korostel,Dag Rune Vellene,"20/22,21/16,21/14",Arild Hammeren,Kim Steve Nystad
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Bjørn Floer,Hendry Nordli,Igor Molchanov,Alexander Krasnov,"21/18,21/18",Bjørn Floer,Hendry Nordli
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Aleksei Gorstkin,"21/16,21/12",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Georgii Kisliakov,"21/17,21/8",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Grigorii Fedotovskii,"21/16,17/21,21/11",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Oleg Volkov,"21/12,21/14",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Oleg Volkov,,Malvind Børresen,"10/21,21/16,21/8",Oleg Volkov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Malvind Børresen,"21/6,21/17",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Georgii Kisliakov,,Egor Tropin,"21/16,21/11",Georgii Kisliakov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Egor Tropin,,Vladimir Medvetckii,"21/0,21/0",Egor Tropin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Georgii Kisliakov,,Nikolai Korostel,"21/18,18/21,21/19",Georgii Kisliakov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Nikolai Korostel,,Egor Tropin,"21/14,21/5",Nikolai Korostel,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Nikolai Korostel,,Vladimir Medvetckii,"21/0,21/0",Nikolai Korostel,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Georgii Kisliakov,,Vladimir Medvetckii,"21/0,21/0",Georgii Kisliakov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Grigorii Fedotovskii,,Waqas Tariq,"21/0,21/0",Grigorii Fedotovskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Glenn Martin Ngametua Pedersen,,Waqas Tariq,"17/21,21/15,21/19",Glenn Martin Ngametua Pedersen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Glenn Martin Ngametua Pedersen,,Henri Kitti,"21/0,21/0",Glenn Martin Ngametua Pedersen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Waqas Tariq,,Henri Kitti,"21/0,21/0",Waqas Tariq,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Grigorii Fedotovskii,,Glenn Martin Ngametua Pedersen,"21/12,17/21,22/20",Grigorii Fedotovskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Grigorii Fedotovskii,,Henri Kitti,"21/0,21/0",Grigorii Fedotovskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Bjørn Floer,"21/16,21/12",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Lev Shashek,"21/16,21/16",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Esben Taksgård,"21/8,21/11",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Esben Taksgård,,Lev Shashek,"12/21,23/21,21/14",Esben Taksgård,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Bjørn Floer,,Esben Taksgård,"21/11,21/9",Bjørn Floer,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Bjørn Floer,,Lev Shashek,"18/21,21/16,21/13",Bjørn Floer,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Aleksei Gorstkin,"21/16,21/12",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Georgii Kisliakov,"21/17,21/8",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Grigorii Fedotovskii,"21/16,17/21,21/11",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Oleg Volkov,"21/12,21/14",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Oleg Volkov,,Malvind Børresen,"10/21,21/16,21/8",Oleg Volkov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Dag Rune Vellene,,Malvind Børresen,"21/6,21/17",Dag Rune Vellene,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Georgii Kisliakov,,Egor Tropin,"21/16,21/11",Georgii Kisliakov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Egor Tropin,,Vladimir Medvetckii,"21/0,21/0",Egor Tropin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Georgii Kisliakov,,Nikolai Korostel,"21/18,18/21,21/19",Georgii Kisliakov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Nikolai Korostel,,Egor Tropin,"21/14,21/5",Nikolai Korostel,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Nikolai Korostel,,Vladimir Medvetckii,"21/0,21/0",Nikolai Korostel,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Georgii Kisliakov,,Vladimir Medvetckii,"21/0,21/0",Georgii Kisliakov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Grigorii Fedotovskii,,Waqas Tariq,"21/0,21/0",Grigorii Fedotovskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Glenn Martin Ngametua Pedersen,,Waqas Tariq,"17/21,21/15,21/19",Glenn Martin Ngametua Pedersen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Glenn Martin Ngametua Pedersen,,Henri Kitti,"21/0,21/0",Glenn Martin Ngametua Pedersen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Waqas Tariq,,Henri Kitti,"21/0,21/0",Waqas Tariq,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Grigorii Fedotovskii,,Glenn Martin Ngametua Pedersen,"21/12,17/21,22/20",Grigorii Fedotovskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Grigorii Fedotovskii,,Henri Kitti,"21/0,21/0",Grigorii Fedotovskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Bjørn Floer,"21/16,21/12",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Lev Shashek,"21/16,21/16",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Aleksei Gorstkin,,Esben Taksgård,"21/8,21/11",Aleksei Gorstkin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Esben Taksgård,,Lev Shashek,"12/21,23/21,21/14",Esben Taksgård,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Bjørn Floer,,Esben Taksgård,"21/11,21/9",Bjørn Floer,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Bjørn Floer,,Lev Shashek,"18/21,21/16,21/13",Bjørn Floer,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Elena Bogdanova,,Anna Chernykh,"21/18,21/16",Elena Bogdanova,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Violetta Roskova,,Susanne Olsen,"21/19,27/25",Violetta Roskova,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Anna Chernykh,,Violetta Roskova,"17/21,23/21,21/16",Anna Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Anna Chernykh,,Susanne Olsen,"21/14,21/10",Anna Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Karina Andersen,,Victoria Demyanchuk,"21/0,21/0",Karina Andersen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Elena Bogdanova,,Victoria Demyanchuk,"21/0,21/0",Elena Bogdanova,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,,Elena Bogdanova,,Karina Andersen,"21/11,21/7",Elena Bogdanova,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Lev Shashek,Grigorii Fedotovskii,Oleg Volkov,Georgii Kisliakov,"19/21,22/20,21/8",Lev Shashek,Grigorii Fedotovskii
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Lev Shashek,Grigorii Fedotovskii,Malvind Børresen,Waqas Tariq,"21/12,21/13",Lev Shashek,Grigorii Fedotovskii
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Lev Shashek,Grigorii Fedotovskii,Glenn Martin Ngametua Pedersen,Esben Taksgård,"21/14,16/21,21/14",Lev Shashek,Grigorii Fedotovskii
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Malvind Børresen,Waqas Tariq,Glenn Martin Ngametua Pedersen,Esben Taksgård,"16/21,21/17,21/18",Malvind Børresen,Waqas Tariq
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Oleg Volkov,Georgii Kisliakov,Aleksei Gorstkin,Egor Tropin,"17/21,21/14,21/12",Oleg Volkov,Georgii Kisliakov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Aleksei Gorstkin,Egor Tropin,Joakim Andreassen,John Henrik Mienna,"17/21,21/16,21/19",Aleksei Gorstkin,Egor Tropin
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Oleg Volkov,Georgii Kisliakov,Joakim Andreassen,John Henrik Mienna,"21/10,20/22,21/15",Oleg Volkov,Georgii Kisliakov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Anna Chernykh,Elena Bogdanova,Susanne Olsen,Karina Andersen,"21/12,21/13",Anna Chernykh,Elena Bogdanova
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Sofiia Shaitanova,Violetta Roskova,Susanne Olsen,Karina Andersen,"21/16,21/12",Sofiia Shaitanova,Violetta Roskova
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Anna Chernykh,Elena Bogdanova,Sofiia Shaitanova,Violetta Roskova,"21/13,20/22,21/19",Anna Chernykh,Elena Bogdanova
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Evelina Chernykh,"21/12,21/15",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Polina Bokovaia,,Iuliia Bogdanova,"21/12,21/11",Polina Bokovaia,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Polina Bokovaia,"21/10,21/9",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Iuliia Bogdanova,"21/5,21/13",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Arina Koraeva,,Svetoslava Petrova,"21/7,21/10",Arina Koraeva,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Arina Koraeva,"21/18,21/12",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Svetoslava Petrova,"21/16,21/11",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Alexander Demyanchuk,Andrei Zhulnov,"21/13,16/21,21/15",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Pavel Ozerinnikov,Egor Beloshitskii,"21/16,21/19",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Alexander Demyanchuk,Andrei Zhulnov,Kirill Markin,Andrei Sherembeev,"21/17,21/18",Alexander Demyanchuk,Andrei Zhulnov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Kirill Markin,Andrei Sherembeev,Aleksei Borovikov,Aleksei Kotelnikov,"21/18,21/19",Kirill Markin,Andrei Sherembeev
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Polina Bokovaia,Arina Koraeva,"21/14,22/20",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Iuliia Bogdanova,Svetoslava Petrova,"21/13,21/15",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Anna Chernova,Evelina Chernykh,"21/11,21/11",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Iuliia Bogdanova,Svetoslava Petrova,"21/10,21/17",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Polina Bokovaia,Arina Koraeva,"21/18,15/21,21/6",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Polina Bokovaia,Arina Koraeva,Iuliia Bogdanova,Svetoslava Petrova,"21/16,21/13",Polina Bokovaia,Arina Koraeva
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Evelina Chernykh,"21/12,21/15",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Polina Bokovaia,,Iuliia Bogdanova,"21/12,21/11",Polina Bokovaia,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Polina Bokovaia,"21/10,21/9",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Iuliia Bogdanova,"21/5,21/13",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Arina Koraeva,,Svetoslava Petrova,"21/7,21/10",Arina Koraeva,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Arina Koraeva,"21/18,21/12",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Svetoslava Petrova,"21/16,21/11",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Alexander Demyanchuk,Andrei Zhulnov,"21/13,16/21,21/15",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Pavel Ozerinnikov,Egor Beloshitskii,"21/16,21/19",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Alexander Demyanchuk,Andrei Zhulnov,Kirill Markin,Andrei Sherembeev,"21/17,21/18",Alexander Demyanchuk,Andrei Zhulnov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Kirill Markin,Andrei Sherembeev,Aleksei Borovikov,Aleksei Kotelnikov,"21/18,21/19",Kirill Markin,Andrei Sherembeev
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Polina Bokovaia,Arina Koraeva,"21/14,22/20",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Iuliia Bogdanova,Svetoslava Petrova,"21/13,21/15",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Anna Chernova,Evelina Chernykh,"21/11,21/11",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Iuliia Bogdanova,Svetoslava Petrova,"21/10,21/17",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Polina Bokovaia,Arina Koraeva,"21/18,15/21,21/6",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Polina Bokovaia,Arina Koraeva,Iuliia Bogdanova,Svetoslava Petrova,"21/16,21/13",Polina Bokovaia,Arina Koraeva
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Evelina Chernykh,"21/12,21/15",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Polina Bokovaia,,Iuliia Bogdanova,"21/12,21/11",Polina Bokovaia,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Polina Bokovaia,"21/10,21/9",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Evelina Chernykh,,Iuliia Bogdanova,"21/5,21/13",Evelina Chernykh,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Arina Koraeva,,Svetoslava Petrova,"21/7,21/10",Arina Koraeva,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Arina Koraeva,"21/18,21/12",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,,Karina Elisabeth Andreassen,,Svetoslava Petrova,"21/16,21/11",Karina Elisabeth Andreassen,
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Alexander Demyanchuk,Andrei Zhulnov,"21/13,16/21,21/15",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Vegar Næss,Jarle Grann,Pavel Ozerinnikov,Egor Beloshitskii,"21/16,21/19",Vegar Næss,Jarle Grann
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Alexander Demyanchuk,Andrei Zhulnov,Kirill Markin,Andrei Sherembeev,"21/17,21/18",Alexander Demyanchuk,Andrei Zhulnov
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Kirill Markin,Andrei Sherembeev,Aleksei Borovikov,Aleksei Kotelnikov,"21/18,21/19",Kirill Markin,Andrei Sherembeev
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Polina Bokovaia,Arina Koraeva,"21/14,22/20",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Iuliia Bogdanova,Svetoslava Petrova,"21/13,21/15",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Anna Chernova,Evelina Chernykh,"21/11,21/11",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Karina Elisabeth Andreassen,Irina Beloshitckaia,Iuliia Bogdanova,Svetoslava Petrova,"21/10,21/17",Karina Elisabeth Andreassen,Irina Beloshitckaia
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Anna Chernova,Evelina Chernykh,Polina Bokovaia,Arina Koraeva,"21/18,15/21,21/6",Anna Chernova,Evelina Chernykh
-2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Polina Bokovaia,Arina Koraeva,Iuliia Bogdanova,Svetoslava Petrova,"21/16,21/13",Polina Bokovaia,Arina Koraeva
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Jarle Grann,,Egor Beloshitskii,"21/7,21/5",Jarle Grann,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Jarle Grann,,Kirill Markin,"21/10,21/6",Jarle Grann,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Aleksei Kotelnikov,,Egor Beloshitskii,"21/19,21/8",Aleksei Kotelnikov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Vegar Næss,,Pavel Ozerinnikov,"21/7,21/12",Vegar Næss,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Egor Beloshitskii,,Pavel Ozerinnikov,"19/21,21/15,21/18",Egor Beloshitskii,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Vegar Næss,,Aleksei Kotelnikov,"21/18,21/14",Vegar Næss,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Egor Beloshitskii,,Vegar Næss,"21/16,4/21,21/10",Egor Beloshitskii,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Pavel Ozerinnikov,,Aleksei Kotelnikov,"21/17,21/16",Pavel Ozerinnikov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Kirill Markin,,Alexander Demyanchuk,"21/8,21/9",Kirill Markin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Kirill Markin,,Aleksei Borovikov,"21/11,15/21,21/11",Kirill Markin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Aleksei Borovikov,,Alexander Demyanchuk,"21/17,21/13",Aleksei Borovikov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Jarle Grann,,Andrei Sherembeev,"21/7,21/5",Jarle Grann,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Andrei Zhulnov,,Andrei Sherembeev,"21/11,21/15",Andrei Zhulnov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herresingle,,Jarle Grann,,Andrei Zhulnov,"21/19,21/15",Jarle Grann,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Karina Elisabeth Andreassen,,Evelina Chernykh,"21/12,21/15",Karina Elisabeth Andreassen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Polina Bokovaia,,Iuliia Bogdanova,"21/12,21/11",Polina Bokovaia,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Evelina Chernykh,,Polina Bokovaia,"21/10,21/9",Evelina Chernykh,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Evelina Chernykh,,Iuliia Bogdanova,"21/5,21/13",Evelina Chernykh,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Arina Koraeva,,Svetoslava Petrova,"21/7,21/10",Arina Koraeva,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Karina Elisabeth Andreassen,,Arina Koraeva,"21/18,21/12",Karina Elisabeth Andreassen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damesingle,,Karina Elisabeth Andreassen,,Svetoslava Petrova,"21/16,21/11",Karina Elisabeth Andreassen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herredouble,Vegar Næss,Jarle Grann,Alexander Demyanchuk,Andrei Zhulnov,"21/13,16/21,21/15",Vegar Næss,Jarle Grann
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herredouble,Vegar Næss,Jarle Grann,Pavel Ozerinnikov,Egor Beloshitskii,"21/16,21/19",Vegar Næss,Jarle Grann
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herredouble,Alexander Demyanchuk,Andrei Zhulnov,Kirill Markin,Andrei Sherembeev,"21/17,21/18",Alexander Demyanchuk,Andrei Zhulnov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Herredouble,Kirill Markin,Andrei Sherembeev,Aleksei Borovikov,Aleksei Kotelnikov,"21/18,21/19",Kirill Markin,Andrei Sherembeev
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damedouble,Karina Elisabeth Andreassen,Irina Beloshitckaia,Polina Bokovaia,Arina Koraeva,"21/14,22/20",Karina Elisabeth Andreassen,Irina Beloshitckaia
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damedouble,Anna Chernova,Evelina Chernykh,Iuliia Bogdanova,Svetoslava Petrova,"21/13,21/15",Anna Chernova,Evelina Chernykh
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damedouble,Karina Elisabeth Andreassen,Irina Beloshitckaia,Anna Chernova,Evelina Chernykh,"21/11,21/11",Karina Elisabeth Andreassen,Irina Beloshitckaia
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damedouble,Karina Elisabeth Andreassen,Irina Beloshitckaia,Iuliia Bogdanova,Svetoslava Petrova,"21/10,21/17",Karina Elisabeth Andreassen,Irina Beloshitckaia
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damedouble,Anna Chernova,Evelina Chernykh,Polina Bokovaia,Arina Koraeva,"21/18,15/21,21/6",Anna Chernova,Evelina Chernykh
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Damedouble,Polina Bokovaia,Arina Koraeva,Iuliia Bogdanova,Svetoslava Petrova,"21/16,21/13",Polina Bokovaia,Arina Koraeva
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Mixeddouble,Irina Beloshitckaia,Andrei Zhulnov,Anna Chernova,Aleksei Borovikov,"21/16,21/6",Irina Beloshitckaia,Andrei Zhulnov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Mixeddouble,Irina Beloshitckaia,Andrei Zhulnov,Evelina Chernykh,Aleksei Kotelnikov,"21/15,21/19",Irina Beloshitckaia,Andrei Zhulnov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Mixeddouble,Anna Chernova,Aleksei Borovikov,Joakim Andreassen,Karina Elisabeth Andreassen,"20/22,21/15,21/17",Anna Chernova,Aleksei Borovikov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Mixeddouble,Evelina Chernykh,Aleksei Kotelnikov,Egor Beloshitskii,Polina Bokovaia,"21/17,13/21,21/13",Evelina Chernykh,Aleksei Kotelnikov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Mixeddouble,Anna Chernova,Aleksei Borovikov,Kirill Markin,Arina Koraeva,"21/7,21/14",Anna Chernova,Aleksei Borovikov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN A,Mixeddouble,Joakim Andreassen,Karina Elisabeth Andreassen,Andrei Sherembeev,Iuliia Bogdanova,"20/22,22/20,21/16",Joakim Andreassen,Karina Elisabeth Andreassen
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Hendry Nordli,,Joakim Andreassen,"21/9,21/18",Hendry Nordli,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Kim Steve Nystad,,Joakim Andreassen,"21/17,22/24,21/10",Kim Steve Nystad,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Alexander Krasnov,,Kim Steve Nystad,"21/15,13/21,22/20",Alexander Krasnov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Joakim Andreassen,,Alexander Krasnov,"21/18,22/20",Joakim Andreassen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Igor Molchanov,,Arild Hammeren,"21/12,22/20",Igor Molchanov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Hendry Nordli,,Igor Molchanov,"23/21,21/17",Hendry Nordli,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herresingle,,Hendry Nordli,,Arild Hammeren,"21/14,21/9",Hendry Nordli,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herredouble,Bjørn Floer,Hendry Nordli,Nikolai Korostel,Dag Rune Vellene,"9/21,21/16,21/18",Bjørn Floer,Hendry Nordli
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herredouble,Arild Hammeren,Kim Steve Nystad,Igor Molchanov,Alexander Krasnov,"22/20,21/13",Arild Hammeren,Kim Steve Nystad
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herredouble,Igor Molchanov,Alexander Krasnov,Nikolai Korostel,Dag Rune Vellene,"28/26,21/19",Igor Molchanov,Alexander Krasnov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herredouble,Arild Hammeren,Kim Steve Nystad,Bjørn Floer,Hendry Nordli,"21/16,19/21,21/18",Arild Hammeren,Kim Steve Nystad
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herredouble,Arild Hammeren,Kim Steve Nystad,Nikolai Korostel,Dag Rune Vellene,"20/22,21/16,21/14",Arild Hammeren,Kim Steve Nystad
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Herredouble,Bjørn Floer,Hendry Nordli,Igor Molchanov,Alexander Krasnov,"21/18,21/18",Bjørn Floer,Hendry Nordli
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Mixeddouble,Nikolai Korostel,Elena Bogdanova,Hendry Nordli,Violetta Roskova,"21/19,21/19",Nikolai Korostel,Elena Bogdanova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Mixeddouble,Nikolai Korostel,Elena Bogdanova,Victoria Demyanchuk,Alexander Demyanchuk,"21/10,21/10",Nikolai Korostel,Elena Bogdanova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Mixeddouble,Hendry Nordli,Violetta Roskova,Victoria Demyanchuk,Alexander Demyanchuk,"21/0,21/0",Hendry Nordli,Violetta Roskova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Mixeddouble,Hendry Nordli,Violetta Roskova,Bjørn Floer,Anna Chernykh,"21/15,21/9",Hendry Nordli,Violetta Roskova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Mixeddouble,Bjørn Floer,Anna Chernykh,Victoria Demyanchuk,Alexander Demyanchuk,"21/0,21/0",Bjørn Floer,Anna Chernykh
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN B,Mixeddouble,Nikolai Korostel,Elena Bogdanova,Bjørn Floer,Anna Chernykh,"21/13,21/10",Nikolai Korostel,Elena Bogdanova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Dag Rune Vellene,,Aleksei Gorstkin,"21/16,21/12",Dag Rune Vellene,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Dag Rune Vellene,,Georgii Kisliakov,"21/17,21/8",Dag Rune Vellene,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Aleksei Gorstkin,,Grigorii Fedotovskii,"21/16,17/21,21/11",Aleksei Gorstkin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Dag Rune Vellene,,Oleg Volkov,"21/12,21/14",Dag Rune Vellene,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Oleg Volkov,,Malvind Børresen,"10/21,21/16,21/8",Oleg Volkov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Dag Rune Vellene,,Malvind Børresen,"21/6,21/17",Dag Rune Vellene,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Georgii Kisliakov,,Egor Tropin,"21/16,21/11",Georgii Kisliakov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Egor Tropin,,Vladimir Medvetckii,"21/0,21/0",Egor Tropin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Georgii Kisliakov,,Nikolai Korostel,"21/18,18/21,21/19",Georgii Kisliakov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Nikolai Korostel,,Egor Tropin,"21/14,21/5",Nikolai Korostel,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Nikolai Korostel,,Vladimir Medvetckii,"21/0,21/0",Nikolai Korostel,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Georgii Kisliakov,,Vladimir Medvetckii,"21/0,21/0",Georgii Kisliakov,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Grigorii Fedotovskii,,Waqas Tariq,"21/0,21/0",Grigorii Fedotovskii,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Glenn Martin Ngametua Pedersen,,Waqas Tariq,"17/21,21/15,21/19",Glenn Martin Ngametua Pedersen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Glenn Martin Ngametua Pedersen,,Henri Kitti,"21/0,21/0",Glenn Martin Ngametua Pedersen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Waqas Tariq,,Henri Kitti,"21/0,21/0",Waqas Tariq,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Grigorii Fedotovskii,,Glenn Martin Ngametua Pedersen,"21/12,17/21,22/20",Grigorii Fedotovskii,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Grigorii Fedotovskii,,Henri Kitti,"21/0,21/0",Grigorii Fedotovskii,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Aleksei Gorstkin,,Bjørn Floer,"21/16,21/12",Aleksei Gorstkin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Aleksei Gorstkin,,Lev Shashek,"21/16,21/16",Aleksei Gorstkin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Aleksei Gorstkin,,Esben Taksgård,"21/8,21/11",Aleksei Gorstkin,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Esben Taksgård,,Lev Shashek,"12/21,23/21,21/14",Esben Taksgård,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Bjørn Floer,,Esben Taksgård,"21/11,21/9",Bjørn Floer,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herresingle,,Bjørn Floer,,Lev Shashek,"18/21,21/16,21/13",Bjørn Floer,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Elena Bogdanova,,Anna Chernykh,"21/18,21/16",Elena Bogdanova,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Violetta Roskova,,Susanne Olsen,"21/19,27/25",Violetta Roskova,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Anna Chernykh,,Violetta Roskova,"17/21,23/21,21/16",Anna Chernykh,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Anna Chernykh,,Susanne Olsen,"21/14,21/10",Anna Chernykh,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Karina Andersen,,Victoria Demyanchuk,"21/0,21/0",Karina Andersen,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Elena Bogdanova,,Victoria Demyanchuk,"21/0,21/0",Elena Bogdanova,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damesingle,,Elena Bogdanova,,Karina Andersen,"21/11,21/7",Elena Bogdanova,
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Lev Shashek,Grigorii Fedotovskii,Oleg Volkov,Georgii Kisliakov,"19/21,22/20,21/8",Lev Shashek,Grigorii Fedotovskii
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Lev Shashek,Grigorii Fedotovskii,Malvind Børresen,Waqas Tariq,"21/12,21/13",Lev Shashek,Grigorii Fedotovskii
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Lev Shashek,Grigorii Fedotovskii,Glenn Martin Ngametua Pedersen,Esben Taksgård,"21/14,16/21,21/14",Lev Shashek,Grigorii Fedotovskii
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Malvind Børresen,Waqas Tariq,Glenn Martin Ngametua Pedersen,Esben Taksgård,"16/21,21/17,21/18",Malvind Børresen,Waqas Tariq
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Oleg Volkov,Georgii Kisliakov,Aleksei Gorstkin,Egor Tropin,"17/21,21/14,21/12",Oleg Volkov,Georgii Kisliakov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Aleksei Gorstkin,Egor Tropin,Joakim Andreassen,John Henrik Mienna,"17/21,21/16,21/19",Aleksei Gorstkin,Egor Tropin
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Herredouble,Oleg Volkov,Georgii Kisliakov,Joakim Andreassen,John Henrik Mienna,"21/10,20/22,21/15",Oleg Volkov,Georgii Kisliakov
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damedouble,Anna Chernykh,Elena Bogdanova,Susanne Olsen,Karina Andersen,"21/12,21/13",Anna Chernykh,Elena Bogdanova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damedouble,Sofiia Shaitanova,Violetta Roskova,Susanne Olsen,Karina Andersen,"21/16,21/12",Sofiia Shaitanova,Violetta Roskova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Damedouble,Anna Chernykh,Elena Bogdanova,Sofiia Shaitanova,Violetta Roskova,"21/13,20/22,21/19",Anna Chernykh,Elena Bogdanova
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Mixeddouble,Susanne Olsen,Dag Rune Vellene,John Henrik Mienna,Karina Andersen,"21/14,21/16",Susanne Olsen,Dag Rune Vellene
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Mixeddouble,Susanne Olsen,Dag Rune Vellene,Sofiia Shaitanova,Egor Tropin,"21/15,21/10",Susanne Olsen,Dag Rune Vellene
+2018/2019,Kirkenes Barents Open,27.10.2018,SEN C,Mixeddouble,Sofiia Shaitanova,Egor Tropin,John Henrik Mienna,Karina Andersen,"21/18,21/10",Sofiia Shaitanova,Egor Tropin
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,Lubomir Petrov,,omar alhmo alhso,"21/12,21/10",Lubomir Petrov,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,omar alhmo alhso,,Adrian Leander Hojem Steen,"21/13,21/17",omar alhmo alhso,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,omar alhmo alhso,,Matas,"21/11,21/12",omar alhmo alhso,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,Matas,,Adrian Leander Hojem Steen,"21/18,21/8",Matas,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,Lubomir Petrov,,walid jemal,"21/13,21/9",Lubomir Petrov,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,Lubomir Petrov,,Amund Arvid Benberg Nordli,"21/9,21/9",Lubomir Petrov,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herresingle,,Amund Arvid Benberg Nordli,,walid jemal,"13/21,21/13,21/9",Amund Arvid Benberg Nordli,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Damesingle,,Sofiia Shaitanova,,Mali Elise Eriksen,"21/15,15/21,21/14",Sofiia Shaitanova,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Damesingle,,Vasilisa Korostel,,Diana Kristiansen,"21/14,21/23,21/14",Vasilisa Korostel,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Damesingle,,Sofiia Shaitanova,,Diana Kristiansen,"21/5,21/5",Sofiia Shaitanova,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Damesingle,,Mali Elise Eriksen,,Vasilisa Korostel,"21/8,21/4",Mali Elise Eriksen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Damesingle,,Sofiia Shaitanova,,Vasilisa Korostel,"21/9,21/6",Sofiia Shaitanova,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Damesingle,,Mali Elise Eriksen,,Diana Kristiansen,"21/7,21/3",Mali Elise Eriksen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herredouble,Sofiia Shaitanova,Lubomir Petrov,Diana Kristiansen,Vasilisa Korostel,"21/18,21/9",Sofiia Shaitanova,Lubomir Petrov
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herredouble,omar alhmo alhso,walid jemal,Adrian Leander Hojem Steen,Amund Arvid Benberg Nordli,"17/21,21/18,21/18",omar alhmo alhso,walid jemal
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herredouble,Sofiia Shaitanova,Lubomir Petrov,omar alhmo alhso,walid jemal,"21/9,21/7",Sofiia Shaitanova,Lubomir Petrov
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herredouble,Diana Kristiansen,Vasilisa Korostel,Adrian Leander Hojem Steen,Amund Arvid Benberg Nordli,"21/18,18/21,21/14",Diana Kristiansen,Vasilisa Korostel
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herredouble,Sofiia Shaitanova,Lubomir Petrov,Adrian Leander Hojem Steen,Amund Arvid Benberg Nordli,"21/3,21/8",Sofiia Shaitanova,Lubomir Petrov
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Herredouble,Diana Kristiansen,Vasilisa Korostel,omar alhmo alhso,walid jemal,"21/18,14/21,21/16",Diana Kristiansen,Vasilisa Korostel
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Mixeddouble,Amund Arvid Benberg Nordli,Vasilisa Korostel,Mali Elise Eriksen,Adrian Leander Hojem Steen,"21/16,19/21,21/10",Amund Arvid Benberg Nordli,Vasilisa Korostel
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Mixeddouble,Lubomir Petrov,Diana Kristiansen,Amund Arvid Benberg Nordli,Vasilisa Korostel,"21/15,21/11",Lubomir Petrov,Diana Kristiansen
+2018/2019,Kirkenes Barents Open,27.10.2018,U13 A,Mixeddouble,Lubomir Petrov,Diana Kristiansen,Mali Elise Eriksen,Adrian Leander Hojem Steen,"21/14,21/7",Lubomir Petrov,Diana Kristiansen
+2018/2019,Kirkenes Barents Open,27.10.2018,U15 A,Damesingle,,Astrid Helene Johnsen,,Karoline Strandheim Eriksen,"22/20,21/9",Astrid Helene Johnsen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U15 A,Damesingle,,Sarah Slapø,,Iselin Markussen,"21/0,21/0",Sarah Slapø,
+2018/2019,Kirkenes Barents Open,27.10.2018,U15 A,Damesingle,,Astrid Helene Johnsen,,Sarah Slapø,"21/11,21/12",Astrid Helene Johnsen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U15 A,Damesingle,,Karoline Strandheim Eriksen,,Iselin Markussen,"21/0,21/0",Karoline Strandheim Eriksen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U15 A,Damesingle,,Astrid Helene Johnsen,,Iselin Markussen,"21/0,21/0",Astrid Helene Johnsen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U15 A,Damesingle,,Sarah Slapø,,Karoline Strandheim Eriksen,"21/13,21/7",Sarah Slapø,
+2018/2019,Kirkenes Barents Open,27.10.2018,U17 A,Damesingle,,andrine elise utne holm,,Vestale Raslaviciute,"21/16,21/19",andrine elise utne holm,
+2018/2019,Kirkenes Barents Open,27.10.2018,U17 A,Damesingle,,Andrea Amundsen,,andrine elise utne holm,"15/21,21/16,21/14",Andrea Amundsen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U17 A,Damesingle,,Andrea Amundsen,,Vestale Raslaviciute,"21/13,21/7",Andrea Amundsen,
+2018/2019,Kirkenes Barents Open,27.10.2018,U17 A,Damedouble,Andrine Elise Holm,Mali Elise Eriksen,Sarah Slapø,Karoline Strandheim Eriksen,"21/14,21/10",Andrine Elise Holm,Mali Elise Eriksen
+2018/2019,Kirkenes Barents Open,27.10.2018,U17 A,Damedouble,Andrea Amundsen,Astrid Helene Johnsen,Sarah Slapø,Karoline Strandheim Eriksen,"21/12,21/6",Andrea Amundsen,Astrid Helene Johnsen
+2018/2019,Kirkenes Barents Open,27.10.2018,U17 A,Damedouble,Andrea Amundsen,Astrid Helene Johnsen,Andrine Elise Holm,Mali Elise Eriksen,"21/14,21/14",Andrea Amundsen,Astrid Helene Johnsen

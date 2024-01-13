@@ -1,616 +1,540 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/19,5/21,21/17",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Erlend Engesæter Bognøy,"21/6,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Arild Mevatne,"21/4,21/13",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Petter Polden,"22/20,22/20",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Mats Lervåg,,Heine Økland Kolltveit,"21/5,21/6",Mats Lervåg,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Mats Lervåg,"21/12,21/15",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/8,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Petter Karlsen Wåltorp,"13/21,21/16,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Karlsen Wåltorp,,Iver Rolvsjord,"21/16,21/13",Petter Karlsen Wåltorp,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Iver Rolvsjord,"21/19,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Are Eidissen,,Audun Christoffer Adolfson,"21/15,13/21,22/20",Are Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Audun Christoffer Adolfson,"21/10,21/12",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Are Eidissen,"21/11,21/6",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Fredrik Vabø Helset,,Olav Vatna Selvåg,"21/17,21/15",Fredrik Vabø Helset,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Fredrik Vabø Helset,"21/13,21/16",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Olav Vatna Selvåg,"21/12,21/13",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Dennis Andersen Moe,,Michael White,"19/21,21/19,21/18",Dennis Andersen Moe,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Michael White,"21/15,21/15",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/19,21/7",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/19,5/21,21/17",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Erlend Engesæter Bognøy,"21/6,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Arild Mevatne,"21/4,21/13",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Petter Polden,"22/20,22/20",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Mats Lervåg,,Heine Økland Kolltveit,"21/5,21/6",Mats Lervåg,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Mats Lervåg,"21/12,21/15",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/8,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Petter Karlsen Wåltorp,"13/21,21/16,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Karlsen Wåltorp,,Iver Rolvsjord,"21/16,21/13",Petter Karlsen Wåltorp,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Iver Rolvsjord,"21/19,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Are Eidissen,,Audun Christoffer Adolfson,"21/15,13/21,22/20",Are Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Audun Christoffer Adolfson,"21/10,21/12",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Are Eidissen,"21/11,21/6",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Fredrik Vabø Helset,,Olav Vatna Selvåg,"21/17,21/15",Fredrik Vabø Helset,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Fredrik Vabø Helset,"21/13,21/16",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Olav Vatna Selvåg,"21/12,21/13",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Dennis Andersen Moe,,Michael White,"19/21,21/19,21/18",Dennis Andersen Moe,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Michael White,"21/15,21/15",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/19,21/7",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Marianne Lie,,Julie Langeland Risa,"22/20,16/21,21/13",Marianne Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Dennis Andersen Moe,Erlend Engesæter Bognøy,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/15,18/21,23/21",Dennis Andersen Moe,Erlend Engesæter Bognøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Arild Mevatne,Anders Haugland,"21/17,21/14",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/15,21/13",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Dennis Andersen Moe,Erlend Engesæter Bognøy,"21/18,21/16",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/13,21/17",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Arild Mevatne,Anders Haugland,Dennis Andersen Moe,Erlend Engesæter Bognøy,"15/21,21/15,21/14",Arild Mevatne,Anders Haugland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Arild Mevatne,Anders Haugland,Heine Økland Kolltveit,Fredrik Vabø Helset,"29/27,21/11",Arild Mevatne,Anders Haugland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,"20/22,21/19,21/17",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Dennis Andersen Moe,Erlend Engesæter Bognøy,"25/23,18/21,21/14",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Arild Mevatne,Anders Haugland,"21/15,21/14",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Ida Ulstein,Hege Malene Ulstein,Anne Lie Foldnes,Julie Langeland Risa,"19/21,21/18,21/19",Ida Ulstein,Hege Malene Ulstein
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Anders Haugland,,Svein Andre Hol,"21/19,21/10",Anders Haugland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Anders Haugland,,Benjamin Teigland,"21/10,21/16",Anders Haugland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Aleksej Roman Kustrin Iversen,,Kjetil Ragde,"22/20,21/19",Aleksej Roman Kustrin Iversen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Kjetil Ragde,,Svein Andre Hol,"21/16,12/21,21/11",Kjetil Ragde,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Svein Andre Hol,,Aleksej Roman Kustrin Iversen,"24/22,21/16",Svein Andre Hol,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Anders Haugland,,Svein Andre Hol,"21/19,21/10",Anders Haugland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Anders Haugland,,Benjamin Teigland,"21/10,21/16",Anders Haugland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Aleksej Roman Kustrin Iversen,,Kjetil Ragde,"22/20,21/19",Aleksej Roman Kustrin Iversen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Kjetil Ragde,,Svein Andre Hol,"21/16,12/21,21/11",Kjetil Ragde,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,,Svein Andre Hol,,Aleksej Roman Kustrin Iversen,"24/22,21/16",Svein Andre Hol,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Thomas Algrøy,Audun Christoffer Adolfson,Benjamin Teigland,Michael White,"21/18,11/21,21/14",Thomas Algrøy,Audun Christoffer Adolfson
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Svein Andre Hol,Helge Økland,Kjetil Ragde,Olav Vatna Selvåg,"21/14,21/15",Svein Andre Hol,Helge Økland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Thomas Algrøy,Audun Christoffer Adolfson,Svein Andre Hol,Helge Økland,"21/19,26/24",Thomas Algrøy,Audun Christoffer Adolfson
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Thomas Algrøy,Audun Christoffer Adolfson,Kjetil Ragde,Olav Vatna Selvåg,"21/16,21/11",Thomas Algrøy,Audun Christoffer Adolfson
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Benjamin Teigland,Michael White,Kawa Kavian,Oleg Tsynkalovskiy,"21/19,21/19",Benjamin Teigland,Michael White
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Nelson Thambiraj,Deiveegan Muthusamy,Aleksej Roman Kustrin Iversen,Simen Mjelva,"21/17,20/22,21/18",Nelson Thambiraj,Deiveegan Muthusamy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Aleksej Roman Kustrin Iversen,Simen Mjelva,Kawa Kavian,Oleg Tsynkalovskiy,"21/9,21/9",Aleksej Roman Kustrin Iversen,Simen Mjelva
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Benjamin Teigland,Michael White,Nelson Thambiraj,Deiveegan Muthusamy,"21/16,19/21,23/21",Benjamin Teigland,Michael White
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Nelson Thambiraj,Deiveegan Muthusamy,Kawa Kavian,Oleg Tsynkalovskiy,"21/11,21/16",Nelson Thambiraj,Deiveegan Muthusamy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Benjamin Teigland,Michael White,Aleksej Roman Kustrin Iversen,Simen Mjelva,"21/15,18/21,21/19",Benjamin Teigland,Michael White
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Børge Mæland,"19/21,21/14,21/14",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Simen Mjelva,"21/18,21/9",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Kurt Magne Kvernøy,"21/19,21/16",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Simen Mjelva,,Anders Eimstad,"21/10,21/16",Simen Mjelva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Hans Kåre Kvernøy,"21/8,17/21,21/13",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Bernt Pallesen,"21/19,22/20",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kurt Magne Kvernøy,,Arne Martin Hagen,"21/6,21/6",Kurt Magne Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Simen Mjelva,,Christoffer Johannessen,"21/13,21/9",Simen Mjelva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Stian Ekroll Glenne,,Christoffer Johannessen,"21/18,21/17",Stian Ekroll Glenne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Simen Mjelva,,Stian Ekroll Glenne,"21/12,21/10",Simen Mjelva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Anders Eimstad,,Gert Buhl,"21/17,16/21,21/3",Anders Eimstad,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Anders Eimstad,,Sondre Frøyland,"21/14,19/21,21/17",Anders Eimstad,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Per Inge Notland,,Edvin Nordbø,"21/8,21/11",Per Inge Notland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Per Inge Notland,"21/11,21/18",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Edvin Nordbø,"21/11,21/10",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Christian Bjerke,,Reidar Kulshamar,"19/21,21/11,21/11",Christian Bjerke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Hans Kåre Kvernøy,,Christian Bjerke,"21/11,21/5",Hans Kåre Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Hans Kåre Kvernøy,,Reidar Kulshamar,"21/6,21/8",Hans Kåre Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Robert Eriksen,"21/10,21/13",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Roald Grannes,"21/14,21/5",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Bernt Pallesen,,Magnar H. Olsen,"21/16,21/17",Bernt Pallesen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Bernt Pallesen,,Jone Mortensen,"21/14,21/18",Bernt Pallesen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Magnar H. Olsen,,Jone Mortensen,"21/16,21/14",Magnar H. Olsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Torstein Vikse Olsen,,Mauricio Herrera,"19/21,21/19,21/15",Torstein Vikse Olsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Arne Martin Hagen,,Torstein Vikse Olsen,"21/16,16/21,21/6",Arne Martin Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Arne Martin Hagen,,Mauricio Herrera,"21/16,22/20",Arne Martin Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kurt Magne Kvernøy,,Kawa Kavian,"21/14,4/21,21/15",Kurt Magne Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kurt Magne Kvernøy,,Sverre Svensen,"21/15,21/10",Kurt Magne Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kawa Kavian,,Sverre Svensen,"21/16,21/13",Kawa Kavian,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Børge Mæland,"19/21,21/14,21/14",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Simen Mjelva,"21/18,21/9",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Kurt Magne Kvernøy,"21/19,21/16",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Simen Mjelva,,Anders Eimstad,"21/10,21/16",Simen Mjelva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Hans Kåre Kvernøy,"21/8,17/21,21/13",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Bernt Pallesen,"21/19,22/20",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kurt Magne Kvernøy,,Arne Martin Hagen,"21/6,21/6",Kurt Magne Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Simen Mjelva,,Christoffer Johannessen,"21/13,21/9",Simen Mjelva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Stian Ekroll Glenne,,Christoffer Johannessen,"21/18,21/17",Stian Ekroll Glenne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Simen Mjelva,,Stian Ekroll Glenne,"21/12,21/10",Simen Mjelva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Anders Eimstad,,Gert Buhl,"21/17,16/21,21/3",Anders Eimstad,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Anders Eimstad,,Sondre Frøyland,"21/14,19/21,21/17",Anders Eimstad,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Per Inge Notland,,Edvin Nordbø,"21/8,21/11",Per Inge Notland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Per Inge Notland,"21/11,21/18",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Adrian Storhaug,,Edvin Nordbø,"21/11,21/10",Adrian Storhaug,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Christian Bjerke,,Reidar Kulshamar,"19/21,21/11,21/11",Christian Bjerke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Hans Kåre Kvernøy,,Christian Bjerke,"21/11,21/5",Hans Kåre Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Hans Kåre Kvernøy,,Reidar Kulshamar,"21/6,21/8",Hans Kåre Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Robert Eriksen,"21/10,21/13",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Børge Mæland,,Roald Grannes,"21/14,21/5",Børge Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Bernt Pallesen,,Magnar H. Olsen,"21/16,21/17",Bernt Pallesen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Bernt Pallesen,,Jone Mortensen,"21/14,21/18",Bernt Pallesen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Magnar H. Olsen,,Jone Mortensen,"21/16,21/14",Magnar H. Olsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Torstein Vikse Olsen,,Mauricio Herrera,"19/21,21/19,21/15",Torstein Vikse Olsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Arne Martin Hagen,,Torstein Vikse Olsen,"21/16,16/21,21/6",Arne Martin Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Arne Martin Hagen,,Mauricio Herrera,"21/16,22/20",Arne Martin Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kurt Magne Kvernøy,,Kawa Kavian,"21/14,4/21,21/15",Kurt Magne Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kurt Magne Kvernøy,,Sverre Svensen,"21/15,21/10",Kurt Magne Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Kawa Kavian,,Sverre Svensen,"21/16,21/13",Kawa Kavian,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Iris Hagen,,Randi Rolvsjord,"21/7,21/9",Iris Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Anita Aasebø,,Synne Brandsdal,"18/21,24/22,22/20",Anita Aasebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Iris Hagen,,Marie Langeland,"21/6,21/3",Iris Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Anita Aasebø,,Marie Langeland,"21/15,21/11",Anita Aasebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Iris Hagen,,Synne Brandsdal,"21/2,21/12",Iris Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Iris Hagen,,Anita Aasebø,"21/13,21/13",Iris Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Synne Brandsdal,,Marie Langeland,"21/19,21/18",Synne Brandsdal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Eva Dobreva,,Amrita Dubey,"21/6,21/13",Eva Dobreva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Randi Rolvsjord,,Alexandra Utslottøy,"21/19,19/21,21/14",Randi Rolvsjord,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Eva Dobreva,,Alexandra Utslottøy,"21/18,17/21,21/16",Eva Dobreva,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Randi Rolvsjord,,Amrita Dubey,"21/13,21/12",Randi Rolvsjord,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Randi Rolvsjord,,Eva Dobreva,"21/12,18/21,21/8",Randi Rolvsjord,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,,Alexandra Utslottøy,,Amrita Dubey,"21/16,21/17",Alexandra Utslottøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Bernt Pallesen,Stian Ekroll Glenne,Børge Mæland,Hans Kåre Kvernøy,"21/13,12/21,21/10",Bernt Pallesen,Stian Ekroll Glenne
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Bernt Pallesen,Stian Ekroll Glenne,Kurt Magne Kvernøy,Torstein Rasmussen,"21/13,21/13",Bernt Pallesen,Stian Ekroll Glenne
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Børge Mæland,Hans Kåre Kvernøy,Jørn Grane,Nicolai Haugland,"21/19,21/12",Børge Mæland,Hans Kåre Kvernøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Børge Mæland,Hans Kåre Kvernøy,Øyvind W Olsen,Trond Holmedal,"24/22,21/13",Børge Mæland,Hans Kåre Kvernøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Kurt Magne Kvernøy,Torstein Rasmussen,Sondre Frøyland,Christoffer Johannessen,"17/21,21/19,21/11",Kurt Magne Kvernøy,Torstein Rasmussen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Kurt Magne Kvernøy,Torstein Rasmussen,Anders Eimstad,Arild Rasmussen,"21/9,21/23,21/14",Kurt Magne Kvernøy,Torstein Rasmussen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Anders Eimstad,Arild Rasmussen,Sondre Frøyland,Christoffer Johannessen,"21/16,21/13",Anders Eimstad,Arild Rasmussen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Bernt Pallesen,Stian Ekroll Glenne,Atle Dahle,Karl Martin Valestrand,"21/13,21/12",Bernt Pallesen,Stian Ekroll Glenne
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Edvin Nordbø,Jone Mortensen,Atle Dahle,Karl Martin Valestrand,"21/9,21/10",Edvin Nordbø,Jone Mortensen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Bernt Pallesen,Stian Ekroll Glenne,Edvin Nordbø,Jone Mortensen,"21/18,21/15",Bernt Pallesen,Stian Ekroll Glenne
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mauricio Herrera,Magnar H. Olsen,Reidar Kulshamar,Simen Nærum,"21/16,17/21,21/17",Mauricio Herrera,Magnar H. Olsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Øyvind W Olsen,Trond Holmedal,Mauricio Herrera,Magnar H. Olsen,"21/11,21/19",Øyvind W Olsen,Trond Holmedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Øyvind W Olsen,Trond Holmedal,Reidar Kulshamar,Simen Nærum,"21/15,21/18",Øyvind W Olsen,Trond Holmedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Børge Mæland,Hans Kåre Kvernøy,Magnus Seilen,Robert Eriksen,"21/11,21/16",Børge Mæland,Hans Kåre Kvernøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Jørn Grane,Nicolai Haugland,Anilkumar Unnithan,Siby Abraham,"21/17,21/12",Jørn Grane,Nicolai Haugland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Jørn Grane,Nicolai Haugland,Per Inge Notland,Sverre Svensen,"21/17,21/9",Jørn Grane,Nicolai Haugland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Per Inge Notland,Sverre Svensen,Anilkumar Unnithan,Siby Abraham,"21/14,18/21,21/19",Per Inge Notland,Sverre Svensen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Irene Lillestøl Duinker,Randi Rolvsjord,Ingeborg Halvorsen,Amrita Dubey,"21/16,21/9",Irene Lillestøl Duinker,Randi Rolvsjord
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Eva Dobreva,Marie Langeland,Synne Brandsdal,Alexandra Utslottøy,"21/13,21/14",Eva Dobreva,Marie Langeland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Eva Dobreva,Marie Langeland,Ingeborg Halvorsen,Amrita Dubey,"21/11,21/12",Eva Dobreva,Marie Langeland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Karina Sjoukje Jelsma,Iris Hagen,Irene Lillestøl Duinker,Randi Rolvsjord,"21/16,21/15",Karina Sjoukje Jelsma,Iris Hagen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Karina Sjoukje Jelsma,Iris Hagen,Ingeborg Halvorsen,Amrita Dubey,"21/7,21/4",Karina Sjoukje Jelsma,Iris Hagen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Synne Brandsdal,Alexandra Utslottøy,Irene Lillestøl Duinker,Randi Rolvsjord,"15/21,21/18,21/19",Synne Brandsdal,Alexandra Utslottøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Synne Brandsdal,Alexandra Utslottøy,Ingeborg Halvorsen,Amrita Dubey,"21/8,21/10",Synne Brandsdal,Alexandra Utslottøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Karina Sjoukje Jelsma,Iris Hagen,Eva Dobreva,Marie Langeland,"21/11,21/8",Karina Sjoukje Jelsma,Iris Hagen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Eva Dobreva,Marie Langeland,Irene Lillestøl Duinker,Randi Rolvsjord,"21/17,22/20",Eva Dobreva,Marie Langeland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Karina Sjoukje Jelsma,Iris Hagen,Synne Brandsdal,Alexandra Utslottøy,"21/17,21/14",Karina Sjoukje Jelsma,Iris Hagen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Rune Bråten,"21/14,21/17",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Anilkumar Unnithan,"13/21,21/16,22/20",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Ashutosh  Dubey,"21/9,21/10",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anilkumar Unnithan,,Sigbjørn Stople,"21/15,21/19",Anilkumar Unnithan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Torbjørn Brekke,"24/26,21/10,21/12",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Øystein Knudsen,,Hans Absalon Sekkingstad,"14/21,21/13,21/8",Øystein Knudsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Øystein Knudsen,"21/13,21/10",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Hans Absalon Sekkingstad,"21/8,21/7",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Thomas Stenfeldt,,Arne Ringen,"18/21,24/22,21/10",Thomas Stenfeldt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anilkumar Unnithan,,Thomas Stenfeldt,"21/10,21/15",Anilkumar Unnithan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anilkumar Unnithan,,Arne Ringen,"21/17,21/17",Anilkumar Unnithan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Kenneth Olsen,,Espen Andersen,"12/21,21/14,21/16",Kenneth Olsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Sigbjørn Stople,,Espen Andersen,"21/16,21/13",Sigbjørn Stople,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Sigbjørn Stople,,Kenneth Olsen,"21/11,21/19",Sigbjørn Stople,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Øyvind Bukkestein,,Kaj Søndergård Albrektsen,"21/5,21/10",Øyvind Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Torbjørn Brekke,,Øyvind Bukkestein,"21/15,15/21,21/11",Torbjørn Brekke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Torbjørn Brekke,,Kaj Søndergård Albrektsen,"21/16,22/20",Torbjørn Brekke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Pål Kolstø,,Robert Dale,"21/7,21/16",Pål Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Robert Dale,"21/11,21/9",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Pål Kolstø,"21/13,21/17",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Lars Lauvik,,Morten Mortvedt,"21/13,6/21,21/15",Lars Lauvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ashutosh  Dubey,,Einar Morgan Utne,"21/11,21/7",Ashutosh  Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ashutosh  Dubey,,Morten Mortvedt,"21/12,21/17",Ashutosh  Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Lars Lauvik,,Einar Morgan Utne,"23/25,21/12,21/11",Lars Lauvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Morten Mortvedt,,Einar Morgan Utne,"21/13,21/11",Morten Mortvedt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ashutosh  Dubey,,Lars Lauvik,"21/19,21/19",Ashutosh  Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Rune Bråten,"21/14,21/17",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Anilkumar Unnithan,"13/21,21/16,22/20",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Ashutosh  Dubey,"21/9,21/10",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anilkumar Unnithan,,Sigbjørn Stople,"21/15,21/19",Anilkumar Unnithan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Torbjørn Brekke,"24/26,21/10,21/12",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Øystein Knudsen,,Hans Absalon Sekkingstad,"14/21,21/13,21/8",Øystein Knudsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Øystein Knudsen,"21/13,21/10",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Atle Dahle,,Hans Absalon Sekkingstad,"21/8,21/7",Atle Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Thomas Stenfeldt,,Arne Ringen,"18/21,24/22,21/10",Thomas Stenfeldt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anilkumar Unnithan,,Thomas Stenfeldt,"21/10,21/15",Anilkumar Unnithan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anilkumar Unnithan,,Arne Ringen,"21/17,21/17",Anilkumar Unnithan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Kenneth Olsen,,Espen Andersen,"12/21,21/14,21/16",Kenneth Olsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Sigbjørn Stople,,Espen Andersen,"21/16,21/13",Sigbjørn Stople,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Sigbjørn Stople,,Kenneth Olsen,"21/11,21/19",Sigbjørn Stople,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Øyvind Bukkestein,,Kaj Søndergård Albrektsen,"21/5,21/10",Øyvind Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Torbjørn Brekke,,Øyvind Bukkestein,"21/15,15/21,21/11",Torbjørn Brekke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Torbjørn Brekke,,Kaj Søndergård Albrektsen,"21/16,22/20",Torbjørn Brekke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Pål Kolstø,,Robert Dale,"21/7,21/16",Pål Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Robert Dale,"21/11,21/9",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Rune Bråten,,Pål Kolstø,"21/13,21/17",Rune Bråten,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Lars Lauvik,,Morten Mortvedt,"21/13,6/21,21/15",Lars Lauvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ashutosh  Dubey,,Einar Morgan Utne,"21/11,21/7",Ashutosh  Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ashutosh  Dubey,,Morten Mortvedt,"21/12,21/17",Ashutosh  Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Lars Lauvik,,Einar Morgan Utne,"23/25,21/12,21/11",Lars Lauvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Morten Mortvedt,,Einar Morgan Utne,"21/13,21/11",Morten Mortvedt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ashutosh  Dubey,,Lars Lauvik,"21/19,21/19",Ashutosh  Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anita Vabø,,Magnhild Stokka,"21/17,22/20",Anita Vabø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anita Vabø,,Eline Lindøe Nitter,"21/14,21/5",Anita Vabø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ingeborg Halvorsen,,Christina  Andreassen,"21/14,21/16",Ingeborg Halvorsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anita Vabø,,Christina  Andreassen,"21/14,21/10",Anita Vabø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Ingeborg Halvorsen,,Eline Lindøe Nitter,"21/9,26/24",Ingeborg Halvorsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Anita Vabø,,Ingeborg Halvorsen,"21/9,21/6",Anita Vabø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Eline Lindøe Nitter,,Christina  Andreassen,"21/18,21/15",Eline Lindøe Nitter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Therese Kristoffersen,,Sanne Ellingsen,"21/9,21/13",Therese Kristoffersen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Magnhild Stokka,,Johanne Mæland,"22/20,21/7",Magnhild Stokka,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Johanne Mæland,,Sanne Ellingsen,"21/14,21/15",Johanne Mæland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Magnhild Stokka,,Therese Kristoffersen,"21/11,21/19",Magnhild Stokka,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Magnhild Stokka,,Sanne Ellingsen,"21/11,21/4",Magnhild Stokka,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,,Therese Kristoffersen,,Johanne Mæland,"21/17,21/18",Therese Kristoffersen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Torbjørn Brekke,Torstein Vikse Olsen,Jørn Inge Bognøy,Erik Moe,"21/11,21/14",Torbjørn Brekke,Torstein Vikse Olsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Jørn Inge Bognøy,Erik Moe,Rune Bråten,Thomas Stenfeldt,"21/16,21/15",Jørn Inge Bognøy,Erik Moe
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Torbjørn Brekke,Torstein Vikse Olsen,Geir Digernes,Pål Kolstø,"21/10,21/11",Torbjørn Brekke,Torstein Vikse Olsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Jonas Bukkestein,Øyvind Bukkestein,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/11,17/21,21/16",Jonas Bukkestein,Øyvind Bukkestein
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Jørn Inge Bognøy,Erik Moe,Jonas Bukkestein,Øyvind Bukkestein,"21/19,15/21,21/12",Jørn Inge Bognøy,Erik Moe
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Jørn Inge Bognøy,Erik Moe,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/10,15/21,21/17",Jørn Inge Bognøy,Erik Moe
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Rune Bråten,Thomas Stenfeldt,Hans Absalon Sekkingstad,Ashutosh  Dubey,"21/19,21/18",Rune Bråten,Thomas Stenfeldt
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Arne Ringen,Øystein Knudsen,Hans Absalon Sekkingstad,Ashutosh  Dubey,"21/12,23/21",Arne Ringen,Øystein Knudsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Rune Bråten,Thomas Stenfeldt,Arne Ringen,Øystein Knudsen,"21/10,21/15",Rune Bråten,Thomas Stenfeldt
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Geir Digernes,Pål Kolstø,Einar Morgan Utne,Hans Jakob Skree,"21/10,21/10",Geir Digernes,Pål Kolstø
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Geir Digernes,Pål Kolstø,Lars Lauvik,Kenneth Olsen,"21/18,21/12",Geir Digernes,Pål Kolstø
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Lars Lauvik,Kenneth Olsen,Einar Morgan Utne,Hans Jakob Skree,"21/18,21/13",Lars Lauvik,Kenneth Olsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Morten Amundsen,Kjell Tore Brakedal,Dag Inge Leiren,Matthew Leiren,"21/17,21/12",Morten Amundsen,Kjell Tore Brakedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Torbjørn Brekke,Torstein Vikse Olsen,Dag Inge Leiren,Matthew Leiren,"21/13,21/11",Torbjørn Brekke,Torstein Vikse Olsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Torbjørn Brekke,Torstein Vikse Olsen,Morten Amundsen,Kjell Tore Brakedal,"21/12,21/8",Torbjørn Brekke,Torstein Vikse Olsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Johanne Mæland,Marie Larsen,Christina  Andreassen,Therese Kristoffersen,"21/14,15/21,21/15",Johanne Mæland,Marie Larsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Anita Vabø,Birte Andersen,Eline Lindøe Nitter,Ann-Helene Johansson,"21/18,21/11",Anita Vabø,Birte Andersen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Eline Lindøe Nitter,Ann-Helene Johansson,Christina  Andreassen,Therese Kristoffersen,"21/18,20/22,21/9",Eline Lindøe Nitter,Ann-Helene Johansson
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Magnhild Stokka,Ann Elin Digernes,Johanne Mæland,Marie Larsen,"17/21,21/11,21/18",Magnhild Stokka,Ann Elin Digernes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Magnhild Stokka,Ann Elin Digernes,Christina  Andreassen,Therese Kristoffersen,"21/12,21/13",Magnhild Stokka,Ann Elin Digernes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Anita Vabø,Birte Andersen,Johanne Mæland,Marie Larsen,"22/20,19/21,21/16",Anita Vabø,Birte Andersen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Christina  Andreassen,Therese Kristoffersen,Anita Vabø,Birte Andersen,"21/13,21/18",Christina  Andreassen,Therese Kristoffersen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Magnhild Stokka,Ann Elin Digernes,Eline Lindøe Nitter,Ann-Helene Johansson,"21/16,21/16",Magnhild Stokka,Ann Elin Digernes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Johanne Mæland,Marie Larsen,Eline Lindøe Nitter,Ann-Helene Johansson,"21/14,21/17",Johanne Mæland,Marie Larsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Magnhild Stokka,Ann Elin Digernes,Anita Vabø,Birte Andersen,"10/21,22/20,21/14",Magnhild Stokka,Ann Elin Digernes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Marius Kvernøy,,Jens H. Innvær,"21/19,21/14",Marius Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Marius Kvernøy,,Lasse Nathaniel Høgmo Breivik,"21/10,21/17",Marius Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Jens H. Innvær,,Håvard Lie Foldnes,"21/13,21/10",Jens H. Innvær,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,"Oskar Torsvik,",,Fabian Nelson,"21/17,21/18","Oskar Torsvik,",
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Jens H. Innvær,,"Oskar Torsvik,","21/8,21/11",Jens H. Innvær,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Marius Kvernøy,,"Oskar Torsvik,","21/14,21/8",Marius Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Lasse Nathaniel Høgmo Breivik,,Håvard Lie Foldnes,"21/17,21/12",Lasse Nathaniel Høgmo Breivik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Håvard Lie Foldnes,,Fabian Nelson,"21/13,21/14",Håvard Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Lasse Nathaniel Høgmo Breivik,,Fabian Nelson,"21/13,20/22,21/15",Lasse Nathaniel Høgmo Breivik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Marius Kvernøy,,Jens H. Innvær,"21/19,21/14",Marius Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Marius Kvernøy,,Lasse Nathaniel Høgmo Breivik,"21/10,21/17",Marius Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Jens H. Innvær,,Håvard Lie Foldnes,"21/13,21/10",Jens H. Innvær,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,"Oskar Torsvik,",,Fabian Nelson,"21/17,21/18","Oskar Torsvik,",
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Jens H. Innvær,,"Oskar Torsvik,","21/8,21/11",Jens H. Innvær,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Marius Kvernøy,,"Oskar Torsvik,","21/14,21/8",Marius Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Lasse Nathaniel Høgmo Breivik,,Håvard Lie Foldnes,"21/17,21/12",Lasse Nathaniel Høgmo Breivik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Håvard Lie Foldnes,,Fabian Nelson,"21/13,21/14",Håvard Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,,Lasse Nathaniel Høgmo Breivik,,Fabian Nelson,"21/13,20/22,21/15",Lasse Nathaniel Høgmo Breivik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Marius Kvernøy,Jens H. Innvær,Håvard Lie Foldnes,"Oskar Torsvik,","21/12,18/21,21/9",Marius Kvernøy,Jens H. Innvær
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/19,5/21,21/17",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Erlend Engesæter Bognøy,"21/6,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Arild Mevatne,"21/4,21/13",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Petter Polden,"22/20,22/20",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Mats Lervåg,,Heine Økland Kolltveit,"21/5,21/6",Mats Lervåg,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Mats Lervåg,"21/12,21/15",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/8,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Petter Karlsen Wåltorp,"13/21,21/16,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Karlsen Wåltorp,,Iver Rolvsjord,"21/16,21/13",Petter Karlsen Wåltorp,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Iver Rolvsjord,"21/19,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Are Eidissen,,Audun Christoffer Adolfson,"21/15,13/21,22/20",Are Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Audun Christoffer Adolfson,"21/10,21/12",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Are Eidissen,"21/11,21/6",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Fredrik Vabø Helset,,Olav Vatna Selvåg,"21/17,21/15",Fredrik Vabø Helset,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Fredrik Vabø Helset,"21/13,21/16",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Olav Vatna Selvåg,"21/12,21/13",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Dennis Andersen Moe,,Michael White,"19/21,21/19,21/18",Dennis Andersen Moe,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Michael White,"21/15,21/15",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/19,21/7",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Sigbjørn Honve,"21/19,5/21,21/17",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Erlend Engesæter Bognøy,"21/6,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Arild Mevatne,"21/4,21/13",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Petter Polden,"22/20,22/20",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Mats Lervåg,,Heine Økland Kolltveit,"21/5,21/6",Mats Lervåg,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Mats Lervåg,"21/12,21/15",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Simen Lexander,,Heine Økland Kolltveit,"21/8,21/12",Simen Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Petter Karlsen Wåltorp,"13/21,21/16,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Karlsen Wåltorp,,Iver Rolvsjord,"21/16,21/13",Petter Karlsen Wåltorp,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Erlend Engesæter Bognøy,,Iver Rolvsjord,"21/19,21/17",Erlend Engesæter Bognøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Are Eidissen,,Audun Christoffer Adolfson,"21/15,13/21,22/20",Are Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Audun Christoffer Adolfson,"21/10,21/12",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Arild Mevatne,,Are Eidissen,"21/11,21/6",Arild Mevatne,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Fredrik Vabø Helset,,Olav Vatna Selvåg,"21/17,21/15",Fredrik Vabø Helset,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Fredrik Vabø Helset,"21/13,21/16",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Petter Polden,,Olav Vatna Selvåg,"21/12,21/13",Petter Polden,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Dennis Andersen Moe,,Michael White,"19/21,21/19,21/18",Dennis Andersen Moe,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Michael White,"21/15,21/15",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Sigbjørn Honve,,Dennis Andersen Moe,"21/19,21/7",Sigbjørn Honve,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,,Marianne Lie,,Julie Langeland Risa,"22/20,16/21,21/13",Marianne Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Dennis Andersen Moe,Erlend Engesæter Bognøy,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/15,18/21,23/21",Dennis Andersen Moe,Erlend Engesæter Bognøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Arild Mevatne,Anders Haugland,"21/17,21/14",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/15,21/13",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Dennis Andersen Moe,Erlend Engesæter Bognøy,"21/18,21/16",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/13,21/17",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Arild Mevatne,Anders Haugland,Dennis Andersen Moe,Erlend Engesæter Bognøy,"15/21,21/15,21/14",Arild Mevatne,Anders Haugland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Arild Mevatne,Anders Haugland,Heine Økland Kolltveit,Fredrik Vabø Helset,"29/27,21/11",Arild Mevatne,Anders Haugland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,"20/22,21/19,21/17",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Dennis Andersen Moe,Erlend Engesæter Bognøy,"25/23,18/21,21/14",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Sigbjørn Honve,Petter Polden,Arild Mevatne,Anders Haugland,"21/15,21/14",Sigbjørn Honve,Petter Polden
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Ida Ulstein,Hege Malene Ulstein,Anne Lie Foldnes,Julie Langeland Risa,"19/21,21/18,21/19",Ida Ulstein,Hege Malene Ulstein
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Aksel Skard Bjerke,,Artjon Qevani,"21/12,22/20",Aksel Skard Bjerke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Erik Waldemar Bødtker Enqvist,,Artjon Qevani,"21/14,21/14",Erik Waldemar Bødtker Enqvist,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Erik Waldemar Bødtker Enqvist,,Aksel Skard Bjerke,"21/16,22/20",Erik Waldemar Bødtker Enqvist,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Aksel Skard Bjerke,,Artjon Qevani,"21/12,22/20",Aksel Skard Bjerke,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Erik Waldemar Bødtker Enqvist,,Artjon Qevani,"21/14,21/14",Erik Waldemar Bødtker Enqvist,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Erik Waldemar Bødtker Enqvist,,Aksel Skard Bjerke,"21/16,22/20",Erik Waldemar Bødtker Enqvist,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Celina Kvernøy,,Thea Øyen Selsaas,"12/21,21/17,21/18",Celina Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Thea Øyen Selsaas,,Camilla Skrunes Sundt,"21/10,21/17",Thea Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,,Celina Kvernøy,,Camilla Skrunes Sundt,"25/23,19/21,22/20",Celina Kvernøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Aksel Skard Bjerke,Artjon Qevani,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/18,21/13",Aksel Skard Bjerke,Artjon Qevani
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Ole Kristian Lie,Jakob Langeland Risa,Ekaja Dubey,Oline Langeland Risa,"21/18,21/13",Ole Kristian Lie,Jakob Langeland Risa
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Aksel Skard Bjerke,Artjon Qevani,Ekaja Dubey,Oline Langeland Risa,"21/7,21/7",Aksel Skard Bjerke,Artjon Qevani
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Sebastian Hestenes,Andreas Brakedal,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/18,21/19",Sebastian Hestenes,Andreas Brakedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Sebastian Hestenes,Andreas Brakedal,Aksel Skard Bjerke,Artjon Qevani,"21/8,17/21,21/13",Sebastian Hestenes,Andreas Brakedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Ole Kristian Lie,Jakob Langeland Risa,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/15,21/18",Ole Kristian Lie,Jakob Langeland Risa
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Aksel Skard Bjerke,Artjon Qevani,Ole Kristian Lie,Jakob Langeland Risa,"22/20,23/21",Aksel Skard Bjerke,Artjon Qevani
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Sebastian Hestenes,Andreas Brakedal,Ekaja Dubey,Oline Langeland Risa,"21/10,21/14",Sebastian Hestenes,Andreas Brakedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Camilla Skrunes Sundt,Thea Øyen Selsaas,Ekaja Dubey,Oline Langeland Risa,"21/11,21/7",Camilla Skrunes Sundt,Thea Øyen Selsaas
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Sebastian Hestenes,Andreas Brakedal,Ole Kristian Lie,Jakob Langeland Risa,"21/12,21/9",Sebastian Hestenes,Andreas Brakedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Jakob Langeland Risa,,Anton Onarheim Vea,"21/15,15/21,21/18",Jakob Langeland Risa,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Andreas Brakedal,"21/11,21/10",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Anton Onarheim Vea,,Andreas Brakedal,"21/19,17/21,21/18",Anton Onarheim Vea,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Magnus Reynolds Torsvik,,Jakob Langeland Risa,"22/20,18/21,21/16",Magnus Reynolds Torsvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Magnus Reynolds Torsvik,"21/14,21/10",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Jakob Langeland Risa,,Andreas Brakedal,"21/8,14/21,21/15",Jakob Langeland Risa,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Anton Onarheim Vea,"21/17,21/8",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Andreas Brakedal,,Magnus Reynolds Torsvik,"21/19,21/15",Andreas Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Anton Onarheim Vea,,Magnus Reynolds Torsvik,"21/14,21/11",Anton Onarheim Vea,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Jakob Langeland Risa,"21/19,21/11",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Jakob Langeland Risa,,Anton Onarheim Vea,"21/15,15/21,21/18",Jakob Langeland Risa,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Andreas Brakedal,"21/11,21/10",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Anton Onarheim Vea,,Andreas Brakedal,"21/19,17/21,21/18",Anton Onarheim Vea,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Magnus Reynolds Torsvik,,Jakob Langeland Risa,"22/20,18/21,21/16",Magnus Reynolds Torsvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Magnus Reynolds Torsvik,"21/14,21/10",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Jakob Langeland Risa,,Andreas Brakedal,"21/8,14/21,21/15",Jakob Langeland Risa,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Anton Onarheim Vea,"21/17,21/8",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Andreas Brakedal,,Magnus Reynolds Torsvik,"21/19,21/15",Andreas Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Anton Onarheim Vea,,Magnus Reynolds Torsvik,"21/14,21/11",Anton Onarheim Vea,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ole Kristian Lie,,Jakob Langeland Risa,"21/19,21/11",Ole Kristian Lie,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ekaja Dubey,,Felicia Dahle,"21/12,21/12",Ekaja Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Oline Langeland Risa,,Hanna Kvitnes Olsen,"21/16,21/11",Oline Langeland Risa,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Felicia Dahle,,Oline Langeland Risa,"21/17,21/12",Felicia Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ekaja Dubey,,Juli Helen Johansen Klungtveit,"21/11,21/9",Ekaja Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Felicia Dahle,,Juli Helen Johansen Klungtveit,"21/18,21/18",Felicia Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ekaja Dubey,,Hanna Kvitnes Olsen,"21/4,21/6",Ekaja Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Felicia Dahle,,Hanna Kvitnes Olsen,"21/6,21/4",Felicia Dahle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Juli Helen Johansen Klungtveit,,Oline Langeland Risa,"21/13,20/22,21/15",Juli Helen Johansen Klungtveit,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Ekaja Dubey,,Oline Langeland Risa,"21/6,21/17",Ekaja Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,,Juli Helen Johansen Klungtveit,,Hanna Kvitnes Olsen,"21/6,21/5",Juli Helen Johansen Klungtveit,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/10,21/4",Brynjar Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Sondre Lie Foldnes,,Olav Dalan Eidissen,"21/11,21/16",Sondre Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Brynjar Hus,,Sondre Lie Foldnes,"21/12,21/10",Brynjar Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Brynjar Hus,,Olav Dalan Eidissen,"21/7,21/14",Brynjar Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Herman Dalan  Eidissen,,Aldrin Nelson,"21/13,21/14",Herman Dalan  Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Lukas Skrunes Sundt,,Elkan Abraham,"21/8,21/8",Lukas Skrunes Sundt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Aldrin Nelson,,Elkan Abraham,"21/16,12/21,21/14",Aldrin Nelson,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Herman Dalan  Eidissen,,Lukas Skrunes Sundt,"23/21,21/11",Herman Dalan  Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Lukas Skrunes Sundt,,Aldrin Nelson,"21/7,21/12",Lukas Skrunes Sundt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Herman Dalan  Eidissen,,Elkan Abraham,"21/4,21/4",Herman Dalan  Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/10,21/4",Brynjar Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Sondre Lie Foldnes,,Olav Dalan Eidissen,"21/11,21/16",Sondre Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Brynjar Hus,,Sondre Lie Foldnes,"21/12,21/10",Brynjar Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Brynjar Hus,,Olav Dalan Eidissen,"21/7,21/14",Brynjar Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Herman Dalan  Eidissen,,Aldrin Nelson,"21/13,21/14",Herman Dalan  Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Lukas Skrunes Sundt,,Elkan Abraham,"21/8,21/8",Lukas Skrunes Sundt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Aldrin Nelson,,Elkan Abraham,"21/16,12/21,21/14",Aldrin Nelson,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Herman Dalan  Eidissen,,Lukas Skrunes Sundt,"23/21,21/11",Herman Dalan  Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Lukas Skrunes Sundt,,Aldrin Nelson,"21/7,21/12",Lukas Skrunes Sundt,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Herman Dalan  Eidissen,,Elkan Abraham,"21/4,21/4",Herman Dalan  Eidissen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Amalie Lexander,,Linnea Holmedal,"21/17,18/21,21/15",Amalie Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Amalie Lexander,,Nandita Anil,"21/5,21/9",Amalie Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Akarija Anton Reginold,,Athina Leiren,"21/13,21/17",Akarija Anton Reginold,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Linnea Holmedal,,Athina Leiren,"21/3,21/7",Linnea Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Linnea Holmedal,,Akarija Anton Reginold,"21/7,21/3",Linnea Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Amalie Lexander,,Maria Botcharova Ellingsen,"21/8,21/10",Amalie Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Maria Botcharova Ellingsen,,Arathija Anton Reginold,"21/17,16/21,21/10",Maria Botcharova Ellingsen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Amalie Lexander,,Arathija Anton Reginold,"21/3,21/6",Amalie Lexander,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Emilie Alrek Eide,,Solveig Elise Thuestad,"22/20,12/21,21/19",Emilie Alrek Eide,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Nandita Anil,,Solveig Elise Thuestad,"21/8,21/5",Nandita Anil,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,,Nandita Anil,,Emilie Alrek Eide,"21/18,21/12",Nandita Anil,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Niklas Rasmussen,Elkan Abraham,Sindre Gjuvsland,Brede Lie Foldnes,"21/18,21/16",Niklas Rasmussen,Elkan Abraham
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herman Kolstø,Sondre Lie Foldnes,Aldrin Nelson,Pranav Tehlan,"14/21,21/13,22/20",Herman Kolstø,Sondre Lie Foldnes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herman Kolstø,Sondre Lie Foldnes,Sindre Gjuvsland,Brede Lie Foldnes,"21/19,21/14",Herman Kolstø,Sondre Lie Foldnes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Aldrin Nelson,Pranav Tehlan,Niklas Rasmussen,Elkan Abraham,"19/21,21/18,21/14",Aldrin Nelson,Pranav Tehlan
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Sindre Gjuvsland,Brede Lie Foldnes,Aldrin Nelson,Pranav Tehlan,"21/19,13/21,21/19",Sindre Gjuvsland,Brede Lie Foldnes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herman Kolstø,Sondre Lie Foldnes,Niklas Rasmussen,Elkan Abraham,"21/18,21/12",Herman Kolstø,Sondre Lie Foldnes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Solveig Elise Thuestad,Nandita Anil,Akarija Anton Reginold,Arathija Anton Reginold,"21/8,21/12",Solveig Elise Thuestad,Nandita Anil
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Linnea Holmedal,Amalie Lexander,Maria Botcharova Ellingsen,Athina Leiren,"21/11,21/7",Linnea Holmedal,Amalie Lexander
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Emilie Alrek Eide,Therese Steffensen,Akarija Anton Reginold,Arathija Anton Reginold,"21/9,21/16",Emilie Alrek Eide,Therese Steffensen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Solveig Elise Thuestad,Nandita Anil,Maria Botcharova Ellingsen,Athina Leiren,"21/7,21/7",Solveig Elise Thuestad,Nandita Anil
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Emilie Alrek Eide,Therese Steffensen,Maria Botcharova Ellingsen,Athina Leiren,"21/8,21/5",Emilie Alrek Eide,Therese Steffensen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Linnea Holmedal,Amalie Lexander,Solveig Elise Thuestad,Nandita Anil,"21/19,21/8",Linnea Holmedal,Amalie Lexander
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Akarija Anton Reginold,Arathija Anton Reginold,Maria Botcharova Ellingsen,Athina Leiren,"20/22,21/16,23/21",Akarija Anton Reginold,Arathija Anton Reginold
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Linnea Holmedal,Amalie Lexander,Emilie Alrek Eide,Therese Steffensen,"21/14,21/14",Linnea Holmedal,Amalie Lexander
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Linnea Holmedal,Amalie Lexander,Akarija Anton Reginold,Arathija Anton Reginold,"21/8,21/6",Linnea Holmedal,Amalie Lexander
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Emilie Alrek Eide,Therese Steffensen,Solveig Elise Thuestad,Nandita Anil,"18/21,21/17,22/20",Emilie Alrek Eide,Therese Steffensen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Herman Kolstø,"19/21,21/16,21/17",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Heine Lam Nybakk,"21/19,21/17",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Sindre Gjuvsland,"22/20,21/18",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Niklas Rasmussen,"21/14,21/10",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Eirik Nitter,,Tor Gjerstad,"21/16,21/14",Eirik Nitter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Tor Gjerstad,"21/18,21/11",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Eirik Nitter,"21/16,21/16",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Pranav Tehlan,,Luka Bjørnestad Colovic,"21/1,21/2",Pranav Tehlan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Heine Lam Nybakk,,Kristoffer Sveen Hjertholm,"17/21,21/18,21/11",Heine Lam Nybakk,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Heine Lam Nybakk,,Pranav Tehlan,"21/15,21/16",Heine Lam Nybakk,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Kristoffer Sveen Hjertholm,,Pranav Tehlan,"13/21,21/13,21/16",Kristoffer Sveen Hjertholm,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Oskar Aasebø,,Troy Solbakken Myrvang,"21/16,21/8",Oskar Aasebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Oskar Aasebø,"21/6,21/9",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Troy Solbakken Myrvang,"21/11,21/12",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Alexander Kleppe Hagen,,Feil,"22/20,12/21,21/19",Alexander Kleppe Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Niklas Rasmussen,,Alexander Kleppe Hagen,"21/10,21/7",Niklas Rasmussen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Niklas Rasmussen,,Feil,"21/6,21/7",Niklas Rasmussen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sebastian Hestenes,,Andreas G Jakobsen,"21/18,21/7",Sebastian Hestenes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sindre Gjuvsland,,Sebastian Hestenes,"21/13,19/21,21/12",Sindre Gjuvsland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sindre Gjuvsland,,Andreas G Jakobsen,"28/26,21/9",Sindre Gjuvsland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Herman Kolstø,"19/21,21/16,21/17",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Heine Lam Nybakk,"21/19,21/17",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Sindre Gjuvsland,"22/20,21/18",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Niklas Rasmussen,"21/14,21/10",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Eirik Nitter,,Tor Gjerstad,"21/16,21/14",Eirik Nitter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Tor Gjerstad,"21/18,21/11",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Brede Lie Foldnes,,Eirik Nitter,"21/16,21/16",Brede Lie Foldnes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Pranav Tehlan,,Luka Bjørnestad Colovic,"21/1,21/2",Pranav Tehlan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Heine Lam Nybakk,,Kristoffer Sveen Hjertholm,"17/21,21/18,21/11",Heine Lam Nybakk,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Heine Lam Nybakk,,Pranav Tehlan,"21/15,21/16",Heine Lam Nybakk,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Kristoffer Sveen Hjertholm,,Pranav Tehlan,"13/21,21/13,21/16",Kristoffer Sveen Hjertholm,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Oskar Aasebø,,Troy Solbakken Myrvang,"21/16,21/8",Oskar Aasebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Oskar Aasebø,"21/6,21/9",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Herman Kolstø,,Troy Solbakken Myrvang,"21/11,21/12",Herman Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Alexander Kleppe Hagen,,Feil,"22/20,12/21,21/19",Alexander Kleppe Hagen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Niklas Rasmussen,,Alexander Kleppe Hagen,"21/10,21/7",Niklas Rasmussen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Niklas Rasmussen,,Feil,"21/6,21/7",Niklas Rasmussen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sebastian Hestenes,,Andreas G Jakobsen,"21/18,21/7",Sebastian Hestenes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sindre Gjuvsland,,Sebastian Hestenes,"21/13,19/21,21/12",Sindre Gjuvsland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sindre Gjuvsland,,Andreas G Jakobsen,"28/26,21/9",Sindre Gjuvsland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sofie Christensen,,Dhatri Pandya,"21/5,21/11",Sofie Christensen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Tonje Midttun,,Dhatri Pandya,"21/12,21/10",Tonje Midttun,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,,Sofie Christensen,,Tonje Midttun,"19/21,21/13,21/13",Sofie Christensen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Tor Gjerstad,Andreas G Jakobsen,Eirik Nitter,Anton Onarheim Vea,"21/14,21/18",Tor Gjerstad,Andreas G Jakobsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Tonje Midttun,Sofie Christensen,Eirik Nitter,Anton Onarheim Vea,"21/18,21/18",Tonje Midttun,Sofie Christensen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Tor Gjerstad,Andreas G Jakobsen,Tonje Midttun,Sofie Christensen,"21/13,22/24,21/19",Tor Gjerstad,Andreas G Jakobsen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Elias Øyen Selsaas,"21/8,21/12",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/17,21/16",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Thomas Barth,,Vemund Hus,"21/12,21/14",Thomas Barth,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Jonathan Utne Madsøy,"21/8,21/7",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Vemund Hus,,Jonathan Utne Madsøy,"21/17,21/13",Vemund Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Thomas Barth,"21/13,21/14",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Vemund Hus,"21/6,21/11",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Thomas Barth,,Jonathan Utne Madsøy,"21/11,21/5",Thomas Barth,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Fredrik Hestenes,,Hemant Anilkumar,"21/11,21/14",Fredrik Hestenes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Vetle Vinnes Bråten,"21/9,21/11",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Hemant Anilkumar,"21/12,21/13",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Fredrik Hestenes,,Vetle Vinnes Bråten,"21/13,21/16",Fredrik Hestenes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Hemant Anilkumar,,Vetle Vinnes Bråten,"14/21,21/16,21/13",Hemant Anilkumar,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Fredrik Hestenes,"21/19,21/17",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Jonas Bergli Almås,,Brede Stenfeldt,"21/9,21/7",Jonas Bergli Almås,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Elias Øyen Selsaas,"21/8,21/12",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/17,21/16",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Thomas Barth,,Vemund Hus,"21/12,21/14",Thomas Barth,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Jonathan Utne Madsøy,"21/8,21/7",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Vemund Hus,,Jonathan Utne Madsøy,"21/17,21/13",Vemund Hus,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Thomas Barth,"21/13,21/14",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Andreas Holmedal,,Vemund Hus,"21/6,21/11",Andreas Holmedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Thomas Barth,,Jonathan Utne Madsøy,"21/11,21/5",Thomas Barth,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Fredrik Hestenes,,Hemant Anilkumar,"21/11,21/14",Fredrik Hestenes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Vetle Vinnes Bråten,"21/9,21/11",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Hemant Anilkumar,"21/12,21/13",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Fredrik Hestenes,,Vetle Vinnes Bråten,"21/13,21/16",Fredrik Hestenes,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Hemant Anilkumar,,Vetle Vinnes Bråten,"14/21,21/16,21/13",Hemant Anilkumar,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Elias Øyen Selsaas,,Fredrik Hestenes,"21/19,21/17",Elias Øyen Selsaas,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Jonas Bergli Almås,,Brede Stenfeldt,"21/9,21/7",Jonas Bergli Almås,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Hanne Kolstø,,Astrid Lovise Pallesen,"21/6,21/14",Hanne Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Divya Tehlan,,Astrid Salthella,"21/16,21/6",Divya Tehlan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Astrid Lovise Pallesen,,Astrid Salthella,"21/23,21/13,21/19",Astrid Lovise Pallesen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Heidi Kristine Skree,,Hanne Kolstø,"21/8,21/14",Heidi Kristine Skree,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Heidi Kristine Skree,,Astrid Lovise Pallesen,"21/13,21/17",Heidi Kristine Skree,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Divya Tehlan,,Hanne Kolstø,"21/14,21/17",Divya Tehlan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Divya Tehlan,,Astrid Lovise Pallesen,"21/13,21/19",Divya Tehlan,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Heidi Kristine Skree,,Astrid Salthella,"21/5,21/4",Heidi Kristine Skree,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Hanne Kolstø,,Astrid Salthella,"21/10,21/6",Hanne Kolstø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,,Heidi Kristine Skree,,Divya Tehlan,"21/13,21/17",Heidi Kristine Skree,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Andreas Holmedal,Thomas Barth,Elias Øyen Selsaas,Jonathan Utne Madsøy,"21/8,21/3",Andreas Holmedal,Thomas Barth
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Vemund Hus,Fredrik Hestenes,Vetle Vinnes Bråten,Brede Stenfeldt,"19/21,21/14,21/17",Vemund Hus,Fredrik Hestenes
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Andreas Holmedal,Thomas Barth,Vetle Vinnes Bråten,Brede Stenfeldt,"21/8,21/8",Andreas Holmedal,Thomas Barth
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Andreas Holmedal,Thomas Barth,Vemund Hus,Fredrik Hestenes,"21/7,21/8",Andreas Holmedal,Thomas Barth
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Lukas Skrunes Sundt,Brynjar Hus,Herman Dalan  Eidissen,Jonas Bergli Almås,"21/15,21/18",Lukas Skrunes Sundt,Brynjar Hus
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Elias Øyen Selsaas,Jonathan Utne Madsøy,Lukas Skrunes Sundt,Brynjar Hus,"21/16,21/15",Elias Øyen Selsaas,Jonathan Utne Madsøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Elias Øyen Selsaas,Jonathan Utne Madsøy,Herman Dalan  Eidissen,Jonas Bergli Almås,"21/10,21/7",Elias Øyen Selsaas,Jonathan Utne Madsøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Manas Dubey,"21/16,23/25,24/22",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Manas Dubey,,Matthew Leiren,"17/21,21/12,21/18",Manas Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Jonas Bukkestein,"21/16,21/13",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Matthew Leiren,,Edvard Kildahl,"21/5,21/6",Matthew Leiren,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Bukkestein,,Olivier Burzynski,"21/19,25/23",Jonas Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,William Svellingen,"18/21,21/16,21/12",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Manas Dubey,,Sindre Mangernes Lied,"21/2,21/5",Manas Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Cornelius Hetland,,Sindre Mangernes Lied,"21/11,21/9",Cornelius Hetland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Manas Dubey,,Cornelius Hetland,"21/6,21/4",Manas Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Matthew Leiren,,Kornelius Mandelid Ringen,"21/14,21/9",Matthew Leiren,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Matthew Leiren,,Frikk Midtsæter,"21/6,21/14",Matthew Leiren,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Frikk Midtsæter,,Kornelius Mandelid Ringen,"19/21,21/18,21/18",Frikk Midtsæter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Edvard Kildahl,,Petter Stople,"21/16,19/21,21/18",Edvard Kildahl,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Edvard Kildahl,,Halvard Søreide,"21/13,21/19",Edvard Kildahl,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Petter Stople,,Halvard Søreide,"21/11,21/13",Petter Stople,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Bukkestein,,Benjamin Gråberg,"21/8,21/9",Jonas Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Onarheim Vea,,Benjamin Gråberg,"21/14,21/17",Jonas Onarheim Vea,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Bukkestein,,Jonas Onarheim Vea,"21/19,23/21",Jonas Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Olivier Burzynski,,Johannes Sørvik,"21/6,21/9",Olivier Burzynski,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Johannes Sørvik,,Håvard Fitjar,"21/19,22/20",Johannes Sørvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Olivier Burzynski,,Håvard Fitjar,"21/13,21/7",Olivier Burzynski,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,William Svellingen,,Jørgen Heggøy Knudsen,"22/20,21/9",William Svellingen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,William Svellingen,,Halvard Nitter,"21/6,21/12",William Svellingen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Halvard Nitter,,Jørgen Heggøy Knudsen,"22/20,21/16",Halvard Nitter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Benjamin Krokås,,Hans Jakob Skree,"21/11,21/8",Benjamin Krokås,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Benjamin Krokås,"21/6,21/6",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Hans Jakob Skree,"21/5,21/2",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Manas Dubey,"21/16,23/25,24/22",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Manas Dubey,,Matthew Leiren,"17/21,21/12,21/18",Manas Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Jonas Bukkestein,"21/16,21/13",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Matthew Leiren,,Edvard Kildahl,"21/5,21/6",Matthew Leiren,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Bukkestein,,Olivier Burzynski,"21/19,25/23",Jonas Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,William Svellingen,"18/21,21/16,21/12",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Manas Dubey,,Sindre Mangernes Lied,"21/2,21/5",Manas Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Cornelius Hetland,,Sindre Mangernes Lied,"21/11,21/9",Cornelius Hetland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Manas Dubey,,Cornelius Hetland,"21/6,21/4",Manas Dubey,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Matthew Leiren,,Kornelius Mandelid Ringen,"21/14,21/9",Matthew Leiren,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Matthew Leiren,,Frikk Midtsæter,"21/6,21/14",Matthew Leiren,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Frikk Midtsæter,,Kornelius Mandelid Ringen,"19/21,21/18,21/18",Frikk Midtsæter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Edvard Kildahl,,Petter Stople,"21/16,19/21,21/18",Edvard Kildahl,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Edvard Kildahl,,Halvard Søreide,"21/13,21/19",Edvard Kildahl,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Petter Stople,,Halvard Søreide,"21/11,21/13",Petter Stople,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Bukkestein,,Benjamin Gråberg,"21/8,21/9",Jonas Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Onarheim Vea,,Benjamin Gråberg,"21/14,21/17",Jonas Onarheim Vea,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jonas Bukkestein,,Jonas Onarheim Vea,"21/19,23/21",Jonas Bukkestein,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Olivier Burzynski,,Johannes Sørvik,"21/6,21/9",Olivier Burzynski,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Johannes Sørvik,,Håvard Fitjar,"21/19,22/20",Johannes Sørvik,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Olivier Burzynski,,Håvard Fitjar,"21/13,21/7",Olivier Burzynski,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,William Svellingen,,Jørgen Heggøy Knudsen,"22/20,21/9",William Svellingen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,William Svellingen,,Halvard Nitter,"21/6,21/12",William Svellingen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Halvard Nitter,,Jørgen Heggøy Knudsen,"22/20,21/16",Halvard Nitter,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Benjamin Krokås,,Hans Jakob Skree,"21/11,21/8",Benjamin Krokås,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Benjamin Krokås,"21/6,21/6",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Siddharth Dushantha,,Hans Jakob Skree,"21/5,21/2",Siddharth Dushantha,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Caroline Brakedal,,Nikol Hermansen,"21/17,15/21,21/15",Caroline Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Nikol Hermansen,,Jona Ingrid Heggebø,"21/9,21/3",Nikol Hermansen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Caroline Brakedal,,Christel Norum,"16/21,21/16,21/12",Caroline Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Irene Jonassen,,Eline Louise Økland Nordeide,"21/6,21/11",Irene Jonassen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Nikol Hermansen,,Irene Jonassen,"21/12,22/20",Nikol Hermansen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Nikol Hermansen,,Eline Louise Økland Nordeide,"21/8,21/4",Nikol Hermansen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Ian Mortvedt Haugland,,Siri Elise Stokka,"22/20,20/22,21/11",Ian Mortvedt Haugland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jona Ingrid Heggebø,,Tuva Klepsvik Sæle,"21/15,21/13",Jona Ingrid Heggebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jona Ingrid Heggebø,,Siri Elise Stokka,"21/9,21/13",Jona Ingrid Heggebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Ian Mortvedt Haugland,,Tuva Klepsvik Sæle,"21/12,21/11",Ian Mortvedt Haugland,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Tuva Klepsvik Sæle,,Siri Elise Stokka,"21/19,21/10",Tuva Klepsvik Sæle,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Jona Ingrid Heggebø,,Ian Mortvedt Haugland,"21/16,21/12",Jona Ingrid Heggebø,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Caroline Brakedal,,Alexandra Horseng Skogseth,"21/6,21/4",Caroline Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Live Rasmussen,,Serine Stokka,"21/3,21/10",Live Rasmussen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Caroline Brakedal,,Serine Stokka,"21/3,21/12",Caroline Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Live Rasmussen,,Alexandra Horseng Skogseth,"21/2,21/4",Live Rasmussen,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Caroline Brakedal,,Live Rasmussen,"21/12,21/17",Caroline Brakedal,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Serine Stokka,,Alexandra Horseng Skogseth,"21/16,21/2",Serine Stokka,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Ida Dåvøy,,Ylva Hellebø,"21/8,21/9",Ida Dåvøy,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Christel Norum,,Ida Dåvøy,"21/19,21/14",Christel Norum,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,,Christel Norum,,Ylva Hellebø,"21/7,21/5",Christel Norum,
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Siddharth Dushantha,Manas Dubey,Halvard Nitter,Jonas Onarheim Vea,"21/9,21/11",Siddharth Dushantha,Manas Dubey
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Halvard Nitter,Jonas Onarheim Vea,Petter Stople,Kristoffer Sveen Hjertholm,"21/18,21/19",Halvard Nitter,Jonas Onarheim Vea
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Olivier Burzynski,Cornelius Hetland,Halvard Søreide,Johannes Sørvik,"21/9,21/9",Olivier Burzynski,Cornelius Hetland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Siddharth Dushantha,Manas Dubey,Joachim Granerud,Patrick Høgelid Lauritzen,"21/4,21/8",Siddharth Dushantha,Manas Dubey
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Olivier Burzynski,Cornelius Hetland,Joachim Granerud,Patrick Høgelid Lauritzen,"21/10,21/8",Olivier Burzynski,Cornelius Hetland
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Siddharth Dushantha,Manas Dubey,Halvard Søreide,Johannes Sørvik,"21/5,21/4",Siddharth Dushantha,Manas Dubey
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Siddharth Dushantha,Manas Dubey,Olivier Burzynski,Cornelius Hetland,"21/11,21/3",Siddharth Dushantha,Manas Dubey
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Halvard Søreide,Johannes Sørvik,Joachim Granerud,Patrick Høgelid Lauritzen,"12/21,25/23,21/8",Halvard Søreide,Johannes Sørvik
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Benjamin Gråberg,Frikk Midtsæter,Lars Lillestøl Duinker,Mads Møvik Olsen,"21/10,21/17",Benjamin Gråberg,Frikk Midtsæter
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Petter Stople,Kristoffer Sveen Hjertholm,Lars Lillestøl Duinker,Mads Møvik Olsen,"21/16,21/15",Petter Stople,Kristoffer Sveen Hjertholm
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Petter Stople,Kristoffer Sveen Hjertholm,Benjamin Gråberg,Frikk Midtsæter,"21/11,21/11",Petter Stople,Kristoffer Sveen Hjertholm
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Halvard Nitter,Jonas Onarheim Vea,Benjamin Krokås,Sindre Mangernes Lied,"21/7,21/8",Halvard Nitter,Jonas Onarheim Vea
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Jørgen Heggøy Knudsen,Kornelius Mandelid Ringen,Benjamin Krokås,Sindre Mangernes Lied,"21/5,21/3",Jørgen Heggøy Knudsen,Kornelius Mandelid Ringen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Halvard Nitter,Jonas Onarheim Vea,Jørgen Heggøy Knudsen,Kornelius Mandelid Ringen,"21/17,19/21,21/6",Halvard Nitter,Jonas Onarheim Vea
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Nikol Hermansen,Divya Tehlan,Christel Norum,Irene Jonassen,"21/10,21/15",Nikol Hermansen,Divya Tehlan
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Live Rasmussen,Caroline Brakedal,Eline Louise Økland Nordeide,Tuva Klepsvik Sæle,"21/7,21/12",Live Rasmussen,Caroline Brakedal
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Nikol Hermansen,Divya Tehlan,Live Rasmussen,Caroline Brakedal,"21/14,21/17",Nikol Hermansen,Divya Tehlan
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Nikol Hermansen,Divya Tehlan,Eline Louise Økland Nordeide,Tuva Klepsvik Sæle,"21/6,21/2",Nikol Hermansen,Divya Tehlan
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Christel Norum,Irene Jonassen,Siri Elise Stokka,Serine Stokka,"21/11,21/7",Christel Norum,Irene Jonassen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mari Stangeland,Ida Dåvøy,Astrid Lovise Pallesen,Alexandra Horseng Skogseth,"21/16,21/18",Mari Stangeland,Ida Dåvøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mari Stangeland,Ida Dåvøy,Siri Elise Stokka,Serine Stokka,"21/8,21/6",Mari Stangeland,Ida Dåvøy
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Christel Norum,Irene Jonassen,Astrid Lovise Pallesen,Alexandra Horseng Skogseth,"21/8,20/22,21/8",Christel Norum,Irene Jonassen
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Astrid Lovise Pallesen,Alexandra Horseng Skogseth,Siri Elise Stokka,Serine Stokka,"21/19,21/15",Astrid Lovise Pallesen,Alexandra Horseng Skogseth
-2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Christel Norum,Irene Jonassen,Mari Stangeland,Ida Dåvøy,"23/21,19/21,21/13",Christel Norum,Irene Jonassen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Simen Lexander,,Sigbjørn Honve,"21/19,5/21,21/17",Simen Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Simen Lexander,,Erlend Engesæter Bognøy,"21/6,21/12",Simen Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Sigbjørn Honve,,Arild Mevatne,"21/4,21/13",Sigbjørn Honve,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Arild Mevatne,,Petter Polden,"22/20,22/20",Arild Mevatne,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Mats Lervåg,,Heine Økland Kolltveit,"21/5,21/6",Mats Lervåg,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Simen Lexander,,Mats Lervåg,"21/12,21/15",Simen Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Simen Lexander,,Heine Økland Kolltveit,"21/8,21/12",Simen Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Erlend Engesæter Bognøy,,Petter Karlsen Wåltorp,"13/21,21/16,21/17",Erlend Engesæter Bognøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Petter Karlsen Wåltorp,,Iver Rolvsjord,"21/16,21/13",Petter Karlsen Wåltorp,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Erlend Engesæter Bognøy,,Iver Rolvsjord,"21/19,21/17",Erlend Engesæter Bognøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Are Eidissen,,Audun Christoffer Adolfson,"21/15,13/21,22/20",Are Eidissen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Arild Mevatne,,Audun Christoffer Adolfson,"21/10,21/12",Arild Mevatne,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Arild Mevatne,,Are Eidissen,"21/11,21/6",Arild Mevatne,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Fredrik Vabø Helset,,Olav Vatna Selvåg,"21/17,21/15",Fredrik Vabø Helset,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Petter Polden,,Fredrik Vabø Helset,"21/13,21/16",Petter Polden,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Petter Polden,,Olav Vatna Selvåg,"21/12,21/13",Petter Polden,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Dennis Andersen Moe,,Michael White,"19/21,21/19,21/18",Dennis Andersen Moe,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Sigbjørn Honve,,Michael White,"21/15,21/15",Sigbjørn Honve,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herresingle,,Sigbjørn Honve,,Dennis Andersen Moe,"21/19,21/7",Sigbjørn Honve,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Damesingle,,Marianne Lie,,Julie Langeland Risa,"22/20,16/21,21/13",Marianne Lie,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Dennis Andersen Moe,Erlend Engesæter Bognøy,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/15,18/21,23/21",Dennis Andersen Moe,Erlend Engesæter Bognøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Arild Mevatne,Anders Haugland,"21/17,21/14",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/15,21/13",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Sigbjørn Honve,Petter Polden,Dennis Andersen Moe,Erlend Engesæter Bognøy,"21/18,21/16",Sigbjørn Honve,Petter Polden
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Sigbjørn Honve,Petter Polden,Heine Økland Kolltveit,Fredrik Vabø Helset,"21/13,21/17",Sigbjørn Honve,Petter Polden
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Arild Mevatne,Anders Haugland,Dennis Andersen Moe,Erlend Engesæter Bognøy,"15/21,21/15,21/14",Arild Mevatne,Anders Haugland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Arild Mevatne,Anders Haugland,Heine Økland Kolltveit,Fredrik Vabø Helset,"29/27,21/11",Arild Mevatne,Anders Haugland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Sigbjørn Honve,Petter Polden,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,"20/22,21/19,21/17",Sigbjørn Honve,Petter Polden
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy,Dennis Andersen Moe,Erlend Engesæter Bognøy,"25/23,18/21,21/14",Petter Karlsen Wåltorp,Kumaran Dhakshan Moorthy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Herredouble,Sigbjørn Honve,Petter Polden,Arild Mevatne,Anders Haugland,"21/15,21/14",Sigbjørn Honve,Petter Polden
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Damedouble,Ida Ulstein,Hege Malene Ulstein,Anne Lie Foldnes,Julie Langeland Risa,"19/21,21/18,21/19",Ida Ulstein,Hege Malene Ulstein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Julie Langeland Risa,Simen Lexander,Petter Polden,Ida Ulstein,"21/16,21/15",Julie Langeland Risa,Simen Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Sigbjørn Honve,Hege Malene Ulstein,Anne Lie Foldnes,Dennis Andersen Moe,"16/21,21/16,21/19",Sigbjørn Honve,Hege Malene Ulstein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Julie Langeland Risa,Simen Lexander,Mariann Andreassen,Michael White,"21/15,21/14",Julie Langeland Risa,Simen Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Julie Langeland Risa,Simen Lexander,Sigbjørn Honve,Hege Malene Ulstein,"21/14,21/14",Julie Langeland Risa,Simen Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Anne Lie Foldnes,Dennis Andersen Moe,Mariann Andreassen,Michael White,"21/17,19/21,21/15",Anne Lie Foldnes,Dennis Andersen Moe
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Sigbjørn Honve,Hege Malene Ulstein,Mariann Andreassen,Michael White,"21/16,21/15",Sigbjørn Honve,Hege Malene Ulstein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Anne Lie Foldnes,Dennis Andersen Moe,Julie Langeland Risa,Simen Lexander,"21/18,18/21,21/15",Anne Lie Foldnes,Dennis Andersen Moe
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Iver Rolvsjord,Elise  Holmedal,Emilie Haugland Lauvik,Erlend Engesæter Bognøy,"21/15,21/14",Iver Rolvsjord,Elise  Holmedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Petter Polden,Ida Ulstein,Arild Mevatne,Marianne Lie,"9/21,21/15,21/18",Petter Polden,Ida Ulstein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Arild Mevatne,Marianne Lie,Iver Rolvsjord,Elise  Holmedal,"21/13,21/13",Arild Mevatne,Marianne Lie
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Petter Polden,Ida Ulstein,Emilie Haugland Lauvik,Erlend Engesæter Bognøy,"21/8,21/12",Petter Polden,Ida Ulstein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Petter Polden,Ida Ulstein,Iver Rolvsjord,Elise  Holmedal,"21/11,21/17",Petter Polden,Ida Ulstein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN A,Mixeddouble,Arild Mevatne,Marianne Lie,Emilie Haugland Lauvik,Erlend Engesæter Bognøy,"21/16,21/16",Arild Mevatne,Marianne Lie
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herresingle,,Anders Haugland,,Svein Andre Hol,"21/19,21/10",Anders Haugland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herresingle,,Anders Haugland,,Benjamin Teigland,"21/10,21/16",Anders Haugland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herresingle,,Aleksej Roman Kustrin Iversen,,Kjetil Ragde,"22/20,21/19",Aleksej Roman Kustrin Iversen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herresingle,,Kjetil Ragde,,Svein Andre Hol,"21/16,12/21,21/11",Kjetil Ragde,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herresingle,,Svein Andre Hol,,Aleksej Roman Kustrin Iversen,"24/22,21/16",Svein Andre Hol,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Thomas Algrøy,Audun Christoffer Adolfson,Benjamin Teigland,Michael White,"21/18,11/21,21/14",Thomas Algrøy,Audun Christoffer Adolfson
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Svein Andre Hol,Helge Økland,Kjetil Ragde,Olav Vatna Selvåg,"21/14,21/15",Svein Andre Hol,Helge Økland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Thomas Algrøy,Audun Christoffer Adolfson,Svein Andre Hol,Helge Økland,"21/19,26/24",Thomas Algrøy,Audun Christoffer Adolfson
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Thomas Algrøy,Audun Christoffer Adolfson,Kjetil Ragde,Olav Vatna Selvåg,"21/16,21/11",Thomas Algrøy,Audun Christoffer Adolfson
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Benjamin Teigland,Michael White,Kawa Kavian,Oleg Tsynkalovskiy,"21/19,21/19",Benjamin Teigland,Michael White
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Nelson Thambiraj,Deiveegan Muthusamy,Aleksej Roman Kustrin Iversen,Simen Mjelva,"21/17,20/22,21/18",Nelson Thambiraj,Deiveegan Muthusamy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Aleksej Roman Kustrin Iversen,Simen Mjelva,Kawa Kavian,Oleg Tsynkalovskiy,"21/9,21/9",Aleksej Roman Kustrin Iversen,Simen Mjelva
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Benjamin Teigland,Michael White,Nelson Thambiraj,Deiveegan Muthusamy,"21/16,19/21,23/21",Benjamin Teigland,Michael White
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Nelson Thambiraj,Deiveegan Muthusamy,Kawa Kavian,Oleg Tsynkalovskiy,"21/11,21/16",Nelson Thambiraj,Deiveegan Muthusamy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Herredouble,Benjamin Teigland,Michael White,Aleksej Roman Kustrin Iversen,Simen Mjelva,"21/15,18/21,21/19",Benjamin Teigland,Michael White
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Mixeddouble,Eva Dobreva,Olav Vatna Selvåg,Karina Sjoukje Jelsma,Svein Andre Hol,"19/21,21/9,21/11",Eva Dobreva,Olav Vatna Selvåg
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Mixeddouble,Kumaran Dhakshan Moorthy,Eline Labey,Karina Sjoukje Jelsma,Svein Andre Hol,"21/12,21/15",Kumaran Dhakshan Moorthy,Eline Labey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN B,Mixeddouble,Kumaran Dhakshan Moorthy,Eline Labey,Eva Dobreva,Olav Vatna Selvåg,"21/17,21/15",Kumaran Dhakshan Moorthy,Eline Labey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Adrian Storhaug,,Børge Mæland,"19/21,21/14,21/14",Adrian Storhaug,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Adrian Storhaug,,Simen Mjelva,"21/18,21/9",Adrian Storhaug,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Børge Mæland,,Kurt Magne Kvernøy,"21/19,21/16",Børge Mæland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Simen Mjelva,,Anders Eimstad,"21/10,21/16",Simen Mjelva,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Adrian Storhaug,,Hans Kåre Kvernøy,"21/8,17/21,21/13",Adrian Storhaug,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Børge Mæland,,Bernt Pallesen,"21/19,22/20",Børge Mæland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Kurt Magne Kvernøy,,Arne Martin Hagen,"21/6,21/6",Kurt Magne Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Simen Mjelva,,Christoffer Johannessen,"21/13,21/9",Simen Mjelva,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Stian Ekroll Glenne,,Christoffer Johannessen,"21/18,21/17",Stian Ekroll Glenne,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Simen Mjelva,,Stian Ekroll Glenne,"21/12,21/10",Simen Mjelva,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Anders Eimstad,,Gert Buhl,"21/17,16/21,21/3",Anders Eimstad,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Anders Eimstad,,Sondre Frøyland,"21/14,19/21,21/17",Anders Eimstad,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Per Inge Notland,,Edvin Nordbø,"21/8,21/11",Per Inge Notland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Adrian Storhaug,,Per Inge Notland,"21/11,21/18",Adrian Storhaug,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Adrian Storhaug,,Edvin Nordbø,"21/11,21/10",Adrian Storhaug,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Christian Bjerke,,Reidar Kulshamar,"19/21,21/11,21/11",Christian Bjerke,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Hans Kåre Kvernøy,,Christian Bjerke,"21/11,21/5",Hans Kåre Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Hans Kåre Kvernøy,,Reidar Kulshamar,"21/6,21/8",Hans Kåre Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Børge Mæland,,Robert Eriksen,"21/10,21/13",Børge Mæland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Børge Mæland,,Roald Grannes,"21/14,21/5",Børge Mæland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Bernt Pallesen,,Magnar H. Olsen,"21/16,21/17",Bernt Pallesen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Bernt Pallesen,,Jone Mortensen,"21/14,21/18",Bernt Pallesen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Magnar H. Olsen,,Jone Mortensen,"21/16,21/14",Magnar H. Olsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Torstein Vikse Olsen,,Mauricio Herrera,"19/21,21/19,21/15",Torstein Vikse Olsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Arne Martin Hagen,,Torstein Vikse Olsen,"21/16,16/21,21/6",Arne Martin Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Arne Martin Hagen,,Mauricio Herrera,"21/16,22/20",Arne Martin Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Kurt Magne Kvernøy,,Kawa Kavian,"21/14,4/21,21/15",Kurt Magne Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Kurt Magne Kvernøy,,Sverre Svensen,"21/15,21/10",Kurt Magne Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herresingle,,Kawa Kavian,,Sverre Svensen,"21/16,21/13",Kawa Kavian,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Iris Hagen,,Randi Rolvsjord,"21/7,21/9",Iris Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Anita Aasebø,,Synne Brandsdal,"18/21,24/22,22/20",Anita Aasebø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Iris Hagen,,Marie Langeland,"21/6,21/3",Iris Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Anita Aasebø,,Marie Langeland,"21/15,21/11",Anita Aasebø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Iris Hagen,,Synne Brandsdal,"21/2,21/12",Iris Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Iris Hagen,,Anita Aasebø,"21/13,21/13",Iris Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Synne Brandsdal,,Marie Langeland,"21/19,21/18",Synne Brandsdal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Eva Dobreva,,Amrita Dubey,"21/6,21/13",Eva Dobreva,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Randi Rolvsjord,,Alexandra Utslottøy,"21/19,19/21,21/14",Randi Rolvsjord,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Eva Dobreva,,Alexandra Utslottøy,"21/18,17/21,21/16",Eva Dobreva,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Randi Rolvsjord,,Amrita Dubey,"21/13,21/12",Randi Rolvsjord,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Randi Rolvsjord,,Eva Dobreva,"21/12,18/21,21/8",Randi Rolvsjord,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damesingle,,Alexandra Utslottøy,,Amrita Dubey,"21/16,21/17",Alexandra Utslottøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Stian Ekroll Glenne,Bernt Pallesen,Børge Mæland,Hans Kåre Kvernøy,"21/13,12/21,21/10",Stian Ekroll Glenne,Bernt Pallesen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Stian Ekroll Glenne,Bernt Pallesen,Torstein Rasmussen,Kurt Magne Kvernøy,"21/13,21/13",Stian Ekroll Glenne,Bernt Pallesen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Børge Mæland,Hans Kåre Kvernøy,Jørn Grane,Nicolai Haugland,"21/19,21/12",Børge Mæland,Hans Kåre Kvernøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Børge Mæland,Hans Kåre Kvernøy,Øyvind W Olsen,Trond Holmedal,"24/22,21/13",Børge Mæland,Hans Kåre Kvernøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Torstein Rasmussen,Kurt Magne Kvernøy,Sondre Frøyland,Christoffer Johannessen,"17/21,21/19,21/11",Torstein Rasmussen,Kurt Magne Kvernøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Torstein Rasmussen,Kurt Magne Kvernøy,Anders Eimstad,Arild Rasmussen,"21/9,21/23,21/14",Torstein Rasmussen,Kurt Magne Kvernøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Anders Eimstad,Arild Rasmussen,Sondre Frøyland,Christoffer Johannessen,"21/16,21/13",Anders Eimstad,Arild Rasmussen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Stian Ekroll Glenne,Bernt Pallesen,Atle Dahle,Karl Martin Valestrand,"21/13,21/12",Stian Ekroll Glenne,Bernt Pallesen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Jone Mortensen,Edvin Nordbø,Atle Dahle,Karl Martin Valestrand,"21/9,21/10",Jone Mortensen,Edvin Nordbø
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Stian Ekroll Glenne,Bernt Pallesen,Jone Mortensen,Edvin Nordbø,"21/18,21/15",Stian Ekroll Glenne,Bernt Pallesen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Mauricio Herrera,Magnar H. Olsen,Reidar Kulshamar,Simen Nærum,"21/16,17/21,21/17",Mauricio Herrera,Magnar H. Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Øyvind W Olsen,Trond Holmedal,Mauricio Herrera,Magnar H. Olsen,"21/11,21/19",Øyvind W Olsen,Trond Holmedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Øyvind W Olsen,Trond Holmedal,Reidar Kulshamar,Simen Nærum,"21/15,21/18",Øyvind W Olsen,Trond Holmedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Børge Mæland,Hans Kåre Kvernøy,Magnus Seilen,Robert Eriksen,"21/11,21/16",Børge Mæland,Hans Kåre Kvernøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Jørn Grane,Nicolai Haugland,Siby Abraham,Anilkumar Unnithan,"21/17,21/12",Jørn Grane,Nicolai Haugland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Jørn Grane,Nicolai Haugland,Sverre Svensen,Per Inge Notland,"21/17,21/9",Jørn Grane,Nicolai Haugland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Herredouble,Sverre Svensen,Per Inge Notland,Siby Abraham,Anilkumar Unnithan,"21/14,18/21,21/19",Sverre Svensen,Per Inge Notland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Irene Lillestøl Duinker,Randi Rolvsjord,Ingeborg Halvorsen,Amrita Dubey,"21/16,21/9",Irene Lillestøl Duinker,Randi Rolvsjord
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Eva Dobreva,Marie Langeland,Synne Brandsdal,Alexandra Utslottøy,"21/13,21/14",Eva Dobreva,Marie Langeland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Eva Dobreva,Marie Langeland,Ingeborg Halvorsen,Amrita Dubey,"21/11,21/12",Eva Dobreva,Marie Langeland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Karina Sjoukje Jelsma,Iris Hagen,Irene Lillestøl Duinker,Randi Rolvsjord,"21/16,21/15",Karina Sjoukje Jelsma,Iris Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Karina Sjoukje Jelsma,Iris Hagen,Ingeborg Halvorsen,Amrita Dubey,"21/7,21/4",Karina Sjoukje Jelsma,Iris Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Synne Brandsdal,Alexandra Utslottøy,Irene Lillestøl Duinker,Randi Rolvsjord,"15/21,21/18,21/19",Synne Brandsdal,Alexandra Utslottøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Synne Brandsdal,Alexandra Utslottøy,Ingeborg Halvorsen,Amrita Dubey,"21/8,21/10",Synne Brandsdal,Alexandra Utslottøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Karina Sjoukje Jelsma,Iris Hagen,Eva Dobreva,Marie Langeland,"21/11,21/8",Karina Sjoukje Jelsma,Iris Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Eva Dobreva,Marie Langeland,Irene Lillestøl Duinker,Randi Rolvsjord,"21/17,22/20",Eva Dobreva,Marie Langeland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Damedouble,Karina Sjoukje Jelsma,Iris Hagen,Synne Brandsdal,Alexandra Utslottøy,"21/17,21/14",Karina Sjoukje Jelsma,Iris Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Dina Høl Bugge,Adrian Storhaug,Benjamin Teigland,Tuva Vinnes Bråten,"21/10,21/17",Dina Høl Bugge,Adrian Storhaug
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Dina Høl Bugge,Adrian Storhaug,Iris Hagen,Bernt Pallesen,"19/21,21/18,21/16",Dina Høl Bugge,Adrian Storhaug
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Benjamin Teigland,Tuva Vinnes Bråten,Irene Lillestøl Duinker,Anders Eimstad,"21/18,21/18",Benjamin Teigland,Tuva Vinnes Bråten
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Beate Rasmussen Soltvedt,Arild Rasmussen,Marie Larsen,Per Inge Notland,"21/15,21/15",Beate Rasmussen Soltvedt,Arild Rasmussen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Iris Hagen,Bernt Pallesen,Marie Larsen,Per Inge Notland,"21/13,21/18",Iris Hagen,Bernt Pallesen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Iris Hagen,Bernt Pallesen,Beate Rasmussen Soltvedt,Arild Rasmussen,"21/19,21/16",Iris Hagen,Bernt Pallesen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Randi Rolvsjord,Øyvind W Olsen,Marie Langeland,Andreas Garrido Lund-olsen,"21/10,21/18",Randi Rolvsjord,Øyvind W Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Dina Høl Bugge,Adrian Storhaug,Randi Rolvsjord,Øyvind W Olsen,"21/10,21/4",Dina Høl Bugge,Adrian Storhaug
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Dina Høl Bugge,Adrian Storhaug,Marie Langeland,Andreas Garrido Lund-olsen,"21/11,21/11",Dina Høl Bugge,Adrian Storhaug
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Aina Mogstad,Robert Eriksen,Christoffer Johannessen,Synne Brandsdal,"21/12,21/17",Aina Mogstad,Robert Eriksen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Benjamin Teigland,Tuva Vinnes Bråten,Sondre Frøyland,Alexandra Utslottøy,"21/18,21/19",Benjamin Teigland,Tuva Vinnes Bråten
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Sondre Frøyland,Alexandra Utslottøy,Christoffer Johannessen,Synne Brandsdal,"21/12,21/14",Sondre Frøyland,Alexandra Utslottøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Benjamin Teigland,Tuva Vinnes Bråten,Aina Mogstad,Robert Eriksen,"21/16,21/14",Benjamin Teigland,Tuva Vinnes Bråten
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Benjamin Teigland,Tuva Vinnes Bråten,Christoffer Johannessen,Synne Brandsdal,"21/12,21/12",Benjamin Teigland,Tuva Vinnes Bråten
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Sondre Frøyland,Alexandra Utslottøy,Aina Mogstad,Robert Eriksen,"20/22,21/8,21/13",Sondre Frøyland,Alexandra Utslottøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Irene Lillestøl Duinker,Anders Eimstad,Aleksej Roman Kustrin Iversen,Ann-Helene Johansson,"21/9,21/12",Irene Lillestøl Duinker,Anders Eimstad
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Irene Lillestøl Duinker,Anders Eimstad,Mari-Anne Korsvik,Kjetil Ragde,"9/21,21/17,22/20",Irene Lillestøl Duinker,Anders Eimstad
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN C,Mixeddouble,Mari-Anne Korsvik,Kjetil Ragde,Aleksej Roman Kustrin Iversen,Ann-Helene Johansson,"18/21,21/10,21/16",Mari-Anne Korsvik,Kjetil Ragde
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Atle Dahle,,Rune Bråten,"21/14,21/17",Atle Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Atle Dahle,,Anilkumar Unnithan,"13/21,21/16,22/20",Atle Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Rune Bråten,,Ashutosh  Dubey,"21/9,21/10",Rune Bråten,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Anilkumar Unnithan,,Sigbjørn Stople,"21/15,21/19",Anilkumar Unnithan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Rune Bråten,,Torbjørn Brekke,"24/26,21/10,21/12",Rune Bråten,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Øystein Knudsen,,Hans Absalon Sekkingstad,"14/21,21/13,21/8",Øystein Knudsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Atle Dahle,,Øystein Knudsen,"21/13,21/10",Atle Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Atle Dahle,,Hans Absalon Sekkingstad,"21/8,21/7",Atle Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Thomas Stenfeldt,,Arne Ringen,"18/21,24/22,21/10",Thomas Stenfeldt,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Anilkumar Unnithan,,Thomas Stenfeldt,"21/10,21/15",Anilkumar Unnithan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Anilkumar Unnithan,,Arne Ringen,"21/17,21/17",Anilkumar Unnithan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Kenneth Olsen,,Espen Andersen,"12/21,21/14,21/16",Kenneth Olsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Sigbjørn Stople,,Espen Andersen,"21/16,21/13",Sigbjørn Stople,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Sigbjørn Stople,,Kenneth Olsen,"21/11,21/19",Sigbjørn Stople,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Øyvind Bukkestein,,Kaj Søndergård Albrektsen,"21/5,21/10",Øyvind Bukkestein,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Torbjørn Brekke,,Øyvind Bukkestein,"21/15,15/21,21/11",Torbjørn Brekke,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Torbjørn Brekke,,Kaj Søndergård Albrektsen,"21/16,22/20",Torbjørn Brekke,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Pål Kolstø,,Robert Dale,"21/7,21/16",Pål Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Rune Bråten,,Robert Dale,"21/11,21/9",Rune Bråten,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Rune Bråten,,Pål Kolstø,"21/13,21/17",Rune Bråten,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Lars Lauvik,,Morten Mortvedt,"21/13,6/21,21/15",Lars Lauvik,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Ashutosh  Dubey,,Einar Morgan Utne,"21/11,21/7",Ashutosh  Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Ashutosh  Dubey,,Morten Mortvedt,"21/12,21/17",Ashutosh  Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Lars Lauvik,,Einar Morgan Utne,"23/25,21/12,21/11",Lars Lauvik,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Morten Mortvedt,,Einar Morgan Utne,"21/13,21/11",Morten Mortvedt,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herresingle,,Ashutosh  Dubey,,Lars Lauvik,"21/19,21/19",Ashutosh  Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Anita Vabø,,Magnhild Stokka,"21/17,22/20",Anita Vabø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Anita Vabø,,Eline Lindøe Nitter,"21/14,21/5",Anita Vabø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Ingeborg Halvorsen,,Christina  Andreassen,"21/14,21/16",Ingeborg Halvorsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Anita Vabø,,Christina  Andreassen,"21/14,21/10",Anita Vabø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Ingeborg Halvorsen,,Eline Lindøe Nitter,"21/9,26/24",Ingeborg Halvorsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Anita Vabø,,Ingeborg Halvorsen,"21/9,21/6",Anita Vabø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Eline Lindøe Nitter,,Christina  Andreassen,"21/18,21/15",Eline Lindøe Nitter,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Therese Kristoffersen,,Sanne Ellingsen,"21/9,21/13",Therese Kristoffersen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Magnhild Stokka,,Johanne Mæland,"22/20,21/7",Magnhild Stokka,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Johanne Mæland,,Sanne Ellingsen,"21/14,21/15",Johanne Mæland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Magnhild Stokka,,Therese Kristoffersen,"21/11,21/19",Magnhild Stokka,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Magnhild Stokka,,Sanne Ellingsen,"21/11,21/4",Magnhild Stokka,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damesingle,,Therese Kristoffersen,,Johanne Mæland,"21/17,21/18",Therese Kristoffersen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Torbjørn Brekke,Torstein Vikse Olsen,Jørn Inge Bognøy,Erik Moe,"21/11,21/14",Torbjørn Brekke,Torstein Vikse Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Jørn Inge Bognøy,Erik Moe,Rune Bråten,Thomas Stenfeldt,"21/16,21/15",Jørn Inge Bognøy,Erik Moe
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Torbjørn Brekke,Torstein Vikse Olsen,Geir Digernes,Pål Kolstø,"21/10,21/11",Torbjørn Brekke,Torstein Vikse Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Jonas Bukkestein,Øyvind Bukkestein,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/11,17/21,21/16",Jonas Bukkestein,Øyvind Bukkestein
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Jørn Inge Bognøy,Erik Moe,Jonas Bukkestein,Øyvind Bukkestein,"21/19,15/21,21/12",Jørn Inge Bognøy,Erik Moe
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Jørn Inge Bognøy,Erik Moe,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/10,15/21,21/17",Jørn Inge Bognøy,Erik Moe
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Rune Bråten,Thomas Stenfeldt,Hans Absalon Sekkingstad,Ashutosh  Dubey,"21/19,21/18",Rune Bråten,Thomas Stenfeldt
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Arne Ringen,Øystein Knudsen,Hans Absalon Sekkingstad,Ashutosh  Dubey,"21/12,23/21",Arne Ringen,Øystein Knudsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Rune Bråten,Thomas Stenfeldt,Arne Ringen,Øystein Knudsen,"21/10,21/15",Rune Bråten,Thomas Stenfeldt
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Geir Digernes,Pål Kolstø,Einar Morgan Utne,Hans Jakob Skree,"21/10,21/10",Geir Digernes,Pål Kolstø
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Geir Digernes,Pål Kolstø,Lars Lauvik,Kenneth Olsen,"21/18,21/12",Geir Digernes,Pål Kolstø
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Lars Lauvik,Kenneth Olsen,Einar Morgan Utne,Hans Jakob Skree,"21/18,21/13",Lars Lauvik,Kenneth Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Morten Amundsen,Kjell Tore Brakedal,Dag Inge Leiren,Matthew Leiren,"21/17,21/12",Morten Amundsen,Kjell Tore Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Torbjørn Brekke,Torstein Vikse Olsen,Dag Inge Leiren,Matthew Leiren,"21/13,21/11",Torbjørn Brekke,Torstein Vikse Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Herredouble,Torbjørn Brekke,Torstein Vikse Olsen,Morten Amundsen,Kjell Tore Brakedal,"21/12,21/8",Torbjørn Brekke,Torstein Vikse Olsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Johanne Mæland,Marie Larsen,Christina  Andreassen,Therese Kristoffersen,"21/14,15/21,21/15",Johanne Mæland,Marie Larsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Anita Vabø,Birte Andersen,Eline Lindøe Nitter,Ann-Helene Johansson,"21/18,21/11",Anita Vabø,Birte Andersen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Eline Lindøe Nitter,Ann-Helene Johansson,Christina  Andreassen,Therese Kristoffersen,"21/18,20/22,21/9",Eline Lindøe Nitter,Ann-Helene Johansson
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Magnhild Stokka,Ann Elin Digernes,Johanne Mæland,Marie Larsen,"17/21,21/11,21/18",Magnhild Stokka,Ann Elin Digernes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Magnhild Stokka,Ann Elin Digernes,Christina  Andreassen,Therese Kristoffersen,"21/12,21/13",Magnhild Stokka,Ann Elin Digernes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Anita Vabø,Birte Andersen,Johanne Mæland,Marie Larsen,"22/20,19/21,21/16",Anita Vabø,Birte Andersen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Christina  Andreassen,Therese Kristoffersen,Anita Vabø,Birte Andersen,"21/13,21/18",Christina  Andreassen,Therese Kristoffersen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Magnhild Stokka,Ann Elin Digernes,Eline Lindøe Nitter,Ann-Helene Johansson,"21/16,21/16",Magnhild Stokka,Ann Elin Digernes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Johanne Mæland,Marie Larsen,Eline Lindøe Nitter,Ann-Helene Johansson,"21/14,21/17",Johanne Mæland,Marie Larsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Damedouble,Magnhild Stokka,Ann Elin Digernes,Anita Vabø,Birte Andersen,"10/21,22/20,21/14",Magnhild Stokka,Ann Elin Digernes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Arne Martin Hagen,Norunn Hagen,Julie Marie Olsen,Lars Lauvik,"22/20,12/21,21/17",Arne Martin Hagen,Norunn Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Julie Marie Olsen,Lars Lauvik,Eline Lindøe Nitter,Kjell Tore Brakedal,"18/21,21/15,21/17",Julie Marie Olsen,Lars Lauvik
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Arne Martin Hagen,Norunn Hagen,Erik Moe,Anita Vabø,"21/9,21/19",Arne Martin Hagen,Norunn Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Arne Martin Hagen,Norunn Hagen,Jørn Inge Bognøy,Birte Andersen,"21/16,11/21,21/13",Arne Martin Hagen,Norunn Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Eline Lindøe Nitter,Kjell Tore Brakedal,Thomas Stenfeldt,Therese Kristoffersen,"19/21,21/18,22/20",Eline Lindøe Nitter,Kjell Tore Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Eline Lindøe Nitter,Kjell Tore Brakedal,Torbjørn Brekke,Magnhild Stokka,"14/21,21/19,21/17",Eline Lindøe Nitter,Kjell Tore Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Torbjørn Brekke,Magnhild Stokka,Thomas Stenfeldt,Therese Kristoffersen,"21/10,21/10",Torbjørn Brekke,Magnhild Stokka
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Julie Marie Olsen,Lars Lauvik,Ashutosh  Dubey,Amrita Dubey,"21/8,21/12",Julie Marie Olsen,Lars Lauvik
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Ashutosh  Dubey,Amrita Dubey,Julie Albrektsen,Kaj Søndergård Albrektsen,"21/17,21/15",Ashutosh  Dubey,Amrita Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Julie Marie Olsen,Lars Lauvik,Julie Albrektsen,Kaj Søndergård Albrektsen,"24/26,21/11,21/13",Julie Marie Olsen,Lars Lauvik
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Arne Martin Hagen,Norunn Hagen,Geir Digernes,Ann Elin Digernes,"21/18,21/18",Arne Martin Hagen,Norunn Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Jone Mortensen,Lena Nilsen,Geir Digernes,Ann Elin Digernes,"21/14,21/7",Jone Mortensen,Lena Nilsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Arne Martin Hagen,Norunn Hagen,Jone Mortensen,Lena Nilsen,"21/14,17/21,21/19",Arne Martin Hagen,Norunn Hagen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Jørn Inge Bognøy,Birte Andersen,Astrid Salthella,Espen Andersen,"21/5,21/8",Jørn Inge Bognøy,Birte Andersen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Astrid Salthella,Espen Andersen,Robert Dale,Johanne Mæland,"21/23,21/12,21/11",Astrid Salthella,Espen Andersen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Jørn Inge Bognøy,Birte Andersen,Robert Dale,Johanne Mæland,"21/7,21/12",Jørn Inge Bognøy,Birte Andersen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Sverre Svensen,Ingeborg Halvorsen,Edvin Nordbø,Christina  Andreassen,"21/17,21/19",Sverre Svensen,Ingeborg Halvorsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Erik Moe,Anita Vabø,Edvin Nordbø,Christina  Andreassen,"21/17,21/18",Erik Moe,Anita Vabø
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,SEN D,Mixeddouble,Erik Moe,Anita Vabø,Sverre Svensen,Ingeborg Halvorsen,"21/15,21/16",Erik Moe,Anita Vabø
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Marius Kvernøy,,Jens H. Innvær,"21/19,21/14",Marius Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Marius Kvernøy,,Lasse Nathaniel Høgmo Breivik,"21/10,21/17",Marius Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Jens H. Innvær,,Håvard Lie Foldnes,"21/13,21/10",Jens H. Innvær,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,"Oskar Torsvik,",,Fabian Nelson,"21/17,21/18","Oskar Torsvik,",
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Jens H. Innvær,,"Oskar Torsvik,","21/8,21/11",Jens H. Innvær,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Marius Kvernøy,,"Oskar Torsvik,","21/14,21/8",Marius Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Lasse Nathaniel Høgmo Breivik,,Håvard Lie Foldnes,"21/17,21/12",Lasse Nathaniel Høgmo Breivik,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Håvard Lie Foldnes,,Fabian Nelson,"21/13,21/14",Håvard Lie Foldnes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herresingle,,Lasse Nathaniel Høgmo Breivik,,Fabian Nelson,"21/13,20/22,21/15",Lasse Nathaniel Høgmo Breivik,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U9 A,Herredouble,Marius Kvernøy,Jens H. Innvær,Håvard Lie Foldnes,"Oskar Torsvik,","21/12,18/21,21/9",Marius Kvernøy,Jens H. Innvær
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herresingle,,Aksel Skard Bjerke,,Artjon Qevani,"21/12,22/20",Aksel Skard Bjerke,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herresingle,,Erik Waldemar Bødtker Enqvist,,Artjon Qevani,"21/14,21/14",Erik Waldemar Bødtker Enqvist,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herresingle,,Erik Waldemar Bødtker Enqvist,,Aksel Skard Bjerke,"21/16,22/20",Erik Waldemar Bødtker Enqvist,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Damesingle,,Celina Kvernøy,,Thea Øyen Selsaas,"12/21,21/17,21/18",Celina Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Damesingle,,Thea Øyen Selsaas,,Camilla Skrunes Sundt,"21/10,21/17",Thea Øyen Selsaas,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Damesingle,,Celina Kvernøy,,Camilla Skrunes Sundt,"25/23,19/21,22/20",Celina Kvernøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Aksel Skard Bjerke,Artjon Qevani,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/18,21/13",Aksel Skard Bjerke,Artjon Qevani
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Ole Kristian Lie,Jakob Langeland Risa,Ekaja Dubey,Oline Langeland Risa,"21/18,21/13",Ole Kristian Lie,Jakob Langeland Risa
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Aksel Skard Bjerke,Artjon Qevani,Ekaja Dubey,Oline Langeland Risa,"21/7,21/7",Aksel Skard Bjerke,Artjon Qevani
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Sebastian Hestenes,Andreas Brakedal,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/18,21/19",Sebastian Hestenes,Andreas Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Sebastian Hestenes,Andreas Brakedal,Aksel Skard Bjerke,Artjon Qevani,"21/8,17/21,21/13",Sebastian Hestenes,Andreas Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Ole Kristian Lie,Jakob Langeland Risa,Camilla Skrunes Sundt,Thea Øyen Selsaas,"21/15,21/18",Ole Kristian Lie,Jakob Langeland Risa
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Aksel Skard Bjerke,Artjon Qevani,Ole Kristian Lie,Jakob Langeland Risa,"22/20,23/21",Aksel Skard Bjerke,Artjon Qevani
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Sebastian Hestenes,Andreas Brakedal,Ekaja Dubey,Oline Langeland Risa,"21/10,21/14",Sebastian Hestenes,Andreas Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Camilla Skrunes Sundt,Thea Øyen Selsaas,Ekaja Dubey,Oline Langeland Risa,"21/11,21/7",Camilla Skrunes Sundt,Thea Øyen Selsaas
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Herredouble,Sebastian Hestenes,Andreas Brakedal,Ole Kristian Lie,Jakob Langeland Risa,"21/12,21/9",Sebastian Hestenes,Andreas Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Mixeddouble,Herman Kolstø,Thea Øyen Selsaas,Camilla Skrunes Sundt,Anton Onarheim Vea,"21/14,21/9",Herman Kolstø,Thea Øyen Selsaas
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Mixeddouble,Herman Kolstø,Thea Øyen Selsaas,Andreas Brakedal,Ekaja Dubey,"21/13,21/15",Herman Kolstø,Thea Øyen Selsaas
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 A,Mixeddouble,Andreas Brakedal,Ekaja Dubey,Camilla Skrunes Sundt,Anton Onarheim Vea,"21/13,21/14",Andreas Brakedal,Ekaja Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Jakob Langeland Risa,,Anton Onarheim Vea,"21/15,15/21,21/18",Jakob Langeland Risa,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Ole Kristian Lie,,Andreas Brakedal,"21/11,21/10",Ole Kristian Lie,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Anton Onarheim Vea,,Andreas Brakedal,"21/19,17/21,21/18",Anton Onarheim Vea,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Magnus Reynolds Torsvik,,Jakob Langeland Risa,"22/20,18/21,21/16",Magnus Reynolds Torsvik,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Ole Kristian Lie,,Magnus Reynolds Torsvik,"21/14,21/10",Ole Kristian Lie,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Jakob Langeland Risa,,Andreas Brakedal,"21/8,14/21,21/15",Jakob Langeland Risa,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Ole Kristian Lie,,Anton Onarheim Vea,"21/17,21/8",Ole Kristian Lie,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Andreas Brakedal,,Magnus Reynolds Torsvik,"21/19,21/15",Andreas Brakedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Anton Onarheim Vea,,Magnus Reynolds Torsvik,"21/14,21/11",Anton Onarheim Vea,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Herresingle,,Ole Kristian Lie,,Jakob Langeland Risa,"21/19,21/11",Ole Kristian Lie,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Ekaja Dubey,,Felicia Dahle,"21/12,21/12",Ekaja Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Oline Langeland Risa,,Hanna Kvitnes Olsen,"21/16,21/11",Oline Langeland Risa,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Felicia Dahle,,Oline Langeland Risa,"21/17,21/12",Felicia Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Ekaja Dubey,,Juli Helen Johansen Klungtveit,"21/11,21/9",Ekaja Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Felicia Dahle,,Juli Helen Johansen Klungtveit,"21/18,21/18",Felicia Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Ekaja Dubey,,Hanna Kvitnes Olsen,"21/4,21/6",Ekaja Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Felicia Dahle,,Hanna Kvitnes Olsen,"21/6,21/4",Felicia Dahle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Juli Helen Johansen Klungtveit,,Oline Langeland Risa,"21/13,20/22,21/15",Juli Helen Johansen Klungtveit,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Ekaja Dubey,,Oline Langeland Risa,"21/6,21/17",Ekaja Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U11 B,Damesingle,,Juli Helen Johansen Klungtveit,,Hanna Kvitnes Olsen,"21/6,21/5",Juli Helen Johansen Klungtveit,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Brynjar Hus,,Herman Dalan  Eidissen,"21/10,21/4",Brynjar Hus,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Sondre Lie Foldnes,,Olav Dalan Eidissen,"21/11,21/16",Sondre Lie Foldnes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Brynjar Hus,,Sondre Lie Foldnes,"21/12,21/10",Brynjar Hus,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Brynjar Hus,,Olav Dalan Eidissen,"21/7,21/14",Brynjar Hus,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Herman Dalan  Eidissen,,Aldrin Nelson,"21/13,21/14",Herman Dalan  Eidissen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Lukas Skrunes Sundt,,Elkan Abraham,"21/8,21/8",Lukas Skrunes Sundt,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Aldrin Nelson,,Elkan Abraham,"21/16,12/21,21/14",Aldrin Nelson,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Herman Dalan  Eidissen,,Lukas Skrunes Sundt,"23/21,21/11",Herman Dalan  Eidissen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Lukas Skrunes Sundt,,Aldrin Nelson,"21/7,21/12",Lukas Skrunes Sundt,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herresingle,,Herman Dalan  Eidissen,,Elkan Abraham,"21/4,21/4",Herman Dalan  Eidissen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Amalie Lexander,,Linnea Holmedal,"21/17,18/21,21/15",Amalie Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Amalie Lexander,,Nandita Anil,"21/5,21/9",Amalie Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Akarija Anton Reginold,,Athina Leiren,"21/13,21/17",Akarija Anton Reginold,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Linnea Holmedal,,Athina Leiren,"21/3,21/7",Linnea Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Linnea Holmedal,,Akarija Anton Reginold,"21/7,21/3",Linnea Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Amalie Lexander,,Maria Botcharova Ellingsen,"21/8,21/10",Amalie Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Maria Botcharova Ellingsen,,Arathija Anton Reginold,"21/17,16/21,21/10",Maria Botcharova Ellingsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Amalie Lexander,,Arathija Anton Reginold,"21/3,21/6",Amalie Lexander,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Emilie Alrek Eide,,Solveig Elise Thuestad,"22/20,12/21,21/19",Emilie Alrek Eide,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Nandita Anil,,Solveig Elise Thuestad,"21/8,21/5",Nandita Anil,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damesingle,,Nandita Anil,,Emilie Alrek Eide,"21/18,21/12",Nandita Anil,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herredouble,Niklas Rasmussen,Elkan Abraham,Sindre Gjuvsland,Brede Lie Foldnes,"21/18,21/16",Niklas Rasmussen,Elkan Abraham
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herredouble,Herman Kolstø,Sondre Lie Foldnes,Aldrin Nelson,Pranav Tehlan,"14/21,21/13,22/20",Herman Kolstø,Sondre Lie Foldnes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herredouble,Herman Kolstø,Sondre Lie Foldnes,Sindre Gjuvsland,Brede Lie Foldnes,"21/19,21/14",Herman Kolstø,Sondre Lie Foldnes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herredouble,Aldrin Nelson,Pranav Tehlan,Niklas Rasmussen,Elkan Abraham,"19/21,21/18,21/14",Aldrin Nelson,Pranav Tehlan
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herredouble,Sindre Gjuvsland,Brede Lie Foldnes,Aldrin Nelson,Pranav Tehlan,"21/19,13/21,21/19",Sindre Gjuvsland,Brede Lie Foldnes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Herredouble,Herman Kolstø,Sondre Lie Foldnes,Niklas Rasmussen,Elkan Abraham,"21/18,21/12",Herman Kolstø,Sondre Lie Foldnes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Solveig Elise Thuestad,Nandita Anil,Akarija Anton Reginold,Arathija Anton Reginold,"21/8,21/12",Solveig Elise Thuestad,Nandita Anil
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Linnea Holmedal,Amalie Lexander,Maria Botcharova Ellingsen,Athina Leiren,"21/11,21/7",Linnea Holmedal,Amalie Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Emilie Alrek Eide,Therese Steffensen,Akarija Anton Reginold,Arathija Anton Reginold,"21/9,21/16",Emilie Alrek Eide,Therese Steffensen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Solveig Elise Thuestad,Nandita Anil,Maria Botcharova Ellingsen,Athina Leiren,"21/7,21/7",Solveig Elise Thuestad,Nandita Anil
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Emilie Alrek Eide,Therese Steffensen,Maria Botcharova Ellingsen,Athina Leiren,"21/8,21/5",Emilie Alrek Eide,Therese Steffensen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Linnea Holmedal,Amalie Lexander,Solveig Elise Thuestad,Nandita Anil,"21/19,21/8",Linnea Holmedal,Amalie Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Akarija Anton Reginold,Arathija Anton Reginold,Maria Botcharova Ellingsen,Athina Leiren,"20/22,21/16,23/21",Akarija Anton Reginold,Arathija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Linnea Holmedal,Amalie Lexander,Emilie Alrek Eide,Therese Steffensen,"21/14,21/14",Linnea Holmedal,Amalie Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Linnea Holmedal,Amalie Lexander,Akarija Anton Reginold,Arathija Anton Reginold,"21/8,21/6",Linnea Holmedal,Amalie Lexander
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Damedouble,Emilie Alrek Eide,Therese Steffensen,Solveig Elise Thuestad,Nandita Anil,"18/21,21/17,22/20",Emilie Alrek Eide,Therese Steffensen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Lukas Skrunes Sundt,Solveig Elise Thuestad,Aldrin Nelson,Arathija Anton Reginold,"21/5,21/12",Lukas Skrunes Sundt,Solveig Elise Thuestad
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Akarija Anton Reginold,Brede Lie Foldnes,Therese Steffensen,Joachim Sortland Paulsen,"21/9,21/5",Akarija Anton Reginold,Brede Lie Foldnes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Lukas Skrunes Sundt,Solveig Elise Thuestad,Therese Steffensen,Joachim Sortland Paulsen,"21/10,21/4",Lukas Skrunes Sundt,Solveig Elise Thuestad
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Lukas Skrunes Sundt,Solveig Elise Thuestad,Akarija Anton Reginold,Brede Lie Foldnes,"21/8,21/16",Lukas Skrunes Sundt,Solveig Elise Thuestad
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Aldrin Nelson,Arathija Anton Reginold,Sindre Gjuvsland,Emilie Alrek Eide,"19/21,21/18,25/23",Aldrin Nelson,Arathija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Nandita Anil,Elkan Abraham,Maria Botcharova Ellingsen,Sebastian Hestenes,"21/14,21/14",Nandita Anil,Elkan Abraham
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Aldrin Nelson,Arathija Anton Reginold,Maria Botcharova Ellingsen,Sebastian Hestenes,"21/12,21/14",Aldrin Nelson,Arathija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Sindre Gjuvsland,Emilie Alrek Eide,Nandita Anil,Elkan Abraham,"22/20,21/19",Sindre Gjuvsland,Emilie Alrek Eide
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Nandita Anil,Elkan Abraham,Aldrin Nelson,Arathija Anton Reginold,"18/21,21/8,21/13",Nandita Anil,Elkan Abraham
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 A,Mixeddouble,Sindre Gjuvsland,Emilie Alrek Eide,Maria Botcharova Ellingsen,Sebastian Hestenes,"21/15,17/21,21/12",Sindre Gjuvsland,Emilie Alrek Eide
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Brede Lie Foldnes,,Herman Kolstø,"19/21,21/16,21/17",Brede Lie Foldnes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Brede Lie Foldnes,,Heine Lam Nybakk,"21/19,21/17",Brede Lie Foldnes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Herman Kolstø,,Sindre Gjuvsland,"22/20,21/18",Herman Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Herman Kolstø,,Niklas Rasmussen,"21/14,21/10",Herman Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Eirik Nitter,,Tor Gjerstad,"21/16,21/14",Eirik Nitter,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Brede Lie Foldnes,,Tor Gjerstad,"21/18,21/11",Brede Lie Foldnes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Brede Lie Foldnes,,Eirik Nitter,"21/16,21/16",Brede Lie Foldnes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Pranav Tehlan,,Luka Bjørnestad Colovic,"21/1,21/2",Pranav Tehlan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Heine Lam Nybakk,,Kristoffer Sveen Hjertholm,"17/21,21/18,21/11",Heine Lam Nybakk,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Heine Lam Nybakk,,Pranav Tehlan,"21/15,21/16",Heine Lam Nybakk,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Kristoffer Sveen Hjertholm,,Pranav Tehlan,"13/21,21/13,21/16",Kristoffer Sveen Hjertholm,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Oskar Aasebø,,Troy Solbakken Myrvang,"21/16,21/8",Oskar Aasebø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Herman Kolstø,,Oskar Aasebø,"21/6,21/9",Herman Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Herman Kolstø,,Troy Solbakken Myrvang,"21/11,21/12",Herman Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Alexander Kleppe Hagen,,Feil,"22/20,12/21,21/19",Alexander Kleppe Hagen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Niklas Rasmussen,,Alexander Kleppe Hagen,"21/10,21/7",Niklas Rasmussen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Niklas Rasmussen,,Feil,"21/6,21/7",Niklas Rasmussen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Sebastian Hestenes,,Andreas G Jakobsen,"21/18,21/7",Sebastian Hestenes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Sindre Gjuvsland,,Sebastian Hestenes,"21/13,19/21,21/12",Sindre Gjuvsland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herresingle,,Sindre Gjuvsland,,Andreas G Jakobsen,"28/26,21/9",Sindre Gjuvsland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Damesingle,,Sofie Christensen,,Dhatri Pandya,"21/5,21/11",Sofie Christensen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Damesingle,,Tonje Midttun,,Dhatri Pandya,"21/12,21/10",Tonje Midttun,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Damesingle,,Sofie Christensen,,Tonje Midttun,"19/21,21/13,21/13",Sofie Christensen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herredouble,Tor Gjerstad,Andreas G Jakobsen,Eirik Nitter,Anton Onarheim Vea,"21/14,21/18",Tor Gjerstad,Andreas G Jakobsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herredouble,Tonje Midttun,Sofie Christensen,Eirik Nitter,Anton Onarheim Vea,"21/18,21/18",Tonje Midttun,Sofie Christensen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Herredouble,Tor Gjerstad,Andreas G Jakobsen,Tonje Midttun,Sofie Christensen,"21/13,22/24,21/19",Tor Gjerstad,Andreas G Jakobsen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Mixeddouble,Sofie Christensen,Eirik Nitter,Niklas Rasmussen,Celina Kvernøy,"21/18,21/11",Sofie Christensen,Eirik Nitter
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Mixeddouble,Tonje Midttun,Kristoffer Sveen Hjertholm,Niklas Rasmussen,Celina Kvernøy,"21/11,21/19",Tonje Midttun,Kristoffer Sveen Hjertholm
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U13 B,Mixeddouble,Tonje Midttun,Kristoffer Sveen Hjertholm,Sofie Christensen,Eirik Nitter,"22/20,21/12",Tonje Midttun,Kristoffer Sveen Hjertholm
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Andreas Holmedal,,Elias Øyen Selsaas,"21/8,21/12",Andreas Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/17,21/16",Elias Øyen Selsaas,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Thomas Barth,,Vemund Hus,"21/12,21/14",Thomas Barth,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Andreas Holmedal,,Jonathan Utne Madsøy,"21/8,21/7",Andreas Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Vemund Hus,,Jonathan Utne Madsøy,"21/17,21/13",Vemund Hus,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Andreas Holmedal,,Thomas Barth,"21/13,21/14",Andreas Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Andreas Holmedal,,Vemund Hus,"21/6,21/11",Andreas Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Thomas Barth,,Jonathan Utne Madsøy,"21/11,21/5",Thomas Barth,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Fredrik Hestenes,,Hemant Anilkumar,"21/11,21/14",Fredrik Hestenes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Elias Øyen Selsaas,,Vetle Vinnes Bråten,"21/9,21/11",Elias Øyen Selsaas,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Elias Øyen Selsaas,,Hemant Anilkumar,"21/12,21/13",Elias Øyen Selsaas,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Fredrik Hestenes,,Vetle Vinnes Bråten,"21/13,21/16",Fredrik Hestenes,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Hemant Anilkumar,,Vetle Vinnes Bråten,"14/21,21/16,21/13",Hemant Anilkumar,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Elias Øyen Selsaas,,Fredrik Hestenes,"21/19,21/17",Elias Øyen Selsaas,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herresingle,,Jonas Bergli Almås,,Brede Stenfeldt,"21/9,21/7",Jonas Bergli Almås,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Hanne Kolstø,,Astrid Lovise Pallesen,"21/6,21/14",Hanne Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Divya Tehlan,,Astrid Salthella,"21/16,21/6",Divya Tehlan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Astrid Lovise Pallesen,,Astrid Salthella,"21/23,21/13,21/19",Astrid Lovise Pallesen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Hanne Kolstø,"21/8,21/14",Heidi Kristine Skree,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Astrid Lovise Pallesen,"21/13,21/17",Heidi Kristine Skree,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Divya Tehlan,,Hanne Kolstø,"21/14,21/17",Divya Tehlan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Divya Tehlan,,Astrid Lovise Pallesen,"21/13,21/19",Divya Tehlan,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Astrid Salthella,"21/5,21/4",Heidi Kristine Skree,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Hanne Kolstø,,Astrid Salthella,"21/10,21/6",Hanne Kolstø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Damesingle,,Heidi Kristine Skree,,Divya Tehlan,"21/13,21/17",Heidi Kristine Skree,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Andreas Holmedal,Thomas Barth,Elias Øyen Selsaas,Jonathan Utne Madsøy,"21/8,21/3",Andreas Holmedal,Thomas Barth
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Vemund Hus,Fredrik Hestenes,Vetle Vinnes Bråten,Brede Stenfeldt,"19/21,21/14,21/17",Vemund Hus,Fredrik Hestenes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Andreas Holmedal,Thomas Barth,Vetle Vinnes Bråten,Brede Stenfeldt,"21/8,21/8",Andreas Holmedal,Thomas Barth
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Andreas Holmedal,Thomas Barth,Vemund Hus,Fredrik Hestenes,"21/7,21/8",Andreas Holmedal,Thomas Barth
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Herman Dalan  Eidissen,Jonas Bergli Almås,"21/15,21/18",Lukas Skrunes Sundt,Brynjar Hus
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Elias Øyen Selsaas,Jonathan Utne Madsøy,Lukas Skrunes Sundt,Brynjar Hus,"21/16,21/15",Elias Øyen Selsaas,Jonathan Utne Madsøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Herredouble,Elias Øyen Selsaas,Jonathan Utne Madsøy,Herman Dalan  Eidissen,Jonas Bergli Almås,"21/10,21/7",Elias Øyen Selsaas,Jonathan Utne Madsøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Thomas Barth,Akija Anton Reginold,Heidi Kristine Skree,Elias Øyen Selsaas,"21/10,21/19",Thomas Barth,Akija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Thomas Barth,Akija Anton Reginold,Divya Tehlan,Jonas Bergli Almås,"21/12,21/11",Thomas Barth,Akija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Andreas Holmedal,Linnea Holmedal,Astrid Lovise Pallesen,Hemant Anilkumar,"21/12,21/8",Andreas Holmedal,Linnea Holmedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Heidi Kristine Skree,Elias Øyen Selsaas,Caroline Brakedal,Brynjar Hus,"21/17,21/13",Heidi Kristine Skree,Elias Øyen Selsaas
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Caroline Brakedal,Brynjar Hus,Astrid Lovise Pallesen,Hemant Anilkumar,"21/17,21/14",Caroline Brakedal,Brynjar Hus
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Heidi Kristine Skree,Elias Øyen Selsaas,Andreas Holmedal,Linnea Holmedal,"22/20,18/21,30/28",Heidi Kristine Skree,Elias Øyen Selsaas
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Heidi Kristine Skree,Elias Øyen Selsaas,Astrid Lovise Pallesen,Hemant Anilkumar,"21/12,21/4",Heidi Kristine Skree,Elias Øyen Selsaas
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Andreas Holmedal,Linnea Holmedal,Caroline Brakedal,Brynjar Hus,"21/15,21/17",Andreas Holmedal,Linnea Holmedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Divya Tehlan,Jonas Bergli Almås,Vemund Hus,Live Rasmussen,"23/21,21/8",Divya Tehlan,Jonas Bergli Almås
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Divya Tehlan,Jonas Bergli Almås,Amalie Lexander,Vetle Vinnes Bråten,"24/22,21/23,21/19",Divya Tehlan,Jonas Bergli Almås
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Vemund Hus,Live Rasmussen,Amalie Lexander,Vetle Vinnes Bråten,"21/13,21/17",Vemund Hus,Live Rasmussen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Katja Botcharova Ellingsen,Fredrik Hestenes,Hanne Kolstø,Jonathan Utne Madsøy,"21/11,21/17",Katja Botcharova Ellingsen,Fredrik Hestenes
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Thomas Barth,Akija Anton Reginold,Hanne Kolstø,Jonathan Utne Madsøy,"21/2,21/7",Thomas Barth,Akija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 A,Mixeddouble,Thomas Barth,Akija Anton Reginold,Katja Botcharova Ellingsen,Fredrik Hestenes,"21/15,21/12",Thomas Barth,Akija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Siddharth Dushantha,,Manas Dubey,"21/16,23/25,24/22",Siddharth Dushantha,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Manas Dubey,,Matthew Leiren,"17/21,21/12,21/18",Manas Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Siddharth Dushantha,,Jonas Bukkestein,"21/16,21/13",Siddharth Dushantha,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Matthew Leiren,,Edvard Kildahl,"21/5,21/6",Matthew Leiren,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Jonas Bukkestein,,Olivier Burzynski,"21/19,25/23",Jonas Bukkestein,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Siddharth Dushantha,,William Svellingen,"18/21,21/16,21/12",Siddharth Dushantha,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Manas Dubey,,Sindre Mangernes Lied,"21/2,21/5",Manas Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Cornelius Hetland,,Sindre Mangernes Lied,"21/11,21/9",Cornelius Hetland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Manas Dubey,,Cornelius Hetland,"21/6,21/4",Manas Dubey,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Matthew Leiren,,Kornelius Mandelid Ringen,"21/14,21/9",Matthew Leiren,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Matthew Leiren,,Frikk Midtsæter,"21/6,21/14",Matthew Leiren,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Frikk Midtsæter,,Kornelius Mandelid Ringen,"19/21,21/18,21/18",Frikk Midtsæter,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Edvard Kildahl,,Petter Stople,"21/16,19/21,21/18",Edvard Kildahl,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Edvard Kildahl,,Halvard Søreide,"21/13,21/19",Edvard Kildahl,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Petter Stople,,Halvard Søreide,"21/11,21/13",Petter Stople,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Jonas Bukkestein,,Benjamin Gråberg,"21/8,21/9",Jonas Bukkestein,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Jonas Onarheim Vea,,Benjamin Gråberg,"21/14,21/17",Jonas Onarheim Vea,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Jonas Bukkestein,,Jonas Onarheim Vea,"21/19,23/21",Jonas Bukkestein,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Olivier Burzynski,,Johannes Sørvik,"21/6,21/9",Olivier Burzynski,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Johannes Sørvik,,Håvard Fitjar,"21/19,22/20",Johannes Sørvik,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Olivier Burzynski,,Håvard Fitjar,"21/13,21/7",Olivier Burzynski,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,William Svellingen,,Jørgen Heggøy Knudsen,"22/20,21/9",William Svellingen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,William Svellingen,,Halvard Nitter,"21/6,21/12",William Svellingen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Halvard Nitter,,Jørgen Heggøy Knudsen,"22/20,21/16",Halvard Nitter,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Benjamin Krokås,,Hans Jakob Skree,"21/11,21/8",Benjamin Krokås,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Siddharth Dushantha,,Benjamin Krokås,"21/6,21/6",Siddharth Dushantha,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herresingle,,Siddharth Dushantha,,Hans Jakob Skree,"21/5,21/2",Siddharth Dushantha,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Caroline Brakedal,,Nikol Hermansen,"21/17,15/21,21/15",Caroline Brakedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Nikol Hermansen,,Jona Ingrid Heggebø,"21/9,21/3",Nikol Hermansen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Caroline Brakedal,,Christel Norum,"16/21,21/16,21/12",Caroline Brakedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Irene Jonassen,,Eline Louise Økland Nordeide,"21/6,21/11",Irene Jonassen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Nikol Hermansen,,Irene Jonassen,"21/12,22/20",Nikol Hermansen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Nikol Hermansen,,Eline Louise Økland Nordeide,"21/8,21/4",Nikol Hermansen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Ian Mortvedt Haugland,,Siri Elise Stokka,"22/20,20/22,21/11",Ian Mortvedt Haugland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Jona Ingrid Heggebø,,Tuva Klepsvik Sæle,"21/15,21/13",Jona Ingrid Heggebø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Jona Ingrid Heggebø,,Siri Elise Stokka,"21/9,21/13",Jona Ingrid Heggebø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Ian Mortvedt Haugland,,Tuva Klepsvik Sæle,"21/12,21/11",Ian Mortvedt Haugland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Tuva Klepsvik Sæle,,Siri Elise Stokka,"21/19,21/10",Tuva Klepsvik Sæle,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Jona Ingrid Heggebø,,Ian Mortvedt Haugland,"21/16,21/12",Jona Ingrid Heggebø,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Caroline Brakedal,,Alexandra Horseng Skogseth,"21/6,21/4",Caroline Brakedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Live Rasmussen,,Serine Stokka,"21/3,21/10",Live Rasmussen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Caroline Brakedal,,Serine Stokka,"21/3,21/12",Caroline Brakedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Live Rasmussen,,Alexandra Horseng Skogseth,"21/2,21/4",Live Rasmussen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Caroline Brakedal,,Live Rasmussen,"21/12,21/17",Caroline Brakedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Serine Stokka,,Alexandra Horseng Skogseth,"21/16,21/2",Serine Stokka,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Ida Dåvøy,,Ylva Hellebø,"21/8,21/9",Ida Dåvøy,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Christel Norum,,Ida Dåvøy,"21/19,21/14",Christel Norum,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damesingle,,Christel Norum,,Ylva Hellebø,"21/7,21/5",Christel Norum,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Siddharth Dushantha,Manas Dubey,Halvard Nitter,Jonas Onarheim Vea,"21/9,21/11",Siddharth Dushantha,Manas Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Halvard Nitter,Jonas Onarheim Vea,Petter Stople,Kristoffer Sveen Hjertholm,"21/18,21/19",Halvard Nitter,Jonas Onarheim Vea
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Olivier Burzynski,Cornelius Hetland,Halvard Søreide,Johannes Sørvik,"21/9,21/9",Olivier Burzynski,Cornelius Hetland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Siddharth Dushantha,Manas Dubey,Joachim Granerud,Patrick Høgelid Lauritzen,"21/4,21/8",Siddharth Dushantha,Manas Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Olivier Burzynski,Cornelius Hetland,Joachim Granerud,Patrick Høgelid Lauritzen,"21/10,21/8",Olivier Burzynski,Cornelius Hetland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Siddharth Dushantha,Manas Dubey,Halvard Søreide,Johannes Sørvik,"21/5,21/4",Siddharth Dushantha,Manas Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Siddharth Dushantha,Manas Dubey,Olivier Burzynski,Cornelius Hetland,"21/11,21/3",Siddharth Dushantha,Manas Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Halvard Søreide,Johannes Sørvik,Joachim Granerud,Patrick Høgelid Lauritzen,"12/21,25/23,21/8",Halvard Søreide,Johannes Sørvik
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Benjamin Gråberg,Frikk Midtsæter,Lars Lillestøl Duinker,Mads Møvik Olsen,"21/10,21/17",Benjamin Gråberg,Frikk Midtsæter
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Petter Stople,Kristoffer Sveen Hjertholm,Lars Lillestøl Duinker,Mads Møvik Olsen,"21/16,21/15",Petter Stople,Kristoffer Sveen Hjertholm
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Petter Stople,Kristoffer Sveen Hjertholm,Benjamin Gråberg,Frikk Midtsæter,"21/11,21/11",Petter Stople,Kristoffer Sveen Hjertholm
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Halvard Nitter,Jonas Onarheim Vea,Benjamin Krokås,Sindre Mangernes Lied,"21/7,21/8",Halvard Nitter,Jonas Onarheim Vea
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Jørgen Heggøy Knudsen,Kornelius Mandelid Ringen,Benjamin Krokås,Sindre Mangernes Lied,"21/5,21/3",Jørgen Heggøy Knudsen,Kornelius Mandelid Ringen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Herredouble,Halvard Nitter,Jonas Onarheim Vea,Jørgen Heggøy Knudsen,Kornelius Mandelid Ringen,"21/17,19/21,21/6",Halvard Nitter,Jonas Onarheim Vea
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Nikol Hermansen,Divya Tehlan,Christel Norum,Irene Jonassen,"21/10,21/15",Nikol Hermansen,Divya Tehlan
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Live Rasmussen,Caroline Brakedal,Eline Louise Økland Nordeide,Tuva Klepsvik Sæle,"21/7,21/12",Live Rasmussen,Caroline Brakedal
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Nikol Hermansen,Divya Tehlan,Live Rasmussen,Caroline Brakedal,"21/14,21/17",Nikol Hermansen,Divya Tehlan
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Nikol Hermansen,Divya Tehlan,Eline Louise Økland Nordeide,Tuva Klepsvik Sæle,"21/6,21/2",Nikol Hermansen,Divya Tehlan
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Christel Norum,Irene Jonassen,Siri Elise Stokka,Serine Stokka,"21/11,21/7",Christel Norum,Irene Jonassen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Mari Stangeland,Ida Dåvøy,Astrid Lovise Pallesen,Alexandra Horseng Skogseth,"21/16,21/18",Mari Stangeland,Ida Dåvøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Mari Stangeland,Ida Dåvøy,Siri Elise Stokka,Serine Stokka,"21/8,21/6",Mari Stangeland,Ida Dåvøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Christel Norum,Irene Jonassen,Astrid Lovise Pallesen,Alexandra Horseng Skogseth,"21/8,20/22,21/8",Christel Norum,Irene Jonassen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Astrid Lovise Pallesen,Alexandra Horseng Skogseth,Siri Elise Stokka,Serine Stokka,"21/19,21/15",Astrid Lovise Pallesen,Alexandra Horseng Skogseth
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Damedouble,Christel Norum,Irene Jonassen,Mari Stangeland,Ida Dåvøy,"23/21,19/21,21/13",Christel Norum,Irene Jonassen
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Nikol Hermansen,Matthew Leiren,Christel Norum,Jonas Onarheim Vea,"21/11,13/21,23/21",Nikol Hermansen,Matthew Leiren
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Christel Norum,Jonas Onarheim Vea,Jona Ingrid Heggebø,Manas Dubey,"21/19,21/18",Christel Norum,Jonas Onarheim Vea
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Ian Mortvedt Haugland,Edvard Kildahl,Alexandra Horseng Skogseth,Halvard Søreide,"21/9,21/13",Ian Mortvedt Haugland,Edvard Kildahl
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Nikol Hermansen,Matthew Leiren,Kornelius Mandelid Ringen,Serine Stokka,"21/3,21/7",Nikol Hermansen,Matthew Leiren
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Kornelius Mandelid Ringen,Serine Stokka,Ian Mortvedt Haugland,Edvard Kildahl,"24/26,21/11,22/20",Kornelius Mandelid Ringen,Serine Stokka
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Nikol Hermansen,Matthew Leiren,Alexandra Horseng Skogseth,Halvard Søreide,"21/4,21/0",Nikol Hermansen,Matthew Leiren
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Nikol Hermansen,Matthew Leiren,Ian Mortvedt Haugland,Edvard Kildahl,"21/19,21/16",Nikol Hermansen,Matthew Leiren
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Kornelius Mandelid Ringen,Serine Stokka,Alexandra Horseng Skogseth,Halvard Søreide,"21/15,21/14",Kornelius Mandelid Ringen,Serine Stokka
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Irene Jonassen,Halvard Nitter,Jona Ingrid Heggebø,Manas Dubey,"21/16,26/24",Irene Jonassen,Halvard Nitter
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Siddharth Dushantha,Ida Dåvøy,Irene Jonassen,Halvard Nitter,"21/16,21/18",Siddharth Dushantha,Ida Dåvøy
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Jona Ingrid Heggebø,Manas Dubey,Siddharth Dushantha,Ida Dåvøy,"22/20,21/12",Jona Ingrid Heggebø,Manas Dubey
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Christel Norum,Jonas Onarheim Vea,Tuva Klepsvik Sæle,Johannes Sørvik,"21/6,21/15",Christel Norum,Jonas Onarheim Vea
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Christel Norum,Jonas Onarheim Vea,Jørgen Heggøy Knudsen,Siri Elise Stokka,"21/12,21/11",Christel Norum,Jonas Onarheim Vea
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U15 B,Mixeddouble,Jørgen Heggøy Knudsen,Siri Elise Stokka,Tuva Klepsvik Sæle,Johannes Sørvik,"21/18,16/21,21/19",Jørgen Heggøy Knudsen,Siri Elise Stokka
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Elise  Holmedal,,Mariann Andreassen,"21/16,22/20",Elise  Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Dina Høl Bugge,,Akija Anton Reginold,"21/16,21/19",Dina Høl Bugge,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Mariann Andreassen,,Julie Albrektsen,"21/6,21/8",Mariann Andreassen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Akija Anton Reginold,,Julie Albrektsen,"21/8,21/11",Akija Anton Reginold,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Mariann Andreassen,,Dina Høl Bugge,"21/16,21/16",Mariann Andreassen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Mariann Andreassen,,Akija Anton Reginold,"23/21,21/8",Mariann Andreassen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Dina Høl Bugge,,Julie Albrektsen,"21/10,21/9",Dina Høl Bugge,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Tuva Vinnes Bråten,"21/13,21/8",Katja Botcharova Ellingsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Elise  Holmedal,,Julie Marie Olsen,"21/12,17/21,21/17",Elise  Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Julie Marie Olsen,"10/21,21/16,21/6",Katja Botcharova Ellingsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Elise  Holmedal,,Tuva Vinnes Bråten,"21/14,21/14",Elise  Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Elise  Holmedal,,Katja Botcharova Ellingsen,"21/14,24/22",Elise  Holmedal,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damesingle,,Tuva Vinnes Bråten,,Julie Marie Olsen,"21/19,21/12",Tuva Vinnes Bråten,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/12,21/4",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Katja Botcharova Ellingsen,Akija Anton Reginold,Mariann Andreassen,Tuva Vinnes Bråten,"21/17,21/15",Katja Botcharova Ellingsen,Akija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Mariann Andreassen,Tuva Vinnes Bråten,Hanne Kolstø,Heidi Kristine Skree,"21/8,21/8",Mariann Andreassen,Tuva Vinnes Bråten
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Katja Botcharova Ellingsen,Akija Anton Reginold,Hanne Kolstø,Heidi Kristine Skree,"21/14,21/14",Katja Botcharova Ellingsen,Akija Anton Reginold
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Julie Marie Olsen,Emilie Haugland Lauvik,Julie Albrektsen,Astrid Salthella,"19/21,21/12,21/19",Julie Marie Olsen,Emilie Haugland Lauvik
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Julie Albrektsen,Astrid Salthella,"21/3,21/3",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 A,Damedouble,Elise  Holmedal,Dina Høl Bugge,Julie Marie Olsen,Emilie Haugland Lauvik,"21/12,21/12",Elise  Holmedal,Dina Høl Bugge
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Vegard Vinnes Bjørklund,,Torger Hustoft,"21/15,21/18",Vegard Vinnes Bjørklund,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Vegard Vinnes Bjørklund,,Aleksander Hansen Runestad,"21/10,21/15",Vegard Vinnes Bjørklund,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Kristian Treet,,Sondre Aasebø,"21/18,21/13",Kristian Treet,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Torger Hustoft,,Sondre Aasebø,"21/13,21/9",Torger Hustoft,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Torger Hustoft,,Kristian Treet,"21/18,16/21,22/20",Torger Hustoft,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Aleksander Hansen Runestad,,Espen Mikkelsen,"21/15,22/20",Aleksander Hansen Runestad,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Aleksander Hansen Runestad,,Christer Michal Holm,"21/14,21/1",Aleksander Hansen Runestad,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Espen Mikkelsen,,Christer Michal Holm,"21/10,21/4",Espen Mikkelsen,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Mathias Kjellesvik Skjørholm,,Alexander Blix,"21/17,21/14",Mathias Kjellesvik Skjørholm,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Vegard Vinnes Bjørklund,,Alexander Blix,"21/13,21/11",Vegard Vinnes Bjørklund,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herresingle,,Vegard Vinnes Bjørklund,,Mathias Kjellesvik Skjørholm,"21/16,21/9",Vegard Vinnes Bjørklund,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damesingle,,Tonje Eie Anda,,Julie Vierdal Stensland,"21/9,21/12",Tonje Eie Anda,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damesingle,,Maiken Kjellesvik Skjørholm,,Beate Inta Ozola,"21/9,21/17",Maiken Kjellesvik Skjørholm,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damesingle,,Tonje Eie Anda,,Beate Inta Ozola,"21/12,21/2",Tonje Eie Anda,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damesingle,,Maiken Kjellesvik Skjørholm,,Julie Vierdal Stensland,"21/14,22/24,21/15",Maiken Kjellesvik Skjørholm,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damesingle,,Maiken Kjellesvik Skjørholm,,Tonje Eie Anda,"21/18,21/16",Maiken Kjellesvik Skjørholm,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damesingle,,Julie Vierdal Stensland,,Beate Inta Ozola,"21/10,21/13",Julie Vierdal Stensland,
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herredouble,Vegard Vinnes Bjørklund,Hemant Anilkumar,Espen Mikkelsen,Aleksander Hansen Runestad,"16/21,21/12,21/13",Vegard Vinnes Bjørklund,Hemant Anilkumar
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herredouble,Torger Hustoft,Mathias Kjellesvik Skjørholm,Kristian Treet,Håvard Fitjar,"21/12,21/13",Torger Hustoft,Mathias Kjellesvik Skjørholm
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herredouble,Vegard Vinnes Bjørklund,Hemant Anilkumar,Kristian Treet,Håvard Fitjar,"21/19,21/17",Vegard Vinnes Bjørklund,Hemant Anilkumar
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herredouble,Torger Hustoft,Mathias Kjellesvik Skjørholm,Espen Mikkelsen,Aleksander Hansen Runestad,"13/21,21/12,21/18",Torger Hustoft,Mathias Kjellesvik Skjørholm
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herredouble,Vegard Vinnes Bjørklund,Hemant Anilkumar,Torger Hustoft,Mathias Kjellesvik Skjørholm,"21/19,21/13",Vegard Vinnes Bjørklund,Hemant Anilkumar
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Herredouble,Espen Mikkelsen,Aleksander Hansen Runestad,Kristian Treet,Håvard Fitjar,"24/22,21/5",Espen Mikkelsen,Aleksander Hansen Runestad
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Damedouble,Tonje Eie Anda,Julie Vierdal Stensland,Maiken Kjellesvik Skjørholm,Jona Ingrid Heggebø,"21/12,21/19",Tonje Eie Anda,Julie Vierdal Stensland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Mixeddouble,Aleksander Hansen Runestad,Julie Vierdal Stensland,Eline Louise Økland Nordeide,Alexander Blix,"21/14,21/11",Aleksander Hansen Runestad,Julie Vierdal Stensland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Mixeddouble,Stian Ekroll Glenne,Tonje Eie Anda,Maiken Kjellesvik Skjørholm,Torger Hustoft,"21/11,21/15",Stian Ekroll Glenne,Tonje Eie Anda
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Mixeddouble,Stian Ekroll Glenne,Tonje Eie Anda,Aleksander Hansen Runestad,Julie Vierdal Stensland,"21/14,21/14",Stian Ekroll Glenne,Tonje Eie Anda
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Mixeddouble,Maiken Kjellesvik Skjørholm,Torger Hustoft,Eline Louise Økland Nordeide,Alexander Blix,"21/3,21/6",Maiken Kjellesvik Skjørholm,Torger Hustoft
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Mixeddouble,Aleksander Hansen Runestad,Julie Vierdal Stensland,Maiken Kjellesvik Skjørholm,Torger Hustoft,"21/15,18/21,21/18",Aleksander Hansen Runestad,Julie Vierdal Stensland
+2017/2018,Askøy Vestlands Mesterskap 2017,18.11.2017,U17 B,Mixeddouble,Stian Ekroll Glenne,Tonje Eie Anda,Eline Louise Økland Nordeide,Alexander Blix,"21/11,21/4",Stian Ekroll Glenne,Tonje Eie Anda

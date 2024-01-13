@@ -1,392 +1,301 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Andreas Holmedal,"21/18,21/14",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Simen Lexander,"21/12,16/21,21/15",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Keveen Kumar Balasingam,"21/16,18/21,21/17",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/13,21/12",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Erlend Engesæter Bognøy,,Benjamin Teigland,"21/17,23/21",Erlend Engesæter Bognøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Benjamin Teigland,"21/9,21/10",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Sigbjørn Honve,"24/22,19/21,23/21",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Adrian Storhaug,"21/18,19/21,21/11",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Sigbjørn Honve,,Adrian Storhaug,"21/8,21/17",Sigbjørn Honve,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Fredrik Hestenes,"21/12,21/11",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Kenneth Larsen,,Fredrik Hestenes,"21/10,21/6",Kenneth Larsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Kenneth Larsen,"15/21,21/15,21/18",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Thomas Barth,"22/20,18/21,21/15",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Dennis Andersen Moe,,Thomas Barth,"17/21,21/18,21/13",Dennis Andersen Moe,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Dennis Andersen Moe,"20/22,21/11,21/14",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Andreas Holmedal,"21/18,21/14",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Simen Lexander,"21/12,16/21,21/15",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Keveen Kumar Balasingam,"21/16,18/21,21/17",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/13,21/12",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Erlend Engesæter Bognøy,,Benjamin Teigland,"21/17,23/21",Erlend Engesæter Bognøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Benjamin Teigland,"21/9,21/10",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Sigbjørn Honve,"24/22,19/21,23/21",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Adrian Storhaug,"21/18,19/21,21/11",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Sigbjørn Honve,,Adrian Storhaug,"21/8,21/17",Sigbjørn Honve,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Fredrik Hestenes,"21/12,21/11",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Kenneth Larsen,,Fredrik Hestenes,"21/10,21/6",Kenneth Larsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Kenneth Larsen,"15/21,21/15,21/18",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Thomas Barth,"22/20,18/21,21/15",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Dennis Andersen Moe,,Thomas Barth,"17/21,21/18,21/13",Dennis Andersen Moe,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Dennis Andersen Moe,"20/22,21/11,21/14",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Heidi Kristine Skree,,Tuva Vinnes Bråten,"21/8,21/14",Heidi Kristine Skree,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Ingeborg Krogsæter,,Mariann Andreassen,"21/15,21/13",Ingeborg Krogsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Ingeborg Krogsæter,,Heidi Kristine Skree,"21/11,11/21,21/16",Ingeborg Krogsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Mariann Andreassen,,Tuva Vinnes Bråten,"21/13,21/15",Mariann Andreassen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Heidi Kristine Skree,,Mariann Andreassen,"21/17,23/21",Heidi Kristine Skree,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Ingeborg Krogsæter,,Tuva Vinnes Bråten,"21/14,21/18",Ingeborg Krogsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Heidi Kristine Skree,,Tuva Vinnes Bråten,"21/8,21/14",Heidi Kristine Skree,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Ingeborg Krogsæter,,Mariann Andreassen,"21/15,21/13",Ingeborg Krogsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Ingeborg Krogsæter,,Heidi Kristine Skree,"21/11,11/21,21/16",Ingeborg Krogsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Mariann Andreassen,,Tuva Vinnes Bråten,"21/13,21/15",Mariann Andreassen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Heidi Kristine Skree,,Mariann Andreassen,"21/17,23/21",Heidi Kristine Skree,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,,Ingeborg Krogsæter,,Tuva Vinnes Bråten,"21/14,21/18",Ingeborg Krogsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Kenneth Larsen,Simen Lexander,Sigbjørn Honve,Michael White,"21/7,21/12",Kenneth Larsen,Simen Lexander
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Sigbjørn Honve,Michael White,Petter Karlsen Wåltorp,Jone Sætenes,"21/10,21/8",Sigbjørn Honve,Michael White
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Erlend Engesæter Bognøy,Dennis Andersen Moe,Petter Karlsen Wåltorp,Jone Sætenes,"21/16,21/15",Erlend Engesæter Bognøy,Dennis Andersen Moe
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Sigbjørn Honve,Michael White,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/19,11/21,21/17",Sigbjørn Honve,Michael White
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Kenneth Larsen,Simen Lexander,Andreas Holmedal,Thomas Barth,"21/9,21/15",Kenneth Larsen,Simen Lexander
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Andreas Holmedal,Thomas Barth,"18/21,21/19,22/20",Bharath Kumar Balasingam,Keveen Kumar Balasingam
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Kenneth Larsen,Simen Lexander,Bharath Kumar Balasingam,Keveen Kumar Balasingam,"21/3,21/12",Kenneth Larsen,Simen Lexander
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Julie Langeland Risa,Anne Lie Foldnes,Tuva Vinnes Bråten,Mariann Andreassen,"14/21,21/17,23/21",Julie Langeland Risa,Anne Lie Foldnes
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Heidi Kristine Skree,Ingeborg Krogsæter,Julie Langeland Risa,Anne Lie Foldnes,"21/17,21/18",Heidi Kristine Skree,Ingeborg Krogsæter
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Heidi Kristine Skree,Ingeborg Krogsæter,Tuva Vinnes Bråten,Mariann Andreassen,"26/24,21/17",Heidi Kristine Skree,Ingeborg Krogsæter
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Helge Økland,Svein Andre Hol,Edvin Nordbø,Jone Mortensen,"21/13,21/16",Helge Økland,Svein Andre Hol
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Arun Kumar Sharma,Oleg Tsynkalovskiy,Anders Eimstad,Jørn Grane,"17/21,21/15,21/13",Arun Kumar Sharma,Oleg Tsynkalovskiy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Arun Kumar Sharma,Oleg Tsynkalovskiy,Helge Økland,Svein Andre Hol,"13/21,21/11,21/15",Arun Kumar Sharma,Oleg Tsynkalovskiy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Edvin Nordbø,Jone Mortensen,Anders Eimstad,Jørn Grane,"21/13,21/6",Edvin Nordbø,Jone Mortensen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Helge Økland,Svein Andre Hol,Anders Eimstad,Jørn Grane,"17/21,21/19,21/16",Helge Økland,Svein Andre Hol
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Arun Kumar Sharma,Oleg Tsynkalovskiy,Edvin Nordbø,Jone Mortensen,"21/15,19/21,21/18",Arun Kumar Sharma,Oleg Tsynkalovskiy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Helge Økland,Svein Andre Hol,Edvin Nordbø,Jone Mortensen,"21/13,21/16",Helge Økland,Svein Andre Hol
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Arun Kumar Sharma,Oleg Tsynkalovskiy,Anders Eimstad,Jørn Grane,"17/21,21/15,21/13",Arun Kumar Sharma,Oleg Tsynkalovskiy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Arun Kumar Sharma,Oleg Tsynkalovskiy,Helge Økland,Svein Andre Hol,"13/21,21/11,21/15",Arun Kumar Sharma,Oleg Tsynkalovskiy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Edvin Nordbø,Jone Mortensen,Anders Eimstad,Jørn Grane,"21/13,21/6",Edvin Nordbø,Jone Mortensen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Helge Økland,Svein Andre Hol,Anders Eimstad,Jørn Grane,"17/21,21/19,21/16",Helge Økland,Svein Andre Hol
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Arun Kumar Sharma,Oleg Tsynkalovskiy,Edvin Nordbø,Jone Mortensen,"21/15,19/21,21/18",Arun Kumar Sharma,Oleg Tsynkalovskiy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Edvin Nordbø,"21/16,21/17",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Morten Solsvik,"21/17,17/21,21/19",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Oleg Tsynkalovskiy,,Mathias Kjellesvik Skjørholm,"15/21,22/20,21/11",Oleg Tsynkalovskiy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Edvin Nordbø,,Anders Eimstad,"21/19,15/21,30/28",Edvin Nordbø,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Edvin Nordbø,,Oleg Tsynkalovskiy,"21/15,21/11",Edvin Nordbø,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Anders Eimstad,,Mathias Kjellesvik Skjørholm,"21/14,13/21,21/16",Anders Eimstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Oleg Tsynkalovskiy,,Anders Eimstad,"21/18,20/22,21/17",Oleg Tsynkalovskiy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Edvin Nordbø,,Mathias Kjellesvik Skjørholm,"21/12,21/16",Edvin Nordbø,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Hans Absalon Sekkingstad,,Eirik Ekerhovd,"21/17,21/11",Hans Absalon Sekkingstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Eirik Ekerhovd,,Lars Lauvik,"21/16,21/17",Eirik Ekerhovd,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Lars Lauvik,"21/10,21/5",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Hans Absalon Sekkingstad,"21/16,21/7",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Eirik Ekerhovd,"21/8,21/8",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Hans Absalon Sekkingstad,,Lars Lauvik,"21/16,21/13",Hans Absalon Sekkingstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Morten Solsvik,,Inge Mosti,"21/9,21/18",Morten Solsvik,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Christian Lund Haugen,,Inge Mosti,"21/19,21/16",Christian Lund Haugen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Morten Solsvik,,Christian Lund Haugen,"17/21,21/18,23/21",Morten Solsvik,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Edvin Nordbø,"21/16,21/17",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Morten Solsvik,"21/17,17/21,21/19",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Oleg Tsynkalovskiy,,Mathias Kjellesvik Skjørholm,"15/21,22/20,21/11",Oleg Tsynkalovskiy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Edvin Nordbø,,Anders Eimstad,"21/19,15/21,30/28",Edvin Nordbø,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Edvin Nordbø,,Oleg Tsynkalovskiy,"21/15,21/11",Edvin Nordbø,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Anders Eimstad,,Mathias Kjellesvik Skjørholm,"21/14,13/21,21/16",Anders Eimstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Oleg Tsynkalovskiy,,Anders Eimstad,"21/18,20/22,21/17",Oleg Tsynkalovskiy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Edvin Nordbø,,Mathias Kjellesvik Skjørholm,"21/12,21/16",Edvin Nordbø,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Hans Absalon Sekkingstad,,Eirik Ekerhovd,"21/17,21/11",Hans Absalon Sekkingstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Eirik Ekerhovd,,Lars Lauvik,"21/16,21/17",Eirik Ekerhovd,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Lars Lauvik,"21/10,21/5",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Hans Absalon Sekkingstad,"21/16,21/7",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Helge Økland,,Eirik Ekerhovd,"21/8,21/8",Helge Økland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Hans Absalon Sekkingstad,,Lars Lauvik,"21/16,21/13",Hans Absalon Sekkingstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Morten Solsvik,,Inge Mosti,"21/9,21/18",Morten Solsvik,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Christian Lund Haugen,,Inge Mosti,"21/19,21/16",Christian Lund Haugen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Morten Solsvik,,Christian Lund Haugen,"17/21,21/18,23/21",Morten Solsvik,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Maiken Kjellesvik Skjørholm,,Ann Helen Heldal,"21/7,21/6",Maiken Kjellesvik Skjørholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Maiken Kjellesvik Skjørholm,,Randi Rolvsjord,"21/8,21/7",Maiken Kjellesvik Skjørholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,,Randi Rolvsjord,,Ann Helen Heldal,"26/24,21/4",Randi Rolvsjord,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Trond Holmedal,Frode Kristoffersen,Morten Solsvik,Eirik Ekerhovd,"21/12,21/19",Trond Holmedal,Frode Kristoffersen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Morten Sellevold,Robert Eriksen,Jonas Bergli Almås,Rolf Almås,"21/3,21/9",Morten Sellevold,Robert Eriksen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Morten Solsvik,Eirik Ekerhovd,Jonas Bergli Almås,Rolf Almås,"21/15,5/21,21/16",Morten Solsvik,Eirik Ekerhovd
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Trond Holmedal,Frode Kristoffersen,Svein Hjertholm,Trond Krogsæter,"21/14,21/9",Trond Holmedal,Frode Kristoffersen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Morten Solsvik,Eirik Ekerhovd,Svein Hjertholm,Trond Krogsæter,"21/15,24/22",Morten Solsvik,Eirik Ekerhovd
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Trond Holmedal,Frode Kristoffersen,Morten Sellevold,Robert Eriksen,"20/22,21/17,21/14",Trond Holmedal,Frode Kristoffersen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Morten Sellevold,Robert Eriksen,Morten Solsvik,Eirik Ekerhovd,"21/17,22/20",Morten Sellevold,Robert Eriksen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Svein Hjertholm,Trond Krogsæter,Jonas Bergli Almås,Rolf Almås,"17/21,21/18,21/17",Svein Hjertholm,Trond Krogsæter
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Trond Holmedal,Frode Kristoffersen,Jonas Bergli Almås,Rolf Almås,"21/11,21/17",Trond Holmedal,Frode Kristoffersen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Morten Sellevold,Robert Eriksen,Svein Hjertholm,Trond Krogsæter,"21/10,21/11",Morten Sellevold,Robert Eriksen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Maiken Kjellesvik Skjørholm,Hanne Kolstø,Ann Helen Heldal,Irene Lillestøl Duinker,"21/19,21/14",Maiken Kjellesvik Skjørholm,Hanne Kolstø
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Miriam Mikkelsen,Cecilie Mikkelsen,Ann Helen Heldal,Irene Lillestøl Duinker,"21/17,21/8",Miriam Mikkelsen,Cecilie Mikkelsen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Maiken Kjellesvik Skjørholm,Hanne Kolstø,Miriam Mikkelsen,Cecilie Mikkelsen,"21/16,14/21,21/18",Maiken Kjellesvik Skjørholm,Hanne Kolstø
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Regy Selsaas,"21/16,21/18",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Anders Heldal,"21/14,16/21,21/16",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kenneth Olsen,,Svein Hjertholm,"21/14,21/11",Kenneth Olsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Kennet Hellesund Ellingsen,"21/17,21/10",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Kenneth Olsen,"21/12,21/16",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kennet Hellesund Ellingsen,,Svein Hjertholm,"21/16,21/12",Kennet Hellesund Ellingsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kennet Hellesund Ellingsen,,Kenneth Olsen,"21/13,21/19",Kennet Hellesund Ellingsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Svein Hjertholm,"21/6,21/9",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Jarl Odin Møvik,"21/7,21/8",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Einar Morgan Utne,,Kaj Søndergård Albrektsen,"16/21,21/17,21/15",Einar Morgan Utne,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Einar Morgan Utne,,Jarl Odin Møvik,"21/5,21/5",Einar Morgan Utne,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Kaj Søndergård Albrektsen,"21/11,21/11",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kaj Søndergård Albrektsen,,Jarl Odin Møvik,"21/9,21/6",Kaj Søndergård Albrektsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Einar Morgan Utne,"21/12,21/19",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Anders Heldal,,Gustav Holmedal,"21/8,21/10",Anders Heldal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Gustav Holmedal,,Morten Amundsen,"24/22,21/19",Gustav Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Anders Heldal,,Morten Amundsen,"21/8,21/6",Anders Heldal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Regy Selsaas,"21/16,21/18",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Anders Heldal,"21/14,16/21,21/16",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kenneth Olsen,,Svein Hjertholm,"21/14,21/11",Kenneth Olsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Kennet Hellesund Ellingsen,"21/17,21/10",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Kenneth Olsen,"21/12,21/16",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kennet Hellesund Ellingsen,,Svein Hjertholm,"21/16,21/12",Kennet Hellesund Ellingsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kennet Hellesund Ellingsen,,Kenneth Olsen,"21/13,21/19",Kennet Hellesund Ellingsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Morten Mortvedt,,Svein Hjertholm,"21/6,21/9",Morten Mortvedt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Jarl Odin Møvik,"21/7,21/8",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Einar Morgan Utne,,Kaj Søndergård Albrektsen,"16/21,21/17,21/15",Einar Morgan Utne,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Einar Morgan Utne,,Jarl Odin Møvik,"21/5,21/5",Einar Morgan Utne,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Kaj Søndergård Albrektsen,"21/11,21/11",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Kaj Søndergård Albrektsen,,Jarl Odin Møvik,"21/9,21/6",Kaj Søndergård Albrektsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Regy Selsaas,,Einar Morgan Utne,"21/12,21/19",Regy Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Anders Heldal,,Gustav Holmedal,"21/8,21/10",Anders Heldal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Gustav Holmedal,,Morten Amundsen,"24/22,21/19",Gustav Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,,Anders Heldal,,Morten Amundsen,"21/8,21/6",Anders Heldal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Thomas Jonassen,Espen Søvik,Anders Heldal,Frode Clausen,"21/17,21/18",Thomas Jonassen,Espen Søvik
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anders Heldal,Frode Clausen,Anita Aasebø,Sondre Aasebø,"21/16,15/21,21/19",Anders Heldal,Frode Clausen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Thomas Jonassen,Espen Søvik,Rune Bråten,Thomas Stenfeldt,"21/16,19/21,21/17",Thomas Jonassen,Espen Søvik
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Morten Amundsen,Kjell Tore Brakedal,Kenneth Olsen,Lars Lauvik,"18/21,22/20,21/13",Morten Amundsen,Kjell Tore Brakedal
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Thomas Jonassen,Espen Søvik,Kenneth Olsen,Lars Lauvik,"18/21,21/10,21/13",Thomas Jonassen,Espen Søvik
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Morten Amundsen,Kjell Tore Brakedal,Rune Bråten,Thomas Stenfeldt,"21/8,21/14",Morten Amundsen,Kjell Tore Brakedal
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Thomas Jonassen,Espen Søvik,Morten Amundsen,Kjell Tore Brakedal,"21/16,21/14",Thomas Jonassen,Espen Søvik
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Rune Bråten,Thomas Stenfeldt,Kenneth Olsen,Lars Lauvik,"21/6,20/22,22/12",Rune Bråten,Thomas Stenfeldt
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anita Aasebø,Sondre Aasebø,Kennet Hellesund Ellingsen,Mathias Kjellesvik Skjørholm,"21/15,16/21,21/16",Anita Aasebø,Sondre Aasebø
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Kennet Hellesund Ellingsen,Mathias Kjellesvik Skjørholm,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/16,21/16",Kennet Hellesund Ellingsen,Mathias Kjellesvik Skjørholm
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anita Aasebø,Sondre Aasebø,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/15,21/18",Anita Aasebø,Sondre Aasebø
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anders Heldal,Frode Clausen,Gustav Holmedal,Jarl Odin Møvik,"21/12,21/11",Anders Heldal,Frode Clausen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anders Heldal,Frode Clausen,Jørn Inge Bognøy,Erik Moe,"21/16,21/13",Anders Heldal,Frode Clausen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Jørn Inge Bognøy,Erik Moe,Gustav Holmedal,Jarl Odin Møvik,"21/11,21/10",Jørn Inge Bognøy,Erik Moe
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Wenche Blix,Ida Dåvøy,Rebekka Hesjedal,Tone Dale,"21/11,13/21,21/15",Wenche Blix,Ida Dåvøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Lena Nilsen,Turid Gråberg,Therese Kristoffersen,Christina  Andreassen,"18/21,21/14,21/16",Lena Nilsen,Turid Gråberg
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Rebekka Hesjedal,Tone Dale,Lena Nilsen,Turid Gråberg,"21/12,21/12",Rebekka Hesjedal,Tone Dale
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anita Vabø,Astrid Bognøy,Wenche Blix,Ida Dåvøy,"21/19,17/21,21/19",Anita Vabø,Astrid Bognøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anita Vabø,Astrid Bognøy,Rebekka Hesjedal,Tone Dale,"28/26,12/21,21/16",Anita Vabø,Astrid Bognøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Wenche Blix,Ida Dåvøy,Therese Kristoffersen,Christina  Andreassen,"21/15,21/13",Wenche Blix,Ida Dåvøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Rebekka Hesjedal,Tone Dale,Therese Kristoffersen,Christina  Andreassen,"18/21,22/20,21/17",Rebekka Hesjedal,Tone Dale
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Lena Nilsen,Turid Gråberg,Anita Vabø,Astrid Bognøy,"17/21,21/9,21/17",Lena Nilsen,Turid Gråberg
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Wenche Blix,Ida Dåvøy,Lena Nilsen,Turid Gråberg,"21/13,21/12",Wenche Blix,Ida Dåvøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Anita Vabø,Astrid Bognøy,Therese Kristoffersen,Christina  Andreassen,"21/16,21/16",Anita Vabø,Astrid Bognøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Andreas Holmedal,"21/18,21/14",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Simen Lexander,"21/12,16/21,21/15",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Keveen Kumar Balasingam,"21/16,18/21,21/17",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/13,21/12",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Erlend Engesæter Bognøy,,Benjamin Teigland,"21/17,23/21",Erlend Engesæter Bognøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Benjamin Teigland,"21/9,21/10",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Sigbjørn Honve,"24/22,19/21,23/21",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Adrian Storhaug,"21/18,19/21,21/11",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Sigbjørn Honve,,Adrian Storhaug,"21/8,21/17",Sigbjørn Honve,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Fredrik Hestenes,"21/12,21/11",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Kenneth Larsen,,Fredrik Hestenes,"21/10,21/6",Kenneth Larsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Kenneth Larsen,"15/21,21/15,21/18",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Thomas Barth,"22/20,18/21,21/15",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Dennis Andersen Moe,,Thomas Barth,"17/21,21/18,21/13",Dennis Andersen Moe,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Dennis Andersen Moe,"20/22,21/11,21/14",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Andreas Holmedal,"21/18,21/14",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Simen Lexander,"21/12,16/21,21/15",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Keveen Kumar Balasingam,"21/16,18/21,21/17",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/13,21/12",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Erlend Engesæter Bognøy,,Benjamin Teigland,"21/17,23/21",Erlend Engesæter Bognøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Bharath Kumar Balasingam,,Benjamin Teigland,"21/9,21/10",Bharath Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Sigbjørn Honve,"24/22,19/21,23/21",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Simen Lexander,,Adrian Storhaug,"21/18,19/21,21/11",Simen Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Sigbjørn Honve,,Adrian Storhaug,"21/8,21/17",Sigbjørn Honve,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Fredrik Hestenes,"21/12,21/11",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Kenneth Larsen,,Fredrik Hestenes,"21/10,21/6",Kenneth Larsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Andreas Holmedal,,Kenneth Larsen,"15/21,21/15,21/18",Andreas Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Thomas Barth,"22/20,18/21,21/15",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Dennis Andersen Moe,,Thomas Barth,"17/21,21/18,21/13",Dennis Andersen Moe,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,,Keveen Kumar Balasingam,,Dennis Andersen Moe,"20/22,21/11,21/14",Keveen Kumar Balasingam,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 A,Håvard Lie Foldnes,Thomas Lam Nybakk,Angelina Sharma,Khrithi Yalamanchili,"21/16,17/21,21/11",Håvard Lie Foldnes,Thomas Lam Nybakk
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 A,Håvard Lie Foldnes,Thomas Lam Nybakk,Angelina Sharma,Khrithi Yalamanchili,"21/16,17/21,21/11",Håvard Lie Foldnes,Thomas Lam Nybakk
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,,Evy Drønen Haugland,,Ingrid Kalve,"21/2,21/2",Evy Drønen Haugland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,,Evy Drønen Haugland,,Inga Sannes Voldsæter,"23/25,21/3,21/19",Evy Drønen Haugland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,,Inga Sannes Voldsæter,,Ingrid Kalve,"21/8,21/15",Inga Sannes Voldsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,,Evy Drønen Haugland,,Ingrid Kalve,"21/2,21/2",Evy Drønen Haugland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,,Evy Drønen Haugland,,Inga Sannes Voldsæter,"23/25,21/3,21/19",Evy Drønen Haugland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,,Inga Sannes Voldsæter,,Ingrid Kalve,"21/8,21/15",Inga Sannes Voldsæter,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Ole Kristian Lie,"21/7,22/20",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Markus B. Rødølen,"21/7,21/8",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Ole Kristian Lie,,Rohit Duvvapu,"21/14,21/12",Ole Kristian Lie,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Andreas Brakedal,"21/0,21/4",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Simon Andrés Vasquez Frisnes,,Andreas Brakedal,"17/21,21/17,21/13",Simon Andrés Vasquez Frisnes,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Simon Andrés Vasquez Frisnes,"21/5,21/10",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Marius Kvernøy,,Christian Stensgaard Paulsen,"21/19,21/13",Marius Kvernøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Markus B. Rødølen,,Marius Kvernøy,"21/13,23/21",Markus B. Rødølen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Markus B. Rødølen,,Christian Stensgaard Paulsen,"20/22,21/10,21/14",Markus B. Rødølen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Rohit Duvvapu,,Sindre Gjuvsland,"22/20,15/21,21/16",Rohit Duvvapu,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Fabian Nelson,,Johannes Karoliussen,"23/21,12/21,21/17",Fabian Nelson,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Rohit Duvvapu,,Johannes Karoliussen,"21/10,21/10",Rohit Duvvapu,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Rohit Duvvapu,,Fabian Nelson,"24/22,21/13",Rohit Duvvapu,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Sindre Gjuvsland,,Fabian Nelson,"21/8,21/11",Sindre Gjuvsland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Sindre Gjuvsland,,Johannes Karoliussen,"21/8,21/5",Sindre Gjuvsland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Ole Kristian Lie,,Hayden Dong,"21/12,21/7",Ole Kristian Lie,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Ole Kristian Lie,"21/7,22/20",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Markus B. Rødølen,"21/7,21/8",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Ole Kristian Lie,,Rohit Duvvapu,"21/14,21/12",Ole Kristian Lie,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Andreas Brakedal,"21/0,21/4",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Simon Andrés Vasquez Frisnes,,Andreas Brakedal,"17/21,21/17,21/13",Simon Andrés Vasquez Frisnes,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Jakob Langeland Risa,,Simon Andrés Vasquez Frisnes,"21/5,21/10",Jakob Langeland Risa,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Marius Kvernøy,,Christian Stensgaard Paulsen,"21/19,21/13",Marius Kvernøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Markus B. Rødølen,,Marius Kvernøy,"21/13,23/21",Markus B. Rødølen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Markus B. Rødølen,,Christian Stensgaard Paulsen,"20/22,21/10,21/14",Markus B. Rødølen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Rohit Duvvapu,,Sindre Gjuvsland,"22/20,15/21,21/16",Rohit Duvvapu,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Fabian Nelson,,Johannes Karoliussen,"23/21,12/21,21/17",Fabian Nelson,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Rohit Duvvapu,,Johannes Karoliussen,"21/10,21/10",Rohit Duvvapu,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Rohit Duvvapu,,Fabian Nelson,"24/22,21/13",Rohit Duvvapu,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Sindre Gjuvsland,,Fabian Nelson,"21/8,21/11",Sindre Gjuvsland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Sindre Gjuvsland,,Johannes Karoliussen,"21/8,21/5",Sindre Gjuvsland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Ole Kristian Lie,,Hayden Dong,"21/12,21/7",Ole Kristian Lie,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Juli Helen Johansen Klungtveit,,Celina Kvernøy,"21/7,21/15",Juli Helen Johansen Klungtveit,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Celina Kvernøy,,Thea Øyen Selsaas,"21/15,21/16",Celina Kvernøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Juli Helen Johansen Klungtveit,,Oline Langeland Risa,"21/12,21/14",Juli Helen Johansen Klungtveit,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Celina Kvernøy,,Oline Langeland Risa,"21/16,21/15",Celina Kvernøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Juli Helen Johansen Klungtveit,,Thea Øyen Selsaas,"21/8,22/20",Juli Helen Johansen Klungtveit,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,,Thea Øyen Selsaas,,Oline Langeland Risa,"21/14,21/14",Thea Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Hayden Dong,Rohit Duvvapu,Marius Kvernøy,Johannes Karoliussen,"21/8,21/14",Hayden Dong,Rohit Duvvapu
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Ole Kristian Lie,Jakob Langeland Risa,Sindre Gjuvsland,Giulia Dell'Acqua,"21/4,21/7",Ole Kristian Lie,Jakob Langeland Risa
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Sindre Gjuvsland,Giulia Dell'Acqua,Marius Kvernøy,Johannes Karoliussen,"21/17,21/13",Sindre Gjuvsland,Giulia Dell'Acqua
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Ole Kristian Lie,Jakob Langeland Risa,Hayden Dong,Rohit Duvvapu,"21/9,21/10",Ole Kristian Lie,Jakob Langeland Risa
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Ole Kristian Lie,Jakob Langeland Risa,Marius Kvernøy,Johannes Karoliussen,"21/5,21/11",Ole Kristian Lie,Jakob Langeland Risa
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Sindre Gjuvsland,Giulia Dell'Acqua,Hayden Dong,Rohit Duvvapu,"21/16,21/19",Sindre Gjuvsland,Giulia Dell'Acqua
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Liv Drønen Hatlevik,Lykke Stangeland,Victoria Hellesøy,Evy Drønen Haugland,"19/21,21/15,21/19",Liv Drønen Hatlevik,Lykke Stangeland
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Anna Angove Gjerstad,Celina Kvernøy,Victoria Hellesøy,Evy Drønen Haugland,"21/14,21/13",Anna Angove Gjerstad,Celina Kvernøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Anna Angove Gjerstad,Celina Kvernøy,Liv Drønen Hatlevik,Lykke Stangeland,"21/12,21/14",Anna Angove Gjerstad,Celina Kvernøy
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Thomas Lam Nybakk,,Håvard Lie Foldnes,"17/21,21/7,21/17",Thomas Lam Nybakk,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Martin Våge Sætersdal,,Oliver Kleppe Hagen,"21/9,21/8",Martin Våge Sætersdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Martin Våge Sætersdal,,Håvard Lie Foldnes,"19/21,21/19,24/22",Martin Våge Sætersdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Thomas Lam Nybakk,,Oliver Kleppe Hagen,"21/9,21/0",Thomas Lam Nybakk,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Martin Våge Sætersdal,,Thomas Lam Nybakk,"25/23,18/21,22/20",Martin Våge Sætersdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Thomas Lam Nybakk,,Håvard Lie Foldnes,"17/21,21/7,21/17",Thomas Lam Nybakk,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Martin Våge Sætersdal,,Oliver Kleppe Hagen,"21/9,21/8",Martin Våge Sætersdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Martin Våge Sætersdal,,Håvard Lie Foldnes,"19/21,21/19,24/22",Martin Våge Sætersdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Thomas Lam Nybakk,,Oliver Kleppe Hagen,"21/9,21/0",Thomas Lam Nybakk,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Martin Våge Sætersdal,,Thomas Lam Nybakk,"25/23,18/21,22/20",Martin Våge Sætersdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Giulia Dell'Acqua,,Victoria Hellesøy,"21/7,21/17",Giulia Dell'Acqua,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Giulia Dell'Acqua,,Lykke Stangeland,"21/4,21/8",Giulia Dell'Acqua,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Lykke Stangeland,,Anna Angove Gjerstad,"21/14,21/11",Lykke Stangeland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Liv Drønen Hatlevik,,Anna Angove Gjerstad,"22/20,19/21,23/21",Liv Drønen Hatlevik,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Victoria Hellesøy,,Anna Angove Gjerstad,"21/17,21/14",Victoria Hellesøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Lykke Stangeland,,Liv Drønen Hatlevik,"21/5,21/15",Lykke Stangeland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Giulia Dell'Acqua,,Anna Angove Gjerstad,"21/2,21/6",Giulia Dell'Acqua,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Liv Drønen Hatlevik,,Victoria Hellesøy,"23/21,21/17",Liv Drønen Hatlevik,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Giulia Dell'Acqua,,Liv Drønen Hatlevik,"21/6,21/5",Giulia Dell'Acqua,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,,Lykke Stangeland,,Victoria Hellesøy,"21/15,21/17",Lykke Stangeland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/17,21/5",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Kristoffer Sveen Hjertholm,,Aldrin Nelson,"14/21,21/18,21/19",Kristoffer Sveen Hjertholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Brede Lie Foldnes,"21/3,21/8",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Herman Dalan  Eidissen,,Adrian Aas Kleppe,"21/10,21/9",Herman Dalan  Eidissen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Herman Dalan  Eidissen,,Brede Lie Foldnes,"21/18,21/17",Herman Dalan  Eidissen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Adrian Aas Kleppe,"21/4,21/4",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brede Lie Foldnes,,Adrian Aas Kleppe,"21/6,21/7",Brede Lie Foldnes,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/4,21/8",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Aldrin Nelson,,Pranav Tehlan,"21/11,21/12",Aldrin Nelson,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Pranav Tehlan,,Tobias Ellila Andresen,"21/11,21/3",Pranav Tehlan,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Aldrin Nelson,,Tobias Ellila Andresen,"21/6,21/0",Aldrin Nelson,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Kristoffer Sveen Hjertholm,,Heine Lam Nybakk,"21/16,21/10",Kristoffer Sveen Hjertholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Kristoffer Sveen Hjertholm,,Andreas G Jakobsen,"21/4,21/4",Kristoffer Sveen Hjertholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Heine Lam Nybakk,,Andreas G Jakobsen,"21/10,21/5",Heine Lam Nybakk,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/17,21/5",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Kristoffer Sveen Hjertholm,,Aldrin Nelson,"14/21,21/18,21/19",Kristoffer Sveen Hjertholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Brede Lie Foldnes,"21/3,21/8",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Herman Dalan  Eidissen,,Adrian Aas Kleppe,"21/10,21/9",Herman Dalan  Eidissen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Herman Dalan  Eidissen,,Brede Lie Foldnes,"21/18,21/17",Herman Dalan  Eidissen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Adrian Aas Kleppe,"21/4,21/4",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brede Lie Foldnes,,Adrian Aas Kleppe,"21/6,21/7",Brede Lie Foldnes,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/4,21/8",Brynjar Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Aldrin Nelson,,Pranav Tehlan,"21/11,21/12",Aldrin Nelson,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Pranav Tehlan,,Tobias Ellila Andresen,"21/11,21/3",Pranav Tehlan,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Aldrin Nelson,,Tobias Ellila Andresen,"21/6,21/0",Aldrin Nelson,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Kristoffer Sveen Hjertholm,,Heine Lam Nybakk,"21/16,21/10",Kristoffer Sveen Hjertholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Kristoffer Sveen Hjertholm,,Andreas G Jakobsen,"21/4,21/4",Kristoffer Sveen Hjertholm,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Heine Lam Nybakk,,Andreas G Jakobsen,"21/10,21/5",Heine Lam Nybakk,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Mari Stangeland,,Emilie Alrek Eide,"21/17,17/21,21/14",Mari Stangeland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Emilie Alrek Eide,,Arathija Anton Reginold,"21/8,21/17",Emilie Alrek Eide,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Mari Stangeland,,Maria Botcharova Ellingsen,"21/17,21/12",Mari Stangeland,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Arathija Anton Reginold,,Hedda Mortvedt,"21/14,21/16",Arathija Anton Reginold,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Emilie Alrek Eide,,Viola Jordalen,"21/17,21/11",Emilie Alrek Eide,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Amalie Lexander,,Viola Jordalen,"11/21,21/8,21/11",Amalie Lexander,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,,Emilie Alrek Eide,,Amalie Lexander,"21/12,16/21,22/20",Emilie Alrek Eide,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herman Dalan  Eidissen,Aldrin Nelson,Andreas G Jakobsen,Tor Gjerstad,"21/8,21/2",Herman Dalan  Eidissen,Aldrin Nelson
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Heine Lam Nybakk,Sondre Lie Foldnes,Kristoffer Sveen Hjertholm,Brede Lie Foldnes,"21/15,21/19",Heine Lam Nybakk,Sondre Lie Foldnes
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Heine Lam Nybakk,Sondre Lie Foldnes,Andreas G Jakobsen,Tor Gjerstad,"21/15,21/8",Heine Lam Nybakk,Sondre Lie Foldnes
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Kristoffer Sveen Hjertholm,Brede Lie Foldnes,Herman Dalan  Eidissen,Aldrin Nelson,"22/20,21/11",Kristoffer Sveen Hjertholm,Brede Lie Foldnes
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Kristoffer Sveen Hjertholm,Brede Lie Foldnes,Andreas G Jakobsen,Tor Gjerstad,"21/9,21/9",Kristoffer Sveen Hjertholm,Brede Lie Foldnes
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herman Dalan  Eidissen,Aldrin Nelson,Heine Lam Nybakk,Sondre Lie Foldnes,"21/13,21/12",Herman Dalan  Eidissen,Aldrin Nelson
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Emilie Alrek Eide,Amalie Lexander,Katja Botcharova Ellingsen,Maria Botcharova Ellingsen,"16/21,21/13,28/26",Emilie Alrek Eide,Amalie Lexander
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Emilie Alrek Eide,Amalie Lexander,Mari Stangeland,Hedda Mortvedt,"21/11,21/9",Emilie Alrek Eide,Amalie Lexander
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Katja Botcharova Ellingsen,Maria Botcharova Ellingsen,Mari Stangeland,Hedda Mortvedt,"23/21,21/15",Katja Botcharova Ellingsen,Maria Botcharova Ellingsen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Tor Gjerstad,,Oskar Holmedal,"21/15,21/8",Tor Gjerstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Oskar Holmedal,,Tord Kreybu Wahl,"21/15,21/7",Oskar Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Philip Sørensen Lohne,,Alexander Kleppe Hagen,"21/11,21/1",Philip Sørensen Lohne,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Tor Gjerstad,,Alexander Kleppe Hagen,"21/6,21/4",Tor Gjerstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Tor Gjerstad,,Philip Sørensen Lohne,"21/16,21/8",Tor Gjerstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Jonas August Kvalvik Vassdal,,Tinius Waag Solberg,"21/10,21/12",Jonas August Kvalvik Vassdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Oskar Holmedal,,Jonas August Kvalvik Vassdal,"21/7,21/14",Oskar Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Oskar Holmedal,,Tinius Waag Solberg,"21/2,21/7",Oskar Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Tor Gjerstad,,Oskar Holmedal,"21/15,21/8",Tor Gjerstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Oskar Holmedal,,Tord Kreybu Wahl,"21/15,21/7",Oskar Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Philip Sørensen Lohne,,Alexander Kleppe Hagen,"21/11,21/1",Philip Sørensen Lohne,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Tor Gjerstad,,Alexander Kleppe Hagen,"21/6,21/4",Tor Gjerstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Tor Gjerstad,,Philip Sørensen Lohne,"21/16,21/8",Tor Gjerstad,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Jonas August Kvalvik Vassdal,,Tinius Waag Solberg,"21/10,21/12",Jonas August Kvalvik Vassdal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Oskar Holmedal,,Jonas August Kvalvik Vassdal,"21/7,21/14",Oskar Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Oskar Holmedal,,Tinius Waag Solberg,"21/2,21/7",Oskar Holmedal,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,,Julie Gråberg,,Aurora Kallestad,"21/8,21/5",Julie Gråberg,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Jonas August Kvalvik Vassdal,Pranav Tehlan,Philip Sørensen Lohne,Tord Kreybu Wahl,"21/14,21/17",Jonas August Kvalvik Vassdal,Pranav Tehlan
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Philip Sørensen Lohne,Tord Kreybu Wahl,Elias Eichner,Tinius Waag Solberg,"21/9,21/10",Philip Sørensen Lohne,Tord Kreybu Wahl
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Jonas August Kvalvik Vassdal,Pranav Tehlan,Elias Eichner,Tinius Waag Solberg,"21/10,21/9",Jonas August Kvalvik Vassdal,Pranav Tehlan
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,Jonathan Utne Madsøy,"21/10,21/16",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonathan Utne Madsøy,,Vetle Vinnes Bråten,"21/13,21/14",Jonathan Utne Madsøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,André Wiese Ellingsen,"21/7,21/5",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonas Bergli Almås,,Stian Wiese Ellingsen,"21/7,21/13",Jonas Bergli Almås,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Stian Wiese Ellingsen,,André Wiese Ellingsen,"21/6,21/19",Stian Wiese Ellingsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/5,21/7",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonas Bergli Almås,,André Wiese Ellingsen,"21/11,21/15",Jonas Bergli Almås,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,Stian Wiese Ellingsen,"21/6,21/4",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Matthew Leiren,,Sondre Lie Foldnes,"21/5,21/8",Matthew Leiren,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vetle Vinnes Bråten,,Vemund Hus,"21/17,17/21,21/15",Vetle Vinnes Bråten,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vemund Hus,,Matthew Leiren,"21/10,21/15",Vemund Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vetle Vinnes Bråten,,Sondre Lie Foldnes,"21/12,21/13",Vetle Vinnes Bråten,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vetle Vinnes Bråten,,Matthew Leiren,"21/14,10/21,21/16",Vetle Vinnes Bråten,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vemund Hus,,Sondre Lie Foldnes,"21/5,21/23,21/5",Vemund Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonathan Utne Madsøy,,Aphinan Bunkuson,"21/7,21/9",Jonathan Utne Madsøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Brede Stenfeldt,,Aphinan Bunkuson,"21/6,21/5",Brede Stenfeldt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonathan Utne Madsøy,,Brede Stenfeldt,"16/21,21/15,21/12",Jonathan Utne Madsøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,Jonathan Utne Madsøy,"21/10,21/16",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonathan Utne Madsøy,,Vetle Vinnes Bråten,"21/13,21/14",Jonathan Utne Madsøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,André Wiese Ellingsen,"21/7,21/5",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonas Bergli Almås,,Stian Wiese Ellingsen,"21/7,21/13",Jonas Bergli Almås,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Stian Wiese Ellingsen,,André Wiese Ellingsen,"21/6,21/19",Stian Wiese Ellingsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/5,21/7",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonas Bergli Almås,,André Wiese Ellingsen,"21/11,21/15",Jonas Bergli Almås,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Elias Øyen Selsaas,,Stian Wiese Ellingsen,"21/6,21/4",Elias Øyen Selsaas,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Matthew Leiren,,Sondre Lie Foldnes,"21/5,21/8",Matthew Leiren,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vetle Vinnes Bråten,,Vemund Hus,"21/17,17/21,21/15",Vetle Vinnes Bråten,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vemund Hus,,Matthew Leiren,"21/10,21/15",Vemund Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vetle Vinnes Bråten,,Sondre Lie Foldnes,"21/12,21/13",Vetle Vinnes Bråten,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vetle Vinnes Bråten,,Matthew Leiren,"21/14,10/21,21/16",Vetle Vinnes Bråten,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Vemund Hus,,Sondre Lie Foldnes,"21/5,21/23,21/5",Vemund Hus,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonathan Utne Madsøy,,Aphinan Bunkuson,"21/7,21/9",Jonathan Utne Madsøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Brede Stenfeldt,,Aphinan Bunkuson,"21/6,21/5",Brede Stenfeldt,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Jonathan Utne Madsøy,,Brede Stenfeldt,"16/21,21/15,21/12",Jonathan Utne Madsøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Akija Anton Reginold,,Nikol Hermansen,"21/19,21/16",Akija Anton Reginold,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Akija Anton Reginold,,Linnea Kvaløy Olsen,"21/11,21/10",Akija Anton Reginold,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Akija Anton Reginold,,Astrid Salthella,"21/14,21/10",Akija Anton Reginold,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Linnea Kvaløy Olsen,,Astrid Salthella,"16/21,21/11,21/15",Linnea Kvaløy Olsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Nikol Hermansen,,Eline Louise Økland Nordeide,"21/11,21/8",Nikol Hermansen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Julie Albrektsen,,Ida Dåvøy,"21/7,21/10",Julie Albrektsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Julie Albrektsen,,Eline Louise Økland Nordeide,"21/7,21/9",Julie Albrektsen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Nikol Hermansen,,Ida Dåvøy,"21/7,21/13",Nikol Hermansen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Ida Dåvøy,,Eline Louise Økland Nordeide,"17/21,21/9,21/11",Ida Dåvøy,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,,Nikol Hermansen,,Julie Albrektsen,"18/21,21/9,21/18",Nikol Hermansen,
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Brede Stenfeldt,Vetle Vinnes Bråten,André Wiese Ellingsen,Stian Wiese Ellingsen,"21/8,21/4",Brede Stenfeldt,Vetle Vinnes Bråten
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Brynjar Hus,Vemund Hus,André Wiese Ellingsen,Stian Wiese Ellingsen,"21/7,21/4",Brynjar Hus,Vemund Hus
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Brynjar Hus,Vemund Hus,Brede Stenfeldt,Vetle Vinnes Bråten,"21/15,21/14",Brynjar Hus,Vemund Hus
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Arathija Anton Reginold,Akija Anton Reginold,Nikol Hermansen,Viola Jordalen,"18/21,21/16,21/18",Arathija Anton Reginold,Akija Anton Reginold
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Astrid Salthella,Julie Albrektsen,Nikol Hermansen,Viola Jordalen,"21/17,16/21,21/13",Astrid Salthella,Julie Albrektsen
-2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Arathija Anton Reginold,Akija Anton Reginold,Astrid Salthella,Julie Albrektsen,"21/19,21/17",Arathija Anton Reginold,Akija Anton Reginold
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Bharath Kumar Balasingam,,Andreas Holmedal,"21/18,21/14",Bharath Kumar Balasingam,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Bharath Kumar Balasingam,,Simen Lexander,"21/12,16/21,21/15",Bharath Kumar Balasingam,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Andreas Holmedal,,Keveen Kumar Balasingam,"21/16,18/21,21/17",Andreas Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Bharath Kumar Balasingam,,Erlend Engesæter Bognøy,"21/13,21/12",Bharath Kumar Balasingam,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Erlend Engesæter Bognøy,,Benjamin Teigland,"21/17,23/21",Erlend Engesæter Bognøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Bharath Kumar Balasingam,,Benjamin Teigland,"21/9,21/10",Bharath Kumar Balasingam,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Simen Lexander,,Sigbjørn Honve,"24/22,19/21,23/21",Simen Lexander,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Simen Lexander,,Adrian Storhaug,"21/18,19/21,21/11",Simen Lexander,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Sigbjørn Honve,,Adrian Storhaug,"21/8,21/17",Sigbjørn Honve,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Andreas Holmedal,,Fredrik Hestenes,"21/12,21/11",Andreas Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Kenneth Larsen,,Fredrik Hestenes,"21/10,21/6",Kenneth Larsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Andreas Holmedal,,Kenneth Larsen,"15/21,21/15,21/18",Andreas Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Keveen Kumar Balasingam,,Thomas Barth,"22/20,18/21,21/15",Keveen Kumar Balasingam,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Dennis Andersen Moe,,Thomas Barth,"17/21,21/18,21/13",Dennis Andersen Moe,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN E,Herresingle,,Keveen Kumar Balasingam,,Dennis Andersen Moe,"20/22,21/11,21/14",Keveen Kumar Balasingam,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damesingle,,Heidi Kristine Skree,,Tuva Vinnes Bråten,"21/8,21/14",Heidi Kristine Skree,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damesingle,,Ingeborg Krogsæter,,Mariann Andreassen,"21/15,21/13",Ingeborg Krogsæter,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damesingle,,Ingeborg Krogsæter,,Heidi Kristine Skree,"21/11,11/21,21/16",Ingeborg Krogsæter,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damesingle,,Mariann Andreassen,,Tuva Vinnes Bråten,"21/13,21/15",Mariann Andreassen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damesingle,,Heidi Kristine Skree,,Mariann Andreassen,"21/17,23/21",Heidi Kristine Skree,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damesingle,,Ingeborg Krogsæter,,Tuva Vinnes Bråten,"21/14,21/18",Ingeborg Krogsæter,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Kenneth Larsen,Simen Lexander,Sigbjørn Honve,Michael White,"21/7,21/12",Kenneth Larsen,Simen Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Sigbjørn Honve,Michael White,Petter Karlsen Wåltorp,Jone Sætenes,"21/10,21/8",Sigbjørn Honve,Michael White
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Erlend Engesæter Bognøy,Dennis Andersen Moe,Petter Karlsen Wåltorp,Jone Sætenes,"21/16,21/15",Erlend Engesæter Bognøy,Dennis Andersen Moe
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Sigbjørn Honve,Michael White,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/19,11/21,21/17",Sigbjørn Honve,Michael White
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Kenneth Larsen,Simen Lexander,Andreas Holmedal,Thomas Barth,"21/9,21/15",Kenneth Larsen,Simen Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Bharath Kumar Balasingam,Keveen Kumar Balasingam,Andreas Holmedal,Thomas Barth,"18/21,21/19,22/20",Bharath Kumar Balasingam,Keveen Kumar Balasingam
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Herredouble,Kenneth Larsen,Simen Lexander,Bharath Kumar Balasingam,Keveen Kumar Balasingam,"21/3,21/12",Kenneth Larsen,Simen Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damedouble,Julie Langeland Risa,Anne Lie Foldnes,Tuva Vinnes Bråten,Mariann Andreassen,"14/21,21/17,23/21",Julie Langeland Risa,Anne Lie Foldnes
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damedouble,Heidi Kristine Skree,Ingeborg Krogsæter,Julie Langeland Risa,Anne Lie Foldnes,"21/17,21/18",Heidi Kristine Skree,Ingeborg Krogsæter
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Damedouble,Heidi Kristine Skree,Ingeborg Krogsæter,Tuva Vinnes Bråten,Mariann Andreassen,"26/24,21/17",Heidi Kristine Skree,Ingeborg Krogsæter
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Ingeborg Krogsæter,Dennis Andersen Moe,"16/21,21/17,21/15",Keveen Kumar Balasingam,Julie Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Erlend Engesæter Bognøy,Julie Marie Olsen,Arun Kumar Sharma,Aina Mogstad,"21/15,21/16",Erlend Engesæter Bognøy,Julie Marie Olsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Erlend Engesæter Bognøy,Julie Marie Olsen,"21/16,19/21,21/19",Keveen Kumar Balasingam,Julie Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Arun Kumar Sharma,Aina Mogstad,"21/16,21/12",Keveen Kumar Balasingam,Julie Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Andreas Holmedal,Mariann Andreassen,Are Eidissen,Anne Lie Foldnes,"21/16,21/12",Andreas Holmedal,Mariann Andreassen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Ingeborg Krogsæter,Dennis Andersen Moe,Benjamin Teigland,Tuva Vinnes Bråten,"22/20,21/19",Ingeborg Krogsæter,Dennis Andersen Moe
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Andreas Holmedal,Mariann Andreassen,Benjamin Teigland,Tuva Vinnes Bråten,"21/14,21/13",Andreas Holmedal,Mariann Andreassen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Ingeborg Krogsæter,Dennis Andersen Moe,Are Eidissen,Anne Lie Foldnes,"21/19,21/17",Ingeborg Krogsæter,Dennis Andersen Moe
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Ingeborg Krogsæter,Dennis Andersen Moe,Andreas Holmedal,Mariann Andreassen,"19/21,21/16,21/13",Ingeborg Krogsæter,Dennis Andersen Moe
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN A,Mixeddouble,Benjamin Teigland,Tuva Vinnes Bråten,Are Eidissen,Anne Lie Foldnes,"21/19,21/17",Benjamin Teigland,Tuva Vinnes Bråten
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Herredouble,Helge Økland,Svein Andre Hol,Edvin Nordbø,Jone Mortensen,"21/13,21/16",Helge Økland,Svein Andre Hol
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Herredouble,Arun Kumar Sharma,Oleg Tsynkalovskiy,Anders Eimstad,Jørn Grane,"17/21,21/15,21/13",Arun Kumar Sharma,Oleg Tsynkalovskiy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Herredouble,Arun Kumar Sharma,Oleg Tsynkalovskiy,Helge Økland,Svein Andre Hol,"13/21,21/11,21/15",Arun Kumar Sharma,Oleg Tsynkalovskiy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Herredouble,Edvin Nordbø,Jone Mortensen,Anders Eimstad,Jørn Grane,"21/13,21/6",Edvin Nordbø,Jone Mortensen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Herredouble,Helge Økland,Svein Andre Hol,Anders Eimstad,Jørn Grane,"17/21,21/19,21/16",Helge Økland,Svein Andre Hol
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN B,Herredouble,Arun Kumar Sharma,Oleg Tsynkalovskiy,Edvin Nordbø,Jone Mortensen,"21/15,19/21,21/18",Arun Kumar Sharma,Oleg Tsynkalovskiy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Helge Økland,,Edvin Nordbø,"21/16,21/17",Helge Økland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Helge Økland,,Morten Solsvik,"21/17,17/21,21/19",Helge Økland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Oleg Tsynkalovskiy,,Mathias Kjellesvik Skjørholm,"15/21,22/20,21/11",Oleg Tsynkalovskiy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Edvin Nordbø,,Anders Eimstad,"21/19,15/21,30/28",Edvin Nordbø,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Edvin Nordbø,,Oleg Tsynkalovskiy,"21/15,21/11",Edvin Nordbø,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Anders Eimstad,,Mathias Kjellesvik Skjørholm,"21/14,13/21,21/16",Anders Eimstad,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Oleg Tsynkalovskiy,,Anders Eimstad,"21/18,20/22,21/17",Oleg Tsynkalovskiy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Edvin Nordbø,,Mathias Kjellesvik Skjørholm,"21/12,21/16",Edvin Nordbø,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Hans Absalon Sekkingstad,,Eirik Ekerhovd,"21/17,21/11",Hans Absalon Sekkingstad,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Eirik Ekerhovd,,Lars Lauvik,"21/16,21/17",Eirik Ekerhovd,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Helge Økland,,Lars Lauvik,"21/10,21/5",Helge Økland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Helge Økland,,Hans Absalon Sekkingstad,"21/16,21/7",Helge Økland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Helge Økland,,Eirik Ekerhovd,"21/8,21/8",Helge Økland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Hans Absalon Sekkingstad,,Lars Lauvik,"21/16,21/13",Hans Absalon Sekkingstad,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Morten Solsvik,,Inge Mosti,"21/9,21/18",Morten Solsvik,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Christian Lund Haugen,,Inge Mosti,"21/19,21/16",Christian Lund Haugen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herresingle,,Morten Solsvik,,Christian Lund Haugen,"17/21,21/18,23/21",Morten Solsvik,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Damesingle,,Maiken Kjellesvik Skjørholm,,Ann Helen Heldal,"21/7,21/6",Maiken Kjellesvik Skjørholm,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Damesingle,,Maiken Kjellesvik Skjørholm,,Randi Rolvsjord,"21/8,21/7",Maiken Kjellesvik Skjørholm,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Damesingle,,Randi Rolvsjord,,Ann Helen Heldal,"26/24,21/4",Randi Rolvsjord,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Trond Holmedal,Frode Kristoffersen,Morten Solsvik,Eirik Ekerhovd,"21/12,21/19",Trond Holmedal,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Morten Sellevold,Robert Eriksen,Jonas Bergli Almås,Rolf Almås,"21/3,21/9",Morten Sellevold,Robert Eriksen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Jonas Bergli Almås,Rolf Almås,"21/15,5/21,21/16",Morten Solsvik,Eirik Ekerhovd
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Trond Holmedal,Frode Kristoffersen,Svein Hjertholm,Trond Krogsæter,"21/14,21/9",Trond Holmedal,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Svein Hjertholm,Trond Krogsæter,"21/15,24/22",Morten Solsvik,Eirik Ekerhovd
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Trond Holmedal,Frode Kristoffersen,Morten Sellevold,Robert Eriksen,"20/22,21/17,21/14",Trond Holmedal,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Morten Sellevold,Robert Eriksen,Morten Solsvik,Eirik Ekerhovd,"21/17,22/20",Morten Sellevold,Robert Eriksen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Svein Hjertholm,Trond Krogsæter,Jonas Bergli Almås,Rolf Almås,"17/21,21/18,21/17",Svein Hjertholm,Trond Krogsæter
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Trond Holmedal,Frode Kristoffersen,Jonas Bergli Almås,Rolf Almås,"21/11,21/17",Trond Holmedal,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Herredouble,Morten Sellevold,Robert Eriksen,Svein Hjertholm,Trond Krogsæter,"21/10,21/11",Morten Sellevold,Robert Eriksen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Damedouble,Maiken Kjellesvik Skjørholm,Hanne Kolstø,Ann Helen Heldal,Irene Lillestøl Duinker,"21/19,21/14",Maiken Kjellesvik Skjørholm,Hanne Kolstø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Damedouble,Miriam Mikkelsen,Cecilie Mikkelsen,Ann Helen Heldal,Irene Lillestøl Duinker,"21/17,21/8",Miriam Mikkelsen,Cecilie Mikkelsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Damedouble,Maiken Kjellesvik Skjørholm,Hanne Kolstø,Miriam Mikkelsen,Cecilie Mikkelsen,"21/16,14/21,21/18",Maiken Kjellesvik Skjørholm,Hanne Kolstø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Jørn Grane,Cecilie Mikkelsen,Hanne Kolstø,Mathias Kjellesvik Skjørholm,"21/13,21/11",Jørn Grane,Cecilie Mikkelsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Hanne Kolstø,Mathias Kjellesvik Skjørholm,Anita Vabø,Erik Moe,"21/18,21/15",Hanne Kolstø,Mathias Kjellesvik Skjørholm
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Irene Lillestøl Duinker,Edvin Nordbø,Miriam Mikkelsen,Anders Eimstad,"21/16,21/18",Irene Lillestøl Duinker,Edvin Nordbø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Hanne Kolstø,Mathias Kjellesvik Skjørholm,Irene Lillestøl Duinker,Edvin Nordbø,"21/14,21/12",Hanne Kolstø,Mathias Kjellesvik Skjørholm
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Miriam Mikkelsen,Anders Eimstad,Anita Vabø,Erik Moe,"21/15,21/10",Miriam Mikkelsen,Anders Eimstad
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Hanne Kolstø,Mathias Kjellesvik Skjørholm,Miriam Mikkelsen,Anders Eimstad,"25/23,6/21,21/15",Hanne Kolstø,Mathias Kjellesvik Skjørholm
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Irene Lillestøl Duinker,Edvin Nordbø,Anita Vabø,Erik Moe,"21/15,22/20",Irene Lillestøl Duinker,Edvin Nordbø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Jørn Grane,Cecilie Mikkelsen,Maiken Kjellesvik Skjørholm,Trond Krogsæter,"19/21,21/11,22/20",Jørn Grane,Cecilie Mikkelsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Jone Mortensen,Tone Rasmussen Økland,Morten Solsvik,Anita Aasebø,"21/15,25/23",Jone Mortensen,Tone Rasmussen Økland
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Maiken Kjellesvik Skjørholm,Trond Krogsæter,Morten Solsvik,Anita Aasebø,"21/15,21/9",Maiken Kjellesvik Skjørholm,Trond Krogsæter
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Jørn Grane,Cecilie Mikkelsen,Jone Mortensen,Tone Rasmussen Økland,"21/19,21/16",Jørn Grane,Cecilie Mikkelsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Jone Mortensen,Tone Rasmussen Økland,Maiken Kjellesvik Skjørholm,Trond Krogsæter,"21/8,21/18",Jone Mortensen,Tone Rasmussen Økland
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN C,Mixeddouble,Jørn Grane,Cecilie Mikkelsen,Morten Solsvik,Anita Aasebø,"21/9,21/12",Jørn Grane,Cecilie Mikkelsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Morten Mortvedt,,Regy Selsaas,"21/16,21/18",Morten Mortvedt,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Regy Selsaas,,Anders Heldal,"21/14,16/21,21/16",Regy Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Kenneth Olsen,,Svein Hjertholm,"21/14,21/11",Kenneth Olsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Morten Mortvedt,,Kennet Hellesund Ellingsen,"21/17,21/10",Morten Mortvedt,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Morten Mortvedt,,Kenneth Olsen,"21/12,21/16",Morten Mortvedt,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Kennet Hellesund Ellingsen,,Svein Hjertholm,"21/16,21/12",Kennet Hellesund Ellingsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Kennet Hellesund Ellingsen,,Kenneth Olsen,"21/13,21/19",Kennet Hellesund Ellingsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Morten Mortvedt,,Svein Hjertholm,"21/6,21/9",Morten Mortvedt,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Regy Selsaas,,Jarl Odin Møvik,"21/7,21/8",Regy Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Einar Morgan Utne,,Kaj Søndergård Albrektsen,"16/21,21/17,21/15",Einar Morgan Utne,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Einar Morgan Utne,,Jarl Odin Møvik,"21/5,21/5",Einar Morgan Utne,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Regy Selsaas,,Kaj Søndergård Albrektsen,"21/11,21/11",Regy Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Kaj Søndergård Albrektsen,,Jarl Odin Møvik,"21/9,21/6",Kaj Søndergård Albrektsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Regy Selsaas,,Einar Morgan Utne,"21/12,21/19",Regy Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Anders Heldal,,Gustav Holmedal,"21/8,21/10",Anders Heldal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Gustav Holmedal,,Morten Amundsen,"24/22,21/19",Gustav Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herresingle,,Anders Heldal,,Morten Amundsen,"21/8,21/6",Anders Heldal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Thomas Jonassen,Espen Søvik,Anders Heldal,Frode Clausen,"21/17,21/18",Thomas Jonassen,Espen Søvik
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Anders Heldal,Frode Clausen,Anita Aasebø,Sondre Aasebø,"21/16,15/21,21/19",Anders Heldal,Frode Clausen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Thomas Jonassen,Espen Søvik,Rune Bråten,Thomas Stenfeldt,"21/16,19/21,21/17",Thomas Jonassen,Espen Søvik
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Morten Amundsen,Kjell Tore Brakedal,Kenneth Olsen,Lars Lauvik,"18/21,22/20,21/13",Morten Amundsen,Kjell Tore Brakedal
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Thomas Jonassen,Espen Søvik,Kenneth Olsen,Lars Lauvik,"18/21,21/10,21/13",Thomas Jonassen,Espen Søvik
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Morten Amundsen,Kjell Tore Brakedal,Rune Bråten,Thomas Stenfeldt,"21/8,21/14",Morten Amundsen,Kjell Tore Brakedal
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Thomas Jonassen,Espen Søvik,Morten Amundsen,Kjell Tore Brakedal,"21/16,21/14",Thomas Jonassen,Espen Søvik
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Rune Bråten,Thomas Stenfeldt,Kenneth Olsen,Lars Lauvik,"21/6,20/22,22/12",Rune Bråten,Thomas Stenfeldt
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Anita Aasebø,Sondre Aasebø,Kennet Hellesund Ellingsen,Mathias Kjellesvik Skjørholm,"21/15,16/21,21/16",Anita Aasebø,Sondre Aasebø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Kennet Hellesund Ellingsen,Mathias Kjellesvik Skjørholm,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/16,21/16",Kennet Hellesund Ellingsen,Mathias Kjellesvik Skjørholm
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Anita Aasebø,Sondre Aasebø,Morten Mortvedt,Kaj Søndergård Albrektsen,"21/15,21/18",Anita Aasebø,Sondre Aasebø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Anders Heldal,Frode Clausen,Gustav Holmedal,Jarl Odin Møvik,"21/12,21/11",Anders Heldal,Frode Clausen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Anders Heldal,Frode Clausen,Jørn Inge Bognøy,Erik Moe,"21/16,21/13",Anders Heldal,Frode Clausen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Herredouble,Jørn Inge Bognøy,Erik Moe,Gustav Holmedal,Jarl Odin Møvik,"21/11,21/10",Jørn Inge Bognøy,Erik Moe
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Wenche Blix,Ida Dåvøy,Rebekka Hesjedal,Tone Dale,"21/11,13/21,21/15",Wenche Blix,Ida Dåvøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Lena Nilsen,Turid Gråberg,Therese Kristoffersen,Christina  Andreassen,"18/21,21/14,21/16",Lena Nilsen,Turid Gråberg
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Rebekka Hesjedal,Tone Dale,Lena Nilsen,Turid Gråberg,"21/12,21/12",Rebekka Hesjedal,Tone Dale
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Anita Vabø,Astrid Bognøy,Wenche Blix,Ida Dåvøy,"21/19,17/21,21/19",Anita Vabø,Astrid Bognøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Anita Vabø,Astrid Bognøy,Rebekka Hesjedal,Tone Dale,"28/26,12/21,21/16",Anita Vabø,Astrid Bognøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Wenche Blix,Ida Dåvøy,Therese Kristoffersen,Christina  Andreassen,"21/15,21/13",Wenche Blix,Ida Dåvøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Rebekka Hesjedal,Tone Dale,Therese Kristoffersen,Christina  Andreassen,"18/21,22/20,21/17",Rebekka Hesjedal,Tone Dale
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Lena Nilsen,Turid Gråberg,Anita Vabø,Astrid Bognøy,"17/21,21/9,21/17",Lena Nilsen,Turid Gråberg
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Wenche Blix,Ida Dåvøy,Lena Nilsen,Turid Gråberg,"21/13,21/12",Wenche Blix,Ida Dåvøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Damedouble,Anita Vabø,Astrid Bognøy,Therese Kristoffersen,Christina  Andreassen,"21/16,21/16",Anita Vabø,Astrid Bognøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Julie Albrektsen,Sondre Aasebø,Therese Kristoffersen,Frode Kristoffersen,"21/16,21/17",Julie Albrektsen,Sondre Aasebø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Julie Albrektsen,Sondre Aasebø,Morten Mortvedt,Hedda Mortvedt,"21/15,21/18",Julie Albrektsen,Sondre Aasebø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Therese Kristoffersen,Frode Kristoffersen,Anders Heldal,Christina  Andreassen,"21/17,21/16",Therese Kristoffersen,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Julie Albrektsen,Sondre Aasebø,Tone Dale,Morten Sellevold,"21/19,21/15",Julie Albrektsen,Sondre Aasebø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Julie Albrektsen,Sondre Aasebø,Rebekka Hesjedal,Robert Eriksen,"25/23,16/21,21/10",Julie Albrektsen,Sondre Aasebø
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Rebekka Hesjedal,Robert Eriksen,Tone Dale,Morten Sellevold,"21/13,9/21,21/18",Rebekka Hesjedal,Robert Eriksen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Morten Mortvedt,Hedda Mortvedt,Lena Nilsen,Thomas Stenfeldt,"21/17,21/11",Morten Mortvedt,Hedda Mortvedt
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Jørn Inge Bognøy,Astrid Bognøy,Lena Nilsen,Thomas Stenfeldt,"16/21,21/16,21/13",Jørn Inge Bognøy,Astrid Bognøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Morten Mortvedt,Hedda Mortvedt,Jørn Inge Bognøy,Astrid Bognøy,"21/12,21/18",Morten Mortvedt,Hedda Mortvedt
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Kjersti Hestenes,Kjell Tore Brakedal,Gustav Holmedal,Ann Helen Heldal,"21/9,21/12",Kjersti Hestenes,Kjell Tore Brakedal
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Therese Kristoffersen,Frode Kristoffersen,Astrid Salthella,Kenneth Olsen,"21/13,21/16",Therese Kristoffersen,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Therese Kristoffersen,Frode Kristoffersen,Gustav Holmedal,Ann Helen Heldal,"21/10,21/13",Therese Kristoffersen,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Kjersti Hestenes,Kjell Tore Brakedal,Astrid Salthella,Kenneth Olsen,"21/14,21/18",Kjersti Hestenes,Kjell Tore Brakedal
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Gustav Holmedal,Ann Helen Heldal,Astrid Salthella,Kenneth Olsen,"21/19,21/18",Gustav Holmedal,Ann Helen Heldal
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Therese Kristoffersen,Frode Kristoffersen,Kjersti Hestenes,Kjell Tore Brakedal,"22/20,21/14",Therese Kristoffersen,Frode Kristoffersen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Wenche Blix,Kaj Søndergård Albrektsen,Arild Rasmussen,Turid Gråberg,"21/19,21/18",Wenche Blix,Kaj Søndergård Albrektsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Anders Heldal,Christina  Andreassen,Arild Rasmussen,Turid Gråberg,"21/18,25/23",Anders Heldal,Christina  Andreassen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,SEN D,Mixeddouble,Anders Heldal,Christina  Andreassen,Wenche Blix,Kaj Søndergård Albrektsen,"21/10,21/16",Anders Heldal,Christina  Andreassen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 A,Herredouble,Håvard Lie Foldnes,Thomas Lam Nybakk,Angelina Sharma,Khrithi Yalamanchili,"21/16,17/21,21/11",Håvard Lie Foldnes,Thomas Lam Nybakk
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,Damesingle,,Evy Drønen Haugland,,Ingrid Kalve,"21/2,21/2",Evy Drønen Haugland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,Damesingle,,Evy Drønen Haugland,,Inga Sannes Voldsæter,"23/25,21/3,21/19",Evy Drønen Haugland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U11 B,Damesingle,,Inga Sannes Voldsæter,,Ingrid Kalve,"21/8,21/15",Inga Sannes Voldsæter,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Jakob Langeland Risa,,Ole Kristian Lie,"21/7,22/20",Jakob Langeland Risa,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Jakob Langeland Risa,,Markus B. Rødølen,"21/7,21/8",Jakob Langeland Risa,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Ole Kristian Lie,,Rohit Duvvapu,"21/14,21/12",Ole Kristian Lie,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Jakob Langeland Risa,,Andreas Brakedal,"21/0,21/4",Jakob Langeland Risa,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Andreas Brakedal,"17/21,21/17,21/13",Simon Andrés Vasquez Frisnes,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Jakob Langeland Risa,,Simon Andrés Vasquez Frisnes,"21/5,21/10",Jakob Langeland Risa,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Marius Kvernøy,,Christian Stensgaard Paulsen,"21/19,21/13",Marius Kvernøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Markus B. Rødølen,,Marius Kvernøy,"21/13,23/21",Markus B. Rødølen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Markus B. Rødølen,,Christian Stensgaard Paulsen,"20/22,21/10,21/14",Markus B. Rødølen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Rohit Duvvapu,,Sindre Gjuvsland,"22/20,15/21,21/16",Rohit Duvvapu,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Fabian Nelson,,Johannes Karoliussen,"23/21,12/21,21/17",Fabian Nelson,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Rohit Duvvapu,,Johannes Karoliussen,"21/10,21/10",Rohit Duvvapu,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Rohit Duvvapu,,Fabian Nelson,"24/22,21/13",Rohit Duvvapu,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Sindre Gjuvsland,,Fabian Nelson,"21/8,21/11",Sindre Gjuvsland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Sindre Gjuvsland,,Johannes Karoliussen,"21/8,21/5",Sindre Gjuvsland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herresingle,,Ole Kristian Lie,,Hayden Dong,"21/12,21/7",Ole Kristian Lie,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damesingle,,Juli Helen Johansen Klungtveit,,Celina Kvernøy,"21/7,21/15",Juli Helen Johansen Klungtveit,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damesingle,,Celina Kvernøy,,Thea Øyen Selsaas,"21/15,21/16",Celina Kvernøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damesingle,,Juli Helen Johansen Klungtveit,,Oline Langeland Risa,"21/12,21/14",Juli Helen Johansen Klungtveit,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damesingle,,Celina Kvernøy,,Oline Langeland Risa,"21/16,21/15",Celina Kvernøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damesingle,,Juli Helen Johansen Klungtveit,,Thea Øyen Selsaas,"21/8,22/20",Juli Helen Johansen Klungtveit,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damesingle,,Thea Øyen Selsaas,,Oline Langeland Risa,"21/14,21/14",Thea Øyen Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herredouble,Hayden Dong,Rohit Duvvapu,Marius Kvernøy,Johannes Karoliussen,"21/8,21/14",Hayden Dong,Rohit Duvvapu
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herredouble,Ole Kristian Lie,Jakob Langeland Risa,Sindre Gjuvsland,Giulia Dell'Acqua,"21/4,21/7",Ole Kristian Lie,Jakob Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herredouble,Sindre Gjuvsland,Giulia Dell'Acqua,Marius Kvernøy,Johannes Karoliussen,"21/17,21/13",Sindre Gjuvsland,Giulia Dell'Acqua
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herredouble,Ole Kristian Lie,Jakob Langeland Risa,Hayden Dong,Rohit Duvvapu,"21/9,21/10",Ole Kristian Lie,Jakob Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herredouble,Ole Kristian Lie,Jakob Langeland Risa,Marius Kvernøy,Johannes Karoliussen,"21/5,21/11",Ole Kristian Lie,Jakob Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Herredouble,Sindre Gjuvsland,Giulia Dell'Acqua,Hayden Dong,Rohit Duvvapu,"21/16,21/19",Sindre Gjuvsland,Giulia Dell'Acqua
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damedouble,Liv Drønen Hatlevik,Lykke Stangeland,Victoria Hellesøy,Evy Drønen Haugland,"19/21,21/15,21/19",Liv Drønen Hatlevik,Lykke Stangeland
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damedouble,Anna Angove Gjerstad,Celina Kvernøy,Victoria Hellesøy,Evy Drønen Haugland,"21/14,21/13",Anna Angove Gjerstad,Celina Kvernøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Damedouble,Anna Angove Gjerstad,Celina Kvernøy,Liv Drønen Hatlevik,Lykke Stangeland,"21/12,21/14",Anna Angove Gjerstad,Celina Kvernøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Mixeddouble,Ole Kristian Lie,Lykke Stangeland,Marius Kvernøy,Celina Kvernøy,"19/21,23/21,21/15",Ole Kristian Lie,Lykke Stangeland
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Mixeddouble,Ole Kristian Lie,Lykke Stangeland,Sindre Gjuvsland,Liv Drønen Hatlevik,"21/18,21/16",Ole Kristian Lie,Lykke Stangeland
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 A,Mixeddouble,Marius Kvernøy,Celina Kvernøy,Sindre Gjuvsland,Liv Drønen Hatlevik,"21/13,21/14",Marius Kvernøy,Celina Kvernøy
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Herresingle,,Thomas Lam Nybakk,,Håvard Lie Foldnes,"17/21,21/7,21/17",Thomas Lam Nybakk,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Herresingle,,Martin Våge Sætersdal,,Oliver Kleppe Hagen,"21/9,21/8",Martin Våge Sætersdal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Herresingle,,Martin Våge Sætersdal,,Håvard Lie Foldnes,"19/21,21/19,24/22",Martin Våge Sætersdal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Herresingle,,Thomas Lam Nybakk,,Oliver Kleppe Hagen,"21/9,21/0",Thomas Lam Nybakk,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Herresingle,,Martin Våge Sætersdal,,Thomas Lam Nybakk,"25/23,18/21,22/20",Martin Våge Sætersdal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Giulia Dell'Acqua,,Victoria Hellesøy,"21/7,21/17",Giulia Dell'Acqua,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Giulia Dell'Acqua,,Lykke Stangeland,"21/4,21/8",Giulia Dell'Acqua,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Lykke Stangeland,,Anna Angove Gjerstad,"21/14,21/11",Lykke Stangeland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Liv Drønen Hatlevik,,Anna Angove Gjerstad,"22/20,19/21,23/21",Liv Drønen Hatlevik,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Victoria Hellesøy,,Anna Angove Gjerstad,"21/17,21/14",Victoria Hellesøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Lykke Stangeland,,Liv Drønen Hatlevik,"21/5,21/15",Lykke Stangeland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Giulia Dell'Acqua,,Anna Angove Gjerstad,"21/2,21/6",Giulia Dell'Acqua,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Liv Drønen Hatlevik,,Victoria Hellesøy,"23/21,21/17",Liv Drønen Hatlevik,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Giulia Dell'Acqua,,Liv Drønen Hatlevik,"21/6,21/5",Giulia Dell'Acqua,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U13 B,Damesingle,,Lykke Stangeland,,Victoria Hellesøy,"21/15,21/17",Lykke Stangeland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Brynjar Hus,,Kristoffer Sveen Hjertholm,"21/17,21/5",Brynjar Hus,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Kristoffer Sveen Hjertholm,,Aldrin Nelson,"14/21,21/18,21/19",Kristoffer Sveen Hjertholm,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Brynjar Hus,,Brede Lie Foldnes,"21/3,21/8",Brynjar Hus,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Herman Dalan  Eidissen,,Adrian Aas Kleppe,"21/10,21/9",Herman Dalan  Eidissen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Herman Dalan  Eidissen,,Brede Lie Foldnes,"21/18,21/17",Herman Dalan  Eidissen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Brynjar Hus,,Adrian Aas Kleppe,"21/4,21/4",Brynjar Hus,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Brede Lie Foldnes,,Adrian Aas Kleppe,"21/6,21/7",Brede Lie Foldnes,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Brynjar Hus,,Herman Dalan  Eidissen,"21/4,21/8",Brynjar Hus,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Aldrin Nelson,,Pranav Tehlan,"21/11,21/12",Aldrin Nelson,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Pranav Tehlan,,Tobias Ellila Andresen,"21/11,21/3",Pranav Tehlan,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Aldrin Nelson,,Tobias Ellila Andresen,"21/6,21/0",Aldrin Nelson,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Kristoffer Sveen Hjertholm,,Heine Lam Nybakk,"21/16,21/10",Kristoffer Sveen Hjertholm,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Kristoffer Sveen Hjertholm,,Andreas G Jakobsen,"21/4,21/4",Kristoffer Sveen Hjertholm,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herresingle,,Heine Lam Nybakk,,Andreas G Jakobsen,"21/10,21/5",Heine Lam Nybakk,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Mari Stangeland,,Emilie Alrek Eide,"21/17,17/21,21/14",Mari Stangeland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Emilie Alrek Eide,,Arathija Anton Reginold,"21/8,21/17",Emilie Alrek Eide,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Mari Stangeland,,Maria Botcharova Ellingsen,"21/17,21/12",Mari Stangeland,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Arathija Anton Reginold,,Hedda Mortvedt,"21/14,21/16",Arathija Anton Reginold,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Emilie Alrek Eide,,Viola Jordalen,"21/17,21/11",Emilie Alrek Eide,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Amalie Lexander,,Viola Jordalen,"11/21,21/8,21/11",Amalie Lexander,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damesingle,,Emilie Alrek Eide,,Amalie Lexander,"21/12,16/21,22/20",Emilie Alrek Eide,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herredouble,Herman Dalan  Eidissen,Aldrin Nelson,Andreas G Jakobsen,Tor Gjerstad,"21/8,21/2",Herman Dalan  Eidissen,Aldrin Nelson
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herredouble,Heine Lam Nybakk,Sondre Lie Foldnes,Kristoffer Sveen Hjertholm,Brede Lie Foldnes,"21/15,21/19",Heine Lam Nybakk,Sondre Lie Foldnes
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herredouble,Heine Lam Nybakk,Sondre Lie Foldnes,Andreas G Jakobsen,Tor Gjerstad,"21/15,21/8",Heine Lam Nybakk,Sondre Lie Foldnes
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herredouble,Kristoffer Sveen Hjertholm,Brede Lie Foldnes,Herman Dalan  Eidissen,Aldrin Nelson,"22/20,21/11",Kristoffer Sveen Hjertholm,Brede Lie Foldnes
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herredouble,Kristoffer Sveen Hjertholm,Brede Lie Foldnes,Andreas G Jakobsen,Tor Gjerstad,"21/9,21/9",Kristoffer Sveen Hjertholm,Brede Lie Foldnes
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Herredouble,Herman Dalan  Eidissen,Aldrin Nelson,Heine Lam Nybakk,Sondre Lie Foldnes,"21/13,21/12",Herman Dalan  Eidissen,Aldrin Nelson
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damedouble,Emilie Alrek Eide,Amalie Lexander,Katja Botcharova Ellingsen,Maria Botcharova Ellingsen,"16/21,21/13,28/26",Emilie Alrek Eide,Amalie Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damedouble,Emilie Alrek Eide,Amalie Lexander,Mari Stangeland,Hedda Mortvedt,"21/11,21/9",Emilie Alrek Eide,Amalie Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Damedouble,Katja Botcharova Ellingsen,Maria Botcharova Ellingsen,Mari Stangeland,Hedda Mortvedt,"23/21,21/15",Katja Botcharova Ellingsen,Maria Botcharova Ellingsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Aldrin Nelson,Katja Botcharova Ellingsen,Emilie Alrek Eide,Heine Lam Nybakk,"21/17,21/18",Aldrin Nelson,Katja Botcharova Ellingsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Maria Botcharova Ellingsen,Brede Lie Foldnes,Mari Stangeland,Pranav Tehlan,"21/16,21/19",Maria Botcharova Ellingsen,Brede Lie Foldnes
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Emilie Alrek Eide,Heine Lam Nybakk,Maria Botcharova Ellingsen,Brede Lie Foldnes,"21/9,21/18",Emilie Alrek Eide,Heine Lam Nybakk
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Emilie Alrek Eide,Heine Lam Nybakk,Mari Stangeland,Pranav Tehlan,"21/11,21/15",Emilie Alrek Eide,Heine Lam Nybakk
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Aldrin Nelson,Katja Botcharova Ellingsen,Herman Dalan  Eidissen,Viola Jordalen,"21/12,21/3",Aldrin Nelson,Katja Botcharova Ellingsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Arathija Anton Reginold,Jakob Langeland Risa,Herman Dalan  Eidissen,Viola Jordalen,"21/17,6/21,21/16",Arathija Anton Reginold,Jakob Langeland Risa
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 A,Mixeddouble,Aldrin Nelson,Katja Botcharova Ellingsen,Arathija Anton Reginold,Jakob Langeland Risa,"21/7,21/10",Aldrin Nelson,Katja Botcharova Ellingsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Tor Gjerstad,,Oskar Holmedal,"21/15,21/8",Tor Gjerstad,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Oskar Holmedal,,Tord Kreybu Wahl,"21/15,21/7",Oskar Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Philip Sørensen Lohne,,Alexander Kleppe Hagen,"21/11,21/1",Philip Sørensen Lohne,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Tor Gjerstad,,Alexander Kleppe Hagen,"21/6,21/4",Tor Gjerstad,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Tor Gjerstad,,Philip Sørensen Lohne,"21/16,21/8",Tor Gjerstad,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Jonas August Kvalvik Vassdal,,Tinius Waag Solberg,"21/10,21/12",Jonas August Kvalvik Vassdal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Oskar Holmedal,,Jonas August Kvalvik Vassdal,"21/7,21/14",Oskar Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herresingle,,Oskar Holmedal,,Tinius Waag Solberg,"21/2,21/7",Oskar Holmedal,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Damesingle,,Julie Gråberg,,Aurora Kallestad,"21/8,21/5",Julie Gråberg,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herredouble,Jonas August Kvalvik Vassdal,Pranav Tehlan,Philip Sørensen Lohne,Tord Kreybu Wahl,"21/14,21/17",Jonas August Kvalvik Vassdal,Pranav Tehlan
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herredouble,Philip Sørensen Lohne,Tord Kreybu Wahl,Elias Eichner,Tinius Waag Solberg,"21/9,21/10",Philip Sørensen Lohne,Tord Kreybu Wahl
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U15 B,Herredouble,Jonas August Kvalvik Vassdal,Pranav Tehlan,Elias Eichner,Tinius Waag Solberg,"21/10,21/9",Jonas August Kvalvik Vassdal,Pranav Tehlan
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Jonathan Utne Madsøy,"21/10,21/16",Elias Øyen Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Jonathan Utne Madsøy,,Vetle Vinnes Bråten,"21/13,21/14",Jonathan Utne Madsøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,André Wiese Ellingsen,"21/7,21/5",Elias Øyen Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Jonas Bergli Almås,,Stian Wiese Ellingsen,"21/7,21/13",Jonas Bergli Almås,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Stian Wiese Ellingsen,,André Wiese Ellingsen,"21/6,21/19",Stian Wiese Ellingsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Jonas Bergli Almås,"21/5,21/7",Elias Øyen Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Jonas Bergli Almås,,André Wiese Ellingsen,"21/11,21/15",Jonas Bergli Almås,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Stian Wiese Ellingsen,"21/6,21/4",Elias Øyen Selsaas,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Matthew Leiren,,Sondre Lie Foldnes,"21/5,21/8",Matthew Leiren,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Vetle Vinnes Bråten,,Vemund Hus,"21/17,17/21,21/15",Vetle Vinnes Bråten,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Vemund Hus,,Matthew Leiren,"21/10,21/15",Vemund Hus,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Vetle Vinnes Bråten,,Sondre Lie Foldnes,"21/12,21/13",Vetle Vinnes Bråten,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Vetle Vinnes Bråten,,Matthew Leiren,"21/14,10/21,21/16",Vetle Vinnes Bråten,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Vemund Hus,,Sondre Lie Foldnes,"21/5,21/23,21/5",Vemund Hus,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Jonathan Utne Madsøy,,Aphinan Bunkuson,"21/7,21/9",Jonathan Utne Madsøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Brede Stenfeldt,,Aphinan Bunkuson,"21/6,21/5",Brede Stenfeldt,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herresingle,,Jonathan Utne Madsøy,,Brede Stenfeldt,"16/21,21/15,21/12",Jonathan Utne Madsøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Akija Anton Reginold,,Nikol Hermansen,"21/19,21/16",Akija Anton Reginold,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Akija Anton Reginold,,Linnea Kvaløy Olsen,"21/11,21/10",Akija Anton Reginold,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Akija Anton Reginold,,Astrid Salthella,"21/14,21/10",Akija Anton Reginold,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Linnea Kvaløy Olsen,,Astrid Salthella,"16/21,21/11,21/15",Linnea Kvaløy Olsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Nikol Hermansen,,Eline Louise Økland Nordeide,"21/11,21/8",Nikol Hermansen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Julie Albrektsen,,Ida Dåvøy,"21/7,21/10",Julie Albrektsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Julie Albrektsen,,Eline Louise Økland Nordeide,"21/7,21/9",Julie Albrektsen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Nikol Hermansen,,Ida Dåvøy,"21/7,21/13",Nikol Hermansen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Ida Dåvøy,,Eline Louise Økland Nordeide,"17/21,21/9,21/11",Ida Dåvøy,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damesingle,,Nikol Hermansen,,Julie Albrektsen,"18/21,21/9,21/18",Nikol Hermansen,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herredouble,Brede Stenfeldt,Vetle Vinnes Bråten,André Wiese Ellingsen,Stian Wiese Ellingsen,"21/8,21/4",Brede Stenfeldt,Vetle Vinnes Bråten
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herredouble,Brynjar Hus,Vemund Hus,André Wiese Ellingsen,Stian Wiese Ellingsen,"21/7,21/4",Brynjar Hus,Vemund Hus
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Herredouble,Brynjar Hus,Vemund Hus,Brede Stenfeldt,Vetle Vinnes Bråten,"21/15,21/14",Brynjar Hus,Vemund Hus
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damedouble,Arathija Anton Reginold,Akija Anton Reginold,Nikol Hermansen,Viola Jordalen,"18/21,21/16,21/18",Arathija Anton Reginold,Akija Anton Reginold
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damedouble,Astrid Salthella,Julie Albrektsen,Nikol Hermansen,Viola Jordalen,"21/17,16/21,21/13",Astrid Salthella,Julie Albrektsen
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Damedouble,Arathija Anton Reginold,Akija Anton Reginold,Astrid Salthella,Julie Albrektsen,"21/19,21/17",Arathija Anton Reginold,Akija Anton Reginold
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Brede Stenfeldt,Amalie Lexander,Vetle Vinnes Bråten,Akija Anton Reginold,"21/23,21/19,21/14",Brede Stenfeldt,Amalie Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Nikol Hermansen,Vemund Hus,Julie Gråberg,Stian Wiese Ellingsen,"21/1,21/4",Nikol Hermansen,Vemund Hus
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Vetle Vinnes Bråten,Akija Anton Reginold,Nikol Hermansen,Vemund Hus,"21/17,16/21,21/16",Vetle Vinnes Bråten,Akija Anton Reginold
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Vetle Vinnes Bråten,Akija Anton Reginold,Julie Gråberg,Stian Wiese Ellingsen,"21/7,21/2",Vetle Vinnes Bråten,Akija Anton Reginold
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Brede Stenfeldt,Amalie Lexander,André Wiese Ellingsen,Ida Dåvøy,"21/7,21/2",Brede Stenfeldt,Amalie Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Kristoffer Sveen Hjertholm,Heidi Kristine Skree,André Wiese Ellingsen,Ida Dåvøy,"21/6,21/6",Kristoffer Sveen Hjertholm,Heidi Kristine Skree
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 A,Mixeddouble,Brede Stenfeldt,Amalie Lexander,Kristoffer Sveen Hjertholm,Heidi Kristine Skree,"16/21,21/11,21/16",Brede Stenfeldt,Amalie Lexander
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 B,Herresingle,,Benjamin Krokås,,Sindre Mangernes Lied,"21/11,21/23,21/13",Benjamin Krokås,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 B,Herresingle,,Benjamin Gråberg,,Benjamin Krokås,"21/11,21/23,21/15",Benjamin Gråberg,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 B,Herresingle,,Benjamin Gråberg,,Sindre Mangernes Lied,"21/10,17/21,21/15",Benjamin Gråberg,
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 B,Herredouble,Benjamin Gråberg,Lars Lillestøl Duinker,Sindre Mangernes Lied,Benjamin Krokås,"21/12,21/18",Benjamin Gråberg,Lars Lillestøl Duinker
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 B,Herredouble,Benjamin Gråberg,Lars Lillestøl Duinker,Daniel Holmedal,Oskar Holmedal,"21/19,21/17",Benjamin Gråberg,Lars Lillestøl Duinker
+2019/2020,Askøy Askøy Open / KM,18.01.2020,U17 B,Herredouble,Sindre Mangernes Lied,Benjamin Krokås,Daniel Holmedal,Oskar Holmedal,"21/19,21/16",Sindre Mangernes Lied,Benjamin Krokås

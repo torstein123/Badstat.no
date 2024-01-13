@@ -1,354 +1,287 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Mats Lervåg,"21/15,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Joakim Nilsson,,Keveen Kumar Balasingam,"21/17,15/21,21/18",Joakim Nilsson,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Joakim Nilsson,"21/13,21/14",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Keveen Kumar Balasingam,"26/28,23/21,23/21",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Petter Karlsen Wåltorp,"21/16,21/13",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Petter Karlsen Wåltorp,,Nicolai Vølker Kønskov Hansen,"21/18,21/16",Petter Karlsen Wåltorp,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Rubab Ishmam,"21/17,21/16",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Nicolai Vølker Kønskov Hansen,"24/22,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/17,21/18",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Nicolai Vølker Kønskov Hansen,"21/16,22/20",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Mats Lervåg,"21/15,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Joakim Nilsson,,Keveen Kumar Balasingam,"21/17,15/21,21/18",Joakim Nilsson,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Joakim Nilsson,"21/13,21/14",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Keveen Kumar Balasingam,"26/28,23/21,23/21",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Petter Karlsen Wåltorp,"21/16,21/13",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Petter Karlsen Wåltorp,,Nicolai Vølker Kønskov Hansen,"21/18,21/16",Petter Karlsen Wåltorp,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Rubab Ishmam,"21/17,21/16",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Nicolai Vølker Kønskov Hansen,"24/22,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/17,21/18",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Nicolai Vølker Kønskov Hansen,"21/16,22/20",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Helge Økland,Simen Lexander,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,"21/17,21/12",Helge Økland,Simen Lexander
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"18/21,21/15,21/16",Joakim Nilsson,Nicolai Vølker Kønskov Hansen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Rubab Ishmam,Keveen Kumar Balasingam,Helge Økland,Simen Lexander,"21/19,24/26,21/16",Rubab Ishmam,Keveen Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Rubab Ishmam,Keveen Kumar Balasingam,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"21/14,21/15",Rubab Ishmam,Keveen Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Rubab Ishmam,Keveen Kumar Balasingam,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,"21/9,21/16",Rubab Ishmam,Keveen Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Helge Økland,Simen Lexander,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"21/10,21/12",Helge Økland,Simen Lexander
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Marit Louise Ulvang,Vilde Morvik Ekerhovd,Jenny Chen,Anne Marthe Svensen,"19/21,21/16,21/16",Marit Louise Ulvang,Vilde Morvik Ekerhovd
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Dennis Andersen Moe,,Jørgen Kristiansen,"21/18,21/9",Dennis Andersen Moe,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Dennis Andersen Moe,,Vinoth Kumar Balasingam,"21/18,12/21,21/19",Dennis Andersen Moe,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Dennis Andersen Moe,,Kim Martin Toledo Sviland,"21/14,21/9",Dennis Andersen Moe,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Vinoth Kumar Balasingam,,Kim Martin Toledo Sviland,"21/8,22/20",Vinoth Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Haydar-Ali Newrosi,,Jørgen Kristiansen,"23/21,21/19",Haydar-Ali Newrosi,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Erlend Engesæter Bognøy,,Aleksej Roman Kustrin Iversen,"17/21,21/7,21/14",Erlend Engesæter Bognøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Aleksej Roman Kustrin Iversen,,Haydar-Ali Newrosi,"22/20,12/21,21/17",Aleksej Roman Kustrin Iversen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Erlend Engesæter Bognøy,,Haydar-Ali Newrosi,"15/21,21/9,21/13",Erlend Engesæter Bognøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Jørgen Kristiansen,,Aleksej Roman Kustrin Iversen,"21/16,21/11",Jørgen Kristiansen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Jørgen Kristiansen,,Erlend Engesæter Bognøy,"21/15,21/12",Jørgen Kristiansen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Dennis Andersen Moe,,Jørgen Kristiansen,"21/18,21/9",Dennis Andersen Moe,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Dennis Andersen Moe,,Vinoth Kumar Balasingam,"21/18,12/21,21/19",Dennis Andersen Moe,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Dennis Andersen Moe,,Kim Martin Toledo Sviland,"21/14,21/9",Dennis Andersen Moe,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Vinoth Kumar Balasingam,,Kim Martin Toledo Sviland,"21/8,22/20",Vinoth Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Haydar-Ali Newrosi,,Jørgen Kristiansen,"23/21,21/19",Haydar-Ali Newrosi,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Erlend Engesæter Bognøy,,Aleksej Roman Kustrin Iversen,"17/21,21/7,21/14",Erlend Engesæter Bognøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Aleksej Roman Kustrin Iversen,,Haydar-Ali Newrosi,"22/20,12/21,21/17",Aleksej Roman Kustrin Iversen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Erlend Engesæter Bognøy,,Haydar-Ali Newrosi,"15/21,21/9,21/13",Erlend Engesæter Bognøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Jørgen Kristiansen,,Aleksej Roman Kustrin Iversen,"21/16,21/11",Jørgen Kristiansen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,,Jørgen Kristiansen,,Erlend Engesæter Bognøy,"21/15,21/12",Jørgen Kristiansen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Dennis Andersen Moe,Erlend Engesæter Bognøy,Kim Martin Toledo Sviland,Oleg Tsynkalovskiy,"21/12,21/15",Dennis Andersen Moe,Erlend Engesæter Bognøy
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Nelson Thambiraj,Kumaran Dhakshan Moorthy,Dennis Andersen Moe,Erlend Engesæter Bognøy,"21/9,21/13",Nelson Thambiraj,Kumaran Dhakshan Moorthy
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Bharath Kumar Balasingam,Vinoth Kumar Balasingam,Kim Martin Toledo Sviland,Oleg Tsynkalovskiy,"21/12,21/11",Bharath Kumar Balasingam,Vinoth Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Nelson Thambiraj,Kumaran Dhakshan Moorthy,Kim Martin Toledo Sviland,Oleg Tsynkalovskiy,"21/17,21/13",Nelson Thambiraj,Kumaran Dhakshan Moorthy
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Dennis Andersen Moe,Erlend Engesæter Bognøy,Bharath Kumar Balasingam,Vinoth Kumar Balasingam,"21/18,21/14",Dennis Andersen Moe,Erlend Engesæter Bognøy
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Nelson Thambiraj,Kumaran Dhakshan Moorthy,Bharath Kumar Balasingam,Vinoth Kumar Balasingam,"28/30,21/13,21/7",Nelson Thambiraj,Kumaran Dhakshan Moorthy
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Øyvind Fjeld,"21/15,21/10",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Øyvind Fjeld,,Rune Birkeland,"21/18,22/24,21/16",Øyvind Fjeld,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Jan Erik Solvik,"21/6,21/10",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Rune Birkeland,,Davis Valters Immurs,"18/21,21/19,21/11",Rune Birkeland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Khai Duong,"21/8,21/8",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Øystein Telle,"21/7,21/10",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Øystein Telle,,Khai Duong,"21/0,21/0",Øystein Telle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Jan Erik Solvik,,Oleg Tsynkalovskiy,"21/14,20/22,21/12",Jan Erik Solvik,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Oleg Tsynkalovskiy,,Anders Eimstad,"21/17,21/17",Oleg Tsynkalovskiy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Jan Erik Solvik,,Anders Eimstad,"21/9,21/10",Jan Erik Solvik,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Davis Valters Immurs,,Frode Kristoffersen,"21/10,21/15",Davis Valters Immurs,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Rune Birkeland,,Robert Eriksen,"22/20,21/17",Rune Birkeland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Øyvind Fjeld,"21/15,21/10",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Øyvind Fjeld,,Rune Birkeland,"21/18,22/24,21/16",Øyvind Fjeld,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Jan Erik Solvik,"21/6,21/10",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Rune Birkeland,,Davis Valters Immurs,"18/21,21/19,21/11",Rune Birkeland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Khai Duong,"21/8,21/8",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Bharath Kumar Balasingam,,Øystein Telle,"21/7,21/10",Bharath Kumar Balasingam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Øystein Telle,,Khai Duong,"21/0,21/0",Øystein Telle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Jan Erik Solvik,,Oleg Tsynkalovskiy,"21/14,20/22,21/12",Jan Erik Solvik,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Oleg Tsynkalovskiy,,Anders Eimstad,"21/17,21/17",Oleg Tsynkalovskiy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Jan Erik Solvik,,Anders Eimstad,"21/9,21/10",Jan Erik Solvik,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Davis Valters Immurs,,Frode Kristoffersen,"21/10,21/15",Davis Valters Immurs,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Rune Birkeland,,Robert Eriksen,"22/20,21/17",Rune Birkeland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Sofie Vorren,,Randi Rolvsjord,"21/13,21/14",Sofie Vorren,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Synnøve Solheim,,Randi Rolvsjord,"19/21,21/16,21/19",Synnøve Solheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,,Synnøve Solheim,,Sofie Vorren,"21/16,21/18",Synnøve Solheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Khai Duong,Iver Rolvsjord,Rune Birkeland,Jan Erik Solvik,"21/11,21/13",Khai Duong,Iver Rolvsjord
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,George Rajkumar,Dillip Kumar Balasingam,Tore A. Arntzen,Jørn Grane,"21/16,21/16",George Rajkumar,Dillip Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Khai Duong,Iver Rolvsjord,George Rajkumar,Dillip Kumar Balasingam,"21/10,18/21,21/14",Khai Duong,Iver Rolvsjord
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Khai Duong,Iver Rolvsjord,Tore A. Arntzen,Jørn Grane,"21/11,20/22,21/8",Khai Duong,Iver Rolvsjord
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Rune Birkeland,Jan Erik Solvik,Anders Eimstad,Frode Kristoffersen,"19/21,21/18,21/15",Rune Birkeland,Jan Erik Solvik
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Rune Birkeland,Jan Erik Solvik,Roy Nilsen,Rolf Almås,"21/11,21/8",Rune Birkeland,Jan Erik Solvik
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Anders Eimstad,Frode Kristoffersen,Roy Nilsen,Rolf Almås,"21/17,21/18",Anders Eimstad,Frode Kristoffersen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Victoria Økland,Jenny Rajkumar,Karina Sjoukje Jelsma,Randi Rolvsjord,"21/10,21/14",Victoria Økland,Jenny Rajkumar
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Karina Sjoukje Jelsma,Randi Rolvsjord,Elisabeth Dagsland,Synnøve Hjortland Carlsen,"21/6,21/8",Karina Sjoukje Jelsma,Randi Rolvsjord
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Karina Sjoukje Jelsma,Randi Rolvsjord,Malin Landro Olsen,Silje Lindseth,"21/10,21/16",Karina Sjoukje Jelsma,Randi Rolvsjord
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Malin Landro Olsen,Silje Lindseth,Elisabeth Dagsland,Synnøve Hjortland Carlsen,"21/13,21/10",Malin Landro Olsen,Silje Lindseth
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Victoria Økland,Jenny Rajkumar,Elise  Holmedal,Mariann Andreassen,"21/10,21/11",Victoria Økland,Jenny Rajkumar
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Victoria Økland,Jenny Rajkumar,Synnøve Solheim,Sofie Vorren,"21/8,21/12",Victoria Økland,Jenny Rajkumar
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Elise  Holmedal,Mariann Andreassen,Synnøve Solheim,Sofie Vorren,"9/21,21/17,21/17",Elise  Holmedal,Mariann Andreassen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Magnus Seilen,"18/21,21/18,23/21",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Morten Sellevold,"20/22,21/14,21/14",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Atle Dahle,"21/18,21/8",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Geir Digernes,"21/13,21/9",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Ole Andreas Dale,,Arne Ringen,"21/12,21/14",Ole Andreas Dale,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Arne Ringen,"21/4,21/1",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Ole Andreas Dale,"21/16,21/5",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Torbjørn Brekke,,Tom Kristoffersen,"21/10,21/10",Torbjørn Brekke,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Morten Sellevold,,Tom Kristoffersen,"21/8,21/4",Morten Sellevold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Morten Sellevold,,Torbjørn Brekke,"21/12,21/6",Morten Sellevold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Roald Grannes,"21/19,21/15",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Ole Femsteinevik,"21/13,21/15",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Roald Grannes,,Ole Femsteinevik,"21/10,21/8",Roald Grannes,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Geir Digernes,,Rolf Almås,"21/12,21/11",Geir Digernes,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Rolf Almås,,Rune Bratland,"21/13,17/21,21/19",Rolf Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Rune Bratland,,Geir Digernes,"21/18,18/21,21/16",Rune Bratland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Atle Dahle,,Vidar Korsnes,"21/17,21/16",Atle Dahle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Vidar Korsnes,,Sverre Svensen,"21/13,21/18",Vidar Korsnes,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Atle Dahle,,Sverre Svensen,"14/21,21/15,21/19",Atle Dahle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Magnus Seilen,"18/21,21/18,23/21",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Morten Sellevold,"20/22,21/14,21/14",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Atle Dahle,"21/18,21/8",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Geir Digernes,"21/13,21/9",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Ole Andreas Dale,,Arne Ringen,"21/12,21/14",Ole Andreas Dale,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Arne Ringen,"21/4,21/1",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Tore A. Arntzen,,Ole Andreas Dale,"21/16,21/5",Tore A. Arntzen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Torbjørn Brekke,,Tom Kristoffersen,"21/10,21/10",Torbjørn Brekke,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Morten Sellevold,,Tom Kristoffersen,"21/8,21/4",Morten Sellevold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Morten Sellevold,,Torbjørn Brekke,"21/12,21/6",Morten Sellevold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Roald Grannes,"21/19,21/15",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Magnus Seilen,,Ole Femsteinevik,"21/13,21/15",Magnus Seilen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Roald Grannes,,Ole Femsteinevik,"21/10,21/8",Roald Grannes,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Geir Digernes,,Rolf Almås,"21/12,21/11",Geir Digernes,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Rolf Almås,,Rune Bratland,"21/13,17/21,21/19",Rolf Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Rune Bratland,,Geir Digernes,"21/18,18/21,21/16",Rune Bratland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Atle Dahle,,Vidar Korsnes,"21/17,21/16",Atle Dahle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Vidar Korsnes,,Sverre Svensen,"21/13,21/18",Vidar Korsnes,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Atle Dahle,,Sverre Svensen,"14/21,21/15,21/19",Atle Dahle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Merethe Lunde,,Therese Kristoffersen,"21/13,21/16",Merethe Lunde,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Therese Kristoffersen,,Christina  Andreassen,"21/11,21/19",Therese Kristoffersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Ingeborg Halvorsen,,Christina  Andreassen,"21/17,21/14",Ingeborg Halvorsen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Therese Kristoffersen,,Ingeborg Halvorsen,"17/21,21/13,21/19",Therese Kristoffersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,,Merethe Lunde,,Trude Tveit,"21/12,21/11",Merethe Lunde,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Morten Sellevold,Robert Eriksen,Atle Dahle,Magnus Seilen,"21/13,21/13",Morten Sellevold,Robert Eriksen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Atle Dahle,Magnus Seilen,Vidar Korsnes,Ole Femsteinevik,"14/21,21/17,21/15",Atle Dahle,Magnus Seilen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Roald Grannes,Sverre Svensen,Rune Bråten,Thomas Stenfeldt,"21/13,21/15",Roald Grannes,Sverre Svensen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Atle Dahle,Magnus Seilen,Rune Bråten,Thomas Stenfeldt,"21/8,21/10",Atle Dahle,Magnus Seilen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Roald Grannes,Sverre Svensen,Vidar Korsnes,Ole Femsteinevik,"15/21,21/15,21/14",Roald Grannes,Sverre Svensen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Atle Dahle,Magnus Seilen,Roald Grannes,Sverre Svensen,"15/21,21/13,21/13",Atle Dahle,Magnus Seilen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Vidar Korsnes,Ole Femsteinevik,Rune Bråten,Thomas Stenfeldt,"21/11,21/17",Vidar Korsnes,Ole Femsteinevik
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Morten Sellevold,Robert Eriksen,Torbjørn Brekke,Geir Digernes,"18/21,21/8,21/11",Morten Sellevold,Robert Eriksen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Torbjørn Brekke,Geir Digernes,Tom Kristoffersen,Torbjørn Eimstad,"21/17,21/9",Torbjørn Brekke,Geir Digernes
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Morten Sellevold,Robert Eriksen,Kristoffer Eliassen,Meinte Jelsma,"21/15,21/11",Morten Sellevold,Robert Eriksen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Morten Sellevold,Robert Eriksen,Tom Kristoffersen,Torbjørn Eimstad,"21/16,21/8",Morten Sellevold,Robert Eriksen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Kristoffer Eliassen,Meinte Jelsma,Torbjørn Brekke,Geir Digernes,"21/14,21/15",Kristoffer Eliassen,Meinte Jelsma
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Kristoffer Eliassen,Meinte Jelsma,Tom Kristoffersen,Torbjørn Eimstad,"21/13,21/8",Kristoffer Eliassen,Meinte Jelsma
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Therese Kristoffersen,Guri Brunstad,Christina  Andreassen,Trude Tveit,"14/21,21/18,21/17",Therese Kristoffersen,Guri Brunstad
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Olav Dalan Eidissen,,Anton Onarheim Vea,"21/7,21/5",Olav Dalan Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Lucas Kvarven,,Anton Onarheim Vea,"21/13,12/212,21/18",Lucas Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Linnea Holmedal,,Anton Onarheim Vea,"21/9,21/8",Linnea Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Olav Dalan Eidissen,,Lucas Kvarven,"21/13,21/7",Olav Dalan Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Linnea Holmedal,,Lucas Kvarven,"21/10,21/13",Linnea Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Olav Dalan Eidissen,,Linnea Holmedal,"21/15,18/21,22/20",Olav Dalan Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Olav Dalan Eidissen,,Anton Onarheim Vea,"21/7,21/5",Olav Dalan Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Lucas Kvarven,,Anton Onarheim Vea,"21/13,12/212,21/18",Lucas Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Linnea Holmedal,,Anton Onarheim Vea,"21/9,21/8",Linnea Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Olav Dalan Eidissen,,Lucas Kvarven,"21/13,21/7",Olav Dalan Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Linnea Holmedal,,Lucas Kvarven,"21/10,21/13",Linnea Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,,Olav Dalan Eidissen,,Linnea Holmedal,"21/15,18/21,22/20",Olav Dalan Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Camilla Skrunes Sundt,Michael Tjessheim,Akarija Anton Reginold,Arathija Anton Reginold,"19/21,21/18,27/25",Camilla Skrunes Sundt,Michael Tjessheim
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Akarija Anton Reginold,,Camilla Skrunes Sundt,"21/7,21/14",Akarija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Herman Kolstø,,Arathija Anton Reginold,"21/13,21/15",Herman Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Arathija Anton Reginold,,Camilla Skrunes Sundt,"21/12,21/17",Arathija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Herman Kolstø,"21/13,21/10",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Akarija Anton Reginold,,Herman Kolstø,"21/19,21/16",Akarija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Arathija Anton Reginold,"21/7,21/6",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Akarija Anton Reginold,"23/21,21/13",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Herman Kolstø,,Camilla Skrunes Sundt,"21/7,21/17",Herman Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Akarija Anton Reginold,,Arathija Anton Reginold,"21/19,21/14",Akarija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Camilla Skrunes Sundt,"21/13,21/16",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Akarija Anton Reginold,,Camilla Skrunes Sundt,"21/7,21/14",Akarija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Herman Kolstø,,Arathija Anton Reginold,"21/13,21/15",Herman Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Arathija Anton Reginold,,Camilla Skrunes Sundt,"21/12,21/17",Arathija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Herman Kolstø,"21/13,21/10",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Akarija Anton Reginold,,Herman Kolstø,"21/19,21/16",Akarija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Arathija Anton Reginold,"21/7,21/6",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Akarija Anton Reginold,"23/21,21/13",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Herman Kolstø,,Camilla Skrunes Sundt,"21/7,21/17",Herman Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Akarija Anton Reginold,,Arathija Anton Reginold,"21/19,21/14",Akarija Anton Reginold,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,,Michael Tjessheim,,Camilla Skrunes Sundt,"21/13,21/16",Michael Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/12,21/13",Brynjar Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Herman Dalan  Eidissen,,Lukas Skrunes Sundt,"22/20,10/21,21/15",Herman Dalan  Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Casper Tjessheim,,Thomas Claudey,"21/10,19/21,21/11",Casper Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Brynjar Hus,,Thomas Claudey,"21/4,21/4",Brynjar Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Brynjar Hus,,Casper Tjessheim,"21/11,21/4",Brynjar Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Herman Dalan  Eidissen,,Eirik Nitter,"21/10,21/1",Herman Dalan  Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Herman Dalan  Eidissen,,Mathushen Anton Ruseyn,"21/5,21/12",Herman Dalan  Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Mathushen Anton Ruseyn,,Eirik Nitter,"15/21,21/16,21/14",Mathushen Anton Ruseyn,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Amalie Lexander,,Niklas Rasmussen,"21/5,21/7",Amalie Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Lukas Skrunes Sundt,,Amalie Lexander,"21/5,21/17",Lukas Skrunes Sundt,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Lukas Skrunes Sundt,,Niklas Rasmussen,"21/12,21/4",Lukas Skrunes Sundt,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Brynjar Hus,,Herman Dalan  Eidissen,"21/12,21/13",Brynjar Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Herman Dalan  Eidissen,,Lukas Skrunes Sundt,"22/20,10/21,21/15",Herman Dalan  Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Casper Tjessheim,,Thomas Claudey,"21/10,19/21,21/11",Casper Tjessheim,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Brynjar Hus,,Thomas Claudey,"21/4,21/4",Brynjar Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Brynjar Hus,,Casper Tjessheim,"21/11,21/4",Brynjar Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Herman Dalan  Eidissen,,Eirik Nitter,"21/10,21/1",Herman Dalan  Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Herman Dalan  Eidissen,,Mathushen Anton Ruseyn,"21/5,21/12",Herman Dalan  Eidissen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Mathushen Anton Ruseyn,,Eirik Nitter,"15/21,21/16,21/14",Mathushen Anton Ruseyn,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Amalie Lexander,,Niklas Rasmussen,"21/5,21/7",Amalie Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Lukas Skrunes Sundt,,Amalie Lexander,"21/5,21/17",Lukas Skrunes Sundt,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,,Lukas Skrunes Sundt,,Niklas Rasmussen,"21/12,21/4",Lukas Skrunes Sundt,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Mathushen Anton Ruseyn,Niklas Rasmussen,Linnea Holmedal,Amalie Lexander,"25/23,15/21,22/20",Mathushen Anton Ruseyn,Niklas Rasmussen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Lukas Skrunes Sundt,Casper Tjessheim,Mathushen Anton Ruseyn,Niklas Rasmussen,"21/11,21/11",Lukas Skrunes Sundt,Casper Tjessheim
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Lukas Skrunes Sundt,Casper Tjessheim,Linnea Holmedal,Amalie Lexander,"21/12,21/15",Lukas Skrunes Sundt,Casper Tjessheim
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Mats Lervåg,"21/15,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Joakim Nilsson,,Keveen Kumar Balasingam,"21/17,15/21,21/18",Joakim Nilsson,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Joakim Nilsson,"21/13,21/14",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Keveen Kumar Balasingam,"26/28,23/21,23/21",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Petter Karlsen Wåltorp,"21/16,21/13",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Petter Karlsen Wåltorp,,Nicolai Vølker Kønskov Hansen,"21/18,21/16",Petter Karlsen Wåltorp,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Rubab Ishmam,"21/17,21/16",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Nicolai Vølker Kønskov Hansen,"24/22,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/17,21/18",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Nicolai Vølker Kønskov Hansen,"21/16,22/20",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Mats Lervåg,"21/15,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Joakim Nilsson,,Keveen Kumar Balasingam,"21/17,15/21,21/18",Joakim Nilsson,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Joakim Nilsson,"21/13,21/14",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Mats Lervåg,,Keveen Kumar Balasingam,"26/28,23/21,23/21",Mats Lervåg,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Petter Karlsen Wåltorp,"21/16,21/13",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Petter Karlsen Wåltorp,,Nicolai Vølker Kønskov Hansen,"21/18,21/16",Petter Karlsen Wåltorp,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Rubab Ishmam,"21/17,21/16",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Nicolai Vølker Kønskov Hansen,"24/22,21/12",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Simen Lexander,,Petter Karlsen Wåltorp,"21/17,21/18",Simen Lexander,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,,Rubab Ishmam,,Nicolai Vølker Kønskov Hansen,"21/16,22/20",Rubab Ishmam,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Helge Økland,Simen Lexander,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,"21/17,21/12",Helge Økland,Simen Lexander
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"18/21,21/15,21/16",Joakim Nilsson,Nicolai Vølker Kønskov Hansen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Rubab Ishmam,Keveen Kumar Balasingam,Helge Økland,Simen Lexander,"21/19,24/26,21/16",Rubab Ishmam,Keveen Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Rubab Ishmam,Keveen Kumar Balasingam,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"21/14,21/15",Rubab Ishmam,Keveen Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Rubab Ishmam,Keveen Kumar Balasingam,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,"21/9,21/16",Rubab Ishmam,Keveen Kumar Balasingam
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Helge Økland,Simen Lexander,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"21/10,21/12",Helge Økland,Simen Lexander
-2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Marit Louise Ulvang,Vilde Morvik Ekerhovd,Jenny Chen,Anne Marthe Svensen,"19/21,21/16,21/16",Marit Louise Ulvang,Vilde Morvik Ekerhovd
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Jonas Bergli Almås,,Vemund Hus,"21/18,21/14",Jonas Bergli Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,David Nesje,,Brede Stenfeldt,"21/16,21/12",David Nesje,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Jonas Bergli Almås,,Brede Stenfeldt,"21/12,21/8",Jonas Bergli Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Jonas Bergli Almås,,David Nesje,"18/21,22/20,21/12",Jonas Bergli Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Vemund Hus,,Marius Claudey,"21/16,21/19",Vemund Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Marius Claudey,,Vetle Vinnes Bråten,"12/21,22/20,24/22",Marius Claudey,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Vemund Hus,,Vetle Vinnes Bråten,"21/12,21/13",Vemund Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Jonas Bergli Almås,,Vemund Hus,"21/18,21/14",Jonas Bergli Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,David Nesje,,Brede Stenfeldt,"21/16,21/12",David Nesje,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Jonas Bergli Almås,,Brede Stenfeldt,"21/12,21/8",Jonas Bergli Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Jonas Bergli Almås,,David Nesje,"18/21,22/20,21/12",Jonas Bergli Almås,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Vemund Hus,,Marius Claudey,"21/16,21/19",Vemund Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Marius Claudey,,Vetle Vinnes Bråten,"12/21,22/20,24/22",Marius Claudey,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Vemund Hus,,Vetle Vinnes Bråten,"21/12,21/13",Vemund Hus,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Bertine Ullvang Tørresdal,,Cathrine Eimstad,"21/17,22/20",Bertine Ullvang Tørresdal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Hanne Kolstø,,Tiril Lykke Solvik,"21/6,21/4",Hanne Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Hanne Kolstø,,Bertine Ullvang Tørresdal,"21/8,22/20",Hanne Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Cathrine Eimstad,,Tiril Lykke Solvik,"21/15,21/4",Cathrine Eimstad,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Bertine Ullvang Tørresdal,,Tiril Lykke Solvik,"21/8,21/13",Bertine Ullvang Tørresdal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,,Hanne Kolstø,,Cathrine Eimstad,"21/17,21/11",Hanne Kolstø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Halvard Nitter,"21/10,21/13",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Kornelius Mandelid Ringen,"21/10,21/2",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Halvard Nitter,,Jonas Onarheim Vea,"21/19,17/21,22/20",Halvard Nitter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Sander Pedersen,"21/9,21/9",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Joakim Nordvik,"21/13,21/9",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Sander Pedersen,,Joakim Nordvik,"21/16,21/8",Sander Pedersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Kornelius Mandelid Ringen,,Lars Lillestøl Duinker,"21/13,21/16",Kornelius Mandelid Ringen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jonas Onarheim Vea,,Kim Kristoffersen,"21/11,21/13",Jonas Onarheim Vea,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Frikk Midtsæter,,Martin Moen,"21/15,21/12",Frikk Midtsæter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jonas Onarheim Vea,,Frikk Midtsæter,"21/12,21/12",Jonas Onarheim Vea,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Kim Kristoffersen,,Martin Moen,"21/12,21/14",Kim Kristoffersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jonas Onarheim Vea,,Martin Moen,"21/7,21/2",Jonas Onarheim Vea,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Kim Kristoffersen,,Frikk Midtsæter,"21/17,13/21,21/19",Kim Kristoffersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Halvard Nitter,,Marius Thorbjørnsen,"21/7,21/2",Halvard Nitter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Halvard Nitter,,Ole Dahl Birkeland,"21/8,21/8",Halvard Nitter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Ole Dahl Birkeland,,Marius Thorbjørnsen,"21/16,21/14",Ole Dahl Birkeland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Halvard Nitter,"21/10,21/13",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Kornelius Mandelid Ringen,"21/10,21/2",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Halvard Nitter,,Jonas Onarheim Vea,"21/19,17/21,22/20",Halvard Nitter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Sander Pedersen,"21/9,21/9",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Mathias Kvarven,,Joakim Nordvik,"21/13,21/9",Mathias Kvarven,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Sander Pedersen,,Joakim Nordvik,"21/16,21/8",Sander Pedersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Kornelius Mandelid Ringen,,Lars Lillestøl Duinker,"21/13,21/16",Kornelius Mandelid Ringen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jonas Onarheim Vea,,Kim Kristoffersen,"21/11,21/13",Jonas Onarheim Vea,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Frikk Midtsæter,,Martin Moen,"21/15,21/12",Frikk Midtsæter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jonas Onarheim Vea,,Frikk Midtsæter,"21/12,21/12",Jonas Onarheim Vea,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Kim Kristoffersen,,Martin Moen,"21/12,21/14",Kim Kristoffersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jonas Onarheim Vea,,Martin Moen,"21/7,21/2",Jonas Onarheim Vea,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Kim Kristoffersen,,Frikk Midtsæter,"21/17,13/21,21/19",Kim Kristoffersen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Halvard Nitter,,Marius Thorbjørnsen,"21/7,21/2",Halvard Nitter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Halvard Nitter,,Ole Dahl Birkeland,"21/8,21/8",Halvard Nitter,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Ole Dahl Birkeland,,Marius Thorbjørnsen,"21/16,21/14",Ole Dahl Birkeland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Vilde Langhelle,,Live Rasmussen,"21/10,21/8",Vilde Langhelle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Hilde Hammer Stanghelle,,Jona Ingrid Heggebø,"21/19,21/14",Hilde Hammer Stanghelle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Vilde Langhelle,,Jona Ingrid Heggebø,"21/8,21/2",Vilde Langhelle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Anna Holmen Liautaud,,Hilde Hammer Stanghelle,"23/21,21/17",Anna Holmen Liautaud,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Vilde Langhelle,,Anna Holmen Liautaud,"21/9,21/10",Vilde Langhelle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Jona Ingrid Heggebø,,Live Rasmussen,"21/14,21/8",Jona Ingrid Heggebø,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Hilde Hammer Stanghelle,,Live Rasmussen,"21/19,21/8",Hilde Hammer Stanghelle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Anna Holmen Liautaud,,Jona Ingrid Heggebø,"21/14,21/6",Anna Holmen Liautaud,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Vilde Langhelle,,Hilde Hammer Stanghelle,"21/8,21/10",Vilde Langhelle,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,,Anna Holmen Liautaud,,Live Rasmussen,"21/14,25/23",Anna Holmen Liautaud,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Hanne Kolstø,Jona Ingrid Heggebø,Bertine Ullvang Tørresdal,Anna Holmen Liautaud,"21/15,21/16",Hanne Kolstø,Jona Ingrid Heggebø
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Adrian Storhaug,"21/5,15/21,21/10",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Jonas Vik,,Torbjørn Eimstad,"23/21,21/19",Jonas Vik,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Adrian Storhaug,,Jonas Vik,"21/13,21/14",Adrian Storhaug,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Adrian Storhaug,,Torbjørn Eimstad,"21/4,21/17",Adrian Storhaug,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Benjamin Teigland,,Sveinung Myhre,"21/14,19/21,21/12",Benjamin Teigland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Aleksander Tsynkalovskiy,"221/11,21/11",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Aleksander Tsynkalovskiy,,Sveinung Myhre,"21/9,21/13",Aleksander Tsynkalovskiy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Benjamin Teigland,"21/6,21/9",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Sveinung Myhre,"21/11,21/2",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Aleksander Tsynkalovskiy,,Benjamin Teigland,"21/12,22/20",Aleksander Tsynkalovskiy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Adrian Storhaug,"21/5,15/21,21/10",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Jonas Vik,,Torbjørn Eimstad,"23/21,21/19",Jonas Vik,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Adrian Storhaug,,Jonas Vik,"21/13,21/14",Adrian Storhaug,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Adrian Storhaug,,Torbjørn Eimstad,"21/4,21/17",Adrian Storhaug,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Benjamin Teigland,,Sveinung Myhre,"21/14,19/21,21/12",Benjamin Teigland,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Aleksander Tsynkalovskiy,"221/11,21/11",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Aleksander Tsynkalovskiy,,Sveinung Myhre,"21/9,21/13",Aleksander Tsynkalovskiy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Benjamin Teigland,"21/6,21/9",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Thomas Algrøy,,Sveinung Myhre,"21/11,21/2",Thomas Algrøy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Aleksander Tsynkalovskiy,,Benjamin Teigland,"21/12,22/20",Aleksander Tsynkalovskiy,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Elise  Holmedal,,Mariann Andreassen,"21/18,21/14",Elise  Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Mariann Andreassen,,Dina Høl Bugge,"21/19,12/21,21/18",Mariann Andreassen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Dobromila Franaszczuk,,Katja Botcharova Ellingsen,"11/21,21/14,21/19",Dobromila Franaszczuk,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Elise  Holmedal,,Katja Botcharova Ellingsen,"21/5,21/7",Elise  Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Elise  Holmedal,,Dobromila Franaszczuk,"21/14,21/6",Elise  Holmedal,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Mariann Andreassen,,Akija Anton Reginold,"21/9,21/2",Mariann Andreassen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Mariann Andreassen,,Sanne Miodini Johannessen,"17/21,21/16,21/9",Mariann Andreassen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Sanne Miodini Johannessen,,Akija Anton Reginold,"21/7,21/11",Sanne Miodini Johannessen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Dina Høl Bugge,,Tuva Vinnes Bråten,"21/8,21/5",Dina Høl Bugge,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Tuva Vinnes Bråten,,Julie Marie Olsen,"21/14,21/13",Tuva Vinnes Bråten,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,,Dina Høl Bugge,,Julie Marie Olsen,"21/8,21/6",Dina Høl Bugge,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Jonas Bergli Almås,Jonah Rajkumar,Isak Tangen,Sebastian Pedersen,"21/15,21/11",Jonas Bergli Almås,Jonah Rajkumar
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Vemund Hus,Brynjar Hus,Vetle Vinnes Bråten,Brede Stenfeldt,"21/17,21/11",Vemund Hus,Brynjar Hus
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Jonas Bergli Almås,Jonah Rajkumar,Vetle Vinnes Bråten,Brede Stenfeldt,"21/19,21/15",Jonas Bergli Almås,Jonah Rajkumar
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Jonas Bergli Almås,Jonah Rajkumar,Vemund Hus,Brynjar Hus,"24/22,22/20",Jonas Bergli Almås,Jonah Rajkumar
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Isak Tangen,Sebastian Pedersen,Kim Kristoffersen,Sander Pedersen,"21/14,21/10",Isak Tangen,Sebastian Pedersen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Ole Dahl Birkeland,Vegard Vinnes Bjørklund,Kim Kristoffersen,Sander Pedersen,"21/13,21/11",Ole Dahl Birkeland,Vegard Vinnes Bjørklund
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Isak Tangen,Sebastian Pedersen,Ole Dahl Birkeland,Vegard Vinnes Bjørklund,"10/21,21/17,22/20",Isak Tangen,Sebastian Pedersen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Katja Botcharova Ellingsen,Akija Anton Reginold,Cathrine Eimstad,Julie Marie Olsen,"21/15,21/14",Katja Botcharova Ellingsen,Akija Anton Reginold
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Dina Høl Bugge,Dobromila Franaszczuk,Yvonne Li,Sanne Miodini Johannessen,"21/11,21/12",Dina Høl Bugge,Dobromila Franaszczuk
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Yvonne Li,Sanne Miodini Johannessen,Katja Botcharova Ellingsen,Akija Anton Reginold,"14/21,24/22,21/14",Yvonne Li,Sanne Miodini Johannessen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Dina Høl Bugge,Dobromila Franaszczuk,Cathrine Eimstad,Julie Marie Olsen,"21/12,21/14",Dina Høl Bugge,Dobromila Franaszczuk
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Dina Høl Bugge,Dobromila Franaszczuk,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/11,21/11",Dina Høl Bugge,Dobromila Franaszczuk
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Yvonne Li,Sanne Miodini Johannessen,Cathrine Eimstad,Julie Marie Olsen,"18/21,21/15,21/16",Yvonne Li,Sanne Miodini Johannessen
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Isak Tangen,,David Bull Haugsøen,"21/11,11/21,21/11",Isak Tangen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,David Bull Haugsøen,,Hilde Vik Dale,"21/5,21/9",David Bull Haugsøen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Isak Tangen,,Vegard Vinnes Bjørklund,"21/17,21/18",Isak Tangen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Isak Tangen,,Sebastian Pedersen,"21/7,21/10",Isak Tangen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Vegard Vinnes Bjørklund,,Sebastian Pedersen,"21/16,9/21,21/15",Vegard Vinnes Bjørklund,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Isak Tangen,,David Bull Haugsøen,"21/11,11/21,21/11",Isak Tangen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,David Bull Haugsøen,,Hilde Vik Dale,"21/5,21/9",David Bull Haugsøen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Isak Tangen,,Vegard Vinnes Bjørklund,"21/17,21/18",Isak Tangen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Isak Tangen,,Sebastian Pedersen,"21/7,21/10",Isak Tangen,
-2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,,Vegard Vinnes Bjørklund,,Sebastian Pedersen,"21/16,9/21,21/15",Vegard Vinnes Bjørklund,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Simen Lexander,,Mats Lervåg,"21/15,21/12",Simen Lexander,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Joakim Nilsson,,Keveen Kumar Balasingam,"21/17,15/21,21/18",Joakim Nilsson,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Mats Lervåg,,Joakim Nilsson,"21/13,21/14",Mats Lervåg,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Mats Lervåg,,Keveen Kumar Balasingam,"26/28,23/21,23/21",Mats Lervåg,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Rubab Ishmam,,Petter Karlsen Wåltorp,"21/16,21/13",Rubab Ishmam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Petter Karlsen Wåltorp,,Nicolai Vølker Kønskov Hansen,"21/18,21/16",Petter Karlsen Wåltorp,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Simen Lexander,,Rubab Ishmam,"21/17,21/16",Simen Lexander,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Simen Lexander,,Nicolai Vølker Kønskov Hansen,"24/22,21/12",Simen Lexander,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Simen Lexander,,Petter Karlsen Wåltorp,"21/17,21/18",Simen Lexander,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herresingle,,Rubab Ishmam,,Nicolai Vølker Kønskov Hansen,"21/16,22/20",Rubab Ishmam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herredouble,Helge Økland,Simen Lexander,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,"21/17,21/12",Helge Økland,Simen Lexander
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herredouble,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"18/21,21/15,21/16",Joakim Nilsson,Nicolai Vølker Kønskov Hansen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herredouble,Rubab Ishmam,Keveen Kumar Balasingam,Helge Økland,Simen Lexander,"21/19,24/26,21/16",Rubab Ishmam,Keveen Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herredouble,Rubab Ishmam,Keveen Kumar Balasingam,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"21/14,21/15",Rubab Ishmam,Keveen Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herredouble,Rubab Ishmam,Keveen Kumar Balasingam,Joakim Nilsson,Nicolai Vølker Kønskov Hansen,"21/9,21/16",Rubab Ishmam,Keveen Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Herredouble,Helge Økland,Simen Lexander,Petter Karlsen Wåltorp,Haydar-Ali Newrosi,"21/10,21/12",Helge Økland,Simen Lexander
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Damedouble,Marit Louise Ulvang,Vilde Morvik Ekerhovd,Jenny Chen,Anne Marthe Svensen,"19/21,21/16,21/16",Marit Louise Ulvang,Vilde Morvik Ekerhovd
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Mixeddouble,Jenny Chen,Kumaran Dhakshan Moorthy,Vilde Morvik Ekerhovd,Keveen Kumar Balasingam,"16/21,21/17,21/15",Jenny Chen,Kumaran Dhakshan Moorthy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Mixeddouble,Vilde Morvik Ekerhovd,Keveen Kumar Balasingam,Marit Louise Ulvang,Dennis Andersen Moe,"21/15,21/13",Vilde Morvik Ekerhovd,Keveen Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN A,Mixeddouble,Jenny Chen,Kumaran Dhakshan Moorthy,Marit Louise Ulvang,Dennis Andersen Moe,"22/20,21/10",Jenny Chen,Kumaran Dhakshan Moorthy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Dennis Andersen Moe,,Jørgen Kristiansen,"21/18,21/9",Dennis Andersen Moe,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Dennis Andersen Moe,,Vinoth Kumar Balasingam,"21/18,12/21,21/19",Dennis Andersen Moe,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Dennis Andersen Moe,,Kim Martin Toledo Sviland,"21/14,21/9",Dennis Andersen Moe,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Vinoth Kumar Balasingam,,Kim Martin Toledo Sviland,"21/8,22/20",Vinoth Kumar Balasingam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Haydar-Ali Newrosi,,Jørgen Kristiansen,"23/21,21/19",Haydar-Ali Newrosi,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Erlend Engesæter Bognøy,,Aleksej Roman Kustrin Iversen,"17/21,21/7,21/14",Erlend Engesæter Bognøy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Aleksej Roman Kustrin Iversen,,Haydar-Ali Newrosi,"22/20,12/21,21/17",Aleksej Roman Kustrin Iversen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Erlend Engesæter Bognøy,,Haydar-Ali Newrosi,"15/21,21/9,21/13",Erlend Engesæter Bognøy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Jørgen Kristiansen,,Aleksej Roman Kustrin Iversen,"21/16,21/11",Jørgen Kristiansen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herresingle,,Jørgen Kristiansen,,Erlend Engesæter Bognøy,"21/15,21/12",Jørgen Kristiansen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herredouble,Dennis Andersen Moe,Erlend Engesæter Bognøy,Kim Martin Toledo Sviland,Oleg Tsynkalovskiy,"21/12,21/15",Dennis Andersen Moe,Erlend Engesæter Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herredouble,Nelson Thambiraj,Kumaran Dhakshan Moorthy,Dennis Andersen Moe,Erlend Engesæter Bognøy,"21/9,21/13",Nelson Thambiraj,Kumaran Dhakshan Moorthy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herredouble,Bharath Kumar Balasingam,Vinoth Kumar Balasingam,Kim Martin Toledo Sviland,Oleg Tsynkalovskiy,"21/12,21/11",Bharath Kumar Balasingam,Vinoth Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herredouble,Nelson Thambiraj,Kumaran Dhakshan Moorthy,Kim Martin Toledo Sviland,Oleg Tsynkalovskiy,"21/17,21/13",Nelson Thambiraj,Kumaran Dhakshan Moorthy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herredouble,Dennis Andersen Moe,Erlend Engesæter Bognøy,Bharath Kumar Balasingam,Vinoth Kumar Balasingam,"21/18,21/14",Dennis Andersen Moe,Erlend Engesæter Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN B,Herredouble,Nelson Thambiraj,Kumaran Dhakshan Moorthy,Bharath Kumar Balasingam,Vinoth Kumar Balasingam,"28/30,21/13,21/7",Nelson Thambiraj,Kumaran Dhakshan Moorthy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Bharath Kumar Balasingam,,Øyvind Fjeld,"21/15,21/10",Bharath Kumar Balasingam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Øyvind Fjeld,,Rune Birkeland,"21/18,22/24,21/16",Øyvind Fjeld,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Bharath Kumar Balasingam,,Jan Erik Solvik,"21/6,21/10",Bharath Kumar Balasingam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Rune Birkeland,,Davis Valters Immurs,"18/21,21/19,21/11",Rune Birkeland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Bharath Kumar Balasingam,,Khai Duong,"21/8,21/8",Bharath Kumar Balasingam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Bharath Kumar Balasingam,,Øystein Telle,"21/7,21/10",Bharath Kumar Balasingam,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Øystein Telle,,Khai Duong,"21/0,21/0",Øystein Telle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Jan Erik Solvik,,Oleg Tsynkalovskiy,"21/14,20/22,21/12",Jan Erik Solvik,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Oleg Tsynkalovskiy,,Anders Eimstad,"21/17,21/17",Oleg Tsynkalovskiy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Jan Erik Solvik,,Anders Eimstad,"21/9,21/10",Jan Erik Solvik,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Davis Valters Immurs,,Frode Kristoffersen,"21/10,21/15",Davis Valters Immurs,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herresingle,,Rune Birkeland,,Robert Eriksen,"22/20,21/17",Rune Birkeland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damesingle,,Sofie Vorren,,Randi Rolvsjord,"21/13,21/14",Sofie Vorren,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damesingle,,Synnøve Solheim,,Randi Rolvsjord,"19/21,21/16,21/19",Synnøve Solheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damesingle,,Synnøve Solheim,,Sofie Vorren,"21/16,21/18",Synnøve Solheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,Khai Duong,Iver Rolvsjord,Rune Birkeland,Jan Erik Solvik,"21/11,21/13",Khai Duong,Iver Rolvsjord
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,George Rajkumar,Dillip Kumar Balasingam,Tore A. Arntzen,Jørn Grane,"21/16,21/16",George Rajkumar,Dillip Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,Khai Duong,Iver Rolvsjord,George Rajkumar,Dillip Kumar Balasingam,"21/10,18/21,21/14",Khai Duong,Iver Rolvsjord
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,Khai Duong,Iver Rolvsjord,Tore A. Arntzen,Jørn Grane,"21/11,20/22,21/8",Khai Duong,Iver Rolvsjord
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,Rune Birkeland,Jan Erik Solvik,Anders Eimstad,Frode Kristoffersen,"19/21,21/18,21/15",Rune Birkeland,Jan Erik Solvik
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,Rune Birkeland,Jan Erik Solvik,Roy Nilsen,Rolf Almås,"21/11,21/8",Rune Birkeland,Jan Erik Solvik
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Herredouble,Anders Eimstad,Frode Kristoffersen,Roy Nilsen,Rolf Almås,"21/17,21/18",Anders Eimstad,Frode Kristoffersen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Victoria Økland,Jenny Rajkumar,Karina Sjoukje Jelsma,Randi Rolvsjord,"21/10,21/14",Victoria Økland,Jenny Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Karina Sjoukje Jelsma,Randi Rolvsjord,Elisabeth Dagsland,Synnøve Hjortland Carlsen,"21/6,21/8",Karina Sjoukje Jelsma,Randi Rolvsjord
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Karina Sjoukje Jelsma,Randi Rolvsjord,Malin Landro Olsen,Silje Lindseth,"21/10,21/16",Karina Sjoukje Jelsma,Randi Rolvsjord
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Malin Landro Olsen,Silje Lindseth,Elisabeth Dagsland,Synnøve Hjortland Carlsen,"21/13,21/10",Malin Landro Olsen,Silje Lindseth
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Victoria Økland,Jenny Rajkumar,Elise  Holmedal,Mariann Andreassen,"21/10,21/11",Victoria Økland,Jenny Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Victoria Økland,Jenny Rajkumar,Synnøve Solheim,Sofie Vorren,"21/8,21/12",Victoria Økland,Jenny Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Damedouble,Elise  Holmedal,Mariann Andreassen,Synnøve Solheim,Sofie Vorren,"9/21,21/17,21/17",Elise  Holmedal,Mariann Andreassen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Mixeddouble,Anders Eimstad,Karina Sjoukje Jelsma,Frode Kristoffersen,Randi Rolvsjord,"21/9,23/21",Anders Eimstad,Karina Sjoukje Jelsma
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Mixeddouble,Tone Rasmussen Økland,Arild Rasmussen,Frode Kristoffersen,Randi Rolvsjord,"21/8,21/17",Tone Rasmussen Økland,Arild Rasmussen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN C,Mixeddouble,Anders Eimstad,Karina Sjoukje Jelsma,Tone Rasmussen Økland,Arild Rasmussen,"21/14,21/14",Anders Eimstad,Karina Sjoukje Jelsma
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Tore A. Arntzen,,Magnus Seilen,"18/21,21/18,23/21",Tore A. Arntzen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Tore A. Arntzen,,Morten Sellevold,"20/22,21/14,21/14",Tore A. Arntzen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Magnus Seilen,,Atle Dahle,"21/18,21/8",Magnus Seilen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Magnus Seilen,,Geir Digernes,"21/13,21/9",Magnus Seilen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Ole Andreas Dale,,Arne Ringen,"21/12,21/14",Ole Andreas Dale,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Tore A. Arntzen,,Arne Ringen,"21/4,21/1",Tore A. Arntzen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Tore A. Arntzen,,Ole Andreas Dale,"21/16,21/5",Tore A. Arntzen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Torbjørn Brekke,,Tom Kristoffersen,"21/10,21/10",Torbjørn Brekke,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Morten Sellevold,,Tom Kristoffersen,"21/8,21/4",Morten Sellevold,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Morten Sellevold,,Torbjørn Brekke,"21/12,21/6",Morten Sellevold,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Magnus Seilen,,Roald Grannes,"21/19,21/15",Magnus Seilen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Magnus Seilen,,Ole Femsteinevik,"21/13,21/15",Magnus Seilen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Roald Grannes,,Ole Femsteinevik,"21/10,21/8",Roald Grannes,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Geir Digernes,,Rolf Almås,"21/12,21/11",Geir Digernes,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Rolf Almås,,Rune Bratland,"21/13,17/21,21/19",Rolf Almås,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Rune Bratland,,Geir Digernes,"21/18,18/21,21/16",Rune Bratland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Atle Dahle,,Vidar Korsnes,"21/17,21/16",Atle Dahle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Vidar Korsnes,,Sverre Svensen,"21/13,21/18",Vidar Korsnes,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herresingle,,Atle Dahle,,Sverre Svensen,"14/21,21/15,21/19",Atle Dahle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Damesingle,,Merethe Lunde,,Therese Kristoffersen,"21/13,21/16",Merethe Lunde,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Damesingle,,Therese Kristoffersen,,Christina  Andreassen,"21/11,21/19",Therese Kristoffersen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Damesingle,,Ingeborg Halvorsen,,Christina  Andreassen,"21/17,21/14",Ingeborg Halvorsen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Damesingle,,Therese Kristoffersen,,Ingeborg Halvorsen,"17/21,21/13,21/19",Therese Kristoffersen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Damesingle,,Merethe Lunde,,Trude Tveit,"21/12,21/11",Merethe Lunde,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Morten Sellevold,Robert Eriksen,Atle Dahle,Magnus Seilen,"21/13,21/13",Morten Sellevold,Robert Eriksen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Atle Dahle,Magnus Seilen,Vidar Korsnes,Ole Femsteinevik,"14/21,21/17,21/15",Atle Dahle,Magnus Seilen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Roald Grannes,Sverre Svensen,Rune Bråten,Thomas Stenfeldt,"21/13,21/15",Roald Grannes,Sverre Svensen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Atle Dahle,Magnus Seilen,Rune Bråten,Thomas Stenfeldt,"21/8,21/10",Atle Dahle,Magnus Seilen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Roald Grannes,Sverre Svensen,Vidar Korsnes,Ole Femsteinevik,"15/21,21/15,21/14",Roald Grannes,Sverre Svensen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Atle Dahle,Magnus Seilen,Roald Grannes,Sverre Svensen,"15/21,21/13,21/13",Atle Dahle,Magnus Seilen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Vidar Korsnes,Ole Femsteinevik,Rune Bråten,Thomas Stenfeldt,"21/11,21/17",Vidar Korsnes,Ole Femsteinevik
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Morten Sellevold,Robert Eriksen,Torbjørn Brekke,Geir Digernes,"18/21,21/8,21/11",Morten Sellevold,Robert Eriksen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Torbjørn Brekke,Geir Digernes,Tom Kristoffersen,Torbjørn Eimstad,"21/17,21/9",Torbjørn Brekke,Geir Digernes
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Morten Sellevold,Robert Eriksen,Kristoffer Eliassen,Meinte Jelsma,"21/15,21/11",Morten Sellevold,Robert Eriksen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Morten Sellevold,Robert Eriksen,Tom Kristoffersen,Torbjørn Eimstad,"21/16,21/8",Morten Sellevold,Robert Eriksen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Kristoffer Eliassen,Meinte Jelsma,Torbjørn Brekke,Geir Digernes,"21/14,21/15",Kristoffer Eliassen,Meinte Jelsma
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Herredouble,Kristoffer Eliassen,Meinte Jelsma,Tom Kristoffersen,Torbjørn Eimstad,"21/13,21/8",Kristoffer Eliassen,Meinte Jelsma
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Damedouble,Therese Kristoffersen,Guri Brunstad,Christina  Andreassen,Trude Tveit,"14/21,21/18,21/17",Therese Kristoffersen,Guri Brunstad
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Mixeddouble,Synnøve Hjortland Carlsen,George Rajkumar,Meinte Jelsma,Therese Kristoffersen,"21/15,21/13",Synnøve Hjortland Carlsen,George Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Mixeddouble,Elisabeth Dagsland,Jørn Inge Bognøy,Ingeborg Halvorsen,Sverre Svensen,"18/21,21/13,21/18",Elisabeth Dagsland,Jørn Inge Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Mixeddouble,Synnøve Hjortland Carlsen,George Rajkumar,Ingeborg Halvorsen,Sverre Svensen,"21/7,21/8",Synnøve Hjortland Carlsen,George Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Mixeddouble,Elisabeth Dagsland,Jørn Inge Bognøy,Meinte Jelsma,Therese Kristoffersen,"21/17,21/10",Elisabeth Dagsland,Jørn Inge Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Mixeddouble,Synnøve Hjortland Carlsen,George Rajkumar,Elisabeth Dagsland,Jørn Inge Bognøy,"21/11,21/16",Synnøve Hjortland Carlsen,George Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,SEN D,Mixeddouble,Meinte Jelsma,Therese Kristoffersen,Ingeborg Halvorsen,Sverre Svensen,"23/21,10/21,21/17",Meinte Jelsma,Therese Kristoffersen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herresingle,,Olav Dalan Eidissen,,Anton Onarheim Vea,"21/7,21/5",Olav Dalan Eidissen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herresingle,,Lucas Kvarven,,Anton Onarheim Vea,"21/13,12/212,21/18",Lucas Kvarven,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herresingle,,Linnea Holmedal,,Anton Onarheim Vea,"21/9,21/8",Linnea Holmedal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herresingle,,Olav Dalan Eidissen,,Lucas Kvarven,"21/13,21/7",Olav Dalan Eidissen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herresingle,,Linnea Holmedal,,Lucas Kvarven,"21/10,21/13",Linnea Holmedal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herresingle,,Olav Dalan Eidissen,,Linnea Holmedal,"21/15,18/21,22/20",Olav Dalan Eidissen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 A,Herredouble,Camilla Skrunes Sundt,Michael Tjessheim,Akarija Anton Reginold,Arathija Anton Reginold,"19/21,21/18,27/25",Camilla Skrunes Sundt,Michael Tjessheim
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Akarija Anton Reginold,,Camilla Skrunes Sundt,"21/7,21/14",Akarija Anton Reginold,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Herman Kolstø,,Arathija Anton Reginold,"21/13,21/15",Herman Kolstø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Arathija Anton Reginold,,Camilla Skrunes Sundt,"21/12,21/17",Arathija Anton Reginold,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Michael Tjessheim,,Herman Kolstø,"21/13,21/10",Michael Tjessheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Akarija Anton Reginold,,Herman Kolstø,"21/19,21/16",Akarija Anton Reginold,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Michael Tjessheim,,Arathija Anton Reginold,"21/7,21/6",Michael Tjessheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Michael Tjessheim,,Akarija Anton Reginold,"23/21,21/13",Michael Tjessheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Herman Kolstø,,Camilla Skrunes Sundt,"21/7,21/17",Herman Kolstø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Akarija Anton Reginold,,Arathija Anton Reginold,"21/19,21/14",Akarija Anton Reginold,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U9 B,Herresingle,,Michael Tjessheim,,Camilla Skrunes Sundt,"21/13,21/16",Michael Tjessheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Brynjar Hus,,Herman Dalan  Eidissen,"21/12,21/13",Brynjar Hus,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Herman Dalan  Eidissen,,Lukas Skrunes Sundt,"22/20,10/21,21/15",Herman Dalan  Eidissen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Casper Tjessheim,,Thomas Claudey,"21/10,19/21,21/11",Casper Tjessheim,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Brynjar Hus,,Thomas Claudey,"21/4,21/4",Brynjar Hus,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Brynjar Hus,,Casper Tjessheim,"21/11,21/4",Brynjar Hus,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Herman Dalan  Eidissen,,Eirik Nitter,"21/10,21/1",Herman Dalan  Eidissen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Herman Dalan  Eidissen,,Mathushen Anton Ruseyn,"21/5,21/12",Herman Dalan  Eidissen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Mathushen Anton Ruseyn,,Eirik Nitter,"15/21,21/16,21/14",Mathushen Anton Ruseyn,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Amalie Lexander,,Niklas Rasmussen,"21/5,21/7",Amalie Lexander,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Lukas Skrunes Sundt,,Amalie Lexander,"21/5,21/17",Lukas Skrunes Sundt,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herresingle,,Lukas Skrunes Sundt,,Niklas Rasmussen,"21/12,21/4",Lukas Skrunes Sundt,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herredouble,Mathushen Anton Ruseyn,Niklas Rasmussen,Linnea Holmedal,Amalie Lexander,"25/23,15/21,22/20",Mathushen Anton Ruseyn,Niklas Rasmussen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herredouble,Lukas Skrunes Sundt,Casper Tjessheim,Mathushen Anton Ruseyn,Niklas Rasmussen,"21/11,21/11",Lukas Skrunes Sundt,Casper Tjessheim
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U11 A,Herredouble,Lukas Skrunes Sundt,Casper Tjessheim,Linnea Holmedal,Amalie Lexander,"21/12,21/15",Lukas Skrunes Sundt,Casper Tjessheim
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,Jonas Bergli Almås,,Vemund Hus,"21/18,21/14",Jonas Bergli Almås,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,David Nesje,,Brede Stenfeldt,"21/16,21/12",David Nesje,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,Jonas Bergli Almås,,Brede Stenfeldt,"21/12,21/8",Jonas Bergli Almås,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,Jonas Bergli Almås,,David Nesje,"18/21,22/20,21/12",Jonas Bergli Almås,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,Vemund Hus,,Marius Claudey,"21/16,21/19",Vemund Hus,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,Marius Claudey,,Vetle Vinnes Bråten,"12/21,22/20,24/22",Marius Claudey,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Herresingle,,Vemund Hus,,Vetle Vinnes Bråten,"21/12,21/13",Vemund Hus,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Damesingle,,Bertine Ullvang Tørresdal,,Cathrine Eimstad,"21/17,22/20",Bertine Ullvang Tørresdal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Damesingle,,Hanne Kolstø,,Tiril Lykke Solvik,"21/6,21/4",Hanne Kolstø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Damesingle,,Hanne Kolstø,,Bertine Ullvang Tørresdal,"21/8,22/20",Hanne Kolstø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Damesingle,,Cathrine Eimstad,,Tiril Lykke Solvik,"21/15,21/4",Cathrine Eimstad,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Damesingle,,Bertine Ullvang Tørresdal,,Tiril Lykke Solvik,"21/8,21/13",Bertine Ullvang Tørresdal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Damesingle,,Hanne Kolstø,,Cathrine Eimstad,"21/17,21/11",Hanne Kolstø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Lukas Skrunes Sundt,Hanne Kolstø,Bertine Ullvang Tørresdal,Jonas Bergli Almås,"21/19,21/16",Lukas Skrunes Sundt,Hanne Kolstø
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Lukas Skrunes Sundt,Hanne Kolstø,Live Rasmussen,Vemund Hus,"21/6,21/11",Lukas Skrunes Sundt,Hanne Kolstø
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Lukas Skrunes Sundt,Hanne Kolstø,Vetle Vinnes Bråten,Cathrine Eimstad,"21/5,20/22,21/13",Lukas Skrunes Sundt,Hanne Kolstø
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Vetle Vinnes Bråten,Cathrine Eimstad,Live Rasmussen,Vemund Hus,"21/19,21/16",Vetle Vinnes Bråten,Cathrine Eimstad
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Bertine Ullvang Tørresdal,Jonas Bergli Almås,Brede Stenfeldt,Amalie Lexander,"21/19,21/11",Bertine Ullvang Tørresdal,Jonas Bergli Almås
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Linnea Holmedal,Brynjar Hus,Casper Tjessheim,Jona Ingrid Heggebø,"21/8,21/15",Linnea Holmedal,Brynjar Hus
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Linnea Holmedal,Brynjar Hus,Brede Stenfeldt,Amalie Lexander,"18/21,21/17,21/13",Linnea Holmedal,Brynjar Hus
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Bertine Ullvang Tørresdal,Jonas Bergli Almås,Casper Tjessheim,Jona Ingrid Heggebø,"21/16,21/7",Bertine Ullvang Tørresdal,Jonas Bergli Almås
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Brede Stenfeldt,Amalie Lexander,Casper Tjessheim,Jona Ingrid Heggebø,"21/15,21/13",Brede Stenfeldt,Amalie Lexander
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 A,Mixeddouble,Bertine Ullvang Tørresdal,Jonas Bergli Almås,Linnea Holmedal,Brynjar Hus,"21/18,21/17",Bertine Ullvang Tørresdal,Jonas Bergli Almås
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Mathias Kvarven,,Halvard Nitter,"21/10,21/13",Mathias Kvarven,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Mathias Kvarven,,Kornelius Mandelid Ringen,"21/10,21/2",Mathias Kvarven,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Halvard Nitter,,Jonas Onarheim Vea,"21/19,17/21,22/20",Halvard Nitter,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Mathias Kvarven,,Sander Pedersen,"21/9,21/9",Mathias Kvarven,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Mathias Kvarven,,Joakim Nordvik,"21/13,21/9",Mathias Kvarven,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Sander Pedersen,,Joakim Nordvik,"21/16,21/8",Sander Pedersen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Kornelius Mandelid Ringen,,Lars Lillestøl Duinker,"21/13,21/16",Kornelius Mandelid Ringen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Jonas Onarheim Vea,,Kim Kristoffersen,"21/11,21/13",Jonas Onarheim Vea,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Frikk Midtsæter,,Martin Moen,"21/15,21/12",Frikk Midtsæter,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Jonas Onarheim Vea,,Frikk Midtsæter,"21/12,21/12",Jonas Onarheim Vea,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Kim Kristoffersen,,Martin Moen,"21/12,21/14",Kim Kristoffersen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Jonas Onarheim Vea,,Martin Moen,"21/7,21/2",Jonas Onarheim Vea,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Kim Kristoffersen,,Frikk Midtsæter,"21/17,13/21,21/19",Kim Kristoffersen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Halvard Nitter,,Marius Thorbjørnsen,"21/7,21/2",Halvard Nitter,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Halvard Nitter,,Ole Dahl Birkeland,"21/8,21/8",Halvard Nitter,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Herresingle,,Ole Dahl Birkeland,,Marius Thorbjørnsen,"21/16,21/14",Ole Dahl Birkeland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Vilde Langhelle,,Live Rasmussen,"21/10,21/8",Vilde Langhelle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Hilde Hammer Stanghelle,,Jona Ingrid Heggebø,"21/19,21/14",Hilde Hammer Stanghelle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Vilde Langhelle,,Jona Ingrid Heggebø,"21/8,21/2",Vilde Langhelle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Anna Holmen Liautaud,,Hilde Hammer Stanghelle,"23/21,21/17",Anna Holmen Liautaud,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Vilde Langhelle,,Anna Holmen Liautaud,"21/9,21/10",Vilde Langhelle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Jona Ingrid Heggebø,,Live Rasmussen,"21/14,21/8",Jona Ingrid Heggebø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Hilde Hammer Stanghelle,,Live Rasmussen,"21/19,21/8",Hilde Hammer Stanghelle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Anna Holmen Liautaud,,Jona Ingrid Heggebø,"21/14,21/6",Anna Holmen Liautaud,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Vilde Langhelle,,Hilde Hammer Stanghelle,"21/8,21/10",Vilde Langhelle,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damesingle,,Anna Holmen Liautaud,,Live Rasmussen,"21/14,25/23",Anna Holmen Liautaud,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U13 B,Damedouble,Hanne Kolstø,Jona Ingrid Heggebø,Bertine Ullvang Tørresdal,Anna Holmen Liautaud,"21/15,21/16",Hanne Kolstø,Jona Ingrid Heggebø
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Thomas Algrøy,,Adrian Storhaug,"21/5,15/21,21/10",Thomas Algrøy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Jonas Vik,,Torbjørn Eimstad,"23/21,21/19",Jonas Vik,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Adrian Storhaug,,Jonas Vik,"21/13,21/14",Adrian Storhaug,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Adrian Storhaug,,Torbjørn Eimstad,"21/4,21/17",Adrian Storhaug,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Benjamin Teigland,,Sveinung Myhre,"21/14,19/21,21/12",Benjamin Teigland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Thomas Algrøy,,Aleksander Tsynkalovskiy,"221/11,21/11",Thomas Algrøy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Aleksander Tsynkalovskiy,,Sveinung Myhre,"21/9,21/13",Aleksander Tsynkalovskiy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Thomas Algrøy,,Benjamin Teigland,"21/6,21/9",Thomas Algrøy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Thomas Algrøy,,Sveinung Myhre,"21/11,21/2",Thomas Algrøy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herresingle,,Aleksander Tsynkalovskiy,,Benjamin Teigland,"21/12,22/20",Aleksander Tsynkalovskiy,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Elise  Holmedal,,Mariann Andreassen,"21/18,21/14",Elise  Holmedal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Mariann Andreassen,,Dina Høl Bugge,"21/19,12/21,21/18",Mariann Andreassen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Dobromila Franaszczuk,,Katja Botcharova Ellingsen,"11/21,21/14,21/19",Dobromila Franaszczuk,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Elise  Holmedal,,Katja Botcharova Ellingsen,"21/5,21/7",Elise  Holmedal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Elise  Holmedal,,Dobromila Franaszczuk,"21/14,21/6",Elise  Holmedal,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Mariann Andreassen,,Akija Anton Reginold,"21/9,21/2",Mariann Andreassen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Mariann Andreassen,,Sanne Miodini Johannessen,"17/21,21/16,21/9",Mariann Andreassen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Sanne Miodini Johannessen,,Akija Anton Reginold,"21/7,21/11",Sanne Miodini Johannessen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Dina Høl Bugge,,Tuva Vinnes Bråten,"21/8,21/5",Dina Høl Bugge,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Tuva Vinnes Bråten,,Julie Marie Olsen,"21/14,21/13",Tuva Vinnes Bråten,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damesingle,,Dina Høl Bugge,,Julie Marie Olsen,"21/8,21/6",Dina Høl Bugge,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Jonas Bergli Almås,Jonah Rajkumar,Isak Tangen,Sebastian Pedersen,"21/15,21/11",Jonas Bergli Almås,Jonah Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Vemund Hus,Brynjar Hus,Vetle Vinnes Bråten,Brede Stenfeldt,"21/17,21/11",Vemund Hus,Brynjar Hus
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Jonas Bergli Almås,Jonah Rajkumar,Vetle Vinnes Bråten,Brede Stenfeldt,"21/19,21/15",Jonas Bergli Almås,Jonah Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Jonas Bergli Almås,Jonah Rajkumar,Vemund Hus,Brynjar Hus,"24/22,22/20",Jonas Bergli Almås,Jonah Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Isak Tangen,Sebastian Pedersen,Kim Kristoffersen,Sander Pedersen,"21/14,21/10",Isak Tangen,Sebastian Pedersen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Ole Dahl Birkeland,Vegard Vinnes Bjørklund,Kim Kristoffersen,Sander Pedersen,"21/13,21/11",Ole Dahl Birkeland,Vegard Vinnes Bjørklund
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Herredouble,Isak Tangen,Sebastian Pedersen,Ole Dahl Birkeland,Vegard Vinnes Bjørklund,"10/21,21/17,22/20",Isak Tangen,Sebastian Pedersen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damedouble,Katja Botcharova Ellingsen,Akija Anton Reginold,Cathrine Eimstad,Julie Marie Olsen,"21/15,21/14",Katja Botcharova Ellingsen,Akija Anton Reginold
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damedouble,Dina Høl Bugge,Dobromila Franaszczuk,Yvonne Li,Sanne Miodini Johannessen,"21/11,21/12",Dina Høl Bugge,Dobromila Franaszczuk
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damedouble,Yvonne Li,Sanne Miodini Johannessen,Katja Botcharova Ellingsen,Akija Anton Reginold,"14/21,24/22,21/14",Yvonne Li,Sanne Miodini Johannessen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damedouble,Dina Høl Bugge,Dobromila Franaszczuk,Cathrine Eimstad,Julie Marie Olsen,"21/12,21/14",Dina Høl Bugge,Dobromila Franaszczuk
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damedouble,Dina Høl Bugge,Dobromila Franaszczuk,Katja Botcharova Ellingsen,Akija Anton Reginold,"21/11,21/11",Dina Høl Bugge,Dobromila Franaszczuk
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Damedouble,Yvonne Li,Sanne Miodini Johannessen,Cathrine Eimstad,Julie Marie Olsen,"18/21,21/15,21/16",Yvonne Li,Sanne Miodini Johannessen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Petter Berntsen,Sanne Miodini Johannessen,Dina Høl Bugge,Thomas Algrøy,"15/21,22/20,21/18",Petter Berntsen,Sanne Miodini Johannessen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Dobromila Franaszczuk,Aleksander Tsynkalovskiy,Akija Anton Reginold,Adrian Storhaug,"21/12,21/12",Dobromila Franaszczuk,Aleksander Tsynkalovskiy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Petter Berntsen,Sanne Miodini Johannessen,Akija Anton Reginold,Adrian Storhaug,"21/10,21/10",Petter Berntsen,Sanne Miodini Johannessen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Petter Berntsen,Sanne Miodini Johannessen,Dobromila Franaszczuk,Aleksander Tsynkalovskiy,"22/20,21/19",Petter Berntsen,Sanne Miodini Johannessen
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Dina Høl Bugge,Thomas Algrøy,Jonah Rajkumar,Yvonne Li,"21/5,21/6",Dina Høl Bugge,Thomas Algrøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Dina Høl Bugge,Thomas Algrøy,Tuva Vinnes Bråten,Torbjørn Eimstad,"21/8,21/16",Dina Høl Bugge,Thomas Algrøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 A,Mixeddouble,Tuva Vinnes Bråten,Torbjørn Eimstad,Jonah Rajkumar,Yvonne Li,"21/10,20/22,21/14",Tuva Vinnes Bråten,Torbjørn Eimstad
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,Herresingle,,Isak Tangen,,David Bull Haugsøen,"21/11,11/21,21/11",Isak Tangen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,Herresingle,,David Bull Haugsøen,,Hilde Vik Dale,"21/5,21/9",David Bull Haugsøen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,Herresingle,,Isak Tangen,,Vegard Vinnes Bjørklund,"21/17,21/18",Isak Tangen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,Herresingle,,Isak Tangen,,Sebastian Pedersen,"21/7,21/10",Isak Tangen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U15 B,Herresingle,,Vegard Vinnes Bjørklund,,Sebastian Pedersen,"21/16,9/21,21/15",Vegard Vinnes Bjørklund,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Fredrik Vabø Helset,,Heine Økland Kolltveit,"21/15,21/9",Fredrik Vabø Helset,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Fredrik Vabø Helset,,Simon Vedaa,"15/21,22/20,21/16",Fredrik Vabø Helset,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Odin Hellebø,,Martin Kristiansen Nilsen,"21/8,21/16",Odin Hellebø,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Heine Økland Kolltveit,,Michael White,"21/16,21/18",Heine Økland Kolltveit,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Heine Økland Kolltveit,,Martin Kristiansen Nilsen,"21/7,21/10",Heine Økland Kolltveit,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Michael White,,Odin Hellebø,"21/12,21/12",Michael White,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Michael White,,Martin Kristiansen Nilsen,"21/2,21/10",Michael White,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Heine Økland Kolltveit,,Odin Hellebø,"21/10,21/11",Heine Økland Kolltveit,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Simon Vedaa,,Audun Christoffer Adolfson,"21/12,21/9",Simon Vedaa,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Kristoffer Ulvang,,Dennis Andreassen,"21/16,21/15",Kristoffer Ulvang,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Kristoffer Ulvang,,Audun Christoffer Adolfson,"21/19,21/17",Kristoffer Ulvang,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Simon Vedaa,,Dennis Andreassen,"21/4,21/8",Simon Vedaa,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Audun Christoffer Adolfson,,Dennis Andreassen,"21/9,21/17",Audun Christoffer Adolfson,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Simon Vedaa,,Kristoffer Ulvang,"21/14,16/21,21/19",Simon Vedaa,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Petter Berntsen,,Christoffer Aakre,"21/6,21/4",Petter Berntsen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herresingle,,Fredrik Vabø Helset,,Petter Berntsen,"21/16,21/12",Fredrik Vabø Helset,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Victoria Økland,,Anne Marthe Svensen,"21/13,21/14",Victoria Økland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Vilde Morvik Ekerhovd,,Malin Landro Olsen,"21/6,21/8",Vilde Morvik Ekerhovd,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Anne Marthe Svensen,,Malin Landro Olsen,"21/6,21/16",Anne Marthe Svensen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Vilde Morvik Ekerhovd,,Silje Lindseth,"21/9,21/5",Vilde Morvik Ekerhovd,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Vilde Morvik Ekerhovd,,Anne Marthe Svensen,"22/20,21/14",Vilde Morvik Ekerhovd,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Victoria Økland,,Vilde Morvik Ekerhovd,"21/11,20/22,21/17",Victoria Økland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Anne Marthe Svensen,,Silje Lindseth,"21/11,21/12",Anne Marthe Svensen,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Damesingle,,Victoria Økland,,Malin Landro Olsen,"21/9,21/11",Victoria Økland,
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Petter Berntsen,Michael White,Audun Christoffer Adolfson,Thomas Algrøy,"16/21,21/15,21/14",Petter Berntsen,Michael White
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Kristoffer Ulvang,Simon Vedaa,Dennis Andreassen,Christoffer Aakre,"21/5,21/8",Kristoffer Ulvang,Simon Vedaa
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Petter Berntsen,Michael White,Dennis Andreassen,Christoffer Aakre,"21/11,21/17",Petter Berntsen,Michael White
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Kristoffer Ulvang,Simon Vedaa,"21/15,21/10",Heine Økland Kolltveit,Fredrik Vabø Helset
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Dennis Andreassen,Christoffer Aakre,"21/10,21/16",Heine Økland Kolltveit,Fredrik Vabø Helset
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Kristoffer Ulvang,Simon Vedaa,Audun Christoffer Adolfson,Thomas Algrøy,"22/20,21/8",Kristoffer Ulvang,Simon Vedaa
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Audun Christoffer Adolfson,Thomas Algrøy,Dennis Andreassen,Christoffer Aakre,"21/7,22/20",Audun Christoffer Adolfson,Thomas Algrøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Petter Berntsen,Michael White,"21/8,21/13",Heine Økland Kolltveit,Fredrik Vabø Helset
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Kristoffer Ulvang,Simon Vedaa,Petter Berntsen,Michael White,"21/16,21/16",Kristoffer Ulvang,Simon Vedaa
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Herredouble,Heine Økland Kolltveit,Fredrik Vabø Helset,Audun Christoffer Adolfson,Thomas Algrøy,"21/13,21/13",Heine Økland Kolltveit,Fredrik Vabø Helset
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Victoria Økland,Bharath Kumar Balasingam,Anne Marthe Svensen,Erlend Engesæter Bognøy,"21/6,21/17",Victoria Økland,Bharath Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Iver Rolvsjord,Vivi Doung,Audun Christoffer Adolfson,Silje Lindseth,"21/19,21/17",Iver Rolvsjord,Vivi Doung
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Anne Marthe Svensen,Erlend Engesæter Bognøy,Mariann Andreassen,Michael White,"21/14,21/7",Anne Marthe Svensen,Erlend Engesæter Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Iver Rolvsjord,Vivi Doung,Mariann Andreassen,Michael White,"21/15,21/19",Iver Rolvsjord,Vivi Doung
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Anne Marthe Svensen,Erlend Engesæter Bognøy,Audun Christoffer Adolfson,Silje Lindseth,"21/11,21/6",Anne Marthe Svensen,Erlend Engesæter Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Anne Marthe Svensen,Erlend Engesæter Bognøy,Iver Rolvsjord,Vivi Doung,"21/12,21/14",Anne Marthe Svensen,Erlend Engesæter Bognøy
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Mariann Andreassen,Michael White,Audun Christoffer Adolfson,Silje Lindseth,"21/18,21/19",Mariann Andreassen,Michael White
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Kristoffer Ulvang,Jenny Rajkumar,Elise  Holmedal,Simon Vedaa,"21/9,22/20",Kristoffer Ulvang,Jenny Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Victoria Økland,Bharath Kumar Balasingam,Heine Økland Kolltveit,Malin Landro Olsen,"21/7,21/10",Victoria Økland,Bharath Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Victoria Økland,Bharath Kumar Balasingam,Kristoffer Ulvang,Jenny Rajkumar,"21/13,21/11",Victoria Økland,Bharath Kumar Balasingam
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Elise  Holmedal,Simon Vedaa,Heine Økland Kolltveit,Malin Landro Olsen,"21/12,21/10",Elise  Holmedal,Simon Vedaa
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Kristoffer Ulvang,Jenny Rajkumar,Heine Økland Kolltveit,Malin Landro Olsen,"21/13,20/22,21/7",Kristoffer Ulvang,Jenny Rajkumar
+2015/2016,Askøy Askøy Open 2016,12.03.2016,U17 A,Mixeddouble,Victoria Økland,Bharath Kumar Balasingam,Elise  Holmedal,Simon Vedaa,"21/12,21/16",Victoria Økland,Bharath Kumar Balasingam

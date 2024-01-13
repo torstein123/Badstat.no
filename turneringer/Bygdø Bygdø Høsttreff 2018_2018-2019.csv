@@ -1,436 +1,323 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Daniel Bjørklund,,Advait Mital,"21/14,23/21",Daniel Bjørklund,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Advait Mital,,Morten Aarhus,"21/3,24/22",Advait Mital,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Gjermund Hagen,,Andreas Korssund,"21/16,21/19",Gjermund Hagen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Gjermund Hagen,,Morten Aarhus,"21/14,21/17",Gjermund Hagen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Advait Mital,,Andreas Korssund,"21/14,15/21,21/19",Advait Mital,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Morten Aarhus,,Andreas Korssund,"21/10,21/23,21/16",Morten Aarhus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Advait Mital,,Gjermund Hagen,"11/21,21/12,21/18",Advait Mital,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Tommy Helander,,Hermod Holte Haugland,"21/15,23/21",Tommy Helander,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Daniel Bjørklund,,Tommy Helander,"21/18,21/16",Daniel Bjørklund,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Hermod Holte Haugland,,Daniel Bjørklund,"21/19,14/21,21/19",Hermod Holte Haugland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Daniel Bjørklund,,Advait Mital,"21/14,23/21",Daniel Bjørklund,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Advait Mital,,Morten Aarhus,"21/3,24/22",Advait Mital,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Gjermund Hagen,,Andreas Korssund,"21/16,21/19",Gjermund Hagen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Gjermund Hagen,,Morten Aarhus,"21/14,21/17",Gjermund Hagen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Advait Mital,,Andreas Korssund,"21/14,15/21,21/19",Advait Mital,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Morten Aarhus,,Andreas Korssund,"21/10,21/23,21/16",Morten Aarhus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Advait Mital,,Gjermund Hagen,"11/21,21/12,21/18",Advait Mital,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Tommy Helander,,Hermod Holte Haugland,"21/15,23/21",Tommy Helander,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Daniel Bjørklund,,Tommy Helander,"21/18,21/16",Daniel Bjørklund,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Hermod Holte Haugland,,Daniel Bjørklund,"21/19,14/21,21/19",Hermod Holte Haugland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Elise Lærkerød Jelsness,,Mei Yang,"21/8,21/11",Elise Lærkerød Jelsness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Berit Thyness,,Kristin Thømt,"21/13,21/14",Berit Thyness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Berit Thyness,,Mei Yang,"21/8,21/4",Berit Thyness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/14,21/10",Elise Lærkerød Jelsness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Kristin Thømt,,Mei Yang,"21/16,21/14",Kristin Thømt,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,,Berit Thyness,,Elise Lærkerød Jelsness,"21/18,21/17",Berit Thyness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Amund Rikheim Huus,Knut Morten Engen,Hermod Holte Haugland,Andreas Korssund,"21/12,21/14",Amund Rikheim Huus,Knut Morten Engen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,David Wong,Ram Kumar,Carlo Alonzo Agustin,Christer Andersen,"21/15,16/21,21/11",David Wong,Ram Kumar
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Tommy Helander,Daniel Bjørklund,Hermod Holte Haugland,Andreas Korssund,"21/16,21/16",Tommy Helander,Daniel Bjørklund
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,David Wong,Ram Kumar,Amund Rikheim Huus,Knut Morten Engen,"21/9,21/15",David Wong,Ram Kumar
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Amund Rikheim Huus,Knut Morten Engen,Carlo Alonzo Agustin,Christer Andersen,"21/17,21/8",Amund Rikheim Huus,Knut Morten Engen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,David Wong,Ram Kumar,Hermod Holte Haugland,Andreas Korssund,"21/18,21/13",David Wong,Ram Kumar
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Hermod Holte Haugland,Andreas Korssund,Carlo Alonzo Agustin,Christer Andersen,"21/15,22/20",Hermod Holte Haugland,Andreas Korssund
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,David Wong,Ram Kumar,Tommy Helander,Daniel Bjørklund,"18/21,21/16,21/12",David Wong,Ram Kumar
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Amund Rikheim Huus,Knut Morten Engen,Tommy Helander,Daniel Bjørklund,"21/19,15/21,21/12",Amund Rikheim Huus,Knut Morten Engen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Tommy Helander,Daniel Bjørklund,Carlo Alonzo Agustin,Christer Andersen,"21/13,22/20",Tommy Helander,Daniel Bjørklund
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Marius Edwards,"21/11,21/11",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Marius Edwards,,Riji Ameen Jainualabdeen,"17/21,21/8,21/17",Marius Edwards,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Sondre Sefland,"21/8,21/10",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Riji Ameen Jainualabdeen,,Yusman Kamaleri,"21/11,21/19",Riji Ameen Jainualabdeen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Adam Karsen,,Yusman Kamaleri,"15/21,21/13,21/18",Adam Karsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Riji Ameen Jainualabdeen,,Adam Karsen,"21/6,21/14",Riji Ameen Jainualabdeen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Rishi Arvind Phatak,,Christer Andersen,"22/20,21/16",Rishi Arvind Phatak,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Thomas Holdbakk,,Marius Edwards,"21/18,21/15",Thomas Holdbakk,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Marius Edwards,,Christer Andersen,"23/21,21/18",Marius Edwards,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Rishi Arvind Phatak,,Thomas Holdbakk,"21/13,21/9",Rishi Arvind Phatak,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Christer Andersen,,Thomas Holdbakk,"21/12,21/15",Christer Andersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Marius Edwards,,Rishi Arvind Phatak,"21/18,21/12",Marius Edwards,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Knut Lyngstad,,Vasanthan Nadarasah,"21/12,21/15",Knut Lyngstad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Sondre Sefland,,Knut Lyngstad,"13/21,21/12,21/15",Sondre Sefland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Sondre Sefland,,Vasanthan Nadarasah,"21/16,21/16",Sondre Sefland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Qiqing Gan,"21/15,21/15",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Lars Tingstad,"21/11,21/13",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Qiqing Gan,,Lars Tingstad,"14/21,21/14,21/16",Qiqing Gan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Marius Edwards,"21/11,21/11",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Marius Edwards,,Riji Ameen Jainualabdeen,"17/21,21/8,21/17",Marius Edwards,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Sondre Sefland,"21/8,21/10",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Riji Ameen Jainualabdeen,,Yusman Kamaleri,"21/11,21/19",Riji Ameen Jainualabdeen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Adam Karsen,,Yusman Kamaleri,"15/21,21/13,21/18",Adam Karsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Riji Ameen Jainualabdeen,,Adam Karsen,"21/6,21/14",Riji Ameen Jainualabdeen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Rishi Arvind Phatak,,Christer Andersen,"22/20,21/16",Rishi Arvind Phatak,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Thomas Holdbakk,,Marius Edwards,"21/18,21/15",Thomas Holdbakk,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Marius Edwards,,Christer Andersen,"23/21,21/18",Marius Edwards,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Rishi Arvind Phatak,,Thomas Holdbakk,"21/13,21/9",Rishi Arvind Phatak,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Christer Andersen,,Thomas Holdbakk,"21/12,21/15",Christer Andersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Marius Edwards,,Rishi Arvind Phatak,"21/18,21/12",Marius Edwards,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Knut Lyngstad,,Vasanthan Nadarasah,"21/12,21/15",Knut Lyngstad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Sondre Sefland,,Knut Lyngstad,"13/21,21/12,21/15",Sondre Sefland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Sondre Sefland,,Vasanthan Nadarasah,"21/16,21/16",Sondre Sefland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Qiqing Gan,"21/15,21/15",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Khiem  Duc Nguyen,,Lars Tingstad,"21/11,21/13",Khiem  Duc Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,,Qiqing Gan,,Lars Tingstad,"14/21,21/14,21/16",Qiqing Gan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Lars Tingstad,Arne Linnerud,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/0,21/0",Lars Tingstad,Arne Linnerud
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Marius Edwards,Oscar Tveit Strøm,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/12,13/21,21/13",Marius Edwards,Oscar Tveit Strøm
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Marius Edwards,Oscar Tveit Strøm,Lars Tingstad,Arne Linnerud,"21/17,21/18",Marius Edwards,Oscar Tveit Strøm
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Halldór Reynisson,Rishi Arvind Phatak,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/8,21/14",Halldór Reynisson,Rishi Arvind Phatak
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Halldór Reynisson,Rishi Arvind Phatak,Marius Edwards,Oscar Tveit Strøm,"21/17,21/8",Halldór Reynisson,Rishi Arvind Phatak
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Halldór Reynisson,Rishi Arvind Phatak,Lars Tingstad,Arne Linnerud,"21/8,21/15",Halldór Reynisson,Rishi Arvind Phatak
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Thomas Holdbakk,Lars Torkelsen,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"22/20,12/21,21/17",Thomas Holdbakk,Lars Torkelsen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Halldór Reynisson,Rishi Arvind Phatak,Thomas Holdbakk,Lars Torkelsen,"21/11,21/12",Halldór Reynisson,Rishi Arvind Phatak
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Marius Edwards,Oscar Tveit Strøm,Thomas Holdbakk,Lars Torkelsen,"21/10,21/15",Marius Edwards,Oscar Tveit Strøm
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Lars Tingstad,Arne Linnerud,Thomas Holdbakk,Lars Torkelsen,"21/16,21/15",Lars Tingstad,Arne Linnerud
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Xijiang Yu,"20/22,21/16,21/13",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Xijiang Yu,,Pak Ling Li,"21/13,16/21,21/16",Xijiang Yu,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Xijiang Yu,,Vikas Kumar Sarna,"21/11,20/22,21/15",Xijiang Yu,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Pak Ling Li,,Vikas Kumar Sarna,"21/11,21/19",Pak Ling Li,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Dexter Regarde,,Gowrikumar Sathiyaseelan,"21/14,21/7",Dexter Regarde,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Espen Ditmansen,"21/11,21/17",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Espen Ditmansen,,Dexter Regarde,"21/14,21/19",Espen Ditmansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Gowrikumar Sathiyaseelan,"21/6,21/5",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Dexter Regarde,"21/17,21/8",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Espen Ditmansen,,Gowrikumar Sathiyaseelan,"21/7,21/7",Espen Ditmansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Xijiang Yu,"20/22,21/16,21/13",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Xijiang Yu,,Pak Ling Li,"21/13,16/21,21/16",Xijiang Yu,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Xijiang Yu,,Vikas Kumar Sarna,"21/11,20/22,21/15",Xijiang Yu,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Pak Ling Li,,Vikas Kumar Sarna,"21/11,21/19",Pak Ling Li,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Dexter Regarde,,Gowrikumar Sathiyaseelan,"21/14,21/7",Dexter Regarde,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Espen Ditmansen,"21/11,21/17",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Espen Ditmansen,,Dexter Regarde,"21/14,21/19",Espen Ditmansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Gowrikumar Sathiyaseelan,"21/6,21/5",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Simon Roland Birkvad,,Dexter Regarde,"21/17,21/8",Simon Roland Birkvad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Espen Ditmansen,,Gowrikumar Sathiyaseelan,"21/7,21/7",Espen Ditmansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Mette Sandersen,,Ingrid Beate Østberg,"15/21,21/18,21/15",Mette Sandersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Yngvild  Buraas,,Helene Ye,"22/20,21/15",Yngvild  Buraas,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Yngvild  Buraas,,Mette Sandersen,"21/18,21/7",Yngvild  Buraas,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Kaisa Isabell Sandboe,,Helene Ye,"21/5,21/9",Kaisa Isabell Sandboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Kaisa Isabell Sandboe,,Mette Sandersen,"21/10,21/11",Kaisa Isabell Sandboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Yngvild  Buraas,,Ingrid Beate Østberg,"21/16,21/11",Yngvild  Buraas,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Kaisa Isabell Sandboe,,Yngvild  Buraas,"21/16,21/11",Kaisa Isabell Sandboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Helene Ye,,Mette Sandersen,"21/10,21/16",Helene Ye,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,,Kaisa Isabell Sandboe,,Ingrid Beate Østberg,"21/19,21/5",Kaisa Isabell Sandboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Kristin Thømt,Anja Olsen,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,"21/13,21/16",Kristin Thømt,Anja Olsen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Elise Lærkerød Jelsness,Kaisa Isabell Sandboe,Yngvild  Buraas,Ragnhild Løvenskiold Grüner Husom,"21/12,21/15",Elise Lærkerød Jelsness,Kaisa Isabell Sandboe
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Kristin Thømt,Anja Olsen,Felix Frithjof Piene,Zacharias Ramstad,"21/15,21/11",Kristin Thømt,Anja Olsen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Dexter Regarde,Fredrik Nilssen,Max Meyer Hellwege,Kavin Thas,"21/14,21/12",Dexter Regarde,Fredrik Nilssen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Kristin Thømt,Anja Olsen,Max Meyer Hellwege,Kavin Thas,"21/7,21/5",Kristin Thømt,Anja Olsen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Dexter Regarde,Fredrik Nilssen,Felix Frithjof Piene,Zacharias Ramstad,"13/21,21/6,21/16",Dexter Regarde,Fredrik Nilssen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Kristin Thømt,Anja Olsen,Dexter Regarde,Fredrik Nilssen,"21/11,21/15",Kristin Thømt,Anja Olsen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Felix Frithjof Piene,Zacharias Ramstad,Max Meyer Hellwege,Kavin Thas,"21/12,21/11",Felix Frithjof Piene,Zacharias Ramstad
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Markus Aanesen,"21/15,19/21,21/13",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Markus Aanesen,,Paul Schubert,"22/20,20/22,21/19",Markus Aanesen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Lars Torkelsen,"21/18,27/25",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Johnny Holte Haugland,"21/18,21/18",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Jørgen Thorp,,Steinar  Hansen,"21/15,12/21,21/14",Jørgen Thorp,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Paul Schubert,,Jørgen Thorp,"21/16,21/19",Paul Schubert,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Steinar  Hansen,,Paul Schubert,"17/21,21/17,21/18",Steinar  Hansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Markus Aanesen,,Fredrik Nilssen,"21/15,21/11",Markus Aanesen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Frank Oddvar Nygård,,Fredrik Nilssen,"21/14,21/15",Frank Oddvar Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Øivind Harket,,Markus Aanesen,"21/19,21/15",Øivind Harket,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Markus Aanesen,,Frank Oddvar Nygård,"21/18,21/9",Markus Aanesen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Øivind Harket,,Fredrik Nilssen,"21/14,21/10",Øivind Harket,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Frank Oddvar Nygård,,Øivind Harket,"25/23,21/17",Frank Oddvar Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Andreas Thorp,"19/21,21/13,21/19",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Tom Kasperski,,Andreas Thorp,"21/18,21/12",Tom Kasperski,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Tom Kasperski,"21/17,21/17",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Johnny Holte Haugland,,Richard Dante,"21/9,21/6",Johnny Holte Haugland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Morten Barhaugen,,Hallvard Storkaas,"21/11,21/9",Morten Barhaugen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Lars Torkelsen,,Vegard Andersen,"21/17,16/21,21/14",Lars Torkelsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Lars Torkelsen,,Morten Barhaugen,"21/15,21/14",Lars Torkelsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Vegard Andersen,,Hallvard Storkaas,"21/13,21/10",Vegard Andersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Morten Barhaugen,,Vegard Andersen,"21/18,21/8",Morten Barhaugen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Lars Torkelsen,,Hallvard Storkaas,"21/2,21/4",Lars Torkelsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Markus Aanesen,"21/15,19/21,21/13",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Markus Aanesen,,Paul Schubert,"22/20,20/22,21/19",Markus Aanesen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Lars Torkelsen,"21/18,27/25",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Johnny Holte Haugland,"21/18,21/18",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Jørgen Thorp,,Steinar  Hansen,"21/15,12/21,21/14",Jørgen Thorp,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Paul Schubert,,Jørgen Thorp,"21/16,21/19",Paul Schubert,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Steinar  Hansen,,Paul Schubert,"17/21,21/17,21/18",Steinar  Hansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Markus Aanesen,,Fredrik Nilssen,"21/15,21/11",Markus Aanesen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Frank Oddvar Nygård,,Fredrik Nilssen,"21/14,21/15",Frank Oddvar Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Øivind Harket,,Markus Aanesen,"21/19,21/15",Øivind Harket,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Markus Aanesen,,Frank Oddvar Nygård,"21/18,21/9",Markus Aanesen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Øivind Harket,,Fredrik Nilssen,"21/14,21/10",Øivind Harket,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Frank Oddvar Nygård,,Øivind Harket,"25/23,21/17",Frank Oddvar Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Andreas Thorp,"19/21,21/13,21/19",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Tom Kasperski,,Andreas Thorp,"21/18,21/12",Tom Kasperski,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Julian Aulin Bøe,,Tom Kasperski,"21/17,21/17",Julian Aulin Bøe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Johnny Holte Haugland,,Richard Dante,"21/9,21/6",Johnny Holte Haugland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Morten Barhaugen,,Hallvard Storkaas,"21/11,21/9",Morten Barhaugen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Lars Torkelsen,,Vegard Andersen,"21/17,16/21,21/14",Lars Torkelsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Lars Torkelsen,,Morten Barhaugen,"21/15,21/14",Lars Torkelsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Vegard Andersen,,Hallvard Storkaas,"21/13,21/10",Vegard Andersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Morten Barhaugen,,Vegard Andersen,"21/18,21/8",Morten Barhaugen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,,Lars Torkelsen,,Hallvard Storkaas,"21/2,21/4",Lars Torkelsen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Julian Aulin Bøe,Markus Aanesen,Frank Oddvar Nygård,Hallvard Storkaas,"21/9,21/19",Julian Aulin Bøe,Markus Aanesen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Steinar  Hansen,Johnny Holte Haugland,Tom Kasperski,Paul Schubert,"21/16,21/14",Steinar  Hansen,Johnny Holte Haugland
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Mekki Lumio,Niels Gunnar Juel,Frank Oddvar Nygård,Hallvard Storkaas,"21/16,23/21",Mekki Lumio,Niels Gunnar Juel
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Steinar  Hansen,Johnny Holte Haugland,Julian Aulin Bøe,Markus Aanesen,"21/17,21/12",Steinar  Hansen,Johnny Holte Haugland
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Tom Kasperski,Paul Schubert,Frank Oddvar Nygård,Hallvard Storkaas,"21/14,21/16",Tom Kasperski,Paul Schubert
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Steinar  Hansen,Johnny Holte Haugland,Mekki Lumio,Niels Gunnar Juel,"21/14,21/18",Steinar  Hansen,Johnny Holte Haugland
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Julian Aulin Bøe,Markus Aanesen,Mekki Lumio,Niels Gunnar Juel,"21/18,16/21,21/13",Julian Aulin Bøe,Markus Aanesen
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Tom Kasperski,Paul Schubert,Julian Aulin Bøe,Markus Aanesen,"17/21,21/14,21/15",Tom Kasperski,Paul Schubert
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Steinar  Hansen,Johnny Holte Haugland,Frank Oddvar Nygård,Hallvard Storkaas,"21/12,21/4",Steinar  Hansen,Johnny Holte Haugland
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Tom Kasperski,Paul Schubert,Mekki Lumio,Niels Gunnar Juel,"21/16,18/21,21/13",Tom Kasperski,Paul Schubert
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vinit Sharma,,Daniel Nguyen,"21/15,21/19",Vinit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Alexander Allport Fossum,,Andrea Cecilie Borøy,"21/16,21/13",Alexander Allport Fossum,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Daniel Nguyen,,Andrea Cecilie Borøy,"14/21,21/18,21/15",Daniel Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vinit Sharma,,Alexander Allport Fossum,"21/18,21/18",Vinit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Alexander Allport Fossum,,Daniel Nguyen,"21/16,21/13",Alexander Allport Fossum,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vinit Sharma,,Andrea Cecilie Borøy,"21/17,21/15",Vinit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Mathias Aga,,Vebjørn Isberg Haugan,"21/13,21/16",Mathias Aga,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Abhinav Nandan Sundararajan,,Holm Huan Lien,"21/8,21/19",Abhinav Nandan Sundararajan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Mathias Aga,,Holm Huan Lien,"21/13,21/11",Mathias Aga,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Abhinav Nandan Sundararajan,,Vebjørn Isberg Haugan,"21/12,21/17",Abhinav Nandan Sundararajan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Mathias Aga,,Abhinav Nandan Sundararajan,"21/19,21/15",Mathias Aga,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vebjørn Isberg Haugan,,Holm Huan Lien,"21/4,21/16",Vebjørn Isberg Haugan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Shravan Ramkumar,,August Korseberg Stokke,"21/10,21/15",Shravan Ramkumar,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Shravan Ramkumar,,Teodor Moen-Kristiansen,"21/14,21/10",Shravan Ramkumar,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Teodor Moen-Kristiansen,,August Korseberg Stokke,"14/21,21/17,21/17",Teodor Moen-Kristiansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vinit Sharma,,Daniel Nguyen,"21/15,21/19",Vinit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Alexander Allport Fossum,,Andrea Cecilie Borøy,"21/16,21/13",Alexander Allport Fossum,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Daniel Nguyen,,Andrea Cecilie Borøy,"14/21,21/18,21/15",Daniel Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vinit Sharma,,Alexander Allport Fossum,"21/18,21/18",Vinit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Alexander Allport Fossum,,Daniel Nguyen,"21/16,21/13",Alexander Allport Fossum,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vinit Sharma,,Andrea Cecilie Borøy,"21/17,21/15",Vinit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Mathias Aga,,Vebjørn Isberg Haugan,"21/13,21/16",Mathias Aga,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Abhinav Nandan Sundararajan,,Holm Huan Lien,"21/8,21/19",Abhinav Nandan Sundararajan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Mathias Aga,,Holm Huan Lien,"21/13,21/11",Mathias Aga,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Abhinav Nandan Sundararajan,,Vebjørn Isberg Haugan,"21/12,21/17",Abhinav Nandan Sundararajan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Mathias Aga,,Abhinav Nandan Sundararajan,"21/19,21/15",Mathias Aga,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Vebjørn Isberg Haugan,,Holm Huan Lien,"21/4,21/16",Vebjørn Isberg Haugan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Shravan Ramkumar,,August Korseberg Stokke,"21/10,21/15",Shravan Ramkumar,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Shravan Ramkumar,,Teodor Moen-Kristiansen,"21/14,21/10",Shravan Ramkumar,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,,Teodor Moen-Kristiansen,,August Korseberg Stokke,"14/21,21/17,21/17",Teodor Moen-Kristiansen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Varun Manikandan,,Adit Sharma,"21/23,21/18,21/14",Varun Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Adam Tollisen Leyland,,Fredrik Hellemo Ruud,"21/12,21/15",Adam Tollisen Leyland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Adit Sharma,,Adam Tollisen Leyland,"21/19,21/16",Adit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Adit Sharma,,Fredrik Hellemo Ruud,"21/14,21/10",Adit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Varun Manikandan,,Emil Greaker Wiik,"21/12,21/6",Varun Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Emil Greaker Wiik,,Mikkel Grevsnes,"21/17,21/15",Emil Greaker Wiik,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Varun Manikandan,,Mikkel Grevsnes,"21/11,21/1",Varun Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Varun Manikandan,,Adit Sharma,"21/23,21/18,21/14",Varun Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Adam Tollisen Leyland,,Fredrik Hellemo Ruud,"21/12,21/15",Adam Tollisen Leyland,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Adit Sharma,,Adam Tollisen Leyland,"21/19,21/16",Adit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Adit Sharma,,Fredrik Hellemo Ruud,"21/14,21/10",Adit Sharma,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Varun Manikandan,,Emil Greaker Wiik,"21/12,21/6",Varun Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Emil Greaker Wiik,,Mikkel Grevsnes,"21/17,21/15",Emil Greaker Wiik,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Varun Manikandan,,Mikkel Grevsnes,"21/11,21/1",Varun Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Heidi Hartmann,,Vilma Aasheim-Engen,"18/21,21/19,21/15",Heidi Hartmann,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Vilma Aasheim-Engen,,Nancy Hang,"21/8,21/6",Vilma Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Sofie Jin Reistadbakk,,Rebecca Haukebøe,"21/8,21/10",Sofie Jin Reistadbakk,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Sofie Jin Reistadbakk,,Nancy Hang,"21/7,21/12",Sofie Jin Reistadbakk,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Vilma Aasheim-Engen,,Rebecca Haukebøe,"21/14,21/4",Vilma Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Nancy Hang,,Rebecca Haukebøe,"21/16,21/17",Nancy Hang,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Vilma Aasheim-Engen,,Sofie Jin Reistadbakk,"21/7,21/19",Vilma Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Emma Yasmin Ruud,,Andrea Nygård,"21/8,21/6",Emma Yasmin Ruud,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Heidi Hartmann,,Emilie Lie Cook,"25/23,21/14",Heidi Hartmann,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Heidi Hartmann,,Andrea Nygård,"21/4,21/4",Heidi Hartmann,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Emma Yasmin Ruud,,Emilie Lie Cook,"21/15,21/17",Emma Yasmin Ruud,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Emilie Lie Cook,,Andrea Nygård,"21/7,21/8",Emilie Lie Cook,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,,Heidi Hartmann,,Emma Yasmin Ruud,"21/15,21/19",Heidi Hartmann,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Nancy Hang,Rebecca Haukebøe,Emma Yasmin Ruud,Celine H Solvang Søvik,"22/20,21/15",Nancy Hang,Rebecca Haukebøe
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Vilma Aasheim-Engen,Heidi Hartmann,Sofie Jin Reistadbakk,Emilie Lie Cook,"21/14,21/11",Vilma Aasheim-Engen,Heidi Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Vilma Aasheim-Engen,Heidi Hartmann,Nancy Hang,Rebecca Haukebøe,"21/9,21/12",Vilma Aasheim-Engen,Heidi Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Sofie Jin Reistadbakk,Emilie Lie Cook,Emma Yasmin Ruud,Celine H Solvang Søvik,"21/12,21/6",Sofie Jin Reistadbakk,Emilie Lie Cook
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Sofie Jin Reistadbakk,Emilie Lie Cook,Nancy Hang,Rebecca Haukebøe,"21/14,21/6",Sofie Jin Reistadbakk,Emilie Lie Cook
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Vilma Aasheim-Engen,Heidi Hartmann,Emma Yasmin Ruud,Celine H Solvang Søvik,"21/10,21/8",Vilma Aasheim-Engen,Heidi Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Yatin Mehta,"21/18,21/18",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Christian Tombre,"11/21,21/18,21/16",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,Albert Aasheim-Engen,"21/12,21/15",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,Adrian Janitz,"21/9,21/9",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Henrik Frende Lavik-Haug,,Ibrahim Linusson-Ibrahim,"15/21,21/6,21/6",Henrik Frende Lavik-Haug,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Ibrahim Linusson-Ibrahim,"21/10,21/10",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Henrik Frende Lavik-Haug,"21/10,21/18",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Christian Tombre,,Lucas Steinvik Rønning,"21/8,21/12",Christian Tombre,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Lucas Steinvik Rønning,,Aksel Victor Sanchis,"21/13,21/17",Lucas Steinvik Rønning,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Christian Tombre,,Even Telle,"21/10,21/9",Christian Tombre,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Lucas Steinvik Rønning,,Even Telle,"21/11,24/22",Lucas Steinvik Rønning,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Christian Tombre,,Aksel Victor Sanchis,"21/4,21/9",Christian Tombre,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,William Andre Moe,,Didrik Alexander Poppe,"21/17,21/14",William Andre Moe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,Didrik Alexander Poppe,"21/6,21/1",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,William Andre Moe,"21/17,21/14",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Adrian Janitz,,Linus Nordal,"21/7,21/12",Adrian Janitz,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Vetle Bolstad,,Linus Nordal,"20/22,23/21,21/14",Vetle Bolstad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Adrian Janitz,,Vetle Bolstad,"21/19,21/18",Adrian Janitz,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Qianyang Gan,,Ludvik Lamøy,"21/10,21/15",Qianyang Gan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Qianyang Gan,,Erik Nyborg,"21/10,21/8",Qianyang Gan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Albert Aasheim-Engen,,Ludvik Lamøy,"21/12,17/21,21/15",Albert Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Ludvik Lamøy,,Erik Nyborg,"21/17,21/8",Ludvik Lamøy,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Albert Aasheim-Engen,,Qianyang Gan,"21/14,21/12",Albert Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Yatin Mehta,"21/18,21/18",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Christian Tombre,"11/21,21/18,21/16",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,Albert Aasheim-Engen,"21/12,21/15",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,Adrian Janitz,"21/9,21/9",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Henrik Frende Lavik-Haug,,Ibrahim Linusson-Ibrahim,"15/21,21/6,21/6",Henrik Frende Lavik-Haug,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Ibrahim Linusson-Ibrahim,"21/10,21/10",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Audun JS Nyquist,,Henrik Frende Lavik-Haug,"21/10,21/18",Audun JS Nyquist,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Christian Tombre,,Lucas Steinvik Rønning,"21/8,21/12",Christian Tombre,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Lucas Steinvik Rønning,,Aksel Victor Sanchis,"21/13,21/17",Lucas Steinvik Rønning,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Christian Tombre,,Even Telle,"21/10,21/9",Christian Tombre,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Lucas Steinvik Rønning,,Even Telle,"21/11,24/22",Lucas Steinvik Rønning,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Christian Tombre,,Aksel Victor Sanchis,"21/4,21/9",Christian Tombre,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,William Andre Moe,,Didrik Alexander Poppe,"21/17,21/14",William Andre Moe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,Didrik Alexander Poppe,"21/6,21/1",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Yatin Mehta,,William Andre Moe,"21/17,21/14",Yatin Mehta,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Adrian Janitz,,Linus Nordal,"21/7,21/12",Adrian Janitz,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Vetle Bolstad,,Linus Nordal,"20/22,23/21,21/14",Vetle Bolstad,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Adrian Janitz,,Vetle Bolstad,"21/19,21/18",Adrian Janitz,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Qianyang Gan,,Ludvik Lamøy,"21/10,21/15",Qianyang Gan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Qianyang Gan,,Erik Nyborg,"21/10,21/8",Qianyang Gan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Albert Aasheim-Engen,,Ludvik Lamøy,"21/12,17/21,21/15",Albert Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Ludvik Lamøy,,Erik Nyborg,"21/17,21/8",Ludvik Lamøy,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Albert Aasheim-Engen,,Qianyang Gan,"21/14,21/12",Albert Aasheim-Engen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Olivia Myrestrand,,Milla Maevski,"21/16,21/18",Olivia Myrestrand,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Olivia Myrestrand,,Victoria Heiberg,"21/15,21/11",Olivia Myrestrand,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Olivia Myrestrand,,Celine H Solvang Søvik,"21/16,21/11",Olivia Myrestrand,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Victoria Heiberg,,Celine H Solvang Søvik,"21/11,21/10",Victoria Heiberg,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Milla Maevski,,Varshini Manikandan,"21/9,21/12",Milla Maevski,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Varshini Manikandan,,Elisabeth Wittusen,"21/9,21/11",Varshini Manikandan,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,,Milla Maevski,,Elisabeth Wittusen,"21/10,21/8",Milla Maevski,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,Bjørn Deron,"21/15,21/9",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,David Nguyen,"21/6,21/19",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Leonard Volrath Holmboe,"21/16,21/19",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leonard Volrath Holmboe,,Andreas Andersen Roksvåg,"17/21,21/19,22/20",Leonard Volrath Holmboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,Eirik Tryland Laheld,"21/6,21/8",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Zhongyan Yu,,Eirik Tryland Laheld,"21/8,21/9",Zhongyan Yu,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,Zhongyan Yu,"21/11,21/9",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,David Nguyen,,Philip Allport Fossum,"21/6,21/9",David Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Aleksander Jakovlevs,,Øyvind Vegsund Staver,"21/4,21/7",Aleksander Jakovlevs,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Philip Allport Fossum,,Øyvind Vegsund Staver,"21/15,21/14",Philip Allport Fossum,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,David Nguyen,,Aleksander Jakovlevs,"21/10,21/12",David Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Aleksander Jakovlevs,,Philip Allport Fossum,"21/9,21/19",Aleksander Jakovlevs,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,David Nguyen,,Øyvind Vegsund Staver,"21/13,21/3",David Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leonard Volrath Holmboe,,Peter Nikolai Borøy,"21/8,21/7",Leonard Volrath Holmboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leonard Volrath Holmboe,,Magnus Linderoth,"21/11,21/15",Leonard Volrath Holmboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Magnus Linderoth,,Peter Nikolai Borøy,"21/17,21/11",Magnus Linderoth,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Andreas Andersen Roksvåg,,Eivind Engeseth,"21/13,16/21,21/13",Andreas Andersen Roksvåg,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Eivind Engeseth,,Mathias Wong,"21/12,21/16",Eivind Engeseth,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Andreas Andersen Roksvåg,,Mathias Wong,"21/17,21/15",Andreas Andersen Roksvåg,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Haakon Lærkerød Jelsness,,Armand Bruun,"21/18,21/10",Haakon Lærkerød Jelsness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Mattis Olsen Berg,"21/11,21/5",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Armand Bruun,"18/21,21/6,21/13",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Haakon Lærkerød Jelsness,,Mattis Olsen Berg,"21/13,21/12",Haakon Lærkerød Jelsness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Haakon Lærkerød Jelsness,"21/13,21/15",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Armand Bruun,,Mattis Olsen Berg,"21/10,21/6",Armand Bruun,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,Bjørn Deron,"21/15,21/9",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,David Nguyen,"21/6,21/19",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Leonard Volrath Holmboe,"21/16,21/19",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leonard Volrath Holmboe,,Andreas Andersen Roksvåg,"17/21,21/19,22/20",Leonard Volrath Holmboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,Eirik Tryland Laheld,"21/6,21/8",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Zhongyan Yu,,Eirik Tryland Laheld,"21/8,21/9",Zhongyan Yu,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Theodor Fjelldal,,Zhongyan Yu,"21/11,21/9",Theodor Fjelldal,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,David Nguyen,,Philip Allport Fossum,"21/6,21/9",David Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Aleksander Jakovlevs,,Øyvind Vegsund Staver,"21/4,21/7",Aleksander Jakovlevs,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Philip Allport Fossum,,Øyvind Vegsund Staver,"21/15,21/14",Philip Allport Fossum,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,David Nguyen,,Aleksander Jakovlevs,"21/10,21/12",David Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Aleksander Jakovlevs,,Philip Allport Fossum,"21/9,21/19",Aleksander Jakovlevs,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,David Nguyen,,Øyvind Vegsund Staver,"21/13,21/3",David Nguyen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leonard Volrath Holmboe,,Peter Nikolai Borøy,"21/8,21/7",Leonard Volrath Holmboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leonard Volrath Holmboe,,Magnus Linderoth,"21/11,21/15",Leonard Volrath Holmboe,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Magnus Linderoth,,Peter Nikolai Borøy,"21/17,21/11",Magnus Linderoth,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Andreas Andersen Roksvåg,,Eivind Engeseth,"21/13,16/21,21/13",Andreas Andersen Roksvåg,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Eivind Engeseth,,Mathias Wong,"21/12,21/16",Eivind Engeseth,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Andreas Andersen Roksvåg,,Mathias Wong,"21/17,21/15",Andreas Andersen Roksvåg,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Haakon Lærkerød Jelsness,,Armand Bruun,"21/18,21/10",Haakon Lærkerød Jelsness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Mattis Olsen Berg,"21/11,21/5",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Armand Bruun,"18/21,21/6,21/13",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Haakon Lærkerød Jelsness,,Mattis Olsen Berg,"21/13,21/12",Haakon Lærkerød Jelsness,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Bjørn Deron,,Haakon Lærkerød Jelsness,"21/13,21/15",Bjørn Deron,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Armand Bruun,,Mattis Olsen Berg,"21/10,21/6",Armand Bruun,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Marlen Nygård,"21/13,21/7",Kristine  Grande Ødegårdstuen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Ronja Hartmann,"21/10,21/8",Kristine  Grande Ødegårdstuen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Marlen Nygård,,Camilla Persen,"21/9,21/10",Marlen Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Inger Russnes,"21/5,21/10",Kristine  Grande Ødegårdstuen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Live Lislerud Vestli,,Inger Russnes,"21/14,21/14",Live Lislerud Vestli,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Kristine  Grande Ødegårdstuen,,Live Lislerud Vestli,"21/7,21/10",Kristine  Grande Ødegårdstuen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Ronja Hartmann,,Mina Korssund,"21/15,21/23,21/15",Ronja Hartmann,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Ronja Hartmann,,Ragne Russnes,"21/12,21/13",Ronja Hartmann,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Mina Korssund,,Ragne Russnes,"23/21,21/13",Mina Korssund,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Camilla Persen,,Leyla Eleonora Destefanis,"21/9,21/11",Camilla Persen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Nicoline Wærsten,,Tine Bjønness-Jacobsen,"21/14,21/11",Nicoline Wærsten,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Camilla Persen,,Tine Bjønness-Jacobsen,"21/7,21/6",Camilla Persen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Nicoline Wærsten,,Leyla Eleonora Destefanis,"21/12,21/5",Nicoline Wærsten,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Camilla Persen,,Nicoline Wærsten,"21/16,21/14",Camilla Persen,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Leyla Eleonora Destefanis,,Tine Bjønness-Jacobsen,"21/19,21/19",Leyla Eleonora Destefanis,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Marlen Nygård,,Emilie Haukebøe,"21/7,21/10",Marlen Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Ingunn Sunde,,Emilie Haukebøe,"21/19,21/8",Ingunn Sunde,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,,Marlen Nygård,,Ingunn Sunde,"21/8,19/21,21/6",Marlen Nygård,
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Haakon Lærkerød Jelsness,Aleksander Jakovlevs,Armand Bruun,Mathias Wong,"21/14,21/8",Haakon Lærkerød Jelsness,Aleksander Jakovlevs
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Armand Bruun,Mathias Wong,Magnus Linderoth,Eirik Tryland Laheld,"21/19,21/14",Armand Bruun,Mathias Wong
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Philip Allport Fossum,Mattis Olsen Berg,Magnus Linderoth,Eirik Tryland Laheld,"21/18,25/23",Philip Allport Fossum,Mattis Olsen Berg
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Armand Bruun,Mathias Wong,Philip Allport Fossum,Mattis Olsen Berg,"23/21,21/17",Armand Bruun,Mathias Wong
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Haakon Lærkerød Jelsness,Aleksander Jakovlevs,Peter Nikolai Borøy,Øyvind Vegsund Staver,"21/8,21/5",Haakon Lærkerød Jelsness,Aleksander Jakovlevs
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Leonard Volrath Holmboe,Jonas Telle,Peter Nikolai Borøy,Øyvind Vegsund Staver,"21/14,21/15",Leonard Volrath Holmboe,Jonas Telle
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Haakon Lærkerød Jelsness,Aleksander Jakovlevs,Leonard Volrath Holmboe,Jonas Telle,"21/17,21/9",Haakon Lærkerød Jelsness,Aleksander Jakovlevs
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Marlen Nygård,Ronja Hartmann,Mina Korssund,Nicoline Wærsten,"21/15,21/19",Marlen Nygård,Ronja Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Emilie Haukebøe,Amalie Theil,Emma Sellevoll,Hedda Jensen,"21/8,21/14",Emilie Haukebøe,Amalie Theil
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Marlen Nygård,Ronja Hartmann,Camilla Persen,Ingunn Sunde,"21/13,21/12",Marlen Nygård,Ronja Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Camilla Persen,Ingunn Sunde,Emma Sellevoll,Hedda Jensen,"21/5,21/9",Camilla Persen,Ingunn Sunde
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Marlen Nygård,Ronja Hartmann,Emilie Haukebøe,Amalie Theil,"21/10,21/15",Marlen Nygård,Ronja Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Camilla Persen,Ingunn Sunde,Emilie Haukebøe,Amalie Theil,"21/19,21/9",Camilla Persen,Ingunn Sunde
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Marlen Nygård,Ronja Hartmann,Emma Sellevoll,Hedda Jensen,"21/2,21/6",Marlen Nygård,Ronja Hartmann
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Tine Bjønness-Jacobsen,Live Lislerud Vestli,Ragne Russnes,Inger Russnes,"17/21,21/8,22/20",Tine Bjønness-Jacobsen,Live Lislerud Vestli
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mina Korssund,Nicoline Wærsten,Jenny Helén Steinnes Leine,Inger Tomine Mo Skaarum,"21/6,21/2",Mina Korssund,Nicoline Wærsten
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Tine Bjønness-Jacobsen,Live Lislerud Vestli,Jenny Helén Steinnes Leine,Inger Tomine Mo Skaarum,"21/6,21/9",Tine Bjønness-Jacobsen,Live Lislerud Vestli
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mina Korssund,Nicoline Wærsten,Ragne Russnes,Inger Russnes,"21/10,21/9",Mina Korssund,Nicoline Wærsten
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Ragne Russnes,Inger Russnes,Jenny Helén Steinnes Leine,Inger Tomine Mo Skaarum,"21/4,21/13",Ragne Russnes,Inger Russnes
-2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mina Korssund,Nicoline Wærsten,Tine Bjønness-Jacobsen,Live Lislerud Vestli,"21/13,21/17",Mina Korssund,Nicoline Wærsten
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Carlo Alonzo Agustin,,Pål Endre Pedersen,"25/23,19/21,21/12",Carlo Alonzo Agustin,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Pål Endre Pedersen,,Petter Tryland Laheld,"21/18,21/18",Pål Endre Pedersen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Pål Endre Pedersen,,Boyan Yu,"17/21,21/12,21/16",Pål Endre Pedersen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Petter Tryland Laheld,,Boyan Yu,"21/17,21/23,22/20",Petter Tryland Laheld,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Carlo Alonzo Agustin,,Amund Rikheim Huus,"21/15,22/20",Carlo Alonzo Agustin,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Amund Rikheim Huus,,Christian S. Johnsen,"24/26,22/20,21/15",Amund Rikheim Huus,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN E,Herresingle,,Carlo Alonzo Agustin,,Christian S. Johnsen,"21/23,21/10,21/13",Carlo Alonzo Agustin,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Daniel Bjørklund,,Advait Mital,"21/14,23/21",Daniel Bjørklund,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Advait Mital,,Morten Aarhus,"21/3,24/22",Advait Mital,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Gjermund Hagen,,Andreas Korssund,"21/16,21/19",Gjermund Hagen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Gjermund Hagen,,Morten Aarhus,"21/14,21/17",Gjermund Hagen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Advait Mital,,Andreas Korssund,"21/14,15/21,21/19",Advait Mital,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Morten Aarhus,,Andreas Korssund,"21/10,21/23,21/16",Morten Aarhus,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Advait Mital,,Gjermund Hagen,"11/21,21/12,21/18",Advait Mital,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Tommy Helander,,Hermod Holte Haugland,"21/15,23/21",Tommy Helander,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Daniel Bjørklund,,Tommy Helander,"21/18,21/16",Daniel Bjørklund,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herresingle,,Hermod Holte Haugland,,Daniel Bjørklund,"21/19,14/21,21/19",Hermod Holte Haugland,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Damesingle,,Elise Lærkerød Jelsness,,Mei Yang,"21/8,21/11",Elise Lærkerød Jelsness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Damesingle,,Berit Thyness,,Kristin Thømt,"21/13,21/14",Berit Thyness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Damesingle,,Berit Thyness,,Mei Yang,"21/8,21/4",Berit Thyness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Damesingle,,Elise Lærkerød Jelsness,,Kristin Thømt,"21/14,21/10",Elise Lærkerød Jelsness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Damesingle,,Kristin Thømt,,Mei Yang,"21/16,21/14",Kristin Thømt,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Damesingle,,Berit Thyness,,Elise Lærkerød Jelsness,"21/18,21/17",Berit Thyness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,Amund Rikheim Huus,Knut Morten Engen,Hermod Holte Haugland,Andreas Korssund,"21/12,21/14",Amund Rikheim Huus,Knut Morten Engen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,David Wong,Ram Kumar,Carlo Alonzo Agustin,Christer Andersen,"21/15,16/21,21/11",David Wong,Ram Kumar
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,Tommy Helander,Daniel Bjørklund,Hermod Holte Haugland,Andreas Korssund,"21/16,21/16",Tommy Helander,Daniel Bjørklund
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,David Wong,Ram Kumar,Amund Rikheim Huus,Knut Morten Engen,"21/9,21/15",David Wong,Ram Kumar
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,Amund Rikheim Huus,Knut Morten Engen,Carlo Alonzo Agustin,Christer Andersen,"21/17,21/8",Amund Rikheim Huus,Knut Morten Engen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,David Wong,Ram Kumar,Hermod Holte Haugland,Andreas Korssund,"21/18,21/13",David Wong,Ram Kumar
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,Hermod Holte Haugland,Andreas Korssund,Carlo Alonzo Agustin,Christer Andersen,"21/15,22/20",Hermod Holte Haugland,Andreas Korssund
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,David Wong,Ram Kumar,Tommy Helander,Daniel Bjørklund,"18/21,21/16,21/12",David Wong,Ram Kumar
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,Amund Rikheim Huus,Knut Morten Engen,Tommy Helander,Daniel Bjørklund,"21/19,15/21,21/12",Amund Rikheim Huus,Knut Morten Engen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Herredouble,Tommy Helander,Daniel Bjørklund,Carlo Alonzo Agustin,Christer Andersen,"21/13,22/20",Tommy Helander,Daniel Bjørklund
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Tommy Helander,Kristin Thømt,Knut Morten Engen,Anja Olsen,"21/18,18/21,21/16",Tommy Helander,Kristin Thømt
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom,Marlen Nygård,Petter Tryland Laheld,"21/12,22/24,21/15",Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Marlen Nygård,Petter Tryland Laheld,Tommy Helander,Kristin Thømt,"12/21,21/19,21/15",Marlen Nygård,Petter Tryland Laheld
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Tommy Helander,Kristin Thømt,Rishi Arvind Phatak,Ragnhild Løvenskiold Grüner Husom,"21/17,21/9",Tommy Helander,Kristin Thømt
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Elise Lærkerød Jelsness,Marius Edwards,Halldór Reynisson,Yngvild Buraas,"21/14,21/14",Elise Lærkerød Jelsness,Marius Edwards
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Knut Morten Engen,Anja Olsen,Halldór Reynisson,Yngvild Buraas,"21/15,22/20",Knut Morten Engen,Anja Olsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN A,Mixeddouble,Knut Morten Engen,Anja Olsen,Elise Lærkerød Jelsness,Marius Edwards,"10/21,21/16,21/16",Knut Morten Engen,Anja Olsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Khiem  Duc Nguyen,,Marius Edwards,"21/11,21/11",Khiem  Duc Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Marius Edwards,,Riji Ameen Jainualabdeen,"17/21,21/8,21/17",Marius Edwards,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Khiem  Duc Nguyen,,Sondre Sefland,"21/8,21/10",Khiem  Duc Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Riji Ameen Jainualabdeen,,Yusman Kamaleri,"21/11,21/19",Riji Ameen Jainualabdeen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Adam Karsen,,Yusman Kamaleri,"15/21,21/13,21/18",Adam Karsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Riji Ameen Jainualabdeen,,Adam Karsen,"21/6,21/14",Riji Ameen Jainualabdeen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Rishi Arvind Phatak,,Christer Andersen,"22/20,21/16",Rishi Arvind Phatak,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Thomas Holdbakk,,Marius Edwards,"21/18,21/15",Thomas Holdbakk,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Marius Edwards,,Christer Andersen,"23/21,21/18",Marius Edwards,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Rishi Arvind Phatak,,Thomas Holdbakk,"21/13,21/9",Rishi Arvind Phatak,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Christer Andersen,,Thomas Holdbakk,"21/12,21/15",Christer Andersen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Marius Edwards,,Rishi Arvind Phatak,"21/18,21/12",Marius Edwards,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Knut Lyngstad,,Vasanthan Nadarasah,"21/12,21/15",Knut Lyngstad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Sondre Sefland,,Knut Lyngstad,"13/21,21/12,21/15",Sondre Sefland,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Sondre Sefland,,Vasanthan Nadarasah,"21/16,21/16",Sondre Sefland,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Khiem  Duc Nguyen,,Qiqing Gan,"21/15,21/15",Khiem  Duc Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Khiem  Duc Nguyen,,Lars Tingstad,"21/11,21/13",Khiem  Duc Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herresingle,,Qiqing Gan,,Lars Tingstad,"14/21,21/14,21/16",Qiqing Gan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Lars Tingstad,Arne Linnerud,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/0,21/0",Lars Tingstad,Arne Linnerud
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Marius Edwards,Oscar Tveit Strøm,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/12,13/21,21/13",Marius Edwards,Oscar Tveit Strøm
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Marius Edwards,Oscar Tveit Strøm,Lars Tingstad,Arne Linnerud,"21/17,21/18",Marius Edwards,Oscar Tveit Strøm
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Halldór Reynisson,Rishi Arvind Phatak,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"21/8,21/14",Halldór Reynisson,Rishi Arvind Phatak
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Halldór Reynisson,Rishi Arvind Phatak,Marius Edwards,Oscar Tveit Strøm,"21/17,21/8",Halldór Reynisson,Rishi Arvind Phatak
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Halldór Reynisson,Rishi Arvind Phatak,Lars Tingstad,Arne Linnerud,"21/8,21/15",Halldór Reynisson,Rishi Arvind Phatak
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Thomas Holdbakk,Lars Torkelsen,Riji Ameen Jainualabdeen,Vasanthan Nadarasah,"22/20,12/21,21/17",Thomas Holdbakk,Lars Torkelsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Halldór Reynisson,Rishi Arvind Phatak,Thomas Holdbakk,Lars Torkelsen,"21/11,21/12",Halldór Reynisson,Rishi Arvind Phatak
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Marius Edwards,Oscar Tveit Strøm,Thomas Holdbakk,Lars Torkelsen,"21/10,21/15",Marius Edwards,Oscar Tveit Strøm
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN B,Herredouble,Lars Tingstad,Arne Linnerud,Thomas Holdbakk,Lars Torkelsen,"21/16,21/15",Lars Tingstad,Arne Linnerud
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Simon Roland Birkvad,,Xijiang Yu,"20/22,21/16,21/13",Simon Roland Birkvad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Xijiang Yu,,Pak Ling Li,"21/13,16/21,21/16",Xijiang Yu,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Xijiang Yu,,Vikas Kumar Sarna,"21/11,20/22,21/15",Xijiang Yu,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Pak Ling Li,,Vikas Kumar Sarna,"21/11,21/19",Pak Ling Li,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Dexter Regarde,,Gowrikumar Sathiyaseelan,"21/14,21/7",Dexter Regarde,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Simon Roland Birkvad,,Espen Ditmansen,"21/11,21/17",Simon Roland Birkvad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Espen Ditmansen,,Dexter Regarde,"21/14,21/19",Espen Ditmansen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Simon Roland Birkvad,,Gowrikumar Sathiyaseelan,"21/6,21/5",Simon Roland Birkvad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Simon Roland Birkvad,,Dexter Regarde,"21/17,21/8",Simon Roland Birkvad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herresingle,,Espen Ditmansen,,Gowrikumar Sathiyaseelan,"21/7,21/7",Espen Ditmansen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Mette Sandersen,,Ingrid Beate Østberg,"15/21,21/18,21/15",Mette Sandersen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Yngvild Buraas,,Helene Ye,"22/20,21/15",Yngvild Buraas,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Yngvild Buraas,,Mette Sandersen,"21/18,21/7",Yngvild Buraas,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Kaisa Isabell Sandboe,,Helene Ye,"21/5,21/9",Kaisa Isabell Sandboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Kaisa Isabell Sandboe,,Mette Sandersen,"21/10,21/11",Kaisa Isabell Sandboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Yngvild Buraas,,Ingrid Beate Østberg,"21/16,21/11",Yngvild Buraas,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Kaisa Isabell Sandboe,,Yngvild Buraas,"21/16,21/11",Kaisa Isabell Sandboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Helene Ye,,Mette Sandersen,"21/10,21/16",Helene Ye,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Damesingle,,Kaisa Isabell Sandboe,,Ingrid Beate Østberg,"21/19,21/5",Kaisa Isabell Sandboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Kristin Thømt,Anja Olsen,Kaisa Isabell Sandboe,Elise Lærkerød Jelsness,"21/13,21/16",Kristin Thømt,Anja Olsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Kaisa Isabell Sandboe,Elise Lærkerød Jelsness,Yngvild Buraas,Ragnhild Løvenskiold Grüner Husom,"21/12,21/15",Kaisa Isabell Sandboe,Elise Lærkerød Jelsness
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Kristin Thømt,Anja Olsen,Felix Frithjof Piene,Zacharias Ramstad,"21/15,21/11",Kristin Thømt,Anja Olsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Dexter Regarde,Fredrik Nilssen,Kavin Thas,Max Meyer Hellwege,"21/14,21/12",Dexter Regarde,Fredrik Nilssen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Kristin Thømt,Anja Olsen,Kavin Thas,Max Meyer Hellwege,"21/7,21/5",Kristin Thømt,Anja Olsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Dexter Regarde,Fredrik Nilssen,Felix Frithjof Piene,Zacharias Ramstad,"13/21,21/6,21/16",Dexter Regarde,Fredrik Nilssen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Kristin Thømt,Anja Olsen,Fredrik Nilssen,Dexter Regarde,"21/11,21/15",Kristin Thømt,Anja Olsen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN C,Herredouble,Felix Frithjof Piene,Zacharias Ramstad,Max Meyer Hellwege,Kavin Thas,"21/12,21/11",Felix Frithjof Piene,Zacharias Ramstad
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Julian Aulin Bøe,,Markus Aanesen,"21/15,19/21,21/13",Julian Aulin Bøe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Markus Aanesen,,Paul Schubert,"22/20,20/22,21/19",Markus Aanesen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Julian Aulin Bøe,,Lars Torkelsen,"21/18,27/25",Julian Aulin Bøe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Julian Aulin Bøe,,Johnny Holte Haugland,"21/18,21/18",Julian Aulin Bøe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Jørgen Thorp,,Steinar  Hansen,"21/15,12/21,21/14",Jørgen Thorp,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Paul Schubert,,Jørgen Thorp,"21/16,21/19",Paul Schubert,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Steinar  Hansen,,Paul Schubert,"17/21,21/17,21/18",Steinar  Hansen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Markus Aanesen,,Fredrik Nilssen,"21/15,21/11",Markus Aanesen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Frank Oddvar Nygård,,Fredrik Nilssen,"21/14,21/15",Frank Oddvar Nygård,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Øivind Harket,,Markus Aanesen,"21/19,21/15",Øivind Harket,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Markus Aanesen,,Frank Oddvar Nygård,"21/18,21/9",Markus Aanesen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Øivind Harket,,Fredrik Nilssen,"21/14,21/10",Øivind Harket,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Frank Oddvar Nygård,,Øivind Harket,"25/23,21/17",Frank Oddvar Nygård,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Julian Aulin Bøe,,Andreas Thorp,"19/21,21/13,21/19",Julian Aulin Bøe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Tom Kasperski,,Andreas Thorp,"21/18,21/12",Tom Kasperski,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Julian Aulin Bøe,,Tom Kasperski,"21/17,21/17",Julian Aulin Bøe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Johnny Holte Haugland,,Richard Dante,"21/9,21/6",Johnny Holte Haugland,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Morten Barhaugen,,Hallvard Storkaas,"21/11,21/9",Morten Barhaugen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Lars Torkelsen,,Vegard Andersen,"21/17,16/21,21/14",Lars Torkelsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Lars Torkelsen,,Morten Barhaugen,"21/15,21/14",Lars Torkelsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Vegard Andersen,,Hallvard Storkaas,"21/13,21/10",Vegard Andersen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Morten Barhaugen,,Vegard Andersen,"21/18,21/8",Morten Barhaugen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herresingle,,Lars Torkelsen,,Hallvard Storkaas,"21/2,21/4",Lars Torkelsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Julian Aulin Bøe,Markus Aanesen,Frank Oddvar Nygård,Hallvard Storkaas,"21/9,21/19",Julian Aulin Bøe,Markus Aanesen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Steinar  Hansen,Johnny Holte Haugland,Tom Kasperski,Paul Schubert,"21/16,21/14",Steinar  Hansen,Johnny Holte Haugland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Mekki Lumio,Niels Gunnar Juel,Frank Oddvar Nygård,Hallvard Storkaas,"21/16,23/21",Mekki Lumio,Niels Gunnar Juel
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Steinar  Hansen,Johnny Holte Haugland,Julian Aulin Bøe,Markus Aanesen,"21/17,21/12",Steinar  Hansen,Johnny Holte Haugland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Frank Oddvar Nygård,Hallvard Storkaas,"21/14,21/16",Tom Kasperski,Paul Schubert
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Steinar  Hansen,Johnny Holte Haugland,Mekki Lumio,Niels Gunnar Juel,"21/14,21/18",Steinar  Hansen,Johnny Holte Haugland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Julian Aulin Bøe,Markus Aanesen,Mekki Lumio,Niels Gunnar Juel,"21/18,16/21,21/13",Julian Aulin Bøe,Markus Aanesen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Julian Aulin Bøe,Markus Aanesen,"17/21,21/14,21/15",Tom Kasperski,Paul Schubert
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Steinar  Hansen,Johnny Holte Haugland,Frank Oddvar Nygård,Hallvard Storkaas,"21/12,21/4",Steinar  Hansen,Johnny Holte Haugland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Herredouble,Tom Kasperski,Paul Schubert,Mekki Lumio,Niels Gunnar Juel,"21/16,18/21,21/13",Tom Kasperski,Paul Schubert
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Mette Sandersen,Lars Tingstad,"21/16,21/14",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Mixeddouble,Daniel Brustad Snorrason,Kaisa Isabell Sandboe,Zuzana Hartmann,Hallvard Storkaas,"21/13,21/9",Daniel Brustad Snorrason,Kaisa Isabell Sandboe
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Mixeddouble,Mette Sandersen,Lars Tingstad,Ingrid Beate Østberg,Max Meyer Hellwege,"23/25,21/12,21/6",Mette Sandersen,Lars Tingstad
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Mixeddouble,Mette Sandersen,Lars Tingstad,Shasha Jiang,Paul Schubert,"21/19,21/15",Mette Sandersen,Lars Tingstad
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,SEN D,Mixeddouble,Shasha Jiang,Paul Schubert,Ingrid Beate Østberg,Max Meyer Hellwege,"21/16,16/21,21/15",Shasha Jiang,Paul Schubert
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Vinit Sharma,,Daniel Nguyen,"21/15,21/19",Vinit Sharma,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Alexander Allport Fossum,,Andrea Cecilie Borøy,"21/16,21/13",Alexander Allport Fossum,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Daniel Nguyen,,Andrea Cecilie Borøy,"14/21,21/18,21/15",Daniel Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Vinit Sharma,,Alexander Allport Fossum,"21/18,21/18",Vinit Sharma,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Alexander Allport Fossum,,Daniel Nguyen,"21/16,21/13",Alexander Allport Fossum,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Vinit Sharma,,Andrea Cecilie Borøy,"21/17,21/15",Vinit Sharma,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Mathias Aga,,Vebjørn Isberg Haugan,"21/13,21/16",Mathias Aga,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Abhinav Nandan Sundararajan,,Holm Huan Lien,"21/8,21/19",Abhinav Nandan Sundararajan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Mathias Aga,,Holm Huan Lien,"21/13,21/11",Mathias Aga,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Abhinav Nandan Sundararajan,,Vebjørn Isberg Haugan,"21/12,21/17",Abhinav Nandan Sundararajan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Mathias Aga,,Abhinav Nandan Sundararajan,"21/19,21/15",Mathias Aga,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Vebjørn Isberg Haugan,,Holm Huan Lien,"21/4,21/16",Vebjørn Isberg Haugan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Shravan Ramkumar,,August Korseberg Stokke,"21/10,21/15",Shravan Ramkumar,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Shravan Ramkumar,,Teodor Moen-Kristiansen,"21/14,21/10",Shravan Ramkumar,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U11 A,Herresingle,,Teodor Moen-Kristiansen,,August Korseberg Stokke,"14/21,21/17,21/17",Teodor Moen-Kristiansen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Varun Manikandan,,Adit Sharma,"21/23,21/18,21/14",Varun Manikandan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Adam Tollisen Leyland,,Fredrik Hellemo Ruud,"21/12,21/15",Adam Tollisen Leyland,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Adit Sharma,,Adam Tollisen Leyland,"21/19,21/16",Adit Sharma,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Adit Sharma,,Fredrik Hellemo Ruud,"21/14,21/10",Adit Sharma,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Varun Manikandan,,Emil Greaker Wiik,"21/12,21/6",Varun Manikandan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Emil Greaker Wiik,,Mikkel Grevsnes,"21/17,21/15",Emil Greaker Wiik,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Herresingle,,Varun Manikandan,,Mikkel Grevsnes,"21/11,21/1",Varun Manikandan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Heidi Hartmann,,Vilma Aasheim-Engen,"18/21,21/19,21/15",Heidi Hartmann,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Vilma Aasheim-Engen,,Nancy Hang,"21/8,21/6",Vilma Aasheim-Engen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Sofie Jin Reistadbakk,,Rebecca Haukebøe,"21/8,21/10",Sofie Jin Reistadbakk,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Sofie Jin Reistadbakk,,Nancy Hang,"21/7,21/12",Sofie Jin Reistadbakk,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Vilma Aasheim-Engen,,Rebecca Haukebøe,"21/14,21/4",Vilma Aasheim-Engen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Nancy Hang,,Rebecca Haukebøe,"21/16,21/17",Nancy Hang,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Vilma Aasheim-Engen,,Sofie Jin Reistadbakk,"21/7,21/19",Vilma Aasheim-Engen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Emma Yasmin Ruud,,Andrea Nygård,"21/8,21/6",Emma Yasmin Ruud,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Heidi Hartmann,,Emilie Lie Cook,"25/23,21/14",Heidi Hartmann,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Heidi Hartmann,,Andrea Nygård,"21/4,21/4",Heidi Hartmann,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Emma Yasmin Ruud,,Emilie Lie Cook,"21/15,21/17",Emma Yasmin Ruud,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Emilie Lie Cook,,Andrea Nygård,"21/7,21/8",Emilie Lie Cook,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damesingle,,Heidi Hartmann,,Emma Yasmin Ruud,"21/15,21/19",Heidi Hartmann,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damedouble,Nancy Hang,Rebecca Haukebøe,Emma Yasmin Ruud,Celine H Solvang Søvik,"22/20,21/15",Nancy Hang,Rebecca Haukebøe
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Sofie Jin Reistadbakk,Emilie Lie Cook,"21/14,21/11",Vilma Aasheim-Engen,Heidi Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Nancy Hang,Rebecca Haukebøe,"21/9,21/12",Vilma Aasheim-Engen,Heidi Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damedouble,Sofie Jin Reistadbakk,Emilie Lie Cook,Emma Yasmin Ruud,Celine H Solvang Søvik,"21/12,21/6",Sofie Jin Reistadbakk,Emilie Lie Cook
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damedouble,Sofie Jin Reistadbakk,Emilie Lie Cook,Nancy Hang,Rebecca Haukebøe,"21/14,21/6",Sofie Jin Reistadbakk,Emilie Lie Cook
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Damedouble,Vilma Aasheim-Engen,Heidi Hartmann,Emma Yasmin Ruud,Celine H Solvang Søvik,"21/10,21/8",Vilma Aasheim-Engen,Heidi Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Yatin Mehta,Sofie Jin Reistadbakk,Adit Sharma,Celine H Solvang Søvik,"21/5,8/21,21/15",Yatin Mehta,Sofie Jin Reistadbakk
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Emma Yasmin Ruud,Adam Tollisen Leyland,Mikkel Grevsnes,Rebecca Haukebøe,"21/16,21/15",Emma Yasmin Ruud,Adam Tollisen Leyland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Yatin Mehta,Sofie Jin Reistadbakk,Emma Yasmin Ruud,Adam Tollisen Leyland,"21/19,21/14",Yatin Mehta,Sofie Jin Reistadbakk
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Fredrik Hellemo Ruud,Vilma Aasheim-Engen,Adit Sharma,Celine H Solvang Søvik,"21/16,21/13",Fredrik Hellemo Ruud,Vilma Aasheim-Engen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Fredrik Hellemo Ruud,Vilma Aasheim-Engen,Yatin Mehta,Sofie Jin Reistadbakk,"21/19,21/17",Fredrik Hellemo Ruud,Vilma Aasheim-Engen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Adit Sharma,Celine H Solvang Søvik,Mikkel Grevsnes,Rebecca Haukebøe,"21/12,21/8",Adit Sharma,Celine H Solvang Søvik
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Emma Yasmin Ruud,Adam Tollisen Leyland,Adit Sharma,Celine H Solvang Søvik,"16/21,21/13,21/18",Emma Yasmin Ruud,Adam Tollisen Leyland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Emma Yasmin Ruud,Adam Tollisen Leyland,Fredrik Hellemo Ruud,Vilma Aasheim-Engen,"21/17,21/13",Emma Yasmin Ruud,Adam Tollisen Leyland
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Yatin Mehta,Sofie Jin Reistadbakk,Mikkel Grevsnes,Rebecca Haukebøe,"21/10,21/14",Yatin Mehta,Sofie Jin Reistadbakk
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 A,Mixeddouble,Fredrik Hellemo Ruud,Vilma Aasheim-Engen,Mikkel Grevsnes,Rebecca Haukebøe,"21/17,19/21,21/13",Fredrik Hellemo Ruud,Vilma Aasheim-Engen
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Audun JS Nyquist,,Yatin Mehta,"21/18,21/18",Audun JS Nyquist,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Audun JS Nyquist,,Christian Tombre,"11/21,21/18,21/16",Audun JS Nyquist,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Yatin Mehta,,Albert Aasheim-Engen,"21/12,21/15",Yatin Mehta,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Yatin Mehta,,Adrian Janitz,"21/9,21/9",Yatin Mehta,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Henrik Frende Lavik-Haug,,Ibrahim Linusson-Ibrahim,"15/21,21/6,21/6",Henrik Frende Lavik-Haug,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Audun JS Nyquist,,Ibrahim Linusson-Ibrahim,"21/10,21/10",Audun JS Nyquist,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Audun JS Nyquist,,Henrik Frende Lavik-Haug,"21/10,21/18",Audun JS Nyquist,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Christian Tombre,,Lucas Steinvik Rønning,"21/8,21/12",Christian Tombre,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Lucas Steinvik Rønning,,Aksel Victor Sanchis,"21/13,21/17",Lucas Steinvik Rønning,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Christian Tombre,,Even Telle,"21/10,21/9",Christian Tombre,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Lucas Steinvik Rønning,,Even Telle,"21/11,24/22",Lucas Steinvik Rønning,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Christian Tombre,,Aksel Victor Sanchis,"21/4,21/9",Christian Tombre,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,William Andre Moe,,Didrik Alexander Poppe,"21/17,21/14",William Andre Moe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Yatin Mehta,,Didrik Alexander Poppe,"21/6,21/1",Yatin Mehta,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Yatin Mehta,,William Andre Moe,"21/17,21/14",Yatin Mehta,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Adrian Janitz,,Linus Nordal,"21/7,21/12",Adrian Janitz,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Vetle Bolstad,,Linus Nordal,"20/22,23/21,21/14",Vetle Bolstad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Adrian Janitz,,Vetle Bolstad,"21/19,21/18",Adrian Janitz,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Qianyang Gan,,Ludvik Lamøy,"21/10,21/15",Qianyang Gan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Qianyang Gan,,Erik Nyborg,"21/10,21/8",Qianyang Gan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Albert Aasheim-Engen,,Ludvik Lamøy,"21/12,17/21,21/15",Albert Aasheim-Engen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Ludvik Lamøy,,Erik Nyborg,"21/17,21/8",Ludvik Lamøy,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Herresingle,,Albert Aasheim-Engen,,Qianyang Gan,"21/14,21/12",Albert Aasheim-Engen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Olivia Myrestrand,,Milla Maevski,"21/16,21/18",Olivia Myrestrand,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Olivia Myrestrand,,Victoria Heiberg,"21/15,21/11",Olivia Myrestrand,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Olivia Myrestrand,,Celine H Solvang Søvik,"21/16,21/11",Olivia Myrestrand,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Victoria Heiberg,,Celine H Solvang Søvik,"21/11,21/10",Victoria Heiberg,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Milla Maevski,,Varshini Manikandan,"21/9,21/12",Milla Maevski,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Varshini Manikandan,,Elisabeth Wittusen,"21/9,21/11",Varshini Manikandan,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U13 B,Damesingle,,Milla Maevski,,Elisabeth Wittusen,"21/10,21/8",Milla Maevski,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Theodor Fjelldal,,Bjørn Deron,"21/15,21/9",Theodor Fjelldal,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Theodor Fjelldal,,David Nguyen,"21/6,21/19",Theodor Fjelldal,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Bjørn Deron,,Leonard Volrath Holmboe,"21/16,21/19",Bjørn Deron,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Leonard Volrath Holmboe,,Andreas Andersen Roksvåg,"17/21,21/19,22/20",Leonard Volrath Holmboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Theodor Fjelldal,,Eirik Tryland Laheld,"21/6,21/8",Theodor Fjelldal,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Zhongyan Yu,,Eirik Tryland Laheld,"21/8,21/9",Zhongyan Yu,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Theodor Fjelldal,,Zhongyan Yu,"21/11,21/9",Theodor Fjelldal,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,David Nguyen,,Philip Allport Fossum,"21/6,21/9",David Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Aleksander Jakovlevs,,Øyvind Vegsund Staver,"21/4,21/7",Aleksander Jakovlevs,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Philip Allport Fossum,,Øyvind Vegsund Staver,"21/15,21/14",Philip Allport Fossum,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,David Nguyen,,Aleksander Jakovlevs,"21/10,21/12",David Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Aleksander Jakovlevs,,Philip Allport Fossum,"21/9,21/19",Aleksander Jakovlevs,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,David Nguyen,,Øyvind Vegsund Staver,"21/13,21/3",David Nguyen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Leonard Volrath Holmboe,,Peter Nikolai Borøy,"21/8,21/7",Leonard Volrath Holmboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Leonard Volrath Holmboe,,Magnus Linderoth,"21/11,21/15",Leonard Volrath Holmboe,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Magnus Linderoth,,Peter Nikolai Borøy,"21/17,21/11",Magnus Linderoth,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Andreas Andersen Roksvåg,,Eivind Engeseth,"21/13,16/21,21/13",Andreas Andersen Roksvåg,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Eivind Engeseth,,Mathias Wong,"21/12,21/16",Eivind Engeseth,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Andreas Andersen Roksvåg,,Mathias Wong,"21/17,21/15",Andreas Andersen Roksvåg,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Armand Bruun,"21/18,21/10",Haakon Lærkerød Jelsness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Bjørn Deron,,Mattis Olsen Berg,"21/11,21/5",Bjørn Deron,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Bjørn Deron,,Armand Bruun,"18/21,21/6,21/13",Bjørn Deron,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Haakon Lærkerød Jelsness,,Mattis Olsen Berg,"21/13,21/12",Haakon Lærkerød Jelsness,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Bjørn Deron,,Haakon Lærkerød Jelsness,"21/13,21/15",Bjørn Deron,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herresingle,,Armand Bruun,,Mattis Olsen Berg,"21/10,21/6",Armand Bruun,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Marlen Nygård,"21/13,21/7",Kristine  Grande Ødegårdstuen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Ronja Hartmann,"21/10,21/8",Kristine  Grande Ødegårdstuen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Marlen Nygård,,Camilla Persen,"21/9,21/10",Marlen Nygård,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Inger Russnes,"21/5,21/10",Kristine  Grande Ødegårdstuen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Live Lislerud Vestli,,Inger Russnes,"21/14,21/14",Live Lislerud Vestli,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Live Lislerud Vestli,"21/7,21/10",Kristine  Grande Ødegårdstuen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Ronja Hartmann,,Mina Korssund,"21/15,21/23,21/15",Ronja Hartmann,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Ronja Hartmann,,Ragne Russnes,"21/12,21/13",Ronja Hartmann,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Mina Korssund,,Ragne Russnes,"23/21,21/13",Mina Korssund,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Camilla Persen,,Leyla Eleonora Destefanis,"21/9,21/11",Camilla Persen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Nicoline Wærsten,,Tine Bjønness-Jacobsen,"21/14,21/11",Nicoline Wærsten,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Camilla Persen,,Tine Bjønness-Jacobsen,"21/7,21/6",Camilla Persen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Nicoline Wærsten,,Leyla Eleonora Destefanis,"21/12,21/5",Nicoline Wærsten,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Camilla Persen,,Nicoline Wærsten,"21/16,21/14",Camilla Persen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Leyla Eleonora Destefanis,,Tine Bjønness-Jacobsen,"21/19,21/19",Leyla Eleonora Destefanis,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Marlen Nygård,,Emilie Haukebøe,"21/7,21/10",Marlen Nygård,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Ingunn Sunde,,Emilie Haukebøe,"21/19,21/8",Ingunn Sunde,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damesingle,,Marlen Nygård,,Ingunn Sunde,"21/8,19/21,21/6",Marlen Nygård,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Haakon Lærkerød Jelsness,Aleksander Jakovlevs,Armand Bruun,Mathias Wong,"21/14,21/8",Haakon Lærkerød Jelsness,Aleksander Jakovlevs
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Armand Bruun,Mathias Wong,Magnus Linderoth,Eirik Tryland Laheld,"21/19,21/14",Armand Bruun,Mathias Wong
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Philip Allport Fossum,Mattis Olsen Berg,Magnus Linderoth,Eirik Tryland Laheld,"21/18,25/23",Philip Allport Fossum,Mattis Olsen Berg
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Armand Bruun,Mathias Wong,Philip Allport Fossum,Mattis Olsen Berg,"23/21,21/17",Armand Bruun,Mathias Wong
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Haakon Lærkerød Jelsness,Aleksander Jakovlevs,Øyvind Vegsund Staver,Peter Nikolai Borøy,"21/8,21/5",Haakon Lærkerød Jelsness,Aleksander Jakovlevs
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Leonard Volrath Holmboe,Jonas Telle,Øyvind Vegsund Staver,Peter Nikolai Borøy,"21/14,21/15",Leonard Volrath Holmboe,Jonas Telle
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Herredouble,Haakon Lærkerød Jelsness,Aleksander Jakovlevs,Leonard Volrath Holmboe,Jonas Telle,"21/17,21/9",Haakon Lærkerød Jelsness,Aleksander Jakovlevs
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Marlen Nygård,Ronja Hartmann,Mina Korssund,Nicoline Wærsten,"21/15,21/19",Marlen Nygård,Ronja Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Emilie Haukebøe,Amalie Theil,Emma Sellevoll,Hedda Jensen,"21/8,21/14",Emilie Haukebøe,Amalie Theil
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Marlen Nygård,Ronja Hartmann,Camilla Persen,Ingunn Sunde,"21/13,21/12",Marlen Nygård,Ronja Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Camilla Persen,Ingunn Sunde,Emma Sellevoll,Hedda Jensen,"21/5,21/9",Camilla Persen,Ingunn Sunde
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Marlen Nygård,Ronja Hartmann,Emilie Haukebøe,Amalie Theil,"21/10,21/15",Marlen Nygård,Ronja Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Camilla Persen,Ingunn Sunde,Emilie Haukebøe,Amalie Theil,"21/19,21/9",Camilla Persen,Ingunn Sunde
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Marlen Nygård,Ronja Hartmann,Emma Sellevoll,Hedda Jensen,"21/2,21/6",Marlen Nygård,Ronja Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Tine Bjønness-Jacobsen,Live Lislerud Vestli,Ragne Russnes,Inger Russnes,"17/21,21/8,22/20",Tine Bjønness-Jacobsen,Live Lislerud Vestli
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Jenny Helén Steinnes Leine,Inger Tomine Mo Skaarum,"21/6,21/2",Mina Korssund,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Tine Bjønness-Jacobsen,Live Lislerud Vestli,Jenny Helén Steinnes Leine,Inger Tomine Mo Skaarum,"21/6,21/9",Tine Bjønness-Jacobsen,Live Lislerud Vestli
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Ragne Russnes,Inger Russnes,"21/10,21/9",Mina Korssund,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Ragne Russnes,Inger Russnes,Jenny Helén Steinnes Leine,Inger Tomine Mo Skaarum,"21/4,21/13",Ragne Russnes,Inger Russnes
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Damedouble,Mina Korssund,Nicoline Wærsten,Tine Bjønness-Jacobsen,Live Lislerud Vestli,"21/13,21/17",Mina Korssund,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Inger Russnes,Eirik Tryland Laheld,"21/5,21/9",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Haakon Lærkerød Jelsness,Mina Korssund,"21/17,21/18",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Haakon Lærkerød Jelsness,Mina Korssund,Inger Russnes,Eirik Tryland Laheld,"21/10,21/10",Haakon Lærkerød Jelsness,Mina Korssund
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Leonard Volrath Holmboe,Live Lislerud Vestli,Mattis Olsen Berg,Ronja Hartmann,"21/18,21/19",Leonard Volrath Holmboe,Live Lislerud Vestli
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Leonard Volrath Holmboe,Live Lislerud Vestli,"21/11,21/16",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Aleksander Jakovlevs,Nicoline Wærsten,Mattis Olsen Berg,Ronja Hartmann,"21/4,21/11",Aleksander Jakovlevs,Nicoline Wærsten
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Mathias Wong,Emilie Haukebøe,Amalie Theil,Tristan Thøgersen,"21/12,21/17",Mathias Wong,Emilie Haukebøe
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Mattis Olsen Berg,Ronja Hartmann,Mathias Wong,Emilie Haukebøe,"21/16,21/17",Mattis Olsen Berg,Ronja Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Mattis Olsen Berg,Ronja Hartmann,Amalie Theil,Tristan Thøgersen,"21/7,21/10",Mattis Olsen Berg,Ronja Hartmann
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Philip Allport Fossum,Ragne Russnes,Andreas Dahl,Tine Bjønness-Jacobsen,"21/11,21/16",Philip Allport Fossum,Ragne Russnes
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Leonard Volrath Holmboe,Live Lislerud Vestli,Andreas Dahl,Tine Bjønness-Jacobsen,"21/11,21/7",Leonard Volrath Holmboe,Live Lislerud Vestli
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 A,Mixeddouble,Leonard Volrath Holmboe,Live Lislerud Vestli,Philip Allport Fossum,Ragne Russnes,"21/17,21/11",Leonard Volrath Holmboe,Live Lislerud Vestli
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Petter Ormstad Olsen,,Daniel Fægri,"21/17,23/21",Petter Ormstad Olsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Petter Ormstad Olsen,,Andreas Hellemo Ruud,"21/16,21/19",Petter Ormstad Olsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Daniel Fægri,,Andreas Dahl,"21/13,21/17",Daniel Fægri,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Andreas Hellemo Ruud,,Magnus Mikkelsen Svenstrup,"21/17,21/11",Andreas Hellemo Ruud,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Magnus Mikkelsen Svenstrup,,Carl Fredrik Hjarne,"18/21,21/17,21/12",Magnus Mikkelsen Svenstrup,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Andreas Hellemo Ruud,,Carl Fredrik Hjarne,"20/22,21/10,21/16",Andreas Hellemo Ruud,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Luan Damaske,,Aksel Moen-Kristiansen,"21/16,17/21,21/19",Luan Damaske,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Petter Ormstad Olsen,,Luan Damaske,"21/7,21/8",Petter Ormstad Olsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Petter Ormstad Olsen,,Aksel Moen-Kristiansen,"21/11,21/9",Petter Ormstad Olsen,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Andreas Dahl,,Kristian Dalen Kålhus,"21/10,21/10",Andreas Dahl,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Oscar Kjøs Holli,,Kristian Dalen Kålhus,"21/19,21/12",Oscar Kjøs Holli,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Andreas Dahl,,Oscar Kjøs Holli,"21/15,21/8",Andreas Dahl,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herresingle,,Daniel Fægri,,Jakob Vikanes,"21/1,21/7",Daniel Fægri,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Tristan Thøgersen,Mikkel Grevsnes,Albert Aasheim-Engen,Christian Tombre,"21/12,22/20",Tristan Thøgersen,Mikkel Grevsnes
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Tristan Thøgersen,Mikkel Grevsnes,Andreas Hellemo Ruud,Fredrik Hellemo Ruud,"21/16,22/20",Tristan Thøgersen,Mikkel Grevsnes
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Andreas Hellemo Ruud,Fredrik Hellemo Ruud,Yatin Mehta,Adam Tollisen Leyland,"15/21,21/16,12/11",Andreas Hellemo Ruud,Fredrik Hellemo Ruud
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Tristan Thøgersen,Mikkel Grevsnes,Yatin Mehta,Adam Tollisen Leyland,"16/21,21/9,21/15",Tristan Thøgersen,Mikkel Grevsnes
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Albert Aasheim-Engen,Christian Tombre,Vetle Bolstad,Didrik Alexander Poppe,"21/13,21/9",Albert Aasheim-Engen,Christian Tombre
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Albert Aasheim-Engen,Christian Tombre,Andreas Dahl,Luan Damaske,"21/14,21/17",Albert Aasheim-Engen,Christian Tombre
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U15 B,Herredouble,Andreas Dahl,Luan Damaske,Vetle Bolstad,Didrik Alexander Poppe,"17/21,21/13,21/13",Andreas Dahl,Luan Damaske
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 A,Herresingle,,Daniel Brustad Snorrason,,Marius Aga,"21/15,21/13",Daniel Brustad Snorrason,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 A,Herresingle,,Marius Aga,,Oscar Tveit Strøm,"21/19,13/21,21/17",Marius Aga,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 A,Herresingle,,Daniel Brustad Snorrason,,Oscar Tveit Strøm,"17/21,23/21,21/14",Daniel Brustad Snorrason,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Zacharias Ramstad,,Rasmus Fægri,"21/7,21/12",Zacharias Ramstad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Felix Frithjof Piene,,Max Meyer Hellwege,"21/13,21/7",Felix Frithjof Piene,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Max Meyer Hellwege,,Rasmus Fægri,"21/6,21/8",Max Meyer Hellwege,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Zacharias Ramstad,,Mats Berner Tombre,"21/7,21/14",Zacharias Ramstad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Felix Frithjof Piene,,Mats Berner Tombre,"21/16,21/5",Felix Frithjof Piene,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Zacharias Ramstad,,Max Meyer Hellwege,"21/12,21/12",Zacharias Ramstad,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Felix Frithjof Piene,,Rasmus Fægri,"21/5,21/3",Felix Frithjof Piene,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Mats Berner Tombre,,Max Meyer Hellwege,"21/19,21/16",Mats Berner Tombre,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Mats Berner Tombre,,Rasmus Fægri,"21/14,21/19",Mats Berner Tombre,
+2018/2019,Bygdø Bygdø Høsttreff 2018,13.10.2018,U17 B,Herresingle,,Felix Frithjof Piene,,Zacharias Ramstad,"21/11,19/21,21/12",Felix Frithjof Piene,

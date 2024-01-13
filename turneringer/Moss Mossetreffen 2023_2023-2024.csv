@@ -1,485 +1,400 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Thor Christian Tallaksen,"21/19,21/18",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Truls Helgerød,,Frank Heggen,"21/12,21/7",Truls Helgerød,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Andy Hang,"21/18,14/21,21/7",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Martin Enghaug,"21/14,15/21,21/17",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frank Heggen,,Magnus Halvorsen,"21/9,21/16",Frank Heggen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Haakon Lærkerød Jelsness,"17/21,21/8,21/13",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Amund Lind,"21/16,21/14",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Martin Enghaug,,Pelle Cornelius Nordeide,"21/14,21/14",Martin Enghaug,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Truls Helgerød,,Eirik Wallentin,"21/18,21/8",Truls Helgerød,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Amund Lind,,Magnus Halvorsen,"21/9,21/13",Amund Lind,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Amund Lind,"21/12,21/16",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Magnus Halvorsen,"21/12,21/8",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Martin Enghaug,,Eirik Wallentin,"21/4,21/8",Martin Enghaug,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Andy Hang,,Frank Heggen,"21/10,21/9",Andy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Andy Hang,,Eirik Wallentin,"21/8,21/11",Andy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Martin Enghaug,,Frank Heggen,"21/8,21/8",Martin Enghaug,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frank Heggen,,Eirik Wallentin,"21/14,21/18",Frank Heggen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Andy Hang,,Martin Enghaug,"21/15,21/19",Andy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Haakon Lærkerød Jelsness,"21/15,21/5",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Truls Helgerød,"21/16,21/10",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Haakon Lærkerød Jelsness,,Truls Helgerød,"18/21,23/21,21/18",Haakon Lærkerød Jelsness,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Thor Christian Tallaksen,"21/19,21/18",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Truls Helgerød,,Frank Heggen,"21/12,21/7",Truls Helgerød,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Andy Hang,"21/18,14/21,21/7",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Martin Enghaug,"21/14,15/21,21/17",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frank Heggen,,Magnus Halvorsen,"21/9,21/16",Frank Heggen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Haakon Lærkerød Jelsness,"17/21,21/8,21/13",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Amund Lind,"21/16,21/14",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Martin Enghaug,,Pelle Cornelius Nordeide,"21/14,21/14",Martin Enghaug,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Truls Helgerød,,Eirik Wallentin,"21/18,21/8",Truls Helgerød,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Amund Lind,,Magnus Halvorsen,"21/9,21/13",Amund Lind,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Amund Lind,"21/12,21/16",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varun Manikandan,,Magnus Halvorsen,"21/12,21/8",Varun Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Martin Enghaug,,Eirik Wallentin,"21/4,21/8",Martin Enghaug,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Andy Hang,,Frank Heggen,"21/10,21/9",Andy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Andy Hang,,Eirik Wallentin,"21/8,21/11",Andy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Martin Enghaug,,Frank Heggen,"21/8,21/8",Martin Enghaug,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frank Heggen,,Eirik Wallentin,"21/14,21/18",Frank Heggen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Andy Hang,,Martin Enghaug,"21/15,21/19",Andy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Haakon Lærkerød Jelsness,"21/15,21/5",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Thor Christian Tallaksen,,Truls Helgerød,"21/16,21/10",Thor Christian Tallaksen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Haakon Lærkerød Jelsness,,Truls Helgerød,"18/21,23/21,21/18",Haakon Lærkerød Jelsness,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Emma Yasmin Ruud,,Frida Bjørvik Løvheim,"21/8,21/12",Emma Yasmin Ruud,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Nancy Hang,,Gülser Selin Kilinc,"16/21,21/9,21/14",Nancy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frida Bjørvik Løvheim,,Varshini Manikandan,"21/11,9/21,21/19",Frida Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Emma Yasmin Ruud,,Melanie Antonella Matland,"21/14,21/12",Emma Yasmin Ruud,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Nancy Hang,,Julie Norberg,"21/13,21/12",Nancy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varshini Manikandan,,Julie Norberg,"21/10,21/14",Varshini Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Varshini Manikandan,,Melanie Antonella Matland,"21/14,21/16",Varshini Manikandan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Melanie Antonella Matland,,Julie Norberg,"21/16,12/21,21/15",Melanie Antonella Matland,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frida Bjørvik Løvheim,,Nancy Hang,"21/11,21/11",Frida Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Emma Yasmin Ruud,,Gülser Selin Kilinc,"21/4,21/6",Emma Yasmin Ruud,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Emma Yasmin Ruud,,Frida Bjørvik Løvheim,"19/21,21/8,21/16",Emma Yasmin Ruud,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Nancy Hang,,Gülser Selin Kilinc,"21/18,21/11",Nancy Hang,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Frida Bjørvik Løvheim,,Gülser Selin Kilinc,"21/9,21/14",Frida Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,,Emma Yasmin Ruud,,Nancy Hang,"21/8,21/12",Emma Yasmin Ruud,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Varshini Manikandan,Emma Yasmin Ruud,Frida Bjørvik Løvheim,Marielle Sørby,"18/21,21/17,21/14",Varshini Manikandan,Emma Yasmin Ruud
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Frida Bjørvik Løvheim,Marielle Sørby,Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen,"23/21,21/9",Frida Bjørvik Løvheim,Marielle Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Varshini Manikandan,Emma Yasmin Ruud,Melanie Antonella Matland,Julie Norberg,"21/15,19/21,21/10",Varshini Manikandan,Emma Yasmin Ruud
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Melanie Antonella Matland,Julie Norberg,Helene Ye,Kamonthip Charoenphanit,"20/22,21/14,21/16",Melanie Antonella Matland,Julie Norberg
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen,Melanie Antonella Matland,Julie Norberg,"17/21,24/22,21/17",Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen,Helene Ye,Kamonthip Charoenphanit,"21/10,21/9",Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Frida Bjørvik Løvheim,Marielle Sørby,Nancy Hang,Marie A. Toverud,"21/10,19/21,21/10",Frida Bjørvik Løvheim,Marielle Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Varshini Manikandan,Emma Yasmin Ruud,Nancy Hang,Marie A. Toverud,"21/8,21/10",Varshini Manikandan,Emma Yasmin Ruud
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Varshini Manikandan,Emma Yasmin Ruud,Frida Bjørvik Løvheim,Marielle Sørby,"21/8,21/13",Varshini Manikandan,Emma Yasmin Ruud
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Timothée Le,"21/16,17/21,21/16",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Artur Ziolkowski,,Oscar Øisjøfoss Sørheim,"21/19,17/21,21/19",Artur Ziolkowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Babu Stalin,"21/18,21/14",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Hans Martin Mabäcker,"21/17,21/9",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Oscar Øisjøfoss Sørheim,,Syed Mohammed Ali,"9/21,21/16,21/15",Oscar Øisjøfoss Sørheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Hans Martin Mabäcker,,Marius Dolven,"21/16,21/10",Hans Martin Mabäcker,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Oscar Øisjøfoss Sørheim,"21/16,21/10",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Marius Dolven,"21/23,21/16,21/11",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Hans Martin Mabäcker,,Oscar Øisjøfoss Sørheim,"21/8,21/19",Hans Martin Mabäcker,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Hans Martin Mabäcker,"21/11,21/8",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Artur Ziolkowski,"21/15,21/18",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Babu Stalin,,Syed Mohammed Ali,"21/13,21/16",Babu Stalin,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Artur Ziolkowski,,Syed Mohammed Ali,"11/21,21/18,21/18",Artur Ziolkowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Babu Stalin,"21/19,21/16",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Babu Stalin,,Artur Ziolkowski,"21/19,21/12",Babu Stalin,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Syed Mohammed Ali,"21/18,21/15",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Timothée Le,"21/16,17/21,21/16",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Artur Ziolkowski,,Oscar Øisjøfoss Sørheim,"21/19,17/21,21/19",Artur Ziolkowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Babu Stalin,"21/18,21/14",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Hans Martin Mabäcker,"21/17,21/9",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Oscar Øisjøfoss Sørheim,,Syed Mohammed Ali,"9/21,21/16,21/15",Oscar Øisjøfoss Sørheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Hans Martin Mabäcker,,Marius Dolven,"21/16,21/10",Hans Martin Mabäcker,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Oscar Øisjøfoss Sørheim,"21/16,21/10",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Marius Dolven,"21/23,21/16,21/11",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Hans Martin Mabäcker,,Oscar Øisjøfoss Sørheim,"21/8,21/19",Hans Martin Mabäcker,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Jakub Krakowski,,Hans Martin Mabäcker,"21/11,21/8",Jakub Krakowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Artur Ziolkowski,"21/15,21/18",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Babu Stalin,,Syed Mohammed Ali,"21/13,21/16",Babu Stalin,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Artur Ziolkowski,,Syed Mohammed Ali,"11/21,21/18,21/18",Artur Ziolkowski,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Babu Stalin,"21/19,21/16",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Babu Stalin,,Artur Ziolkowski,"21/19,21/12",Babu Stalin,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,,Timothée Le,,Syed Mohammed Ali,"21/18,21/15",Timothée Le,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Andre Høidebraaten,Baard Janitz,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,"25/23,21/16",Andre Høidebraaten,Baard Janitz
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Andre Høidebraaten,Baard Janitz,Hassan Ali,Adnan Safdar Warraich,"21/17,21/17",Andre Høidebraaten,Baard Janitz
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,Knut Morten Engen,Kim Christensen,"21/16,21/19",Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Hassan Ali,Adnan Safdar Warraich,Johnny Lam,Jay Janaskar,"21/23,21/19,21/18",Hassan Ali,Adnan Safdar Warraich
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,Ramesh Vinayaga,Kenneth salvadhoor,"12/21,22/20,21/18",Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Andre Høidebraaten,Baard Janitz,Sebastian Tho Hang,Nora Uri Malterud,"21/13,21/13",Andre Høidebraaten,Baard Janitz
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,Sebastian Tho Hang,Nora Uri Malterud,"21/15,21/13",Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Andre Høidebraaten,Baard Janitz,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,"27/25,21/9",Andre Høidebraaten,Baard Janitz
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Ramesh Vinayaga,Kenneth salvadhoor,Johnny Lam,Jay Janaskar,"21/14,7/21,21/19",Ramesh Vinayaga,Kenneth salvadhoor
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Knut Morten Engen,Kim Christensen,Gabriel Pettersen Engelberg,Andreas Bjønness-Enghaug,"21/9,21/8",Knut Morten Engen,Kim Christensen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Hassan Ali,Adnan Safdar Warraich,John Nguyen,Celina Nha-Mi-Thanh,"21/14,4/21,21/17",Hassan Ali,Adnan Safdar Warraich
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Hassan Ali,Adnan Safdar Warraich,Gabriel Pettersen Engelberg,Andreas Bjønness-Enghaug,"21/11,21/8",Hassan Ali,Adnan Safdar Warraich
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Knut Morten Engen,Kim Christensen,John Nguyen,Celina Nha-Mi-Thanh,"21/15,21/19",Knut Morten Engen,Kim Christensen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,John Nguyen,Celina Nha-Mi-Thanh,Gabriel Pettersen Engelberg,Andreas Bjønness-Enghaug,"21/14,21/13",John Nguyen,Celina Nha-Mi-Thanh
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Knut Morten Engen,Kim Christensen,Hassan Ali,Adnan Safdar Warraich,"21/16,21/18",Knut Morten Engen,Kim Christensen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Artur Ziolkowski,Cao Van Dang,Hans Martin Mabäcker,Kristian Walbom,"21/13,14/21,23/21",Artur Ziolkowski,Cao Van Dang
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Babu Stalin,Linu jose,Artur Ziolkowski,Cao Van Dang,"17/21,21/11,21/14",Babu Stalin,Linu jose
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Babu Stalin,Linu jose,Hans Martin Mabäcker,Kristian Walbom,"21/9,21/13",Babu Stalin,Linu jose
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Artur Ziolkowski,Cao Van Dang,Hans Martin Mabäcker,Kristian Walbom,"21/13,14/21,23/21",Artur Ziolkowski,Cao Van Dang
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Babu Stalin,Linu jose,Artur Ziolkowski,Cao Van Dang,"17/21,21/11,21/14",Babu Stalin,Linu jose
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Babu Stalin,Linu jose,Hans Martin Mabäcker,Kristian Walbom,"21/9,21/13",Babu Stalin,Linu jose
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Kristian Walbom,,Linu jose,"21/17,22/20",Kristian Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Linu jose,,Wenche Brinchmann,"21/14,21/8",Linu jose,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Kristian Walbom,,Merete Ruud Tuskin,"21/16,21/12",Kristian Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Linu jose,,Aksel Hegerstrøm Haugli,"21/13,19/21,21/18",Linu jose,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Linu jose,,Kristian Walbom,"21/12,21/16",Linu jose,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Kristian Walbom,,Aksel Hegerstrøm Haugli,"21/13,17/21,21/18",Kristian Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Merete Ruud Tuskin,,Wenche Brinchmann,"23/21,15/21,21/11",Merete Ruud Tuskin,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Kristian Walbom,,Linu jose,"21/17,22/20",Kristian Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Linu jose,,Wenche Brinchmann,"21/14,21/8",Linu jose,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Kristian Walbom,,Merete Ruud Tuskin,"21/16,21/12",Kristian Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Linu jose,,Aksel Hegerstrøm Haugli,"21/13,19/21,21/18",Linu jose,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Linu jose,,Kristian Walbom,"21/12,21/16",Linu jose,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Kristian Walbom,,Aksel Hegerstrøm Haugli,"21/13,17/21,21/18",Kristian Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Merete Ruud Tuskin,,Wenche Brinchmann,"23/21,15/21,21/11",Merete Ruud Tuskin,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Silje Krissly Pettersen,,Frida Lavik-Haug,"21/10,21/5",Silje Krissly Pettersen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Trine Lise Haugli,,Anita Løvheim,"21/12,21/15",Trine Lise Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Trine Lise Haugli,,Frida Lavik-Haug,"21/7,21/5",Trine Lise Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Anita Løvheim,,Silje Krissly Pettersen,"21/7,21/7",Anita Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Anita Løvheim,,Frida Lavik-Haug,"21/6,21/5",Anita Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,,Trine Lise Haugli,,Silje Krissly Pettersen,"21/10,21/5",Trine Lise Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Amir Shahzad,Umair Rasool,Tanveer Ashraf,Kanwal Agnihotri,"21/19,21/16",Amir Shahzad,Umair Rasool
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Frans Fürst,Timofii Sukhorukov,Naseem Ahmad,Karthik Tanakala,"21/14,21/17",Frans Fürst,Timofii Sukhorukov
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Tanveer Ashraf,Kanwal Agnihotri,Ketil Haugli,Jostein Pettersen Engelberg,"21/14,21/16",Tanveer Ashraf,Kanwal Agnihotri
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Amir Shahzad,Umair Rasool,Merete Ruud Tuskin,Wenche Brinchmann,"21/18,21/19",Amir Shahzad,Umair Rasool
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Merete Ruud Tuskin,Wenche Brinchmann,Naseem Ahmad,Karthik Tanakala,"21/15,18/21,21/19",Merete Ruud Tuskin,Wenche Brinchmann
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Tanveer Ashraf,Kanwal Agnihotri,Naseem Ahmad,Karthik Tanakala,"21/17,21/15",Tanveer Ashraf,Kanwal Agnihotri
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Tanveer Ashraf,Kanwal Agnihotri,Merete Ruud Tuskin,Wenche Brinchmann,"21/10,20/22,21/13",Tanveer Ashraf,Kanwal Agnihotri
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Amir Shahzad,Umair Rasool,Frans Fürst,Timofii Sukhorukov,"21/18,21/11",Amir Shahzad,Umair Rasool
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Amir Shahzad,Umair Rasool,Ketil Haugli,Jostein Pettersen Engelberg,"21/15,21/6",Amir Shahzad,Umair Rasool
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Ketil Haugli,Jostein Pettersen Engelberg,Frans Fürst,Timofii Sukhorukov,"22/20,14/21,21/19",Ketil Haugli,Jostein Pettersen Engelberg
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Vishakha Gridhar,Mari H. Birkelund,"21/14,21/17",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Maja Gjemdal,Ida Nemeth-Bjørkli,"21/15,21/12",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Vishakha Gridhar,Mari H. Birkelund,Anastasiia Petrina,Nadin Hope,"21/19,21/19",Vishakha Gridhar,Mari H. Birkelund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Charu Pandey,Silje Krissly Pettersen,"21/17,21/17",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Vishakha Gridhar,Mari H. Birkelund,"19/21,21/17,21/11",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Vishakha Gridhar,Mari H. Birkelund,Charu Pandey,Silje Krissly Pettersen,"23/21,21/16",Vishakha Gridhar,Mari H. Birkelund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Anastasiia Petrina,Nadin Hope,Maja Gjemdal,Ida Nemeth-Bjørkli,"21/14,21/13",Anastasiia Petrina,Nadin Hope
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Ayaan Syed,,Abdirahman Hish,"21/3,21/2",Ayaan Syed,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Ayaan Syed,,Emmeli Blomberg Gundersen,"21/6,21/7",Ayaan Syed,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Herman Skogheim Kubberød,,Abdirahman Hish,"21/12,21/7",Herman Skogheim Kubberød,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Amira Rahman,,Emmeli Blomberg Gundersen,"21/12,21/13",Amira Rahman,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Ayaan Syed,,Herman Skogheim Kubberød,"21/3,21/6",Ayaan Syed,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Emmeli Blomberg Gundersen,,Herman Skogheim Kubberød,"21/16,21/18",Emmeli Blomberg Gundersen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Amira Rahman,,Abdirahman Hish,"21/8,21/10",Amira Rahman,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Ayaan Syed,,Abdirahman Hish,"21/3,21/2",Ayaan Syed,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Ayaan Syed,,Emmeli Blomberg Gundersen,"21/6,21/7",Ayaan Syed,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Herman Skogheim Kubberød,,Abdirahman Hish,"21/12,21/7",Herman Skogheim Kubberød,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Amira Rahman,,Emmeli Blomberg Gundersen,"21/12,21/13",Amira Rahman,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Ayaan Syed,,Herman Skogheim Kubberød,"21/3,21/6",Ayaan Syed,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Emmeli Blomberg Gundersen,,Herman Skogheim Kubberød,"21/16,21/18",Emmeli Blomberg Gundersen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,,Amira Rahman,,Abdirahman Hish,"21/8,21/10",Amira Rahman,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kevin Danie,,Vismay Umesh Sarode,"21/6,21/3",Kevin Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Dhakshith Rajesh,,Sidarth Karthik,"21/8,21/7",Dhakshith Rajesh,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Viaan Chawla,,Hannah Yujia Jin,"21/5,21/4",Viaan Chawla,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Kian Aamodt,"21/7,21/17",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Sidarth Karthik,,Hannah Yujia Jin,"21/14,21/8",Sidarth Karthik,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Victor Carlan,"21/16,21/19",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kian Aamodt,,Viaan Chawla,"21/16,21/19",Kian Aamodt,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kevin Danie,,Hannah Yujia Jin,"21/10,21/6",Kevin Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Sidarth Karthik,,Vismay Umesh Sarode,"21/12,21/8",Sidarth Karthik,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Dhakshith Rajesh,"21/4,21/15",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Victor Carlan,,Kevin Danie,"21/17,21/9",Victor Carlan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Viaan Chawla,,Sidarth Karthik,"21/13,21/10",Viaan Chawla,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kian Aamodt,,Vismay Umesh Sarode,"21/12,21/12",Kian Aamodt,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Victor Carlan,,Viaan Chawla,"21/12,21/16",Victor Carlan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kevin Danie,,Sidarth Karthik,"21/17,21/11",Kevin Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Vismay Umesh Sarode,"21/7,21/9",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Dhakshith Rajesh,,Hannah Yujia Jin,"21/4,21/9",Dhakshith Rajesh,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kevin Danie,,Vismay Umesh Sarode,"21/6,21/3",Kevin Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Dhakshith Rajesh,,Sidarth Karthik,"21/8,21/7",Dhakshith Rajesh,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Viaan Chawla,,Hannah Yujia Jin,"21/5,21/4",Viaan Chawla,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Kian Aamodt,"21/7,21/17",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Sidarth Karthik,,Hannah Yujia Jin,"21/14,21/8",Sidarth Karthik,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Victor Carlan,"21/16,21/19",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kian Aamodt,,Viaan Chawla,"21/16,21/19",Kian Aamodt,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kevin Danie,,Hannah Yujia Jin,"21/10,21/6",Kevin Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Sidarth Karthik,,Vismay Umesh Sarode,"21/12,21/8",Sidarth Karthik,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Dhakshith Rajesh,"21/4,21/15",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Victor Carlan,,Kevin Danie,"21/17,21/9",Victor Carlan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Viaan Chawla,,Sidarth Karthik,"21/13,21/10",Viaan Chawla,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kian Aamodt,,Vismay Umesh Sarode,"21/12,21/12",Kian Aamodt,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Victor Carlan,,Viaan Chawla,"21/12,21/16",Victor Carlan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Kevin Danie,,Sidarth Karthik,"21/17,21/11",Kevin Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Daniel Hansen,,Vismay Umesh Sarode,"21/7,21/9",Daniel Hansen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,,Dhakshith Rajesh,,Hannah Yujia Jin,"21/4,21/9",Dhakshith Rajesh,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Joachim Nguyen,"21/18,21/18",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Martin Bjørvik Løvheim,,Neil Sharma,"21/12,21/15",Martin Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Dev Singh Jassal,"23/21,21/18",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Ryan Danie,"21/11,21/13",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Neil Sharma,,Jonathan Stenstad Brænna,"21/11,21/19",Neil Sharma,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Martin Bjørvik Løvheim,,Åsmund Petersen,"21/8,21/12",Martin Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Dev Singh Jassal,,Ask Emilian Herlung,"21/9,21/11",Dev Singh Jassal,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Ryan Danie,,Marius Ågesen,"20/22,21/11,21/8",Ryan Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Marius Ågesen,,Neil Sharma,"21/4,21/7",Marius Ågesen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Åsmund Petersen,"21/8,21/7",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Neil Sharma,,Åsmund Petersen,"21/15,24/22",Neil Sharma,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Marius Ågesen,"21/5,21/14",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Neil Sharma,"21/11,21/6",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Marius Ågesen,,Åsmund Petersen,"21/13,21/12",Marius Ågesen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Ryan Danie,,Ask Emilian Herlung,"21/18,21/7",Ryan Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Dev Singh Jassal,,Martin Bjørvik Løvheim,"21/9,21/14",Dev Singh Jassal,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Jonathan Stenstad Brænna,"21/7,21/14",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Dev Singh Jassal,,Jonathan Stenstad Brænna,"21/8,21/14",Dev Singh Jassal,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Martin Bjørvik Løvheim,"21/9,21/13",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Dev Singh Jassal,"18/21,21/19,21/17",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Martin Bjørvik Løvheim,,Jonathan Stenstad Brænna,"25/27,21/11,21/8",Martin Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Joachim Nguyen,"21/18,21/18",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Martin Bjørvik Løvheim,,Neil Sharma,"21/12,21/15",Martin Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Dev Singh Jassal,"23/21,21/18",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Ryan Danie,"21/11,21/13",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Neil Sharma,,Jonathan Stenstad Brænna,"21/11,21/19",Neil Sharma,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Martin Bjørvik Løvheim,,Åsmund Petersen,"21/8,21/12",Martin Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Dev Singh Jassal,,Ask Emilian Herlung,"21/9,21/11",Dev Singh Jassal,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Ryan Danie,,Marius Ågesen,"20/22,21/11,21/8",Ryan Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Marius Ågesen,,Neil Sharma,"21/4,21/7",Marius Ågesen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Åsmund Petersen,"21/8,21/7",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Neil Sharma,,Åsmund Petersen,"21/15,24/22",Neil Sharma,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Marius Ågesen,"21/5,21/14",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Leon Matheo Solbakken Svela,,Neil Sharma,"21/11,21/6",Leon Matheo Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Marius Ågesen,,Åsmund Petersen,"21/13,21/12",Marius Ågesen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Ryan Danie,,Ask Emilian Herlung,"21/18,21/7",Ryan Danie,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Dev Singh Jassal,,Martin Bjørvik Løvheim,"21/9,21/14",Dev Singh Jassal,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Jonathan Stenstad Brænna,"21/7,21/14",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Dev Singh Jassal,,Jonathan Stenstad Brænna,"21/8,21/14",Dev Singh Jassal,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Martin Bjørvik Løvheim,"21/9,21/13",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Joachim Nguyen,,Dev Singh Jassal,"18/21,21/19,21/17",Joachim Nguyen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Martin Bjørvik Løvheim,,Jonathan Stenstad Brænna,"25/27,21/11,21/8",Martin Bjørvik Løvheim,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Lone Nordal Grevsnes,,Amelia Yague Rosano,"21/13,21/16",Lone Nordal Grevsnes,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Mari N. Joakimsen,,Miliena Kulak,"21/4,21/8",Mari N. Joakimsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Lone Nordal Grevsnes,,Miliena Kulak,"21/11,21/19",Lone Nordal Grevsnes,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Milaniia Petrina,,Amelia Yague Rosano,"21/1,21/2",Milaniia Petrina,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Milaniia Petrina,,Lone Nordal Grevsnes,"21/5,21/8",Milaniia Petrina,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Mari N. Joakimsen,,Amelia Yague Rosano,"21/13,21/6",Mari N. Joakimsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Mari N. Joakimsen,,Lone Nordal Grevsnes,"21/9,21/15",Mari N. Joakimsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Milaniia Petrina,,Miliena Kulak,"21/4,21/3",Milaniia Petrina,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Amelia Yague Rosano,,Miliena Kulak,"21/10,21/7",Amelia Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,,Milaniia Petrina,,Mari N. Joakimsen,"21/15,21/14",Milaniia Petrina,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Joachim Nguyen,Mari N. Joakimsen,Neil Sharma,Marius Ågesen,"21/17,21/10",Joachim Nguyen,Mari N. Joakimsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Leon Matheo Solbakken Svela,Dev Singh Jassal,Neil Sharma,Marius Ågesen,"21/5,21/14",Leon Matheo Solbakken Svela,Dev Singh Jassal
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Leon Matheo Solbakken Svela,Dev Singh Jassal,Joachim Nguyen,Mari N. Joakimsen,"21/16,21/10",Leon Matheo Solbakken Svela,Dev Singh Jassal
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Oliver Hynne,"15/21,21/9,21/9",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Oliver Hynne,,Mats Ekronrød Larsen,"14/21,22/20,21/9",Oliver Hynne,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Samuel Næss,"22/20,21/17",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Oliver Hynne,,Noah Leander Iversen,"21/16,21/18",Oliver Hynne,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Samuel Næss,,Tobias Henningsen,"21/10,21/3",Samuel Næss,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Mats Ekronrød Larsen,,Tobias Henningsen,"21/10,21/9",Mats Ekronrød Larsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Samuel Næss,,Noah Leander Iversen,"21/19,21/14",Samuel Næss,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Aaliya Syed,"21/18,21/17",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Oliver Hynne,"21/10,21/19",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Oliver Hynne,,Aaliya Syed,"21/13,21/15",Oliver Hynne,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Oliver Hynne,"15/21,21/9,21/9",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Oliver Hynne,,Mats Ekronrød Larsen,"14/21,22/20,21/9",Oliver Hynne,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Samuel Næss,"22/20,21/17",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Oliver Hynne,,Noah Leander Iversen,"21/16,21/18",Oliver Hynne,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Samuel Næss,,Tobias Henningsen,"21/10,21/3",Samuel Næss,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Mats Ekronrød Larsen,,Tobias Henningsen,"21/10,21/9",Mats Ekronrød Larsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Samuel Næss,,Noah Leander Iversen,"21/19,21/14",Samuel Næss,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Aaliya Syed,"21/18,21/17",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Subhan Khan,,Oliver Hynne,"21/10,21/19",Subhan Khan,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,,Oliver Hynne,,Aaliya Syed,"21/13,21/15",Oliver Hynne,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ole Ramberg Singler,,Lorens Valentin Holmboe,"21/6,21/7",Ole Ramberg Singler,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Noah Leander Solbakken Svela,"18/21,21/19,21/15",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ole Ramberg Singler,,Einar Kvalbein,"21/13,21/18",Ole Ramberg Singler,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Ahmed Aldolaimi,"21/11,21/8",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Carlo Yague Rosano,"21/16,22/20",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Einar Kvalbein,,Mauritz Severinsen,"21/12,21/17",Einar Kvalbein,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Fredrik Paulsen Lauritsen,"21/7,21/9",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ahmed Aldolaimi,,Parfonov Dmytro,"21/10,19/21,21/15",Ahmed Aldolaimi,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Carlo Yague Rosano,,Patrick Namsawat Øia,"21/13,21/5",Carlo Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Ulysse Jalut-Motte,"21/15,21/11",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Parfonov Dmytro,,Andreas Østby,"20/22,21/12,21/9",Parfonov Dmytro,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Patrick Namsawat Øia,,Jean Geisler,"21/16,21/19",Patrick Namsawat Øia,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Patrick Namsawat Øia,,Lorens Valentin Holmboe,"21/15,21/5",Patrick Namsawat Øia,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Lorens Valentin Holmboe,"21/11,21/6",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Patrick Namsawat Øia,"21/14,21/14",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ahmed Aldolaimi,,Jean Geisler,"14/21,21/19,21/15",Ahmed Aldolaimi,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Fredrik Paulsen Lauritsen,,Mauritz Severinsen,"21/6,21/14",Fredrik Paulsen Lauritsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Carlo Yague Rosano,,Mauritz Severinsen,"21/6,21/2",Carlo Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Carlo Yague Rosano,,Fredrik Paulsen Lauritsen,"21/11,21/5",Carlo Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulysse Jalut-Motte,,Parfonov Dmytro,"21/16,9/21,25/23",Ulysse Jalut-Motte,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Einar Kvalbein,,Casper Westlin Solli,"21/5,21/11",Einar Kvalbein,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Parfonov Dmytro,,Casper Westlin Solli,"21/4,21/9",Parfonov Dmytro,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulysse Jalut-Motte,,Einar Kvalbein,"21/6,21/16",Ulysse Jalut-Motte,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Parfonov Dmytro,,Einar Kvalbein,"21/16,21/18",Parfonov Dmytro,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulysse Jalut-Motte,,Casper Westlin Solli,"21/10,21/5",Ulysse Jalut-Motte,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Andreas Østby,,Ole Ramberg Singler,"18/21,23/21,21/16",Andreas Østby,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Ole Ramberg Singler,"21/16,21/13",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Andreas Østby,"21/9,21/8",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ole Ramberg Singler,,Lorens Valentin Holmboe,"21/6,21/7",Ole Ramberg Singler,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Noah Leander Solbakken Svela,"18/21,21/19,21/15",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ole Ramberg Singler,,Einar Kvalbein,"21/13,21/18",Ole Ramberg Singler,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Ahmed Aldolaimi,"21/11,21/8",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Carlo Yague Rosano,"21/16,22/20",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Einar Kvalbein,,Mauritz Severinsen,"21/12,21/17",Einar Kvalbein,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Fredrik Paulsen Lauritsen,"21/7,21/9",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ahmed Aldolaimi,,Parfonov Dmytro,"21/10,19/21,21/15",Ahmed Aldolaimi,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Carlo Yague Rosano,,Patrick Namsawat Øia,"21/13,21/5",Carlo Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Ulysse Jalut-Motte,"21/15,21/11",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Parfonov Dmytro,,Andreas Østby,"20/22,21/12,21/9",Parfonov Dmytro,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Patrick Namsawat Øia,,Jean Geisler,"21/16,21/19",Patrick Namsawat Øia,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Patrick Namsawat Øia,,Lorens Valentin Holmboe,"21/15,21/5",Patrick Namsawat Øia,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Lorens Valentin Holmboe,"21/11,21/6",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Jonas Sørstrand,,Patrick Namsawat Øia,"21/14,21/14",Jonas Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ahmed Aldolaimi,,Jean Geisler,"14/21,21/19,21/15",Ahmed Aldolaimi,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Fredrik Paulsen Lauritsen,,Mauritz Severinsen,"21/6,21/14",Fredrik Paulsen Lauritsen,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Carlo Yague Rosano,,Mauritz Severinsen,"21/6,21/2",Carlo Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Carlo Yague Rosano,,Fredrik Paulsen Lauritsen,"21/11,21/5",Carlo Yague Rosano,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulysse Jalut-Motte,,Parfonov Dmytro,"21/16,9/21,25/23",Ulysse Jalut-Motte,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Einar Kvalbein,,Casper Westlin Solli,"21/5,21/11",Einar Kvalbein,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Parfonov Dmytro,,Casper Westlin Solli,"21/4,21/9",Parfonov Dmytro,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulysse Jalut-Motte,,Einar Kvalbein,"21/6,21/16",Ulysse Jalut-Motte,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Parfonov Dmytro,,Einar Kvalbein,"21/16,21/18",Parfonov Dmytro,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulysse Jalut-Motte,,Casper Westlin Solli,"21/10,21/5",Ulysse Jalut-Motte,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Andreas Østby,,Ole Ramberg Singler,"18/21,23/21,21/16",Andreas Østby,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Ole Ramberg Singler,"21/16,21/13",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Noah Leander Solbakken Svela,,Andreas Østby,"21/9,21/8",Noah Leander Solbakken Svela,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Mia Hegerstrøm Haugli,,Ulrikke Sørstrand,"15/21,24/22,21/14",Mia Hegerstrøm Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Charu Pandey,,Janna Alexa Rodriguez De Ocampo,"21/12,21/19",Charu Pandey,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Mia Hegerstrøm Haugli,,Amal Mariia Elrozi,"21/17,17/21,21/10",Mia Hegerstrøm Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulrikke Sørstrand,,Alice Løvås Walbom,"21/19,21/9",Ulrikke Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Janna Alexa Rodriguez De Ocampo,,Miranda Starup Jensen,"25/23,21/14",Janna Alexa Rodriguez De Ocampo,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Charu Pandey,,Miranda Starup Jensen,"21/19,21/10",Charu Pandey,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Mia Hegerstrøm Haugli,,Ulrikke Sørstrand,"16/21,21/18,21/16",Mia Hegerstrøm Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Mia Hegerstrøm Haugli,,Miranda Starup Jensen,"21/7,21/19",Mia Hegerstrøm Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulrikke Sørstrand,,Charu Pandey,"21/14,21/6",Ulrikke Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Ulrikke Sørstrand,,Miranda Starup Jensen,"21/10,21/7",Ulrikke Sørstrand,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Mia Hegerstrøm Haugli,,Charu Pandey,"22/20,21/12",Mia Hegerstrøm Haugli,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Alice Løvås Walbom,,Janna Alexa Rodriguez De Ocampo,"21/7,21/12",Alice Løvås Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Alice Løvås Walbom,,Amal Mariia Elrozi,"21/16,21/12",Alice Løvås Walbom,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,,Amal Mariia Elrozi,,Janna Alexa Rodriguez De Ocampo,"21/14,21/13",Amal Mariia Elrozi,
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Jonas Sørstrand,Carlo Yague Rosano,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,"21/17,21/18",Jonas Sørstrand,Carlo Yague Rosano
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Ryan Danie,Fredrik Paulsen Lauritsen,Mauritz Severinsen,Einar Kvalbein,"13/21,21/13,21/15",Ryan Danie,Fredrik Paulsen Lauritsen
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Jonas Sørstrand,Carlo Yague Rosano,Andreas Østby,Lorens Valentin Holmboe,"21/7,21/6",Jonas Sørstrand,Carlo Yague Rosano
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,Ulysse Jalut-Motte,Jean Geisler,"21/12,21/7",Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,Ryan Danie,Fredrik Paulsen Lauritsen,"21/9,21/14",Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Jonas Sørstrand,Carlo Yague Rosano,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,"21/16,21/12",Jonas Sørstrand,Carlo Yague Rosano
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Jonas Sørstrand,Carlo Yague Rosano,Ryan Danie,Fredrik Paulsen Lauritsen,"21/5,21/10",Jonas Sørstrand,Carlo Yague Rosano
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Ulysse Jalut-Motte,Jean Geisler,Mauritz Severinsen,Einar Kvalbein,"21/13,21/16",Ulysse Jalut-Motte,Jean Geisler
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Andreas Østby,Lorens Valentin Holmboe,Mauritz Severinsen,Einar Kvalbein,"11/21,21/18,21/15",Andreas Østby,Lorens Valentin Holmboe
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Ulysse Jalut-Motte,Jean Geisler,Andreas Østby,Lorens Valentin Holmboe,"21/12,21/12",Ulysse Jalut-Motte,Jean Geisler
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Ulrikke Sørstrand,Mia Hegerstrøm Haugli,Sarvikha Kumar,Miranda Starup Jensen,"21/6,21/7",Ulrikke Sørstrand,Mia Hegerstrøm Haugli
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Amal Mariia Elrozi,Milaniia Petrina,Alice Løvås Walbom,Martine Skjeltorp Nyborg,"21/12,21/15",Amal Mariia Elrozi,Milaniia Petrina
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Amal Mariia Elrozi,Milaniia Petrina,Ulrikke Sørstrand,Mia Hegerstrøm Haugli,"21/13,24/26,22/20",Amal Mariia Elrozi,Milaniia Petrina
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Alice Løvås Walbom,Martine Skjeltorp Nyborg,Sarvikha Kumar,Miranda Starup Jensen,"21/7,21/5",Alice Løvås Walbom,Martine Skjeltorp Nyborg
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Ulrikke Sørstrand,Mia Hegerstrøm Haugli,Alice Løvås Walbom,Martine Skjeltorp Nyborg,"21/18,21/6",Ulrikke Sørstrand,Mia Hegerstrøm Haugli
-2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Amal Mariia Elrozi,Milaniia Petrina,Sarvikha Kumar,Miranda Starup Jensen,"21/9,21/10",Amal Mariia Elrozi,Milaniia Petrina
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Vegard Rikheim,Ludvig Smith-Meyer,Martin Enghaug,Jørgen Rosenlund,"21/18,18/21,21/12",Vegard Rikheim,Ludvig Smith-Meyer
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Vegard Rikheim,Ludvig Smith-Meyer,Sanford Chin,Avinash Avi,"21/18,21/8",Vegard Rikheim,Ludvig Smith-Meyer
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Martin Enghaug,Jørgen Rosenlund,Bent Mørken,Richard Jakobsen,"21/12,21/15",Martin Enghaug,Jørgen Rosenlund
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Vegard Rikheim,Ludvig Smith-Meyer,Johannes Orri Olafsson,Marius Sørby,"21/12,21/8",Vegard Rikheim,Ludvig Smith-Meyer
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Sanford Chin,Avinash Avi,Rune Lavik-Haug,Shubham,"21/19,21/16",Sanford Chin,Avinash Avi
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Bent Mørken,Richard Jakobsen,Albert Aasheim-Engen,Varun Manikandan,"21/16,23/21",Bent Mørken,Richard Jakobsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Martin Enghaug,Jørgen Rosenlund,Haakon Lærkerød Jelsness,Tan Quach Le,"21/10,21/12",Martin Enghaug,Jørgen Rosenlund
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Albert Aasheim-Engen,Varun Manikandan,Magnus Tjøm,Jonas Ruud Tuskin,"21/18,20/22,21/18",Albert Aasheim-Engen,Varun Manikandan
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Vegard Rikheim,Ludvig Smith-Meyer,Magnus Tjøm,Jonas Ruud Tuskin,"21/10,21/18",Vegard Rikheim,Ludvig Smith-Meyer
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Vegard Rikheim,Ludvig Smith-Meyer,Albert Aasheim-Engen,Varun Manikandan,"21/15,21/8",Vegard Rikheim,Ludvig Smith-Meyer
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Rune Lavik-Haug,Shubham,Haakon Lærkerød Jelsness,Tan Quach Le,"21/11,21/18",Rune Lavik-Haug,Shubham
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Rune Lavik-Haug,Shubham,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/14,21/16",Rune Lavik-Haug,Shubham
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Haakon Lærkerød Jelsness,Tan Quach Le,Pelle Cornelius Nordeide,Magnus Halvorsen,"21/11,21/14",Haakon Lærkerød Jelsness,Tan Quach Le
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Bent Mørken,Richard Jakobsen,Johannes Orri Olafsson,Marius Sørby,"21/8,21/14",Bent Mørken,Richard Jakobsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Andy Hang,Timothée Le,Amund Lind,Måns Anders Lund Mabäcker,"21/19,21/10",Andy Hang,Timothée Le
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Johannes Orri Olafsson,Marius Sørby,Andy Hang,Timothée Le,"21/17,21/14",Johannes Orri Olafsson,Marius Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Bent Mørken,Richard Jakobsen,Amund Lind,Måns Anders Lund Mabäcker,"21/16,21/17",Bent Mørken,Richard Jakobsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Johannes Orri Olafsson,Marius Sørby,Amund Lind,Måns Anders Lund Mabäcker,"21/11,21/16",Johannes Orri Olafsson,Marius Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Bent Mørken,Richard Jakobsen,Andy Hang,Timothée Le,"21/9,21/10",Bent Mørken,Richard Jakobsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Herredouble,Martin Enghaug,Jørgen Rosenlund,Sanford Chin,Avinash Avi,"21/14,21/19",Martin Enghaug,Jørgen Rosenlund
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Mixeddouble,Martin Enghaug,Julie Grande Ødegårdstuen,Helene Ye,Andy Hang,"21/16,21/14",Martin Enghaug,Julie Grande Ødegårdstuen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Mixeddouble,Emma Yasmin Ruud,Haakon Lærkerød Jelsness,John Nguyen,Celina Nha-Mi-Thanh,"21/11,21/17",Emma Yasmin Ruud,Haakon Lærkerød Jelsness
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Mixeddouble,Helene Ye,Andy Hang,John Nguyen,Celina Nha-Mi-Thanh,"18/21,21/16,21/18",Helene Ye,Andy Hang
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Mixeddouble,Martin Enghaug,Julie Grande Ødegårdstuen,Emma Yasmin Ruud,Haakon Lærkerød Jelsness,"21/16,21/16",Martin Enghaug,Julie Grande Ødegårdstuen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Mixeddouble,Emma Yasmin Ruud,Haakon Lærkerød Jelsness,Helene Ye,Andy Hang,"21/16,21/13",Emma Yasmin Ruud,Haakon Lærkerød Jelsness
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN E,Mixeddouble,Martin Enghaug,Julie Grande Ødegårdstuen,John Nguyen,Celina Nha-Mi-Thanh,"21/18,21/12",Martin Enghaug,Julie Grande Ødegårdstuen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Varun Manikandan,,Thor Christian Tallaksen,"21/19,21/18",Varun Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Truls Helgerød,,Frank Heggen,"21/12,21/7",Truls Helgerød,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Varun Manikandan,,Andy Hang,"21/18,14/21,21/7",Varun Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Thor Christian Tallaksen,,Martin Enghaug,"21/14,15/21,21/17",Thor Christian Tallaksen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Frank Heggen,,Magnus Halvorsen,"21/9,21/16",Frank Heggen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Varun Manikandan,,Haakon Lærkerød Jelsness,"17/21,21/8,21/13",Varun Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Thor Christian Tallaksen,,Amund Lind,"21/16,21/14",Thor Christian Tallaksen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Martin Enghaug,,Pelle Cornelius Nordeide,"21/14,21/14",Martin Enghaug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Truls Helgerød,,Eirik Wallentin,"21/18,21/8",Truls Helgerød,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Amund Lind,,Magnus Halvorsen,"21/9,21/13",Amund Lind,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Varun Manikandan,,Amund Lind,"21/12,21/16",Varun Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Varun Manikandan,,Magnus Halvorsen,"21/12,21/8",Varun Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Martin Enghaug,,Eirik Wallentin,"21/4,21/8",Martin Enghaug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Andy Hang,,Frank Heggen,"21/10,21/9",Andy Hang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Andy Hang,,Eirik Wallentin,"21/8,21/11",Andy Hang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Martin Enghaug,,Frank Heggen,"21/8,21/8",Martin Enghaug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Frank Heggen,,Eirik Wallentin,"21/14,21/18",Frank Heggen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Andy Hang,,Martin Enghaug,"21/15,21/19",Andy Hang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Thor Christian Tallaksen,,Haakon Lærkerød Jelsness,"21/15,21/5",Thor Christian Tallaksen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Thor Christian Tallaksen,,Truls Helgerød,"21/16,21/10",Thor Christian Tallaksen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Herresingle,,Haakon Lærkerød Jelsness,,Truls Helgerød,"18/21,23/21,21/18",Haakon Lærkerød Jelsness,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Emma Yasmin Ruud,,Frida Bjørvik Løvheim,"21/8,21/12",Emma Yasmin Ruud,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Nancy Hang,,Gülser Selin Kilinc,"16/21,21/9,21/14",Nancy Hang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Frida Bjørvik Løvheim,,Varshini Manikandan,"21/11,9/21,21/19",Frida Bjørvik Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Emma Yasmin Ruud,,Melanie Antonella Matland,"21/14,21/12",Emma Yasmin Ruud,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Nancy Hang,,Julie Norberg,"21/13,21/12",Nancy Hang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Varshini Manikandan,,Julie Norberg,"21/10,21/14",Varshini Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Varshini Manikandan,,Melanie Antonella Matland,"21/14,21/16",Varshini Manikandan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Melanie Antonella Matland,,Julie Norberg,"21/16,12/21,21/15",Melanie Antonella Matland,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Frida Bjørvik Løvheim,,Nancy Hang,"21/11,21/11",Frida Bjørvik Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Emma Yasmin Ruud,,Gülser Selin Kilinc,"21/4,21/6",Emma Yasmin Ruud,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Emma Yasmin Ruud,,Frida Bjørvik Løvheim,"19/21,21/8,21/16",Emma Yasmin Ruud,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Nancy Hang,,Gülser Selin Kilinc,"21/18,21/11",Nancy Hang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Frida Bjørvik Løvheim,,Gülser Selin Kilinc,"21/9,21/14",Frida Bjørvik Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damesingle,,Emma Yasmin Ruud,,Nancy Hang,"21/8,21/12",Emma Yasmin Ruud,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Varshini Manikandan,Emma Yasmin Ruud,Frida Bjørvik Løvheim,Marielle Sørby,"18/21,21/17,21/14",Varshini Manikandan,Emma Yasmin Ruud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Frida Bjørvik Løvheim,Marielle Sørby,Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen,"23/21,21/9",Frida Bjørvik Løvheim,Marielle Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Varshini Manikandan,Emma Yasmin Ruud,Melanie Antonella Matland,Julie Norberg,"21/15,19/21,21/10",Varshini Manikandan,Emma Yasmin Ruud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Melanie Antonella Matland,Julie Norberg,Helene Ye,Kamonthip Charoenphanit,"20/22,21/14,21/16",Melanie Antonella Matland,Julie Norberg
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen,Melanie Antonella Matland,Julie Norberg,"17/21,24/22,21/17",Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen,Helene Ye,Kamonthip Charoenphanit,"21/10,21/9",Kaisa Isabell Sandboe,Julie Grande Ødegårdstuen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Frida Bjørvik Løvheim,Marielle Sørby,Nancy Hang,Marie A. Toverud,"21/10,19/21,21/10",Frida Bjørvik Løvheim,Marielle Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Varshini Manikandan,Emma Yasmin Ruud,Nancy Hang,Marie A. Toverud,"21/8,21/10",Varshini Manikandan,Emma Yasmin Ruud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Damedouble,Varshini Manikandan,Emma Yasmin Ruud,Frida Bjørvik Løvheim,Marielle Sørby,"21/8,21/13",Varshini Manikandan,Emma Yasmin Ruud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Marie A. Toverud,Truls Helgerød,Johannes Orri Olafsson,Marielle Sørby,"19/21,22/20,21/16",Marie A. Toverud,Truls Helgerød
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Marie A. Toverud,Truls Helgerød,Frida Bjørvik Løvheim,Marius Sørby,"16/21,21/16,21/12",Marie A. Toverud,Truls Helgerød
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Johannes Orri Olafsson,Marielle Sørby,Albert Aasheim-Engen,Nancy Hang,"21/14,21/10",Johannes Orri Olafsson,Marielle Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Albert Aasheim-Engen,Nancy Hang,Julie Norberg,Pelle Cornelius Nordeide,"11/21,22/20,24/22",Albert Aasheim-Engen,Nancy Hang
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Frida Bjørvik Løvheim,Marius Sørby,Albert Aasheim-Engen,Nancy Hang,"22/20,21/17",Frida Bjørvik Løvheim,Marius Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Frida Bjørvik Løvheim,Marius Sørby,Julie Norberg,Pelle Cornelius Nordeide,"21/16,21/13",Frida Bjørvik Løvheim,Marius Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Johannes Orri Olafsson,Marielle Sørby,Kaisa Isabell Sandboe,Gustav Seglsten,"25/23,21/8",Johannes Orri Olafsson,Marielle Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Marie A. Toverud,Truls Helgerød,Gülser Selin Kilinc,Magnus Tjøm,"21/3,21/9",Marie A. Toverud,Truls Helgerød
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Marie A. Toverud,Truls Helgerød,Kaisa Isabell Sandboe,Gustav Seglsten,"21/5,21/11",Marie A. Toverud,Truls Helgerød
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Johannes Orri Olafsson,Marielle Sørby,Gülser Selin Kilinc,Magnus Tjøm,"21/14,21/10",Johannes Orri Olafsson,Marielle Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Gülser Selin Kilinc,Magnus Tjøm,Kaisa Isabell Sandboe,Gustav Seglsten,"21/16,21/12",Gülser Selin Kilinc,Magnus Tjøm
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN A,Mixeddouble,Johannes Orri Olafsson,Marielle Sørby,Marie A. Toverud,Truls Helgerød,"21/16,14/21,21/13",Johannes Orri Olafsson,Marielle Sørby
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Jakub Krakowski,,Timothée Le,"21/16,17/21,21/16",Jakub Krakowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Artur Ziolkowski,,Oscar Øisjøfoss Sørheim,"21/19,17/21,21/19",Artur Ziolkowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Jakub Krakowski,,Babu Stalin,"21/18,21/14",Jakub Krakowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Timothée Le,,Hans Martin Mabäcker,"21/17,21/9",Timothée Le,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Oscar Øisjøfoss Sørheim,,Syed Mohammed Ali,"9/21,21/16,21/15",Oscar Øisjøfoss Sørheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Hans Martin Mabäcker,,Marius Dolven,"21/16,21/10",Hans Martin Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Jakub Krakowski,,Oscar Øisjøfoss Sørheim,"21/16,21/10",Jakub Krakowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Jakub Krakowski,,Marius Dolven,"21/23,21/16,21/11",Jakub Krakowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Hans Martin Mabäcker,,Oscar Øisjøfoss Sørheim,"21/8,21/19",Hans Martin Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Jakub Krakowski,,Hans Martin Mabäcker,"21/11,21/8",Jakub Krakowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Timothée Le,,Artur Ziolkowski,"21/15,21/18",Timothée Le,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Babu Stalin,,Syed Mohammed Ali,"21/13,21/16",Babu Stalin,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Artur Ziolkowski,,Syed Mohammed Ali,"11/21,21/18,21/18",Artur Ziolkowski,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Timothée Le,,Babu Stalin,"21/19,21/16",Timothée Le,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Babu Stalin,,Artur Ziolkowski,"21/19,21/12",Babu Stalin,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herresingle,,Timothée Le,,Syed Mohammed Ali,"21/18,21/15",Timothée Le,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Andre Høidebraaten,Baard Janitz,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,"25/23,21/16",Andre Høidebraaten,Baard Janitz
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Andre Høidebraaten,Baard Janitz,Hassan Ali,Adnan Safdar Warraich,"21/17,21/17",Andre Høidebraaten,Baard Janitz
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,Knut Morten Engen,Kim Christensen,"21/16,21/19",Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Hassan Ali,Adnan Safdar Warraich,Johnny Lam,Jay Janaskar,"21/23,21/19,21/18",Hassan Ali,Adnan Safdar Warraich
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,Ramesh Vinayaga,Kenneth salvadhoor,"12/21,22/20,21/18",Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Andre Høidebraaten,Baard Janitz,Sebastian Tho Hang,Nora Uri Malterud,"21/13,21/13",Andre Høidebraaten,Baard Janitz
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,Sebastian Tho Hang,Nora Uri Malterud,"21/15,21/13",Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Andre Høidebraaten,Baard Janitz,Wesley Man-Ho Cheung,Kenneth Bayeng Sanglay,"27/25,21/9",Andre Høidebraaten,Baard Janitz
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Ramesh Vinayaga,Kenneth salvadhoor,Johnny Lam,Jay Janaskar,"21/14,7/21,21/19",Ramesh Vinayaga,Kenneth salvadhoor
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Knut Morten Engen,Kim Christensen,Gabriel Pettersen Engelberg,Andreas Bjønness-Enghaug,"21/9,21/8",Knut Morten Engen,Kim Christensen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Hassan Ali,Adnan Safdar Warraich,John Nguyen,Celina Nha-Mi-Thanh,"21/14,4/21,21/17",Hassan Ali,Adnan Safdar Warraich
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Hassan Ali,Adnan Safdar Warraich,Gabriel Pettersen Engelberg,Andreas Bjønness-Enghaug,"21/11,21/8",Hassan Ali,Adnan Safdar Warraich
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Knut Morten Engen,Kim Christensen,John Nguyen,Celina Nha-Mi-Thanh,"21/15,21/19",Knut Morten Engen,Kim Christensen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,John Nguyen,Celina Nha-Mi-Thanh,Gabriel Pettersen Engelberg,Andreas Bjønness-Enghaug,"21/14,21/13",John Nguyen,Celina Nha-Mi-Thanh
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Herredouble,Knut Morten Engen,Kim Christensen,Hassan Ali,Adnan Safdar Warraich,"21/16,21/18",Knut Morten Engen,Kim Christensen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Mixeddouble,Bryan Javier Matland,Melanie Antonella Matland,Johan Zang,Varshini Manikandan,"17/21,21/17,21/18",Bryan Javier Matland,Melanie Antonella Matland
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Mixeddouble,Avinash Avi,Nora Uri Malterud,Sanford Chin,Kamonthip Charoenphanit,"21/17,21/16",Avinash Avi,Nora Uri Malterud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Mixeddouble,Avinash Avi,Nora Uri Malterud,Johan Zang,Varshini Manikandan,"21/17,19/21,21/16",Avinash Avi,Nora Uri Malterud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Mixeddouble,Sanford Chin,Kamonthip Charoenphanit,Bryan Javier Matland,Melanie Antonella Matland,"21/16,21/18",Sanford Chin,Kamonthip Charoenphanit
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Mixeddouble,Sanford Chin,Kamonthip Charoenphanit,Johan Zang,Varshini Manikandan,"21/14,17/21,21/19",Sanford Chin,Kamonthip Charoenphanit
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN B,Mixeddouble,Avinash Avi,Nora Uri Malterud,Bryan Javier Matland,Melanie Antonella Matland,"21/17,21/23,21/17",Avinash Avi,Nora Uri Malterud
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Herredouble,Artur Ziolkowski,Cao Van Dang,Hans Martin Mabäcker,Kristian Walbom,"21/13,14/21,23/21",Artur Ziolkowski,Cao Van Dang
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Herredouble,Babu Stalin,Linu jose,Artur Ziolkowski,Cao Van Dang,"17/21,21/11,21/14",Babu Stalin,Linu jose
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Herredouble,Babu Stalin,Linu jose,Hans Martin Mabäcker,Kristian Walbom,"21/9,21/13",Babu Stalin,Linu jose
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Mixeddouble,Eirik Sørstrand,Wenche Brinchmann,Lukas Endahl Haraldsen,Enja Lin Hollseter Rafnsdottir,"21/7,21/7",Eirik Sørstrand,Wenche Brinchmann
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Mixeddouble,Merete Ruud Tuskin,Cao Van Dang,Kanwal Agnihotri,Mari H. Birkelund,"21/2,21/10",Merete Ruud Tuskin,Cao Van Dang
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Mixeddouble,Merete Ruud Tuskin,Cao Van Dang,Lukas Endahl Haraldsen,Enja Lin Hollseter Rafnsdottir,"21/12,21/7",Merete Ruud Tuskin,Cao Van Dang
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Mixeddouble,Eirik Sørstrand,Wenche Brinchmann,Kanwal Agnihotri,Mari H. Birkelund,"21/5,21/7",Eirik Sørstrand,Wenche Brinchmann
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Mixeddouble,Lukas Endahl Haraldsen,Enja Lin Hollseter Rafnsdottir,Kanwal Agnihotri,Mari H. Birkelund,"21/14,21/10",Lukas Endahl Haraldsen,Enja Lin Hollseter Rafnsdottir
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN C,Mixeddouble,Eirik Sørstrand,Wenche Brinchmann,Merete Ruud Tuskin,Cao Van Dang,"21/18,21/14",Eirik Sørstrand,Wenche Brinchmann
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Kristian Walbom,,Linu jose,"21/17,22/20",Kristian Walbom,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Linu jose,,Wenche Brinchmann,"21/14,21/8",Linu jose,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Kristian Walbom,,Merete Ruud Tuskin,"21/16,21/12",Kristian Walbom,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Linu jose,,Aksel Hegerstrøm Haugli,"21/13,19/21,21/18",Linu jose,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Linu jose,,Kristian Walbom,"21/12,21/16",Linu jose,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Kristian Walbom,,Aksel Hegerstrøm Haugli,"21/13,17/21,21/18",Kristian Walbom,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herresingle,,Merete Ruud Tuskin,,Wenche Brinchmann,"23/21,15/21,21/11",Merete Ruud Tuskin,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damesingle,,Silje Krissly Pettersen,,Frida Lavik-Haug,"21/10,21/5",Silje Krissly Pettersen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damesingle,,Trine Lise Haugli,,Anita Løvheim,"21/12,21/15",Trine Lise Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damesingle,,Trine Lise Haugli,,Frida Lavik-Haug,"21/7,21/5",Trine Lise Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damesingle,,Anita Løvheim,,Silje Krissly Pettersen,"21/7,21/7",Anita Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damesingle,,Anita Løvheim,,Frida Lavik-Haug,"21/6,21/5",Anita Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damesingle,,Trine Lise Haugli,,Silje Krissly Pettersen,"21/10,21/5",Trine Lise Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Amir Shahzad,Umair Rasool,Tanveer Ashraf,Kanwal Agnihotri,"21/19,21/16",Amir Shahzad,Umair Rasool
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Frans Fürst,Timofii Sukhorukov,Naseem Ahmad,Karthik Tanakala,"21/14,21/17",Frans Fürst,Timofii Sukhorukov
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Tanveer Ashraf,Kanwal Agnihotri,Ketil Haugli,Jostein Pettersen Engelberg,"21/14,21/16",Tanveer Ashraf,Kanwal Agnihotri
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Amir Shahzad,Umair Rasool,Merete Ruud Tuskin,Wenche Brinchmann,"21/18,21/19",Amir Shahzad,Umair Rasool
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Merete Ruud Tuskin,Wenche Brinchmann,Naseem Ahmad,Karthik Tanakala,"21/15,18/21,21/19",Merete Ruud Tuskin,Wenche Brinchmann
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Tanveer Ashraf,Kanwal Agnihotri,Naseem Ahmad,Karthik Tanakala,"21/17,21/15",Tanveer Ashraf,Kanwal Agnihotri
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Tanveer Ashraf,Kanwal Agnihotri,Merete Ruud Tuskin,Wenche Brinchmann,"21/10,20/22,21/13",Tanveer Ashraf,Kanwal Agnihotri
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Amir Shahzad,Umair Rasool,Frans Fürst,Timofii Sukhorukov,"21/18,21/11",Amir Shahzad,Umair Rasool
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Amir Shahzad,Umair Rasool,Ketil Haugli,Jostein Pettersen Engelberg,"21/15,21/6",Amir Shahzad,Umair Rasool
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Herredouble,Ketil Haugli,Jostein Pettersen Engelberg,Frans Fürst,Timofii Sukhorukov,"22/20,14/21,21/19",Ketil Haugli,Jostein Pettersen Engelberg
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Vishakha Gridhar,Mari H. Birkelund,"21/14,21/17",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Maja Gjemdal,Ida Nemeth-Bjørkli,"21/15,21/12",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Vishakha Gridhar,Mari H. Birkelund,Anastasiia Petrina,Nadin Hope,"21/19,21/19",Vishakha Gridhar,Mari H. Birkelund
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Charu Pandey,Silje Krissly Pettersen,"21/17,21/17",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin,Vishakha Gridhar,Mari H. Birkelund,"19/21,21/17,21/11",Henrikke Emilie Kjøs Holli,Joséphine Carolina Balbontin
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Vishakha Gridhar,Mari H. Birkelund,Charu Pandey,Silje Krissly Pettersen,"23/21,21/16",Vishakha Gridhar,Mari H. Birkelund
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Damedouble,Anastasiia Petrina,Nadin Hope,Maja Gjemdal,Ida Nemeth-Bjørkli,"21/14,21/13",Anastasiia Petrina,Nadin Hope
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Charu Pandey,Aksel Hegerstrøm Haugli,Amir Shahzad,Nadin Hope,"21/12,12/21,21/12",Charu Pandey,Aksel Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Naseem Ahmad,Vishakha Gridhar,Trine Lise Haugli,Ketil Haugli,"21/9,18/21,23/21",Naseem Ahmad,Vishakha Gridhar
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Amir Shahzad,Nadin Hope,Tor Arild Svela,Anastasiia Petrina,"21/18,18/21,21/16",Amir Shahzad,Nadin Hope
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Trine Lise Haugli,Ketil Haugli,Timofii Sukhorukov,Silje Krissly Pettersen,"21/16,21/16",Trine Lise Haugli,Ketil Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Frida Lavik-Haug,Rune Lavik-Haug,Timofii Sukhorukov,Silje Krissly Pettersen,"21/19,15/21,21/15",Frida Lavik-Haug,Rune Lavik-Haug
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Tor Arild Svela,Anastasiia Petrina,Timofii Sukhorukov,Silje Krissly Pettersen,"21/5,21/10",Tor Arild Svela,Anastasiia Petrina
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Tor Arild Svela,Anastasiia Petrina,Frida Lavik-Haug,Rune Lavik-Haug,"21/9,19/21,21/14",Tor Arild Svela,Anastasiia Petrina
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Amir Shahzad,Nadin Hope,Naseem Ahmad,Vishakha Gridhar,"21/18,21/15",Amir Shahzad,Nadin Hope
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Charu Pandey,Aksel Hegerstrøm Haugli,Trine Lise Haugli,Ketil Haugli,"21/9,21/13",Charu Pandey,Aksel Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Charu Pandey,Aksel Hegerstrøm Haugli,Naseem Ahmad,Vishakha Gridhar,"21/13,21/8",Charu Pandey,Aksel Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Amir Shahzad,Nadin Hope,Trine Lise Haugli,Ketil Haugli,"15/21,21/19,21/14",Amir Shahzad,Nadin Hope
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Trine Lise Haugli,Ketil Haugli,Naseem Ahmad,Vishakha Gridhar,"17/21,22/20,21/12",Trine Lise Haugli,Ketil Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,SEN D,Mixeddouble,Charu Pandey,Aksel Hegerstrøm Haugli,Amir Shahzad,Nadin Hope,"21/15,21/17",Charu Pandey,Aksel Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Ayaan Syed,,Abdirahman Hish,"21/3,21/2",Ayaan Syed,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Ayaan Syed,,Emmeli Blomberg Gundersen,"21/6,21/7",Ayaan Syed,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Herman Skogheim Kubberød,,Abdirahman Hish,"21/12,21/7",Herman Skogheim Kubberød,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Amira Rahman,,Emmeli Blomberg Gundersen,"21/12,21/13",Amira Rahman,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Ayaan Syed,,Herman Skogheim Kubberød,"21/3,21/6",Ayaan Syed,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Emmeli Blomberg Gundersen,,Herman Skogheim Kubberød,"21/16,21/18",Emmeli Blomberg Gundersen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U9 C,Herresingle,,Amira Rahman,,Abdirahman Hish,"21/8,21/10",Amira Rahman,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Kevin Danie,,Vismay Umesh Sarode,"21/6,21/3",Kevin Danie,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Dhakshith Rajesh,,Sidarth Karthik,"21/8,21/7",Dhakshith Rajesh,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Viaan Chawla,,Hannah Yujia Jin,"21/5,21/4",Viaan Chawla,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Daniel Hansen,,Kian Aamodt,"21/7,21/17",Daniel Hansen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Sidarth Karthik,,Hannah Yujia Jin,"21/14,21/8",Sidarth Karthik,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Daniel Hansen,,Victor Carlan,"21/16,21/19",Daniel Hansen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Kian Aamodt,,Viaan Chawla,"21/16,21/19",Kian Aamodt,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Kevin Danie,,Hannah Yujia Jin,"21/10,21/6",Kevin Danie,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Sidarth Karthik,,Vismay Umesh Sarode,"21/12,21/8",Sidarth Karthik,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Daniel Hansen,,Dhakshith Rajesh,"21/4,21/15",Daniel Hansen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Victor Carlan,,Kevin Danie,"21/17,21/9",Victor Carlan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Viaan Chawla,,Sidarth Karthik,"21/13,21/10",Viaan Chawla,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Kian Aamodt,,Vismay Umesh Sarode,"21/12,21/12",Kian Aamodt,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Victor Carlan,,Viaan Chawla,"21/12,21/16",Victor Carlan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Kevin Danie,,Sidarth Karthik,"21/17,21/11",Kevin Danie,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Daniel Hansen,,Vismay Umesh Sarode,"21/7,21/9",Daniel Hansen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U11 A,Herresingle,,Dhakshith Rajesh,,Hannah Yujia Jin,"21/4,21/9",Dhakshith Rajesh,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Leon Matheo Solbakken Svela,,Joachim Nguyen,"21/18,21/18",Leon Matheo Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Neil Sharma,"21/12,21/15",Martin Bjørvik Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Leon Matheo Solbakken Svela,,Dev Singh Jassal,"23/21,21/18",Leon Matheo Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Joachim Nguyen,,Ryan Danie,"21/11,21/13",Joachim Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Neil Sharma,,Jonathan Stenstad Brænna,"21/11,21/19",Neil Sharma,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Åsmund Petersen,"21/8,21/12",Martin Bjørvik Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Dev Singh Jassal,,Ask Emilian Herlung,"21/9,21/11",Dev Singh Jassal,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Ryan Danie,,Marius Ågesen,"20/22,21/11,21/8",Ryan Danie,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Marius Ågesen,,Neil Sharma,"21/4,21/7",Marius Ågesen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Leon Matheo Solbakken Svela,,Åsmund Petersen,"21/8,21/7",Leon Matheo Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Neil Sharma,,Åsmund Petersen,"21/15,24/22",Neil Sharma,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Leon Matheo Solbakken Svela,,Marius Ågesen,"21/5,21/14",Leon Matheo Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Leon Matheo Solbakken Svela,,Neil Sharma,"21/11,21/6",Leon Matheo Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Marius Ågesen,,Åsmund Petersen,"21/13,21/12",Marius Ågesen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Ryan Danie,,Ask Emilian Herlung,"21/18,21/7",Ryan Danie,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Dev Singh Jassal,,Martin Bjørvik Løvheim,"21/9,21/14",Dev Singh Jassal,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Joachim Nguyen,,Jonathan Stenstad Brænna,"21/7,21/14",Joachim Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Dev Singh Jassal,,Jonathan Stenstad Brænna,"21/8,21/14",Dev Singh Jassal,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Joachim Nguyen,,Martin Bjørvik Løvheim,"21/9,21/13",Joachim Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Joachim Nguyen,,Dev Singh Jassal,"18/21,21/19,21/17",Joachim Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herresingle,,Martin Bjørvik Løvheim,,Jonathan Stenstad Brænna,"25/27,21/11,21/8",Martin Bjørvik Løvheim,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Lone Nordal Grevsnes,,Amelia Yague Rosano,"21/13,21/16",Lone Nordal Grevsnes,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Mari N. Joakimsen,,Miliena Kulak,"21/4,21/8",Mari N. Joakimsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Lone Nordal Grevsnes,,Miliena Kulak,"21/11,21/19",Lone Nordal Grevsnes,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Milaniia Petrina,,Amelia Yague Rosano,"21/1,21/2",Milaniia Petrina,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Milaniia Petrina,,Lone Nordal Grevsnes,"21/5,21/8",Milaniia Petrina,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Mari N. Joakimsen,,Amelia Yague Rosano,"21/13,21/6",Mari N. Joakimsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Mari N. Joakimsen,,Lone Nordal Grevsnes,"21/9,21/15",Mari N. Joakimsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Milaniia Petrina,,Miliena Kulak,"21/4,21/3",Milaniia Petrina,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Amelia Yague Rosano,,Miliena Kulak,"21/10,21/7",Amelia Yague Rosano,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Damesingle,,Milaniia Petrina,,Mari N. Joakimsen,"21/15,21/14",Milaniia Petrina,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herredouble,Joachim Nguyen,Mari N. Joakimsen,Neil Sharma,Marius Ågesen,"21/17,21/10",Joachim Nguyen,Mari N. Joakimsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herredouble,Leon Matheo Solbakken Svela,Dev Singh Jassal,Neil Sharma,Marius Ågesen,"21/5,21/14",Leon Matheo Solbakken Svela,Dev Singh Jassal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 A,Herredouble,Leon Matheo Solbakken Svela,Dev Singh Jassal,Joachim Nguyen,Mari N. Joakimsen,"21/16,21/10",Leon Matheo Solbakken Svela,Dev Singh Jassal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Subhan Khan,,Oliver Hynne,"15/21,21/9,21/9",Subhan Khan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Oliver Hynne,,Mats Ekronrød Larsen,"14/21,22/20,21/9",Oliver Hynne,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Subhan Khan,,Samuel Næss,"22/20,21/17",Subhan Khan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Oliver Hynne,,Noah Leander Iversen,"21/16,21/18",Oliver Hynne,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Samuel Næss,,Tobias Henningsen,"21/10,21/3",Samuel Næss,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Mats Ekronrød Larsen,,Tobias Henningsen,"21/10,21/9",Mats Ekronrød Larsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Samuel Næss,,Noah Leander Iversen,"21/19,21/14",Samuel Næss,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Subhan Khan,,Aaliya Syed,"21/18,21/17",Subhan Khan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Subhan Khan,,Oliver Hynne,"21/10,21/19",Subhan Khan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U13 C,Herresingle,,Oliver Hynne,,Aaliya Syed,"21/13,21/15",Oliver Hynne,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ole Ramberg Singler,,Lorens Valentin Holmboe,"21/6,21/7",Ole Ramberg Singler,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Jonas Sørstrand,,Noah Leander Solbakken Svela,"18/21,21/19,21/15",Jonas Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ole Ramberg Singler,,Einar Kvalbein,"21/13,21/18",Ole Ramberg Singler,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Jonas Sørstrand,,Ahmed Aldolaimi,"21/11,21/8",Jonas Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Noah Leander Solbakken Svela,,Carlo Yague Rosano,"21/16,22/20",Noah Leander Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Einar Kvalbein,,Mauritz Severinsen,"21/12,21/17",Einar Kvalbein,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Jonas Sørstrand,,Fredrik Paulsen Lauritsen,"21/7,21/9",Jonas Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ahmed Aldolaimi,,Parfonov Dmytro,"21/10,19/21,21/15",Ahmed Aldolaimi,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Carlo Yague Rosano,,Patrick Namsawat Øia,"21/13,21/5",Carlo Yague Rosano,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Noah Leander Solbakken Svela,,Ulysse Jalut-Motte,"21/15,21/11",Noah Leander Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Parfonov Dmytro,,Andreas Østby,"20/22,21/12,21/9",Parfonov Dmytro,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Patrick Namsawat Øia,,Jean Geisler,"21/16,21/19",Patrick Namsawat Øia,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Patrick Namsawat Øia,,Lorens Valentin Holmboe,"21/15,21/5",Patrick Namsawat Øia,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Jonas Sørstrand,,Lorens Valentin Holmboe,"21/11,21/6",Jonas Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Jonas Sørstrand,,Patrick Namsawat Øia,"21/14,21/14",Jonas Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ahmed Aldolaimi,,Jean Geisler,"14/21,21/19,21/15",Ahmed Aldolaimi,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Fredrik Paulsen Lauritsen,,Mauritz Severinsen,"21/6,21/14",Fredrik Paulsen Lauritsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Carlo Yague Rosano,,Mauritz Severinsen,"21/6,21/2",Carlo Yague Rosano,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Carlo Yague Rosano,,Fredrik Paulsen Lauritsen,"21/11,21/5",Carlo Yague Rosano,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ulysse Jalut-Motte,,Parfonov Dmytro,"21/16,9/21,25/23",Ulysse Jalut-Motte,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Einar Kvalbein,,Casper Westlin Solli,"21/5,21/11",Einar Kvalbein,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Parfonov Dmytro,,Casper Westlin Solli,"21/4,21/9",Parfonov Dmytro,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ulysse Jalut-Motte,,Einar Kvalbein,"21/6,21/16",Ulysse Jalut-Motte,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Parfonov Dmytro,,Einar Kvalbein,"21/16,21/18",Parfonov Dmytro,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Ulysse Jalut-Motte,,Casper Westlin Solli,"21/10,21/5",Ulysse Jalut-Motte,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Andreas Østby,,Ole Ramberg Singler,"18/21,23/21,21/16",Andreas Østby,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Noah Leander Solbakken Svela,,Ole Ramberg Singler,"21/16,21/13",Noah Leander Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herresingle,,Noah Leander Solbakken Svela,,Andreas Østby,"21/9,21/8",Noah Leander Solbakken Svela,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Mia Hegerstrøm Haugli,,Ulrikke Sørstrand,"15/21,24/22,21/14",Mia Hegerstrøm Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Charu Pandey,,Janna Alexa Rodriguez De Ocampo,"21/12,21/19",Charu Pandey,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Mia Hegerstrøm Haugli,,Amal Mariia Elrozi,"21/17,17/21,21/10",Mia Hegerstrøm Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Ulrikke Sørstrand,,Alice Løvås Walbom,"21/19,21/9",Ulrikke Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Janna Alexa Rodriguez De Ocampo,,Miranda Starup Jensen,"25/23,21/14",Janna Alexa Rodriguez De Ocampo,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Charu Pandey,,Miranda Starup Jensen,"21/19,21/10",Charu Pandey,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Mia Hegerstrøm Haugli,,Ulrikke Sørstrand,"16/21,21/18,21/16",Mia Hegerstrøm Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Mia Hegerstrøm Haugli,,Miranda Starup Jensen,"21/7,21/19",Mia Hegerstrøm Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Ulrikke Sørstrand,,Charu Pandey,"21/14,21/6",Ulrikke Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Ulrikke Sørstrand,,Miranda Starup Jensen,"21/10,21/7",Ulrikke Sørstrand,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Mia Hegerstrøm Haugli,,Charu Pandey,"22/20,21/12",Mia Hegerstrøm Haugli,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Alice Løvås Walbom,,Janna Alexa Rodriguez De Ocampo,"21/7,21/12",Alice Løvås Walbom,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Alice Løvås Walbom,,Amal Mariia Elrozi,"21/16,21/12",Alice Løvås Walbom,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damesingle,,Amal Mariia Elrozi,,Janna Alexa Rodriguez De Ocampo,"21/14,21/13",Amal Mariia Elrozi,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Jonas Sørstrand,Carlo Yague Rosano,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,"21/17,21/18",Jonas Sørstrand,Carlo Yague Rosano
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Ryan Danie,Fredrik Paulsen Lauritsen,Mauritz Severinsen,Einar Kvalbein,"13/21,21/13,21/15",Ryan Danie,Fredrik Paulsen Lauritsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Jonas Sørstrand,Carlo Yague Rosano,Andreas Østby,Lorens Valentin Holmboe,"21/7,21/6",Jonas Sørstrand,Carlo Yague Rosano
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,Ulysse Jalut-Motte,Jean Geisler,"21/12,21/7",Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,Ryan Danie,Fredrik Paulsen Lauritsen,"21/9,21/14",Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Jonas Sørstrand,Carlo Yague Rosano,Noah Leander Solbakken Svela,Aksel Hegerstrøm Haugli,"21/16,21/12",Jonas Sørstrand,Carlo Yague Rosano
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Jonas Sørstrand,Carlo Yague Rosano,Ryan Danie,Fredrik Paulsen Lauritsen,"21/5,21/10",Jonas Sørstrand,Carlo Yague Rosano
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Ulysse Jalut-Motte,Jean Geisler,Mauritz Severinsen,Einar Kvalbein,"21/13,21/16",Ulysse Jalut-Motte,Jean Geisler
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Andreas Østby,Lorens Valentin Holmboe,Mauritz Severinsen,Einar Kvalbein,"11/21,21/18,21/15",Andreas Østby,Lorens Valentin Holmboe
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Herredouble,Ulysse Jalut-Motte,Jean Geisler,Andreas Østby,Lorens Valentin Holmboe,"21/12,21/12",Ulysse Jalut-Motte,Jean Geisler
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damedouble,Ulrikke Sørstrand,Mia Hegerstrøm Haugli,Sarvikha Kumar,Miranda Starup Jensen,"21/6,21/7",Ulrikke Sørstrand,Mia Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damedouble,Amal Mariia Elrozi,Milaniia Petrina,Alice Løvås Walbom,Martine Skjeltorp Nyborg,"21/12,21/15",Amal Mariia Elrozi,Milaniia Petrina
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damedouble,Amal Mariia Elrozi,Milaniia Petrina,Ulrikke Sørstrand,Mia Hegerstrøm Haugli,"21/13,24/26,22/20",Amal Mariia Elrozi,Milaniia Petrina
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damedouble,Alice Løvås Walbom,Martine Skjeltorp Nyborg,Sarvikha Kumar,Miranda Starup Jensen,"21/7,21/5",Alice Løvås Walbom,Martine Skjeltorp Nyborg
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damedouble,Ulrikke Sørstrand,Mia Hegerstrøm Haugli,Alice Løvås Walbom,Martine Skjeltorp Nyborg,"21/18,21/6",Ulrikke Sørstrand,Mia Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Damedouble,Amal Mariia Elrozi,Milaniia Petrina,Sarvikha Kumar,Miranda Starup Jensen,"21/9,21/10",Amal Mariia Elrozi,Milaniia Petrina
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Noah Leander Solbakken Svela,Amal Mariia Elrozi,Ole Ramberg Singler,Miranda Starup Jensen,"21/10,21/11",Noah Leander Solbakken Svela,Amal Mariia Elrozi
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Carlo Yague Rosano,Alice Løvås Walbom,Ulrikke Sørstrand,Jonas Sørstrand,"21/15,20/22,22/20",Carlo Yague Rosano,Alice Løvås Walbom
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Noah Leander Solbakken Svela,Amal Mariia Elrozi,Lorens Valentin Holmboe,Janna Alexa Rodriguez De Ocampo,"21/15,21/12",Noah Leander Solbakken Svela,Amal Mariia Elrozi
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Carlo Yague Rosano,Alice Løvås Walbom,Leon Matheo Solbakken Svela,Mia Hegerstrøm Haugli,"18/21,21/14,21/9",Carlo Yague Rosano,Alice Løvås Walbom
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Ulrikke Sørstrand,Jonas Sørstrand,Milaniia Petrina,Dev Singh Jassal,"21/18,21/13",Ulrikke Sørstrand,Jonas Sørstrand
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Ulrikke Sørstrand,Jonas Sørstrand,Noah Leander Solbakken Svela,Amal Mariia Elrozi,"21/18,21/19",Ulrikke Sørstrand,Jonas Sørstrand
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Carlo Yague Rosano,Alice Løvås Walbom,Ulrikke Sørstrand,Jonas Sørstrand,"21/18,15/21,22/20",Carlo Yague Rosano,Alice Løvås Walbom
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Carlo Yague Rosano,Alice Løvås Walbom,Noah Leander Solbakken Svela,Amal Mariia Elrozi,"21/10,21/15",Carlo Yague Rosano,Alice Løvås Walbom
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Milaniia Petrina,Dev Singh Jassal,Lorens Valentin Holmboe,Janna Alexa Rodriguez De Ocampo,"21/10,21/14",Milaniia Petrina,Dev Singh Jassal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Leon Matheo Solbakken Svela,Mia Hegerstrøm Haugli,Ole Ramberg Singler,Miranda Starup Jensen,"21/14,16/21,21/10",Leon Matheo Solbakken Svela,Mia Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Milaniia Petrina,Dev Singh Jassal,Ole Ramberg Singler,Miranda Starup Jensen,"21/17,21/9",Milaniia Petrina,Dev Singh Jassal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Leon Matheo Solbakken Svela,Mia Hegerstrøm Haugli,Lorens Valentin Holmboe,Janna Alexa Rodriguez De Ocampo,"21/10,21/18",Leon Matheo Solbakken Svela,Mia Hegerstrøm Haugli
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Milaniia Petrina,Dev Singh Jassal,Leon Matheo Solbakken Svela,Mia Hegerstrøm Haugli,"21/14,21/17",Milaniia Petrina,Dev Singh Jassal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U15 A,Mixeddouble,Ole Ramberg Singler,Miranda Starup Jensen,Lorens Valentin Holmboe,Janna Alexa Rodriguez De Ocampo,"21/19,21/13",Ole Ramberg Singler,Miranda Starup Jensen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Adrian Janitz,,Andreas Bjønness-Enghaug,"21/11,21/10",Adrian Janitz,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Henrik Frende Lavik-Haug,,Måns Anders Lund Mabäcker,"21/13,21/12",Henrik Frende Lavik-Haug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Adrian Janitz,,Arturo Yague Rosano,"21/6,21/6",Adrian Janitz,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Andreas Bjønness-Enghaug,,Philip Tran,"22/20,20/22,21/13",Andreas Bjønness-Enghaug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Henrik Frende Lavik-Haug,,Albert Aasheim-Engen,"21/6,21/14",Henrik Frende Lavik-Haug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Måns Anders Lund Mabäcker,,Yatin Mehta,"21/19,10/21,21/18",Måns Anders Lund Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Philip Tran,,Felix Rostad,"19/21,21/15,21/12",Philip Tran,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Adrian Janitz,,Shreyas Danve,"21/11,21/14",Adrian Janitz,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Albert Aasheim-Engen,,Sondre Dolven,"21/19,13/21,21/14",Albert Aasheim-Engen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Henrik Frende Lavik-Haug,,Johan Zang,"21/14,21/9",Henrik Frende Lavik-Haug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Yatin Mehta,,David Nguyen,"21/15,23/21",Yatin Mehta,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Måns Anders Lund Mabäcker,,Bryan Javier Matland,"21/18,20/22,21/17",Måns Anders Lund Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Sondre Dolven,,Duy Philip Nguyen,"21/10,21/14",Sondre Dolven,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Albert Aasheim-Engen,,Vebjørn Isberg Haugan,"21/19,21/14",Albert Aasheim-Engen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Henrik Frende Lavik-Haug,,Aksel Holth,"21/10,21/8",Henrik Frende Lavik-Haug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Johan Zang,,Vinit Sharma,"21/18,21/8",Johan Zang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,David Nguyen,,Gabriel Pettersen Engelberg,"19/21,23/21,21/15",David Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Yatin Mehta,,Jon Vidar Jonsson,"22/21,21/15",Yatin Mehta,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Bryan Javier Matland,,Ulrick Edner Høilund,"21/14,23/21",Bryan Javier Matland,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Måns Anders Lund Mabäcker,,Joseph Paul,"21/12,21/19",Måns Anders Lund Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Andreas Bjønness-Enghaug,,Kasper Berg,"21/4,21/15",Andreas Bjønness-Enghaug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Vinit Sharma,,Léonard Thor Achaz Grøndahl,"21/17,23/21",Vinit Sharma,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,David Nguyen,,Lukas Endahl Haraldsen,"21/18,21/12",David Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,David Nguyen,,Adrian Janitz,"14/21,21/19,21/13",David Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Sondre Dolven,,David Nguyen,"22/20,21/15",Sondre Dolven,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Sondre Dolven,,Adrian Janitz,"21/11,21/13",Sondre Dolven,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Vebjørn Isberg Haugan,,Shreyas Danve,"21/12,21/12",Vebjørn Isberg Haugan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Lukas Endahl Haraldsen,,Shreyas Danve,"19/21,21/19,21/19",Lukas Endahl Haraldsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Vebjørn Isberg Haugan,,Lukas Endahl Haraldsen,"21/12,21/4",Vebjørn Isberg Haugan,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Jon Vidar Jonsson,,Arturo Yague Rosano,"21/12,14/21,21/16",Jon Vidar Jonsson,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Henrik Frende Lavik-Haug,,Arturo Yague Rosano,"21/9,21/8",Henrik Frende Lavik-Haug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Henrik Frende Lavik-Haug,,Jon Vidar Jonsson,"17/10,21/17",Henrik Frende Lavik-Haug,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Johan Zang,,Bastian Kjøs,"21/4,21/6",Johan Zang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Bryan Javier Matland,,Bastian Kjøs,"21/5,21/3",Bryan Javier Matland,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Johan Zang,,Bryan Javier Matland,"21/13,21/9",Johan Zang,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Gabriel Pettersen Engelberg,,Kasper Berg,"21/10,21/9",Gabriel Pettersen Engelberg,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Duy Philip Nguyen,,Kasper Berg,"21/10,21/13",Duy Philip Nguyen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Gabriel Pettersen Engelberg,,Duy Philip Nguyen,"20/22,21/13,21/18",Gabriel Pettersen Engelberg,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Yatin Mehta,,Albert Aasheim-Engen,"21/18,18/21,21/18",Yatin Mehta,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Albert Aasheim-Engen,,Andreas Bjønness-Enghaug,"18/21,21/11,21/16",Albert Aasheim-Engen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Yatin Mehta,,Andreas Bjønness-Enghaug,"22/24,21/14,21/8",Yatin Mehta,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Aksel Holth,,Aaron Wasa-Schrader,"21/4,21/11",Aksel Holth,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Ulrick Edner Høilund,,Aksel Holth,"21/13,21/19",Ulrick Edner Høilund,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Ulrick Edner Høilund,,Aaron Wasa-Schrader,"21/14,21/10",Ulrick Edner Høilund,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Joseph Paul,,Philip Tran,"21/13,21/10",Joseph Paul,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Vinit Sharma,,Philip Tran,"21/8,22/20",Vinit Sharma,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Joseph Paul,,Vinit Sharma,"19/21,21/15,22/20",Joseph Paul,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Måns Anders Lund Mabäcker,,Léonard Thor Achaz Grøndahl,"21/9,21/7",Måns Anders Lund Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Måns Anders Lund Mabäcker,,Felix Rostad,"21/4,21/9",Måns Anders Lund Mabäcker,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herresingle,,Léonard Thor Achaz Grøndahl,,Felix Rostad,"21/12,19/21,21/17",Léonard Thor Achaz Grøndahl,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Felix Rostad,Aksel Holth,Philip Tran,Ulrick Edner Høilund,"22/20,21/19",Felix Rostad,Aksel Holth
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Bryan Javier Matland,Vebjørn Isberg Haugan,"23/21,21/13",Adrian Janitz,Henrik Frende Lavik-Haug
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Philip Tran,Ulrick Edner Høilund,Henrik Flak,Birk Macsali Böhm,"21/12,21/7",Philip Tran,Ulrick Edner Høilund
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Felix Rostad,Aksel Holth,Ole Ramberg Singler,Kasper Berg,"21/14,14/21,21/13",Felix Rostad,Aksel Holth
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Bryan Javier Matland,Vebjørn Isberg Haugan,Arturo Yague Rosano,Duy Philip Nguyen,"12/21,21/11,21/17",Bryan Javier Matland,Vebjørn Isberg Haugan
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Johan Zang,David Nguyen,"21/12,21/10",Adrian Janitz,Henrik Frende Lavik-Haug
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Arturo Yague Rosano,Duy Philip Nguyen,Joseph Paul,Lukas Endahl Haraldsen,"24/22,21/16",Arturo Yague Rosano,Duy Philip Nguyen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Johan Zang,David Nguyen,Shreyas Danve,Vinit Sharma,"21/15,21/11",Johan Zang,David Nguyen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Bryan Javier Matland,Vebjørn Isberg Haugan,Henrik Flak,Birk Macsali Böhm,"21/5,21/8",Bryan Javier Matland,Vebjørn Isberg Haugan
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Bryan Javier Matland,Vebjørn Isberg Haugan,Johan Zang,David Nguyen,"12/21,21/18,21/12",Bryan Javier Matland,Vebjørn Isberg Haugan
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Johan Zang,David Nguyen,Henrik Flak,Birk Macsali Böhm,"21/10,21/6",Johan Zang,David Nguyen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Shreyas Danve,Vinit Sharma,Ole Ramberg Singler,Kasper Berg,"21/17,21/16",Shreyas Danve,Vinit Sharma
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Joseph Paul,Lukas Endahl Haraldsen,Ole Ramberg Singler,Kasper Berg,"21/9,21/11",Joseph Paul,Lukas Endahl Haraldsen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Shreyas Danve,Vinit Sharma,Joseph Paul,Lukas Endahl Haraldsen,"21/16,21/13",Shreyas Danve,Vinit Sharma
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Arturo Yague Rosano,Duy Philip Nguyen,Felix Rostad,Aksel Holth,"21/13,21/13",Arturo Yague Rosano,Duy Philip Nguyen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Philip Tran,Ulrick Edner Høilund,"21/5,21/7",Adrian Janitz,Henrik Frende Lavik-Haug
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Felix Rostad,Aksel Holth,Philip Tran,Ulrick Edner Høilund,"21/13,21/14",Felix Rostad,Aksel Holth
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Arturo Yague Rosano,Duy Philip Nguyen,"21/12,21/7",Adrian Janitz,Henrik Frende Lavik-Haug
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Adrian Janitz,Henrik Frende Lavik-Haug,Felix Rostad,Aksel Holth,"21/9,21/10",Adrian Janitz,Henrik Frende Lavik-Haug
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 A,Herredouble,Arturo Yague Rosano,Duy Philip Nguyen,Philip Tran,Ulrick Edner Høilund,"21/15,21/14",Arturo Yague Rosano,Duy Philip Nguyen
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Birk Macsali Böhm,,Etienne Moriaux,"14/21,21/8,21/5",Birk Macsali Böhm,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Filip Isdahl-Larsen,,Sebastian Tronstad,"21/11,21/17",Filip Isdahl-Larsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Sebastian Tronstad,,Henrik Flak,"19/21,21/17,21/14",Sebastian Tronstad,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Filip Isdahl-Larsen,,Magnus Wang Dybvik,"21/17,21/17",Filip Isdahl-Larsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Birk Macsali Böhm,,Herman Hjørungnes,"21/13,21/9",Birk Macsali Böhm,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Henrik Flak,,Herman Hjørungnes,"21/14,21/9",Henrik Flak,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Magnus Wang Dybvik,,Herman Hjørungnes,"21/14,21/9",Magnus Wang Dybvik,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Henrik Flak,,Magnus Wang Dybvik,"21/14,11/21,22/20",Henrik Flak,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Filip Isdahl-Larsen,,Etienne Moriaux,"21/6,21/10",Filip Isdahl-Larsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Sebastian Tronstad,,Birk Macsali Böhm,"22/20,21/5",Sebastian Tronstad,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Filip Isdahl-Larsen,,Sebastian Tronstad,"21/11,21/11",Filip Isdahl-Larsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Birk Macsali Böhm,,Etienne Moriaux,"21/11,21/10",Birk Macsali Böhm,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Filip Isdahl-Larsen,,Birk Macsali Böhm,"21/13,21/15",Filip Isdahl-Larsen,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Herresingle,,Sebastian Tronstad,,Etienne Moriaux,"21/7,21/16",Sebastian Tronstad,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Damesingle,,Maja Gjemdal,,Ida Nemeth-Bjørkli,"21/17,21/5",Maja Gjemdal,
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Mixeddouble,Henrik Flak,Maja Gjemdal,Birk Macsali Böhm,Ida Nemeth-Bjørkli,"21/19,10/21,21/18",Henrik Flak,Maja Gjemdal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Mixeddouble,Henrik Flak,Maja Gjemdal,Joachim Nguyen,Amelia Yague Rosano,"21/11,19/21,21/17",Henrik Flak,Maja Gjemdal
+2023/2024,Moss Mossetreffen 2023,30.09.2023,U17 C,Mixeddouble,Joachim Nguyen,Amelia Yague Rosano,Birk Macsali Böhm,Ida Nemeth-Bjørkli,"21/13,17/21,21/12",Joachim Nguyen,Amelia Yague Rosano

@@ -1,427 +1,237 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/14,21/12",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Linnea Nordnes Prestø,"21/23,21/17,21/17",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/9,21/5",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Barbro Johnsen,"14/21,21/19,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Margarita Wcislo,"20/22,22/20,21/19",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Dorthe Lorvik,"21/19,16/21,21/16",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Margarita Wcislo,"21/18,14/21,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Barbro Johnsen,,Linnea Nordnes Prestø,"21/16,21/10",Barbro Johnsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Barbro Johnsen,"21/11,21/9",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Linnea Nordnes Prestø,"23/21,21/16",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Henrik Buvik,Benjamin Rølvåg,"21/9,21/9",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Sander Johansen,Håvard Soløy,"21/7,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Odd Helge Gåsbakk,Roar Natvig,"21/9,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Odd Helge Gåsbakk,Roar Natvig,Ole Petter Øren,Lars Petter Danielsen,"14/21,21/11,21/7",Odd Helge Gåsbakk,Roar Natvig
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Ole Petter Øren,Lars Petter Danielsen,"21/10,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Trond Mære,Rolf Ove Karlsen,"21/13,21/13",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Anders Moen,Erik Måøy,"21/11,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Trond Mære,Rolf Ove Karlsen,Anders Moen,Erik Måøy,"23/21,21/10",Trond Mære,Rolf Ove Karlsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sander Johansen,Håvard Soløy,Kai Roger Stensen,Morten Langen,"22/20,21/19",Sander Johansen,Håvard Soløy
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/15,21/13",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Anne Berit Bergsmo,Anita Olsen,"21/11,21/17",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/9,21/10",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Anne Berit Bergsmo,Anita Olsen,"15/21,21/18,21/16",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Anne Berit Bergsmo,Anita Olsen,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/11,21/15",Anne Berit Bergsmo,Anita Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Dorthe Lorvik,Linnea Nordnes Prestø,"21/17,21/15",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/14,21/12",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Linnea Nordnes Prestø,"21/23,21/17,21/17",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/9,21/5",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Barbro Johnsen,"14/21,21/19,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Margarita Wcislo,"20/22,22/20,21/19",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Dorthe Lorvik,"21/19,16/21,21/16",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Margarita Wcislo,"21/18,14/21,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Barbro Johnsen,,Linnea Nordnes Prestø,"21/16,21/10",Barbro Johnsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Barbro Johnsen,"21/11,21/9",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Linnea Nordnes Prestø,"23/21,21/16",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Henrik Buvik,Benjamin Rølvåg,"21/9,21/9",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Sander Johansen,Håvard Soløy,"21/7,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Odd Helge Gåsbakk,Roar Natvig,"21/9,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Odd Helge Gåsbakk,Roar Natvig,Ole Petter Øren,Lars Petter Danielsen,"14/21,21/11,21/7",Odd Helge Gåsbakk,Roar Natvig
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Ole Petter Øren,Lars Petter Danielsen,"21/10,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Trond Mære,Rolf Ove Karlsen,"21/13,21/13",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Anders Moen,Erik Måøy,"21/11,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Trond Mære,Rolf Ove Karlsen,Anders Moen,Erik Måøy,"23/21,21/10",Trond Mære,Rolf Ove Karlsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sander Johansen,Håvard Soløy,Kai Roger Stensen,Morten Langen,"22/20,21/19",Sander Johansen,Håvard Soløy
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/15,21/13",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Anne Berit Bergsmo,Anita Olsen,"21/11,21/17",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/9,21/10",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Anne Berit Bergsmo,Anita Olsen,"15/21,21/18,21/16",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Anne Berit Bergsmo,Anita Olsen,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/11,21/15",Anne Berit Bergsmo,Anita Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Dorthe Lorvik,Linnea Nordnes Prestø,"21/17,21/15",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Marius Olav Evensen,"21/19,21/19",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Ole Martin Kolberg,"24/22,21/17",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Brevik,,Lorents Blomseth,"21/19,21/6",Marius Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Olav Evensen,,Joar Gåsbakk,"21/12,21/14",Marius Olav Evensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Lorents Blomseth,,Joar Gåsbakk,"21/9,21/11",Lorents Blomseth,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Brevik,,Joar Gåsbakk,"21/12,21/17",Marius Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Olav Evensen,,Marius Brevik,"21/16,16/21,21/15",Marius Olav Evensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Jørgen Olsen,"21/11,21/18",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Øystein Sveine,"21/12,10/21,21/13",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Øystein Sveine,,Jørgen Olsen,"21/15,22/24,21/12",Øystein Sveine,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Ole Martin Kolberg,,Espen Fredriksen,"21/9,21/16",Ole Martin Kolberg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Steinar Fornes,,Ole Martin Kolberg,"21/17,21/10",Steinar Fornes,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Espen Fredriksen,,Steinar Fornes,"21/16,21/7",Espen Fredriksen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Marius Olav Evensen,"21/19,21/19",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Ole Martin Kolberg,"24/22,21/17",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Brevik,,Lorents Blomseth,"21/19,21/6",Marius Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Olav Evensen,,Joar Gåsbakk,"21/12,21/14",Marius Olav Evensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Lorents Blomseth,,Joar Gåsbakk,"21/9,21/11",Lorents Blomseth,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Brevik,,Joar Gåsbakk,"21/12,21/17",Marius Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Marius Olav Evensen,,Marius Brevik,"21/16,16/21,21/15",Marius Olav Evensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Jørgen Olsen,"21/11,21/18",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Stig Gåsbakk,,Øystein Sveine,"21/12,10/21,21/13",Stig Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Øystein Sveine,,Jørgen Olsen,"21/15,22/24,21/12",Øystein Sveine,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Ole Martin Kolberg,,Espen Fredriksen,"21/9,21/16",Ole Martin Kolberg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Steinar Fornes,,Ole Martin Kolberg,"21/17,21/10",Steinar Fornes,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,,Espen Fredriksen,,Steinar Fornes,"21/16,21/7",Espen Fredriksen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Hildegunn Måøy,Harald Buvik,Steinar Fornes,Jørgen Olsen,"21/11,21/18",Hildegunn Måøy,Harald Buvik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Stig Gåsbakk,Joar Gåsbakk,Espen Fredriksen,John Thomas Krogstad,"21/14,21/9",Stig Gåsbakk,Joar Gåsbakk
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Hildegunn Måøy,Harald Buvik,Øystein Sveine,Inge Rosset,"21/11,21/15",Hildegunn Måøy,Harald Buvik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Øystein Sveine,Inge Rosset,Stig Gåsbakk,Joar Gåsbakk,"21/15,11/21,22/20",Øystein Sveine,Inge Rosset
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Hildegunn Måøy,Harald Buvik,Espen Fredriksen,John Thomas Krogstad,"21/8,21/10",Hildegunn Måøy,Harald Buvik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Øystein Sveine,Inge Rosset,Espen Fredriksen,John Thomas Krogstad,"21/14,21/15",Øystein Sveine,Inge Rosset
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Hildegunn Måøy,Harald Buvik,Stig Gåsbakk,Joar Gåsbakk,"21/13,21/13",Hildegunn Måøy,Harald Buvik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Steinar Fornes,Jørgen Olsen,Ole Martin Kolberg,Marius Brevik,"21/12,7/21,21/14",Steinar Fornes,Jørgen Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Erik Winger,Jan Aage Nyborg,Marius Olav Evensen,Eskil Brøndbo,"21/18,21/19",Erik Winger,Jan Aage Nyborg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Ole Martin Kolberg,Marius Brevik,Erik Winger,Jan Aage Nyborg,"21/8,19/21,22/20",Ole Martin Kolberg,Marius Brevik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Steinar Fornes,Jørgen Olsen,Marius Olav Evensen,Eskil Brøndbo,"21/9,21/4",Steinar Fornes,Jørgen Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Ole Martin Kolberg,Marius Brevik,Marius Olav Evensen,Eskil Brøndbo,"21/13,21/8",Ole Martin Kolberg,Marius Brevik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Steinar Fornes,Jørgen Olsen,Erik Winger,Jan Aage Nyborg,"21/11,21/17",Steinar Fornes,Jørgen Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Inge Rosset,,Eskil Brøndbo,"21/17,21/13",Inge Rosset,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Inge Rosset,,Eivind Moe,"21/7,21/14",Inge Rosset,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Inge Rosset,,Jonatan Evensen,"21/9,21/12",Inge Rosset,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Eivind Moe,,Jonatan Evensen,"21/16,21/18",Eivind Moe,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Marius Andre' Elsfjordstrand Beck,,Kurt Førde,"21/14,15/21,23/21",Marius Andre' Elsfjordstrand Beck,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Eskil Brøndbo,,Kurt Førde,"21/8,21/17",Eskil Brøndbo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Eskil Brøndbo,,Marius Andre' Elsfjordstrand Beck,"21/15,18/21,21/17",Eskil Brøndbo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,John Thomas Krogstad,,Carl Danielsen,"21/11,21/14",John Thomas Krogstad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,John Thomas Krogstad,,Svend Morten Reinertsen,"21/16,21/12",John Thomas Krogstad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Svend Morten Reinertsen,,Carl Danielsen,"21/18,21/16",Svend Morten Reinertsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Inge Rosset,,Eskil Brøndbo,"21/17,21/13",Inge Rosset,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Inge Rosset,,Eivind Moe,"21/7,21/14",Inge Rosset,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Inge Rosset,,Jonatan Evensen,"21/9,21/12",Inge Rosset,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Eivind Moe,,Jonatan Evensen,"21/16,21/18",Eivind Moe,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Marius Andre' Elsfjordstrand Beck,,Kurt Førde,"21/14,15/21,23/21",Marius Andre' Elsfjordstrand Beck,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Eskil Brøndbo,,Kurt Førde,"21/8,21/17",Eskil Brøndbo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Eskil Brøndbo,,Marius Andre' Elsfjordstrand Beck,"21/15,18/21,21/17",Eskil Brøndbo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,John Thomas Krogstad,,Carl Danielsen,"21/11,21/14",John Thomas Krogstad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,John Thomas Krogstad,,Svend Morten Reinertsen,"21/16,21/12",John Thomas Krogstad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,,Svend Morten Reinertsen,,Carl Danielsen,"21/18,21/16",Svend Morten Reinertsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Nikolai Danielsen,Carl Danielsen,"21/16,21/12",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,Nikolai Danielsen,Carl Danielsen,"21/17,21/16",Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Kurt Førde,Johannes Lillevik Førde,Martin leon brandvik Aakvik,Jonatan Evensen,"21/16,21/11",Kurt Førde,Johannes Lillevik Førde
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Kurt Førde,Johannes Lillevik Førde,Nikolai Danielsen,Carl Danielsen,"21/13,22/20",Kurt Førde,Johannes Lillevik Førde
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Martin leon brandvik Aakvik,Jonatan Evensen,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,"21/15,13/21,21/9",Martin leon brandvik Aakvik,Jonatan Evensen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Kurt Førde,Johannes Lillevik Førde,"21/15,21/18",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Martin leon brandvik Aakvik,Jonatan Evensen,"21/14,21/7",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Kurt Førde,Johannes Lillevik Førde,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,"21/17,22/20",Kurt Førde,Johannes Lillevik Førde
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Svend Morten Reinertsen,Eivind Moe,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,"21/12,21/9",Svend Morten Reinertsen,Eivind Moe
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Nikolai Danielsen,Carl Danielsen,Martin leon brandvik Aakvik,Jonatan Evensen,"21/9,15/21,22/20",Nikolai Danielsen,Carl Danielsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Hege Merethe Rølvåg,Aina Kaspersen,Ida Lillevik Førde,Siv Solum Buvik,"22/20,21/18",Hege Merethe Rølvåg,Aina Kaspersen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Ida Lillevik Førde,Siv Solum Buvik,Minni Elise Aakvik,Sara katrine Brandvik,"21/11,21/17",Ida Lillevik Førde,Siv Solum Buvik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Hege Merethe Rølvåg,Aina Kaspersen,Minni Elise Aakvik,Sara katrine Brandvik,"23/21,21/11",Hege Merethe Rølvåg,Aina Kaspersen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Simon Balvold,,Noah Fick Lynum,"21/9,21/14",Simon Balvold,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Simon Balvold,,Nathan Gilay,"22/20,21/13",Simon Balvold,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Nathan Gilay,,Noah Fick Lynum,"21/14,21/13",Nathan Gilay,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Nichlas Brevik,,Isak Sveine Aspnes,"21/11,21/14",Nichlas Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Nichlas Brevik,,Casper Bjørhusdahl,"21/9,21/10",Nichlas Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Isak Sveine Aspnes,,Casper Bjørhusdahl,"21/12,21/13",Isak Sveine Aspnes,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Simon Balvold,,Noah Fick Lynum,"21/9,21/14",Simon Balvold,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Simon Balvold,,Nathan Gilay,"22/20,21/13",Simon Balvold,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Nathan Gilay,,Noah Fick Lynum,"21/14,21/13",Nathan Gilay,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Nichlas Brevik,,Isak Sveine Aspnes,"21/11,21/14",Nichlas Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Nichlas Brevik,,Casper Bjørhusdahl,"21/9,21/10",Nichlas Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Isak Sveine Aspnes,,Casper Bjørhusdahl,"21/12,21/13",Isak Sveine Aspnes,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Matilde Langen,,Emilie Johansen,"21/14,21/7",Matilde Langen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Alma Marie Øren,,Matilde Langen,"21/14,21/15",Alma Marie Øren,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Alde Andrea Rohde Hallager,,Ronja Michelle Pettersen,"21/16,21/17",Alde Andrea Rohde Hallager,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Ronja Michelle Pettersen,,Ida Marie Tømmerås Skorstad,"21/13,21/10",Ronja Michelle Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,,Alde Andrea Rohde Hallager,,Ida Marie Tømmerås Skorstad,"21/17,21/11",Alde Andrea Rohde Hallager,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Noah Fick Lynum,Nichlas Brevik,Nathan Gilay,Isak Sveine Aspnes,"21/15,21/17",Noah Fick Lynum,Nichlas Brevik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Alde Andrea Rohde Hallager,Alma Marie Øren,Matilde Langen,Ida Marie Tømmerås Skorstad,"21/12,21/16",Alde Andrea Rohde Hallager,Alma Marie Øren
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/14,21/12",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Linnea Nordnes Prestø,"21/23,21/17,21/17",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/9,21/5",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Barbro Johnsen,"14/21,21/19,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Margarita Wcislo,"20/22,22/20,21/19",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Dorthe Lorvik,"21/19,16/21,21/16",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Margarita Wcislo,"21/18,14/21,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Barbro Johnsen,,Linnea Nordnes Prestø,"21/16,21/10",Barbro Johnsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Barbro Johnsen,"21/11,21/9",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Linnea Nordnes Prestø,"23/21,21/16",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Henrik Buvik,Benjamin Rølvåg,"21/9,21/9",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Sander Johansen,Håvard Soløy,"21/7,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Odd Helge Gåsbakk,Roar Natvig,"21/9,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Odd Helge Gåsbakk,Roar Natvig,Ole Petter Øren,Lars Petter Danielsen,"14/21,21/11,21/7",Odd Helge Gåsbakk,Roar Natvig
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Ole Petter Øren,Lars Petter Danielsen,"21/10,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Trond Mære,Rolf Ove Karlsen,"21/13,21/13",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Anders Moen,Erik Måøy,"21/11,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Trond Mære,Rolf Ove Karlsen,Anders Moen,Erik Måøy,"23/21,21/10",Trond Mære,Rolf Ove Karlsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sander Johansen,Håvard Soløy,Kai Roger Stensen,Morten Langen,"22/20,21/19",Sander Johansen,Håvard Soløy
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/15,21/13",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Anne Berit Bergsmo,Anita Olsen,"21/11,21/17",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/9,21/10",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Anne Berit Bergsmo,Anita Olsen,"15/21,21/18,21/16",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Anne Berit Bergsmo,Anita Olsen,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/11,21/15",Anne Berit Bergsmo,Anita Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Dorthe Lorvik,Linnea Nordnes Prestø,"21/17,21/15",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Teodor Husmo Sandøy,,Daniel Lillevik Førde,"21/18,21/14",Teodor Husmo Sandøy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Teodor Husmo Sandøy,,Liam Sveine Aspnes,"21/17,21/15",Teodor Husmo Sandøy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Liam Sveine Aspnes,,Daniel Lillevik Førde,"21/19,21/14",Liam Sveine Aspnes,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Teodor Husmo Sandøy,,Daniel Lillevik Førde,"21/18,21/14",Teodor Husmo Sandøy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Teodor Husmo Sandøy,,Liam Sveine Aspnes,"21/17,21/15",Teodor Husmo Sandøy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Liam Sveine Aspnes,,Daniel Lillevik Førde,"21/19,21/14",Liam Sveine Aspnes,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Nora Langen,,Ina Maria Skogmo Bjørhusdahl,"21/15,21/12",Nora Langen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Ingeborg Tømmerås Skorstad,,Iben Marie Kaspersen Krogstad,"21/7,21/7",Ingeborg Tømmerås Skorstad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Nora Langen,,Ingeborg Tømmerås Skorstad,"21/9,21/15",Nora Langen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Nora Langen,,Iben Marie Kaspersen Krogstad,"21/7,21/2",Nora Langen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Ina Maria Skogmo Bjørhusdahl,,Thea Oline Moe,"21/5,21/6",Ina Maria Skogmo Bjørhusdahl,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Ina Maria Skogmo Bjørhusdahl,,Andrea Volden,"21/6,21/13",Ina Maria Skogmo Bjørhusdahl,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Andrea Volden,,Thea Oline Moe,"24/22,18/21,23/21",Andrea Volden,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Ina Maria Skogmo Bjørhusdahl,,Ida Amalie Skårn,"21/13,16/21,21/10",Ina Maria Skogmo Bjørhusdahl,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Ida Amalie Skårn,,Andrea Volden,"21/9,21/10",Ida Amalie Skårn,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,,Ida Amalie Skårn,,Thea Oline Moe,"21/10,21/6",Ida Amalie Skårn,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Thea Oline Moe,Iben Marie Kaspersen Krogstad,"21/5,21/7",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Nora Langen,Ingeborg Tømmerås Skorstad,Thea Oline Moe,Iben Marie Kaspersen Krogstad,"21/4,21/13",Nora Langen,Ingeborg Tømmerås Skorstad
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Liam Sveine Aspnes,Teodor Husmo Sandøy,"22/20,23/21",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Nora Langen,Ingeborg Tømmerås Skorstad,Liam Sveine Aspnes,Teodor Husmo Sandøy,"21/15,21/13",Nora Langen,Ingeborg Tømmerås Skorstad
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Nora Langen,Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,"21/11,18/21,21/18",Nora Langen,Ingeborg Tømmerås Skorstad
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Liam Sveine Aspnes,Teodor Husmo Sandøy,Thea Oline Moe,Iben Marie Kaspersen Krogstad,"21/14,21/12",Liam Sveine Aspnes,Teodor Husmo Sandøy
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Barbro Johnsen,"21/14,21/12",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Linnea Nordnes Prestø,"21/23,21/17,21/17",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/9,21/5",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Barbro Johnsen,"14/21,21/19,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Margarita Wcislo,"20/22,22/20,21/19",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Dorthe Lorvik,"21/19,16/21,21/16",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Signe Lenning,,Margarita Wcislo,"21/18,14/21,21/11",Signe Lenning,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Barbro Johnsen,,Linnea Nordnes Prestø,"21/16,21/10",Barbro Johnsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Dorthe Lorvik,,Barbro Johnsen,"21/11,21/9",Dorthe Lorvik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,,Margarita Wcislo,,Linnea Nordnes Prestø,"23/21,21/16",Margarita Wcislo,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Henrik Buvik,Benjamin Rølvåg,"21/9,21/9",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Sander Johansen,Håvard Soløy,"21/7,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Odd Helge Gåsbakk,Roar Natvig,"21/9,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Odd Helge Gåsbakk,Roar Natvig,Ole Petter Øren,Lars Petter Danielsen,"14/21,21/11,21/7",Odd Helge Gåsbakk,Roar Natvig
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Andreas Nordhøy,Sigve Hallager,Ole Petter Øren,Lars Petter Danielsen,"21/10,21/11",Andreas Nordhøy,Sigve Hallager
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Trond Mære,Rolf Ove Karlsen,"21/13,21/13",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Henrik Buvik,Benjamin Rølvåg,Anders Moen,Erik Måøy,"21/11,21/14",Henrik Buvik,Benjamin Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Trond Mære,Rolf Ove Karlsen,Anders Moen,Erik Måøy,"23/21,21/10",Trond Mære,Rolf Ove Karlsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sander Johansen,Håvard Soløy,Kai Roger Stensen,Morten Langen,"22/20,21/19",Sander Johansen,Håvard Soløy
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/15,21/13",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Anne Berit Bergsmo,Anita Olsen,"21/11,21/17",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/9,21/10",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Dorthe Lorvik,Linnea Nordnes Prestø,Anne Berit Bergsmo,Anita Olsen,"15/21,21/18,21/16",Dorthe Lorvik,Linnea Nordnes Prestø
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Anne Berit Bergsmo,Anita Olsen,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/11,21/15",Anne Berit Bergsmo,Anita Olsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Sara Buvik,Margarita Wcislo,Dorthe Lorvik,Linnea Nordnes Prestø,"21/17,21/15",Sara Buvik,Margarita Wcislo
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/10,21/6",Benjamin Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Konrad Soløy Myrbostad,,Oliver Langen,"21/15,21/16",Konrad Soløy Myrbostad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Jonathan Rohde Hallager,,Oliver Langen,"21/17,21/13",Jonathan Rohde Hallager,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Benjamin Brevik,,Konrad Soløy Myrbostad,"21/3,21/10",Benjamin Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Jonathan Rohde Hallager,,Konrad Soløy Myrbostad,"21/15,22/20",Jonathan Rohde Hallager,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Benjamin Brevik,,Oliver Langen,"21/5,21/6",Benjamin Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/10,21/6",Benjamin Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Konrad Soløy Myrbostad,,Oliver Langen,"21/15,21/16",Konrad Soløy Myrbostad,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Jonathan Rohde Hallager,,Oliver Langen,"21/17,21/13",Jonathan Rohde Hallager,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Benjamin Brevik,,Konrad Soløy Myrbostad,"21/3,21/10",Benjamin Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Jonathan Rohde Hallager,,Konrad Soløy Myrbostad,"21/15,22/20",Jonathan Rohde Hallager,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Benjamin Brevik,,Oliver Langen,"21/5,21/6",Benjamin Brevik,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Maja Mathilde Johnsen Sørgjerd,,Maja Sæther-Danielsen,"21/17,21/14",Maja Mathilde Johnsen Sørgjerd,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Malin Sæther-Danielsen,,Emine Helena S. Olsen,"21/8,21/13",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Maja Mathilde Johnsen Sørgjerd,,Daria Mari Beck,"21/13,21/18",Maja Mathilde Johnsen Sørgjerd,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Malin Sæther-Danielsen,,Daria Mari Beck,"21/14,21/11",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Maja Sæther-Danielsen,,Emine Helena S. Olsen,"21/11,21/10",Maja Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Maja Mathilde Johnsen Sørgjerd,,Malin Sæther-Danielsen,"13/21,21/14,21/16",Maja Mathilde Johnsen Sørgjerd,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Daria Mari Beck,,Maja Sæther-Danielsen,"21/15,21/18",Daria Mari Beck,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Maja Mathilde Johnsen Sørgjerd,,Emine Helena S. Olsen,"21/9,21/4",Maja Mathilde Johnsen Sørgjerd,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Daria Mari Beck,,Emine Helena S. Olsen,"21/9,21/9",Daria Mari Beck,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,,Malin Sæther-Danielsen,,Maja Sæther-Danielsen,"22/20,21/17",Malin Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Emine Helena S. Olsen,Daria Mari Beck,"21/14,21/14",Maja Sæther-Danielsen,Malin Sæther-Danielsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Noah Hallan,,Leon Feldt,"21/8,21/11",Noah Hallan,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Michael Donner,,Gustav Arnøy,"17/21,21/17,21/14",Michael Donner,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Michael Donner,,Leon Feldt,"21/9,21/4",Michael Donner,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Noah Hallan,,Gustav Arnøy,"22/20,21/14",Noah Hallan,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Gustav Arnøy,,Leon Feldt,"21/13,21/6",Gustav Arnøy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Noah Hallan,,Michael Donner,"15/21,21/14,21/14",Noah Hallan,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Noah Hallan,,Leon Feldt,"21/8,21/11",Noah Hallan,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Michael Donner,,Gustav Arnøy,"17/21,21/17,21/14",Michael Donner,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Michael Donner,,Leon Feldt,"21/9,21/4",Michael Donner,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Noah Hallan,,Gustav Arnøy,"22/20,21/14",Noah Hallan,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Gustav Arnøy,,Leon Feldt,"21/13,21/6",Gustav Arnøy,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,,Noah Hallan,,Michael Donner,"15/21,21/14,21/14",Noah Hallan,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Gustav Arnøy,Noah Hallan,Leon Feldt,Michael Donner,"21/15,21/15",Gustav Arnøy,Noah Hallan
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Mattis Sæther-Danielsen,"21/11,21/11",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Kenneth Bernhoff,"21/5,21/4",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Einar Mathias Øren,,Ludvig Kolberg,"21/23,21/12,21/19",Einar Mathias Øren,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Ludvig Kolberg,,Kenneth Bernhoff,"21/5,25/23",Ludvig Kolberg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Einar Mathias Øren,"21/7,21/7",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Einar Mathias Øren,,Kenneth Bernhoff,"21/14,21/16",Einar Mathias Øren,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Ludvig Kolberg,"21/1,21/6",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Johannes Lillevik Førde,,Sindre Emanuel Moe,"21/15,21/6",Johannes Lillevik Førde,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Mattis Sæther-Danielsen,,Elias Gilhay,"21/12,21/16",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Mattis Sæther-Danielsen,,Johannes Lillevik Førde,"21/16,21/16",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Elias Gilhay,,Johannes Lillevik Førde,"21/17,21/15",Elias Gilhay,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Mattis Sæther-Danielsen,,Sindre Emanuel Moe,"21/8,21/5",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Elias Gilhay,,Sindre Emanuel Moe,"21/15,21/10",Elias Gilhay,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Mattis Sæther-Danielsen,"21/11,21/11",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Kenneth Bernhoff,"21/5,21/4",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Einar Mathias Øren,,Ludvig Kolberg,"21/23,21/12,21/19",Einar Mathias Øren,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Ludvig Kolberg,,Kenneth Bernhoff,"21/5,25/23",Ludvig Kolberg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Einar Mathias Øren,"21/7,21/7",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Einar Mathias Øren,,Kenneth Bernhoff,"21/14,21/16",Einar Mathias Øren,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,William Aaberg Rølvåg,,Ludvig Kolberg,"21/1,21/6",William Aaberg Rølvåg,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Johannes Lillevik Førde,,Sindre Emanuel Moe,"21/15,21/6",Johannes Lillevik Førde,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Mattis Sæther-Danielsen,,Elias Gilhay,"21/12,21/16",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Mattis Sæther-Danielsen,,Johannes Lillevik Førde,"21/16,21/16",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Elias Gilhay,,Johannes Lillevik Førde,"21/17,21/15",Elias Gilhay,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Mattis Sæther-Danielsen,,Sindre Emanuel Moe,"21/8,21/5",Mattis Sæther-Danielsen,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,,Elias Gilhay,,Sindre Emanuel Moe,"21/15,21/10",Elias Gilhay,
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Ludvig Kolberg,William Aaberg Rølvåg,Einar Mathias Øren,Mattis Sæther-Danielsen,"21/14,21/10",Ludvig Kolberg,William Aaberg Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Oliver Langen,Benjamin Brevik,Sindre Emanuel Moe,Kenneth Bernhoff,"21/12,21/6",Oliver Langen,Benjamin Brevik
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Ludvig Kolberg,William Aaberg Rølvåg,Oliver Langen,Benjamin Brevik,"23/21,21/8",Ludvig Kolberg,William Aaberg Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Ludvig Kolberg,William Aaberg Rølvåg,Sindre Emanuel Moe,Kenneth Bernhoff,"21/10,21/6",Ludvig Kolberg,William Aaberg Rølvåg
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Jonathan Rohde Hallager,Konrad Soløy Myrbostad,Elias Gilhay,Leander Olsen Gjengaar,"21/9,21/15",Jonathan Rohde Hallager,Konrad Soløy Myrbostad
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Einar Mathias Øren,Mattis Sæther-Danielsen,Elias Gilhay,Leander Olsen Gjengaar,"21/7,21/5",Einar Mathias Øren,Mattis Sæther-Danielsen
-2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Einar Mathias Øren,Mattis Sæther-Danielsen,Jonathan Rohde Hallager,Konrad Soløy Myrbostad,"21/19,21/10",Einar Mathias Øren,Mattis Sæther-Danielsen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Kai Roger Stensen,,Henrik Buvik,"18/21,21/10,21/14",Kai Roger Stensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/9",Kai Roger Stensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Henrik Buvik,,Harald Buvik,"21/11,21/6",Henrik Buvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Kai Roger Stensen,,Anders Moen,"21/12,21/10",Kai Roger Stensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Anders Moen,,Roar Natvig,"18/21,21/19,21/11",Anders Moen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Kai Roger Stensen,,Roar Natvig,"21/16,21/12",Kai Roger Stensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Håvard Soløy,,Ole Petter Øren,"21/19,12/21,21/17",Håvard Soløy,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Emil Pettersen,,Håvard Soløy,"18/21,21/7,21/9",Emil Pettersen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Emil Pettersen,,Ole Petter Øren,"21/18,21/16",Emil Pettersen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Harald Buvik,,Lars Petter Danielsen,"17/21,21/17,21/14",Harald Buvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Harald Buvik,,Sander Johansen,"21/14,21/17",Harald Buvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Lars Petter Danielsen,,Sander Johansen,"14/21,21/19,21/15",Lars Petter Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Marius Sandvær,,Odd Helge Gåsbakk,"21/17,21/17",Marius Sandvær,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Odd Helge Gåsbakk,,Erik Måøy,"21/19,21/9",Odd Helge Gåsbakk,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Marius Sandvær,,Erik Måøy,"21/10,21/11",Marius Sandvær,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Benjamin Rølvåg,,Morten Langen,"21/12,21/9",Benjamin Rølvåg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Henrik Buvik,,Morten Langen,"21/11,21/5",Henrik Buvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herresingle,,Henrik Buvik,,Benjamin Rølvåg,"21/17,21/13",Henrik Buvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Margarita Wcislo,,Barbro Johnsen,"21/14,21/12",Margarita Wcislo,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Signe Lenning,,Linnea Nordnes Prestø,"21/23,21/17,21/17",Signe Lenning,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/9,21/5",Dorthe Lorvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Signe Lenning,,Barbro Johnsen,"14/21,21/19,21/11",Signe Lenning,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Dorthe Lorvik,,Margarita Wcislo,"20/22,22/20,21/19",Dorthe Lorvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Signe Lenning,,Dorthe Lorvik,"21/19,16/21,21/16",Signe Lenning,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Signe Lenning,,Margarita Wcislo,"21/18,14/21,21/11",Signe Lenning,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Barbro Johnsen,,Linnea Nordnes Prestø,"21/16,21/10",Barbro Johnsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Dorthe Lorvik,,Barbro Johnsen,"21/11,21/9",Dorthe Lorvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damesingle,,Margarita Wcislo,,Linnea Nordnes Prestø,"23/21,21/16",Margarita Wcislo,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Andreas Nordhøy,Sigve Hallager,Henrik Buvik,Benjamin Rølvåg,"21/9,21/9",Andreas Nordhøy,Sigve Hallager
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Henrik Buvik,Benjamin Rølvåg,Sander Johansen,Håvard Soløy,"21/7,21/14",Henrik Buvik,Benjamin Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Andreas Nordhøy,Sigve Hallager,Odd Helge Gåsbakk,Roar Natvig,"21/9,21/11",Andreas Nordhøy,Sigve Hallager
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Odd Helge Gåsbakk,Roar Natvig,Ole Petter Øren,Lars Petter Danielsen,"14/21,21/11,21/7",Odd Helge Gåsbakk,Roar Natvig
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Andreas Nordhøy,Sigve Hallager,Ole Petter Øren,Lars Petter Danielsen,"21/10,21/11",Andreas Nordhøy,Sigve Hallager
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Henrik Buvik,Benjamin Rølvåg,Trond Mære,Rolf Ove Karlsen,"21/13,21/13",Henrik Buvik,Benjamin Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Henrik Buvik,Benjamin Rølvåg,Anders Moen,Erik Måøy,"21/11,21/14",Henrik Buvik,Benjamin Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Trond Mære,Rolf Ove Karlsen,Anders Moen,Erik Måøy,"23/21,21/10",Trond Mære,Rolf Ove Karlsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Herredouble,Sander Johansen,Håvard Soløy,Kai Roger Stensen,Morten Langen,"22/20,21/19",Sander Johansen,Håvard Soløy
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damedouble,Dorthe Lorvik,Linnea Nordnes Prestø,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/15,21/13",Dorthe Lorvik,Linnea Nordnes Prestø
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damedouble,Sara Buvik,Margarita Wcislo,Anne Berit Bergsmo,Anita Olsen,"21/11,21/17",Sara Buvik,Margarita Wcislo
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damedouble,Sara Buvik,Margarita Wcislo,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/9,21/10",Sara Buvik,Margarita Wcislo
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damedouble,Dorthe Lorvik,Linnea Nordnes Prestø,Anne Berit Bergsmo,Anita Olsen,"15/21,21/18,21/16",Dorthe Lorvik,Linnea Nordnes Prestø
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damedouble,Anne Berit Bergsmo,Anita Olsen,Maja Mathilde Johnsen Sørgjerd,Signe Lenning,"21/11,21/15",Anne Berit Bergsmo,Anita Olsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Damedouble,Sara Buvik,Margarita Wcislo,Dorthe Lorvik,Linnea Nordnes Prestø,"21/17,21/15",Sara Buvik,Margarita Wcislo
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Sigve Hallager,Signe Lenning,Margarita Wcislo,Roar Natvig,"21/17,21/14",Sigve Hallager,Signe Lenning
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Sara Buvik,Benjamin Rølvåg,"10/21,21/18,21/16",Trond Mære,Anita Olsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Sigve Hallager,Signe Lenning,Trond Mære,Anita Olsen,"21/12,21/7",Sigve Hallager,Signe Lenning
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Sara Buvik,Benjamin Rølvåg,Emil Pettersen,Dorthe Lorvik,"22/24,21/9,21/17",Sara Buvik,Benjamin Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Sigve Hallager,Signe Lenning,Emil Pettersen,Dorthe Lorvik,"21/16,21/14",Sigve Hallager,Signe Lenning
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Sigve Hallager,Signe Lenning,Sara Buvik,Benjamin Rølvåg,"21/17,21/16",Sigve Hallager,Signe Lenning
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Emil Pettersen,Dorthe Lorvik,"17/21,21/18,21/13",Trond Mære,Anita Olsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Ole Petter Øren,Barbro Johnsen,"22/20,21/15",Rolf Ove Karlsen,Anne Berit Bergsmo
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Margarita Wcislo,Roar Natvig,Rolf Ove Karlsen,Anne Berit Bergsmo,"21/19,15/21,21/18",Margarita Wcislo,Roar Natvig
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Linnea Nordnes Prestø,Marius Sandvær,"21/19,21/6",Rolf Ove Karlsen,Anne Berit Bergsmo
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN A,Mixeddouble,Margarita Wcislo,Roar Natvig,Ole Petter Øren,Barbro Johnsen,"21/16,21/16",Margarita Wcislo,Roar Natvig
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Stig Gåsbakk,,Marius Olav Evensen,"21/19,21/19",Stig Gåsbakk,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Stig Gåsbakk,,Ole Martin Kolberg,"24/22,21/17",Stig Gåsbakk,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Marius Brevik,,Lorents Blomseth,"21/19,21/6",Marius Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Marius Olav Evensen,,Joar Gåsbakk,"21/12,21/14",Marius Olav Evensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Lorents Blomseth,,Joar Gåsbakk,"21/9,21/11",Lorents Blomseth,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Marius Brevik,,Joar Gåsbakk,"21/12,21/17",Marius Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Marius Olav Evensen,,Marius Brevik,"21/16,16/21,21/15",Marius Olav Evensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Stig Gåsbakk,,Jørgen Olsen,"21/11,21/18",Stig Gåsbakk,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Stig Gåsbakk,,Øystein Sveine,"21/12,10/21,21/13",Stig Gåsbakk,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Øystein Sveine,,Jørgen Olsen,"21/15,22/24,21/12",Øystein Sveine,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Ole Martin Kolberg,,Espen Fredriksen,"21/9,21/16",Ole Martin Kolberg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Steinar Fornes,,Ole Martin Kolberg,"21/17,21/10",Steinar Fornes,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herresingle,,Espen Fredriksen,,Steinar Fornes,"21/16,21/7",Espen Fredriksen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Hildegunn Måøy,Harald Buvik,Steinar Fornes,Jørgen Olsen,"21/11,21/18",Hildegunn Måøy,Harald Buvik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Stig Gåsbakk,Joar Gåsbakk,Espen Fredriksen,John Thomas Krogstad,"21/14,21/9",Stig Gåsbakk,Joar Gåsbakk
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Hildegunn Måøy,Harald Buvik,Øystein Sveine,Inge Rosset,"21/11,21/15",Hildegunn Måøy,Harald Buvik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Øystein Sveine,Inge Rosset,Stig Gåsbakk,Joar Gåsbakk,"21/15,11/21,22/20",Øystein Sveine,Inge Rosset
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Hildegunn Måøy,Harald Buvik,Espen Fredriksen,John Thomas Krogstad,"21/8,21/10",Hildegunn Måøy,Harald Buvik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Øystein Sveine,Inge Rosset,Espen Fredriksen,John Thomas Krogstad,"21/14,21/15",Øystein Sveine,Inge Rosset
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Hildegunn Måøy,Harald Buvik,Stig Gåsbakk,Joar Gåsbakk,"21/13,21/13",Hildegunn Måøy,Harald Buvik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Steinar Fornes,Jørgen Olsen,Ole Martin Kolberg,Marius Brevik,"21/12,7/21,21/14",Steinar Fornes,Jørgen Olsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Marius Olav Evensen,Eskil Brøndbo,"21/18,21/19",Erik Winger,Jan Aage Nyborg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Ole Martin Kolberg,Marius Brevik,Erik Winger,Jan Aage Nyborg,"21/8,19/21,22/20",Ole Martin Kolberg,Marius Brevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Steinar Fornes,Jørgen Olsen,Marius Olav Evensen,Eskil Brøndbo,"21/9,21/4",Steinar Fornes,Jørgen Olsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Ole Martin Kolberg,Marius Brevik,Marius Olav Evensen,Eskil Brøndbo,"21/13,21/8",Ole Martin Kolberg,Marius Brevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Herredouble,Steinar Fornes,Jørgen Olsen,Erik Winger,Jan Aage Nyborg,"21/11,21/17",Steinar Fornes,Jørgen Olsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Mixeddouble,Marius Olav Evensen,Siv Solum Buvik,Aina Kaspersen,John Thomas Krogstad,"21/13,18/21,21/11",Marius Olav Evensen,Siv Solum Buvik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Mixeddouble,Lars Petter Danielsen,Ida Lillevik Førde,Marius Olav Evensen,Siv Solum Buvik,"21/11,21/11",Lars Petter Danielsen,Ida Lillevik Førde
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Mixeddouble,Sander Johansen,Hege Merethe Rølvåg,Aina Kaspersen,John Thomas Krogstad,"21/15,21/15",Sander Johansen,Hege Merethe Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Mixeddouble,Sander Johansen,Hege Merethe Rølvåg,Lars Petter Danielsen,Ida Lillevik Førde,"21/16,19/21,21/19",Sander Johansen,Hege Merethe Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Mixeddouble,Sander Johansen,Hege Merethe Rølvåg,Marius Olav Evensen,Siv Solum Buvik,"8/21,21/17,21/16",Sander Johansen,Hege Merethe Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN C,Mixeddouble,Lars Petter Danielsen,Ida Lillevik Førde,Aina Kaspersen,John Thomas Krogstad,"21/14,24/22",Lars Petter Danielsen,Ida Lillevik Førde
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Inge Rosset,,Eskil Brøndbo,"21/17,21/13",Inge Rosset,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Inge Rosset,,Eivind Moe,"21/7,21/14",Inge Rosset,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Inge Rosset,,Jonatan Evensen,"21/9,21/12",Inge Rosset,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Eivind Moe,,Jonatan Evensen,"21/16,21/18",Eivind Moe,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Marius Andre' Elsfjordstrand Beck,,Kurt Førde,"21/14,15/21,23/21",Marius Andre' Elsfjordstrand Beck,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Eskil Brøndbo,,Kurt Førde,"21/8,21/17",Eskil Brøndbo,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Eskil Brøndbo,,Marius Andre' Elsfjordstrand Beck,"21/15,18/21,21/17",Eskil Brøndbo,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,John Thomas Krogstad,,Carl Danielsen,"21/11,21/14",John Thomas Krogstad,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,John Thomas Krogstad,,Svend Morten Reinertsen,"21/16,21/12",John Thomas Krogstad,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herresingle,,Svend Morten Reinertsen,,Carl Danielsen,"21/18,21/16",Svend Morten Reinertsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Nikolai Danielsen,Carl Danielsen,"21/16,21/12",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,Nikolai Danielsen,Carl Danielsen,"21/17,21/16",Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Kurt Førde,Johannes Lillevik Førde,Martin leon brandvik Aakvik,Jonatan Evensen,"21/16,21/11",Kurt Førde,Johannes Lillevik Førde
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Kurt Førde,Johannes Lillevik Førde,Nikolai Danielsen,Carl Danielsen,"21/13,22/20",Kurt Førde,Johannes Lillevik Førde
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Martin leon brandvik Aakvik,Jonatan Evensen,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,"21/15,13/21,21/9",Martin leon brandvik Aakvik,Jonatan Evensen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Kurt Førde,Johannes Lillevik Førde,"21/15,21/18",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Martin leon brandvik Aakvik,Jonatan Evensen,"21/14,21/7",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Kurt Førde,Johannes Lillevik Førde,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,"21/17,22/20",Kurt Førde,Johannes Lillevik Førde
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Svend Morten Reinertsen,Eivind Moe,Marius Andre' Elsfjordstrand Beck,Dag Ivar Lillevik,"21/12,21/9",Svend Morten Reinertsen,Eivind Moe
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Herredouble,Nikolai Danielsen,Carl Danielsen,Martin leon brandvik Aakvik,Jonatan Evensen,"21/9,15/21,22/20",Nikolai Danielsen,Carl Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Damedouble,Hege Merethe Rølvåg,Aina Kaspersen,Ida Lillevik Førde,Siv Solum Buvik,"22/20,21/18",Hege Merethe Rølvåg,Aina Kaspersen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Damedouble,Ida Lillevik Førde,Siv Solum Buvik,Minni Elise Aakvik,Sara katrine Brandvik,"21/11,21/17",Ida Lillevik Førde,Siv Solum Buvik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,SEN D,Damedouble,Hege Merethe Rølvåg,Aina Kaspersen,Minni Elise Aakvik,Sara katrine Brandvik,"23/21,21/11",Hege Merethe Rølvåg,Aina Kaspersen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herresingle,,Simon Balvold,,Noah Fick Lynum,"21/9,21/14",Simon Balvold,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herresingle,,Simon Balvold,,Nathan Gilay,"22/20,21/13",Simon Balvold,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herresingle,,Nathan Gilay,,Noah Fick Lynum,"21/14,21/13",Nathan Gilay,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herresingle,,Nichlas Brevik,,Isak Sveine Aspnes,"21/11,21/14",Nichlas Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herresingle,,Nichlas Brevik,,Casper Bjørhusdahl,"21/9,21/10",Nichlas Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herresingle,,Isak Sveine Aspnes,,Casper Bjørhusdahl,"21/12,21/13",Isak Sveine Aspnes,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Damesingle,,Matilde Langen,,Emilie Johansen,"21/14,21/7",Matilde Langen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Damesingle,,Alma Marie Øren,,Matilde Langen,"21/14,21/15",Alma Marie Øren,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Damesingle,,Alde Andrea Rohde Hallager,,Ronja Michelle Pettersen,"21/16,21/17",Alde Andrea Rohde Hallager,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Damesingle,,Ronja Michelle Pettersen,,Ida Marie Tømmerås Skorstad,"21/13,21/10",Ronja Michelle Pettersen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Damesingle,,Alde Andrea Rohde Hallager,,Ida Marie Tømmerås Skorstad,"21/17,21/11",Alde Andrea Rohde Hallager,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Herredouble,Noah Fick Lynum,Nichlas Brevik,Nathan Gilay,Isak Sveine Aspnes,"21/15,21/17",Noah Fick Lynum,Nichlas Brevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Damedouble,Alde Andrea Rohde Hallager,Alma Marie Øren,Matilde Langen,Ida Marie Tømmerås Skorstad,"21/12,21/16",Alde Andrea Rohde Hallager,Alma Marie Øren
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Nichlas Brevik,Matilde Langen,Alde Andrea Rohde Hallager,Nathan Gilay,"21/14,21/14",Nichlas Brevik,Matilde Langen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Noah Fick Lynum,Ronja Michelle Pettersen,Ida Marie Tømmerås Skorstad,Casper Bjørhusdahl,"21/13,21/9",Noah Fick Lynum,Ronja Michelle Pettersen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Alde Andrea Rohde Hallager,Nathan Gilay,Ida Marie Tømmerås Skorstad,Casper Bjørhusdahl,"21/16,21/12",Alde Andrea Rohde Hallager,Nathan Gilay
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Alde Andrea Rohde Hallager,Nathan Gilay,Noah Fick Lynum,Ronja Michelle Pettersen,"21/17,21/19",Alde Andrea Rohde Hallager,Nathan Gilay
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Nichlas Brevik,Matilde Langen,Noah Fick Lynum,Ronja Michelle Pettersen,"21/12,21/18",Nichlas Brevik,Matilde Langen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Alde Andrea Rohde Hallager,Nathan Gilay,Isak Sveine Aspnes,Emilie Johansen,"21/16,21/16",Alde Andrea Rohde Hallager,Nathan Gilay
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U9 A,Mixeddouble,Nichlas Brevik,Matilde Langen,Ida Marie Tømmerås Skorstad,Casper Bjørhusdahl,"21/8,21/8",Nichlas Brevik,Matilde Langen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herresingle,,Teodor Husmo Sandøy,,Daniel Lillevik Førde,"21/18,21/14",Teodor Husmo Sandøy,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herresingle,,Teodor Husmo Sandøy,,Liam Sveine Aspnes,"21/17,21/15",Teodor Husmo Sandøy,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herresingle,,Liam Sveine Aspnes,,Daniel Lillevik Førde,"21/19,21/14",Liam Sveine Aspnes,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Nora Langen,,Ina Maria Skogmo Bjørhusdahl,"21/15,21/12",Nora Langen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Ingeborg Tømmerås Skorstad,,Iben Marie Kaspersen Krogstad,"21/7,21/7",Ingeborg Tømmerås Skorstad,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Nora Langen,,Ingeborg Tømmerås Skorstad,"21/9,21/15",Nora Langen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Nora Langen,,Iben Marie Kaspersen Krogstad,"21/7,21/2",Nora Langen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Thea Oline Moe,"21/5,21/6",Ina Maria Skogmo Bjørhusdahl,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Andrea Volden,"21/6,21/13",Ina Maria Skogmo Bjørhusdahl,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Andrea Volden,,Thea Oline Moe,"24/22,18/21,23/21",Andrea Volden,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Ida Amalie Skårn,"21/13,16/21,21/10",Ina Maria Skogmo Bjørhusdahl,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Ida Amalie Skårn,,Andrea Volden,"21/9,21/10",Ida Amalie Skårn,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Damesingle,,Ida Amalie Skårn,,Thea Oline Moe,"21/10,21/6",Ida Amalie Skårn,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herredouble,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Thea Oline Moe,Iben Marie Kaspersen Krogstad,"21/5,21/7",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herredouble,Nora Langen,Ingeborg Tømmerås Skorstad,Thea Oline Moe,Iben Marie Kaspersen Krogstad,"21/4,21/13",Nora Langen,Ingeborg Tømmerås Skorstad
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herredouble,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Liam Sveine Aspnes,Teodor Husmo Sandøy,"22/20,23/21",Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herredouble,Nora Langen,Ingeborg Tømmerås Skorstad,Liam Sveine Aspnes,Teodor Husmo Sandøy,"21/15,21/13",Nora Langen,Ingeborg Tømmerås Skorstad
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herredouble,Nora Langen,Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,"21/11,18/21,21/18",Nora Langen,Ingeborg Tømmerås Skorstad
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Herredouble,Liam Sveine Aspnes,Teodor Husmo Sandøy,Thea Oline Moe,Iben Marie Kaspersen Krogstad,"21/14,21/12",Liam Sveine Aspnes,Teodor Husmo Sandøy
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U11 A,Mixeddouble,Ida Amalie Skårn,Teodor Husmo Sandøy,Ina Maria Skogmo Bjørhusdahl,Liam Sveine Aspnes,"21/18,21/19",Ida Amalie Skårn,Teodor Husmo Sandøy
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Herresingle,,Benjamin Brevik,,Jonathan Rohde Hallager,"21/10,21/6",Benjamin Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Herresingle,,Konrad Soløy Myrbostad,,Oliver Langen,"21/15,21/16",Konrad Soløy Myrbostad,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Herresingle,,Jonathan Rohde Hallager,,Oliver Langen,"21/17,21/13",Jonathan Rohde Hallager,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Herresingle,,Benjamin Brevik,,Konrad Soløy Myrbostad,"21/3,21/10",Benjamin Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Herresingle,,Jonathan Rohde Hallager,,Konrad Soløy Myrbostad,"21/15,22/20",Jonathan Rohde Hallager,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Herresingle,,Benjamin Brevik,,Oliver Langen,"21/5,21/6",Benjamin Brevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Maja Mathilde Johnsen Sørgjerd,,Maja Sæther-Danielsen,"21/17,21/14",Maja Mathilde Johnsen Sørgjerd,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Malin Sæther-Danielsen,,Emine Helena S. Olsen,"21/8,21/13",Malin Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Maja Mathilde Johnsen Sørgjerd,,Daria Mari Beck,"21/13,21/18",Maja Mathilde Johnsen Sørgjerd,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Malin Sæther-Danielsen,,Daria Mari Beck,"21/14,21/11",Malin Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Maja Sæther-Danielsen,,Emine Helena S. Olsen,"21/11,21/10",Maja Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Maja Mathilde Johnsen Sørgjerd,,Malin Sæther-Danielsen,"13/21,21/14,21/16",Maja Mathilde Johnsen Sørgjerd,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Daria Mari Beck,,Maja Sæther-Danielsen,"21/15,21/18",Daria Mari Beck,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Maja Mathilde Johnsen Sørgjerd,,Emine Helena S. Olsen,"21/9,21/4",Maja Mathilde Johnsen Sørgjerd,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Daria Mari Beck,,Emine Helena S. Olsen,"21/9,21/9",Daria Mari Beck,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damesingle,,Malin Sæther-Danielsen,,Maja Sæther-Danielsen,"22/20,21/17",Malin Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Damedouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Emine Helena S. Olsen,Daria Mari Beck,"21/14,21/14",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Mixeddouble,Benjamin Brevik,Malin Sæther-Danielsen,Maja Mathilde Johnsen Sørgjerd,Konrad Soløy Myrbostad,"21/10,21/15",Benjamin Brevik,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Mixeddouble,Maja Mathilde Johnsen Sørgjerd,Konrad Soløy Myrbostad,Jonathan Rohde Hallager,Maja Sæther-Danielsen,"25/23,16/21,21/19",Maja Mathilde Johnsen Sørgjerd,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Mixeddouble,Benjamin Brevik,Malin Sæther-Danielsen,Oliver Langen,Daria Mari Beck,"21/9,21/8",Benjamin Brevik,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Mixeddouble,Maja Mathilde Johnsen Sørgjerd,Konrad Soløy Myrbostad,Oliver Langen,Daria Mari Beck,"21/23,22/20,21/8",Maja Mathilde Johnsen Sørgjerd,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Mixeddouble,Benjamin Brevik,Malin Sæther-Danielsen,Jonathan Rohde Hallager,Maja Sæther-Danielsen,"22/20,21/16",Benjamin Brevik,Malin Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 A,Mixeddouble,Jonathan Rohde Hallager,Maja Sæther-Danielsen,Oliver Langen,Daria Mari Beck,"21/13,21/23,21/10",Jonathan Rohde Hallager,Maja Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herresingle,,Noah Hallan,,Leon Feldt,"21/8,21/11",Noah Hallan,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herresingle,,Michael Donner,,Gustav Arnøy,"17/21,21/17,21/14",Michael Donner,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herresingle,,Michael Donner,,Leon Feldt,"21/9,21/4",Michael Donner,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herresingle,,Noah Hallan,,Gustav Arnøy,"22/20,21/14",Noah Hallan,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herresingle,,Gustav Arnøy,,Leon Feldt,"21/13,21/6",Gustav Arnøy,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herresingle,,Noah Hallan,,Michael Donner,"15/21,21/14,21/14",Noah Hallan,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U13 B,Herredouble,Gustav Arnøy,Noah Hallan,Leon Feldt,Michael Donner,"21/15,21/15",Gustav Arnøy,Noah Hallan
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,William Aaberg Rølvåg,,Mattis Sæther-Danielsen,"21/11,21/11",William Aaberg Rølvåg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,William Aaberg Rølvåg,,Kenneth Bernhoff,"21/5,21/4",William Aaberg Rølvåg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Einar Mathias Øren,,Ludvig Kolberg,"21/23,21/12,21/19",Einar Mathias Øren,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Ludvig Kolberg,,Kenneth Bernhoff,"21/5,25/23",Ludvig Kolberg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,William Aaberg Rølvåg,,Einar Mathias Øren,"21/7,21/7",William Aaberg Rølvåg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Einar Mathias Øren,,Kenneth Bernhoff,"21/14,21/16",Einar Mathias Øren,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,William Aaberg Rølvåg,,Ludvig Kolberg,"21/1,21/6",William Aaberg Rølvåg,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Johannes Lillevik Førde,,Sindre Emanuel Moe,"21/15,21/6",Johannes Lillevik Førde,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Mattis Sæther-Danielsen,,Elias Gilhay,"21/12,21/16",Mattis Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Mattis Sæther-Danielsen,,Johannes Lillevik Førde,"21/16,21/16",Mattis Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Elias Gilhay,,Johannes Lillevik Førde,"21/17,21/15",Elias Gilhay,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Mattis Sæther-Danielsen,,Sindre Emanuel Moe,"21/8,21/5",Mattis Sæther-Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herresingle,,Elias Gilhay,,Sindre Emanuel Moe,"21/15,21/10",Elias Gilhay,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Ludvig Kolberg,William Aaberg Rølvåg,Einar Mathias Øren,Mattis Sæther-Danielsen,"21/14,21/10",Ludvig Kolberg,William Aaberg Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Oliver Langen,Benjamin Brevik,Sindre Emanuel Moe,Kenneth Bernhoff,"21/12,21/6",Oliver Langen,Benjamin Brevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Ludvig Kolberg,William Aaberg Rølvåg,Oliver Langen,Benjamin Brevik,"23/21,21/8",Ludvig Kolberg,William Aaberg Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Ludvig Kolberg,William Aaberg Rølvåg,Sindre Emanuel Moe,Kenneth Bernhoff,"21/10,21/6",Ludvig Kolberg,William Aaberg Rølvåg
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Jonathan Rohde Hallager,Konrad Soløy Myrbostad,Elias Gilhay,Leander Olsen Gjengaar,"21/9,21/15",Jonathan Rohde Hallager,Konrad Soløy Myrbostad
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Einar Mathias Øren,Mattis Sæther-Danielsen,Elias Gilhay,Leander Olsen Gjengaar,"21/7,21/5",Einar Mathias Øren,Mattis Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Herredouble,Einar Mathias Øren,Mattis Sæther-Danielsen,Jonathan Rohde Hallager,Konrad Soløy Myrbostad,"21/19,21/10",Einar Mathias Øren,Mattis Sæther-Danielsen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Mixeddouble,Johannes Lillevik Førde,Marthe Evjenth,Einar Mathias Øren,Tilde Evensen,"21/19,23/21",Johannes Lillevik Førde,Marthe Evjenth
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Mixeddouble,Ludvig Kolberg,Kristiane Rohde Hallager,Einar Mathias Øren,Tilde Evensen,"21/17,21/16",Ludvig Kolberg,Kristiane Rohde Hallager
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 A,Mixeddouble,Ludvig Kolberg,Kristiane Rohde Hallager,Johannes Lillevik Førde,Marthe Evjenth,"21/17,21/15",Ludvig Kolberg,Kristiane Rohde Hallager
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damesingle,,Tilde Evensen,,Annelotte Storsul Sverdrup,"21/8,21/8",Tilde Evensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damesingle,,Marthe Evjenth,,Thea Storheil,"21/6,21/3",Marthe Evjenth,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damesingle,,Annelotte Storsul Sverdrup,,Thea Storheil,"21/17,21/13",Annelotte Storsul Sverdrup,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damesingle,,Tilde Evensen,,Marthe Evjenth,"21/17,21/19",Tilde Evensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damesingle,,Marthe Evjenth,,Annelotte Storsul Sverdrup,"21/8,21/4",Marthe Evjenth,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damesingle,,Tilde Evensen,,Thea Storheil,"21/10,21/9",Tilde Evensen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Damedouble,Tilde Evensen,Marthe Evjenth,Thea Storheil,Annelotte Storsul Sverdrup,"21/8,21/7",Tilde Evensen,Marthe Evjenth
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U15 B,Mixeddouble,Leander Olsen Gjengaar,Annelotte Storsul Sverdrup,Thea Storheil,Noah Hallan,"21/15,21/16",Leander Olsen Gjengaar,Annelotte Storsul Sverdrup
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herresingle,,Edvart Soløy Myrbostad,,Mats Bernhoff,"21/16,21/18",Edvart Soløy Myrbostad,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herresingle,,Alexander Hansen,,Lukas Stonys,"17/21,21/10,21/14",Alexander Hansen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herresingle,,Lukas Stonys,,Mats Bernhoff,"21/19,21/19",Lukas Stonys,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herresingle,,Alexander Hansen,,Edvart Soløy Myrbostad,"21/15,21/16",Alexander Hansen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herresingle,,Edvart Soløy Myrbostad,,Lukas Stonys,"17/21,21/7,21/11",Edvart Soløy Myrbostad,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herresingle,,Alexander Hansen,,Mats Bernhoff,"21/11,21/16",Alexander Hansen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damesingle,,Kristiane Rohde Hallager,,Sylvia Husmo,"21/14,21/15",Kristiane Rohde Hallager,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damesingle,,Pernille Lillevik,,Lilly Evy Schurmann,"21/13,21/13",Pernille Lillevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damesingle,,Pernille Lillevik,,Kristiane Rohde Hallager,"21/6,21/9",Pernille Lillevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damesingle,,Lilly Evy Schurmann,,Sylvia Husmo,"21/13,21/17",Lilly Evy Schurmann,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damesingle,,Kristiane Rohde Hallager,,Lilly Evy Schurmann,"21/14,24/22",Kristiane Rohde Hallager,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damesingle,,Pernille Lillevik,,Sylvia Husmo,"21/10,21/6",Pernille Lillevik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Herredouble,Mats Bernhoff,Alexander Hansen,Lukas Stonys,Edvart Soløy Myrbostad,"21/16,21/15",Mats Bernhoff,Alexander Hansen
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Damedouble,Kristiane Rohde Hallager,Pernille Lillevik,Sylvia Husmo,Lilly Evy Schurmann,"23/21,22/20",Kristiane Rohde Hallager,Pernille Lillevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Mixeddouble,Minni Elise Aakvik,Lukas Stonys,Sylvia Husmo,Edvart Soløy Myrbostad,"21/18,11/21,21/16",Minni Elise Aakvik,Lukas Stonys
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Mixeddouble,William Aaberg Rølvåg,Pernille Lillevik,Alexander Hansen,Lilly Evy Schurmann,"21/15,21/10",William Aaberg Rølvåg,Pernille Lillevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Mixeddouble,William Aaberg Rølvåg,Pernille Lillevik,Minni Elise Aakvik,Lukas Stonys,"21/11,21/8",William Aaberg Rølvåg,Pernille Lillevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Mixeddouble,Alexander Hansen,Lilly Evy Schurmann,Minni Elise Aakvik,Lukas Stonys,"21/14,21/16",Alexander Hansen,Lilly Evy Schurmann
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Mixeddouble,Alexander Hansen,Lilly Evy Schurmann,Sylvia Husmo,Edvart Soløy Myrbostad,"18/21,21/19,21/10",Alexander Hansen,Lilly Evy Schurmann
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 A,Mixeddouble,William Aaberg Rølvåg,Pernille Lillevik,Sylvia Husmo,Edvart Soløy Myrbostad,"21/10,21/18",William Aaberg Rølvåg,Pernille Lillevik
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 B,Herresingle,,Nikolai Danielsen,,Arnold Strand,"21/7,21/11",Nikolai Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 B,Herresingle,,Leander Olsen Gjengaar,,Nikolai Danielsen,"21/19,21/15",Leander Olsen Gjengaar,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 B,Herresingle,,Martin leon brandvik Aakvik,,Arnold Strand,"21/13,21/13",Martin leon brandvik Aakvik,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 B,Herresingle,,Nikolai Danielsen,,Martin leon brandvik Aakvik,"21/11,21/5",Nikolai Danielsen,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 B,Herresingle,,Leander Olsen Gjengaar,,Arnold Strand,"21/8,21/12",Leander Olsen Gjengaar,
+2022/2023,Gullvikmoen Kretsmesterskap Midtnorsk Nord / Gullvikmoen Open,14.01.2023,U17 B,Herresingle,,Leander Olsen Gjengaar,,Martin leon brandvik Aakvik,"21/17,21/11",Leander Olsen Gjengaar,

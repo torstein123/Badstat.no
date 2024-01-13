@@ -1,183 +1,158 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Carlo Alonzo Agustin,"21/16,26/24",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Yahya Januarilham,"21/10,21/17",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Hermod Holte Haugland,"21/16,21/12",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Håkon Skogland Halvorsen,,Hemant Anilkumar,"21/8,21/9",Håkon Skogland Halvorsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Hemant Anilkumar,"21/5,21/8",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Håkon Skogland Halvorsen,"21/15,21/12",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Houshang Jabbarzadeh,"21/7,21/19",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Trond Atle Syvertsen,"21/17,21/16",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trond Atle Syvertsen,,Houshang Jabbarzadeh,"21/13,21/17",Trond Atle Syvertsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Terje Jacobsen,"24/22,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Nils Henrik Haaland,"21/12,21/17",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Terje Jacobsen,"21/17,21/13",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Nils Henrik Haaland,"21/10,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Terje Jacobsen,,Nils Henrik Haaland,"21/11,21/18",Terje Jacobsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Anders Haugland,"22/24,21/12,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Stian Ekroll Glenne,"21/13,21/7",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Carlo Alonzo Agustin,"21/16,26/24",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Yahya Januarilham,"21/10,21/17",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Hermod Holte Haugland,"21/16,21/12",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Håkon Skogland Halvorsen,,Hemant Anilkumar,"21/8,21/9",Håkon Skogland Halvorsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Hemant Anilkumar,"21/5,21/8",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Håkon Skogland Halvorsen,"21/15,21/12",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Houshang Jabbarzadeh,"21/7,21/19",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Trond Atle Syvertsen,"21/17,21/16",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trond Atle Syvertsen,,Houshang Jabbarzadeh,"21/13,21/17",Trond Atle Syvertsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Terje Jacobsen,"24/22,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Nils Henrik Haaland,"21/12,21/17",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Terje Jacobsen,"21/17,21/13",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Nils Henrik Haaland,"21/10,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Terje Jacobsen,,Nils Henrik Haaland,"21/11,21/18",Terje Jacobsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Anders Haugland,"22/24,21/12,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Stian Ekroll Glenne,"21/13,21/7",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Trygve Ellingsen,Terje Jacobsen,Houshang Jabbarzadeh,Yahya Januarilham,"19/21,21/19,21/18",Trygve Ellingsen,Terje Jacobsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Houshang Jabbarzadeh,Yahya Januarilham,Anders Haugland,Kenneth Dinh,"21/11,21/7",Houshang Jabbarzadeh,Yahya Januarilham
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Heidi Kristine Skree,Iris Hagen,Anders Haugland,Kenneth Dinh,"14/21,21/13,21/16",Heidi Kristine Skree,Iris Hagen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Houshang Jabbarzadeh,Yahya Januarilham,Heidi Kristine Skree,Iris Hagen,"21/13,21/10",Houshang Jabbarzadeh,Yahya Januarilham
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Carlo Alonzo Agustin,Trond Atle Syvertsen,Stian Ekroll Glenne,Nils Henrik Haaland,"21/15,21/18",Carlo Alonzo Agustin,Trond Atle Syvertsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Trygve Ellingsen,Terje Jacobsen,Carlo Alonzo Agustin,Trond Atle Syvertsen,"21/8,21/16",Trygve Ellingsen,Terje Jacobsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Trygve Ellingsen,Terje Jacobsen,Stian Ekroll Glenne,Nils Henrik Haaland,"21/10,21/14",Trygve Ellingsen,Terje Jacobsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Anders Bellesen,"21/16,21/20",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Anders Bellesen,,Kim Gyberg Haugland,"21/11,14/21,21/18",Anders Bellesen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Casper Cappelen,"21/14,21/16",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Heidi Kristine Skree,"21/14,21/11",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Anders Bellesen,,Heidi Kristine Skree,"21/17,21/15",Anders Bellesen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Anders Bellesen,"22/20,21/11",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Kim Gyberg Haugland,,Casper Cappelen,"21/17,22/20",Kim Gyberg Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Casper Cappelen,,Anders Tranberg,"21/15,15/21,21/16",Casper Cappelen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Kim Gyberg Haugland,,Anders Tranberg,"21/16,17/21,21/12",Kim Gyberg Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Anders Bellesen,"21/16,21/20",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Anders Bellesen,,Kim Gyberg Haugland,"21/11,14/21,21/18",Anders Bellesen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Casper Cappelen,"21/14,21/16",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Heidi Kristine Skree,"21/14,21/11",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Anders Bellesen,,Heidi Kristine Skree,"21/17,21/15",Anders Bellesen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Stian Ruud-Larsen,,Anders Bellesen,"22/20,21/11",Stian Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Kim Gyberg Haugland,,Casper Cappelen,"21/17,22/20",Kim Gyberg Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Casper Cappelen,,Anders Tranberg,"21/15,15/21,21/16",Casper Cappelen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Kim Gyberg Haugland,,Anders Tranberg,"21/16,17/21,21/12",Kim Gyberg Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Emily Linn Wallace,,Sandra-Viktoria Karlsen,"18/21,21/15,21/12",Emily Linn Wallace,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Sara Bellesen,,Sandra-Viktoria Karlsen,"21/15,21/12",Sara Bellesen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,,Sara Bellesen,,Emily Linn Wallace,"21/15,21/17",Sara Bellesen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Casper Cappelen,Stian Ruud-Larsen,Anders Tranberg,Bjarke Smith,"16/21,21/19,21/14",Casper Cappelen,Stian Ruud-Larsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Casper Cappelen,Stian Ruud-Larsen,Hermod Holte Haugland,Julian Aulin Bøe,"14/21,21/18,21/15",Casper Cappelen,Stian Ruud-Larsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Vikas Manocha,Jay Janaskar,Siby Abraham,Anilkumar Unnithan,"21/19,12/21,21/11",Vikas Manocha,Jay Janaskar
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Anders Tranberg,Bjarke Smith,Naimish Doshi,Anandathirthan Rangan,"21/13,21/13",Anders Tranberg,Bjarke Smith
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Siby Abraham,Anilkumar Unnithan,Naimish Doshi,Anandathirthan Rangan,"21/14,21/16",Siby Abraham,Anilkumar Unnithan
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Vikas Manocha,Jay Janaskar,Naimish Doshi,Anandathirthan Rangan,"21/23,21/19,21/16",Vikas Manocha,Jay Janaskar
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Anders Tranberg,Bjarke Smith,Siby Abraham,Anilkumar Unnithan,"21/16,21/9",Anders Tranberg,Bjarke Smith
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Anders Tranberg,Bjarke Smith,Vikas Manocha,Jay Janaskar,"21/15,21/16",Anders Tranberg,Bjarke Smith
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mette Skjævesland Pedersen,Bente Kverneland,Tor Egil Frøyland,Ivan Sundt,"21/17,21/16",Mette Skjævesland Pedersen,Bente Kverneland
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Casper Cappelen,Stian Ruud-Larsen,Mette Skjævesland Pedersen,Bente Kverneland,"21/16,21/14",Casper Cappelen,Stian Ruud-Larsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Casper Cappelen,Stian Ruud-Larsen,Tor Egil Frøyland,Ivan Sundt,"21/15,21/9",Casper Cappelen,Stian Ruud-Larsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Hermod Holte Haugland,Julian Aulin Bøe,Odd Hæreid,Øyvind Steinsbø,"21/17,22/20",Hermod Holte Haugland,Julian Aulin Bøe
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Hermod Holte Haugland,Julian Aulin Bøe,Michael Rettore,Anders Bellesen,"22/20,17/21,21/12",Hermod Holte Haugland,Julian Aulin Bøe
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Michael Rettore,Anders Bellesen,Odd Hæreid,Øyvind Steinsbø,"21/17,22/20",Michael Rettore,Anders Bellesen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Kirsten Smith,Fenfang Zhao,Emily Linn Wallace,Tina Vuong,"21/6,21/19",Kirsten Smith,Fenfang Zhao
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Sara Bellesen,Nora Lindanger,Camilla Skrunes Sundt,Thea Katharina Frøyland,"21/15,21/13",Sara Bellesen,Nora Lindanger
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Camilla Skrunes Sundt,Thea Katharina Frøyland,Emily Linn Wallace,Tina Vuong,"21/18,21/16",Camilla Skrunes Sundt,Thea Katharina Frøyland
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Kirsten Smith,Fenfang Zhao,Sara Bellesen,Nora Lindanger,"21/15,21/12",Kirsten Smith,Fenfang Zhao
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Sara Bellesen,Nora Lindanger,Emily Linn Wallace,Tina Vuong,"21/7,21/12",Sara Bellesen,Nora Lindanger
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Kirsten Smith,Fenfang Zhao,Camilla Skrunes Sundt,Thea Katharina Frøyland,"21/17,21/7",Kirsten Smith,Fenfang Zhao
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Tor Egil Frøyland,,Kim Rasmussen,"22/20,21/17",Tor Egil Frøyland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Naimish Doshi,,Vikas Manocha,"21/18,13/21,21/19",Naimish Doshi,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Tor Egil Frøyland,,Vikas Manocha,"21/7,21/16",Tor Egil Frøyland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Kim Rasmussen,,Naimish Doshi,"21/14,21/18",Kim Rasmussen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Tor Egil Frøyland,,Naimish Doshi,"18/21,21/13,21/13",Tor Egil Frøyland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Vikas Manocha,,Kim Rasmussen,"21/18,15/21,21/15",Vikas Manocha,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Tor Egil Frøyland,,Kim Rasmussen,"22/20,21/17",Tor Egil Frøyland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Naimish Doshi,,Vikas Manocha,"21/18,13/21,21/19",Naimish Doshi,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Tor Egil Frøyland,,Vikas Manocha,"21/7,21/16",Tor Egil Frøyland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Kim Rasmussen,,Naimish Doshi,"21/14,21/18",Kim Rasmussen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Tor Egil Frøyland,,Naimish Doshi,"18/21,21/13,21/13",Tor Egil Frøyland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,,Vikas Manocha,,Kim Rasmussen,"21/18,15/21,21/15",Vikas Manocha,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Carlo Alonzo Agustin,"21/16,26/24",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Yahya Januarilham,"21/10,21/17",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Hermod Holte Haugland,"21/16,21/12",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Håkon Skogland Halvorsen,,Hemant Anilkumar,"21/8,21/9",Håkon Skogland Halvorsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Hemant Anilkumar,"21/5,21/8",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Håkon Skogland Halvorsen,"21/15,21/12",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Houshang Jabbarzadeh,"21/7,21/19",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Trond Atle Syvertsen,"21/17,21/16",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trond Atle Syvertsen,,Houshang Jabbarzadeh,"21/13,21/17",Trond Atle Syvertsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Terje Jacobsen,"24/22,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Nils Henrik Haaland,"21/12,21/17",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Terje Jacobsen,"21/17,21/13",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Nils Henrik Haaland,"21/10,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Terje Jacobsen,,Nils Henrik Haaland,"21/11,21/18",Terje Jacobsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Anders Haugland,"22/24,21/12,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Stian Ekroll Glenne,"21/13,21/7",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Carlo Alonzo Agustin,"21/16,26/24",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Yahya Januarilham,"21/10,21/17",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Hermod Holte Haugland,"21/16,21/12",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Håkon Skogland Halvorsen,,Hemant Anilkumar,"21/8,21/9",Håkon Skogland Halvorsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Hemant Anilkumar,"21/5,21/8",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trygve Ellingsen,,Håkon Skogland Halvorsen,"21/15,21/12",Trygve Ellingsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Houshang Jabbarzadeh,"21/7,21/19",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Yahya Januarilham,,Trond Atle Syvertsen,"21/17,21/16",Yahya Januarilham,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Trond Atle Syvertsen,,Houshang Jabbarzadeh,"21/13,21/17",Trond Atle Syvertsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Terje Jacobsen,"24/22,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Nils Henrik Haaland,"21/12,21/17",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Anders Haugland,,Terje Jacobsen,"21/17,21/13",Anders Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Nils Henrik Haaland,"21/10,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Terje Jacobsen,,Nils Henrik Haaland,"21/11,21/18",Terje Jacobsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Hermod Holte Haugland,,Anders Haugland,"22/24,21/12,21/12",Hermod Holte Haugland,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,,Carlo Alonzo Agustin,,Stian Ekroll Glenne,"21/13,21/7",Carlo Alonzo Agustin,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Trygve Ellingsen,Terje Jacobsen,Houshang Jabbarzadeh,Yahya Januarilham,"19/21,21/19,21/18",Trygve Ellingsen,Terje Jacobsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Houshang Jabbarzadeh,Yahya Januarilham,Anders Haugland,Kenneth Dinh,"21/11,21/7",Houshang Jabbarzadeh,Yahya Januarilham
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Heidi Kristine Skree,Iris Hagen,Anders Haugland,Kenneth Dinh,"14/21,21/13,21/16",Heidi Kristine Skree,Iris Hagen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Houshang Jabbarzadeh,Yahya Januarilham,Heidi Kristine Skree,Iris Hagen,"21/13,21/10",Houshang Jabbarzadeh,Yahya Januarilham
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Carlo Alonzo Agustin,Trond Atle Syvertsen,Stian Ekroll Glenne,Nils Henrik Haaland,"21/15,21/18",Carlo Alonzo Agustin,Trond Atle Syvertsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Trygve Ellingsen,Terje Jacobsen,Carlo Alonzo Agustin,Trond Atle Syvertsen,"21/8,21/16",Trygve Ellingsen,Terje Jacobsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Trygve Ellingsen,Terje Jacobsen,Stian Ekroll Glenne,Nils Henrik Haaland,"21/10,21/14",Trygve Ellingsen,Terje Jacobsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Leon Olai Berg Iding,"22/20,21/0",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erik Rasmussen,,Linus Sandal,"21/15,21/14",Erik Rasmussen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Leon Olai Berg Iding,,Emil Lien Akre,"21/5,21/11",Leon Olai Berg Iding,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erik Rasmussen,,Emil Lien Akre,"21/8,21/11",Erik Rasmussen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Leon Olai Berg Iding,,Linus Sandal,"21/5,21/6",Leon Olai Berg Iding,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Leon Olai Berg Iding,,Erik Rasmussen,"21/9,21/12",Leon Olai Berg Iding,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Emil Lien Akre,,Linus Sandal,"21/18,21/13",Emil Lien Akre,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Ludvig Sandanger,"21/12,21/6",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erlend Ruud-Larsen,,Simen Lien Akre,"21/16,21/18",Erlend Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erlend Ruud-Larsen,,Ludvig Sandanger,"21/16,21/16",Erlend Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Ludvig Sandanger,,Simen Lien Akre,"21/15,25/23",Ludvig Sandanger,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Vyom Naimish Doshi,"21/8,21/10",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Vyom Naimish Doshi,,Simen Lien Akre,"21/19,19/21,21/18",Vyom Naimish Doshi,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Vyom Naimish Doshi,,Ludvig Sandanger,"21/19,7/21,21/18",Vyom Naimish Doshi,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Erlend Ruud-Larsen,"21/11,21/15",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erlend Ruud-Larsen,,Vyom Naimish Doshi,"21/9,21/16",Erlend Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Simen Lien Akre,"21/7,21/13",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Leon Olai Berg Iding,"22/20,21/0",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erik Rasmussen,,Linus Sandal,"21/15,21/14",Erik Rasmussen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Leon Olai Berg Iding,,Emil Lien Akre,"21/5,21/11",Leon Olai Berg Iding,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erik Rasmussen,,Emil Lien Akre,"21/8,21/11",Erik Rasmussen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Leon Olai Berg Iding,,Linus Sandal,"21/5,21/6",Leon Olai Berg Iding,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Leon Olai Berg Iding,,Erik Rasmussen,"21/9,21/12",Leon Olai Berg Iding,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Emil Lien Akre,,Linus Sandal,"21/18,21/13",Emil Lien Akre,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Ludvig Sandanger,"21/12,21/6",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erlend Ruud-Larsen,,Simen Lien Akre,"21/16,21/18",Erlend Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erlend Ruud-Larsen,,Ludvig Sandanger,"21/16,21/16",Erlend Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Ludvig Sandanger,,Simen Lien Akre,"21/15,25/23",Ludvig Sandanger,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Vyom Naimish Doshi,"21/8,21/10",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Vyom Naimish Doshi,,Simen Lien Akre,"21/19,19/21,21/18",Vyom Naimish Doshi,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Vyom Naimish Doshi,,Ludvig Sandanger,"21/19,7/21,21/18",Vyom Naimish Doshi,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Erlend Ruud-Larsen,"21/11,21/15",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Erlend Ruud-Larsen,,Vyom Naimish Doshi,"21/9,21/16",Erlend Ruud-Larsen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Eimund Tangen,,Simen Lien Akre,"21/7,21/13",Eimund Tangen,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Camilla Skrunes Sundt,,Srishti Manocha,"21/14,21/14",Camilla Skrunes Sundt,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Srishti Manocha,,Audrina Ammara Darmawan,"21/8,21/11",Srishti Manocha,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Camilla Skrunes Sundt,,Synne Ruud-Larsen,"21/11,21/0",Camilla Skrunes Sundt,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Audrina Ammara Darmawan,,Synne Ruud-Larsen,"21/2,21/4",Audrina Ammara Darmawan,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Camilla Skrunes Sundt,,Audrina Ammara Darmawan,"21/10,21/4",Camilla Skrunes Sundt,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Ingrid Prestvik Vandvik,,Alma Othilie Bill-Eriksen,"11/21,21/19,21/7",Ingrid Prestvik Vandvik,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Srishti Manocha,,Yutong Feng,"21/4,21/9",Srishti Manocha,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Yutong Feng,,Alma Othilie Bill-Eriksen,"21/18,21/18",Yutong Feng,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Srishti Manocha,,Alma Othilie Bill-Eriksen,"21/8,21/4",Srishti Manocha,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Ingrid Prestvik Vandvik,,Yutong Feng,"21/10,22/20",Ingrid Prestvik Vandvik,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,,Srishti Manocha,,Ingrid Prestvik Vandvik,"21/9,21/10",Srishti Manocha,
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Leon Olai Berg Iding,Eimund Tangen,Tobias Lutro Haave,Erlend Ruud-Larsen,"21/10,21/8",Leon Olai Berg Iding,Eimund Tangen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Tobias Lutro Haave,Erlend Ruud-Larsen,Linus Sandal,Erik Rasmussen,"19/21,21/12,21/13",Tobias Lutro Haave,Erlend Ruud-Larsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Linus Sandal,Erik Rasmussen,Emil Lien Akre,Simen Lien Akre,"21/11,21/18",Linus Sandal,Erik Rasmussen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Tobias Lutro Haave,Erlend Ruud-Larsen,Emil Lien Akre,Simen Lien Akre,"21/12,21/19",Tobias Lutro Haave,Erlend Ruud-Larsen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Leon Olai Berg Iding,Eimund Tangen,Linus Sandal,Erik Rasmussen,"21/7,21/13",Leon Olai Berg Iding,Eimund Tangen
-2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Leon Olai Berg Iding,Eimund Tangen,Emil Lien Akre,Simen Lien Akre,"21/8,21/13",Leon Olai Berg Iding,Eimund Tangen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Trygve Ellingsen,,Carlo Alonzo Agustin,"21/16,26/24",Trygve Ellingsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Trygve Ellingsen,,Yahya Januarilham,"21/10,21/17",Trygve Ellingsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Carlo Alonzo Agustin,,Hermod Holte Haugland,"21/16,21/12",Carlo Alonzo Agustin,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Håkon Skogland Halvorsen,,Hemant Anilkumar,"21/8,21/9",Håkon Skogland Halvorsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Trygve Ellingsen,,Hemant Anilkumar,"21/5,21/8",Trygve Ellingsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Trygve Ellingsen,,Håkon Skogland Halvorsen,"21/15,21/12",Trygve Ellingsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Yahya Januarilham,,Houshang Jabbarzadeh,"21/7,21/19",Yahya Januarilham,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Yahya Januarilham,,Trond Atle Syvertsen,"21/17,21/16",Yahya Januarilham,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Trond Atle Syvertsen,,Houshang Jabbarzadeh,"21/13,21/17",Trond Atle Syvertsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Hermod Holte Haugland,,Terje Jacobsen,"24/22,21/12",Hermod Holte Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Anders Haugland,,Nils Henrik Haaland,"21/12,21/17",Anders Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Anders Haugland,,Terje Jacobsen,"21/17,21/13",Anders Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Hermod Holte Haugland,,Nils Henrik Haaland,"21/10,21/12",Hermod Holte Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Terje Jacobsen,,Nils Henrik Haaland,"21/11,21/18",Terje Jacobsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Hermod Holte Haugland,,Anders Haugland,"22/24,21/12,21/12",Hermod Holte Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herresingle,,Carlo Alonzo Agustin,,Stian Ekroll Glenne,"21/13,21/7",Carlo Alonzo Agustin,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Trygve Ellingsen,Terje Jacobsen,Houshang Jabbarzadeh,Yahya Januarilham,"19/21,21/19,21/18",Trygve Ellingsen,Terje Jacobsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Houshang Jabbarzadeh,Yahya Januarilham,Anders Haugland,Kenneth Dinh,"21/11,21/7",Houshang Jabbarzadeh,Yahya Januarilham
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Heidi Kristine Skree,Iris Hagen,Anders Haugland,Kenneth Dinh,"14/21,21/13,21/16",Heidi Kristine Skree,Iris Hagen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Houshang Jabbarzadeh,Yahya Januarilham,Heidi Kristine Skree,Iris Hagen,"21/13,21/10",Houshang Jabbarzadeh,Yahya Januarilham
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Carlo Alonzo Agustin,Trond Atle Syvertsen,Stian Ekroll Glenne,Nils Henrik Haaland,"21/15,21/18",Carlo Alonzo Agustin,Trond Atle Syvertsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Trygve Ellingsen,Terje Jacobsen,Carlo Alonzo Agustin,Trond Atle Syvertsen,"21/8,21/16",Trygve Ellingsen,Terje Jacobsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN A,Herredouble,Trygve Ellingsen,Terje Jacobsen,Stian Ekroll Glenne,Nils Henrik Haaland,"21/10,21/14",Trygve Ellingsen,Terje Jacobsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Stian Ruud-Larsen,,Anders Bellesen,"21/16,21/20",Stian Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Anders Bellesen,,Kim Gyberg Haugland,"21/11,14/21,21/18",Anders Bellesen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Stian Ruud-Larsen,,Casper Cappelen,"21/14,21/16",Stian Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Stian Ruud-Larsen,,Heidi Kristine Skree,"21/14,21/11",Stian Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Anders Bellesen,,Heidi Kristine Skree,"21/17,21/15",Anders Bellesen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Stian Ruud-Larsen,,Anders Bellesen,"22/20,21/11",Stian Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Kim Gyberg Haugland,,Casper Cappelen,"21/17,22/20",Kim Gyberg Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Casper Cappelen,,Anders Tranberg,"21/15,15/21,21/16",Casper Cappelen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herresingle,,Kim Gyberg Haugland,,Anders Tranberg,"21/16,17/21,21/12",Kim Gyberg Haugland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damesingle,,Emily Linn Wallace,,Sandra-Viktoria Karlsen,"18/21,21/15,21/12",Emily Linn Wallace,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damesingle,,Sara Bellesen,,Sandra-Viktoria Karlsen,"21/15,21/12",Sara Bellesen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damesingle,,Sara Bellesen,,Emily Linn Wallace,"21/15,21/17",Sara Bellesen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Casper Cappelen,Stian Ruud-Larsen,Anders Tranberg,Bjarke Smith,"16/21,21/19,21/14",Casper Cappelen,Stian Ruud-Larsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Casper Cappelen,Stian Ruud-Larsen,Hermod Holte Haugland,Julian Aulin Bøe,"14/21,21/18,21/15",Casper Cappelen,Stian Ruud-Larsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Vikas Manocha,Jay Janaskar,Siby Abraham,Anilkumar Unnithan,"21/19,12/21,21/11",Vikas Manocha,Jay Janaskar
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Anders Tranberg,Bjarke Smith,Naimish Doshi,Anandathirthan Rangan,"21/13,21/13",Anders Tranberg,Bjarke Smith
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Siby Abraham,Anilkumar Unnithan,Naimish Doshi,Anandathirthan Rangan,"21/14,21/16",Siby Abraham,Anilkumar Unnithan
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Vikas Manocha,Jay Janaskar,Naimish Doshi,Anandathirthan Rangan,"21/23,21/19,21/16",Vikas Manocha,Jay Janaskar
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Anders Tranberg,Bjarke Smith,Siby Abraham,Anilkumar Unnithan,"21/16,21/9",Anders Tranberg,Bjarke Smith
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Anders Tranberg,Bjarke Smith,Vikas Manocha,Jay Janaskar,"21/15,21/16",Anders Tranberg,Bjarke Smith
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Mette Skjævesland Pedersen,Bente Kverneland,Tor Egil Frøyland,Ivan Sundt,"21/17,21/16",Mette Skjævesland Pedersen,Bente Kverneland
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Casper Cappelen,Stian Ruud-Larsen,Mette Skjævesland Pedersen,Bente Kverneland,"21/16,21/14",Casper Cappelen,Stian Ruud-Larsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Casper Cappelen,Stian Ruud-Larsen,Tor Egil Frøyland,Ivan Sundt,"21/15,21/9",Casper Cappelen,Stian Ruud-Larsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Hermod Holte Haugland,Julian Aulin Bøe,Odd Hæreid,Øyvind Steinsbø,"21/17,22/20",Hermod Holte Haugland,Julian Aulin Bøe
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Hermod Holte Haugland,Julian Aulin Bøe,Michael Rettore,Anders Bellesen,"22/20,17/21,21/12",Hermod Holte Haugland,Julian Aulin Bøe
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Herredouble,Michael Rettore,Anders Bellesen,Odd Hæreid,Øyvind Steinsbø,"21/17,22/20",Michael Rettore,Anders Bellesen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damedouble,Kirsten Smith,Fenfang Zhao,Emily Linn Wallace,Tina Vuong,"21/6,21/19",Kirsten Smith,Fenfang Zhao
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damedouble,Sara Bellesen,Nora Lindanger,Camilla Skrunes Sundt,Thea Katharina Frøyland,"21/15,21/13",Sara Bellesen,Nora Lindanger
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damedouble,Camilla Skrunes Sundt,Thea Katharina Frøyland,Emily Linn Wallace,Tina Vuong,"21/18,21/16",Camilla Skrunes Sundt,Thea Katharina Frøyland
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damedouble,Kirsten Smith,Fenfang Zhao,Sara Bellesen,Nora Lindanger,"21/15,21/12",Kirsten Smith,Fenfang Zhao
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damedouble,Sara Bellesen,Nora Lindanger,Emily Linn Wallace,Tina Vuong,"21/7,21/12",Sara Bellesen,Nora Lindanger
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Damedouble,Kirsten Smith,Fenfang Zhao,Camilla Skrunes Sundt,Thea Katharina Frøyland,"21/17,21/7",Kirsten Smith,Fenfang Zhao
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Christer Andersen,Stine Skjævesland Pedersen,Anders Tranberg,Kirsten Smith,"21/15,21/16",Christer Andersen,Stine Skjævesland Pedersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Heidi Kristine Skree,Stian Ekroll Glenne,Nora Lindanger,Stian Horvei,"21/6,21/4",Heidi Kristine Skree,Stian Ekroll Glenne
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Anders Tranberg,Kirsten Smith,Heidi Kristine Skree,Stian Ekroll Glenne,"23/21,21/9",Anders Tranberg,Kirsten Smith
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Anders Tranberg,Kirsten Smith,Nora Lindanger,Stian Horvei,"21/10,21/10",Anders Tranberg,Kirsten Smith
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Kim Rasmussen,Bente Kverneland,Bjarke Smith,Fenfang Zhao,"21/13,21/8",Kim Rasmussen,Bente Kverneland
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Christer Andersen,Stine Skjævesland Pedersen,Sara Bellesen,Anders Bellesen,"21/10,21/16",Christer Andersen,Stine Skjævesland Pedersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Christer Andersen,Stine Skjævesland Pedersen,Bjarke Smith,Fenfang Zhao,"21/9,21/16",Christer Andersen,Stine Skjævesland Pedersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Bjarke Smith,Fenfang Zhao,"21/16,14/21,21/14",Sara Bellesen,Anders Bellesen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Christer Andersen,Stine Skjævesland Pedersen,Kim Rasmussen,Bente Kverneland,"21/11,21/13",Christer Andersen,Stine Skjævesland Pedersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Kim Rasmussen,Bente Kverneland,"21/14,21/11",Sara Bellesen,Anders Bellesen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Herresingle,,Tor Egil Frøyland,,Kim Rasmussen,"22/20,21/17",Tor Egil Frøyland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Herresingle,,Naimish Doshi,,Vikas Manocha,"21/18,13/21,21/19",Naimish Doshi,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Herresingle,,Tor Egil Frøyland,,Vikas Manocha,"21/7,21/16",Tor Egil Frøyland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Herresingle,,Kim Rasmussen,,Naimish Doshi,"21/14,21/18",Kim Rasmussen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Herresingle,,Tor Egil Frøyland,,Naimish Doshi,"18/21,21/13,21/13",Tor Egil Frøyland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Herresingle,,Vikas Manocha,,Kim Rasmussen,"21/18,15/21,21/15",Vikas Manocha,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Mixeddouble,Emily Linn Wallace,Ivan Sundt,Tor Egil Frøyland,Thea Katharina Frøyland,"21/11,18/21,21/14",Emily Linn Wallace,Ivan Sundt
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Mixeddouble,Tina Vuong,Anders Haugland,Emily Linn Wallace,Ivan Sundt,"21/12,21/11",Tina Vuong,Anders Haugland
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,SEN D,Mixeddouble,Tina Vuong,Anders Haugland,Tor Egil Frøyland,Thea Katharina Frøyland,"21/9,21/18",Tina Vuong,Anders Haugland
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Eimund Tangen,,Leon Olai Berg Iding,"22/20,21/0",Eimund Tangen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Erik Rasmussen,,Linus Sandal,"21/15,21/14",Erik Rasmussen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Leon Olai Berg Iding,,Emil Lien Akre,"21/5,21/11",Leon Olai Berg Iding,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Erik Rasmussen,,Emil Lien Akre,"21/8,21/11",Erik Rasmussen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Leon Olai Berg Iding,,Linus Sandal,"21/5,21/6",Leon Olai Berg Iding,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Leon Olai Berg Iding,,Erik Rasmussen,"21/9,21/12",Leon Olai Berg Iding,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Emil Lien Akre,,Linus Sandal,"21/18,21/13",Emil Lien Akre,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Eimund Tangen,,Ludvig Sandanger,"21/12,21/6",Eimund Tangen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Erlend Ruud-Larsen,,Simen Lien Akre,"21/16,21/18",Erlend Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Erlend Ruud-Larsen,,Ludvig Sandanger,"21/16,21/16",Erlend Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Ludvig Sandanger,,Simen Lien Akre,"21/15,25/23",Ludvig Sandanger,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Eimund Tangen,,Vyom Naimish Doshi,"21/8,21/10",Eimund Tangen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Vyom Naimish Doshi,,Simen Lien Akre,"21/19,19/21,21/18",Vyom Naimish Doshi,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Vyom Naimish Doshi,,Ludvig Sandanger,"21/19,7/21,21/18",Vyom Naimish Doshi,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Eimund Tangen,,Erlend Ruud-Larsen,"21/11,21/15",Eimund Tangen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Erlend Ruud-Larsen,,Vyom Naimish Doshi,"21/9,21/16",Erlend Ruud-Larsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herresingle,,Eimund Tangen,,Simen Lien Akre,"21/7,21/13",Eimund Tangen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Camilla Skrunes Sundt,,Srishti Manocha,"21/14,21/14",Camilla Skrunes Sundt,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Srishti Manocha,,Audrina Ammara Darmawan,"21/8,21/11",Srishti Manocha,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Camilla Skrunes Sundt,,Synne Ruud-Larsen,"21/11,21/0",Camilla Skrunes Sundt,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Audrina Ammara Darmawan,,Synne Ruud-Larsen,"21/2,21/4",Audrina Ammara Darmawan,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Camilla Skrunes Sundt,,Audrina Ammara Darmawan,"21/10,21/4",Camilla Skrunes Sundt,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Ingrid Prestvik Vandvik,,Alma Othilie Bill-Eriksen,"11/21,21/19,21/7",Ingrid Prestvik Vandvik,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Srishti Manocha,,Yutong Feng,"21/4,21/9",Srishti Manocha,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Yutong Feng,,Alma Othilie Bill-Eriksen,"21/18,21/18",Yutong Feng,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Srishti Manocha,,Alma Othilie Bill-Eriksen,"21/8,21/4",Srishti Manocha,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Ingrid Prestvik Vandvik,,Yutong Feng,"21/10,22/20",Ingrid Prestvik Vandvik,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Damesingle,,Srishti Manocha,,Ingrid Prestvik Vandvik,"21/9,21/10",Srishti Manocha,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herredouble,Leon Olai Berg Iding,Eimund Tangen,Tobias Lutro Haave,Erlend Ruud-Larsen,"21/10,21/8",Leon Olai Berg Iding,Eimund Tangen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herredouble,Tobias Lutro Haave,Erlend Ruud-Larsen,Linus Sandal,Erik Rasmussen,"19/21,21/12,21/13",Tobias Lutro Haave,Erlend Ruud-Larsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herredouble,Linus Sandal,Erik Rasmussen,Emil Lien Akre,Simen Lien Akre,"21/11,21/18",Linus Sandal,Erik Rasmussen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herredouble,Tobias Lutro Haave,Erlend Ruud-Larsen,Emil Lien Akre,Simen Lien Akre,"21/12,21/19",Tobias Lutro Haave,Erlend Ruud-Larsen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herredouble,Leon Olai Berg Iding,Eimund Tangen,Linus Sandal,Erik Rasmussen,"21/7,21/13",Leon Olai Berg Iding,Eimund Tangen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U13 A,Herredouble,Leon Olai Berg Iding,Eimund Tangen,Emil Lien Akre,Simen Lien Akre,"21/8,21/13",Leon Olai Berg Iding,Eimund Tangen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Christer Andersen,,Brynjar Hus,"24/22,21/11",Christer Andersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Brynjar Hus,,Thomas Dinh,"21/18,21/14",Brynjar Hus,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Kristoffer Sveen Hjertholm,,Theodor Eik,"21/17,21/10",Kristoffer Sveen Hjertholm,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Christer Andersen,,Martin Endal,"21/5,21/4",Christer Andersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Kristoffer Sveen Hjertholm,,Martin Endal,"21/6,21/1",Kristoffer Sveen Hjertholm,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Christer Andersen,,Theodor Eik,"21/4,21/10",Christer Andersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Christer Andersen,,Kristoffer Sveen Hjertholm,"21/15,21/12",Christer Andersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Theodor Eik,,Martin Endal,"21/11,21/5",Theodor Eik,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Lukas Skrunes Sundt,,Elkan Abraham,"21/11,21/3",Lukas Skrunes Sundt,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Thomas Dinh,,Vemund Hus,"21/15,21/15",Thomas Dinh,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Vemund Hus,,Lukas Skrunes Sundt,"25/23,9/21,22/20",Vemund Hus,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Thomas Dinh,,Elkan Abraham,"21/12,21/10",Thomas Dinh,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Thomas Dinh,,Lukas Skrunes Sundt,"17/21,21/12,21/11",Thomas Dinh,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Vemund Hus,,Elkan Abraham,"21/8,21/16",Vemund Hus,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Brage Løken-Jacobsen,,Alexander Rundsag,"21/5,21/9",Brage Løken-Jacobsen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Brynjar Hus,,Brage Løken-Jacobsen,"21/2,21/5",Brynjar Hus,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U15 A,Herresingle,,Brynjar Hus,,Alexander Rundsag,"21/3,21/2",Brynjar Hus,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Julian Aulin Bøe,,Christoffer Nguyen,"21/13,21/16",Julian Aulin Bøe,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Stian Horvei,,Eskil Ruud-Larsen,"21/5,21/10",Stian Horvei,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Julian Aulin Bøe,,Eskil Ruud-Larsen,"21/8,21/6",Julian Aulin Bøe,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Julian Aulin Bøe,,Stian Horvei,"21/7,21/8",Julian Aulin Bøe,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Christoffer Nguyen,,Sander Knudsen,"21/14,21/13",Christoffer Nguyen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Jay Janaskar,,Kenneth Dinh,"18/21,21/19,21/19",Jay Janaskar,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Christoffer Nguyen,,Jay Janaskar,"17/21,22/20,21/13",Christoffer Nguyen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Kenneth Dinh,,Sander Knudsen,"8/21,21/16,21/18",Kenneth Dinh,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Christoffer Nguyen,,Kenneth Dinh,"21/17,21/12",Christoffer Nguyen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herresingle,,Jay Janaskar,,Sander Knudsen,"21/12,21/16",Jay Janaskar,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Thea Katharina Frøyland,"21/15,11/21,21/11",Stine Skjævesland Pedersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Astrid Lovise Pallesen,"21/12,21/12",Stine Skjævesland Pedersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Thea Katharina Frøyland,,Amalia Smørdal,"21/19,21/6",Thea Katharina Frøyland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Amalia Smørdal,"21/8,21/3",Stine Skjævesland Pedersen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Thea Katharina Frøyland,,Bertine Christensen Vikse,"21/10,21/6",Thea Katharina Frøyland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Thea Katharina Frøyland,,Astrid Lovise Pallesen,"21/13,21/15",Thea Katharina Frøyland,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damesingle,,Astrid Lovise Pallesen,,Bertine Christensen Vikse,"21/6,21/14",Astrid Lovise Pallesen,
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Thomas Dinh,Christer Andersen,Lukas Skrunes Sundt,Brynjar Hus,"21/11,14/21,21/19",Thomas Dinh,Christer Andersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Brage Løken-Jacobsen,Johanne Brunstad - Backlund,"21/3,21/4",Lukas Skrunes Sundt,Brynjar Hus
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Kristoffer Sveen Hjertholm,Vemund Hus,Brage Løken-Jacobsen,Johanne Brunstad - Backlund,"21/12,21/6",Kristoffer Sveen Hjertholm,Vemund Hus
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Lukas Skrunes Sundt,Brynjar Hus,Kristoffer Sveen Hjertholm,Vemund Hus,"24/20,20/22,21/16",Lukas Skrunes Sundt,Brynjar Hus
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Hemant Anilkumar,Elkan Abraham,Eskil Ruud-Larsen,Christoffer Nguyen,"21/16,21/4",Hemant Anilkumar,Elkan Abraham
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Eskil Ruud-Larsen,Christoffer Nguyen,Theodor Eik,Håvard Møgedal,"21/19,21/15",Eskil Ruud-Larsen,Christoffer Nguyen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Thomas Dinh,Christer Andersen,Hemant Anilkumar,Elkan Abraham,"21/10,21/14",Thomas Dinh,Christer Andersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Thomas Dinh,Christer Andersen,Eskil Ruud-Larsen,Christoffer Nguyen,"21/11,21/8",Thomas Dinh,Christer Andersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Thomas Dinh,Christer Andersen,Theodor Eik,Håvard Møgedal,"21/9,21/7",Thomas Dinh,Christer Andersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Herredouble,Hemant Anilkumar,Elkan Abraham,Theodor Eik,Håvard Møgedal,"21/15,21/17",Hemant Anilkumar,Elkan Abraham
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Damedouble,Astrid Lovise Pallesen,Stine Skjævesland Pedersen,Bertine Christensen Vikse,Amalia Smørdal,"21/6,21/1",Astrid Lovise Pallesen,Stine Skjævesland Pedersen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Mixeddouble,Kristoffer Sveen Hjertholm,Camilla Skrunes Sundt,Amalia Smørdal,Kenneth Dinh,"21/12,21/17",Kristoffer Sveen Hjertholm,Camilla Skrunes Sundt
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Mixeddouble,Hemant Anilkumar,Astrid Lovise Pallesen,Kristoffer Sveen Hjertholm,Camilla Skrunes Sundt,"21/6,21/13",Hemant Anilkumar,Astrid Lovise Pallesen
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Mixeddouble,Amalia Smørdal,Kenneth Dinh,Jay Janaskar,Srishti Manocha,"21/16,21/23,21/14",Amalia Smørdal,Kenneth Dinh
+2018/2019,Stavanger Sommerblomsten 2019,15.06.2019,U17 A,Mixeddouble,Hemant Anilkumar,Astrid Lovise Pallesen,Amalia Smørdal,Kenneth Dinh,"21/18,17/21,21/8",Hemant Anilkumar,Astrid Lovise Pallesen

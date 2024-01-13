@@ -1,277 +1,236 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Peter Rønn Stensæth,"15/21,23/21,21/19",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Peter Rønn Stensæth,,Torjus Flåtten,"21/16,21/13",Peter Rønn Stensæth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Mattias Xu,"21/13,21/15",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Peter Rønn Stensæth,,Jonas Østhassel,"21/14,21/6",Peter Rønn Stensæth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Torjus Flåtten,,Ludvig Smith-Meyer,"21/8,21/16",Torjus Flåtten,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Mattias Xu,,Jørgen Rosenlund,"19/21,21/9,21/18",Mattias Xu,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Vegard Rikheim,"23/21,21/17",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Peter Rønn Stensæth,,Joachim Skjønhaug,"21/7,21/18",Peter Rønn Stensæth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jonas Østhassel,,Amund Rikheim Huus,"21/16,21/18",Jonas Østhassel,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Torjus Flåtten,,Danila Gataullin,"21/12,21/19",Torjus Flåtten,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Ludvig Smith-Meyer,,Bharath Kumar Balasingam,"21/18,22/24,21/14",Ludvig Smith-Meyer,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jørgen Rosenlund,,Petter Tryland Laheld,"21/12,21/10",Jørgen Rosenlund,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Mattias Xu,,Mads Marum,"18/21,21/16,21/19",Mattias Xu,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vegard Rikheim,,Keveen Kumar Balasingam,"21/5,21/5",Vegard Rikheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Jim Ronny Andersen,"21/10,21/14",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Joachim Skjønhaug,,Stian Ekroll Glenne,"21/14,16/21,21/8",Joachim Skjønhaug,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Danila Gataullin,,Erlend Engesæter Bognøy,"21/6,21/6",Danila Gataullin,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Ludvig Smith-Meyer,,Anders Leirud,"21/11,21/14",Ludvig Smith-Meyer,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Bharath Kumar Balasingam,,Arben Holstad,"21/8,19/21,21/9",Bharath Kumar Balasingam,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Amund Rikheim Huus,,Andreas Andersen,"21/18,21/13",Amund Rikheim Huus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jørgen Rosenlund,,Jiawen Shi,"24/22,25/23",Jørgen Rosenlund,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Petter Tryland Laheld,,Adrian Storhaug,"21/18,21/12",Petter Tryland Laheld,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Mattias Xu,,John Nguyen,"21/5,21/14",Mattias Xu,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Keveen Kumar Balasingam,,Fredrik Skånøy,"21/13,21/19",Keveen Kumar Balasingam,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vegard Rikheim,,Boyan Yu,"21/4,21/7",Vegard Rikheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jim Ronny Andersen,,Jonas Christensen,"21/8,21/9",Jim Ronny Andersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Peter Rønn Stensæth,"15/21,23/21,21/19",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Peter Rønn Stensæth,,Torjus Flåtten,"21/16,21/13",Peter Rønn Stensæth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Mattias Xu,"21/13,21/15",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Peter Rønn Stensæth,,Jonas Østhassel,"21/14,21/6",Peter Rønn Stensæth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Torjus Flåtten,,Ludvig Smith-Meyer,"21/8,21/16",Torjus Flåtten,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Mattias Xu,,Jørgen Rosenlund,"19/21,21/9,21/18",Mattias Xu,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Vegard Rikheim,"23/21,21/17",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Peter Rønn Stensæth,,Joachim Skjønhaug,"21/7,21/18",Peter Rønn Stensæth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jonas Østhassel,,Amund Rikheim Huus,"21/16,21/18",Jonas Østhassel,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Torjus Flåtten,,Danila Gataullin,"21/12,21/19",Torjus Flåtten,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Ludvig Smith-Meyer,,Bharath Kumar Balasingam,"21/18,22/24,21/14",Ludvig Smith-Meyer,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jørgen Rosenlund,,Petter Tryland Laheld,"21/12,21/10",Jørgen Rosenlund,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Mattias Xu,,Mads Marum,"18/21,21/16,21/19",Mattias Xu,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vegard Rikheim,,Keveen Kumar Balasingam,"21/5,21/5",Vegard Rikheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Markus Barth,,Jim Ronny Andersen,"21/10,21/14",Markus Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Joachim Skjønhaug,,Stian Ekroll Glenne,"21/14,16/21,21/8",Joachim Skjønhaug,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Danila Gataullin,,Erlend Engesæter Bognøy,"21/6,21/6",Danila Gataullin,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Ludvig Smith-Meyer,,Anders Leirud,"21/11,21/14",Ludvig Smith-Meyer,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Bharath Kumar Balasingam,,Arben Holstad,"21/8,19/21,21/9",Bharath Kumar Balasingam,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Amund Rikheim Huus,,Andreas Andersen,"21/18,21/13",Amund Rikheim Huus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jørgen Rosenlund,,Jiawen Shi,"24/22,25/23",Jørgen Rosenlund,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Petter Tryland Laheld,,Adrian Storhaug,"21/18,21/12",Petter Tryland Laheld,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Mattias Xu,,John Nguyen,"21/5,21/14",Mattias Xu,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Keveen Kumar Balasingam,,Fredrik Skånøy,"21/13,21/19",Keveen Kumar Balasingam,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vegard Rikheim,,Boyan Yu,"21/4,21/7",Vegard Rikheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jim Ronny Andersen,,Jonas Christensen,"21/8,21/9",Jim Ronny Andersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Emilie Sotnes Hamang,,Sofia Louis Macsali,"21/13,21/16",Emilie Sotnes Hamang,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Emilie Sotnes Hamang,,Helene Abusdal,"21/15,17/21,21/10",Emilie Sotnes Hamang,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Sofia Louis Macsali,,Vilde Espeseth,"21/18,13/21,23/21",Sofia Louis Macsali,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Emilie Sotnes Hamang,,Delia Murtazalieva,"21/13,21/16",Emilie Sotnes Hamang,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Helene Abusdal,,Vera Botcharova Ellingsen,"21/23,21/17,21/15",Helene Abusdal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vilde Espeseth,,Jenny Rajkumar,"21/14,21/19",Vilde Espeseth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Sofia Louis Macsali,,Emilia Petersen Norberg,"21/16,21/16",Sofia Louis Macsali,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Emilie Sotnes Hamang,,Live Hov Grønbech,"21/12,21/8",Emilie Sotnes Hamang,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Delia Murtazalieva,,Marie Wåland,"21/15,14/21,21/18",Delia Murtazalieva,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vera Botcharova Ellingsen,,Nora  Omdal,"21/11,21/7",Vera Botcharova Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Helene Abusdal,,Lovise Krogsæter,"21/16,21/15",Helene Abusdal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Jenny Rajkumar,,Elisa Wiborg,"15/21,21/13,21/18",Jenny Rajkumar,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Vilde Espeseth,,Heidi Kristine Skree,"21/4,21/8",Vilde Espeseth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Emilia Petersen Norberg,,Julie Marie Andersen Abusdal,"19/21,21/8,21/17",Emilia Petersen Norberg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,,Sofia Louis Macsali,,Emma Wåland,"21/17,19/21,21/18",Sofia Louis Macsali,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Carl Christian Mork,Fredrik Kristensen,Magnus Christensen,Mattias Xu,"23/21,21/10",Carl Christian Mork,Fredrik Kristensen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Carl Christian Mork,Fredrik Kristensen,Vegard Rikheim,Torjus Flåtten,"21/17,22/20",Carl Christian Mork,Fredrik Kristensen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Magnus Christensen,Mattias Xu,Mathias Ji Hong,Marius Myhre,"22/20,18/21,21/16",Magnus Christensen,Mattias Xu
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Carl Christian Mork,Fredrik Kristensen,Mads Marum,Jonas Østhassel,"21/17,21/19",Carl Christian Mork,Fredrik Kristensen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Vegard Rikheim,Torjus Flåtten,Keveen Kumar Balasingam,Petter Tryland Laheld,"21/14,21/6",Vegard Rikheim,Torjus Flåtten
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mathias Ji Hong,Marius Myhre,Sturla Flåten Jørgensen,Ludvig Smith-Meyer,"21/15,21/18",Mathias Ji Hong,Marius Myhre
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Magnus Christensen,Mattias Xu,Markus Barth,Danila Gataullin,"22/20,21/13",Magnus Christensen,Mattias Xu
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Carl Christian Mork,Fredrik Kristensen,Marius Sørby,Arben Holstad,"21/6,21/6",Carl Christian Mork,Fredrik Kristensen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mads Marum,Jonas Østhassel,Joachim Skjønhaug,Toheed Ahmed Saeed,"21/5,21/9",Mads Marum,Jonas Østhassel
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Vegard Rikheim,Torjus Flåtten,Amund Rikheim Huus,Jørgen Rosenlund,"21/10,21/6",Vegard Rikheim,Torjus Flåtten
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Keveen Kumar Balasingam,Petter Tryland Laheld,John Nguyen,Stian Ekroll Glenne,"21/15,21/10",Keveen Kumar Balasingam,Petter Tryland Laheld
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mathias Ji Hong,Marius Myhre,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/3,21/7",Mathias Ji Hong,Marius Myhre
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Sturla Flåten Jørgensen,Ludvig Smith-Meyer,Jonas Christensen,Anders Leirud,"21/14,29/30,22/20",Sturla Flåten Jørgensen,Ludvig Smith-Meyer
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Markus Barth,Danila Gataullin,Jim Ronny Andersen,Eivind Lund,"21/12,21/9",Markus Barth,Danila Gataullin
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Magnus Christensen,Mattias Xu,Tommy Helander,Bjørn Hamang,"21/7,21/4",Magnus Christensen,Mattias Xu
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Keveen Kumar Balasingam,Petter Tryland Laheld,Robin Kruksve Krux,Fredrik Skånøy,"21/18,21/17",Keveen Kumar Balasingam,Petter Tryland Laheld
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mathias Ji Hong,Marius Myhre,Bharath Kumar Balasingam,Andreas Andersen,"21/13,21/18",Mathias Ji Hong,Marius Myhre
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Jim Ronny Andersen,Eivind Lund,Jiawen Shi,Boyan Yu,"21/18,24/22",Jim Ronny Andersen,Eivind Lund
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Sofia Louis Macsali,Emilia Petersen Norberg,Emma Wåland,Natalie Kristensen,"14/21,24/22,21/12",Sofia Louis Macsali,Emilia Petersen Norberg
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Sofia Louis Macsali,Emilia Petersen Norberg,Julie Marie Andersen Abusdal,Helene Abusdal,"21/18,21/17",Sofia Louis Macsali,Emilia Petersen Norberg
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Emma Wåland,Natalie Kristensen,Marie Christensen,Aimee Hong,"21/17,18/21,21/17",Emma Wåland,Natalie Kristensen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Sofia Louis Macsali,Emilia Petersen Norberg,Vilde Espeseth,Marie Wåland,"21/16,21/18",Sofia Louis Macsali,Emilia Petersen Norberg
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Julie Marie Andersen Abusdal,Helene Abusdal,Jenny Rajkumar,Live Hov Grønbech,"21/11,15/21,24/22",Julie Marie Andersen Abusdal,Helene Abusdal
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Emma Wåland,Natalie Kristensen,Delia Murtazalieva,Elisa Wiborg,"14/21,21/13,21/16",Emma Wåland,Natalie Kristensen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Marie Christensen,Aimee Hong,Kristin Thømt,Bente Sotnes,"21/8,21/8",Marie Christensen,Aimee Hong
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Julie Marie Andersen Abusdal,Helene Abusdal,Heidi Kristine Skree,Nora  Omdal,"21/16,21/8",Julie Marie Andersen Abusdal,Helene Abusdal
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Delia Murtazalieva,Elisa Wiborg,Vera Botcharova Ellingsen,Helle Sofie Sagøy,"21/12,21/15",Delia Murtazalieva,Elisa Wiborg
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Thomas Grüner Fjeldheim,"19/21,21/12,22/20",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Bjørn Deron,"21/13,19/21,21/16",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Elias Øyen Selsaas,"21/16,13/21,21/17",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Brynjar Hus,"21/13,21/16",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Børge Håland,"21/13,21/12",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Andreas Andersen Roksvåg,"21/12,21/14",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Andreas Holmedal,"21/12,21/17",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Brynjar Hus,,Sander Østhassel,"21/19,24/22",Brynjar Hus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Børge Håland,,Bawi Nun Lian Rakha,"21/16,14/21,21/14",Børge Håland,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Andersen Roksvåg,,Aldrin Nelson,"21/13,21/17",Andreas Andersen Roksvåg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Aleksander Jakovlevs,"21/15,21/19",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,David Nguyen,"21/12,21/12",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aslak Smith,,Mathias Wong,"21/10,14/21,21/18",Aslak Smith,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Aslak Smith,"21/12,21/12",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Mathias Wong,"21/7,21/12",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Ausen,,Kristian I Birkeland,"21/18,21/18",Elias Ausen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sander Østhassel,,Elias Ausen,"21/17,21/19",Sander Østhassel,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sander Østhassel,,Kristian I Birkeland,"21/8,21/14",Sander Østhassel,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Brynjar Hus,,Vemund Hus,"21/12,21/4",Brynjar Hus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Jonatan Broch Granum,,Vemund Hus,"21/18,21/17",Jonatan Broch Granum,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Brynjar Hus,,Jonatan Broch Granum,"21/11,21/18",Brynjar Hus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Zhongyan Yu,"21/16,21/13",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Christer Andersen,,Jonathan Utne Madsøy,"21/18,17/21,21/14",Christer Andersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Jonathan Utne Madsøy,,Zhongyan Yu,"21/9,21/19",Jonathan Utne Madsøy,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Christer Andersen,"18/21,21/16,21/13",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Christer Andersen,,Zhongyan Yu,"21/15,21/12",Christer Andersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Jonathan Utne Madsøy,"21/10,22/24,21/14",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bawi Nun Lian Rakha,,Herman Birkeland,"21/9,21/8",Bawi Nun Lian Rakha,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Filip Bøhn,,Herman Birkeland,"21/4,21/10",Filip Bøhn,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bawi Nun Lian Rakha,,Filip Bøhn,"21/15,23/25,21/17",Bawi Nun Lian Rakha,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Børge Håland,,Daniel Nguyen,"21/15,21/11",Børge Håland,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Børge Håland,,Yasir Abshirashid,"21/7,21/8",Børge Håland,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Daniel Nguyen,,Yasir Abshirashid,"21/11,21/16",Daniel Nguyen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Hemant Anilkumar,,Brede Stenfeldt,"21/13,21/14",Hemant Anilkumar,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aldrin Nelson,,Brede Stenfeldt,"21/13,21/16",Aldrin Nelson,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aldrin Nelson,,Hemant Anilkumar,"22/20,21/12",Aldrin Nelson,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Heine Lam Nybakk,,Philip Allport Fossum,"21/9,21/15",Heine Lam Nybakk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Andersen Roksvåg,,Philip Allport Fossum,"21/10,21/2",Andreas Andersen Roksvåg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Andersen Roksvåg,,Heine Lam Nybakk,"21/11,21/8",Andreas Andersen Roksvåg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Mattias Mørk,,Truls Helgerød,"21/12,21/8",Mattias Mørk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aleksander Jakovlevs,,Truls Helgerød,"21/12,21/14",Aleksander Jakovlevs,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aleksander Jakovlevs,,Mattias Mørk,"21/13,21/16",Aleksander Jakovlevs,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Rafid Ishaq,,Vetle Vinnes Bråten,"21/13,21/7",Rafid Ishaq,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Vetle Vinnes Bråten,"21/9,21/11",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Rafid Ishaq,"21/10,17/21,21/13",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,David Nguyen,,Andreas Skoglund,"21/5,21/8",David Nguyen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sander Bunes Kristensen,,Andreas Skoglund,"21/7,21/11",Sander Bunes Kristensen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,David Nguyen,,Sander Bunes Kristensen,"15/21,21/12,21/14",David Nguyen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Kristoffer Sveen Hjertholm,,Fenris Lindland,"17/21,21/15,21/13",Kristoffer Sveen Hjertholm,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Fenris Lindland,"21/7,21/8",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Kristoffer Sveen Hjertholm,"21/10,21/13",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sturla Mørk,,Varun Manikandan,"14/21,21/15,21/15",Sturla Mørk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Holmedal,,Sturla Mørk,"21/7,21/6",Andreas Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Holmedal,,Varun Manikandan,"21/8,21/6",Andreas Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Thomas Grüner Fjeldheim,"19/21,21/12,22/20",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Bjørn Deron,"21/13,19/21,21/16",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Elias Øyen Selsaas,"21/16,13/21,21/17",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Brynjar Hus,"21/13,21/16",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Børge Håland,"21/13,21/12",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Andreas Andersen Roksvåg,"21/12,21/14",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Andreas Holmedal,"21/12,21/17",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Brynjar Hus,,Sander Østhassel,"21/19,24/22",Brynjar Hus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Børge Håland,,Bawi Nun Lian Rakha,"21/16,14/21,21/14",Børge Håland,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Andersen Roksvåg,,Aldrin Nelson,"21/13,21/17",Andreas Andersen Roksvåg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Aleksander Jakovlevs,"21/15,21/19",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,David Nguyen,"21/12,21/12",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aslak Smith,,Mathias Wong,"21/10,14/21,21/18",Aslak Smith,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Aslak Smith,"21/12,21/12",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Barth,,Mathias Wong,"21/7,21/12",Thomas Barth,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Ausen,,Kristian I Birkeland,"21/18,21/18",Elias Ausen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sander Østhassel,,Elias Ausen,"21/17,21/19",Sander Østhassel,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sander Østhassel,,Kristian I Birkeland,"21/8,21/14",Sander Østhassel,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Brynjar Hus,,Vemund Hus,"21/12,21/4",Brynjar Hus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Jonatan Broch Granum,,Vemund Hus,"21/18,21/17",Jonatan Broch Granum,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Brynjar Hus,,Jonatan Broch Granum,"21/11,21/18",Brynjar Hus,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Zhongyan Yu,"21/16,21/13",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Christer Andersen,,Jonathan Utne Madsøy,"21/18,17/21,21/14",Christer Andersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Jonathan Utne Madsøy,,Zhongyan Yu,"21/9,21/19",Jonathan Utne Madsøy,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Christer Andersen,"18/21,21/16,21/13",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Christer Andersen,,Zhongyan Yu,"21/15,21/12",Christer Andersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bjørn Deron,,Jonathan Utne Madsøy,"21/10,22/24,21/14",Bjørn Deron,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bawi Nun Lian Rakha,,Herman Birkeland,"21/9,21/8",Bawi Nun Lian Rakha,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Filip Bøhn,,Herman Birkeland,"21/4,21/10",Filip Bøhn,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Bawi Nun Lian Rakha,,Filip Bøhn,"21/15,23/25,21/17",Bawi Nun Lian Rakha,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Børge Håland,,Daniel Nguyen,"21/15,21/11",Børge Håland,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Børge Håland,,Yasir Abshirashid,"21/7,21/8",Børge Håland,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Daniel Nguyen,,Yasir Abshirashid,"21/11,21/16",Daniel Nguyen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Hemant Anilkumar,,Brede Stenfeldt,"21/13,21/14",Hemant Anilkumar,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aldrin Nelson,,Brede Stenfeldt,"21/13,21/16",Aldrin Nelson,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aldrin Nelson,,Hemant Anilkumar,"22/20,21/12",Aldrin Nelson,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Heine Lam Nybakk,,Philip Allport Fossum,"21/9,21/15",Heine Lam Nybakk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Andersen Roksvåg,,Philip Allport Fossum,"21/10,21/2",Andreas Andersen Roksvåg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Andersen Roksvåg,,Heine Lam Nybakk,"21/11,21/8",Andreas Andersen Roksvåg,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Mattias Mørk,,Truls Helgerød,"21/12,21/8",Mattias Mørk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aleksander Jakovlevs,,Truls Helgerød,"21/12,21/14",Aleksander Jakovlevs,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Aleksander Jakovlevs,,Mattias Mørk,"21/13,21/16",Aleksander Jakovlevs,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Rafid Ishaq,,Vetle Vinnes Bråten,"21/13,21/7",Rafid Ishaq,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Vetle Vinnes Bråten,"21/9,21/11",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elias Øyen Selsaas,,Rafid Ishaq,"21/10,17/21,21/13",Elias Øyen Selsaas,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,David Nguyen,,Andreas Skoglund,"21/5,21/8",David Nguyen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sander Bunes Kristensen,,Andreas Skoglund,"21/7,21/11",Sander Bunes Kristensen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,David Nguyen,,Sander Bunes Kristensen,"15/21,21/12,21/14",David Nguyen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Kristoffer Sveen Hjertholm,,Fenris Lindland,"17/21,21/15,21/13",Kristoffer Sveen Hjertholm,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Fenris Lindland,"21/7,21/8",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Thomas Grüner Fjeldheim,,Kristoffer Sveen Hjertholm,"21/10,21/13",Thomas Grüner Fjeldheim,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sturla Mørk,,Varun Manikandan,"14/21,21/15,21/15",Sturla Mørk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Holmedal,,Sturla Mørk,"21/7,21/6",Andreas Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Andreas Holmedal,,Varun Manikandan,"21/8,21/6",Andreas Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Katja Botcharova Ellingsen,,Stine Skjævesland Pedersen,"13/21,21/13,21/14",Katja Botcharova Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Katja Botcharova Ellingsen,,Elise Lærkerød Jelsness,"21/16,17/21,21/14",Katja Botcharova Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Stine Skjævesland Pedersen,,Linnea Holmedal,"21/16,14/21,25/23",Stine Skjævesland Pedersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elise Lærkerød Jelsness,,Astrid Lovise Pallesen,"21/10,21/10",Elise Lærkerød Jelsness,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Katja Botcharova Ellingsen,,Mina Korssund,"21/10,21/11",Katja Botcharova Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Stine Skjævesland Pedersen,,Akija Anton Reginold,"21/18,16/21,21/16",Stine Skjævesland Pedersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Linnea Holmedal,,Kristine  Grande Ødegårdstuen,"25/23,21/14",Linnea Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Emilie Alrek Eide,,Silje B. Karlsen,"21/16,21/11",Emilie Alrek Eide,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elise Lærkerød Jelsness,,Emilie Alrek Eide,"21/10,21/11",Elise Lærkerød Jelsness,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Elise Lærkerød Jelsness,,Silje B. Karlsen,"21/5,21/12",Elise Lærkerød Jelsness,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Astrid Lovise Pallesen,,Maia Celine  Elgueta-Johannesen,"21/15,20/22,21/18",Astrid Lovise Pallesen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Astrid Lovise Pallesen,,Livia Romme Mørch,"22/24,21/10,21/9",Astrid Lovise Pallesen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Livia Romme Mørch,,Maia Celine  Elgueta-Johannesen,"21/11,21/7",Livia Romme Mørch,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Maja Morvik Kragholm,,Akarija Anton Reginold,"21/14,21/13",Maja Morvik Kragholm,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Katja Botcharova Ellingsen,,Akarija Anton Reginold,"21/8,21/5",Katja Botcharova Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Katja Botcharova Ellingsen,,Maja Morvik Kragholm,"21/18,21/18",Katja Botcharova Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Sofie Jin Reistadbakk,,Emma Yasmin Ruud,"21/14,21/13",Sofie Jin Reistadbakk,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Mina Korssund,,Sofie Jin Reistadbakk,"21/18,21/13",Mina Korssund,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Mina Korssund,,Emma Yasmin Ruud,"21/14,21/13",Mina Korssund,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Akija Anton Reginold,,Vilma Aasheim-Engen,"23/21,21/18",Akija Anton Reginold,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Arathija Anton Reginold,,Nikol Hermansen,"9/21,21/18,21/19",Arathija Anton Reginold,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Vilma Aasheim-Engen,,Arathija Anton Reginold,"15/21,21/9,21/16",Vilma Aasheim-Engen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Akija Anton Reginold,,Nikol Hermansen,"21/18,21/14",Akija Anton Reginold,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Vilma Aasheim-Engen,,Nikol Hermansen,"21/16,21/13",Vilma Aasheim-Engen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Akija Anton Reginold,,Arathija Anton Reginold,"21/13,21/17",Akija Anton Reginold,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Henriette  Ellingsen,,Nicoline Wærsten,"21/11,21/16",Henriette  Ellingsen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Stine Skjævesland Pedersen,,Henriette  Ellingsen,"21/13,21/14",Stine Skjævesland Pedersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Stine Skjævesland Pedersen,,Nicoline Wærsten,"21/12,21/10",Stine Skjævesland Pedersen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Linnea Holmedal,,Frida Bjørvik Løvheim,"21/15,21/12",Linnea Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Amalie Lexander,,Frida Bjørvik Løvheim,"21/19,21/12",Amalie Lexander,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Linnea Holmedal,,Amalie Lexander,"21/12,21/12",Linnea Holmedal,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Selma Kvarenes Bjørnestøl,,Marie Gade Brask,"21/14,21/8",Selma Kvarenes Bjørnestøl,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Kristine  Grande Ødegårdstuen,,Marie Gade Brask,"21/5,21/10",Kristine  Grande Ødegårdstuen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,,Kristine  Grande Ødegårdstuen,,Selma Kvarenes Bjørnestøl,"21/12,21/13",Kristine  Grande Ødegårdstuen,
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Andreas Holmedal,Thomas Barth,Thomas Grüner Fjeldheim,Christer Andersen,"21/16,21/13",Andreas Holmedal,Thomas Barth
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Andreas Holmedal,Thomas Barth,Elias Øyen Selsaas,Jonathan Utne Madsøy,"21/17,21/11",Andreas Holmedal,Thomas Barth
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Thomas Grüner Fjeldheim,Christer Andersen,Filip Bøhn,Sander Østhassel,"21/15,21/16",Thomas Grüner Fjeldheim,Christer Andersen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Elias Øyen Selsaas,Jonathan Utne Madsøy,Mathias Wong,Aleksander Jakovlevs,"22/20,21/15",Elias Øyen Selsaas,Jonathan Utne Madsøy
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Filip Bøhn,Sander Østhassel,Aldrin Nelson,Brynjar Hus,"19/21,21/17,21/12",Filip Bøhn,Sander Østhassel
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Varun Manikandan,Zhongyan Yu,Kristian I Birkeland,Truls Helgerød,"21/11,21/16",Varun Manikandan,Zhongyan Yu
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Andreas Holmedal,Thomas Barth,Kristian I Birkeland,Truls Helgerød,"21/7,21/8",Andreas Holmedal,Thomas Barth
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Andreas Holmedal,Thomas Barth,Varun Manikandan,Zhongyan Yu,"21/11,21/9",Andreas Holmedal,Thomas Barth
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Børge Håland,Vemund Hus,Yasir Abshirashid,Daniel Nguyen,"21/15,21/10",Børge Håland,Vemund Hus
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Elias Øyen Selsaas,Jonathan Utne Madsøy,Børge Håland,Vemund Hus,"21/17,21/8",Elias Øyen Selsaas,Jonathan Utne Madsøy
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Elias Øyen Selsaas,Jonathan Utne Madsøy,Yasir Abshirashid,Daniel Nguyen,"21/4,21/5",Elias Øyen Selsaas,Jonathan Utne Madsøy
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Andreas Andersen Roksvåg,Mattias Mørk,Aslak Smith,Jonatan Broch Granum,"21/13,21/12",Andreas Andersen Roksvåg,Mattias Mørk
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mathias Wong,Aleksander Jakovlevs,Aslak Smith,Jonatan Broch Granum,"21/18,21/19",Mathias Wong,Aleksander Jakovlevs
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mathias Wong,Aleksander Jakovlevs,Andreas Andersen Roksvåg,Mattias Mørk,"21/15,8/21,21/14",Mathias Wong,Aleksander Jakovlevs
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Aldrin Nelson,Brynjar Hus,Vetle Vinnes Bråten,Brede Stenfeldt,"21/13,21/13",Aldrin Nelson,Brynjar Hus
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Aldrin Nelson,Brynjar Hus,Kristoffer Sveen Hjertholm,Hemant Anilkumar,"21/14,21/10",Aldrin Nelson,Brynjar Hus
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Vetle Vinnes Bråten,Brede Stenfeldt,Kristoffer Sveen Hjertholm,Hemant Anilkumar,"21/17,21/19",Vetle Vinnes Bråten,Brede Stenfeldt
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Sander Bunes Kristensen,Elias Ausen,Herman Birkeland,Andreas Skoglund,"21/7,21/3",Sander Bunes Kristensen,Elias Ausen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Filip Bøhn,Sander Østhassel,Herman Birkeland,Andreas Skoglund,"21/4,21/4",Filip Bøhn,Sander Østhassel
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Filip Bøhn,Sander Østhassel,Sander Bunes Kristensen,Elias Ausen,"21/18,21/10",Filip Bøhn,Sander Østhassel
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,David Nguyen,Bawi Nun Lian Rakha,Philip Allport Fossum,Heine Lam Nybakk,"21/7,21/14",David Nguyen,Bawi Nun Lian Rakha
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Thomas Grüner Fjeldheim,Christer Andersen,Philip Allport Fossum,Heine Lam Nybakk,"21/5,21/7",Thomas Grüner Fjeldheim,Christer Andersen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Thomas Grüner Fjeldheim,Christer Andersen,David Nguyen,Bawi Nun Lian Rakha,"21/14,21/8",Thomas Grüner Fjeldheim,Christer Andersen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Stine Skjævesland Pedersen,Nicoline Wærsten,"21/10,18/21,21/14",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Stine Skjævesland Pedersen,Nicoline Wærsten,Akija Anton Reginold,Frida Bjørvik Løvheim,"14/21,21/19,21/10",Stine Skjævesland Pedersen,Nicoline Wærsten
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl,Astrid Lovise Pallesen,Maia Celine  Elgueta-Johannesen,"21/15,21/13",Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Amalie Lexander,Linnea Holmedal,"21/7,21/8",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl,Amalie Lexander,Linnea Holmedal,"21/12,21/11",Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Astrid Lovise Pallesen,Maia Celine  Elgueta-Johannesen,"21/12,21/11",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl,"21/15,21/10",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Amalie Lexander,Linnea Holmedal,Astrid Lovise Pallesen,Maia Celine  Elgueta-Johannesen,"21/11,21/15",Amalie Lexander,Linnea Holmedal
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Akija Anton Reginold,Frida Bjørvik Løvheim,Emma Yasmin Ruud,Vilma Aasheim-Engen,"21/16,21/15",Akija Anton Reginold,Frida Bjørvik Løvheim
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Sofie Jin Reistadbakk,Emilie Alrek Eide,Arathija Anton Reginold,Akarija Anton Reginold,"21/15,21/14",Sofie Jin Reistadbakk,Emilie Alrek Eide
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Arathija Anton Reginold,Akarija Anton Reginold,Emma Yasmin Ruud,Vilma Aasheim-Engen,"21/13,21/12",Arathija Anton Reginold,Akarija Anton Reginold
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Akija Anton Reginold,Frida Bjørvik Løvheim,Sofie Jin Reistadbakk,Emilie Alrek Eide,"22/20,20/22,21/11",Akija Anton Reginold,Frida Bjørvik Løvheim
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Emma Yasmin Ruud,Vilma Aasheim-Engen,Sofie Jin Reistadbakk,Emilie Alrek Eide,"12/21,21/19,21/17",Emma Yasmin Ruud,Vilma Aasheim-Engen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Akija Anton Reginold,Frida Bjørvik Løvheim,Arathija Anton Reginold,Akarija Anton Reginold,"23/21,21/16",Akija Anton Reginold,Frida Bjørvik Løvheim
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Nikol Hermansen,Henriette  Ellingsen,Livia Romme Mørch,Marie Gade Brask,"21/11,21/16",Nikol Hermansen,Henriette  Ellingsen
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Stine Skjævesland Pedersen,Nicoline Wærsten,Nikol Hermansen,Henriette  Ellingsen,"22/20,21/8",Stine Skjævesland Pedersen,Nicoline Wærsten
-2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Stine Skjævesland Pedersen,Nicoline Wærsten,Livia Romme Mørch,Marie Gade Brask,"21/11,21/10",Stine Skjævesland Pedersen,Nicoline Wærsten
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Markus Barth,,Peter Rønn Stensæth,"15/21,23/21,21/19",Markus Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Peter Rønn Stensæth,,Torjus Flåtten,"21/16,21/13",Peter Rønn Stensæth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Markus Barth,,Mattias Xu,"21/13,21/15",Markus Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Peter Rønn Stensæth,,Jonas Østhassel,"21/14,21/6",Peter Rønn Stensæth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Torjus Flåtten,,Ludvig Smith-Meyer,"21/8,21/16",Torjus Flåtten,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Mattias Xu,,Jørgen Rosenlund,"19/21,21/9,21/18",Mattias Xu,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Markus Barth,,Vegard Rikheim,"23/21,21/17",Markus Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Peter Rønn Stensæth,,Joachim Skjønhaug,"21/7,21/18",Peter Rønn Stensæth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Jonas Østhassel,,Amund Rikheim Huus,"21/16,21/18",Jonas Østhassel,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Torjus Flåtten,,Danila Gataullin,"21/12,21/19",Torjus Flåtten,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Ludvig Smith-Meyer,,Bharath Kumar Balasingam,"21/18,22/24,21/14",Ludvig Smith-Meyer,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Jørgen Rosenlund,,Petter Tryland Laheld,"21/12,21/10",Jørgen Rosenlund,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Mattias Xu,,Mads Marum,"18/21,21/16,21/19",Mattias Xu,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Vegard Rikheim,,Keveen Kumar Balasingam,"21/5,21/5",Vegard Rikheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Markus Barth,,Jim Ronny Andersen,"21/10,21/14",Markus Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Joachim Skjønhaug,,Stian Ekroll Glenne,"21/14,16/21,21/8",Joachim Skjønhaug,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Danila Gataullin,,Erlend Engesæter Bognøy,"21/6,21/6",Danila Gataullin,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Ludvig Smith-Meyer,,Anders Leirud,"21/11,21/14",Ludvig Smith-Meyer,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Bharath Kumar Balasingam,,Arben Holstad,"21/8,19/21,21/9",Bharath Kumar Balasingam,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Amund Rikheim Huus,,Andreas Andersen,"21/18,21/13",Amund Rikheim Huus,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Jørgen Rosenlund,,Jiawen Shi,"24/22,25/23",Jørgen Rosenlund,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Petter Tryland Laheld,,Adrian Storhaug,"21/18,21/12",Petter Tryland Laheld,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Mattias Xu,,John Nguyen,"21/5,21/14",Mattias Xu,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Keveen Kumar Balasingam,,Fredrik Skånøy,"21/13,21/19",Keveen Kumar Balasingam,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Vegard Rikheim,,Boyan Yu,"21/4,21/7",Vegard Rikheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herresingle,,Jim Ronny Andersen,,Jonas Christensen,"21/8,21/9",Jim Ronny Andersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Emilie Sotnes Hamang,,Sofia Louis Macsali,"21/13,21/16",Emilie Sotnes Hamang,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Emilie Sotnes Hamang,,Helene Abusdal,"21/15,17/21,21/10",Emilie Sotnes Hamang,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Sofia Louis Macsali,,Vilde Espeseth,"21/18,13/21,23/21",Sofia Louis Macsali,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Emilie Sotnes Hamang,,Delia Murtazalieva,"21/13,21/16",Emilie Sotnes Hamang,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Helene Abusdal,,Vera Botcharova Ellingsen,"21/23,21/17,21/15",Helene Abusdal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Vilde Espeseth,,Jenny Rajkumar,"21/14,21/19",Vilde Espeseth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Sofia Louis Macsali,,Emilia Petersen Norberg,"21/16,21/16",Sofia Louis Macsali,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Emilie Sotnes Hamang,,Live Hov Grønbech,"21/12,21/8",Emilie Sotnes Hamang,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Delia Murtazalieva,,Marie Wåland,"21/15,14/21,21/18",Delia Murtazalieva,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Vera Botcharova Ellingsen,,Nora  Omdal,"21/11,21/7",Vera Botcharova Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Helene Abusdal,,Lovise Krogsæter,"21/16,21/15",Helene Abusdal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Jenny Rajkumar,,Elisa Wiborg,"15/21,21/13,21/18",Jenny Rajkumar,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Vilde Espeseth,,Heidi Kristine Skree,"21/4,21/8",Vilde Espeseth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Emilia Petersen Norberg,,Julie Marie Andersen Abusdal,"19/21,21/8,21/17",Emilia Petersen Norberg,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damesingle,,Sofia Louis Macsali,,Emma Wåland,"21/17,19/21,21/18",Sofia Louis Macsali,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Carl Christian Mork,Fredrik Kristensen,Magnus Christensen,Mattias Xu,"23/21,21/10",Carl Christian Mork,Fredrik Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Carl Christian Mork,Fredrik Kristensen,Vegard Rikheim,Torjus Flåtten,"21/17,22/20",Carl Christian Mork,Fredrik Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Magnus Christensen,Mattias Xu,Mathias Ji Hong,Marius Myhre,"22/20,18/21,21/16",Magnus Christensen,Mattias Xu
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Carl Christian Mork,Fredrik Kristensen,Mads Marum,Jonas Østhassel,"21/17,21/19",Carl Christian Mork,Fredrik Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Vegard Rikheim,Torjus Flåtten,Keveen Kumar Balasingam,Petter Tryland Laheld,"21/14,21/6",Vegard Rikheim,Torjus Flåtten
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Mathias Ji Hong,Marius Myhre,Sturla Flåten Jørgensen,Ludvig Smith-Meyer,"21/15,21/18",Mathias Ji Hong,Marius Myhre
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Magnus Christensen,Mattias Xu,Markus Barth,Danila Gataullin,"22/20,21/13",Magnus Christensen,Mattias Xu
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Carl Christian Mork,Fredrik Kristensen,Marius Sørby,Arben Holstad,"21/6,21/6",Carl Christian Mork,Fredrik Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Mads Marum,Jonas Østhassel,Joachim Skjønhaug,Toheed Ahmed Saeed,"21/5,21/9",Mads Marum,Jonas Østhassel
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Vegard Rikheim,Torjus Flåtten,Amund Rikheim Huus,Jørgen Rosenlund,"21/10,21/6",Vegard Rikheim,Torjus Flåtten
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Keveen Kumar Balasingam,Petter Tryland Laheld,John Nguyen,Stian Ekroll Glenne,"21/15,21/10",Keveen Kumar Balasingam,Petter Tryland Laheld
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Mathias Ji Hong,Marius Myhre,Erlend Engesæter Bognøy,Dennis Andersen Moe,"21/3,21/7",Mathias Ji Hong,Marius Myhre
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Sturla Flåten Jørgensen,Ludvig Smith-Meyer,Jonas Christensen,Anders Leirud,"21/14,29/30,22/20",Sturla Flåten Jørgensen,Ludvig Smith-Meyer
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Markus Barth,Danila Gataullin,Jim Ronny Andersen,Eivind Lund,"21/12,21/9",Markus Barth,Danila Gataullin
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Magnus Christensen,Mattias Xu,Tommy Helander,Bjørn Hamang,"21/7,21/4",Magnus Christensen,Mattias Xu
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Keveen Kumar Balasingam,Petter Tryland Laheld,Robin Kruksve Krux,Fredrik Skånøy,"21/18,21/17",Keveen Kumar Balasingam,Petter Tryland Laheld
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Mathias Ji Hong,Marius Myhre,Bharath Kumar Balasingam,Andreas Andersen,"21/13,21/18",Mathias Ji Hong,Marius Myhre
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Herredouble,Jim Ronny Andersen,Eivind Lund,Jiawen Shi,Boyan Yu,"21/18,24/22",Jim Ronny Andersen,Eivind Lund
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Sofia Louis Macsali,Emilia Petersen Norberg,Emma Wåland,Natalie Kristensen,"14/21,24/22,21/12",Sofia Louis Macsali,Emilia Petersen Norberg
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Sofia Louis Macsali,Emilia Petersen Norberg,Julie Marie Andersen Abusdal,Helene Abusdal,"21/18,21/17",Sofia Louis Macsali,Emilia Petersen Norberg
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Emma Wåland,Natalie Kristensen,Marie Christensen,Aimee Hong,"21/17,18/21,21/17",Emma Wåland,Natalie Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Sofia Louis Macsali,Emilia Petersen Norberg,Vilde Espeseth,Marie Wåland,"21/16,21/18",Sofia Louis Macsali,Emilia Petersen Norberg
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Julie Marie Andersen Abusdal,Helene Abusdal,Jenny Rajkumar,Live Hov Grønbech,"21/11,15/21,24/22",Julie Marie Andersen Abusdal,Helene Abusdal
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Emma Wåland,Natalie Kristensen,Delia Murtazalieva,Elisa Wiborg,"14/21,21/13,21/16",Emma Wåland,Natalie Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Marie Christensen,Aimee Hong,Kristin Thømt,Bente Sotnes,"21/8,21/8",Marie Christensen,Aimee Hong
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Julie Marie Andersen Abusdal,Helene Abusdal,Heidi Kristine Skree,Nora  Omdal,"21/16,21/8",Julie Marie Andersen Abusdal,Helene Abusdal
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Damedouble,Delia Murtazalieva,Elisa Wiborg,Vera Botcharova Ellingsen,Helle Sofie Sagøy,"21/12,21/15",Delia Murtazalieva,Elisa Wiborg
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Fredrik Kristensen,Natalie Kristensen,Magnus Christensen,Aimee Hong,"21/13,21/14",Fredrik Kristensen,Natalie Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Magnus Christensen,Aimee Hong,Mads Marum,Vilde Espeseth,"21/17,21/17",Magnus Christensen,Aimee Hong
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Fredrik Kristensen,Natalie Kristensen,Marie Christensen,Sturla Flåten Jørgensen,"21/10,21/13",Fredrik Kristensen,Natalie Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Mads Marum,Vilde Espeseth,Emilie Sotnes Hamang,Jørgen Rosenlund,"21/10,23/21",Mads Marum,Vilde Espeseth
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Magnus Christensen,Aimee Hong,Jim Ronny Andersen,Julie Marie Andersen Abusdal,"21/19,21/19",Magnus Christensen,Aimee Hong
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Fredrik Kristensen,Natalie Kristensen,Carl Christian Mork,Elisa Wiborg,"21/17,21/19",Fredrik Kristensen,Natalie Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Marie Christensen,Sturla Flåten Jørgensen,Jonas Østhassel,Emma Wåland,"21/17,18/21,21/19",Marie Christensen,Sturla Flåten Jørgensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Carl Christian Mork,Elisa Wiborg,Fredrik Skånøy,Marte Stokkaune,"21/9,21/14",Carl Christian Mork,Elisa Wiborg
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Jonas Østhassel,Emma Wåland,Delia Murtazalieva,Mathias Ji Hong,"21/10,21/9",Jonas Østhassel,Emma Wåland
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Emilie Sotnes Hamang,Jørgen Rosenlund,Bharath Kumar Balasingam,Vera Botcharova Ellingsen,"21/16,24/22",Emilie Sotnes Hamang,Jørgen Rosenlund
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Jim Ronny Andersen,Julie Marie Andersen Abusdal,Dennis Andersen Moe,Lovise Krogsæter,"21/7,21/8",Jim Ronny Andersen,Julie Marie Andersen Abusdal
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Mads Marum,Vilde Espeseth,Bente Sotnes,Bjørn Hamang,"21/4,21/5",Mads Marum,Vilde Espeseth
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Magnus Christensen,Aimee Hong,John Nguyen,Theresa Nguyen,"21/11,21/13",Magnus Christensen,Aimee Hong
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Marie Christensen,Sturla Flåten Jørgensen,Jenny Rajkumar,Amund Rikheim Huus,"26/24,21/15",Marie Christensen,Sturla Flåten Jørgensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Fredrik Kristensen,Natalie Kristensen,Ludvig Smith-Meyer,Emilia Petersen Norberg,"21/9,21/12",Fredrik Kristensen,Natalie Kristensen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,SEN E,Mixeddouble,Ludvig Smith-Meyer,Emilia Petersen Norberg,Heidi Kristine Skree,Keveen Kumar Balasingam,"21/10,21/7",Ludvig Smith-Meyer,Emilia Petersen Norberg
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Barth,,Thomas Grüner Fjeldheim,"19/21,21/12,22/20",Thomas Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Barth,,Bjørn Deron,"21/13,19/21,21/16",Thomas Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Grüner Fjeldheim,,Elias Øyen Selsaas,"21/16,13/21,21/17",Thomas Grüner Fjeldheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Barth,,Brynjar Hus,"21/13,21/16",Thomas Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Bjørn Deron,,Børge Håland,"21/13,21/12",Bjørn Deron,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Andreas Andersen Roksvåg,"21/12,21/14",Elias Øyen Selsaas,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Grüner Fjeldheim,,Andreas Holmedal,"21/12,21/17",Thomas Grüner Fjeldheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Brynjar Hus,,Sander Østhassel,"21/19,24/22",Brynjar Hus,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Børge Håland,,Bawi Nun Lian Rakha,"21/16,14/21,21/14",Børge Håland,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Andreas Andersen Roksvåg,,Aldrin Nelson,"21/13,21/17",Andreas Andersen Roksvåg,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Aleksander Jakovlevs,"21/15,21/19",Elias Øyen Selsaas,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Grüner Fjeldheim,,David Nguyen,"21/12,21/12",Thomas Grüner Fjeldheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Aslak Smith,,Mathias Wong,"21/10,14/21,21/18",Aslak Smith,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Barth,,Aslak Smith,"21/12,21/12",Thomas Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Barth,,Mathias Wong,"21/7,21/12",Thomas Barth,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Elias Ausen,,Kristian I Birkeland,"21/18,21/18",Elias Ausen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Sander Østhassel,,Elias Ausen,"21/17,21/19",Sander Østhassel,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Sander Østhassel,,Kristian I Birkeland,"21/8,21/14",Sander Østhassel,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Brynjar Hus,,Vemund Hus,"21/12,21/4",Brynjar Hus,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Jonatan Broch Granum,,Vemund Hus,"21/18,21/17",Jonatan Broch Granum,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Brynjar Hus,,Jonatan Broch Granum,"21/11,21/18",Brynjar Hus,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Bjørn Deron,,Zhongyan Yu,"21/16,21/13",Bjørn Deron,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Christer Andersen,,Jonathan Utne Madsøy,"21/18,17/21,21/14",Christer Andersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Jonathan Utne Madsøy,,Zhongyan Yu,"21/9,21/19",Jonathan Utne Madsøy,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Bjørn Deron,,Christer Andersen,"18/21,21/16,21/13",Bjørn Deron,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Christer Andersen,,Zhongyan Yu,"21/15,21/12",Christer Andersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Bjørn Deron,,Jonathan Utne Madsøy,"21/10,22/24,21/14",Bjørn Deron,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Bawi Nun Lian Rakha,,Herman Birkeland,"21/9,21/8",Bawi Nun Lian Rakha,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Filip Bøhn,,Herman Birkeland,"21/4,21/10",Filip Bøhn,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Bawi Nun Lian Rakha,,Filip Bøhn,"21/15,23/25,21/17",Bawi Nun Lian Rakha,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Børge Håland,,Daniel Nguyen,"21/15,21/11",Børge Håland,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Børge Håland,,Yasir Abshirashid,"21/7,21/8",Børge Håland,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Daniel Nguyen,,Yasir Abshirashid,"21/11,21/16",Daniel Nguyen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Hemant Anilkumar,,Brede Stenfeldt,"21/13,21/14",Hemant Anilkumar,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Aldrin Nelson,,Brede Stenfeldt,"21/13,21/16",Aldrin Nelson,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Aldrin Nelson,,Hemant Anilkumar,"22/20,21/12",Aldrin Nelson,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Heine Lam Nybakk,,Philip Allport Fossum,"21/9,21/15",Heine Lam Nybakk,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Andreas Andersen Roksvåg,,Philip Allport Fossum,"21/10,21/2",Andreas Andersen Roksvåg,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Andreas Andersen Roksvåg,,Heine Lam Nybakk,"21/11,21/8",Andreas Andersen Roksvåg,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Mattias Mørk,,Truls Helgerød,"21/12,21/8",Mattias Mørk,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Aleksander Jakovlevs,,Truls Helgerød,"21/12,21/14",Aleksander Jakovlevs,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Aleksander Jakovlevs,,Mattias Mørk,"21/13,21/16",Aleksander Jakovlevs,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Rafid Ishaq,,Vetle Vinnes Bråten,"21/13,21/7",Rafid Ishaq,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Vetle Vinnes Bråten,"21/9,21/11",Elias Øyen Selsaas,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Elias Øyen Selsaas,,Rafid Ishaq,"21/10,17/21,21/13",Elias Øyen Selsaas,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,David Nguyen,,Andreas Skoglund,"21/5,21/8",David Nguyen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Sander Bunes Kristensen,,Andreas Skoglund,"21/7,21/11",Sander Bunes Kristensen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,David Nguyen,,Sander Bunes Kristensen,"15/21,21/12,21/14",David Nguyen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Kristoffer Sveen Hjertholm,,Fenris Lindland,"17/21,21/15,21/13",Kristoffer Sveen Hjertholm,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Grüner Fjeldheim,,Fenris Lindland,"21/7,21/8",Thomas Grüner Fjeldheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Thomas Grüner Fjeldheim,,Kristoffer Sveen Hjertholm,"21/10,21/13",Thomas Grüner Fjeldheim,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Sturla Mørk,,Varun Manikandan,"14/21,21/15,21/15",Sturla Mørk,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Andreas Holmedal,,Sturla Mørk,"21/7,21/6",Andreas Holmedal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herresingle,,Andreas Holmedal,,Varun Manikandan,"21/8,21/6",Andreas Holmedal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Stine Skjævesland Pedersen,"13/21,21/13,21/14",Katja Botcharova Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Elise Lærkerød Jelsness,"21/16,17/21,21/14",Katja Botcharova Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Linnea Holmedal,"21/16,14/21,25/23",Stine Skjævesland Pedersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Elise Lærkerød Jelsness,,Astrid Lovise Pallesen,"21/10,21/10",Elise Lærkerød Jelsness,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Mina Korssund,"21/10,21/11",Katja Botcharova Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Akija Anton Reginold,"21/18,16/21,21/16",Stine Skjævesland Pedersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Linnea Holmedal,,Kristine  Grande Ødegårdstuen,"25/23,21/14",Linnea Holmedal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Emilie Alrek Eide,,Silje B. Karlsen,"21/16,21/11",Emilie Alrek Eide,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Elise Lærkerød Jelsness,,Emilie Alrek Eide,"21/10,21/11",Elise Lærkerød Jelsness,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Elise Lærkerød Jelsness,,Silje B. Karlsen,"21/5,21/12",Elise Lærkerød Jelsness,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Astrid Lovise Pallesen,,Maia Celine  Elgueta-Johannesen,"21/15,20/22,21/18",Astrid Lovise Pallesen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Astrid Lovise Pallesen,,Livia Romme Mørch,"22/24,21/10,21/9",Astrid Lovise Pallesen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Livia Romme Mørch,,Maia Celine  Elgueta-Johannesen,"21/11,21/7",Livia Romme Mørch,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Maja Morvik Kragholm,,Akarija Anton Reginold,"21/14,21/13",Maja Morvik Kragholm,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Akarija Anton Reginold,"21/8,21/5",Katja Botcharova Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Katja Botcharova Ellingsen,,Maja Morvik Kragholm,"21/18,21/18",Katja Botcharova Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Sofie Jin Reistadbakk,,Emma Yasmin Ruud,"21/14,21/13",Sofie Jin Reistadbakk,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Mina Korssund,,Sofie Jin Reistadbakk,"21/18,21/13",Mina Korssund,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Mina Korssund,,Emma Yasmin Ruud,"21/14,21/13",Mina Korssund,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Akija Anton Reginold,,Vilma Aasheim-Engen,"23/21,21/18",Akija Anton Reginold,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Arathija Anton Reginold,,Nikol Hermansen,"9/21,21/18,21/19",Arathija Anton Reginold,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Vilma Aasheim-Engen,,Arathija Anton Reginold,"15/21,21/9,21/16",Vilma Aasheim-Engen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Akija Anton Reginold,,Nikol Hermansen,"21/18,21/14",Akija Anton Reginold,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Vilma Aasheim-Engen,,Nikol Hermansen,"21/16,21/13",Vilma Aasheim-Engen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Akija Anton Reginold,,Arathija Anton Reginold,"21/13,21/17",Akija Anton Reginold,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Henriette  Ellingsen,,Nicoline Wærsten,"21/11,21/16",Henriette  Ellingsen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Henriette  Ellingsen,"21/13,21/14",Stine Skjævesland Pedersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Stine Skjævesland Pedersen,,Nicoline Wærsten,"21/12,21/10",Stine Skjævesland Pedersen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Linnea Holmedal,,Frida Bjørvik Løvheim,"21/15,21/12",Linnea Holmedal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Amalie Lexander,,Frida Bjørvik Løvheim,"21/19,21/12",Amalie Lexander,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Linnea Holmedal,,Amalie Lexander,"21/12,21/12",Linnea Holmedal,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Selma Kvarenes Bjørnestøl,,Marie Gade Brask,"21/14,21/8",Selma Kvarenes Bjørnestøl,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Marie Gade Brask,"21/5,21/10",Kristine  Grande Ødegårdstuen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damesingle,,Kristine  Grande Ødegårdstuen,,Selma Kvarenes Bjørnestøl,"21/12,21/13",Kristine  Grande Ødegårdstuen,
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Andreas Holmedal,Thomas Barth,Thomas Grüner Fjeldheim,Christer Andersen,"21/16,21/13",Andreas Holmedal,Thomas Barth
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Andreas Holmedal,Thomas Barth,Elias Øyen Selsaas,Jonathan Utne Madsøy,"21/17,21/11",Andreas Holmedal,Thomas Barth
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Thomas Grüner Fjeldheim,Christer Andersen,Filip Bøhn,Sander Østhassel,"21/15,21/16",Thomas Grüner Fjeldheim,Christer Andersen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Elias Øyen Selsaas,Jonathan Utne Madsøy,Mathias Wong,Aleksander Jakovlevs,"22/20,21/15",Elias Øyen Selsaas,Jonathan Utne Madsøy
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Filip Bøhn,Sander Østhassel,Aldrin Nelson,Brynjar Hus,"19/21,21/17,21/12",Filip Bøhn,Sander Østhassel
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Varun Manikandan,Zhongyan Yu,Kristian I Birkeland,Truls Helgerød,"21/11,21/16",Varun Manikandan,Zhongyan Yu
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Andreas Holmedal,Thomas Barth,Kristian I Birkeland,Truls Helgerød,"21/7,21/8",Andreas Holmedal,Thomas Barth
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Andreas Holmedal,Thomas Barth,Varun Manikandan,Zhongyan Yu,"21/11,21/9",Andreas Holmedal,Thomas Barth
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Børge Håland,Vemund Hus,Yasir Abshirashid,Daniel Nguyen,"21/15,21/10",Børge Håland,Vemund Hus
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Elias Øyen Selsaas,Jonathan Utne Madsøy,Børge Håland,Vemund Hus,"21/17,21/8",Elias Øyen Selsaas,Jonathan Utne Madsøy
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Elias Øyen Selsaas,Jonathan Utne Madsøy,Yasir Abshirashid,Daniel Nguyen,"21/4,21/5",Elias Øyen Selsaas,Jonathan Utne Madsøy
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Andreas Andersen Roksvåg,Mattias Mørk,Aslak Smith,Jonatan Broch Granum,"21/13,21/12",Andreas Andersen Roksvåg,Mattias Mørk
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Mathias Wong,Aleksander Jakovlevs,Aslak Smith,Jonatan Broch Granum,"21/18,21/19",Mathias Wong,Aleksander Jakovlevs
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Mathias Wong,Aleksander Jakovlevs,Andreas Andersen Roksvåg,Mattias Mørk,"21/15,8/21,21/14",Mathias Wong,Aleksander Jakovlevs
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Aldrin Nelson,Brynjar Hus,Vetle Vinnes Bråten,Brede Stenfeldt,"21/13,21/13",Aldrin Nelson,Brynjar Hus
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Aldrin Nelson,Brynjar Hus,Kristoffer Sveen Hjertholm,Hemant Anilkumar,"21/14,21/10",Aldrin Nelson,Brynjar Hus
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Vetle Vinnes Bråten,Brede Stenfeldt,Kristoffer Sveen Hjertholm,Hemant Anilkumar,"21/17,21/19",Vetle Vinnes Bråten,Brede Stenfeldt
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Sander Bunes Kristensen,Elias Ausen,Herman Birkeland,Andreas Skoglund,"21/7,21/3",Sander Bunes Kristensen,Elias Ausen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Filip Bøhn,Sander Østhassel,Herman Birkeland,Andreas Skoglund,"21/4,21/4",Filip Bøhn,Sander Østhassel
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Filip Bøhn,Sander Østhassel,Sander Bunes Kristensen,Elias Ausen,"21/18,21/10",Filip Bøhn,Sander Østhassel
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,David Nguyen,Bawi Nun Lian Rakha,Philip Allport Fossum,Heine Lam Nybakk,"21/7,21/14",David Nguyen,Bawi Nun Lian Rakha
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Thomas Grüner Fjeldheim,Christer Andersen,Philip Allport Fossum,Heine Lam Nybakk,"21/5,21/7",Thomas Grüner Fjeldheim,Christer Andersen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Herredouble,Thomas Grüner Fjeldheim,Christer Andersen,David Nguyen,Bawi Nun Lian Rakha,"21/14,21/8",Thomas Grüner Fjeldheim,Christer Andersen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Stine Skjævesland Pedersen,Nicoline Wærsten,"21/10,18/21,21/14",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Stine Skjævesland Pedersen,Nicoline Wærsten,Akija Anton Reginold,Frida Bjørvik Løvheim,"14/21,21/19,21/10",Stine Skjævesland Pedersen,Nicoline Wærsten
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl,Astrid Lovise Pallesen,Maia Celine  Elgueta-Johannesen,"21/15,21/13",Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Amalie Lexander,Linnea Holmedal,"21/7,21/8",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl,Amalie Lexander,Linnea Holmedal,"21/12,21/11",Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Astrid Lovise Pallesen,Maia Celine  Elgueta-Johannesen,"21/12,21/11",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen,Maja Morvik Kragholm,Selma Kvarenes Bjørnestøl,"21/15,21/10",Katja Botcharova Ellingsen,Kristine  Grande Ødegårdstuen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Amalie Lexander,Linnea Holmedal,Astrid Lovise Pallesen,Maia Celine  Elgueta-Johannesen,"21/11,21/15",Amalie Lexander,Linnea Holmedal
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Akija Anton Reginold,Frida Bjørvik Løvheim,Emma Yasmin Ruud,Vilma Aasheim-Engen,"21/16,21/15",Akija Anton Reginold,Frida Bjørvik Løvheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Sofie Jin Reistadbakk,Emilie Alrek Eide,Arathija Anton Reginold,Akarija Anton Reginold,"21/15,21/14",Sofie Jin Reistadbakk,Emilie Alrek Eide
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Arathija Anton Reginold,Akarija Anton Reginold,Emma Yasmin Ruud,Vilma Aasheim-Engen,"21/13,21/12",Arathija Anton Reginold,Akarija Anton Reginold
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Akija Anton Reginold,Frida Bjørvik Løvheim,Sofie Jin Reistadbakk,Emilie Alrek Eide,"22/20,20/22,21/11",Akija Anton Reginold,Frida Bjørvik Løvheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Emma Yasmin Ruud,Vilma Aasheim-Engen,Sofie Jin Reistadbakk,Emilie Alrek Eide,"12/21,21/19,21/17",Emma Yasmin Ruud,Vilma Aasheim-Engen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Akija Anton Reginold,Frida Bjørvik Løvheim,Arathija Anton Reginold,Akarija Anton Reginold,"23/21,21/16",Akija Anton Reginold,Frida Bjørvik Løvheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Nikol Hermansen,Henriette  Ellingsen,Livia Romme Mørch,Marie Gade Brask,"21/11,21/16",Nikol Hermansen,Henriette  Ellingsen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Stine Skjævesland Pedersen,Nicoline Wærsten,Nikol Hermansen,Henriette  Ellingsen,"22/20,21/8",Stine Skjævesland Pedersen,Nicoline Wærsten
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Damedouble,Stine Skjævesland Pedersen,Nicoline Wærsten,Livia Romme Mørch,Marie Gade Brask,"21/11,21/10",Stine Skjævesland Pedersen,Nicoline Wærsten
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim,Andreas Holmedal,Akija Anton Reginold,"21/16,21/8",Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim,Elias Øyen Selsaas,Henriette  Ellingsen,"21/15,21/23,21/13",Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Andreas Holmedal,Akija Anton Reginold,Aslak Smith,Stine Skjævesland Pedersen,"21/14,21/9",Andreas Holmedal,Akija Anton Reginold
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elias Øyen Selsaas,Henriette  Ellingsen,Katja Botcharova Ellingsen,Aleksander Jakovlevs,"21/18,21/14",Elias Øyen Selsaas,Henriette  Ellingsen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim,Sander Østhassel,Maja Morvik Kragholm,"21/12,21/7",Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Aslak Smith,Stine Skjævesland Pedersen,Sturla Mørk,Mina Korssund,"21/7,21/17",Aslak Smith,Stine Skjævesland Pedersen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Andreas Holmedal,Akija Anton Reginold,Mattias Mørk,Livia Romme Mørch,"21/18,21/10",Andreas Holmedal,Akija Anton Reginold
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim,Astrid Lovise Pallesen,Hemant Anilkumar,"21/11,21/12",Elise Lærkerød Jelsness,Thomas Grüner Fjeldheim
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Katja Botcharova Ellingsen,Aleksander Jakovlevs,Christer Andersen,Kristine  Grande Ødegårdstuen,"21/13,21/10",Katja Botcharova Ellingsen,Aleksander Jakovlevs
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Sander Østhassel,Maja Morvik Kragholm,Linnea Holmedal,Brynjar Hus,"21/17,19/21,21/19",Sander Østhassel,Maja Morvik Kragholm
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elias Øyen Selsaas,Henriette  Ellingsen,Amalie Lexander,Brede Stenfeldt,"21/12,21/13",Elias Øyen Selsaas,Henriette  Ellingsen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Aslak Smith,Stine Skjævesland Pedersen,Aldrin Nelson,Arathija Anton Reginold,"21/19,22/20",Aslak Smith,Stine Skjævesland Pedersen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Sturla Mørk,Mina Korssund,Akarija Anton Reginold,Varun Manikandan,"21/14,30/28",Sturla Mørk,Mina Korssund
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Andreas Holmedal,Akija Anton Reginold,Vetle Vinnes Bråten,Silje B. Karlsen,"21/7,21/11",Andreas Holmedal,Akija Anton Reginold
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Mattias Mørk,Livia Romme Mørch,Kristoffer Sveen Hjertholm,Emma Yasmin Ruud,"21/18,24/22",Mattias Mørk,Livia Romme Mørch
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Astrid Lovise Pallesen,Hemant Anilkumar,Jonatan Broch Granum,Marie Gade Brask,"21/14,21/17",Astrid Lovise Pallesen,Hemant Anilkumar
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Katja Botcharova Ellingsen,Aleksander Jakovlevs,Filip Bøhn,Selma Kvarenes Bjørnestøl,"21/14,21/19",Katja Botcharova Ellingsen,Aleksander Jakovlevs
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Aldrin Nelson,Arathija Anton Reginold,Heine Lam Nybakk,Emilie Alrek Eide,"22/20,21/7",Aldrin Nelson,Arathija Anton Reginold
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Akarija Anton Reginold,Varun Manikandan,Nikol Hermansen,Vemund Hus,"21/15,21/19",Akarija Anton Reginold,Varun Manikandan
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Elias Øyen Selsaas,Henriette  Ellingsen,Sofie Jin Reistadbakk,Børge Håland,"21/12,21/13",Elias Øyen Selsaas,Henriette  Ellingsen
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Kristoffer Sveen Hjertholm,Emma Yasmin Ruud,Philip Allport Fossum,Vilma Aasheim-Engen,"21/12,10/21,21/10",Kristoffer Sveen Hjertholm,Emma Yasmin Ruud
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Sander Østhassel,Maja Morvik Kragholm,Mathias Wong,Nicoline Wærsten,"21/14,21/18",Sander Østhassel,Maja Morvik Kragholm
+2020/2021,Kristiansand RT 17 + NM Senior,18.09.2020,U17 A,Mixeddouble,Vetle Vinnes Bråten,Silje B. Karlsen,Daniel Nguyen,Maia Celine  Elgueta-Johannesen,"21/11,21/8",Vetle Vinnes Bråten,Silje B. Karlsen

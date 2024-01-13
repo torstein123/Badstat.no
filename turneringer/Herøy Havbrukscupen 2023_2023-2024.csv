@@ -1,182 +1,90 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"12/21,21/16,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Pernille Lillevik,"21/4,21/3",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Signe Lenning,"21/14,17/21,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Signe Lenning,,Pernille Lillevik,"21/13,19/21,21/16",Signe Lenning,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Linnea Nordnes Prestø,,Frida Prestø,"21/6,21/10",Linnea Nordnes Prestø,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Frida Prestø,"21/11,21/7",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/11,21/17",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Edvart Soløy Myrbostad,Håvard Soløy,"21/10,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Ole Christoffer Olsen,Emil Pettersen,"15/21,21/15,21/15",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Christoffer Olsen,Emil Pettersen,Edvart Soløy Myrbostad,Håvard Soløy,"20/22,21/13,21/18",Ole Christoffer Olsen,Emil Pettersen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Petter Øren,Elias Lenning,"21/12,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Edvart Soløy Myrbostad,Håvard Soløy,"21/11,21/19",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Christoffer Olsen,Emil Pettersen,"21/18,21/11",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Pernille Lillevik,Sylvia Husmo,"20/22,21/4,21/18",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Dorthe Lorvik,Elin Hansen,"18/21,21/14,21/10",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Dorthe Lorvik,Elin Hansen,Pernille Lillevik,Sylvia Husmo,"21/13,21/14",Dorthe Lorvik,Elin Hansen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"12/21,21/16,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Pernille Lillevik,"21/4,21/3",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Signe Lenning,"21/14,17/21,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Signe Lenning,,Pernille Lillevik,"21/13,19/21,21/16",Signe Lenning,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Linnea Nordnes Prestø,,Frida Prestø,"21/6,21/10",Linnea Nordnes Prestø,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Frida Prestø,"21/11,21/7",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/11,21/17",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Edvart Soløy Myrbostad,Håvard Soløy,"21/10,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Ole Christoffer Olsen,Emil Pettersen,"15/21,21/15,21/15",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Christoffer Olsen,Emil Pettersen,Edvart Soløy Myrbostad,Håvard Soløy,"20/22,21/13,21/18",Ole Christoffer Olsen,Emil Pettersen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Petter Øren,Elias Lenning,"21/12,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Edvart Soløy Myrbostad,Håvard Soløy,"21/11,21/19",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Christoffer Olsen,Emil Pettersen,"21/18,21/11",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Pernille Lillevik,Sylvia Husmo,"20/22,21/4,21/18",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Dorthe Lorvik,Elin Hansen,"18/21,21/14,21/10",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Dorthe Lorvik,Elin Hansen,Pernille Lillevik,Sylvia Husmo,"21/13,21/14",Dorthe Lorvik,Elin Hansen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Alexander Hansen,Mats Bernhoff,Johannes Lillevik Førde,Einar Mathias Øren,"18/21,21/13,21/18",Alexander Hansen,Mats Bernhoff
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Lars Erik Sjølstad,Eivind Moe,Dag Ivar Lillevik,Sindre Emanuel Moe,"21/11,21/11",Lars Erik Sjølstad,Eivind Moe
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Johannes Lillevik Førde,Einar Mathias Øren,Lars Erik Sjølstad,Eivind Moe,"21/19,21/14",Johannes Lillevik Førde,Einar Mathias Øren
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Johannes Lillevik Førde,Einar Mathias Øren,Dag Ivar Lillevik,Sindre Emanuel Moe,"21/7,21/14",Johannes Lillevik Førde,Einar Mathias Øren
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Alexander Hansen,Mats Bernhoff,Lucas René Bech,Marius Andre' Elsfjordstrand Beck,"21/5,21/17",Alexander Hansen,Mats Bernhoff
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Lucas René Bech,Marius Andre' Elsfjordstrand Beck,Kenneth Bernhoff,Andreas Jørgensen,"17/21,21/18,21/13",Lucas René Bech,Marius Andre' Elsfjordstrand Beck
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Alexander Hansen,Mats Bernhoff,Kenneth Bernhoff,Andreas Jørgensen,"21/5,21/7",Alexander Hansen,Mats Bernhoff
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Alexander Hansen,Mats Bernhoff,Johannes Lillevik Førde,Einar Mathias Øren,"18/21,21/13,21/18",Alexander Hansen,Mats Bernhoff
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Lars Erik Sjølstad,Eivind Moe,Dag Ivar Lillevik,Sindre Emanuel Moe,"21/11,21/11",Lars Erik Sjølstad,Eivind Moe
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Johannes Lillevik Førde,Einar Mathias Øren,Lars Erik Sjølstad,Eivind Moe,"21/19,21/14",Johannes Lillevik Førde,Einar Mathias Øren
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Johannes Lillevik Førde,Einar Mathias Øren,Dag Ivar Lillevik,Sindre Emanuel Moe,"21/7,21/14",Johannes Lillevik Førde,Einar Mathias Øren
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Alexander Hansen,Mats Bernhoff,Lucas René Bech,Marius Andre' Elsfjordstrand Beck,"21/5,21/17",Alexander Hansen,Mats Bernhoff
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Lucas René Bech,Marius Andre' Elsfjordstrand Beck,Kenneth Bernhoff,Andreas Jørgensen,"17/21,21/18,21/13",Lucas René Bech,Marius Andre' Elsfjordstrand Beck
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Alexander Hansen,Mats Bernhoff,Kenneth Bernhoff,Andreas Jørgensen,"21/5,21/7",Alexander Hansen,Mats Bernhoff
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Edvart Soløy Myrbostad,"21/15,14/21,21/13",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Edvart Soløy Myrbostad,,Eivind Moe,"21/14,19/21,23/21",Edvart Soløy Myrbostad,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Mats Bernhoff,,Lucas René Bech,"21/7,21/9",Mats Bernhoff,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Marius Andre' Elsfjordstrand Beck,"21/5,21/8",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Mats Bernhoff,,Marius Andre' Elsfjordstrand Beck,"21/19,21/12",Mats Bernhoff,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Lucas René Bech,"21/6,21/5",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Mats Bernhoff,"21/15,21/8",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Marius Andre' Elsfjordstrand Beck,,Lucas René Bech,"21/17,23/21",Marius Andre' Elsfjordstrand Beck,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Edvart Soløy Myrbostad,"21/15,14/21,21/13",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Edvart Soløy Myrbostad,,Eivind Moe,"21/14,19/21,23/21",Edvart Soløy Myrbostad,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Mats Bernhoff,,Lucas René Bech,"21/7,21/9",Mats Bernhoff,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Marius Andre' Elsfjordstrand Beck,"21/5,21/8",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Mats Bernhoff,,Marius Andre' Elsfjordstrand Beck,"21/19,21/12",Mats Bernhoff,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Lucas René Bech,"21/6,21/5",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Alexander Hansen,,Mats Bernhoff,"21/15,21/8",Alexander Hansen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,,Marius Andre' Elsfjordstrand Beck,,Lucas René Bech,"21/17,23/21",Marius Andre' Elsfjordstrand Beck,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"12/21,21/16,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Pernille Lillevik,"21/4,21/3",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Signe Lenning,"21/14,17/21,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Signe Lenning,,Pernille Lillevik,"21/13,19/21,21/16",Signe Lenning,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Linnea Nordnes Prestø,,Frida Prestø,"21/6,21/10",Linnea Nordnes Prestø,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Frida Prestø,"21/11,21/7",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/11,21/17",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Edvart Soløy Myrbostad,Håvard Soløy,"21/10,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Ole Christoffer Olsen,Emil Pettersen,"15/21,21/15,21/15",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Christoffer Olsen,Emil Pettersen,Edvart Soløy Myrbostad,Håvard Soløy,"20/22,21/13,21/18",Ole Christoffer Olsen,Emil Pettersen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Petter Øren,Elias Lenning,"21/12,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Edvart Soløy Myrbostad,Håvard Soløy,"21/11,21/19",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Christoffer Olsen,Emil Pettersen,"21/18,21/11",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Pernille Lillevik,Sylvia Husmo,"20/22,21/4,21/18",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Dorthe Lorvik,Elin Hansen,"18/21,21/14,21/10",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Dorthe Lorvik,Elin Hansen,Pernille Lillevik,Sylvia Husmo,"21/13,21/14",Dorthe Lorvik,Elin Hansen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U9 B,,Olivia Mari Karlsen,,Aurora Sofi P Larssen,"21/16,21/12",Olivia Mari Karlsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U9 B,,Olivia Mari Karlsen,,Aurora Sofi P Larssen,"21/16,21/12",Olivia Mari Karlsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,Håkon Elias Jørgensen,"21/19,21/19",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Ronja Michelle Pettersen,,David Donner,"18/21,21/14,21/16",Ronja Michelle Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Håkon Elias Jørgensen,,Ronja Michelle Pettersen,"21/7,21/12",Håkon Elias Jørgensen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,Kaia Madeleine Thoresen Mikalsen,"21/17,21/14",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Håkon Elias Jørgensen,,Kaia Madeleine Thoresen Mikalsen,"16/21,21/13,21/17",Håkon Elias Jørgensen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,David Donner,"21/13,21/8",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Håkon Elias Jørgensen,,David Donner,"21/12,21/10",Håkon Elias Jørgensen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Kaia Madeleine Thoresen Mikalsen,,Ronja Michelle Pettersen,"21/17,21/17",Kaia Madeleine Thoresen Mikalsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,Ronja Michelle Pettersen,"21/15,21/5",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Kaia Madeleine Thoresen Mikalsen,,David Donner,"21/12,21/9",Kaia Madeleine Thoresen Mikalsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,Håkon Elias Jørgensen,"21/19,21/19",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Ronja Michelle Pettersen,,David Donner,"18/21,21/14,21/16",Ronja Michelle Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Håkon Elias Jørgensen,,Ronja Michelle Pettersen,"21/7,21/12",Håkon Elias Jørgensen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,Kaia Madeleine Thoresen Mikalsen,"21/17,21/14",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Håkon Elias Jørgensen,,Kaia Madeleine Thoresen Mikalsen,"16/21,21/13,21/17",Håkon Elias Jørgensen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,David Donner,"21/13,21/8",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Håkon Elias Jørgensen,,David Donner,"21/12,21/10",Håkon Elias Jørgensen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Kaia Madeleine Thoresen Mikalsen,,Ronja Michelle Pettersen,"21/17,21/17",Kaia Madeleine Thoresen Mikalsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Thea Oline Moe,,Ronja Michelle Pettersen,"21/15,21/5",Thea Oline Moe,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,,Kaia Madeleine Thoresen Mikalsen,,David Donner,"21/12,21/9",Kaia Madeleine Thoresen Mikalsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Håkon Elias Jørgensen,Thea Oline Moe,Kaia Madeleine Thoresen Mikalsen,Ronja Michelle Pettersen,"21/16,21/10",Håkon Elias Jørgensen,Thea Oline Moe
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Dorthe Lorvik,"12/21,21/16,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Pernille Lillevik,"21/4,21/3",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Nila Lorvik,,Signe Lenning,"21/14,17/21,21/9",Nila Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Signe Lenning,,Pernille Lillevik,"21/13,19/21,21/16",Signe Lenning,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Linnea Nordnes Prestø,,Frida Prestø,"21/6,21/10",Linnea Nordnes Prestø,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Frida Prestø,"21/11,21/7",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/11,21/17",Dorthe Lorvik,
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Edvart Soløy Myrbostad,Håvard Soløy,"21/10,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Ole Christoffer Olsen,Emil Pettersen,"15/21,21/15,21/15",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Christoffer Olsen,Emil Pettersen,Edvart Soløy Myrbostad,Håvard Soløy,"20/22,21/13,21/18",Ole Christoffer Olsen,Emil Pettersen
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Petter Øren,Elias Lenning,"21/12,21/16",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Ole Petter Øren,Elias Lenning,Edvart Soløy Myrbostad,Håvard Soløy,"21/11,21/19",Ole Petter Øren,Elias Lenning
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Nila Lorvik,Marius Sandvær,Ole Christoffer Olsen,Emil Pettersen,"21/18,21/11",Nila Lorvik,Marius Sandvær
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Pernille Lillevik,Sylvia Husmo,"20/22,21/4,21/18",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Frida Prestø,Linnea Nordnes Prestø,Dorthe Lorvik,Elin Hansen,"18/21,21/14,21/10",Frida Prestø,Linnea Nordnes Prestø
-2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Dorthe Lorvik,Elin Hansen,Pernille Lillevik,Sylvia Husmo,"21/13,21/14",Dorthe Lorvik,Elin Hansen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Marius Sandvær,,Emil Pettersen,"25/23,21/19",Marius Sandvær,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Emil Pettersen,,Ole Petter Øren,"21/18,21/17",Emil Pettersen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Håvard Soløy,,Bengt Pedersen,"21/16,21/11",Håvard Soløy,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Marius Sandvær,,Ole Christoffer Olsen,"21/12,21/16",Marius Sandvær,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Håvard Soløy,,Ole Christoffer Olsen,"21/19,21/14",Håvard Soløy,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Marius Sandvær,,Bengt Pedersen,"21/7,21/12",Marius Sandvær,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Marius Sandvær,,Håvard Soløy,"21/14,22/20",Marius Sandvær,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herresingle,,Ole Christoffer Olsen,,Bengt Pedersen,"21/18,21/17",Ole Christoffer Olsen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Nila Lorvik,,Dorthe Lorvik,"12/21,21/16,21/9",Nila Lorvik,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Nila Lorvik,,Pernille Lillevik,"21/4,21/3",Nila Lorvik,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Nila Lorvik,,Signe Lenning,"21/14,17/21,21/9",Nila Lorvik,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Signe Lenning,,Pernille Lillevik,"21/13,19/21,21/16",Signe Lenning,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Linnea Nordnes Prestø,,Frida Prestø,"21/6,21/10",Linnea Nordnes Prestø,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Dorthe Lorvik,,Frida Prestø,"21/11,21/7",Dorthe Lorvik,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damesingle,,Dorthe Lorvik,,Linnea Nordnes Prestø,"21/11,21/17",Dorthe Lorvik,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herredouble,Nila Lorvik,Marius Sandvær,Edvart Soløy Myrbostad,Håvard Soløy,"21/10,21/16",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herredouble,Ole Petter Øren,Elias Lenning,Ole Christoffer Olsen,Emil Pettersen,"15/21,21/15,21/15",Ole Petter Øren,Elias Lenning
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herredouble,Ole Christoffer Olsen,Emil Pettersen,Edvart Soløy Myrbostad,Håvard Soløy,"20/22,21/13,21/18",Ole Christoffer Olsen,Emil Pettersen
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herredouble,Nila Lorvik,Marius Sandvær,Ole Petter Øren,Elias Lenning,"21/12,21/16",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herredouble,Ole Petter Øren,Elias Lenning,Edvart Soløy Myrbostad,Håvard Soløy,"21/11,21/19",Ole Petter Øren,Elias Lenning
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Herredouble,Nila Lorvik,Marius Sandvær,Ole Christoffer Olsen,Emil Pettersen,"21/18,21/11",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damedouble,Frida Prestø,Linnea Nordnes Prestø,Pernille Lillevik,Sylvia Husmo,"20/22,21/4,21/18",Frida Prestø,Linnea Nordnes Prestø
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damedouble,Frida Prestø,Linnea Nordnes Prestø,Dorthe Lorvik,Elin Hansen,"18/21,21/14,21/10",Frida Prestø,Linnea Nordnes Prestø
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Damedouble,Dorthe Lorvik,Elin Hansen,Pernille Lillevik,Sylvia Husmo,"21/13,21/14",Dorthe Lorvik,Elin Hansen
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Nila Lorvik,Marius Sandvær,Elin Hansen,Bengt Pedersen,"21/10,21/8",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Signe Lenning,Elias Lenning,Emil Pettersen,Linnea Nordnes Prestø,"21/18,21/9",Signe Lenning,Elias Lenning
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Signe Lenning,Elias Lenning,Elin Hansen,Bengt Pedersen,"21/14,21/5",Signe Lenning,Elias Lenning
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Ole Petter Øren,Dorthe Lorvik,Emil Pettersen,Linnea Nordnes Prestø,"21/16,21/12",Ole Petter Øren,Dorthe Lorvik
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Ole Petter Øren,Dorthe Lorvik,Elin Hansen,Bengt Pedersen,"21/16,21/12",Ole Petter Øren,Dorthe Lorvik
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Nila Lorvik,Marius Sandvær,Signe Lenning,Elias Lenning,"21/14,23/25,21/14",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Emil Pettersen,Linnea Nordnes Prestø,Elin Hansen,Bengt Pedersen,"21/13,21/12",Emil Pettersen,Linnea Nordnes Prestø
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Nila Lorvik,Marius Sandvær,Emil Pettersen,Linnea Nordnes Prestø,"21/11,21/16",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Signe Lenning,Elias Lenning,Ole Petter Øren,Dorthe Lorvik,"18/21,21/18,21/15",Signe Lenning,Elias Lenning
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN A,Mixeddouble,Nila Lorvik,Marius Sandvær,Ole Petter Øren,Dorthe Lorvik,"21/13,21/6",Nila Lorvik,Marius Sandvær
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Alexander Hansen,Mats Bernhoff,Johannes Lillevik Førde,Einar Mathias Øren,"18/21,21/13,21/18",Alexander Hansen,Mats Bernhoff
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Lars Erik Sjølstad,Eivind Moe,Dag Ivar Lillevik,Sindre Emanuel Moe,"21/11,21/11",Lars Erik Sjølstad,Eivind Moe
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Johannes Lillevik Førde,Einar Mathias Øren,Lars Erik Sjølstad,Eivind Moe,"21/19,21/14",Johannes Lillevik Førde,Einar Mathias Øren
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Johannes Lillevik Førde,Einar Mathias Øren,Dag Ivar Lillevik,Sindre Emanuel Moe,"21/7,21/14",Johannes Lillevik Førde,Einar Mathias Øren
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Alexander Hansen,Mats Bernhoff,Lucas René Bech,Marius Andre' Elsfjordstrand Beck,"21/5,21/17",Alexander Hansen,Mats Bernhoff
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Lucas René Bech,Marius Andre' Elsfjordstrand Beck,Kenneth Bernhoff,Andreas Jørgensen,"17/21,21/18,21/13",Lucas René Bech,Marius Andre' Elsfjordstrand Beck
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN C,Herredouble,Alexander Hansen,Mats Bernhoff,Kenneth Bernhoff,Andreas Jørgensen,"21/5,21/7",Alexander Hansen,Mats Bernhoff
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Alexander Hansen,,Edvart Soløy Myrbostad,"21/15,14/21,21/13",Alexander Hansen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Edvart Soløy Myrbostad,,Eivind Moe,"21/14,19/21,23/21",Edvart Soløy Myrbostad,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Mats Bernhoff,,Lucas René Bech,"21/7,21/9",Mats Bernhoff,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Alexander Hansen,,Marius Andre' Elsfjordstrand Beck,"21/5,21/8",Alexander Hansen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Mats Bernhoff,,Marius Andre' Elsfjordstrand Beck,"21/19,21/12",Mats Bernhoff,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Alexander Hansen,,Lucas René Bech,"21/6,21/5",Alexander Hansen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Alexander Hansen,,Mats Bernhoff,"21/15,21/8",Alexander Hansen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Herresingle,,Marius Andre' Elsfjordstrand Beck,,Lucas René Bech,"21/17,23/21",Marius Andre' Elsfjordstrand Beck,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Mixeddouble,Edvart Soløy Myrbostad,Pernille Lillevik,Johannes Lillevik Førde,Marthe Evjenth,"21/5,12/21,21/5",Edvart Soløy Myrbostad,Pernille Lillevik
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Mixeddouble,Edvart Soløy Myrbostad,Pernille Lillevik,Lars Erik Sjølstad,Maja Mathilde Johnsen Sørgjerd,"21/10,21/10",Edvart Soløy Myrbostad,Pernille Lillevik
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Mixeddouble,Johannes Lillevik Førde,Marthe Evjenth,Einar Mathias Øren,Sylvia Husmo,"21/17,21/17",Johannes Lillevik Førde,Marthe Evjenth
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Mixeddouble,Johannes Lillevik Førde,Marthe Evjenth,Lars Erik Sjølstad,Maja Mathilde Johnsen Sørgjerd,"21/6,21/13",Johannes Lillevik Førde,Marthe Evjenth
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Mixeddouble,Edvart Soløy Myrbostad,Pernille Lillevik,Einar Mathias Øren,Sylvia Husmo,"21/16,21/9",Edvart Soløy Myrbostad,Pernille Lillevik
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,SEN D,Mixeddouble,Einar Mathias Øren,Sylvia Husmo,Lars Erik Sjølstad,Maja Mathilde Johnsen Sørgjerd,"21/12,21/18",Einar Mathias Øren,Sylvia Husmo
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U9 B,Damesingle,,Olivia Mari Karlsen,,Aurora Sofi P Larssen,"21/16,21/12",Olivia Mari Karlsen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Thea Oline Moe,,Håkon Elias Jørgensen,"21/19,21/19",Thea Oline Moe,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Ronja Michelle Pettersen,,David Donner,"18/21,21/14,21/16",Ronja Michelle Pettersen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Håkon Elias Jørgensen,,Ronja Michelle Pettersen,"21/7,21/12",Håkon Elias Jørgensen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Thea Oline Moe,,Kaia Madeleine Thoresen Mikalsen,"21/17,21/14",Thea Oline Moe,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Håkon Elias Jørgensen,,Kaia Madeleine Thoresen Mikalsen,"16/21,21/13,21/17",Håkon Elias Jørgensen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Thea Oline Moe,,David Donner,"21/13,21/8",Thea Oline Moe,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Håkon Elias Jørgensen,,David Donner,"21/12,21/10",Håkon Elias Jørgensen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Kaia Madeleine Thoresen Mikalsen,,Ronja Michelle Pettersen,"21/17,21/17",Kaia Madeleine Thoresen Mikalsen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Thea Oline Moe,,Ronja Michelle Pettersen,"21/15,21/5",Thea Oline Moe,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herresingle,,Kaia Madeleine Thoresen Mikalsen,,David Donner,"21/12,21/9",Kaia Madeleine Thoresen Mikalsen,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U11 A,Herredouble,Håkon Elias Jørgensen,Thea Oline Moe,Kaia Madeleine Thoresen Mikalsen,Ronja Michelle Pettersen,"21/16,21/10",Håkon Elias Jørgensen,Thea Oline Moe
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Herresingle,,Teodor Husmo Sandøy,,Sivert Vik-Mo Falch,"25/23,21/11",Teodor Husmo Sandøy,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Herresingle,,Michael Donner,,Teodor Husmo Sandøy,"21/16,21/13",Michael Donner,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Herresingle,,Michael Donner,,Sivert Vik-Mo Falch,"21/7,21/9",Michael Donner,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damesingle,,Nicole Vidugirytè,,Martine Endresen Svinøy,"21/5,21/8",Nicole Vidugirytè,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damesingle,,Daria Mari Beck,,Alva Karoline Sandøy Bredrup,"21/14,21/16",Daria Mari Beck,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damesingle,,Alva Karoline Sandøy Bredrup,,Martine Endresen Svinøy,"21/9,21/8",Alva Karoline Sandøy Bredrup,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damesingle,,Daria Mari Beck,,Nicole Vidugirytè,"21/10,22/20",Daria Mari Beck,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damesingle,,Daria Mari Beck,,Martine Endresen Svinøy,"21/5,21/6",Daria Mari Beck,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damesingle,,Alva Karoline Sandøy Bredrup,,Nicole Vidugirytè,"10/21,21/10,21/15",Alva Karoline Sandøy Bredrup,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Damedouble,Alva Karoline Sandøy Bredrup,Daria Mari Beck,Nicole Vidugirytè,Martine Endresen Svinøy,"21/7,21/9",Alva Karoline Sandøy Bredrup,Daria Mari Beck
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Mixeddouble,Michael Donner,Martine Endresen Svinøy,Sivert Vik-Mo Falch,Nicole Vidugirytè,"21/15,18/21,21/18",Michael Donner,Martine Endresen Svinøy
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Mixeddouble,Teodor Husmo Sandøy,Daria Mari Beck,Michael Donner,Martine Endresen Svinøy,"21/11,21/13",Teodor Husmo Sandøy,Daria Mari Beck
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U13 A,Mixeddouble,Teodor Husmo Sandøy,Daria Mari Beck,Sivert Vik-Mo Falch,Nicole Vidugirytè,"21/15,21/17",Teodor Husmo Sandøy,Daria Mari Beck
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U15 A,Herresingle,,Kenneth Bernhoff,,Sindre Emanuel Moe,"21/13,21/10",Kenneth Bernhoff,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U15 A,Herresingle,,Johannes Lillevik Førde,,Einar Mathias Øren,"21/14,21/15",Johannes Lillevik Førde,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U15 A,Herresingle,,Johannes Lillevik Førde,,Sindre Emanuel Moe,"21/4,21/5",Johannes Lillevik Førde,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U15 A,Herresingle,,Kenneth Bernhoff,,Einar Mathias Øren,"23/21,21/16",Kenneth Bernhoff,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U15 A,Herresingle,,Einar Mathias Øren,,Sindre Emanuel Moe,"21/12,21/12",Einar Mathias Øren,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U15 A,Herresingle,,Johannes Lillevik Førde,,Kenneth Bernhoff,"21/13,21/10",Johannes Lillevik Førde,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U17 A,Damesingle,,Marthe Evjenth,,Sylvia Husmo,"22/20,22/20",Marthe Evjenth,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U17 A,Damesingle,,Marthe Evjenth,,Maja Mathilde Johnsen Sørgjerd,"21/14,21/19",Marthe Evjenth,
+2023/2024,Herøy Havbrukscupen 2023,06.10.2023,U17 A,Damesingle,,Sylvia Husmo,,Maja Mathilde Johnsen Sørgjerd,"21/15,15/21,21/18",Sylvia Husmo,

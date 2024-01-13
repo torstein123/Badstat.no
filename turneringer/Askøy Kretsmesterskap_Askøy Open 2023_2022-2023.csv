@@ -1,464 +1,325 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Andreas Holmedal,"21/19,21/19",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Andreas Holmedal,,Bharath Kumar Balasingam,"21/8,21/16",Andreas Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Keveen Kumar Balasingam,"21/17,21/8",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/16",Keveen Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Bharath Kumar Balasingam,,Kristoffer Sveen Hjertholm,"21/23,21/13,21/9",Bharath Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Keveen Kumar Balasingam,,Kristoffer Sveen Hjertholm,"21/17,21/15",Keveen Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Vetle Vinnes Bråten,,Bharath Kumar Balasingam,"21/16,21/17",Vetle Vinnes Bråten,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Bharath Kumar Balasingam,,Keveen Kumar Balasingam,"11/21,21/18,26/24",Bharath Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Kristoffer Sveen Hjertholm,,Vetle Vinnes Bråten,"19/21,21/16,21/12",Kristoffer Sveen Hjertholm,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Andreas Holmedal,,Jonathan Utne Madsøy,"21/10,21/9",Andreas Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Jonathan Utne Madsøy,"21/5,21/13",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Andreas Holmedal,"21/14,16/21,21/12",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Andreas Holmedal,"21/19,21/19",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Andreas Holmedal,,Bharath Kumar Balasingam,"21/8,21/16",Andreas Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Keveen Kumar Balasingam,"21/17,21/8",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/16",Keveen Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Bharath Kumar Balasingam,,Kristoffer Sveen Hjertholm,"21/23,21/13,21/9",Bharath Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Keveen Kumar Balasingam,,Kristoffer Sveen Hjertholm,"21/17,21/15",Keveen Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Vetle Vinnes Bråten,,Bharath Kumar Balasingam,"21/16,21/17",Vetle Vinnes Bråten,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Bharath Kumar Balasingam,,Keveen Kumar Balasingam,"11/21,21/18,26/24",Bharath Kumar Balasingam,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Kristoffer Sveen Hjertholm,,Vetle Vinnes Bråten,"19/21,21/16,21/12",Kristoffer Sveen Hjertholm,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Andreas Holmedal,,Jonathan Utne Madsøy,"21/10,21/9",Andreas Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Jonathan Utne Madsøy,"21/5,21/13",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,,Thomas Barth,,Andreas Holmedal,"21/14,16/21,21/12",Thomas Barth,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Ida Marie Thomassen Stiegler,,Hilde Røssland,"21/16,21/15",Ida Marie Thomassen Stiegler,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Julie Langeland Risa,,Line Klæbo,"21/13,21/8",Julie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Julie Langeland Risa,,Ida Marie Thomassen Stiegler,"21/13,21/12",Julie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Hilde Røssland,"21/10,21/5",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Ida Marie Thomassen Stiegler,"21/12,21/10",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Line Klæbo,,Hilde Røssland,"21/19,21/15",Line Klæbo,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Line Klæbo,,Ida Marie Thomassen Stiegler,"21/13,21/9",Line Klæbo,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Julie Langeland Risa,"21/16,21/16",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Julie Langeland Risa,,Hilde Røssland,"21/15,21/12",Julie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Line Klæbo,"21/11,21/7",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Ida Marie Thomassen Stiegler,,Hilde Røssland,"21/16,21/15",Ida Marie Thomassen Stiegler,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Julie Langeland Risa,,Line Klæbo,"21/13,21/8",Julie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Julie Langeland Risa,,Ida Marie Thomassen Stiegler,"21/13,21/12",Julie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Hilde Røssland,"21/10,21/5",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Ida Marie Thomassen Stiegler,"21/12,21/10",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Line Klæbo,,Hilde Røssland,"21/19,21/15",Line Klæbo,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Line Klæbo,,Ida Marie Thomassen Stiegler,"21/13,21/9",Line Klæbo,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Julie Langeland Risa,"21/16,21/16",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Julie Langeland Risa,,Hilde Røssland,"21/15,21/12",Julie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,,Nikol Hermansen,,Line Klæbo,"21/11,21/7",Nikol Hermansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,Sindre Gjuvsland,Ole Kristian Lie,"21/15,21/13",Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Andreas Holmedal,Kenneth Larsen,Sondre Lie Foldnes,Heine Lam Nybakk,"21/7,21/3",Andreas Holmedal,Kenneth Larsen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,Sondre Lie Foldnes,Heine Lam Nybakk,"21/16,21/15",Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Sindre Gjuvsland,Ole Kristian Lie,"21/19,17/21,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,"21/15,21/18",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Andreas Holmedal,Kenneth Larsen,Sindre Gjuvsland,Ole Kristian Lie,"21/5,21/8",Andreas Holmedal,Kenneth Larsen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Andreas Holmedal,Kenneth Larsen,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,"21/8,21/11",Andreas Holmedal,Kenneth Larsen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Keveen Kumar Balasingam,Jakob Langeland Risa,Sondre Lie Foldnes,Heine Lam Nybakk,"21/8,21/16",Keveen Kumar Balasingam,Jakob Langeland Risa
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Sindre Gjuvsland,Ole Kristian Lie,Sondre Lie Foldnes,Heine Lam Nybakk,"21/17,21/19",Sindre Gjuvsland,Ole Kristian Lie
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Andreas Holmedal,Kenneth Larsen,Keveen Kumar Balasingam,Jakob Langeland Risa,"21/11,21/19",Andreas Holmedal,Kenneth Larsen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Linnea Holmedal,Elise  Holmedal,Julie Albrektsen,Astrid Salthella,"21/6,21/6",Linnea Holmedal,Elise  Holmedal
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Nikol Hermansen,Dina Høl Bugge,Ida Marie Thomassen Stiegler,Hilde Røssland,"21/7,21/9",Nikol Hermansen,Dina Høl Bugge
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Linnea Holmedal,Elise  Holmedal,Ida Marie Thomassen Stiegler,Hilde Røssland,"21/7,21/9",Linnea Holmedal,Elise  Holmedal
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Nikol Hermansen,Dina Høl Bugge,Julie Albrektsen,Astrid Salthella,"21/8,21/5",Nikol Hermansen,Dina Høl Bugge
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Linnea Holmedal,Elise  Holmedal,Nikol Hermansen,Dina Høl Bugge,"21/15,21/15",Linnea Holmedal,Elise  Holmedal
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Julie Albrektsen,Astrid Salthella,Ida Marie Thomassen Stiegler,Hilde Røssland,"18/21,21/12,24/22",Julie Albrektsen,Astrid Salthella
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Morten Straume,,Sondre Lie Foldnes,"21/15,21/15",Morten Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Sondre Lie Foldnes,,Andreas Deinboll,"21/14,21/12",Sondre Lie Foldnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Andreas Deinboll,,Arun Kumar Sharma,"21/14,14/21,21/16",Andreas Deinboll,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Arun Kumar Sharma,,Sondre Lie Foldnes,"19/21,21/15,21/12",Arun Kumar Sharma,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Morten Straume,,Christian Lund Haugen,"21/10,21/9",Morten Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Morten Straume,,Jack Oterhals,"21/13,21/11",Morten Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Christian Lund Haugen,,Jack Oterhals,"21/11,21/17",Christian Lund Haugen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Morten Straume,,Sondre Lie Foldnes,"21/15,21/15",Morten Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Sondre Lie Foldnes,,Andreas Deinboll,"21/14,21/12",Sondre Lie Foldnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Andreas Deinboll,,Arun Kumar Sharma,"21/14,14/21,21/16",Andreas Deinboll,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Arun Kumar Sharma,,Sondre Lie Foldnes,"19/21,21/15,21/12",Arun Kumar Sharma,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Morten Straume,,Christian Lund Haugen,"21/10,21/9",Morten Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Morten Straume,,Jack Oterhals,"21/13,21/11",Morten Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,,Christian Lund Haugen,,Jack Oterhals,"21/11,21/17",Christian Lund Haugen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Ingrid Teistung,Andreas Deinboll,Jone Mortensen,Edvin Nordbø,"21/16,21/15",Ingrid Teistung,Andreas Deinboll
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Helge Økland,Ståle Skorpholm,Arun Kumar Sharma,Peter Schuster,"23/21,22/20",Helge Økland,Ståle Skorpholm
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Helge Økland,Ståle Skorpholm,Jone Mortensen,Edvin Nordbø,"21/15,21/13",Helge Økland,Ståle Skorpholm
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Ingrid Teistung,Andreas Deinboll,Ashwin Kumar Rao,Rushikesh Sane,"21/13,21/17",Ingrid Teistung,Andreas Deinboll
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Jone Mortensen,Edvin Nordbø,Ashwin Kumar Rao,Rushikesh Sane,"21/9,21/17",Jone Mortensen,Edvin Nordbø
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Ingrid Teistung,Andreas Deinboll,Arun Kumar Sharma,Peter Schuster,"21/15,21/17",Ingrid Teistung,Andreas Deinboll
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Jone Mortensen,Edvin Nordbø,Arun Kumar Sharma,Peter Schuster,"23/21,14/21,21/19",Jone Mortensen,Edvin Nordbø
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Ashwin Kumar Rao,Rushikesh Sane,Helge Økland,Ståle Skorpholm,"21/14,18/21,21/16",Ashwin Kumar Rao,Rushikesh Sane
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Ingrid Teistung,Andreas Deinboll,Helge Økland,Ståle Skorpholm,"21/18,21/17",Ingrid Teistung,Andreas Deinboll
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Arun Kumar Sharma,Peter Schuster,Ashwin Kumar Rao,Rushikesh Sane,"21/17,15/21,21/18",Arun Kumar Sharma,Peter Schuster
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Morten Solsvik,"21/12,14/21,21/10",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Vidar Korsnes,,Shivu Sidde Gowda,"21/6,21/6",Vidar Korsnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Morten Solsvik,,Eirik Ekerhovd,"23/21,21/15",Morten Solsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Vidar Korsnes,,Eirik Ekerhovd,"21/16,21/14",Vidar Korsnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Morten Solsvik,,Vidar Korsnes,"21/18,21/7",Morten Solsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Eirik Ekerhovd,,Shivu Sidde Gowda,"21/2,21/1",Eirik Ekerhovd,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Morten Solsvik,,Shivu Sidde Gowda,"21/2,21/1",Morten Solsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Leiv Arne Risa,,Lars Lauvik,"22/20,21/16",Leiv Arne Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Leiv Arne Risa,,Espen Søvik,"20/22,24/22,21/18",Leiv Arne Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Lars Lauvik,"21/11,21/13",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Espen Søvik,"21/11,21/12",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Leiv Arne Risa,"21/15,21/17",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Espen Søvik,,Lars Lauvik,"21/12,22/20",Espen Søvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Morten Solsvik,"21/12,14/21,21/10",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Vidar Korsnes,,Shivu Sidde Gowda,"21/6,21/6",Vidar Korsnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Morten Solsvik,,Eirik Ekerhovd,"23/21,21/15",Morten Solsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Vidar Korsnes,,Eirik Ekerhovd,"21/16,21/14",Vidar Korsnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Morten Solsvik,,Vidar Korsnes,"21/18,21/7",Morten Solsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Eirik Ekerhovd,,Shivu Sidde Gowda,"21/2,21/1",Eirik Ekerhovd,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Morten Solsvik,,Shivu Sidde Gowda,"21/2,21/1",Morten Solsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Leiv Arne Risa,,Lars Lauvik,"22/20,21/16",Leiv Arne Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Leiv Arne Risa,,Espen Søvik,"20/22,24/22,21/18",Leiv Arne Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Lars Lauvik,"21/11,21/13",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Espen Søvik,"21/11,21/12",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Pål Kolstø,,Leiv Arne Risa,"21/15,21/17",Pål Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,,Espen Søvik,,Lars Lauvik,"21/12,22/20",Espen Søvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Ragnvald Berge,Robert Eriksen,Morten Solsvik,Eirik Ekerhovd,"21/14,18/21,21/18",Ragnvald Berge,Robert Eriksen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Harald Søvik,Espen Søvik,Vidar Korsnes,Olve Vangdal,"21/12,17/21,21/10",Harald Søvik,Espen Søvik
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Morten Solsvik,Eirik Ekerhovd,Vidar Korsnes,Olve Vangdal,"21/6,21/17",Morten Solsvik,Eirik Ekerhovd
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Morten Solsvik,Eirik Ekerhovd,Harald Søvik,Espen Søvik,"21/15,21/18",Morten Solsvik,Eirik Ekerhovd
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Anders Heldal,Frode Clausen,William Wilsone Walker,Erik Moe,"21/10,21/17",Anders Heldal,Frode Clausen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Ragnvald Berge,Robert Eriksen,Anders Heldal,Frode Clausen,"21/23,21/17,21/11",Ragnvald Berge,Robert Eriksen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Ragnvald Berge,Robert Eriksen,William Wilsone Walker,Erik Moe,"21/12,21/19",Ragnvald Berge,Robert Eriksen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Einar Morgan Utne,"21/15,21/16",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Olve Vangdal,"21/13,21/10",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Arnt Ole Haukanes,,Simen Prestnes Fosså,"21/17,21/10",Arnt Ole Haukanes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Einar Morgan Utne,,Filip Træet Ellingsen,"21/12,21/13",Einar Morgan Utne,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Simen Prestnes Fosså,,Jakob Lønningen,"25/23,21/10",Simen Prestnes Fosså,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Arnt Ole Haukanes,,Filip Træet Ellingsen,"21/6,21/10",Arnt Ole Haukanes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Arnt Ole Haukanes,,Jakob Lønningen,"21/15,21/8",Arnt Ole Haukanes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Simen Prestnes Fosså,,Einar Morgan Utne,"21/16,14/21,21/12",Simen Prestnes Fosså,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Einar Morgan Utne,,Jakob Lønningen,"21/9,21/11",Einar Morgan Utne,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Simen Prestnes Fosså,,Filip Træet Ellingsen,"21/16,21/12",Simen Prestnes Fosså,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Jakob Lønningen,,Filip Træet Ellingsen,"21/10,22/20",Jakob Lønningen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Einar Morgan Utne,,Arnt Ole Haukanes,"21/12,21/13",Einar Morgan Utne,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Magne Abelsen,,Magnus Severinsen,"21/17,14/21,21/16",Magne Abelsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Magnus Severinsen,,Olve Vangdal,"8/21,21/11,21/15",Magnus Severinsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Olve Vangdal,,Magne Abelsen,"21/8,21/16",Olve Vangdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Svein Hjertholm,,Hans Olav Femsteinevik,"20/22,21/17,21/18",Svein Hjertholm,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Brand Ivar Hetland Bauman,"21/8,21/12",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Svein Hjertholm,,Brand Ivar Hetland Bauman,"21/7,21/10",Svein Hjertholm,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Hans Olav Femsteinevik,"21/7,21/14",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Svein Hjertholm,"21/17,21/14",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Hans Olav Femsteinevik,,Brand Ivar Hetland Bauman,"21/16,21/13",Hans Olav Femsteinevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Einar Morgan Utne,"21/15,21/16",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Olve Vangdal,"21/13,21/10",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Arnt Ole Haukanes,,Simen Prestnes Fosså,"21/17,21/10",Arnt Ole Haukanes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Einar Morgan Utne,,Filip Træet Ellingsen,"21/12,21/13",Einar Morgan Utne,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Simen Prestnes Fosså,,Jakob Lønningen,"25/23,21/10",Simen Prestnes Fosså,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Arnt Ole Haukanes,,Filip Træet Ellingsen,"21/6,21/10",Arnt Ole Haukanes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Arnt Ole Haukanes,,Jakob Lønningen,"21/15,21/8",Arnt Ole Haukanes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Simen Prestnes Fosså,,Einar Morgan Utne,"21/16,14/21,21/12",Simen Prestnes Fosså,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Einar Morgan Utne,,Jakob Lønningen,"21/9,21/11",Einar Morgan Utne,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Simen Prestnes Fosså,,Filip Træet Ellingsen,"21/16,21/12",Simen Prestnes Fosså,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Jakob Lønningen,,Filip Træet Ellingsen,"21/10,22/20",Jakob Lønningen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Einar Morgan Utne,,Arnt Ole Haukanes,"21/12,21/13",Einar Morgan Utne,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Magne Abelsen,,Magnus Severinsen,"21/17,14/21,21/16",Magne Abelsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Magnus Severinsen,,Olve Vangdal,"8/21,21/11,21/15",Magnus Severinsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Olve Vangdal,,Magne Abelsen,"21/8,21/16",Olve Vangdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Svein Hjertholm,,Hans Olav Femsteinevik,"20/22,21/17,21/18",Svein Hjertholm,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Brand Ivar Hetland Bauman,"21/8,21/12",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Svein Hjertholm,,Brand Ivar Hetland Bauman,"21/7,21/10",Svein Hjertholm,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Hans Olav Femsteinevik,"21/7,21/14",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Johan Gravdal,,Svein Hjertholm,"21/17,21/14",Johan Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,,Hans Olav Femsteinevik,,Brand Ivar Hetland Bauman,"21/16,21/13",Hans Olav Femsteinevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Hans Olav Femsteinevik,Stian Skarvatun,Arnt Ole Haukanes,Roger Johansen,"21/17,21/17",Hans Olav Femsteinevik,Stian Skarvatun
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Svein Hjertholm,Einar Morgan Utne,Jakob Lønningen,Simen Prestnes Fosså,"21/15,21/19",Svein Hjertholm,Einar Morgan Utne
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Arnt Ole Haukanes,Roger Johansen,Jakob Lønningen,Simen Prestnes Fosså,"21/18,21/13",Arnt Ole Haukanes,Roger Johansen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Hans Olav Femsteinevik,Stian Skarvatun,Svein Hjertholm,Einar Morgan Utne,"21/14,18/21,21/13",Hans Olav Femsteinevik,Stian Skarvatun
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Hans Olav Femsteinevik,Stian Skarvatun,Jakob Lønningen,Simen Prestnes Fosså,"21/12,21/13",Hans Olav Femsteinevik,Stian Skarvatun
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Svein Hjertholm,Einar Morgan Utne,Arnt Ole Haukanes,Roger Johansen,"21/16,21/18",Svein Hjertholm,Einar Morgan Utne
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Miriam Mikkelsen,Cecilie Mikkelsen,Lena Nilsen,Turid Gråberg,"21/7,21/18",Miriam Mikkelsen,Cecilie Mikkelsen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Malin Søviknes Fotland,Maria Lillestøl Duinker,Lena Nilsen,Turid Gråberg,"21/15,19/21,21/15",Malin Søviknes Fotland,Maria Lillestøl Duinker
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Miriam Mikkelsen,Cecilie Mikkelsen,Malin Søviknes Fotland,Maria Lillestøl Duinker,"21/16,21/11",Miriam Mikkelsen,Cecilie Mikkelsen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Naman Rao,Noris Ekanger,Mariam Sheikh,Jenny Røssland,"21/13,21/12",Naman Rao,Noris Ekanger
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Mariam Sheikh,Jenny Røssland,Sofie Fauskanger Hauso,Maja Lucy Panek,"22/20,21/8",Mariam Sheikh,Jenny Røssland
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Naman Rao,Noris Ekanger,Sofie Fauskanger Hauso,Maja Lucy Panek,"21/12,21/16",Naman Rao,Noris Ekanger
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Naman Rao,Noris Ekanger,Mariam Sheikh,Jenny Røssland,"21/13,21/12",Naman Rao,Noris Ekanger
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Mariam Sheikh,Jenny Røssland,Sofie Fauskanger Hauso,Maja Lucy Panek,"22/20,21/8",Mariam Sheikh,Jenny Røssland
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Naman Rao,Noris Ekanger,Sofie Fauskanger Hauso,Maja Lucy Panek,"21/12,21/16",Naman Rao,Noris Ekanger
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Leon Boge-Sørensen,"21/11,21/12",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Naman Rao,,Alex Birkeland,"21/11,21/4",Naman Rao,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Naman Rao,"21/16,21/17",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leon Boge-Sørensen,,Oliver Dagsland Bjørke,"21/13,21/12",Leon Boge-Sørensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Oliver Dagsland Bjørke,"21/5,21/2",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leon Boge-Sørensen,,Alex Birkeland,"21/12,21/9",Leon Boge-Sørensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Alex Birkeland,"21/5,21/8",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Naman Rao,,Oliver Dagsland Bjørke,"21/10,21/13",Naman Rao,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leon Boge-Sørensen,,Naman Rao,"23/21,21/17",Leon Boge-Sørensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Oliver Dagsland Bjørke,,Alex Birkeland,"21/16,21/11",Oliver Dagsland Bjørke,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Philip Espeland Ådlandsvik,"21/11,21/10",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Torbjørn Lier Andersen,"21/10,21/15",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Benjamin Drønen Haugland,,Rayansh Dubasi1,"21/14,21/19",Benjamin Drønen Haugland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Rayansh Dubasi1,"21/16,21/10",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Philip Espeland Ådlandsvik,"21/11,21/7",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Benjamin Drønen Haugland,,Torbjørn Lier Andersen,"18/21,21/16,21/14",Benjamin Drønen Haugland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Torbjørn Lier Andersen,"21/16,21/13",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Philip Espeland Ådlandsvik,,Rayansh Dubasi1,"21/11,18/21,21/18",Philip Espeland Ådlandsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Benjamin Drønen Haugland,"22/20,21/19",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Benjamin Drønen Haugland,"21/16,21/13",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Torbjørn Lier Andersen,,Philip Espeland Ådlandsvik,"21/12,21/19",Torbjørn Lier Andersen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Rayansh Dubasi1,"21/17,31/5",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Noah B.Johansen,"19/21,21/7,22/20",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Benjamin Drønen Haugland,,Philip Espeland Ådlandsvik,"21/10,21/17",Benjamin Drønen Haugland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Torbjørn Lier Andersen,,Rayansh Dubasi1,"20/22,21/11,21/14",Torbjørn Lier Andersen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Leon Boge-Sørensen,"21/11,21/12",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Naman Rao,,Alex Birkeland,"21/11,21/4",Naman Rao,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Naman Rao,"21/16,21/17",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leon Boge-Sørensen,,Oliver Dagsland Bjørke,"21/13,21/12",Leon Boge-Sørensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Oliver Dagsland Bjørke,"21/5,21/2",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leon Boge-Sørensen,,Alex Birkeland,"21/12,21/9",Leon Boge-Sørensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noris Ekanger,,Alex Birkeland,"21/5,21/8",Noris Ekanger,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Naman Rao,,Oliver Dagsland Bjørke,"21/10,21/13",Naman Rao,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leon Boge-Sørensen,,Naman Rao,"23/21,21/17",Leon Boge-Sørensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Oliver Dagsland Bjørke,,Alex Birkeland,"21/16,21/11",Oliver Dagsland Bjørke,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Philip Espeland Ådlandsvik,"21/11,21/10",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Torbjørn Lier Andersen,"21/10,21/15",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Benjamin Drønen Haugland,,Rayansh Dubasi1,"21/14,21/19",Benjamin Drønen Haugland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Rayansh Dubasi1,"21/16,21/10",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Philip Espeland Ådlandsvik,"21/11,21/7",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Benjamin Drønen Haugland,,Torbjørn Lier Andersen,"18/21,21/16,21/14",Benjamin Drønen Haugland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Torbjørn Lier Andersen,"21/16,21/13",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Philip Espeland Ådlandsvik,,Rayansh Dubasi1,"21/11,18/21,21/18",Philip Espeland Ådlandsvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Benjamin Drønen Haugland,"22/20,21/19",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Noah B.Johansen,,Benjamin Drønen Haugland,"21/16,21/13",Noah B.Johansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Torbjørn Lier Andersen,,Philip Espeland Ådlandsvik,"21/12,21/19",Torbjørn Lier Andersen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Rayansh Dubasi1,"21/17,31/5",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Leo-Zacharias Christianson,,Noah B.Johansen,"19/21,21/7,22/20",Leo-Zacharias Christianson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Benjamin Drønen Haugland,,Philip Espeland Ådlandsvik,"21/10,21/17",Benjamin Drønen Haugland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Torbjørn Lier Andersen,,Rayansh Dubasi1,"20/22,21/11,21/14",Torbjørn Lier Andersen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Mariam Sheikh,,Linnea Gjertine Kvamme,"21/18,21/8",Mariam Sheikh,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Adriana Trellevik-Johannessen,,Indie Teien Stangeland,"21/10,21/13",Adriana Trellevik-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Mariam Sheikh,,Adriana Trellevik-Johannessen,"16/21,21/12,21/10",Mariam Sheikh,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Sofie Fauskanger Hauso,,Linnea Gjertine Kvamme,"21/17,21/13",Sofie Fauskanger Hauso,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Mariam Sheikh,,Sofie Fauskanger Hauso,"17/21,21/13,21/19",Mariam Sheikh,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Linnea Gjertine Kvamme,,Indie Teien Stangeland,"21/14,21/18",Linnea Gjertine Kvamme,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Mariam Sheikh,,Indie Teien Stangeland,"21/10,21/11",Mariam Sheikh,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Adriana Trellevik-Johannessen,,Sofie Fauskanger Hauso,"23/21,19/21,21/18",Adriana Trellevik-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Linnea Gjertine Kvamme,,Adriana Trellevik-Johannessen,"21/17,21/19",Linnea Gjertine Kvamme,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Sofie Fauskanger Hauso,,Indie Teien Stangeland,"21/12,21/11",Sofie Fauskanger Hauso,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Jenny Røssland,,Haasini Karumuri,"21/11,21/8",Jenny Røssland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Amalie Langeland Risa,,Nicoline Marie Christiansdatter,"21/7,21/5",Amalie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Jenny Røssland,,Nicoline Marie Christiansdatter,"21/6,21/13",Jenny Røssland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Maja Lucy Panek,,Haasini Karumuri,"21/16,22/20",Maja Lucy Panek,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Jenny Røssland,,Maja Lucy Panek,"21/13,21/16",Jenny Røssland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Haasini Karumuri,,Amalie Langeland Risa,"21/10,21/19",Haasini Karumuri,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Jenny Røssland,,Amalie Langeland Risa,"21/16,14/21,21/18",Jenny Røssland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Maja Lucy Panek,,Nicoline Marie Christiansdatter,"21/12,21/8",Maja Lucy Panek,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Haasini Karumuri,,Nicoline Marie Christiansdatter,"21/15,21/11",Haasini Karumuri,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,,Amalie Langeland Risa,,Maja Lucy Panek,"21/14,21/10",Amalie Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Alexander Tobota-Johannessen,"21/18,17/21,21/18",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Ethan Soham,,Rafael Niroshan,"21/13,21/15",Ethan Soham,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Simen Våge Sætersdal,"21/9,21/13",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Rafael Niroshan,"21/15,21/12",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Ethan Soham,,Thorben Mikal Ekren Ludvig,"21/12,21/15",Ethan Soham,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Thorben Mikal Ekren Ludvig,,Rafael Niroshan,"21/17,21/19",Thorben Mikal Ekren Ludvig,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Ethan Soham,,Simen Våge Sætersdal,"21/16,21/7",Ethan Soham,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Rafael Niroshan,,Simen Våge Sætersdal,"21/18,21/19",Rafael Niroshan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Thorben Mikal Ekren Ludvig,"21/13,21/17",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Ethan Soham,"21/17,21/18",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"19/21,21/7,21/19",Thorben Mikal Ekren Ludvig,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Theo Dyrkolbotn Søvik,,Markus Ekerhovd Sylta,"21/17,24/22",Theo Dyrkolbotn Søvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Jatin Yalamanchili,,Max Straume,"21/5,21/16",Jatin Yalamanchili,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Markus Ekerhovd Sylta,,Max Straume,"21/11,21/10",Markus Ekerhovd Sylta,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Theo Dyrkolbotn Søvik,"21/4,21/17",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Markus Ekerhovd Sylta,"21/9,21/3",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Jatin Yalamanchili,,Theo Dyrkolbotn Søvik,"21/10,21/8",Jatin Yalamanchili,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Jatin Yalamanchili,,Markus Ekerhovd Sylta,"21/19,21/13",Jatin Yalamanchili,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Max Straume,"21/10,21/8",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Max Straume,,Theo Dyrkolbotn Søvik,"9/21,21/7,21/16",Max Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Jatin Yalamanchili,"21/10,21/12",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Alexander Tobota-Johannessen,"21/18,17/21,21/18",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Ethan Soham,,Rafael Niroshan,"21/13,21/15",Ethan Soham,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Simen Våge Sætersdal,"21/9,21/13",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Rafael Niroshan,"21/15,21/12",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Ethan Soham,,Thorben Mikal Ekren Ludvig,"21/12,21/15",Ethan Soham,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Thorben Mikal Ekren Ludvig,,Rafael Niroshan,"21/17,21/19",Thorben Mikal Ekren Ludvig,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Ethan Soham,,Simen Våge Sætersdal,"21/16,21/7",Ethan Soham,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Rafael Niroshan,,Simen Våge Sætersdal,"21/18,21/19",Rafael Niroshan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Thorben Mikal Ekren Ludvig,"21/13,21/17",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Alexander Tobota-Johannessen,,Ethan Soham,"21/17,21/18",Alexander Tobota-Johannessen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"19/21,21/7,21/19",Thorben Mikal Ekren Ludvig,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Theo Dyrkolbotn Søvik,,Markus Ekerhovd Sylta,"21/17,24/22",Theo Dyrkolbotn Søvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Jatin Yalamanchili,,Max Straume,"21/5,21/16",Jatin Yalamanchili,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Markus Ekerhovd Sylta,,Max Straume,"21/11,21/10",Markus Ekerhovd Sylta,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Theo Dyrkolbotn Søvik,"21/4,21/17",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Markus Ekerhovd Sylta,"21/9,21/3",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Jatin Yalamanchili,,Theo Dyrkolbotn Søvik,"21/10,21/8",Jatin Yalamanchili,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Jatin Yalamanchili,,Markus Ekerhovd Sylta,"21/19,21/13",Jatin Yalamanchili,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Max Straume,"21/10,21/8",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Max Straume,,Theo Dyrkolbotn Søvik,"9/21,21/7,21/16",Max Straume,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,,Even Øyen Selsaas,,Jatin Yalamanchili,"21/10,21/12",Even Øyen Selsaas,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,Theo Dyrkolbotn Søvik,Rafael Niroshan,"21/11,18/21,21/11",Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Jatin Yalamanchili,Ethan Soham,Simen Våge Sætersdal,Max Straume,"21/11,21/11",Jatin Yalamanchili,Ethan Soham
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Jatin Yalamanchili,Ethan Soham,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,"21/18,21/16",Jatin Yalamanchili,Ethan Soham
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Theo Dyrkolbotn Søvik,Rafael Niroshan,Simen Våge Sætersdal,Max Straume,"21/19,21/10",Theo Dyrkolbotn Søvik,Rafael Niroshan
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,Simen Våge Sætersdal,Max Straume,"21/14,21/16",Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Jatin Yalamanchili,Ethan Soham,Theo Dyrkolbotn Søvik,Rafael Niroshan,"23/25,21/6,21/11",Jatin Yalamanchili,Ethan Soham
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,David Landøy,"21/16,17/21,21/13",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,David Landøy,,Finn Stangenberg,"21/7,21/11",David Landøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Finn Stangenberg,,Tobias Emil Fluge-Instebø,"21/12,21/13",Finn Stangenberg,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,David Landøy,,Tobias Emil Fluge-Instebø,"21/12,21/11",David Landøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,Theodor Larsen Halln,"21/4,21/6",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,William Økland Henriksen,,Jakob Kolbeinsvik Nordeide,"21/12,21/10",William Økland Henriksen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,William Økland Henriksen,,Theodor Larsen Halln,"21/10,21/11",William Økland Henriksen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,Jakob Kolbeinsvik Nordeide,"21/6,21/6",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Theodor Larsen Halln,,Jakob Kolbeinsvik Nordeide,"12/21,21/7,21/11",Theodor Larsen Halln,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,William Økland Henriksen,"21/17,21/8",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,David Landøy,"21/16,17/21,21/13",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,David Landøy,,Finn Stangenberg,"21/7,21/11",David Landøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Finn Stangenberg,,Tobias Emil Fluge-Instebø,"21/12,21/13",Finn Stangenberg,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,David Landøy,,Tobias Emil Fluge-Instebø,"21/12,21/11",David Landøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,Theodor Larsen Halln,"21/4,21/6",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,William Økland Henriksen,,Jakob Kolbeinsvik Nordeide,"21/12,21/10",William Økland Henriksen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,William Økland Henriksen,,Theodor Larsen Halln,"21/10,21/11",William Økland Henriksen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,Jakob Kolbeinsvik Nordeide,"21/6,21/6",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Theodor Larsen Halln,,Jakob Kolbeinsvik Nordeide,"12/21,21/7,21/11",Theodor Larsen Halln,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Samuel Gravdal,,William Økland Henriksen,"21/17,21/8",Samuel Gravdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Linnea Alexandra Lilleskare,,Elisabeth Lie,"19/21,21/17,21/14",Linnea Alexandra Lilleskare,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Emma Gundegjerde,,Jenny Fagerbakke Teigen,"21/11,21/10",Emma Gundegjerde,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Elisabeth Lie,,Emma Gundegjerde,"21/7,21/12",Elisabeth Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Linnea Alexandra Lilleskare,,Luz Selene Bjørsvik,"21/5,21/10",Linnea Alexandra Lilleskare,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Linnea Alexandra Lilleskare,,Jenny Fagerbakke Teigen,"21/6,21/6",Linnea Alexandra Lilleskare,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,,Jenny Fagerbakke Teigen,,Luz Selene Bjørsvik,"22/20,21/15",Jenny Fagerbakke Teigen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Hedda Otterå Bjånesøy,Jenny Fagerbakke Teigen,Finn Stangenberg,William Økland Henriksen,"23/21,19/21,21/10",Hedda Otterå Bjånesøy,Jenny Fagerbakke Teigen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Luz Selene Bjørsvik,Linnea Alexandra Lilleskare,Finn Stangenberg,William Økland Henriksen,"21/13,21/5",Luz Selene Bjørsvik,Linnea Alexandra Lilleskare
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Luz Selene Bjørsvik,Linnea Alexandra Lilleskare,Hedda Otterå Bjånesøy,Jenny Fagerbakke Teigen,"15/21,21/8,21/16",Luz Selene Bjørsvik,Linnea Alexandra Lilleskare
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Fabian Nelson,"21/17,21/9",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Thomas Lam Nybakk,,Mio Skuterud Stenseth,"21/17,21/14",Thomas Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Julian Økland Henriksen,"21/13,21/10",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Julian Økland Henriksen,,Mio Skuterud Stenseth,"21/15,19/21,21/18",Julian Økland Henriksen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Thomas Lam Nybakk,"21/13,21/13",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Mio Skuterud Stenseth,"21/9,21/7",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Thomas Lam Nybakk,,Julian Økland Henriksen,"21/17,21/13",Thomas Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Fabian Nelson,,Martin Våge Sætersdal,"21/14,21/18",Fabian Nelson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Martin Våge Sætersdal,,Håvard Lie Foldnes,"21/18,23/21",Martin Våge Sætersdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Fabian Nelson,,Jonas Mallesvik Aarvik,"21/15,21/11",Fabian Nelson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Martin Våge Sætersdal,,Jonas Mallesvik Aarvik,"21/1,22/20",Martin Våge Sætersdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Fabian Nelson,,Håvard Lie Foldnes,"221/16,21/16",Fabian Nelson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Håvard Lie Foldnes,,Jonas Mallesvik Aarvik,"21/16,21/5",Håvard Lie Foldnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Fabian Nelson,"21/17,21/9",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Thomas Lam Nybakk,,Mio Skuterud Stenseth,"21/17,21/14",Thomas Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Julian Økland Henriksen,"21/13,21/10",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Julian Økland Henriksen,,Mio Skuterud Stenseth,"21/15,19/21,21/18",Julian Økland Henriksen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Thomas Lam Nybakk,"21/13,21/13",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Simon Andrés Vasquez Frisnes,,Mio Skuterud Stenseth,"21/9,21/7",Simon Andrés Vasquez Frisnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Thomas Lam Nybakk,,Julian Økland Henriksen,"21/17,21/13",Thomas Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Fabian Nelson,,Martin Våge Sætersdal,"21/14,21/18",Fabian Nelson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Martin Våge Sætersdal,,Håvard Lie Foldnes,"21/18,23/21",Martin Våge Sætersdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Fabian Nelson,,Jonas Mallesvik Aarvik,"21/15,21/11",Fabian Nelson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Martin Våge Sætersdal,,Jonas Mallesvik Aarvik,"21/1,22/20",Martin Våge Sætersdal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Fabian Nelson,,Håvard Lie Foldnes,"221/16,21/16",Fabian Nelson,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Håvard Lie Foldnes,,Jonas Mallesvik Aarvik,"21/16,21/5",Håvard Lie Foldnes,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Angelina Sharma,,Abigail Niroshan,"21/9,21/9",Angelina Sharma,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Angelina Sharma,,Caroline Ernest,"21/5,21/5",Angelina Sharma,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Abigail Niroshan,,Celinah Jude,"21/11,21/11",Abigail Niroshan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Abigail Niroshan,,Justé Beinoriuté,"21/13,21/16",Abigail Niroshan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,,Justé Beinoriuté,,Celinah Jude,"21/12,21/16",Justé Beinoriuté,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Angelina Sharma,Khrithi Yalamanchili,Caroline Ernest,Abigail Niroshan,"21/5,21/11",Angelina Sharma,Khrithi Yalamanchili
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Angelina Sharma,Khrithi Yalamanchili,Celinah Jude,Justé Beinoriuté,"21/12,21/15",Angelina Sharma,Khrithi Yalamanchili
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Caroline Ernest,Abigail Niroshan,Celinah Jude,Justé Beinoriuté,"21/18,10/21,22/20",Caroline Ernest,Abigail Niroshan
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Himanshu Dubasi,"21/13,21/18",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Mathias Emil Rong Kårstad,"21/18,21/19",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Nikolai A. Klodvik,"21/19,21/18",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Liam Andre Rasmussen,,Mikus Arins,"21/12,21/16",Liam Andre Rasmussen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Mikus Arins,"21/17,21/2",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Liam Andre Rasmussen,,Nikolai A. Klodvik,"21/14,21/11",Liam Andre Rasmussen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Liam Andre Rasmussen,"21/7,21/6",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Nikolai A. Klodvik,,Mikus Arins,"21/7,21/13",Nikolai A. Klodvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sigurd Sørheim,,Sebastian Kristiansen,"21/13,21/16",Sigurd Sørheim,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sigurd Sørheim,,Mikael Gravdal,"21/11,21/10",Sigurd Sørheim,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Sebastian Kristiansen,"18/21,21/18,21/12",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sebastian Kristiansen,,Mikael Gravdal,"21/7,21/14",Sebastian Kristiansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Sigurd Sørheim,"21/15,15/21,25/23",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Mikael Gravdal,"21/12,14/21,21/12",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Mathias Emil Rong Kårstad,,Alonso Dell’Acqua,"21/7,21/9",Mathias Emil Rong Kårstad,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Himanshu Dubasi,"21/13,21/18",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Mathias Emil Rong Kårstad,"21/18,21/19",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Nikolai A. Klodvik,"21/19,21/18",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Liam Andre Rasmussen,,Mikus Arins,"21/12,21/16",Liam Andre Rasmussen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Mikus Arins,"21/17,21/2",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Liam Andre Rasmussen,,Nikolai A. Klodvik,"21/14,21/11",Liam Andre Rasmussen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Åsmund Svennevik,,Liam Andre Rasmussen,"21/7,21/6",Åsmund Svennevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Nikolai A. Klodvik,,Mikus Arins,"21/7,21/13",Nikolai A. Klodvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sigurd Sørheim,,Sebastian Kristiansen,"21/13,21/16",Sigurd Sørheim,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sigurd Sørheim,,Mikael Gravdal,"21/11,21/10",Sigurd Sørheim,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Sebastian Kristiansen,"18/21,21/18,21/12",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sebastian Kristiansen,,Mikael Gravdal,"21/7,21/14",Sebastian Kristiansen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Sigurd Sørheim,"21/15,15/21,25/23",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Himanshu Dubasi,,Mikael Gravdal,"21/12,14/21,21/12",Himanshu Dubasi,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Mathias Emil Rong Kårstad,,Alonso Dell’Acqua,"21/7,21/9",Mathias Emil Rong Kårstad,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Julia Merkesvik,,Sofie Bjelke Samuelsen,"21/16,21/13",Julia Merkesvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Julia Merkesvik,,Marie Fimreite Håpoldøy,"21/14,15/21,21/11",Julia Merkesvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Sofie Bjelke Samuelsen,,Melissa Bjorøy Aspevik,"21/11,21/8",Sofie Bjelke Samuelsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Nandini Karumuri,,Vilde Blix,"21/5,21/6",Nandini Karumuri,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Marie Fimreite Håpoldøy,,Alva Drønen,"21/8,21/11",Marie Fimreite Håpoldøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Alva Drønen,,Vilde Blix,"21/9,21/4",Alva Drønen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Marie Fimreite Håpoldøy,,Nandini Karumuri,"21/6,21/12",Marie Fimreite Håpoldøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Marie Fimreite Håpoldøy,,Vilde Blix,"21/3,21/3",Marie Fimreite Håpoldøy,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Alva Drønen,,Nandini Karumuri,"22/20,21/18",Alva Drønen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Julia Merkesvik,,Selen Ana Lasmina,"21/6,21/15",Julia Merkesvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Viktorija Reke,,Selen Ana Lasmina,"21/16,21/10",Viktorija Reke,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,,Julia Merkesvik,,Viktorija Reke,"21/12,21/8",Julia Merkesvik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Sofie Bjelke Samuelsen,Mari Westad Ruud,Julia Merkesvik,Marie Fimreite Håpoldøy,"21/15,14/21,21/12",Sofie Bjelke Samuelsen,Mari Westad Ruud
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Ole Kristian Lie,"21/16,16/21,21/19",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Heine Lam Nybakk,"20/22,21/18,21/16",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Åsmund Sundal-Gjerdevik,,Patrik Toftevåg-nesset,"21/18,21/12",Åsmund Sundal-Gjerdevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Pranav Tehlan,"21/14,21/16",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Pranav Tehlan,,Patrik Toftevåg-nesset,"21/16,21/9",Pranav Tehlan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Åsmund Sundal-Gjerdevik,"21/8,21/12",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Patrik Toftevåg-nesset,"21/16,21/12",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Pranav Tehlan,,Åsmund Sundal-Gjerdevik,"21/11,21/12",Pranav Tehlan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Sindre Gjuvsland,,Johannes Tobiassen,"21/13,21/13",Sindre Gjuvsland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Tingyu Zhang,"21/10,21/8",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Johannes Tobiassen,,Tingyu Zhang,"21/19,21/12",Johannes Tobiassen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Sindre Gjuvsland,"21/19,21/17",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Johannes Tobiassen,"21/14,21/9",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Sindre Gjuvsland,,Tingyu Zhang,"21/16,21/13",Sindre Gjuvsland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Herman Kolstø,,Eram Jafer Ali Hassen,"21/8,21/8",Herman Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Heine Lam Nybakk,,Eram Jafer Ali Hassen,"21/10,21/10",Heine Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Heine Lam Nybakk,,Herman Kolstø,"21/11,21/19",Heine Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Ole Kristian Lie,"21/16,16/21,21/19",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Heine Lam Nybakk,"20/22,21/18,21/16",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Åsmund Sundal-Gjerdevik,,Patrik Toftevåg-nesset,"21/18,21/12",Åsmund Sundal-Gjerdevik,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Pranav Tehlan,"21/14,21/16",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Pranav Tehlan,,Patrik Toftevåg-nesset,"21/16,21/9",Pranav Tehlan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Åsmund Sundal-Gjerdevik,"21/8,21/12",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Jakob Langeland Risa,,Patrik Toftevåg-nesset,"21/16,21/12",Jakob Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Pranav Tehlan,,Åsmund Sundal-Gjerdevik,"21/11,21/12",Pranav Tehlan,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Sindre Gjuvsland,,Johannes Tobiassen,"21/13,21/13",Sindre Gjuvsland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Tingyu Zhang,"21/10,21/8",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Johannes Tobiassen,,Tingyu Zhang,"21/19,21/12",Johannes Tobiassen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Sindre Gjuvsland,"21/19,21/17",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ole Kristian Lie,,Johannes Tobiassen,"21/14,21/9",Ole Kristian Lie,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Sindre Gjuvsland,,Tingyu Zhang,"21/16,21/13",Sindre Gjuvsland,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Herman Kolstø,,Eram Jafer Ali Hassen,"21/8,21/8",Herman Kolstø,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Heine Lam Nybakk,,Eram Jafer Ali Hassen,"21/10,21/10",Heine Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Heine Lam Nybakk,,Herman Kolstø,"21/11,21/19",Heine Lam Nybakk,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Linnea Holmedal,,Maria Botcharova Ellingsen,"21/10,21/15",Linnea Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Linnea Holmedal,,Oline Langeland Risa,"21/6,21/9",Linnea Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Linnea Holmedal,,Arathija Anton Reginold,"21/10,21/11",Linnea Holmedal,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Oline Langeland Risa,,Arathija Anton Reginold,"21/12,21/12",Oline Langeland Risa,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Juli Helen Johansen Klungtveit,,Ronija Eileen Evensen,"21/10,21/16",Juli Helen Johansen Klungtveit,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Maria Botcharova Ellingsen,,Melinda Jude,"21/12,21/4",Maria Botcharova Ellingsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Maria Botcharova Ellingsen,,Ronija Eileen Evensen,"21/4,21/7",Maria Botcharova Ellingsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Akarija Anton Reginold,,Melinda Jude,"21/6,21/5",Akarija Anton Reginold,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Juli Helen Johansen Klungtveit,,Melinda Jude,"21/15,21/9",Juli Helen Johansen Klungtveit,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Maria Botcharova Ellingsen,,Akarija Anton Reginold,"18/21,22/20,21/15",Maria Botcharova Ellingsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Ronija Eileen Evensen,,Melinda Jude,"26/24,21/16",Ronija Eileen Evensen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Juli Helen Johansen Klungtveit,,Akarija Anton Reginold,"21/16,21/11",Juli Helen Johansen Klungtveit,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Akarija Anton Reginold,,Ronija Eileen Evensen,"21/11,21/7",Akarija Anton Reginold,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,,Maria Botcharova Ellingsen,,Juli Helen Johansen Klungtveit,"21/18,21/17",Maria Botcharova Ellingsen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Fabian Nelson,Simon Andrés Vasquez Frisnes,Julian Økland Henriksen,Martin Våge Sætersdal,"21/11,21/16",Fabian Nelson,Simon Andrés Vasquez Frisnes
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Thomas Lam Nybakk,Håvard Lie Foldnes,Patrik Toftevåg-nesset,Johannes Tobiassen,"22/20,21/19",Thomas Lam Nybakk,Håvard Lie Foldnes
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Patrik Toftevåg-nesset,Johannes Tobiassen,Julian Økland Henriksen,Martin Våge Sætersdal,"21/19,21/14",Patrik Toftevåg-nesset,Johannes Tobiassen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Fabian Nelson,Simon Andrés Vasquez Frisnes,Thomas Lam Nybakk,Håvard Lie Foldnes,"21/19,21/17",Fabian Nelson,Simon Andrés Vasquez Frisnes
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Thomas Lam Nybakk,Håvard Lie Foldnes,Julian Økland Henriksen,Martin Våge Sætersdal,"21/15,21/19",Thomas Lam Nybakk,Håvard Lie Foldnes
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Fabian Nelson,Simon Andrés Vasquez Frisnes,Patrik Toftevåg-nesset,Johannes Tobiassen,"21/15,21/14",Fabian Nelson,Simon Andrés Vasquez Frisnes
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Juli Helen Johansen Klungtveit,Oline Langeland Risa,Anna Fitjar Hjelle,Hildegunn Olsen Aadland,"21/2,21/4",Juli Helen Johansen Klungtveit,Oline Langeland Risa
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Akarija Anton Reginold,Arathija Anton Reginold,Anna Fitjar Hjelle,Hildegunn Olsen Aadland,"21/5,21/4",Akarija Anton Reginold,Arathija Anton Reginold
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Akarija Anton Reginold,Arathija Anton Reginold,Juli Helen Johansen Klungtveit,Oline Langeland Risa,"21/18,17/21,21/17",Akarija Anton Reginold,Arathija Anton Reginold
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,,Erle Sofie Andersen,,Tora Svennevik,"16/21,21/19,21/12",Erle Sofie Andersen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,,Erle Sofie Andersen,,Tora Svennevik,"16/21,21/19,21/12",Erle Sofie Andersen,
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Åsmund Svennevik,Tora Svennevik,Marius Bergo Nielsen,Peder Fjeldså Frostad,"21/9,21/4",Åsmund Svennevik,Tora Svennevik
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Sebastian Kristiansen,Sigurd Sørheim,Marius Bergo Nielsen,Peder Fjeldså Frostad,"22/20,21/11",Sebastian Kristiansen,Sigurd Sørheim
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Jonas Mallesvik Aarvik,Liam Andre Rasmussen,Åsmund Svennevik,Tora Svennevik,"21/18,21/18",Jonas Mallesvik Aarvik,Liam Andre Rasmussen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Jonas Mallesvik Aarvik,Liam Andre Rasmussen,Marius Bergo Nielsen,Peder Fjeldså Frostad,"21/11,21/18",Jonas Mallesvik Aarvik,Liam Andre Rasmussen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Jonas Mallesvik Aarvik,Liam Andre Rasmussen,Sebastian Kristiansen,Sigurd Sørheim,"21/18,21/13",Jonas Mallesvik Aarvik,Liam Andre Rasmussen
-2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Åsmund Svennevik,Tora Svennevik,Sebastian Kristiansen,Sigurd Sørheim,"21/13,21/13",Åsmund Svennevik,Tora Svennevik
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Thomas Barth,,Andreas Holmedal,"21/19,21/19",Thomas Barth,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Andreas Holmedal,,Bharath Kumar Balasingam,"21/8,21/16",Andreas Holmedal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Thomas Barth,,Keveen Kumar Balasingam,"21/17,21/8",Thomas Barth,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Keveen Kumar Balasingam,,Vetle Vinnes Bråten,"21/19,21/16",Keveen Kumar Balasingam,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Bharath Kumar Balasingam,,Kristoffer Sveen Hjertholm,"21/23,21/13,21/9",Bharath Kumar Balasingam,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Keveen Kumar Balasingam,,Kristoffer Sveen Hjertholm,"21/17,21/15",Keveen Kumar Balasingam,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Vetle Vinnes Bråten,,Bharath Kumar Balasingam,"21/16,21/17",Vetle Vinnes Bråten,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Bharath Kumar Balasingam,,Keveen Kumar Balasingam,"11/21,21/18,26/24",Bharath Kumar Balasingam,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Kristoffer Sveen Hjertholm,,Vetle Vinnes Bråten,"19/21,21/16,21/12",Kristoffer Sveen Hjertholm,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Andreas Holmedal,,Jonathan Utne Madsøy,"21/10,21/9",Andreas Holmedal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Thomas Barth,,Jonathan Utne Madsøy,"21/5,21/13",Thomas Barth,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN E,Herresingle,,Thomas Barth,,Andreas Holmedal,"21/14,16/21,21/12",Thomas Barth,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Ida Marie Thomassen Stiegler,,Hilde Røssland,"21/16,21/15",Ida Marie Thomassen Stiegler,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Julie Langeland Risa,,Line Klæbo,"21/13,21/8",Julie Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Julie Langeland Risa,,Ida Marie Thomassen Stiegler,"21/13,21/12",Julie Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Nikol Hermansen,,Hilde Røssland,"21/10,21/5",Nikol Hermansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Nikol Hermansen,,Ida Marie Thomassen Stiegler,"21/12,21/10",Nikol Hermansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Line Klæbo,,Hilde Røssland,"21/19,21/15",Line Klæbo,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Line Klæbo,,Ida Marie Thomassen Stiegler,"21/13,21/9",Line Klæbo,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Nikol Hermansen,,Julie Langeland Risa,"21/16,21/16",Nikol Hermansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Julie Langeland Risa,,Hilde Røssland,"21/15,21/12",Julie Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damesingle,,Nikol Hermansen,,Line Klæbo,"21/11,21/7",Nikol Hermansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,Sindre Gjuvsland,Ole Kristian Lie,"21/15,21/13",Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Andreas Holmedal,Kenneth Larsen,Sondre Lie Foldnes,Heine Lam Nybakk,"21/7,21/3",Andreas Holmedal,Kenneth Larsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,Sondre Lie Foldnes,Heine Lam Nybakk,"21/16,21/15",Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Sindre Gjuvsland,Ole Kristian Lie,"21/19,17/21,21/15",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,"21/15,21/18",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Andreas Holmedal,Kenneth Larsen,Sindre Gjuvsland,Ole Kristian Lie,"21/5,21/8",Andreas Holmedal,Kenneth Larsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Andreas Holmedal,Kenneth Larsen,Jonathan Utne Madsøy,Kristoffer Sveen Hjertholm,"21/8,21/11",Andreas Holmedal,Kenneth Larsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Keveen Kumar Balasingam,Jakob Langeland Risa,Sondre Lie Foldnes,Heine Lam Nybakk,"21/8,21/16",Keveen Kumar Balasingam,Jakob Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Sindre Gjuvsland,Ole Kristian Lie,Sondre Lie Foldnes,Heine Lam Nybakk,"21/17,21/19",Sindre Gjuvsland,Ole Kristian Lie
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Herredouble,Andreas Holmedal,Kenneth Larsen,Keveen Kumar Balasingam,Jakob Langeland Risa,"21/11,21/19",Andreas Holmedal,Kenneth Larsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damedouble,Linnea Holmedal,Elise  Holmedal,Julie Albrektsen,Astrid Salthella,"21/6,21/6",Linnea Holmedal,Elise  Holmedal
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damedouble,Nikol Hermansen,Dina Høl Bugge,Ida Marie Thomassen Stiegler,Hilde Røssland,"21/7,21/9",Nikol Hermansen,Dina Høl Bugge
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damedouble,Linnea Holmedal,Elise  Holmedal,Ida Marie Thomassen Stiegler,Hilde Røssland,"21/7,21/9",Linnea Holmedal,Elise  Holmedal
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damedouble,Nikol Hermansen,Dina Høl Bugge,Julie Albrektsen,Astrid Salthella,"21/8,21/5",Nikol Hermansen,Dina Høl Bugge
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damedouble,Linnea Holmedal,Elise  Holmedal,Nikol Hermansen,Dina Høl Bugge,"21/15,21/15",Linnea Holmedal,Elise  Holmedal
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Damedouble,Julie Albrektsen,Astrid Salthella,Ida Marie Thomassen Stiegler,Hilde Røssland,"18/21,21/12,24/22",Julie Albrektsen,Astrid Salthella
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Hilde Røssland,Morten Straume,"21/16,21/17",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Ole Kristian Lie,Arathija Anton Reginold,Eileen Linda Shamim,Martin Feussner,"21/15,19/21,21/17",Ole Kristian Lie,Arathija Anton Reginold
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Eileen Linda Shamim,Martin Feussner,"21/15,21/18",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Keveen Kumar Balasingam,Julie Langeland Risa,Ole Kristian Lie,Arathija Anton Reginold,"26/24,21/17",Keveen Kumar Balasingam,Julie Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Ingrid Teistung,Andreas Deinboll,Nikol Hermansen,Sondre Lie Foldnes,"12/21,21/15,21/18",Ingrid Teistung,Andreas Deinboll
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Hilde Røssland,Morten Straume,Ingrid Teistung,Andreas Deinboll,"21/15,12/21,21/17",Hilde Røssland,Morten Straume
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN A,Mixeddouble,Hilde Røssland,Morten Straume,Nikol Hermansen,Sondre Lie Foldnes,"20/22,26/24,21/17",Hilde Røssland,Morten Straume
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Morten Straume,,Sondre Lie Foldnes,"21/15,21/15",Morten Straume,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Sondre Lie Foldnes,,Andreas Deinboll,"21/14,21/12",Sondre Lie Foldnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Andreas Deinboll,,Arun Kumar Sharma,"21/14,14/21,21/16",Andreas Deinboll,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Arun Kumar Sharma,,Sondre Lie Foldnes,"19/21,21/15,21/12",Arun Kumar Sharma,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Morten Straume,,Christian Lund Haugen,"21/10,21/9",Morten Straume,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Morten Straume,,Jack Oterhals,"21/13,21/11",Morten Straume,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herresingle,,Christian Lund Haugen,,Jack Oterhals,"21/11,21/17",Christian Lund Haugen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Ingrid Teistung,Andreas Deinboll,Jone Mortensen,Edvin Nordbø,"21/16,21/15",Ingrid Teistung,Andreas Deinboll
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Helge Økland,Ståle Skorpholm,Arun Kumar Sharma,Peter Schuster,"23/21,22/20",Helge Økland,Ståle Skorpholm
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Helge Økland,Ståle Skorpholm,Jone Mortensen,Edvin Nordbø,"21/15,21/13",Helge Økland,Ståle Skorpholm
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Ingrid Teistung,Andreas Deinboll,Ashwin Kumar Rao,Rushikesh Sane,"21/13,21/17",Ingrid Teistung,Andreas Deinboll
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Jone Mortensen,Edvin Nordbø,Ashwin Kumar Rao,Rushikesh Sane,"21/9,21/17",Jone Mortensen,Edvin Nordbø
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Ingrid Teistung,Andreas Deinboll,Arun Kumar Sharma,Peter Schuster,"21/15,21/17",Ingrid Teistung,Andreas Deinboll
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Jone Mortensen,Edvin Nordbø,Arun Kumar Sharma,Peter Schuster,"23/21,14/21,21/19",Jone Mortensen,Edvin Nordbø
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Ashwin Kumar Rao,Rushikesh Sane,Helge Økland,Ståle Skorpholm,"21/14,18/21,21/16",Ashwin Kumar Rao,Rushikesh Sane
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Ingrid Teistung,Andreas Deinboll,Helge Økland,Ståle Skorpholm,"21/18,21/17",Ingrid Teistung,Andreas Deinboll
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Herredouble,Arun Kumar Sharma,Peter Schuster,Ashwin Kumar Rao,Rushikesh Sane,"21/17,15/21,21/18",Arun Kumar Sharma,Peter Schuster
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Mixeddouble,Jone Mortensen,Elise  Holmedal,Ida Marie Thomassen Stiegler,Ståle Skorpholm,"21/15,16/21,21/18",Jone Mortensen,Elise  Holmedal
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Mixeddouble,Edvin Nordbø,Cecilie Mikkelsen,Jone Mortensen,Elise  Holmedal,"21/17,21/17",Edvin Nordbø,Cecilie Mikkelsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN B,Mixeddouble,Edvin Nordbø,Cecilie Mikkelsen,Ida Marie Thomassen Stiegler,Ståle Skorpholm,"21/16,21/11",Edvin Nordbø,Cecilie Mikkelsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Pål Kolstø,,Morten Solsvik,"21/12,14/21,21/10",Pål Kolstø,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Vidar Korsnes,,Shivu Sidde Gowda,"21/6,21/6",Vidar Korsnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Morten Solsvik,,Eirik Ekerhovd,"23/21,21/15",Morten Solsvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Vidar Korsnes,,Eirik Ekerhovd,"21/16,21/14",Vidar Korsnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Morten Solsvik,,Vidar Korsnes,"21/18,21/7",Morten Solsvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Eirik Ekerhovd,,Shivu Sidde Gowda,"21/2,21/1",Eirik Ekerhovd,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Morten Solsvik,,Shivu Sidde Gowda,"21/2,21/1",Morten Solsvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Leiv Arne Risa,,Lars Lauvik,"22/20,21/16",Leiv Arne Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Leiv Arne Risa,,Espen Søvik,"20/22,24/22,21/18",Leiv Arne Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Pål Kolstø,,Lars Lauvik,"21/11,21/13",Pål Kolstø,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Pål Kolstø,,Espen Søvik,"21/11,21/12",Pål Kolstø,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Pål Kolstø,,Leiv Arne Risa,"21/15,21/17",Pål Kolstø,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herresingle,,Espen Søvik,,Lars Lauvik,"21/12,22/20",Espen Søvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Ragnvald Berge,Robert Eriksen,Morten Solsvik,Eirik Ekerhovd,"21/14,18/21,21/18",Ragnvald Berge,Robert Eriksen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Harald Søvik,Espen Søvik,Vidar Korsnes,Olve Vangdal,"21/12,17/21,21/10",Harald Søvik,Espen Søvik
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Vidar Korsnes,Olve Vangdal,"21/6,21/17",Morten Solsvik,Eirik Ekerhovd
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Morten Solsvik,Eirik Ekerhovd,Harald Søvik,Espen Søvik,"21/15,21/18",Morten Solsvik,Eirik Ekerhovd
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Anders Heldal,Frode Clausen,William Wilsone Walker,Erik Moe,"21/10,21/17",Anders Heldal,Frode Clausen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Ragnvald Berge,Robert Eriksen,Anders Heldal,Frode Clausen,"21/23,21/17,21/11",Ragnvald Berge,Robert Eriksen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Herredouble,Ragnvald Berge,Robert Eriksen,William Wilsone Walker,Erik Moe,"21/12,21/19",Ragnvald Berge,Robert Eriksen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Mixeddouble,Ingunn Vie Skare,Arun Kumar Sharma,Turid Gråberg,Anders Eimstad,"15/21,22/20,21/4",Ingunn Vie Skare,Arun Kumar Sharma
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Mixeddouble,Ingunn Vie Skare,Arun Kumar Sharma,Line Klæbo,Magnus Severinsen,"21/11,21/9",Ingunn Vie Skare,Arun Kumar Sharma
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN C,Mixeddouble,Turid Gråberg,Anders Eimstad,Siv Dyrkolbotn,Darren Michael Aron White,"21/17,24/22",Turid Gråberg,Anders Eimstad
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Johan Gravdal,,Einar Morgan Utne,"21/15,21/16",Johan Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Johan Gravdal,,Olve Vangdal,"21/13,21/10",Johan Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Arnt Ole Haukanes,,Simen Prestnes Fosså,"21/17,21/10",Arnt Ole Haukanes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Einar Morgan Utne,,Filip Træet Ellingsen,"21/12,21/13",Einar Morgan Utne,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Simen Prestnes Fosså,,Jakob Lønningen,"25/23,21/10",Simen Prestnes Fosså,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Arnt Ole Haukanes,,Filip Træet Ellingsen,"21/6,21/10",Arnt Ole Haukanes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Arnt Ole Haukanes,,Jakob Lønningen,"21/15,21/8",Arnt Ole Haukanes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Simen Prestnes Fosså,,Einar Morgan Utne,"21/16,14/21,21/12",Simen Prestnes Fosså,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Einar Morgan Utne,,Jakob Lønningen,"21/9,21/11",Einar Morgan Utne,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Simen Prestnes Fosså,,Filip Træet Ellingsen,"21/16,21/12",Simen Prestnes Fosså,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Jakob Lønningen,,Filip Træet Ellingsen,"21/10,22/20",Jakob Lønningen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Einar Morgan Utne,,Arnt Ole Haukanes,"21/12,21/13",Einar Morgan Utne,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Magne Abelsen,,Magnus Severinsen,"21/17,14/21,21/16",Magne Abelsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Magnus Severinsen,,Olve Vangdal,"8/21,21/11,21/15",Magnus Severinsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Olve Vangdal,,Magne Abelsen,"21/8,21/16",Olve Vangdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Svein Hjertholm,,Hans Olav Femsteinevik,"20/22,21/17,21/18",Svein Hjertholm,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Johan Gravdal,,Brand Ivar Hetland Bauman,"21/8,21/12",Johan Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Svein Hjertholm,,Brand Ivar Hetland Bauman,"21/7,21/10",Svein Hjertholm,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Johan Gravdal,,Hans Olav Femsteinevik,"21/7,21/14",Johan Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Johan Gravdal,,Svein Hjertholm,"21/17,21/14",Johan Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herresingle,,Hans Olav Femsteinevik,,Brand Ivar Hetland Bauman,"21/16,21/13",Hans Olav Femsteinevik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herredouble,Hans Olav Femsteinevik,Stian Skarvatun,Arnt Ole Haukanes,Roger Johansen,"21/17,21/17",Hans Olav Femsteinevik,Stian Skarvatun
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herredouble,Svein Hjertholm,Einar Morgan Utne,Jakob Lønningen,Simen Prestnes Fosså,"21/15,21/19",Svein Hjertholm,Einar Morgan Utne
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herredouble,Arnt Ole Haukanes,Roger Johansen,Jakob Lønningen,Simen Prestnes Fosså,"21/18,21/13",Arnt Ole Haukanes,Roger Johansen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herredouble,Hans Olav Femsteinevik,Stian Skarvatun,Svein Hjertholm,Einar Morgan Utne,"21/14,18/21,21/13",Hans Olav Femsteinevik,Stian Skarvatun
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herredouble,Hans Olav Femsteinevik,Stian Skarvatun,Jakob Lønningen,Simen Prestnes Fosså,"21/12,21/13",Hans Olav Femsteinevik,Stian Skarvatun
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Herredouble,Svein Hjertholm,Einar Morgan Utne,Arnt Ole Haukanes,Roger Johansen,"21/16,21/18",Svein Hjertholm,Einar Morgan Utne
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Damedouble,Miriam Mikkelsen,Cecilie Mikkelsen,Lena Nilsen,Turid Gråberg,"21/7,21/18",Miriam Mikkelsen,Cecilie Mikkelsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Damedouble,Malin Søviknes Fotland,Maria Lillestøl Duinker,Lena Nilsen,Turid Gråberg,"21/15,19/21,21/15",Malin Søviknes Fotland,Maria Lillestøl Duinker
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Damedouble,Miriam Mikkelsen,Cecilie Mikkelsen,Malin Søviknes Fotland,Maria Lillestøl Duinker,"21/16,21/11",Miriam Mikkelsen,Cecilie Mikkelsen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Mixeddouble,Lena Nilsen,Anders Heldal,Astrid Salthella,Roger Johansen,"16/21,21/16,21/15",Lena Nilsen,Anders Heldal
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Mixeddouble,Julie Albrektsen,Arnt Ole Haukanes,Lena Nilsen,Anders Heldal,"21/11,21/16",Julie Albrektsen,Arnt Ole Haukanes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,SEN D,Mixeddouble,Julie Albrektsen,Arnt Ole Haukanes,Astrid Salthella,Roger Johansen,"21/18,18/21,21/17",Julie Albrektsen,Arnt Ole Haukanes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Herredouble,Naman Rao,Noris Ekanger,Mariam Sheikh,Jenny Røssland,"21/13,21/12",Naman Rao,Noris Ekanger
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Herredouble,Mariam Sheikh,Jenny Røssland,Sofie Fauskanger Hauso,Maja Lucy Panek,"22/20,21/8",Mariam Sheikh,Jenny Røssland
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 A,Herredouble,Naman Rao,Noris Ekanger,Sofie Fauskanger Hauso,Maja Lucy Panek,"21/12,21/16",Naman Rao,Noris Ekanger
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noris Ekanger,,Leon Boge-Sørensen,"21/11,21/12",Noris Ekanger,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Naman Rao,,Alex Birkeland,"21/11,21/4",Naman Rao,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noris Ekanger,,Naman Rao,"21/16,21/17",Noris Ekanger,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leon Boge-Sørensen,,Oliver Dagsland Bjørke,"21/13,21/12",Leon Boge-Sørensen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noris Ekanger,,Oliver Dagsland Bjørke,"21/5,21/2",Noris Ekanger,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leon Boge-Sørensen,,Alex Birkeland,"21/12,21/9",Leon Boge-Sørensen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noris Ekanger,,Alex Birkeland,"21/5,21/8",Noris Ekanger,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Naman Rao,,Oliver Dagsland Bjørke,"21/10,21/13",Naman Rao,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leon Boge-Sørensen,,Naman Rao,"23/21,21/17",Leon Boge-Sørensen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Oliver Dagsland Bjørke,,Alex Birkeland,"21/16,21/11",Oliver Dagsland Bjørke,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noah B.Johansen,,Philip Espeland Ådlandsvik,"21/11,21/10",Noah B.Johansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leo-Zacharias Christianson,,Torbjørn Lier Andersen,"21/10,21/15",Leo-Zacharias Christianson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Benjamin Drønen Haugland,,Rayansh Dubasi1,"21/14,21/19",Benjamin Drønen Haugland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noah B.Johansen,,Rayansh Dubasi1,"21/16,21/10",Noah B.Johansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leo-Zacharias Christianson,,Philip Espeland Ådlandsvik,"21/11,21/7",Leo-Zacharias Christianson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Benjamin Drønen Haugland,,Torbjørn Lier Andersen,"18/21,21/16,21/14",Benjamin Drønen Haugland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noah B.Johansen,,Torbjørn Lier Andersen,"21/16,21/13",Noah B.Johansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Philip Espeland Ådlandsvik,,Rayansh Dubasi1,"21/11,18/21,21/18",Philip Espeland Ådlandsvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leo-Zacharias Christianson,,Benjamin Drønen Haugland,"22/20,21/19",Leo-Zacharias Christianson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Noah B.Johansen,,Benjamin Drønen Haugland,"21/16,21/13",Noah B.Johansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Torbjørn Lier Andersen,,Philip Espeland Ådlandsvik,"21/12,21/19",Torbjørn Lier Andersen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leo-Zacharias Christianson,,Rayansh Dubasi1,"21/17,31/5",Leo-Zacharias Christianson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Leo-Zacharias Christianson,,Noah B.Johansen,"19/21,21/7,22/20",Leo-Zacharias Christianson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Benjamin Drønen Haugland,,Philip Espeland Ådlandsvik,"21/10,21/17",Benjamin Drønen Haugland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Herresingle,,Torbjørn Lier Andersen,,Rayansh Dubasi1,"20/22,21/11,21/14",Torbjørn Lier Andersen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Mariam Sheikh,,Linnea Gjertine Kvamme,"21/18,21/8",Mariam Sheikh,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Adriana Trellevik-Johannessen,,Indie Teien Stangeland,"21/10,21/13",Adriana Trellevik-Johannessen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Mariam Sheikh,,Adriana Trellevik-Johannessen,"16/21,21/12,21/10",Mariam Sheikh,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Sofie Fauskanger Hauso,,Linnea Gjertine Kvamme,"21/17,21/13",Sofie Fauskanger Hauso,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Mariam Sheikh,,Sofie Fauskanger Hauso,"17/21,21/13,21/19",Mariam Sheikh,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Linnea Gjertine Kvamme,,Indie Teien Stangeland,"21/14,21/18",Linnea Gjertine Kvamme,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Mariam Sheikh,,Indie Teien Stangeland,"21/10,21/11",Mariam Sheikh,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Adriana Trellevik-Johannessen,,Sofie Fauskanger Hauso,"23/21,19/21,21/18",Adriana Trellevik-Johannessen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Linnea Gjertine Kvamme,,Adriana Trellevik-Johannessen,"21/17,21/19",Linnea Gjertine Kvamme,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Sofie Fauskanger Hauso,,Indie Teien Stangeland,"21/12,21/11",Sofie Fauskanger Hauso,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Jenny Røssland,,Haasini Karumuri,"21/11,21/8",Jenny Røssland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Amalie Langeland Risa,,Nicoline Marie Christiansdatter,"21/7,21/5",Amalie Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Jenny Røssland,,Nicoline Marie Christiansdatter,"21/6,21/13",Jenny Røssland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Maja Lucy Panek,,Haasini Karumuri,"21/16,22/20",Maja Lucy Panek,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Jenny Røssland,,Maja Lucy Panek,"21/13,21/16",Jenny Røssland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Haasini Karumuri,,Amalie Langeland Risa,"21/10,21/19",Haasini Karumuri,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Jenny Røssland,,Amalie Langeland Risa,"21/16,14/21,21/18",Jenny Røssland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Maja Lucy Panek,,Nicoline Marie Christiansdatter,"21/12,21/8",Maja Lucy Panek,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Haasini Karumuri,,Nicoline Marie Christiansdatter,"21/15,21/11",Haasini Karumuri,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U11 B,Damesingle,,Amalie Langeland Risa,,Maja Lucy Panek,"21/14,21/10",Amalie Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Even Øyen Selsaas,,Alexander Tobota-Johannessen,"21/18,17/21,21/18",Even Øyen Selsaas,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Ethan Soham Sharma,,Rafael Niroshan,"21/13,21/15",Ethan Soham Sharma,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Simen Våge Sætersdal,"21/9,21/13",Alexander Tobota-Johannessen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Rafael Niroshan,"21/15,21/12",Alexander Tobota-Johannessen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Ethan Soham Sharma,,Thorben Mikal Ekren Ludvig,"21/12,21/15",Ethan Soham Sharma,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Thorben Mikal Ekren Ludvig,,Rafael Niroshan,"21/17,21/19",Thorben Mikal Ekren Ludvig,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Ethan Soham Sharma,,Simen Våge Sætersdal,"21/16,21/7",Ethan Soham Sharma,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Rafael Niroshan,,Simen Våge Sætersdal,"21/18,21/19",Rafael Niroshan,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Thorben Mikal Ekren Ludvig,"21/13,21/17",Alexander Tobota-Johannessen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Alexander Tobota-Johannessen,,Ethan Soham Sharma,"21/17,21/18",Alexander Tobota-Johannessen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Thorben Mikal Ekren Ludvig,,Simen Våge Sætersdal,"19/21,21/7,21/19",Thorben Mikal Ekren Ludvig,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Theo Dyrkolbotn Søvik,,Markus Ekerhovd Sylta,"21/17,24/22",Theo Dyrkolbotn Søvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Jatin Yalamanchili,,Max Straume,"21/5,21/16",Jatin Yalamanchili,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Markus Ekerhovd Sylta,,Max Straume,"21/11,21/10",Markus Ekerhovd Sylta,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Even Øyen Selsaas,,Theo Dyrkolbotn Søvik,"21/4,21/17",Even Øyen Selsaas,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Even Øyen Selsaas,,Markus Ekerhovd Sylta,"21/9,21/3",Even Øyen Selsaas,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Jatin Yalamanchili,,Theo Dyrkolbotn Søvik,"21/10,21/8",Jatin Yalamanchili,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Jatin Yalamanchili,,Markus Ekerhovd Sylta,"21/19,21/13",Jatin Yalamanchili,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Even Øyen Selsaas,,Max Straume,"21/10,21/8",Even Øyen Selsaas,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Max Straume,,Theo Dyrkolbotn Søvik,"9/21,21/7,21/16",Max Straume,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herresingle,,Even Øyen Selsaas,,Jatin Yalamanchili,"21/10,21/12",Even Øyen Selsaas,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herredouble,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,Theo Dyrkolbotn Søvik,Rafael Niroshan,"21/11,18/21,21/11",Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herredouble,Jatin Yalamanchili,Ethan Soham Sharma,Simen Våge Sætersdal,Max Straume,"21/11,21/11",Jatin Yalamanchili,Ethan Soham Sharma
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herredouble,Jatin Yalamanchili,Ethan Soham Sharma,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,"21/18,21/16",Jatin Yalamanchili,Ethan Soham Sharma
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herredouble,Theo Dyrkolbotn Søvik,Rafael Niroshan,Simen Våge Sætersdal,Max Straume,"21/19,21/10",Theo Dyrkolbotn Søvik,Rafael Niroshan
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herredouble,Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig,Simen Våge Sætersdal,Max Straume,"21/14,21/16",Markus Ekerhovd Sylta,Thorben Mikal Ekren Ludvig
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 A,Herredouble,Jatin Yalamanchili,Ethan Soham Sharma,Theo Dyrkolbotn Søvik,Rafael Niroshan,"23/25,21/6,21/11",Jatin Yalamanchili,Ethan Soham Sharma
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,Samuel Gravdal,,David Landøy,"21/16,17/21,21/13",Samuel Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,David Landøy,,Finn Stangenberg,"21/7,21/11",David Landøy,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,Finn Stangenberg,,Tobias Emil Fluge-Instebø,"21/12,21/13",Finn Stangenberg,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,David Landøy,,Tobias Emil Fluge-Instebø,"21/12,21/11",David Landøy,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,Samuel Gravdal,,Theodor Larsen Halln,"21/4,21/6",Samuel Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,William Økland Henriksen,,Jakob Kolbeinsvik Nordeide,"21/12,21/10",William Økland Henriksen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,William Økland Henriksen,,Theodor Larsen Halln,"21/10,21/11",William Økland Henriksen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,Samuel Gravdal,,Jakob Kolbeinsvik Nordeide,"21/6,21/6",Samuel Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,Theodor Larsen Halln,,Jakob Kolbeinsvik Nordeide,"12/21,21/7,21/11",Theodor Larsen Halln,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herresingle,,Samuel Gravdal,,William Økland Henriksen,"21/17,21/8",Samuel Gravdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Damesingle,,Linnea Alexandra Lilleskare,,Elisabeth Lie,"19/21,21/17,21/14",Linnea Alexandra Lilleskare,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Damesingle,,Emma Gundegjerde,,Jenny Fagerbakke Teigen,"21/11,21/10",Emma Gundegjerde,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Damesingle,,Elisabeth Lie,,Emma Gundegjerde,"21/7,21/12",Elisabeth Lie,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Damesingle,,Linnea Alexandra Lilleskare,,Luz Selene Bjørsvik,"21/5,21/10",Linnea Alexandra Lilleskare,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Damesingle,,Linnea Alexandra Lilleskare,,Jenny Fagerbakke Teigen,"21/6,21/6",Linnea Alexandra Lilleskare,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Damesingle,,Jenny Fagerbakke Teigen,,Luz Selene Bjørsvik,"22/20,21/15",Jenny Fagerbakke Teigen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herredouble,Hedda Otterå Bjånesøy,Jenny Fagerbakke Teigen,Finn Stangenberg,William Økland Henriksen,"23/21,19/21,21/10",Hedda Otterå Bjånesøy,Jenny Fagerbakke Teigen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herredouble,Luz Selene Bjørsvik,Linnea Alexandra Lilleskare,Finn Stangenberg,William Økland Henriksen,"21/13,21/5",Luz Selene Bjørsvik,Linnea Alexandra Lilleskare
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U13 B,Herredouble,Luz Selene Bjørsvik,Linnea Alexandra Lilleskare,Hedda Otterå Bjånesøy,Jenny Fagerbakke Teigen,"15/21,21/8,21/16",Luz Selene Bjørsvik,Linnea Alexandra Lilleskare
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Fabian Nelson,"21/17,21/9",Simon Andrés Vasquez Frisnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Thomas Lam Nybakk,,Mio Skuterud Stenseth,"21/17,21/14",Thomas Lam Nybakk,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Julian Økland Henriksen,"21/13,21/10",Simon Andrés Vasquez Frisnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Julian Økland Henriksen,,Mio Skuterud Stenseth,"21/15,19/21,21/18",Julian Økland Henriksen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Thomas Lam Nybakk,"21/13,21/13",Simon Andrés Vasquez Frisnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Simon Andrés Vasquez Frisnes,,Mio Skuterud Stenseth,"21/9,21/7",Simon Andrés Vasquez Frisnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Thomas Lam Nybakk,,Julian Økland Henriksen,"21/17,21/13",Thomas Lam Nybakk,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Fabian Nelson,,Martin Våge Sætersdal,"21/14,21/18",Fabian Nelson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Martin Våge Sætersdal,,Håvard Lie Foldnes,"21/18,23/21",Martin Våge Sætersdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Fabian Nelson,,Jonas Mallesvik Aarvik,"21/15,21/11",Fabian Nelson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Martin Våge Sætersdal,,Jonas Mallesvik Aarvik,"21/1,22/20",Martin Våge Sætersdal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Fabian Nelson,,Håvard Lie Foldnes,"221/16,21/16",Fabian Nelson,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Herresingle,,Håvard Lie Foldnes,,Jonas Mallesvik Aarvik,"21/16,21/5",Håvard Lie Foldnes,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damesingle,,Angelina Sharma,,Abigail Niroshan,"21/9,21/9",Angelina Sharma,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damesingle,,Angelina Sharma,,Caroline Ernest,"21/5,21/5",Angelina Sharma,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damesingle,,Abigail Niroshan,,Celinah Jude,"21/11,21/11",Abigail Niroshan,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damesingle,,Abigail Niroshan,,Justé Beinoriuté,"21/13,21/16",Abigail Niroshan,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damesingle,,Justé Beinoriuté,,Celinah Jude,"21/12,21/16",Justé Beinoriuté,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damedouble,Angelina Sharma,Khrithi Yalamanchili,Caroline Ernest,Abigail Niroshan,"21/5,21/11",Angelina Sharma,Khrithi Yalamanchili
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damedouble,Angelina Sharma,Khrithi Yalamanchili,Celinah Jude,Justé Beinoriuté,"21/12,21/15",Angelina Sharma,Khrithi Yalamanchili
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Damedouble,Caroline Ernest,Abigail Niroshan,Celinah Jude,Justé Beinoriuté,"21/18,10/21,22/20",Caroline Ernest,Abigail Niroshan
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 A,Mixeddouble,Thomas Lam Nybakk,Justé Beinoriuté,Elisabeth Lie,Thorben Mikal Ekren Ludvig,"21/11,21/6",Thomas Lam Nybakk,Justé Beinoriuté
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Åsmund Svennevik,,Himanshu Dubasi,"21/13,21/18",Åsmund Svennevik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Himanshu Dubasi,,Mathias Emil Rong Kårstad,"21/18,21/19",Himanshu Dubasi,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Åsmund Svennevik,,Nikolai A. Klodvik,"21/19,21/18",Åsmund Svennevik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Liam Andre Rasmussen,,Mikus Arins,"21/12,21/16",Liam Andre Rasmussen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Åsmund Svennevik,,Mikus Arins,"21/17,21/2",Åsmund Svennevik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Liam Andre Rasmussen,,Nikolai A. Klodvik,"21/14,21/11",Liam Andre Rasmussen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Åsmund Svennevik,,Liam Andre Rasmussen,"21/7,21/6",Åsmund Svennevik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Nikolai A. Klodvik,,Mikus Arins,"21/7,21/13",Nikolai A. Klodvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Sigurd Sørheim,,Sebastian Kristiansen,"21/13,21/16",Sigurd Sørheim,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Sigurd Sørheim,,Mikael Gravdal,"21/11,21/10",Sigurd Sørheim,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Himanshu Dubasi,,Sebastian Kristiansen,"18/21,21/18,21/12",Himanshu Dubasi,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Sebastian Kristiansen,,Mikael Gravdal,"21/7,21/14",Sebastian Kristiansen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Himanshu Dubasi,,Sigurd Sørheim,"21/15,15/21,25/23",Himanshu Dubasi,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Himanshu Dubasi,,Mikael Gravdal,"21/12,14/21,21/12",Himanshu Dubasi,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Herresingle,,Mathias Emil Rong Kårstad,,Alonso Dell’Acqua,"21/7,21/9",Mathias Emil Rong Kårstad,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Julia Merkesvik,,Sofie Bjelke Samuelsen,"21/16,21/13",Julia Merkesvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Julia Merkesvik,,Marie Fimreite Håpoldøy,"21/14,15/21,21/11",Julia Merkesvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Sofie Bjelke Samuelsen,,Melissa Bjorøy Aspevik,"21/11,21/8",Sofie Bjelke Samuelsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Nandini Karumuri,,Vilde Blix,"21/5,21/6",Nandini Karumuri,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Marie Fimreite Håpoldøy,,Alva Drønen,"21/8,21/11",Marie Fimreite Håpoldøy,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Alva Drønen,,Vilde Blix,"21/9,21/4",Alva Drønen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Marie Fimreite Håpoldøy,,Nandini Karumuri,"21/6,21/12",Marie Fimreite Håpoldøy,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Marie Fimreite Håpoldøy,,Vilde Blix,"21/3,21/3",Marie Fimreite Håpoldøy,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Alva Drønen,,Nandini Karumuri,"22/20,21/18",Alva Drønen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Julia Merkesvik,,Selen Ana Lasmina,"21/6,21/15",Julia Merkesvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Viktorija Reke,,Selen Ana Lasmina,"21/16,21/10",Viktorija Reke,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damesingle,,Julia Merkesvik,,Viktorija Reke,"21/12,21/8",Julia Merkesvik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U15 B,Damedouble,Sofie Bjelke Samuelsen,Mari Westad Ruud,Julia Merkesvik,Marie Fimreite Håpoldøy,"21/15,14/21,21/12",Sofie Bjelke Samuelsen,Mari Westad Ruud
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Jakob Langeland Risa,,Ole Kristian Lie,"21/16,16/21,21/19",Jakob Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Ole Kristian Lie,,Heine Lam Nybakk,"20/22,21/18,21/16",Ole Kristian Lie,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Åsmund Sundal-Gjerdevik,,Patrik Toftevåg-nesset,"21/18,21/12",Åsmund Sundal-Gjerdevik,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Jakob Langeland Risa,,Pranav Tehlan,"21/14,21/16",Jakob Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Pranav Tehlan,,Patrik Toftevåg-nesset,"21/16,21/9",Pranav Tehlan,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Jakob Langeland Risa,,Åsmund Sundal-Gjerdevik,"21/8,21/12",Jakob Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Jakob Langeland Risa,,Patrik Toftevåg-nesset,"21/16,21/12",Jakob Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Pranav Tehlan,,Åsmund Sundal-Gjerdevik,"21/11,21/12",Pranav Tehlan,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Sindre Gjuvsland,,Johannes Tobiassen,"21/13,21/13",Sindre Gjuvsland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Ole Kristian Lie,,Tingyu Zhang,"21/10,21/8",Ole Kristian Lie,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Johannes Tobiassen,,Tingyu Zhang,"21/19,21/12",Johannes Tobiassen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Ole Kristian Lie,,Sindre Gjuvsland,"21/19,21/17",Ole Kristian Lie,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Ole Kristian Lie,,Johannes Tobiassen,"21/14,21/9",Ole Kristian Lie,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Sindre Gjuvsland,,Tingyu Zhang,"21/16,21/13",Sindre Gjuvsland,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Herman Kolstø,,Eram Jafer Ali Hassen,"21/8,21/8",Herman Kolstø,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Heine Lam Nybakk,,Eram Jafer Ali Hassen,"21/10,21/10",Heine Lam Nybakk,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herresingle,,Heine Lam Nybakk,,Herman Kolstø,"21/11,21/19",Heine Lam Nybakk,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Linnea Holmedal,,Maria Botcharova Ellingsen,"21/10,21/15",Linnea Holmedal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Linnea Holmedal,,Oline Langeland Risa,"21/6,21/9",Linnea Holmedal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Linnea Holmedal,,Arathija Anton Reginold,"21/10,21/11",Linnea Holmedal,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Oline Langeland Risa,,Arathija Anton Reginold,"21/12,21/12",Oline Langeland Risa,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Juli Helen Johansen Klungtveit,,Ronija Eileen Evensen,"21/10,21/16",Juli Helen Johansen Klungtveit,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Maria Botcharova Ellingsen,,Melinda Jude,"21/12,21/4",Maria Botcharova Ellingsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Maria Botcharova Ellingsen,,Ronija Eileen Evensen,"21/4,21/7",Maria Botcharova Ellingsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Akarija Anton Reginold,,Melinda Jude,"21/6,21/5",Akarija Anton Reginold,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Juli Helen Johansen Klungtveit,,Melinda Jude,"21/15,21/9",Juli Helen Johansen Klungtveit,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Maria Botcharova Ellingsen,,Akarija Anton Reginold,"18/21,22/20,21/15",Maria Botcharova Ellingsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Ronija Eileen Evensen,,Melinda Jude,"26/24,21/16",Ronija Eileen Evensen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Juli Helen Johansen Klungtveit,,Akarija Anton Reginold,"21/16,21/11",Juli Helen Johansen Klungtveit,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Akarija Anton Reginold,,Ronija Eileen Evensen,"21/11,21/7",Akarija Anton Reginold,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damesingle,,Maria Botcharova Ellingsen,,Juli Helen Johansen Klungtveit,"21/18,21/17",Maria Botcharova Ellingsen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herredouble,Fabian Nelson,Simon Andrés Vasquez Frisnes,Julian Økland Henriksen,Martin Våge Sætersdal,"21/11,21/16",Fabian Nelson,Simon Andrés Vasquez Frisnes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herredouble,Thomas Lam Nybakk,Håvard Lie Foldnes,Patrik Toftevåg-nesset,Johannes Tobiassen,"22/20,21/19",Thomas Lam Nybakk,Håvard Lie Foldnes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herredouble,Patrik Toftevåg-nesset,Johannes Tobiassen,Julian Økland Henriksen,Martin Våge Sætersdal,"21/19,21/14",Patrik Toftevåg-nesset,Johannes Tobiassen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herredouble,Fabian Nelson,Simon Andrés Vasquez Frisnes,Thomas Lam Nybakk,Håvard Lie Foldnes,"21/19,21/17",Fabian Nelson,Simon Andrés Vasquez Frisnes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herredouble,Thomas Lam Nybakk,Håvard Lie Foldnes,Julian Økland Henriksen,Martin Våge Sætersdal,"21/15,21/19",Thomas Lam Nybakk,Håvard Lie Foldnes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Herredouble,Fabian Nelson,Simon Andrés Vasquez Frisnes,Patrik Toftevåg-nesset,Johannes Tobiassen,"21/15,21/14",Fabian Nelson,Simon Andrés Vasquez Frisnes
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damedouble,Juli Helen Johansen Klungtveit,Oline Langeland Risa,Anna Fitjar Hjelle,Hildegunn Olsen Aadland,"21/2,21/4",Juli Helen Johansen Klungtveit,Oline Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damedouble,Akarija Anton Reginold,Arathija Anton Reginold,Anna Fitjar Hjelle,Hildegunn Olsen Aadland,"21/5,21/4",Akarija Anton Reginold,Arathija Anton Reginold
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Damedouble,Akarija Anton Reginold,Arathija Anton Reginold,Juli Helen Johansen Klungtveit,Oline Langeland Risa,"21/18,17/21,21/17",Akarija Anton Reginold,Arathija Anton Reginold
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Mixeddouble,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,Maria Botcharova Ellingsen,Pranav Tehlan,"21/15,20/22,21/17",Juli Helen Johansen Klungtveit,Jakob Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Mixeddouble,Sindre Gjuvsland,Oline Langeland Risa,Maria Botcharova Ellingsen,Pranav Tehlan,"21/14,21/15",Sindre Gjuvsland,Oline Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Mixeddouble,Sindre Gjuvsland,Oline Langeland Risa,Heine Lam Nybakk,Akarija Anton Reginold,"16/21,21/19,24/22",Sindre Gjuvsland,Oline Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Mixeddouble,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,Sindre Gjuvsland,Oline Langeland Risa,"21/14,21/12",Juli Helen Johansen Klungtveit,Jakob Langeland Risa
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Mixeddouble,Heine Lam Nybakk,Akarija Anton Reginold,Maria Botcharova Ellingsen,Pranav Tehlan,"21/12,21/15",Heine Lam Nybakk,Akarija Anton Reginold
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 A,Mixeddouble,Heine Lam Nybakk,Akarija Anton Reginold,Juli Helen Johansen Klungtveit,Jakob Langeland Risa,"23/21,15/21,21/19",Heine Lam Nybakk,Akarija Anton Reginold
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Damesingle,,Erle Sofie Andersen,,Tora Svennevik,"16/21,21/19,21/12",Erle Sofie Andersen,
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Herredouble,Åsmund Svennevik,Tora Svennevik,Marius Bergo Nielsen,Peder Fjeldså Frostad,"21/9,21/4",Åsmund Svennevik,Tora Svennevik
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Herredouble,Sebastian Kristiansen,Sigurd Sørheim,Marius Bergo Nielsen,Peder Fjeldså Frostad,"22/20,21/11",Sebastian Kristiansen,Sigurd Sørheim
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Herredouble,Jonas Mallesvik Aarvik,Liam Andre Rasmussen,Åsmund Svennevik,Tora Svennevik,"21/18,21/18",Jonas Mallesvik Aarvik,Liam Andre Rasmussen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Herredouble,Jonas Mallesvik Aarvik,Liam Andre Rasmussen,Marius Bergo Nielsen,Peder Fjeldså Frostad,"21/11,21/18",Jonas Mallesvik Aarvik,Liam Andre Rasmussen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Herredouble,Jonas Mallesvik Aarvik,Liam Andre Rasmussen,Sebastian Kristiansen,Sigurd Sørheim,"21/18,21/13",Jonas Mallesvik Aarvik,Liam Andre Rasmussen
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Herredouble,Åsmund Svennevik,Tora Svennevik,Sebastian Kristiansen,Sigurd Sørheim,"21/13,21/13",Åsmund Svennevik,Tora Svennevik
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Mixeddouble,Sofie Bjelke Samuelsen,Mio Skuterud Stenseth,Jonas Mallesvik Aarvik,Viktorija Reke,"21/10,21/8",Sofie Bjelke Samuelsen,Mio Skuterud Stenseth
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Mixeddouble,Åsmund Svennevik,Tora Svennevik,Melissa Bjorøy Aspevik,Anders Østervold,"21/7,21/5",Åsmund Svennevik,Tora Svennevik
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Mixeddouble,Jonas Mallesvik Aarvik,Viktorija Reke,Melissa Bjorøy Aspevik,Anders Østervold,"21/11,21/7",Jonas Mallesvik Aarvik,Viktorija Reke
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Mixeddouble,Åsmund Svennevik,Tora Svennevik,Sofie Bjelke Samuelsen,Mio Skuterud Stenseth,"22/20,21/14",Åsmund Svennevik,Tora Svennevik
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Mixeddouble,Åsmund Svennevik,Tora Svennevik,Jonas Mallesvik Aarvik,Viktorija Reke,"21/13,21/13",Åsmund Svennevik,Tora Svennevik
+2022/2023,Askøy Kretsmesterskap/Askøy Open 2023,21.01.2023,U17 B,Mixeddouble,Sofie Bjelke Samuelsen,Mio Skuterud Stenseth,Melissa Bjorøy Aspevik,Anders Østervold,"21/5,21/7",Sofie Bjelke Samuelsen,Mio Skuterud Stenseth

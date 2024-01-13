@@ -1,285 +1,149 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,23/21",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Gunn Fiskergaard,,Emma Søvik,"21/13,21/11",Gunn Fiskergaard,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/14,21/13",Gunn Fiskergaard,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Tora Vik Langhammer,,Emma Søvik,"21/13,21/12",Tora Vik Langhammer,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Tuva Bjørbekk,"21/12,21/5",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Ingrid Stene Olsen,"21/14,21/10",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Ingrid Stene Olsen,,Tuva Bjørbekk,"22/20,22/20",Ingrid Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Thomas Pedersen,Lars Valentin,"11/21,21/18,23/21",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Thomas Pedersen,Lars Valentin,Per Gunnar Søvik,Tor Stenvaag,"21/18,21/11",Thomas Pedersen,Lars Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Thomas Pedersen,Lars Valentin,Noralf Gamlem,Per Ivar Furholm,"20/22,21/17,21/15",Thomas Pedersen,Lars Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Noralf Gamlem,Per Ivar Furholm,Per Gunnar Søvik,Tor Stenvaag,"21/13,21/10",Noralf Gamlem,Per Ivar Furholm
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Andre Korsgaten,Peter Lid Midtgård,"21/16,21/10",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Tora Vik Langhammer,Christian Asbjørnsen,"21/14,22/24,21/12",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Tora Vik Langhammer,Christian Asbjørnsen,Andre Korsgaten,Peter Lid Midtgård,"18/21,21/16,21/14",Tora Vik Langhammer,Christian Asbjørnsen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Moana Vadseth Furholm,Eira Vik Langhammer,"21/11,21/13",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Ingrid Stene Olsen,Emma Søvik,Moana Vadseth Furholm,Eira Vik Langhammer,"21/16,21/17",Ingrid Stene Olsen,Emma Søvik
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Ingrid Stene Olsen,Emma Søvik,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Randi Ulla Nogva,Tuva Bjørbekk,Moana Vadseth Furholm,Eira Vik Langhammer,"21/15,21/19",Randi Ulla Nogva,Tuva Bjørbekk
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Moana Vadseth Furholm,Eira Vik Langhammer,"21/8,21/9",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Ingrid Stene Olsen,Emma Søvik,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Ingrid Stene Olsen,Emma Søvik
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Randi Ulla Nogva,Tuva Bjørbekk,"21/17,21/18",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,"21/15,21/12",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Ingrid Stene Olsen,Emma Søvik,"21/16,18/21,21/8",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,,Per Gunnar Søvik,,Tor Stenvaag,"23/21,14/21,22/20",Per Gunnar Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,,Tor Stenvaag,,Andre Korsgaten,"21/9,21/10",Tor Stenvaag,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,,Per Gunnar Søvik,,Andre Korsgaten,"21/15,21/10",Per Gunnar Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,,Per Gunnar Søvik,,Tor Stenvaag,"23/21,14/21,22/20",Per Gunnar Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,,Tor Stenvaag,,Andre Korsgaten,"21/9,21/10",Tor Stenvaag,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,,Per Gunnar Søvik,,Andre Korsgaten,"21/15,21/10",Per Gunnar Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,23/21",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Gunn Fiskergaard,,Emma Søvik,"21/13,21/11",Gunn Fiskergaard,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/14,21/13",Gunn Fiskergaard,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Tora Vik Langhammer,,Emma Søvik,"21/13,21/12",Tora Vik Langhammer,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Tuva Bjørbekk,"21/12,21/5",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Ingrid Stene Olsen,"21/14,21/10",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Ingrid Stene Olsen,,Tuva Bjørbekk,"22/20,22/20",Ingrid Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Thomas Pedersen,Lars Valentin,"11/21,21/18,23/21",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Thomas Pedersen,Lars Valentin,Per Gunnar Søvik,Tor Stenvaag,"21/18,21/11",Thomas Pedersen,Lars Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Thomas Pedersen,Lars Valentin,Noralf Gamlem,Per Ivar Furholm,"20/22,21/17,21/15",Thomas Pedersen,Lars Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Noralf Gamlem,Per Ivar Furholm,Per Gunnar Søvik,Tor Stenvaag,"21/13,21/10",Noralf Gamlem,Per Ivar Furholm
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Andre Korsgaten,Peter Lid Midtgård,"21/16,21/10",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Tora Vik Langhammer,Christian Asbjørnsen,"21/14,22/24,21/12",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Tora Vik Langhammer,Christian Asbjørnsen,Andre Korsgaten,Peter Lid Midtgård,"18/21,21/16,21/14",Tora Vik Langhammer,Christian Asbjørnsen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Moana Vadseth Furholm,Eira Vik Langhammer,"21/11,21/13",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Ingrid Stene Olsen,Emma Søvik,Moana Vadseth Furholm,Eira Vik Langhammer,"21/16,21/17",Ingrid Stene Olsen,Emma Søvik
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Ingrid Stene Olsen,Emma Søvik,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Randi Ulla Nogva,Tuva Bjørbekk,Moana Vadseth Furholm,Eira Vik Langhammer,"21/15,21/19",Randi Ulla Nogva,Tuva Bjørbekk
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Moana Vadseth Furholm,Eira Vik Langhammer,"21/8,21/9",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Ingrid Stene Olsen,Emma Søvik,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Ingrid Stene Olsen,Emma Søvik
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Randi Ulla Nogva,Tuva Bjørbekk,"21/17,21/18",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,"21/15,21/12",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Ingrid Stene Olsen,Emma Søvik,"21/16,18/21,21/8",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Geir Liljevold,"21/15,21/16",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Geir Liljevold,,Håkon K Hofseth,"22/20,12/21,21/12",Geir Liljevold,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Håkon K Hofseth,,Margarita Bjerkevoll,"21/8,21/5",Håkon K Hofseth,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Geir Liljevold,,Trond Østraat,"20/22,21/18,25/23",Geir Liljevold,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Trond Østraat,,Margarita Bjerkevoll,"21/19,21/10",Trond Østraat,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Håkon K Hofseth,,Trond Østraat,"21/16,20/22,21/13",Håkon K Hofseth,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Geir Liljevold,,Margarita Bjerkevoll,"21/9,21/7",Geir Liljevold,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Mathusan Selladurai,"21/18,21/5",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Michael Rice,,Beverly Henriksen,"21/12,21/14",Michael Rice,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Mathusan Selladurai,,Beverly Henriksen,"21/14,21/16",Mathusan Selladurai,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Beverly Henriksen,"21/11,21/5",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Mathusan Selladurai,,Michael Rice,"21/10,18/21,21/10",Mathusan Selladurai,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Michael Rice,"21/10,21/16",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Geir Liljevold,"21/15,21/16",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Geir Liljevold,,Håkon K Hofseth,"22/20,12/21,21/12",Geir Liljevold,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Håkon K Hofseth,,Margarita Bjerkevoll,"21/8,21/5",Håkon K Hofseth,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Geir Liljevold,,Trond Østraat,"20/22,21/18,25/23",Geir Liljevold,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Trond Østraat,,Margarita Bjerkevoll,"21/19,21/10",Trond Østraat,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Håkon K Hofseth,,Trond Østraat,"21/16,20/22,21/13",Håkon K Hofseth,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Geir Liljevold,,Margarita Bjerkevoll,"21/9,21/7",Geir Liljevold,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Mathusan Selladurai,"21/18,21/5",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Michael Rice,,Beverly Henriksen,"21/12,21/14",Michael Rice,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Mathusan Selladurai,,Beverly Henriksen,"21/14,21/16",Mathusan Selladurai,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Beverly Henriksen,"21/11,21/5",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Mathusan Selladurai,,Michael Rice,"21/10,18/21,21/10",Mathusan Selladurai,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,,Frank-Morten Dalmo Jørgensen,,Michael Rice,"21/10,21/16",Frank-Morten Dalmo Jørgensen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Håkon K Hofseth,Beverly Henriksen,Margarita Bjerkevoll,Geir Liljevold,"12/21,21/15,21/14",Håkon K Hofseth,Beverly Henriksen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Zuzana Hartmann,Frank-Morten Dalmo Jørgensen,Michael Rice,Trond Østraat,"21/18,21/19",Zuzana Hartmann,Frank-Morten Dalmo Jørgensen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Zuzana Hartmann,Frank-Morten Dalmo Jørgensen,Margarita Bjerkevoll,Geir Liljevold,"21/19,21/11",Zuzana Hartmann,Frank-Morten Dalmo Jørgensen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Håkon K Hofseth,Beverly Henriksen,Michael Rice,Trond Østraat,"16/21,21/12,21/14",Håkon K Hofseth,Beverly Henriksen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Margarita Bjerkevoll,Geir Liljevold,Michael Rice,Trond Østraat,"21/12,16/21,21/15",Margarita Bjerkevoll,Geir Liljevold
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Zuzana Hartmann,Frank-Morten Dalmo Jørgensen,Håkon K Hofseth,Beverly Henriksen,"21/11,21/13",Zuzana Hartmann,Frank-Morten Dalmo Jørgensen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Selma Leikanger Østraat,,Alexandra Valentin,"21/13,21/15",Selma Leikanger Østraat,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Selma Leikanger Østraat,,Karen Uggedal Søvik,"20/22,21/13,21/7",Selma Leikanger Østraat,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Karen Uggedal Søvik,,Alexandra Valentin,"21/12,21/10",Karen Uggedal Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Kari Wolz,,Agnes Søvik Gunnarsdottir,"21/5,21/15",Kari Wolz,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Kari Wolz,,Sarah Wulff Brunstad,"21/14,21/11",Kari Wolz,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Sarah Wulff Brunstad,,Agnes Søvik Gunnarsdottir,"21/8,21/15",Sarah Wulff Brunstad,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Selma Leikanger Østraat,,Alexandra Valentin,"21/13,21/15",Selma Leikanger Østraat,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Selma Leikanger Østraat,,Karen Uggedal Søvik,"20/22,21/13,21/7",Selma Leikanger Østraat,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Karen Uggedal Søvik,,Alexandra Valentin,"21/12,21/10",Karen Uggedal Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Kari Wolz,,Agnes Søvik Gunnarsdottir,"21/5,21/15",Kari Wolz,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Kari Wolz,,Sarah Wulff Brunstad,"21/14,21/11",Kari Wolz,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,,Sarah Wulff Brunstad,,Agnes Søvik Gunnarsdottir,"21/8,21/15",Sarah Wulff Brunstad,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Gunn Fiskergaard,"21/18,23/21",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Gunn Fiskergaard,,Emma Søvik,"21/13,21/11",Gunn Fiskergaard,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/14,21/13",Gunn Fiskergaard,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Tora Vik Langhammer,,Emma Søvik,"21/13,21/12",Tora Vik Langhammer,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Tuva Bjørbekk,"21/12,21/5",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Trine Sperre,,Ingrid Stene Olsen,"21/14,21/10",Trine Sperre,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,,Ingrid Stene Olsen,,Tuva Bjørbekk,"22/20,22/20",Ingrid Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Thomas Pedersen,Lars Valentin,"11/21,21/18,23/21",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Thomas Pedersen,Lars Valentin,Per Gunnar Søvik,Tor Stenvaag,"21/18,21/11",Thomas Pedersen,Lars Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Thomas Pedersen,Lars Valentin,Noralf Gamlem,Per Ivar Furholm,"20/22,21/17,21/15",Thomas Pedersen,Lars Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Noralf Gamlem,Per Ivar Furholm,Per Gunnar Søvik,Tor Stenvaag,"21/13,21/10",Noralf Gamlem,Per Ivar Furholm
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Andre Korsgaten,Peter Lid Midtgård,"21/16,21/10",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Rune Enoksen,Fredrik Lian,Tora Vik Langhammer,Christian Asbjørnsen,"21/14,22/24,21/12",Rune Enoksen,Fredrik Lian
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Tora Vik Langhammer,Christian Asbjørnsen,Andre Korsgaten,Peter Lid Midtgård,"18/21,21/16,21/14",Tora Vik Langhammer,Christian Asbjørnsen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Moana Vadseth Furholm,Eira Vik Langhammer,"21/11,21/13",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Ingrid Stene Olsen,Emma Søvik,Moana Vadseth Furholm,Eira Vik Langhammer,"21/16,21/17",Ingrid Stene Olsen,Emma Søvik
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Ingrid Stene Olsen,Emma Søvik,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Randi Ulla Nogva,Tuva Bjørbekk,Moana Vadseth Furholm,Eira Vik Langhammer,"21/15,21/19",Randi Ulla Nogva,Tuva Bjørbekk
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Moana Vadseth Furholm,Eira Vik Langhammer,"21/8,21/9",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Ingrid Stene Olsen,Emma Søvik,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Ingrid Stene Olsen,Emma Søvik
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Randi Ulla Nogva,Tuva Bjørbekk,"21/17,21/18",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Gunn Fiskergaard,Trine Sperre,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,"21/15,21/12",Gunn Fiskergaard,Trine Sperre
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Ingrid Stene Olsen,Emma Søvik,"21/16,18/21,21/8",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,,Mia Henriksen,,Celine H Solvang Søvik,"22/20,21/16",Mia Henriksen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,,Stefan Wolz,,Celine H Solvang Søvik,"21/19,21/10",Stefan Wolz,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,,Mia Henriksen,,Stefan Wolz,"21/19,21/18",Mia Henriksen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,,Mia Henriksen,,Celine H Solvang Søvik,"22/20,21/16",Mia Henriksen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,,Stefan Wolz,,Celine H Solvang Søvik,"21/19,21/10",Stefan Wolz,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,,Mia Henriksen,,Stefan Wolz,"21/19,21/18",Mia Henriksen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Michael Bjerkevoll,"21/12,21/11",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Michael Bjerkevoll,,Benny J. J. Melbøe,"21/19,23/21",Michael Bjerkevoll,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Kristian P. Hofset,"21/4,21/13",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Benny J. J. Melbøe,,Torbjørn P. Hofset,"21/10,21/16",Benny J. J. Melbøe,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Michael Bjerkevoll,,Kristian P. Hofset,"21/6,21/9",Michael Bjerkevoll,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Torbjørn P. Hofset,"21/4,21/9",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Michael Bjerkevoll,,Torbjørn P. Hofset,"21/8,21/11",Michael Bjerkevoll,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Benny J. J. Melbøe,,Kristian P. Hofset,"21/17,21/14",Benny J. J. Melbøe,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Kristian P. Hofset,,Torbjørn P. Hofset,"16/21,21/12,21/13",Kristian P. Hofset,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Benny J. J. Melbøe,"21/11,21/12",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Michael Bjerkevoll,"21/12,21/11",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Michael Bjerkevoll,,Benny J. J. Melbøe,"21/19,23/21",Michael Bjerkevoll,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Kristian P. Hofset,"21/4,21/13",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Benny J. J. Melbøe,,Torbjørn P. Hofset,"21/10,21/16",Benny J. J. Melbøe,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Michael Bjerkevoll,,Kristian P. Hofset,"21/6,21/9",Michael Bjerkevoll,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Torbjørn P. Hofset,"21/4,21/9",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Michael Bjerkevoll,,Torbjørn P. Hofset,"21/8,21/11",Michael Bjerkevoll,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Benny J. J. Melbøe,,Kristian P. Hofset,"21/17,21/14",Benny J. J. Melbøe,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Kristian P. Hofset,,Torbjørn P. Hofset,"16/21,21/12,21/13",Kristian P. Hofset,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,,Sean Patrik Slyngstad Uren,,Benny J. J. Melbøe,"21/11,21/12",Sean Patrik Slyngstad Uren,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Celine H Solvang Søvik,Mia Henriksen,Benny J. J. Melbøe,Stefan Wolz,"21/12,16/21,21/17",Celine H Solvang Søvik,Mia Henriksen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Celine H Solvang Søvik,Mia Henriksen,Torbjørn P. Hofset,Kristian P. Hofset,"21/6,21/6",Celine H Solvang Søvik,Mia Henriksen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Benny J. J. Melbøe,Stefan Wolz,Torbjørn P. Hofset,Kristian P. Hofset,"21/7,21/12",Benny J. J. Melbøe,Stefan Wolz
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Martin Stene Olsen,,Peder Uggedal Søvik,"21/10,21/12",Martin Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Peder Uggedal Søvik,,William Valentin,"18/21,22/20,21/14",Peder Uggedal Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Peder Uggedal Søvik,,Eirik Tresselt Støylen,"21/16,21/18",Peder Uggedal Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,William Valentin,,Eirik Tresselt Støylen,"21/11,21/6",William Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Martin Stene Olsen,,Jonas Pedersen,"19/21,21/8,21/9",Martin Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Martin Stene Olsen,,Tarjei Strand,"21/13,21/10",Martin Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Tarjei Strand,,Jonas Pedersen,"21/18,21/14",Tarjei Strand,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Martin Stene Olsen,,Peder Uggedal Søvik,"21/10,21/12",Martin Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Peder Uggedal Søvik,,William Valentin,"18/21,22/20,21/14",Peder Uggedal Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Peder Uggedal Søvik,,Eirik Tresselt Støylen,"21/16,21/18",Peder Uggedal Søvik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,William Valentin,,Eirik Tresselt Støylen,"21/11,21/6",William Valentin,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Martin Stene Olsen,,Jonas Pedersen,"19/21,21/8,21/9",Martin Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Martin Stene Olsen,,Tarjei Strand,"21/13,21/10",Martin Stene Olsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Tarjei Strand,,Jonas Pedersen,"21/18,21/14",Tarjei Strand,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Heidi Hartmann,,Andrea Ulla Nogva,"21/14,20/22,21/18",Heidi Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Andrea Ulla Nogva,,Noèe Vaes,"21/1,21/0",Andrea Ulla Nogva,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Ragnhild Stenvaag,,Noèe Vaes,"21/17,21/18",Ragnhild Stenvaag,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Andrea Ulla Nogva,,Ragnhild Stenvaag,"21/6,21/7",Andrea Ulla Nogva,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Heidrun Ervik,,Ida-Marie Midtlid,"25/23,21/7",Heidrun Ervik,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Heidi Hartmann,,Heidrun Ervik,"21/9,21/18",Heidi Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,,Heidi Hartmann,,Ida-Marie Midtlid,"21/9,21/8",Heidi Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Andrea Ulla Nogva,Ronja Hartmann,Martin Stene Olsen,Eirik Tresselt Støylen,"21/14,21/14",Andrea Ulla Nogva,Ronja Hartmann
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Tarjei Strand,William Valentin,Jonas Pedersen,Peder Uggedal Søvik,"15/21,21/18,21/19",Tarjei Strand,William Valentin
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Andrea Ulla Nogva,Ronja Hartmann,Tarjei Strand,William Valentin,"21/18,21/9",Andrea Ulla Nogva,Ronja Hartmann
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Martin Stene Olsen,Eirik Tresselt Støylen,Jonas Pedersen,Peder Uggedal Søvik,"21/12,21/15",Martin Stene Olsen,Eirik Tresselt Støylen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Martin Stene Olsen,Eirik Tresselt Støylen,Tarjei Strand,William Valentin,"15/21,21/18,21/17",Martin Stene Olsen,Eirik Tresselt Støylen
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Andrea Ulla Nogva,Ronja Hartmann,Jonas Pedersen,Peder Uggedal Søvik,"21/11,21/9",Andrea Ulla Nogva,Ronja Hartmann
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Heidi Hartmann,Ragnhild Stenvaag,Heidrun Ervik,Ida-Marie Midtlid,"16/21,21/18,21/19",Heidi Hartmann,Ragnhild Stenvaag
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,,Sigurd K Lausund,,Julie Naas Grytten,"21/18,21/18",Sigurd K Lausund,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,,Julie Naas Grytten,,Sara Elisabeth Norheim Jørgensen,"21/16,21/8",Julie Naas Grytten,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,,Sigurd K Lausund,,Sara Elisabeth Norheim Jørgensen,"21/18,21/13",Sigurd K Lausund,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,,Sigurd K Lausund,,Julie Naas Grytten,"21/18,21/18",Sigurd K Lausund,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,,Julie Naas Grytten,,Sara Elisabeth Norheim Jørgensen,"21/16,21/8",Julie Naas Grytten,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,,Sigurd K Lausund,,Sara Elisabeth Norheim Jørgensen,"21/18,21/13",Sigurd K Lausund,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/13,21/3",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Ronja Hartmann,"21/13,21/18",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Eskil Styve,"21/10,21/14",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Ronja Hartmann,,Eskil Styve,"16/21,21/14,21/16",Ronja Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Jens Karlsbakk Småge,,Andri Snær Stefansson,"21/16,21/14",Jens Karlsbakk Småge,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Jens Karlsbakk Småge,"21/6,21/6",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Ronja Hartmann,,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Viktoria Humlen,,Petter Leikanger,"21/11,21/7",Viktoria Humlen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Ronja Hartmann,,Petter Leikanger,"21/7,21/5",Ronja Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Eskil Styve,,Kristoffer Jenssen,"20/22,21/19,21/7",Eskil Styve,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Kristoffer Jenssen,,Daniel Flataker,"21/15,21/14",Kristoffer Jenssen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Eskil Styve,,Daniel Flataker,"21/6,21/5",Eskil Styve,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/13,21/3",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Ronja Hartmann,"21/13,21/18",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Eskil Styve,"21/10,21/14",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Ronja Hartmann,,Eskil Styve,"16/21,21/14,21/16",Ronja Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Jens Karlsbakk Småge,,Andri Snær Stefansson,"21/16,21/14",Jens Karlsbakk Småge,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Trygve Gulbrandsen,,Jens Karlsbakk Småge,"21/6,21/6",Trygve Gulbrandsen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Ronja Hartmann,,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Viktoria Humlen,,Petter Leikanger,"21/11,21/7",Viktoria Humlen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Ronja Hartmann,,Petter Leikanger,"21/7,21/5",Ronja Hartmann,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Eskil Styve,,Kristoffer Jenssen,"20/22,21/19,21/7",Eskil Styve,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Kristoffer Jenssen,,Daniel Flataker,"21/15,21/14",Kristoffer Jenssen,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,,Eskil Styve,,Daniel Flataker,"21/6,21/5",Eskil Styve,
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Trygve Gulbrandsen,Jens Karlsbakk Småge,Andri Snær Stefansson,Petter Leikanger,"21/8,21/10",Trygve Gulbrandsen,Jens Karlsbakk Småge
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Trygve Gulbrandsen,Jens Karlsbakk Småge,Kristoffer Jenssen,Eskil Styve,"21/12,21/14",Trygve Gulbrandsen,Jens Karlsbakk Småge
-2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Kristoffer Jenssen,Eskil Styve,Andri Snær Stefansson,Petter Leikanger,"21/15,21/14",Kristoffer Jenssen,Eskil Styve
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Thomas Pedersen,,Lars Valentin,"21/9,21/7",Thomas Pedersen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Lars Valentin,,Fredrik Lian,"19/21,21/16,21/19",Lars Valentin,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Thomas Pedersen,,Christian Asbjørnsen,"21/11,21/17",Thomas Pedersen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Fredrik Lian,,Christian Asbjørnsen,"21/12,21/17",Fredrik Lian,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Christian Asbjørnsen,,Peter Lid Midtgård,"21/9,21/2",Christian Asbjørnsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Fredrik Lian,,Peter Lid Midtgård,"21/13,21/6",Fredrik Lian,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Thomas Pedersen,,Noralf Gamlem,"21/6,21/6",Thomas Pedersen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Lars Valentin,,Rune Enoksen,"21/13,21/16",Lars Valentin,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Lars Valentin,,Noralf Gamlem,"21/16,21/18",Lars Valentin,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Thomas Pedersen,,Rune Enoksen,"21/12,21/13",Thomas Pedersen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Noralf Gamlem,,Rune Enoksen,"21/14,21/9",Noralf Gamlem,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herresingle,,Thomas Pedersen,,Lars Valentin,"21/13,21/18",Thomas Pedersen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Trine Sperre,,Gunn Fiskergaard,"21/18,23/21",Trine Sperre,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Gunn Fiskergaard,,Emma Søvik,"21/13,21/11",Gunn Fiskergaard,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Gunn Fiskergaard,,Tora Vik Langhammer,"21/14,21/13",Gunn Fiskergaard,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Tora Vik Langhammer,,Emma Søvik,"21/13,21/12",Tora Vik Langhammer,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Trine Sperre,,Tuva Bjørbekk,"21/12,21/5",Trine Sperre,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Trine Sperre,,Ingrid Stene Olsen,"21/14,21/10",Trine Sperre,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damesingle,,Ingrid Stene Olsen,,Tuva Bjørbekk,"22/20,22/20",Ingrid Stene Olsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Rune Enoksen,Fredrik Lian,Thomas Pedersen,Lars Valentin,"11/21,21/18,23/21",Rune Enoksen,Fredrik Lian
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Thomas Pedersen,Lars Valentin,Per Gunnar Søvik,Tor Stenvaag,"21/18,21/11",Thomas Pedersen,Lars Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Thomas Pedersen,Lars Valentin,Noralf Gamlem,Per Ivar Furholm,"20/22,21/17,21/15",Thomas Pedersen,Lars Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Noralf Gamlem,Per Ivar Furholm,Per Gunnar Søvik,Tor Stenvaag,"21/13,21/10",Noralf Gamlem,Per Ivar Furholm
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Rune Enoksen,Fredrik Lian,Andre Korsgaten,Peter Lid Midtgård,"21/16,21/10",Rune Enoksen,Fredrik Lian
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Rune Enoksen,Fredrik Lian,Tora Vik Langhammer,Christian Asbjørnsen,"21/14,22/24,21/12",Rune Enoksen,Fredrik Lian
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Herredouble,Tora Vik Langhammer,Christian Asbjørnsen,Andre Korsgaten,Peter Lid Midtgård,"18/21,21/16,21/14",Tora Vik Langhammer,Christian Asbjørnsen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Gunn Fiskergaard,Trine Sperre,Moana Vadseth Furholm,Eira Vik Langhammer,"21/11,21/13",Gunn Fiskergaard,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Gunn Fiskergaard,Trine Sperre,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Ingrid Stene Olsen,Emma Søvik,Moana Vadseth Furholm,Eira Vik Langhammer,"21/16,21/17",Ingrid Stene Olsen,Emma Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Gunn Fiskergaard,Trine Sperre,Ingrid Stene Olsen,Emma Søvik,"21/15,21/15",Gunn Fiskergaard,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Randi Ulla Nogva,Tuva Bjørbekk,Moana Vadseth Furholm,Eira Vik Langhammer,"21/15,21/19",Randi Ulla Nogva,Tuva Bjørbekk
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Moana Vadseth Furholm,Eira Vik Langhammer,"21/8,21/9",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Ingrid Stene Olsen,Emma Søvik,Randi Ulla Nogva,Tuva Bjørbekk,"21/15,21/15",Ingrid Stene Olsen,Emma Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Randi Ulla Nogva,Tuva Bjørbekk,"21/17,21/18",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Gunn Fiskergaard,Trine Sperre,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,"21/15,21/12",Gunn Fiskergaard,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Damedouble,Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog,Ingrid Stene Olsen,Emma Søvik,"21/16,18/21,21/8",Elisabeth Vatnehol Straumsheim,Elisabeth Hjellegjerde Skog
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Thomas Pedersen,Trine Sperre,Fredrik Lian,Emma Søvik,"21/9,21/5",Thomas Pedersen,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Thomas Pedersen,Trine Sperre,Moana Vadseth Furholm,Lars Valentin,"21/15,23/21",Thomas Pedersen,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Fredrik Lian,Emma Søvik,Noralf Gamlem,Randi Ulla Nogva,"21/17,19/21,21/16",Fredrik Lian,Emma Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Thomas Pedersen,Trine Sperre,Tora Vik Langhammer,Christian Asbjørnsen,"21/12,21/9",Thomas Pedersen,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Noralf Gamlem,Randi Ulla Nogva,Tora Vik Langhammer,Christian Asbjørnsen,"21/15,21/13",Noralf Gamlem,Randi Ulla Nogva
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Thomas Pedersen,Trine Sperre,Noralf Gamlem,Randi Ulla Nogva,"21/14,21/11",Thomas Pedersen,Trine Sperre
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Fredrik Lian,Emma Søvik,Moana Vadseth Furholm,Lars Valentin,"23/21,21/10",Fredrik Lian,Emma Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Andre Korsgaten,Ingrid Stene Olsen,Rune Enoksen,Tuva Bjørbekk,"11/21,22/20,21/16",Andre Korsgaten,Ingrid Stene Olsen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Moana Vadseth Furholm,Lars Valentin,Andre Korsgaten,Ingrid Stene Olsen,"17/21,21/11,22/20",Moana Vadseth Furholm,Lars Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Fredrik Lian,Emma Søvik,Andre Korsgaten,Ingrid Stene Olsen,"21/18,21/13",Fredrik Lian,Emma Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Fredrik Lian,Emma Søvik,Rune Enoksen,Tuva Bjørbekk,"21/19,14/21,21/15",Fredrik Lian,Emma Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN A,Mixeddouble,Moana Vadseth Furholm,Lars Valentin,Rune Enoksen,Tuva Bjørbekk,"21/13,8/21,21/16",Moana Vadseth Furholm,Lars Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,Herresingle,,Per Gunnar Søvik,,Tor Stenvaag,"23/21,14/21,22/20",Per Gunnar Søvik,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,Herresingle,,Tor Stenvaag,,Andre Korsgaten,"21/9,21/10",Tor Stenvaag,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN B,Herresingle,,Per Gunnar Søvik,,Andre Korsgaten,"21/15,21/10",Per Gunnar Søvik,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Frank-Morten Dalmo Jørgensen,,Geir Liljevold,"21/15,21/16",Frank-Morten Dalmo Jørgensen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Geir Liljevold,,Håkon K Hofseth,"22/20,12/21,21/12",Geir Liljevold,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Håkon K Hofseth,,Margarita Bjerkevoll,"21/8,21/5",Håkon K Hofseth,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Geir Liljevold,,Trond Østraat,"20/22,21/18,25/23",Geir Liljevold,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Trond Østraat,,Margarita Bjerkevoll,"21/19,21/10",Trond Østraat,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Håkon K Hofseth,,Trond Østraat,"21/16,20/22,21/13",Håkon K Hofseth,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Geir Liljevold,,Margarita Bjerkevoll,"21/9,21/7",Geir Liljevold,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Frank-Morten Dalmo Jørgensen,,Mathusan Selladurai,"21/18,21/5",Frank-Morten Dalmo Jørgensen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Michael Rice,,Beverly Henriksen,"21/12,21/14",Michael Rice,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Mathusan Selladurai,,Beverly Henriksen,"21/14,21/16",Mathusan Selladurai,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Frank-Morten Dalmo Jørgensen,,Beverly Henriksen,"21/11,21/5",Frank-Morten Dalmo Jørgensen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Mathusan Selladurai,,Michael Rice,"21/10,18/21,21/10",Mathusan Selladurai,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herresingle,,Frank-Morten Dalmo Jørgensen,,Michael Rice,"21/10,21/16",Frank-Morten Dalmo Jørgensen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herredouble,Håkon K Hofseth,Beverly Henriksen,Margarita Bjerkevoll,Geir Liljevold,"12/21,21/15,21/14",Håkon K Hofseth,Beverly Henriksen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herredouble,Zuzana Hartmann,Frank-Morten Dalmo Jørgensen,Michael Rice,Trond Østraat,"21/18,21/19",Zuzana Hartmann,Frank-Morten Dalmo Jørgensen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herredouble,Zuzana Hartmann,Frank-Morten Dalmo Jørgensen,Margarita Bjerkevoll,Geir Liljevold,"21/19,21/11",Zuzana Hartmann,Frank-Morten Dalmo Jørgensen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herredouble,Håkon K Hofseth,Beverly Henriksen,Michael Rice,Trond Østraat,"16/21,21/12,21/14",Håkon K Hofseth,Beverly Henriksen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herredouble,Margarita Bjerkevoll,Geir Liljevold,Michael Rice,Trond Østraat,"21/12,16/21,21/15",Margarita Bjerkevoll,Geir Liljevold
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,SEN D,Herredouble,Zuzana Hartmann,Frank-Morten Dalmo Jørgensen,Håkon K Hofseth,Beverly Henriksen,"21/11,21/13",Zuzana Hartmann,Frank-Morten Dalmo Jørgensen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,Damesingle,,Selma Leikanger Østraat,,Alexandra Valentin,"21/13,21/15",Selma Leikanger Østraat,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,Damesingle,,Selma Leikanger Østraat,,Karen Uggedal Søvik,"20/22,21/13,21/7",Selma Leikanger Østraat,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,Damesingle,,Karen Uggedal Søvik,,Alexandra Valentin,"21/12,21/10",Karen Uggedal Søvik,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,Damesingle,,Kari Wolz,,Agnes Søvik Gunnarsdottir,"21/5,21/15",Kari Wolz,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,Damesingle,,Kari Wolz,,Sarah Wulff Brunstad,"21/14,21/11",Kari Wolz,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U9 A,Damesingle,,Sarah Wulff Brunstad,,Agnes Søvik Gunnarsdottir,"21/8,21/15",Sarah Wulff Brunstad,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,Herresingle,,Mia Henriksen,,Celine H Solvang Søvik,"22/20,21/16",Mia Henriksen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,Herresingle,,Stefan Wolz,,Celine H Solvang Søvik,"21/19,21/10",Stefan Wolz,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 A,Herresingle,,Mia Henriksen,,Stefan Wolz,"21/19,21/18",Mia Henriksen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Sean Patrik Slyngstad Uren,,Michael Bjerkevoll,"21/12,21/11",Sean Patrik Slyngstad Uren,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Michael Bjerkevoll,,Benny J. J. Melbøe,"21/19,23/21",Michael Bjerkevoll,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Sean Patrik Slyngstad Uren,,Kristian P. Hofset,"21/4,21/13",Sean Patrik Slyngstad Uren,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Benny J. J. Melbøe,,Torbjørn P. Hofset,"21/10,21/16",Benny J. J. Melbøe,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Michael Bjerkevoll,,Kristian P. Hofset,"21/6,21/9",Michael Bjerkevoll,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Sean Patrik Slyngstad Uren,,Torbjørn P. Hofset,"21/4,21/9",Sean Patrik Slyngstad Uren,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Michael Bjerkevoll,,Torbjørn P. Hofset,"21/8,21/11",Michael Bjerkevoll,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Benny J. J. Melbøe,,Kristian P. Hofset,"21/17,21/14",Benny J. J. Melbøe,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Kristian P. Hofset,,Torbjørn P. Hofset,"16/21,21/12,21/13",Kristian P. Hofset,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herresingle,,Sean Patrik Slyngstad Uren,,Benny J. J. Melbøe,"21/11,21/12",Sean Patrik Slyngstad Uren,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herredouble,Celine H Solvang Søvik,Mia Henriksen,Benny J. J. Melbøe,Stefan Wolz,"21/12,16/21,21/17",Celine H Solvang Søvik,Mia Henriksen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herredouble,Celine H Solvang Søvik,Mia Henriksen,Torbjørn P. Hofset,Kristian P. Hofset,"21/6,21/6",Celine H Solvang Søvik,Mia Henriksen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U11 B,Herredouble,Benny J. J. Melbøe,Stefan Wolz,Torbjørn P. Hofset,Kristian P. Hofset,"21/7,21/12",Benny J. J. Melbøe,Stefan Wolz
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,Martin Stene Olsen,,Peder Uggedal Søvik,"21/10,21/12",Martin Stene Olsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,Peder Uggedal Søvik,,William Valentin,"18/21,22/20,21/14",Peder Uggedal Søvik,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,Peder Uggedal Søvik,,Eirik Tresselt Støylen,"21/16,21/18",Peder Uggedal Søvik,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,William Valentin,,Eirik Tresselt Støylen,"21/11,21/6",William Valentin,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,Martin Stene Olsen,,Jonas Pedersen,"19/21,21/8,21/9",Martin Stene Olsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,Martin Stene Olsen,,Tarjei Strand,"21/13,21/10",Martin Stene Olsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herresingle,,Tarjei Strand,,Jonas Pedersen,"21/18,21/14",Tarjei Strand,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Heidi Hartmann,,Andrea Ulla Nogva,"21/14,20/22,21/18",Heidi Hartmann,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Andrea Ulla Nogva,,Noèe Vaes,"21/1,21/0",Andrea Ulla Nogva,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Ragnhild Stenvaag,,Noèe Vaes,"21/17,21/18",Ragnhild Stenvaag,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Andrea Ulla Nogva,,Ragnhild Stenvaag,"21/6,21/7",Andrea Ulla Nogva,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Heidrun Ervik,,Ida-Marie Midtlid,"25/23,21/7",Heidrun Ervik,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Heidi Hartmann,,Heidrun Ervik,"21/9,21/18",Heidi Hartmann,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damesingle,,Heidi Hartmann,,Ida-Marie Midtlid,"21/9,21/8",Heidi Hartmann,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herredouble,Andrea Ulla Nogva,Ronja Hartmann,Martin Stene Olsen,Eirik Tresselt Støylen,"21/14,21/14",Andrea Ulla Nogva,Ronja Hartmann
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herredouble,Tarjei Strand,William Valentin,Jonas Pedersen,Peder Uggedal Søvik,"15/21,21/18,21/19",Tarjei Strand,William Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herredouble,Andrea Ulla Nogva,Ronja Hartmann,Tarjei Strand,William Valentin,"21/18,21/9",Andrea Ulla Nogva,Ronja Hartmann
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herredouble,Martin Stene Olsen,Eirik Tresselt Støylen,Jonas Pedersen,Peder Uggedal Søvik,"21/12,21/15",Martin Stene Olsen,Eirik Tresselt Støylen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herredouble,Martin Stene Olsen,Eirik Tresselt Støylen,Tarjei Strand,William Valentin,"15/21,21/18,21/17",Martin Stene Olsen,Eirik Tresselt Støylen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Herredouble,Andrea Ulla Nogva,Ronja Hartmann,Jonas Pedersen,Peder Uggedal Søvik,"21/11,21/9",Andrea Ulla Nogva,Ronja Hartmann
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Damedouble,Heidi Hartmann,Ragnhild Stenvaag,Heidrun Ervik,Ida-Marie Midtlid,"16/21,21/18,21/19",Heidi Hartmann,Ragnhild Stenvaag
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,Ida-Marie Midtlid,William Valentin,"21/8,21/18",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Jonas Pedersen,Heidrun Ervik,Ida-Marie Midtlid,William Valentin,"21/15,7/21,21/19",Jonas Pedersen,Heidrun Ervik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Jonas Pedersen,Heidrun Ervik,Heidi Hartmann,Peder Uggedal Søvik,"21/16,21/19",Jonas Pedersen,Heidrun Ervik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Mia Henriksen,Tarjei Strand,Celine H Solvang Søvik,Eirik Tresselt Støylen,"21/19,21/16",Mia Henriksen,Tarjei Strand
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Jonas Pedersen,Heidrun Ervik,Mia Henriksen,Tarjei Strand,"21/7,21/16",Jonas Pedersen,Heidrun Ervik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,Celine H Solvang Søvik,Eirik Tresselt Støylen,"21/2,21/9",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Ida-Marie Midtlid,William Valentin,Celine H Solvang Søvik,Eirik Tresselt Støylen,"25/23,21/16",Ida-Marie Midtlid,William Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Ida-Marie Midtlid,William Valentin,Mia Henriksen,Tarjei Strand,"21/14,21/14",Ida-Marie Midtlid,William Valentin
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Heidi Hartmann,Peder Uggedal Søvik,Mia Henriksen,Tarjei Strand,"21/8,21/7",Heidi Hartmann,Peder Uggedal Søvik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 A,Mixeddouble,Jonas Pedersen,Heidrun Ervik,Celine H Solvang Søvik,Eirik Tresselt Støylen,"21/15,21/16",Jonas Pedersen,Heidrun Ervik
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,Herresingle,,Sigurd K Lausund,,Julie Naas Grytten,"21/18,21/18",Sigurd K Lausund,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,Herresingle,,Julie Naas Grytten,,Sara Elisabeth Norheim Jørgensen,"21/16,21/8",Julie Naas Grytten,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U13 B,Herresingle,,Sigurd K Lausund,,Sara Elisabeth Norheim Jørgensen,"21/18,21/13",Sigurd K Lausund,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Andri Snær Stefansson,"21/13,21/3",Trygve Gulbrandsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Ronja Hartmann,"21/13,21/18",Trygve Gulbrandsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Eskil Styve,"21/10,21/14",Trygve Gulbrandsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Ronja Hartmann,,Eskil Styve,"16/21,21/14,21/16",Ronja Hartmann,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Jens Karlsbakk Småge,,Andri Snær Stefansson,"21/16,21/14",Jens Karlsbakk Småge,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Trygve Gulbrandsen,,Jens Karlsbakk Småge,"21/6,21/6",Trygve Gulbrandsen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Ronja Hartmann,,Viktoria Humlen,"21/16,21/18",Ronja Hartmann,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Viktoria Humlen,,Petter Leikanger,"21/11,21/7",Viktoria Humlen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Ronja Hartmann,,Petter Leikanger,"21/7,21/5",Ronja Hartmann,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Eskil Styve,,Kristoffer Jenssen,"20/22,21/19,21/7",Eskil Styve,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Kristoffer Jenssen,,Daniel Flataker,"21/15,21/14",Kristoffer Jenssen,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herresingle,,Eskil Styve,,Daniel Flataker,"21/6,21/5",Eskil Styve,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herredouble,Trygve Gulbrandsen,Jens Karlsbakk Småge,Andri Snær Stefansson,Petter Leikanger,"21/8,21/10",Trygve Gulbrandsen,Jens Karlsbakk Småge
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herredouble,Trygve Gulbrandsen,Jens Karlsbakk Småge,Kristoffer Jenssen,Eskil Styve,"21/12,21/14",Trygve Gulbrandsen,Jens Karlsbakk Småge
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Herredouble,Kristoffer Jenssen,Eskil Styve,Andri Snær Stefansson,Petter Leikanger,"21/15,21/14",Kristoffer Jenssen,Eskil Styve
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Mixeddouble,Andrea Ulla Nogva,Trygve Gulbrandsen,Viktoria Humlen,Eskil Styve,"21/9,17/21,21/16",Andrea Ulla Nogva,Trygve Gulbrandsen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Mixeddouble,Andrea Ulla Nogva,Trygve Gulbrandsen,Ronja Hartmann,Martin Stene Olsen,"2121/16,19/21,21/19",Andrea Ulla Nogva,Trygve Gulbrandsen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 A,Mixeddouble,Ronja Hartmann,Martin Stene Olsen,Viktoria Humlen,Eskil Styve,"19/21,22/20,23/21",Ronja Hartmann,Martin Stene Olsen
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U15 B,Damesingle,,Heidi K Hofseth,,Karoline Bjørnestad,"21/13,21/4",Heidi K Hofseth,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U17 B,Damesingle,,Moana Vadseth Furholm,,Hedda Leikanger Østraat,"21/8,21/7",Moana Vadseth Furholm,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U17 B,Damesingle,,Moana Vadseth Furholm,,Eira Vik Langhammer,"21/15,21/15",Moana Vadseth Furholm,
+2017/2018,Norborg Sparebanken Møre Cup,11.11.2017,U17 B,Damesingle,,Eira Vik Langhammer,,Hedda Leikanger Østraat,"21/9,21/6",Eira Vik Langhammer,

@@ -1,204 +1,132 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Tyra Friisenfeldt,"21/16,21/18",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Mariann Andreassen,"21/15,16/21,21/16",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Anne Skjævesland,"21/10,27/25",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Anne Skjævesland,"21/3,21/13",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mariann Andreassen,,Iris Hagen,"21/14,21/10",Mariann Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Iris Hagen,"21/5,21/17",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/16,21/10",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mariann Andreassen,Terje Jacobsen,Houshang Jabbarzadeh,Hemant Anilkumar,"21/10,21/13",Mariann Andreassen,Terje Jacobsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Houshang Jabbarzadeh,Hemant Anilkumar,"21/15,21/15",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Mariann Andreassen,Terje Jacobsen,"21/8,25/23",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mette Skjævesland Pedersen,Tyra Friisenfeldt,Cecilie Li,Elisabeth Pape,"17/21,21/15,21/19",Mette Skjævesland Pedersen,Tyra Friisenfeldt
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Cecilie Li,Elisabeth Pape,"20/22,21/16,21/14",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/10,21/15",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Tyra Friisenfeldt,"21/16,21/18",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Mariann Andreassen,"21/15,16/21,21/16",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Anne Skjævesland,"21/10,27/25",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Anne Skjævesland,"21/3,21/13",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mariann Andreassen,,Iris Hagen,"21/14,21/10",Mariann Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Iris Hagen,"21/5,21/17",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/16,21/10",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mariann Andreassen,Terje Jacobsen,Houshang Jabbarzadeh,Hemant Anilkumar,"21/10,21/13",Mariann Andreassen,Terje Jacobsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Houshang Jabbarzadeh,Hemant Anilkumar,"21/15,21/15",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Mariann Andreassen,Terje Jacobsen,"21/8,25/23",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mette Skjævesland Pedersen,Tyra Friisenfeldt,Cecilie Li,Elisabeth Pape,"17/21,21/15,21/19",Mette Skjævesland Pedersen,Tyra Friisenfeldt
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Cecilie Li,Elisabeth Pape,"20/22,21/16,21/14",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/10,21/15",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Anders Bellesen,"21/1,21/3",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Anilkumar Unnithan,"19/21,21/10,21/6",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Eivind Larsen,,Anilkumar Unnithan,"21/14,21/3",Eivind Larsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Marius Kjellqvist,,Michael Rettore,"21/7,21/9",Marius Kjellqvist,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Marius Kjellqvist,,Eivind Larsen,"21/13,21/12",Marius Kjellqvist,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Michael Rettore,"21/5,21/10",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Eivind Larsen,"21/12,21/11",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Marius Kjellqvist,,Anilkumar Unnithan,"21/6,21/11",Marius Kjellqvist,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anilkumar Unnithan,,Michael Rettore,"21/11,21/9",Anilkumar Unnithan,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Marius Kjellqvist,"21/19,21/19",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Eivind Larsen,,Michael Rettore,"21/16,21/14",Eivind Larsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stian Ekroll Glenne,,Kim Rasmussen,"21/13,21/6",Stian Ekroll Glenne,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Andre Heim,,Siby Abraham,"18/21,21/15,21/15",Andre Heim,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stian Ekroll Glenne,,Andre Heim,"21/15,21/13",Stian Ekroll Glenne,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Kim Rasmussen,"21/5,21/12",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Stian Ekroll Glenne,"17/21,21/11,21/17",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Kim Rasmussen,,Siby Abraham,"21/10,22/20",Kim Rasmussen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stian Ekroll Glenne,,Siby Abraham,"21/18,21/15",Stian Ekroll Glenne,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Andre Heim,"18/21,22/20,24/22",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Andre Heim,,Kim Rasmussen,"21/16,21/15",Andre Heim,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Siby Abraham,"21/18,21/10",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Anders Bellesen,"21/1,21/3",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Anilkumar Unnithan,"19/21,21/10,21/6",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Eivind Larsen,,Anilkumar Unnithan,"21/14,21/3",Eivind Larsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Marius Kjellqvist,,Michael Rettore,"21/7,21/9",Marius Kjellqvist,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Marius Kjellqvist,,Eivind Larsen,"21/13,21/12",Marius Kjellqvist,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Michael Rettore,"21/5,21/10",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Eivind Larsen,"21/12,21/11",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Marius Kjellqvist,,Anilkumar Unnithan,"21/6,21/11",Marius Kjellqvist,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anilkumar Unnithan,,Michael Rettore,"21/11,21/9",Anilkumar Unnithan,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Joakim Andreassen,,Marius Kjellqvist,"21/19,21/19",Joakim Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Eivind Larsen,,Michael Rettore,"21/16,21/14",Eivind Larsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stian Ekroll Glenne,,Kim Rasmussen,"21/13,21/6",Stian Ekroll Glenne,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Andre Heim,,Siby Abraham,"18/21,21/15,21/15",Andre Heim,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stian Ekroll Glenne,,Andre Heim,"21/15,21/13",Stian Ekroll Glenne,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Kim Rasmussen,"21/5,21/12",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Stian Ekroll Glenne,"17/21,21/11,21/17",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Kim Rasmussen,,Siby Abraham,"21/10,22/20",Kim Rasmussen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stian Ekroll Glenne,,Siby Abraham,"21/18,21/15",Stian Ekroll Glenne,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Andre Heim,"18/21,22/20,24/22",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Andre Heim,,Kim Rasmussen,"21/16,21/15",Andre Heim,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Anders Bellesen,,Siby Abraham,"21/18,21/10",Anders Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stine Skjævesland Pedersen,,Margrethe Schrøder-Nielsen,"21/19,21/19",Stine Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Sara Bellesen,,Sandra-Viktoria Karlsen,"21/15,21/13",Sara Bellesen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Margrethe Schrøder-Nielsen,,Sandra-Viktoria Karlsen,"21/14,21/17",Margrethe Schrøder-Nielsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stine Skjævesland Pedersen,,Sara Bellesen,"21/18,21/8",Stine Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Margrethe Schrøder-Nielsen,,Sara Bellesen,"21/8,21/17",Margrethe Schrøder-Nielsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,,Stine Skjævesland Pedersen,,Sandra-Viktoria Karlsen,"21/17,21/11",Stine Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Torstein Vikse Olsen,Sondre Frøyland,Eivind Larsen,Kjetil Vestly Larsen,"21/19,14/21,21/17",Torstein Vikse Olsen,Sondre Frøyland
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Eivind Larsen,Kjetil Vestly Larsen,Andre Heim,Anne Skjævesland,"21/19,21/16",Eivind Larsen,Kjetil Vestly Larsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Kim Rasmussen,Bente Kverneland,Agus Darmawan,Michael Rettore,"21/17,19/21,21/16",Kim Rasmussen,Bente Kverneland
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Torstein Vikse Olsen,Sondre Frøyland,Agus Darmawan,Michael Rettore,"21/13,19/21,21/18",Torstein Vikse Olsen,Sondre Frøyland
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Torstein Vikse Olsen,Sondre Frøyland,Kim Rasmussen,Bente Kverneland,"17/21,21/18,21/5",Torstein Vikse Olsen,Sondre Frøyland
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Joakim Andreassen,Stian Ekroll Glenne,Anilkumar Unnithan,Siby Abraham,"21/14,21/11",Joakim Andreassen,Stian Ekroll Glenne
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Eivind Larsen,Kjetil Vestly Larsen,Anilkumar Unnithan,Siby Abraham,"21/19,21/17",Eivind Larsen,Kjetil Vestly Larsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Eivind Larsen,Kjetil Vestly Larsen,Joakim Andreassen,Stian Ekroll Glenne,"21/14,15/21,21/15",Eivind Larsen,Kjetil Vestly Larsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Andre Heim,Anne Skjævesland,Sara Bellesen,Nora Lindanger,"21/8,21/13",Andre Heim,Anne Skjævesland
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Andre Heim,Anne Skjævesland,Stian Horvei,Anders Bellesen,"18/21,21/14,21/18",Andre Heim,Anne Skjævesland
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Stian Horvei,Anders Bellesen,Sara Bellesen,Nora Lindanger,"21/18,21/12",Stian Horvei,Anders Bellesen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Tyra Friisenfeldt,"21/16,21/18",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Mariann Andreassen,"21/15,16/21,21/16",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Anne Skjævesland,"21/10,27/25",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Anne Skjævesland,"21/3,21/13",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mariann Andreassen,,Iris Hagen,"21/14,21/10",Mariann Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Iris Hagen,"21/5,21/17",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/16,21/10",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mariann Andreassen,Terje Jacobsen,Houshang Jabbarzadeh,Hemant Anilkumar,"21/10,21/13",Mariann Andreassen,Terje Jacobsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Houshang Jabbarzadeh,Hemant Anilkumar,"21/15,21/15",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Mariann Andreassen,Terje Jacobsen,"21/8,25/23",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mette Skjævesland Pedersen,Tyra Friisenfeldt,Cecilie Li,Elisabeth Pape,"17/21,21/15,21/19",Mette Skjævesland Pedersen,Tyra Friisenfeldt
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Cecilie Li,Elisabeth Pape,"20/22,21/16,21/14",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/10,21/15",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Audrina Ammara Darmawan,,Vyom Naimish Doshi,"21/9,21/10",Audrina Ammara Darmawan,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Emil Lien Akre,,Simen Lien Akre,"21/12,21/6",Emil Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Emil Lien Akre,,Audrina Ammara Darmawan,"21/11,21/15",Emil Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Simen Lien Akre,,Vyom Naimish Doshi,"21/16,21/14",Simen Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Simen Lien Akre,,Audrina Ammara Darmawan,"21/18,28/26",Simen Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Emil Lien Akre,,Vyom Naimish Doshi,"21/13,21/4",Emil Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Audrina Ammara Darmawan,,Vyom Naimish Doshi,"21/9,21/10",Audrina Ammara Darmawan,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Emil Lien Akre,,Simen Lien Akre,"21/12,21/6",Emil Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Emil Lien Akre,,Audrina Ammara Darmawan,"21/11,21/15",Emil Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Simen Lien Akre,,Vyom Naimish Doshi,"21/16,21/14",Simen Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Simen Lien Akre,,Audrina Ammara Darmawan,"21/18,28/26",Simen Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,,Emil Lien Akre,,Vyom Naimish Doshi,"21/13,21/4",Emil Lien Akre,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Tyra Friisenfeldt,"21/16,21/18",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Mariann Andreassen,"21/15,16/21,21/16",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Anne Skjævesland,"21/10,27/25",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Tyra Friisenfeldt,,Anne Skjævesland,"21/3,21/13",Tyra Friisenfeldt,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mariann Andreassen,,Iris Hagen,"21/14,21/10",Mariann Andreassen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Iris Hagen,"21/5,21/17",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/16,21/10",Mette Skjævesland Pedersen,
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mariann Andreassen,Terje Jacobsen,Houshang Jabbarzadeh,Hemant Anilkumar,"21/10,21/13",Mariann Andreassen,Terje Jacobsen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Houshang Jabbarzadeh,Hemant Anilkumar,"21/15,21/15",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Benjamin Teigland,Michael White,Mariann Andreassen,Terje Jacobsen,"21/8,25/23",Benjamin Teigland,Michael White
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mette Skjævesland Pedersen,Tyra Friisenfeldt,Cecilie Li,Elisabeth Pape,"17/21,21/15,21/19",Mette Skjævesland Pedersen,Tyra Friisenfeldt
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Cecilie Li,Elisabeth Pape,"20/22,21/16,21/14",Randi Selle,Iris Hagen
-2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Randi Selle,Iris Hagen,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/10,21/15",Randi Selle,Iris Hagen
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Terje Jacobsen,,Houshang Jabbarzadeh,"22/20,21/9",Terje Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Michael White,,Randi Selle,"18/21,21/18,21/16",Michael White,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Terje Jacobsen,,Randi Selle,"21/14,21/14",Terje Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Sondre Frøyland,,Houshang Jabbarzadeh,"22/20,19/21,21/19",Sondre Frøyland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Terje Jacobsen,,Sondre Frøyland,"21/6,21/9",Terje Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Michael White,,Houshang Jabbarzadeh,"21/8,21/15",Michael White,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Michael White,,Terje Jacobsen,"21/18,21/19",Michael White,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Sondre Frøyland,,Randi Selle,"21/17,21/17",Sondre Frøyland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Randi Selle,,Houshang Jabbarzadeh,"21/7,21/12",Randi Selle,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herresingle,,Michael White,,Sondre Frøyland,"21/8,21/19",Michael White,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Tyra Friisenfeldt,"21/16,21/18",Mette Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Tyra Friisenfeldt,,Mariann Andreassen,"21/15,16/21,21/16",Tyra Friisenfeldt,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Anne Skjævesland,"21/10,27/25",Mette Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Tyra Friisenfeldt,,Anne Skjævesland,"21/3,21/13",Tyra Friisenfeldt,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Mariann Andreassen,,Iris Hagen,"21/14,21/10",Mariann Andreassen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Iris Hagen,"21/5,21/17",Mette Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damesingle,,Mette Skjævesland Pedersen,,Mariann Andreassen,"21/16,21/10",Mette Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herredouble,Mariann Andreassen,Terje Jacobsen,Houshang Jabbarzadeh,Hemant Anilkumar,"21/10,21/13",Mariann Andreassen,Terje Jacobsen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herredouble,Benjamin Teigland,Michael White,Houshang Jabbarzadeh,Hemant Anilkumar,"21/15,21/15",Benjamin Teigland,Michael White
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Herredouble,Benjamin Teigland,Michael White,Mariann Andreassen,Terje Jacobsen,"21/8,25/23",Benjamin Teigland,Michael White
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damedouble,Mette Skjævesland Pedersen,Tyra Friisenfeldt,Cecilie Li,Elisabeth Pape,"17/21,21/15,21/19",Mette Skjævesland Pedersen,Tyra Friisenfeldt
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damedouble,Randi Selle,Iris Hagen,Cecilie Li,Elisabeth Pape,"20/22,21/16,21/14",Randi Selle,Iris Hagen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Damedouble,Randi Selle,Iris Hagen,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/10,21/15",Randi Selle,Iris Hagen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mixeddouble,Terje Jacobsen,Randi Selle,Michael White,Mariann Andreassen,"21/10,21/10",Terje Jacobsen,Randi Selle
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mixeddouble,Michael White,Mariann Andreassen,Houshang Jabbarzadeh,Cecilie Li,"21/16,19/21,21/14",Michael White,Mariann Andreassen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mixeddouble,Terje Jacobsen,Randi Selle,Mette Skjævesland Pedersen,Trygve Ellingsen,"14/21,21/17,21/17",Terje Jacobsen,Randi Selle
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mixeddouble,Terje Jacobsen,Randi Selle,Bente Kverneland,Kjetil Vestly Larsen,"21/12,21/4",Terje Jacobsen,Randi Selle
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN A,Mixeddouble,Mette Skjævesland Pedersen,Trygve Ellingsen,Bente Kverneland,Kjetil Vestly Larsen,"21/11,21/6",Mette Skjævesland Pedersen,Trygve Ellingsen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Joakim Andreassen,,Anders Bellesen,"21/1,21/3",Joakim Andreassen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Joakim Andreassen,,Anilkumar Unnithan,"19/21,21/10,21/6",Joakim Andreassen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Eivind Larsen,,Anilkumar Unnithan,"21/14,21/3",Eivind Larsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Marius Kjellqvist,,Michael Rettore,"21/7,21/9",Marius Kjellqvist,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Marius Kjellqvist,,Eivind Larsen,"21/13,21/12",Marius Kjellqvist,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Joakim Andreassen,,Michael Rettore,"21/5,21/10",Joakim Andreassen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Joakim Andreassen,,Eivind Larsen,"21/12,21/11",Joakim Andreassen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Marius Kjellqvist,,Anilkumar Unnithan,"21/6,21/11",Marius Kjellqvist,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Anilkumar Unnithan,,Michael Rettore,"21/11,21/9",Anilkumar Unnithan,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Joakim Andreassen,,Marius Kjellqvist,"21/19,21/19",Joakim Andreassen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Eivind Larsen,,Michael Rettore,"21/16,21/14",Eivind Larsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Stian Ekroll Glenne,,Kim Rasmussen,"21/13,21/6",Stian Ekroll Glenne,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Andre Heim,,Siby Abraham,"18/21,21/15,21/15",Andre Heim,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Stian Ekroll Glenne,,Andre Heim,"21/15,21/13",Stian Ekroll Glenne,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Anders Bellesen,,Kim Rasmussen,"21/5,21/12",Anders Bellesen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Anders Bellesen,,Stian Ekroll Glenne,"17/21,21/11,21/17",Anders Bellesen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Kim Rasmussen,,Siby Abraham,"21/10,22/20",Kim Rasmussen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Stian Ekroll Glenne,,Siby Abraham,"21/18,21/15",Stian Ekroll Glenne,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Anders Bellesen,,Andre Heim,"18/21,22/20,24/22",Anders Bellesen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Andre Heim,,Kim Rasmussen,"21/16,21/15",Andre Heim,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herresingle,,Anders Bellesen,,Siby Abraham,"21/18,21/10",Anders Bellesen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Damesingle,,Stine Skjævesland Pedersen,,Margrethe Schrøder-Nielsen,"21/19,21/19",Stine Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Damesingle,,Sara Bellesen,,Sandra-Viktoria Karlsen,"21/15,21/13",Sara Bellesen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Damesingle,,Margrethe Schrøder-Nielsen,,Sandra-Viktoria Karlsen,"21/14,21/17",Margrethe Schrøder-Nielsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Damesingle,,Stine Skjævesland Pedersen,,Sara Bellesen,"21/18,21/8",Stine Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Damesingle,,Margrethe Schrøder-Nielsen,,Sara Bellesen,"21/8,21/17",Margrethe Schrøder-Nielsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Damesingle,,Stine Skjævesland Pedersen,,Sandra-Viktoria Karlsen,"21/17,21/11",Stine Skjævesland Pedersen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Torstein Vikse Olsen,Sondre Frøyland,Eivind Larsen,Kjetil Vestly Larsen,"21/19,14/21,21/17",Torstein Vikse Olsen,Sondre Frøyland
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Eivind Larsen,Kjetil Vestly Larsen,Andre Heim,Anne Skjævesland,"21/19,21/16",Eivind Larsen,Kjetil Vestly Larsen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Kim Rasmussen,Bente Kverneland,Agus Darmawan,Michael Rettore,"21/17,19/21,21/16",Kim Rasmussen,Bente Kverneland
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Torstein Vikse Olsen,Sondre Frøyland,Agus Darmawan,Michael Rettore,"21/13,19/21,21/18",Torstein Vikse Olsen,Sondre Frøyland
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Torstein Vikse Olsen,Sondre Frøyland,Kim Rasmussen,Bente Kverneland,"17/21,21/18,21/5",Torstein Vikse Olsen,Sondre Frøyland
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Joakim Andreassen,Stian Ekroll Glenne,Anilkumar Unnithan,Siby Abraham,"21/14,21/11",Joakim Andreassen,Stian Ekroll Glenne
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Eivind Larsen,Kjetil Vestly Larsen,Anilkumar Unnithan,Siby Abraham,"21/19,21/17",Eivind Larsen,Kjetil Vestly Larsen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Eivind Larsen,Kjetil Vestly Larsen,Joakim Andreassen,Stian Ekroll Glenne,"21/14,15/21,21/15",Eivind Larsen,Kjetil Vestly Larsen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Andre Heim,Anne Skjævesland,Sara Bellesen,Nora Lindanger,"21/8,21/13",Andre Heim,Anne Skjævesland
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Andre Heim,Anne Skjævesland,Stian Horvei,Anders Bellesen,"18/21,21/14,21/18",Andre Heim,Anne Skjævesland
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Herredouble,Stian Horvei,Anders Bellesen,Sara Bellesen,Nora Lindanger,"21/18,21/12",Stian Horvei,Anders Bellesen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Mixeddouble,Sara Bellesen,Anders Bellesen,Sandra-Viktoria Karlsen,Michael Rettore,"21/6,21/19",Sara Bellesen,Anders Bellesen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Mixeddouble,Stine Skjævesland Pedersen,Kjetil Pedersen,Sara Bellesen,Anders Bellesen,"17/21,21/16,21/19",Stine Skjævesland Pedersen,Kjetil Pedersen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,SEN C,Mixeddouble,Stine Skjævesland Pedersen,Kjetil Pedersen,Sandra-Viktoria Karlsen,Michael Rettore,"21/10,21/11",Stine Skjævesland Pedersen,Kjetil Pedersen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,Herresingle,,Audrina Ammara Darmawan,,Vyom Naimish Doshi,"21/9,21/10",Audrina Ammara Darmawan,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,Herresingle,,Emil Lien Akre,,Simen Lien Akre,"21/12,21/6",Emil Lien Akre,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,Herresingle,,Emil Lien Akre,,Audrina Ammara Darmawan,"21/11,21/15",Emil Lien Akre,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,Herresingle,,Simen Lien Akre,,Vyom Naimish Doshi,"21/16,21/14",Simen Lien Akre,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,Herresingle,,Simen Lien Akre,,Audrina Ammara Darmawan,"21/18,28/26",Simen Lien Akre,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U11 A,Herresingle,,Emil Lien Akre,,Vyom Naimish Doshi,"21/13,21/4",Emil Lien Akre,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Herman Dalan  Eidissen,,Brage Løken-Jacobsen,"21/7,21/6",Herman Dalan  Eidissen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Brage Løken-Jacobsen,,Elkan Abraham,"21/17,21/10",Brage Løken-Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Leon Olai Berg Iding,,Phillip Nguyen,"21/16,21/12",Leon Olai Berg Iding,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Herman Dalan  Eidissen,,Erik Rasmussen,"21/2,21/3",Herman Dalan  Eidissen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Phillip Nguyen,,Erik Rasmussen,"13/21,21/13,21/13",Phillip Nguyen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Nandita Anil,,Leon Olai Berg Iding,"21/12,21/13",Nandita Anil,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Herman Dalan  Eidissen,,Phillip Nguyen,"21/6,21/6",Herman Dalan  Eidissen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Nandita Anil,,Erik Rasmussen,"21/16,21/17",Nandita Anil,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Nandita Anil,,Phillip Nguyen,"21/10,21/12",Nandita Anil,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Herman Dalan  Eidissen,,Leon Olai Berg Iding,"21/4,21/0",Herman Dalan  Eidissen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Leon Olai Berg Iding,,Erik Rasmussen,"21/17,21/17",Leon Olai Berg Iding,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Herman Dalan  Eidissen,,Nandita Anil,"21/2,21/4",Herman Dalan  Eidissen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Leon Johan Stangeland,,Even Lien Akre,"18/21,21/7,21/16",Leon Johan Stangeland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Erlend Ruud-Larsen,,Even Lien Akre,"21/7,21/8",Erlend Ruud-Larsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Brage Løken-Jacobsen,,Leon Johan Stangeland,"21/3,21/0",Brage Løken-Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Erlend Ruud-Larsen,,Leon Johan Stangeland,"21/15,22/20",Erlend Ruud-Larsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Brage Løken-Jacobsen,,Even Lien Akre,"21/0,21/1",Brage Løken-Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Brage Løken-Jacobsen,,Erlend Ruud-Larsen,"21/1,21/5",Brage Løken-Jacobsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Elkan Abraham,,Markus Lilleskog-Zhu,"21/7,21/15",Elkan Abraham,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Elkan Abraham,,Siddham Awasthi,"21/4,21/5",Elkan Abraham,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herresingle,,Markus Lilleskog-Zhu,,Siddham Awasthi,"22/20,21/9",Markus Lilleskog-Zhu,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Herman Dalan  Eidissen,Elkan Abraham,Nandita Anil,Sara Janvin,"21/5,21/9",Herman Dalan  Eidissen,Elkan Abraham
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Phillip Nguyen,Markus Lilleskog-Zhu,Siddham Awasthi,Erik Rasmussen,"21/13,21/15",Phillip Nguyen,Markus Lilleskog-Zhu
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Herman Dalan  Eidissen,Elkan Abraham,Siddham Awasthi,Erik Rasmussen,"21/0,21/3",Herman Dalan  Eidissen,Elkan Abraham
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Herman Dalan  Eidissen,Elkan Abraham,Phillip Nguyen,Markus Lilleskog-Zhu,"21/5,21/8",Herman Dalan  Eidissen,Elkan Abraham
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Even Lien Akre,Brage Løken-Jacobsen,Erlend Ruud-Larsen,Eimund Tangen,"22/20,21/17",Even Lien Akre,Brage Løken-Jacobsen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Nandita Anil,Sara Janvin,Even Lien Akre,Brage Løken-Jacobsen,"21/19,21/15",Nandita Anil,Sara Janvin
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U13 A,Herredouble,Nandita Anil,Sara Janvin,Erlend Ruud-Larsen,Eimund Tangen,"21/11,21/10",Nandita Anil,Sara Janvin
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herresingle,,Christoffer Nguyen,,Eskil Ruud-Larsen,"21/9,21/5",Christoffer Nguyen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herresingle,,Theodor Eik,,Astrid Lovise Pallesen,"21/12,21/12",Theodor Eik,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herresingle,,Astrid Lovise Pallesen,,Eskil Ruud-Larsen,"21/16,21/8",Astrid Lovise Pallesen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herresingle,,Theodor Eik,,Christoffer Nguyen,"21/10,21/14",Theodor Eik,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herresingle,,Theodor Eik,,Eskil Ruud-Larsen,"21/9,21/12",Theodor Eik,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herresingle,,Christoffer Nguyen,,Astrid Lovise Pallesen,"21/13,21/19",Christoffer Nguyen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herredouble,Stine Skjævesland Pedersen,Astrid Lovise Pallesen,Theodor Eik,Håvard Møgedal,"21/8,21/19",Stine Skjævesland Pedersen,Astrid Lovise Pallesen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herredouble,Eskil Ruud-Larsen,Christoffer Nguyen,Erle Sinnes,Mathea Bø Hansen,"21/12,21/15",Eskil Ruud-Larsen,Christoffer Nguyen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herredouble,Theodor Eik,Håvard Møgedal,Eskil Ruud-Larsen,Christoffer Nguyen,"21/12,21/10",Theodor Eik,Håvard Møgedal
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herredouble,Stine Skjævesland Pedersen,Astrid Lovise Pallesen,Erle Sinnes,Mathea Bø Hansen,"21/5,21/7",Stine Skjævesland Pedersen,Astrid Lovise Pallesen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herredouble,Theodor Eik,Håvard Møgedal,Erle Sinnes,Mathea Bø Hansen,"21/12,21/12",Theodor Eik,Håvard Møgedal
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Herredouble,Stine Skjævesland Pedersen,Astrid Lovise Pallesen,Eskil Ruud-Larsen,Christoffer Nguyen,"21/17,21/8",Stine Skjævesland Pedersen,Astrid Lovise Pallesen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Mixeddouble,Nandita Anil,Elkan Abraham,Audrina Ammara Darmawan,Erik Rasmussen,"21/4,21/10",Nandita Anil,Elkan Abraham
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Mixeddouble,Siddham Awasthi,Astrid Lovise Pallesen,Audrina Ammara Darmawan,Erik Rasmussen,"21/13,21/7",Siddham Awasthi,Astrid Lovise Pallesen
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 A,Mixeddouble,Nandita Anil,Elkan Abraham,Siddham Awasthi,Astrid Lovise Pallesen,"21/10,21/12",Nandita Anil,Elkan Abraham
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 B,Damesingle,,Ploy Lea,,Tanisha Naimish Doshi,"21/4,21/2",Ploy Lea,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 B,Damesingle,,Sara Janvin,,Ploy Lea,"16/21,22/20,21/16",Sara Janvin,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U15 B,Damesingle,,Sara Janvin,,Tanisha Naimish Doshi,"21/5,21/6",Sara Janvin,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Torstein Vikse Olsen,,Hemant Anilkumar,"21/17,10/21,25/23",Torstein Vikse Olsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Benjamin Teigland,,Vegard Svennevik,"21/5,21/7",Benjamin Teigland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Benjamin Teigland,,Hemant Anilkumar,"21/13,21/9",Benjamin Teigland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Torstein Vikse Olsen,,Stian Horvei,"21/10,21/10",Torstein Vikse Olsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Hemant Anilkumar,,Stian Horvei,"21/12,21/10",Hemant Anilkumar,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Torstein Vikse Olsen,,Vegard Svennevik,"21/5,21/12",Torstein Vikse Olsen,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Hemant Anilkumar,,Vegard Svennevik,"21/0,21/5",Hemant Anilkumar,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Benjamin Teigland,,Stian Horvei,"21/8,21/11",Benjamin Teigland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Benjamin Teigland,,Torstein Vikse Olsen,"21/15,21/16",Benjamin Teigland,
+2017/2018,Stavanger Sommerblomsten 2018,09.06.2018,U19 A,Herresingle,,Stian Horvei,,Vegard Svennevik,"25/23,21/18",Stian Horvei,

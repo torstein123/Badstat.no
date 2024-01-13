@@ -1,170 +1,112 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Anders Haugland,Kristoffer Brandsås Berg,"21/11,21/14",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Rolf Ove Karlsen,Trond Mære,Kristian Hyllestad,Robert Barø,"21/16,21/18",Rolf Ove Karlsen,Trond Mære
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Anders Haugland,Kristoffer Brandsås Berg,Kristian Hyllestad,Robert Barø,"21/8,25/23",Anders Haugland,Kristoffer Brandsås Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Anders Haugland,Kristoffer Brandsås Berg,Rolf Ove Karlsen,Trond Mære,"21/17,21/16",Anders Haugland,Kristoffer Brandsås Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Hari Shankar Chembeti,Bård Vegard Bævre,Lars Erik Karlsen,Roar Natvig,"21/18,21/17",Hari Shankar Chembeti,Bård Vegard Bævre
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Lars Erik Karlsen,Roar Natvig,"21/15,21/16",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Hari Shankar Chembeti,Bård Vegard Bævre,"21/10,21/19",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Kristian Hyllestad,,Harald Buvik,"19/21,21/19,21/11",Kristian Hyllestad,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Robert Barø,,Lars Petter Danielsen,"21/18,21/11",Robert Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Lars Petter Danielsen,,Harald Buvik,"21/17,21/17",Lars Petter Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Robert Barø,,Kristian Hyllestad,"21/15,21/15",Robert Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Robert Barø,,Harald Buvik,"21/7,21/10",Robert Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Lars Petter Danielsen,,Kristian Hyllestad,"21/17,21/11",Lars Petter Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Kristian Hyllestad,,Harald Buvik,"19/21,21/19,21/11",Kristian Hyllestad,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Robert Barø,,Lars Petter Danielsen,"21/18,21/11",Robert Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Lars Petter Danielsen,,Harald Buvik,"21/17,21/17",Lars Petter Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Robert Barø,,Kristian Hyllestad,"21/15,21/15",Robert Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Robert Barø,,Harald Buvik,"21/7,21/10",Robert Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,,Lars Petter Danielsen,,Kristian Hyllestad,"21/17,21/11",Lars Petter Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Fred Moen,Runar Måøy,Robin Kruksve Krux,Fredrik Nilssen,"21/19,21/7",Fred Moen,Runar Måøy
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Fred Moen,Runar Måøy,Lars Petter Danielsen,Erik Måøy,"21/10,21/15",Fred Moen,Runar Måøy
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Fred Moen,Runar Måøy,Jørgen Olsen,Marius Olsen,"21/11,21/10",Fred Moen,Runar Måøy
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Jørgen Olsen,Marius Olsen,Lars Petter Danielsen,Erik Måøy,"21/19,21/18",Jørgen Olsen,Marius Olsen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Robin Kruksve Krux,Fredrik Nilssen,Hildegunn Måøy,Shuwen Yang,"19/21,21/16,21/15",Robin Kruksve Krux,Fredrik Nilssen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Hildegunn Måøy,Shuwen Yang,Stig Gåsbakk,Harald Buvik,"13/21,21/19,21/17",Hildegunn Måøy,Shuwen Yang
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Robin Kruksve Krux,Fredrik Nilssen,Stig Gåsbakk,Harald Buvik,"21/12,22/20",Robin Kruksve Krux,Fredrik Nilssen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Asgeir Våbenø Berg,,Jørgen Olsen,"21/10,21/8",Asgeir Våbenø Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Asgeir Våbenø Berg,,Marius Olsen,"21/12,21/13",Asgeir Våbenø Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Asgeir Våbenø Berg,,Stig Gåsbakk,"21/4,22/20",Asgeir Våbenø Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Marius Olsen,,Stig Gåsbakk,"21/9,21/17",Marius Olsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Jørgen Olsen,,Mattis Sæther-Danielsen,"21/11,21/15",Jørgen Olsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Mattis Sæther-Danielsen,,Fredrik Nilssen,"21/12,17/21,25/23",Mattis Sæther-Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Jørgen Olsen,,Fredrik Nilssen,"16/21,21/19,21/18",Jørgen Olsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Asgeir Våbenø Berg,,Jørgen Olsen,"21/10,21/8",Asgeir Våbenø Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Asgeir Våbenø Berg,,Marius Olsen,"21/12,21/13",Asgeir Våbenø Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Asgeir Våbenø Berg,,Stig Gåsbakk,"21/4,22/20",Asgeir Våbenø Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Marius Olsen,,Stig Gåsbakk,"21/9,21/17",Marius Olsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Jørgen Olsen,,Mattis Sæther-Danielsen,"21/11,21/15",Jørgen Olsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Mattis Sæther-Danielsen,,Fredrik Nilssen,"21/12,17/21,25/23",Mattis Sæther-Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,,Jørgen Olsen,,Fredrik Nilssen,"16/21,21/19,21/18",Jørgen Olsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Anita Olsen,Anne Berit Bergsmo,Marius Aspaas,Kenneth Haagenstad,"21/8,23/21",Anita Olsen,Anne Berit Bergsmo
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Asgeir Våbenø Berg,Terje Knutseth,Anita Olsen,Anne Berit Bergsmo,"19/21,21/15,21/19",Asgeir Våbenø Berg,Terje Knutseth
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Marius Aspaas,Kenneth Haagenstad,John Thomas Krogstad,Tom Smebye,"21/13,22/20",Marius Aspaas,Kenneth Haagenstad
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Erik Winger,Jan Aage Nyborg,Anita Olsen,Anne Berit Bergsmo,"19/21,21/13,21/18",Erik Winger,Jan Aage Nyborg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Asgeir Våbenø Berg,Terje Knutseth,John Thomas Krogstad,Tom Smebye,"21/16,21/9",Asgeir Våbenø Berg,Terje Knutseth
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Erik Winger,Jan Aage Nyborg,Marius Aspaas,Kenneth Haagenstad,"21/10,14/21,21/16",Erik Winger,Jan Aage Nyborg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Asgeir Våbenø Berg,Terje Knutseth,Marius Aspaas,Kenneth Haagenstad,"21/9,21/16",Asgeir Våbenø Berg,Terje Knutseth
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,John Thomas Krogstad,Tom Smebye,Erik Winger,Jan Aage Nyborg,"21/15,21/18",John Thomas Krogstad,Tom Smebye
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Erik Winger,Jan Aage Nyborg,Asgeir Våbenø Berg,Terje Knutseth,"21/19,10/21,22/20",Erik Winger,Jan Aage Nyborg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Anita Olsen,Anne Berit Bergsmo,John Thomas Krogstad,Tom Smebye,"21/19,21/16",Anita Olsen,Anne Berit Bergsmo
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Marte Aasen Jensen,Aina Kaspersen,MARTE EGGEN,Vivild Våbenø Berg,"21/17,21/13",Marte Aasen Jensen,Aina Kaspersen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Ida Marie Oxaas,Ina Stenkjær,Marte Aasen Jensen,Aina Kaspersen,"21/9,21/9",Ida Marie Oxaas,Ina Stenkjær
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,MARTE EGGEN,Vivild Våbenø Berg,Linda Våbenø Berg,Malin Sæther-Danielsen,"21/18,21/16",MARTE EGGEN,Vivild Våbenø Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Marte Aasen Jensen,Aina Kaspersen,Linda Våbenø Berg,Malin Sæther-Danielsen,"21/11,18/21,21/14",Marte Aasen Jensen,Aina Kaspersen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Ida Marie Oxaas,Ina Stenkjær,MARTE EGGEN,Vivild Våbenø Berg,"21/8,21/11",Ida Marie Oxaas,Ina Stenkjær
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Ida Marie Oxaas,Ina Stenkjær,Linda Våbenø Berg,Malin Sæther-Danielsen,"21/8,21/8",Ida Marie Oxaas,Ina Stenkjær
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Einar Mathias Øren,"21/16,21/7",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Einar Mathias Øren,,Eirik Tetlie,"21/23,22/20,21/9",Einar Mathias Øren,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Nikolai Danielsen,,Carl Danielsen,"21/14,21/16",Nikolai Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Einar Mathias Øren,,Nikolai Danielsen,"21/10,21/15",Einar Mathias Øren,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Eirik Tetlie,,Carl Danielsen,"21/10,21/18",Eirik Tetlie,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Einar Mathias Øren,,Carl Danielsen,"21/12,21/10",Einar Mathias Øren,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Eirik Tetlie,,Nikolai Danielsen,"21/12,21/16",Eirik Tetlie,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Johannes Lillevik Førde,,Bahram Gorrjiyan,"21/15,21/15",Johannes Lillevik Førde,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Bahram Gorrjiyan,,Kurt Førde,"21/18,20/22,21/5",Bahram Gorrjiyan,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Johannes Lillevik Førde,"21/13,16/21,21/18",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Bahram Gorrjiyan,"21/14,21/6",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Johannes Lillevik Førde,,Kurt Førde,"21/14,25/23",Johannes Lillevik Førde,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Kurt Førde,"21/9,21/10",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Einar Mathias Øren,"21/16,21/7",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Einar Mathias Øren,,Eirik Tetlie,"21/23,22/20,21/9",Einar Mathias Øren,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Nikolai Danielsen,,Carl Danielsen,"21/14,21/16",Nikolai Danielsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Einar Mathias Øren,,Nikolai Danielsen,"21/10,21/15",Einar Mathias Øren,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Eirik Tetlie,,Carl Danielsen,"21/10,21/18",Eirik Tetlie,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Einar Mathias Øren,,Carl Danielsen,"21/12,21/10",Einar Mathias Øren,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Eirik Tetlie,,Nikolai Danielsen,"21/12,21/16",Eirik Tetlie,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Johannes Lillevik Førde,,Bahram Gorrjiyan,"21/15,21/15",Johannes Lillevik Førde,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Bahram Gorrjiyan,,Kurt Førde,"21/18,20/22,21/5",Bahram Gorrjiyan,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Johannes Lillevik Førde,"21/13,16/21,21/18",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Bahram Gorrjiyan,"21/14,21/6",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Johannes Lillevik Førde,,Kurt Førde,"21/14,25/23",Johannes Lillevik Førde,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,,Marius Aspaas,,Kurt Førde,"21/9,21/10",Marius Aspaas,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Martin Stenkjær,Jan Erik Stenkjær,Einar Mathias Øren,Mattis Sæther-Danielsen,"12/21,21/19,21/14",Martin Stenkjær,Jan Erik Stenkjær
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Kurt Førde,Johannes Lillevik Førde,Eirik Tetlie,Bahram Gorrjiyan,"21/10,16/21,21/17",Kurt Førde,Johannes Lillevik Førde
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Martin Stenkjær,Jan Erik Stenkjær,Eirik Tetlie,Bahram Gorrjiyan,"21/8,8/21,21/11",Martin Stenkjær,Jan Erik Stenkjær
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Martin Stenkjær,Jan Erik Stenkjær,Kurt Førde,Johannes Lillevik Førde,"21/19,21/12",Martin Stenkjær,Jan Erik Stenkjær
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Sondre Westrum,Stian Vimo Gripp,Carl Danielsen,Nikolai Danielsen,"21/8,21/10",Sondre Westrum,Stian Vimo Gripp
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Einar Mathias Øren,Mattis Sæther-Danielsen,Sondre Westrum,Stian Vimo Gripp,"21/17,21/19",Einar Mathias Øren,Mattis Sæther-Danielsen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Einar Mathias Øren,Mattis Sæther-Danielsen,Carl Danielsen,Nikolai Danielsen,"21/11,21/18",Einar Mathias Øren,Mattis Sæther-Danielsen
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Anders Haugland,Kristoffer Brandsås Berg,"21/11,21/14",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Rolf Ove Karlsen,Trond Mære,Kristian Hyllestad,Robert Barø,"21/16,21/18",Rolf Ove Karlsen,Trond Mære
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Anders Haugland,Kristoffer Brandsås Berg,Kristian Hyllestad,Robert Barø,"21/8,25/23",Anders Haugland,Kristoffer Brandsås Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Anders Haugland,Kristoffer Brandsås Berg,Rolf Ove Karlsen,Trond Mære,"21/17,21/16",Anders Haugland,Kristoffer Brandsås Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Hari Shankar Chembeti,Bård Vegard Bævre,Lars Erik Karlsen,Roar Natvig,"21/18,21/17",Hari Shankar Chembeti,Bård Vegard Bævre
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Lars Erik Karlsen,Roar Natvig,"21/15,21/16",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Hari Shankar Chembeti,Bård Vegard Bævre,"21/10,21/19",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Anders Haugland,Kristoffer Brandsås Berg,"21/11,21/14",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Rolf Ove Karlsen,Trond Mære,Kristian Hyllestad,Robert Barø,"21/16,21/18",Rolf Ove Karlsen,Trond Mære
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Anders Haugland,Kristoffer Brandsås Berg,Kristian Hyllestad,Robert Barø,"21/8,25/23",Anders Haugland,Kristoffer Brandsås Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Anders Haugland,Kristoffer Brandsås Berg,Rolf Ove Karlsen,Trond Mære,"21/17,21/16",Anders Haugland,Kristoffer Brandsås Berg
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Hari Shankar Chembeti,Bård Vegard Bævre,Lars Erik Karlsen,Roar Natvig,"21/18,21/17",Hari Shankar Chembeti,Bård Vegard Bævre
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Lars Erik Karlsen,Roar Natvig,"21/15,21/16",Kai Roger Stensen,William R. Barø
-2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Kai Roger Stensen,William R. Barø,Hari Shankar Chembeti,Bård Vegard Bævre,"21/10,21/19",Kai Roger Stensen,William R. Barø
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Kai Roger Stensen,,Anders Haugland,"21/17,21/13",Kai Roger Stensen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Anders Haugland,,Kristoffer Brandsås Berg,"21/7,21/0",Anders Haugland,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,William R. Barø,,Leonard Meyer Nordnes,"17/21,21/10,21/9",William R. Barø,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Kai Roger Stensen,,William R. Barø,"21/15,21/11",Kai Roger Stensen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Kai Roger Stensen,,Leonard Meyer Nordnes,"21/17,21/17",Kai Roger Stensen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Kristoffer Brandsås Berg,,Shuwen Yang,"21/11,21/8",Kristoffer Brandsås Berg,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Roar Natvig,,Shuwen Yang,"21/13,21/16",Roar Natvig,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Kristoffer Brandsås Berg,,Roar Natvig,"21/19,21/15",Kristoffer Brandsås Berg,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Anders Haugland,,Erik Måøy,"21/10,21/18",Anders Haugland,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Anders Haugland,,Rolf Ove Karlsen,"21/17,12/21,21/13",Anders Haugland,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herresingle,,Rolf Ove Karlsen,,Erik Måøy,"21/14,21/19",Rolf Ove Karlsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Kai Roger Stensen,William R. Barø,Anders Haugland,Kristoffer Brandsås Berg,"21/11,21/14",Kai Roger Stensen,William R. Barø
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Rolf Ove Karlsen,Trond Mære,Kristian Hyllestad,Robert Barø,"21/16,21/18",Rolf Ove Karlsen,Trond Mære
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Anders Haugland,Kristoffer Brandsås Berg,Kristian Hyllestad,Robert Barø,"21/8,25/23",Anders Haugland,Kristoffer Brandsås Berg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Anders Haugland,Kristoffer Brandsås Berg,Rolf Ove Karlsen,Trond Mære,"21/17,21/16",Anders Haugland,Kristoffer Brandsås Berg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Hari Shankar Chembeti,Bård Vegard Bævre,Lars Erik Karlsen,Roar Natvig,"21/18,21/17",Hari Shankar Chembeti,Bård Vegard Bævre
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Kai Roger Stensen,William R. Barø,Lars Erik Karlsen,Roar Natvig,"21/15,21/16",Kai Roger Stensen,William R. Barø
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Herredouble,Kai Roger Stensen,William R. Barø,Hari Shankar Chembeti,Bård Vegard Bævre,"21/10,21/19",Kai Roger Stensen,William R. Barø
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Hildegunn Måøy,Fred Moen,"21/17,26/24",Rolf Ove Karlsen,Anne Berit Bergsmo
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Shuwen Yang,William R. Barø,"21/13,21/14",Rolf Ove Karlsen,Anne Berit Bergsmo
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Shuwen Yang,William R. Barø,Linn Aasland,Robin Kruksve Krux,"21/13,14/21,21/6",Shuwen Yang,William R. Barø
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Rolf Ove Karlsen,Anne Berit Bergsmo,"21/18,24/22",Trond Mære,Anita Olsen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Hildegunn Måøy,Fred Moen,Linn Aasland,Robin Kruksve Krux,"26/24,21/12",Hildegunn Måøy,Fred Moen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Linn Aasland,Robin Kruksve Krux,"21/11,21/7",Trond Mære,Anita Olsen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Shuwen Yang,William R. Barø,Hildegunn Måøy,Fred Moen,"21/16,21/18",Shuwen Yang,William R. Barø
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Shuwen Yang,William R. Barø,"21/12,18/21,21/14",Trond Mære,Anita Olsen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Hildegunn Måøy,Fred Moen,"21/11,22/20",Trond Mære,Anita Olsen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Linn Aasland,Robin Kruksve Krux,"15/8,21/5",Rolf Ove Karlsen,Anne Berit Bergsmo
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herresingle,,Kristian Hyllestad,,Harald Buvik,"19/21,21/19,21/11",Kristian Hyllestad,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herresingle,,Robert Barø,,Lars Petter Danielsen,"21/18,21/11",Robert Barø,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herresingle,,Lars Petter Danielsen,,Harald Buvik,"21/17,21/17",Lars Petter Danielsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herresingle,,Robert Barø,,Kristian Hyllestad,"21/15,21/15",Robert Barø,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herresingle,,Robert Barø,,Harald Buvik,"21/7,21/10",Robert Barø,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herresingle,,Lars Petter Danielsen,,Kristian Hyllestad,"21/17,21/11",Lars Petter Danielsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Fred Moen,Runar Måøy,Robin Kruksve Krux,Fredrik Nilssen,"21/19,21/7",Fred Moen,Runar Måøy
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Fred Moen,Runar Måøy,Lars Petter Danielsen,Erik Måøy,"21/10,21/15",Fred Moen,Runar Måøy
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Fred Moen,Runar Måøy,Jørgen Olsen,Marius Olsen,"21/11,21/10",Fred Moen,Runar Måøy
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Jørgen Olsen,Marius Olsen,Lars Petter Danielsen,Erik Måøy,"21/19,21/18",Jørgen Olsen,Marius Olsen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Robin Kruksve Krux,Fredrik Nilssen,Hildegunn Måøy,Shuwen Yang,"19/21,21/16,21/15",Robin Kruksve Krux,Fredrik Nilssen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Hildegunn Måøy,Shuwen Yang,Stig Gåsbakk,Harald Buvik,"13/21,21/19,21/17",Hildegunn Måøy,Shuwen Yang
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN B,Herredouble,Robin Kruksve Krux,Fredrik Nilssen,Stig Gåsbakk,Harald Buvik,"21/12,22/20",Robin Kruksve Krux,Fredrik Nilssen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Jørgen Olsen,"21/10,21/8",Asgeir Våbenø Berg,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Marius Olsen,"21/12,21/13",Asgeir Våbenø Berg,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Asgeir Våbenø Berg,,Stig Gåsbakk,"21/4,22/20",Asgeir Våbenø Berg,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Marius Olsen,,Stig Gåsbakk,"21/9,21/17",Marius Olsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Jørgen Olsen,,Mattis Sæther-Danielsen,"21/11,21/15",Jørgen Olsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Mattis Sæther-Danielsen,,Fredrik Nilssen,"21/12,17/21,25/23",Mattis Sæther-Danielsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herresingle,,Jørgen Olsen,,Fredrik Nilssen,"16/21,21/19,21/18",Jørgen Olsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Anita Olsen,Anne Berit Bergsmo,Marius Aspaas,Kenneth Haagenstad,"21/8,23/21",Anita Olsen,Anne Berit Bergsmo
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,Terje Knutseth,Anita Olsen,Anne Berit Bergsmo,"19/21,21/15,21/19",Asgeir Våbenø Berg,Terje Knutseth
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Marius Aspaas,Kenneth Haagenstad,John Thomas Krogstad,Tom Smebye,"21/13,22/20",Marius Aspaas,Kenneth Haagenstad
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Anita Olsen,Anne Berit Bergsmo,"19/21,21/13,21/18",Erik Winger,Jan Aage Nyborg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,Terje Knutseth,John Thomas Krogstad,Tom Smebye,"21/16,21/9",Asgeir Våbenø Berg,Terje Knutseth
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Marius Aspaas,Kenneth Haagenstad,"21/10,14/21,21/16",Erik Winger,Jan Aage Nyborg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Asgeir Våbenø Berg,Terje Knutseth,Marius Aspaas,Kenneth Haagenstad,"21/9,21/16",Asgeir Våbenø Berg,Terje Knutseth
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,John Thomas Krogstad,Tom Smebye,Erik Winger,Jan Aage Nyborg,"21/15,21/18",John Thomas Krogstad,Tom Smebye
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Asgeir Våbenø Berg,Terje Knutseth,"21/19,10/21,22/20",Erik Winger,Jan Aage Nyborg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Herredouble,Anita Olsen,Anne Berit Bergsmo,John Thomas Krogstad,Tom Smebye,"21/19,21/16",Anita Olsen,Anne Berit Bergsmo
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Damedouble,Marte Aasen Jensen,Aina Kaspersen,MARTE EGGEN,Vivild Våbenø Berg,"21/17,21/13",Marte Aasen Jensen,Aina Kaspersen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Damedouble,Ida Marie Oxaas,Ina Stenkjær,Marte Aasen Jensen,Aina Kaspersen,"21/9,21/9",Ida Marie Oxaas,Ina Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Damedouble,MARTE EGGEN,Vivild Våbenø Berg,Linda Våbenø Berg,Malin Sæther-Danielsen,"21/18,21/16",MARTE EGGEN,Vivild Våbenø Berg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Damedouble,Marte Aasen Jensen,Aina Kaspersen,Linda Våbenø Berg,Malin Sæther-Danielsen,"21/11,18/21,21/14",Marte Aasen Jensen,Aina Kaspersen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Damedouble,Ida Marie Oxaas,Ina Stenkjær,MARTE EGGEN,Vivild Våbenø Berg,"21/8,21/11",Ida Marie Oxaas,Ina Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Damedouble,Ida Marie Oxaas,Ina Stenkjær,Linda Våbenø Berg,Malin Sæther-Danielsen,"21/8,21/8",Ida Marie Oxaas,Ina Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Asgeir Våbenø Berg,Vivild Våbenø Berg,Marte Aasen Jensen,Tom Smebye,"21/15,21/16",Asgeir Våbenø Berg,Vivild Våbenø Berg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Marte Aasen Jensen,Tom Smebye,Marius Aspaas,MARTE EGGEN,"21/14,24/22",Marte Aasen Jensen,Tom Smebye
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Asgeir Våbenø Berg,Vivild Våbenø Berg,John Thomas Krogstad,Aina Kaspersen,"21/4,21/10",Asgeir Våbenø Berg,Vivild Våbenø Berg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Martin Stenkjær,Ina Stenkjær,John Thomas Krogstad,Aina Kaspersen,"21/6,21/16",Martin Stenkjær,Ina Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Asgeir Våbenø Berg,Vivild Våbenø Berg,Martin Stenkjær,Ina Stenkjær,"21/13,21/19",Asgeir Våbenø Berg,Vivild Våbenø Berg
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Marius Aspaas,MARTE EGGEN,Marius Olsen,Aurora Kaspersen,"21/16,21/13",Marius Aspaas,MARTE EGGEN
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Marius Aspaas,MARTE EGGEN,Ida Marie Oxaas,Kristian Oxaas,"21/18,21/15",Marius Aspaas,MARTE EGGEN
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Marius Olsen,Aurora Kaspersen,Ida Marie Oxaas,Kristian Oxaas,"21/18,21/19",Marius Olsen,Aurora Kaspersen
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Terje Knutseth,Maja Fossbakken Knutseth,Kenneth Haagenstad,Linda Våbenø Berg,"18/21,21/11,21/12",Terje Knutseth,Maja Fossbakken Knutseth
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Marte Aasen Jensen,Tom Smebye,Kenneth Haagenstad,Linda Våbenø Berg,"21/15,21/9",Marte Aasen Jensen,Tom Smebye
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN C,Mixeddouble,Marte Aasen Jensen,Tom Smebye,Terje Knutseth,Maja Fossbakken Knutseth,"21/15,21/19",Marte Aasen Jensen,Tom Smebye
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Marius Aspaas,,Einar Mathias Øren,"21/16,21/7",Marius Aspaas,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Einar Mathias Øren,,Eirik Tetlie,"21/23,22/20,21/9",Einar Mathias Øren,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Nikolai Danielsen,,Carl Danielsen,"21/14,21/16",Nikolai Danielsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Einar Mathias Øren,,Nikolai Danielsen,"21/10,21/15",Einar Mathias Øren,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Eirik Tetlie,,Carl Danielsen,"21/10,21/18",Eirik Tetlie,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Einar Mathias Øren,,Carl Danielsen,"21/12,21/10",Einar Mathias Øren,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Eirik Tetlie,,Nikolai Danielsen,"21/12,21/16",Eirik Tetlie,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Johannes Lillevik Førde,,Bahram Gorrjiyan,"21/15,21/15",Johannes Lillevik Førde,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Bahram Gorrjiyan,,Kurt Førde,"21/18,20/22,21/5",Bahram Gorrjiyan,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Marius Aspaas,,Johannes Lillevik Førde,"21/13,16/21,21/18",Marius Aspaas,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Marius Aspaas,,Bahram Gorrjiyan,"21/14,21/6",Marius Aspaas,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Johannes Lillevik Førde,,Kurt Førde,"21/14,25/23",Johannes Lillevik Førde,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herresingle,,Marius Aspaas,,Kurt Førde,"21/9,21/10",Marius Aspaas,
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Martin Stenkjær,Jan Erik Stenkjær,Mattis Sæther-Danielsen,Einar Mathias Øren,"12/21,21/19,21/14",Martin Stenkjær,Jan Erik Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Johannes Lillevik Førde,Kurt Førde,Eirik Tetlie,Bahram Gorrjiyan,"21/10,16/21,21/17",Johannes Lillevik Førde,Kurt Førde
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Martin Stenkjær,Jan Erik Stenkjær,Eirik Tetlie,Bahram Gorrjiyan,"21/8,8/21,21/11",Martin Stenkjær,Jan Erik Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Martin Stenkjær,Jan Erik Stenkjær,Johannes Lillevik Førde,Kurt Førde,"21/19,21/12",Martin Stenkjær,Jan Erik Stenkjær
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Sondre Westrum,Stian Vimo Gripp,Nikolai Danielsen,Carl Danielsen,"21/8,21/10",Sondre Westrum,Stian Vimo Gripp
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Mattis Sæther-Danielsen,Einar Mathias Øren,Sondre Westrum,Stian Vimo Gripp,"21/17,21/19",Mattis Sæther-Danielsen,Einar Mathias Øren
+2022/2023,Verdal Verdalstreffen,17.02.2023,SEN D,Herredouble,Mattis Sæther-Danielsen,Einar Mathias Øren,Nikolai Danielsen,Carl Danielsen,"21/11,21/18",Mattis Sæther-Danielsen,Einar Mathias Øren
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Emine Helena S. Olsen,"21/11,21/5",Marcus Leander Aasland Grande,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Elander Jenssen Olafsen,,Iben Marie Kaspersen Krogstad,"21/0,21/12",Elander Jenssen Olafsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Leander Tetlie,"21/4,21/10",Marcus Leander Aasland Grande,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Iben Marie Kaspersen Krogstad,"21/5,21/7",Marcus Leander Aasland Grande,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Emine Helena S. Olsen,,Leander Tetlie,"21/19,21/11",Emine Helena S. Olsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Emine Helena S. Olsen,,Iben Marie Kaspersen Krogstad,"21/8,21/8",Emine Helena S. Olsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Elander Jenssen Olafsen,"21/13,21/17",Marcus Leander Aasland Grande,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Leander Tetlie,,Iben Marie Kaspersen Krogstad,"21/11,21/15",Leander Tetlie,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Herresingle,,Emine Helena S. Olsen,,Elander Jenssen Olafsen,"21/11,21/12",Emine Helena S. Olsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U13 A,Mixeddouble,Marcus Leander Aasland Grande,Emine Helena S. Olsen,Iben Marie Kaspersen Krogstad,Leander Tetlie,"21/9,21/7",Marcus Leander Aasland Grande,Emine Helena S. Olsen
+2022/2023,Verdal Verdalstreffen,17.02.2023,U17 B,Damesingle,,Maja Fossbakken Knutseth,,Malin Sæther-Danielsen,"21/11,22/20",Maja Fossbakken Knutseth,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U17 B,Damesingle,,Mari Jensen,,Emilie Romundstad Nyborg,"16/21,21/13,21/11",Mari Jensen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U17 B,Damesingle,,Malin Sæther-Danielsen,,Mari Jensen,"21/14,21/14",Malin Sæther-Danielsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U17 B,Damesingle,,Malin Sæther-Danielsen,,Emilie Romundstad Nyborg,"10/21,21/15,21/10",Malin Sæther-Danielsen,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U17 B,Damesingle,,Maja Fossbakken Knutseth,,Hedda Frotjold-Mo,"21/13,21/16",Maja Fossbakken Knutseth,
+2022/2023,Verdal Verdalstreffen,17.02.2023,U17 B,Damedouble,Mari Jensen,Maja Fossbakken Knutseth,Hedda Frotjold-Mo,Emilie Romundstad Nyborg,"21/11,21/12",Mari Jensen,Maja Fossbakken Knutseth

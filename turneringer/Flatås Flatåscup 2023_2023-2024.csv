@@ -1,393 +1,324 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/13,21/14",Petter Tryland Laheld,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Petter Tryland Laheld,,Andreas Stenhaug,"25/23,21/11",Petter Tryland Laheld,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Boyan Yu,,Iver Rolvsjord,"21/18,14/21,21/17",Boyan Yu,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Andreas Stenhaug,,Thomas Holdbakk,"21/13,21/18",Andreas Stenhaug,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Iver Rolvsjord,,Francesco Tomasello,"21/17,13/21,21/15",Iver Rolvsjord,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Petter Tryland Laheld,,Boyan Yu,"21/13,21/14",Petter Tryland Laheld,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Petter Tryland Laheld,,Andreas Stenhaug,"25/23,21/11",Petter Tryland Laheld,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Boyan Yu,,Iver Rolvsjord,"21/18,14/21,21/17",Boyan Yu,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Andreas Stenhaug,,Thomas Holdbakk,"21/13,21/18",Andreas Stenhaug,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,,Iver Rolvsjord,,Francesco Tomasello,"21/17,13/21,21/15",Iver Rolvsjord,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Andreas Stenhaug,Iver Rolvsjord,Bård Vegard Bævre,Hari Shankar Chembeti,"21/19,21/18",Andreas Stenhaug,Iver Rolvsjord
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Petter Tryland Laheld,Boyan Yu,Andreas Stenhaug,Iver Rolvsjord,"21/15,21/7",Petter Tryland Laheld,Boyan Yu
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Nora  Omdal,,Dianne Christine Geronimo,"21/12,21/11",Nora  Omdal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Nora  Omdal,,Trishna Shyam Chand,"21/7,21/11",Nora  Omdal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Dianne Christine Geronimo,,Ragnhild Stenvaag,"21/18,6/21,21/17",Dianne Christine Geronimo,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Trishna Shyam Chand,,Camilla Stokkaune,"21/15,21/13",Trishna Shyam Chand,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Ragnhild Stenvaag,,Yngvild Buraas,"21/13,21/9",Ragnhild Stenvaag,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Dianne Christine Geronimo,,Tuva Bjørbekk,"21/16,21/17",Dianne Christine Geronimo,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Nora  Omdal,,Dianne Christine Geronimo,"21/12,21/11",Nora  Omdal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Nora  Omdal,,Trishna Shyam Chand,"21/7,21/11",Nora  Omdal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Dianne Christine Geronimo,,Ragnhild Stenvaag,"21/18,6/21,21/17",Dianne Christine Geronimo,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Trishna Shyam Chand,,Camilla Stokkaune,"21/15,21/13",Trishna Shyam Chand,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Ragnhild Stenvaag,,Yngvild Buraas,"21/13,21/9",Ragnhild Stenvaag,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,,Dianne Christine Geronimo,,Tuva Bjørbekk,"21/16,21/17",Dianne Christine Geronimo,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Anne Marthe Svensen,Camilla Stokkaune,Tuva Bjørbekk,Trishna Shyam Chand,"21/16,21/16",Anne Marthe Svensen,Camilla Stokkaune
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Nora  Omdal,Yngvild Buraas,Anne Marthe Svensen,Camilla Stokkaune,"15/21,21/11,21/16",Nora  Omdal,Yngvild Buraas
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Nora  Omdal,Yngvild Buraas,Tuva Bjørbekk,Trishna Shyam Chand,"21/11,16/21,21/16",Nora  Omdal,Yngvild Buraas
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Amund Skavhaug,"21/19,18/21,21/17",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Morten Rabben,"21/19,21/17",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Amund Skavhaug,,Alan Tsui,"21/8,17/21,21/13",Amund Skavhaug,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Ole Christoffer Olsen,"21/17,21/15",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Morten Rabben,,Asgeir Våbenø Berg,"22/20,17/21,21/11",Morten Rabben,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Alan Tsui,,Andreas Årseth Kvamme,"19/21,21/14,21/10",Alan Tsui,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Amund Skavhaug,,Martin Haagenstad,"21/13,21/7",Amund Skavhaug,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Asgeir Våbenø Berg,,Kristian Hyllestad,"21/10,21/12",Asgeir Våbenø Berg,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Alan Tsui,,Otto Wittner,"21/10,21/16",Alan Tsui,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Andreas Årseth Kvamme,,Ole Andreas Sagøy,"22/20,21/15",Andreas Årseth Kvamme,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Zhuo Xu,"21/18,21/11",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Morten Rabben,,William Aaberg Rølvåg,"21/19,21/19",Morten Rabben,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Martin Haagenstad,,Casper Welzel Andersen,"21/16,21/19",Martin Haagenstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Amund Skavhaug,"21/19,18/21,21/17",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Morten Rabben,"21/19,21/17",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Amund Skavhaug,,Alan Tsui,"21/8,17/21,21/13",Amund Skavhaug,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Ole Christoffer Olsen,"21/17,21/15",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Morten Rabben,,Asgeir Våbenø Berg,"22/20,17/21,21/11",Morten Rabben,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Alan Tsui,,Andreas Årseth Kvamme,"19/21,21/14,21/10",Alan Tsui,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Amund Skavhaug,,Martin Haagenstad,"21/13,21/7",Amund Skavhaug,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Asgeir Våbenø Berg,,Kristian Hyllestad,"21/10,21/12",Asgeir Våbenø Berg,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Alan Tsui,,Otto Wittner,"21/10,21/16",Alan Tsui,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Andreas Årseth Kvamme,,Ole Andreas Sagøy,"22/20,21/15",Andreas Årseth Kvamme,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Kevin Axel Rønning,,Zhuo Xu,"21/18,21/11",Kevin Axel Rønning,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Morten Rabben,,William Aaberg Rølvåg,"21/19,21/19",Morten Rabben,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Martin Haagenstad,,Casper Welzel Andersen,"21/16,21/19",Martin Haagenstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Pernille Lillevik,,Trine Søraas Johannessen,"21/13,21/16",Pernille Lillevik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Pernille Lillevik,,Ingrid Trøite,"18/21,21/11,21/7",Pernille Lillevik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Trine Søraas Johannessen,,Silje Lyngstad Skavhaug,"21/10,21/7",Trine Søraas Johannessen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Pernille Lillevik,,Mia Henriksen,"21/11,21/10",Pernille Lillevik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,,Trine Søraas Johannessen,,Clémentine Le Moal,"19/21,21/15,21/14",Trine Søraas Johannessen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Morten Rabben,Ole Christoffer Olsen,Khalid Mahmud,Andreas Årseth Kvamme,"21/19,22/20",Morten Rabben,Ole Christoffer Olsen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Khalid Mahmud,Andreas Årseth Kvamme,Otto Wittner,Amund Skavhaug,"21/19,21/15",Khalid Mahmud,Andreas Årseth Kvamme
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Morten Rabben,Ole Christoffer Olsen,Asgeir Våbenø Berg,William Aaberg Rølvåg,"13/21,21/18,23/21",Morten Rabben,Ole Christoffer Olsen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Zhuo Xu,Alan Tsui,Ole Petter Antonsen,Mads B. Rotabakk,"21/8,21/12",Zhuo Xu,Alan Tsui
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Otto Wittner,Amund Skavhaug,Zhuo Xu,Alan Tsui,"15/21,21/14,21/10",Otto Wittner,Amund Skavhaug
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Otto Wittner,Amund Skavhaug,Ole Petter Antonsen,Mads B. Rotabakk,"21/16,21/12",Otto Wittner,Amund Skavhaug
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Martin Haagenstad,Erlend Fiskvik Fyhn,Kristian Hyllestad,Sreejith Raghavan,"19/21,25/23,21/17",Martin Haagenstad,Erlend Fiskvik Fyhn
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Khalid Mahmud,Andreas Årseth Kvamme,Martin Haagenstad,Erlend Fiskvik Fyhn,"21/12,21/14",Khalid Mahmud,Andreas Årseth Kvamme
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Khalid Mahmud,Andreas Årseth Kvamme,Kristian Hyllestad,Sreejith Raghavan,"21/12,21/16",Khalid Mahmud,Andreas Årseth Kvamme
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Per Arne Aas,Kevin Axel Rønning,Jørgen Olsen,Andreas Futaker,"21/16,21/19",Per Arne Aas,Kevin Axel Rønning
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Asgeir Våbenø Berg,William Aaberg Rølvåg,Per Arne Aas,Kevin Axel Rønning,"21/15,17/21,21/16",Asgeir Våbenø Berg,William Aaberg Rølvåg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Asgeir Våbenø Berg,William Aaberg Rølvåg,Jørgen Olsen,Andreas Futaker,"21/16,21/9",Asgeir Våbenø Berg,William Aaberg Rølvåg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Michael Berg,Dexter Regarde,Erik Winger,Jan Aage Nyborg,"21/16,21/16",Michael Berg,Dexter Regarde
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Morten Rabben,Ole Christoffer Olsen,Erik Winger,Jan Aage Nyborg,"21/10,21/17",Morten Rabben,Ole Christoffer Olsen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Morten Rabben,Ole Christoffer Olsen,Michael Berg,Dexter Regarde,"21/17,21/16",Morten Rabben,Ole Christoffer Olsen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Clémentine Le Moal,Marte Vorum,Mia Henriksen,Ragnhild Stenvaag,"20/22,21/17,21/15",Clémentine Le Moal,Marte Vorum
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mia Henriksen,Ragnhild Stenvaag,Pernille Lillevik,Marte Aasen Jensen,"21/17,21/18",Mia Henriksen,Ragnhild Stenvaag
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Pernille Lillevik,Marte Aasen Jensen,MARTE EGGEN,Vivild Våbenø Berg,"21/8,18/21,21/17",Pernille Lillevik,Marte Aasen Jensen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mia Henriksen,Ragnhild Stenvaag,MARTE EGGEN,Vivild Våbenø Berg,"19/21,21/19,21/11",Mia Henriksen,Ragnhild Stenvaag
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Trine Søraas Johannessen,Tove Søraas,"21/8,21/12",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Clémentine Le Moal,Marte Vorum,Trine Søraas Johannessen,Tove Søraas,"21/16,21/14",Clémentine Le Moal,Marte Vorum
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Clémentine Le Moal,Marte Vorum,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,"21/17,23/21",Clémentine Le Moal,Marte Vorum
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Rouven Koslowski,"19/21,21/19,21/15",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Edvin Marthinussen,"21/19,21/14",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Frode Westbye,,Emil Sandnes,"21/12,21/15",Frode Westbye,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Rouven Koslowski,,Pranon Paenprakhon,"21/13,18/21,21/15",Rouven Koslowski,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Edvin Marthinussen,,Alexander Hansen,"21/16,21/17",Edvin Marthinussen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Mats-Einar Hammer Rotnes,"21/16,21/19",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Frode Westbye,,Tobias Espeseth,"21/19,21/19",Frode Westbye,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Erlend Fiskvik Fyhn,"21/13,20/22,21/18",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Emil Sandnes,,Frode Larsen,"12/21,21/19,22/20",Emil Sandnes,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Pranon Paenprakhon,,Vidar Vikestad,"21/6,21/12",Pranon Paenprakhon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Rouven Koslowski,,Mads B. Rotabakk,"27/25,18/21,23/21",Rouven Koslowski,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Edvin Marthinussen,,Fillip August Rotabakk,"21/12,13/21,21/19",Edvin Marthinussen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Alexander Hansen,,Per Arne Aas,"19/21,21/15,21/16",Alexander Hansen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mats-Einar Hammer Rotnes,,Tore Standal,"21/10,18/21,21/19",Mats-Einar Hammer Rotnes,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mads B. Rotabakk,,Ole Petter Antonsen,"22/20,21/15",Mads B. Rotabakk,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Edvin Marthinussen,,Muhammad Zain ul Hassan,"21/16,21/7",Edvin Marthinussen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Rouven Koslowski,"19/21,21/19,21/15",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Edvin Marthinussen,"21/19,21/14",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Frode Westbye,,Emil Sandnes,"21/12,21/15",Frode Westbye,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Rouven Koslowski,,Pranon Paenprakhon,"21/13,18/21,21/15",Rouven Koslowski,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Edvin Marthinussen,,Alexander Hansen,"21/16,21/17",Edvin Marthinussen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Mats-Einar Hammer Rotnes,"21/16,21/19",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Frode Westbye,,Tobias Espeseth,"21/19,21/19",Frode Westbye,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sindri Tomasson,,Erlend Fiskvik Fyhn,"21/13,20/22,21/18",Sindri Tomasson,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Emil Sandnes,,Frode Larsen,"12/21,21/19,22/20",Emil Sandnes,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Pranon Paenprakhon,,Vidar Vikestad,"21/6,21/12",Pranon Paenprakhon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Rouven Koslowski,,Mads B. Rotabakk,"27/25,18/21,23/21",Rouven Koslowski,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Edvin Marthinussen,,Fillip August Rotabakk,"21/12,13/21,21/19",Edvin Marthinussen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Alexander Hansen,,Per Arne Aas,"19/21,21/15,21/16",Alexander Hansen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mats-Einar Hammer Rotnes,,Tore Standal,"21/10,18/21,21/19",Mats-Einar Hammer Rotnes,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mads B. Rotabakk,,Ole Petter Antonsen,"22/20,21/15",Mads B. Rotabakk,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Edvin Marthinussen,,Muhammad Zain ul Hassan,"21/16,21/7",Edvin Marthinussen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mathea Rødvik Iglebæk,,Marte Aasen Jensen,"15/21,21/18,23/21",Mathea Rødvik Iglebæk,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Marte Aasen Jensen,,Sofie Kold Hansen,"21/14,21/16",Marte Aasen Jensen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mathea Rødvik Iglebæk,,Celine H Solvang Søvik,"21/10,21/18",Mathea Rødvik Iglebæk,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Sofie Kold Hansen,,Line Eldegard,"13/21,21/19,21/8",Sofie Kold Hansen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Marte Aasen Jensen,,Kelly Josie Goodchild,"21/11,21/15",Marte Aasen Jensen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mathea Rødvik Iglebæk,,Ragnhild Maurstad Pettersen,"21/8,21/19",Mathea Rødvik Iglebæk,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Celine H Solvang Søvik,,Nora Haukdal Trøen,"21/16,21/13",Celine H Solvang Søvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Mathea Rødvik Iglebæk,,Susanne Gripsgård,"21/15,18/21,21/18",Mathea Rødvik Iglebæk,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,,Kelly Josie Goodchild,,Emma Michelle Hanssen,"21/15,21/15",Kelly Josie Goodchild,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Shyam Chand,Dilshaj Suma Narayanan,Alexander Hansen,Rouven Koslowski,"21/16,21/17",Shyam Chand,Dilshaj Suma Narayanan
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Shyam Chand,Dilshaj Suma Narayanan,Mats-Einar Hammer Rotnes,Frode Larsen,"23/21,21/14",Shyam Chand,Dilshaj Suma Narayanan
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Alexander Hansen,Rouven Koslowski,Muhammad Zain ul Hassan,Emil Sandnes,"21/15,23/21",Alexander Hansen,Rouven Koslowski
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Tobias Espeseth,Sindri Tomasson,Jens-Kristian Krogsethagen,Vidar Vikestad,"21/12,21/8",Tobias Espeseth,Sindri Tomasson
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mats-Einar Hammer Rotnes,Frode Larsen,Tobias Espeseth,Sindri Tomasson,"21/18,13/21,21/13",Mats-Einar Hammer Rotnes,Frode Larsen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mats-Einar Hammer Rotnes,Frode Larsen,Jens-Kristian Krogsethagen,Vidar Vikestad,"21/9,21/6",Mats-Einar Hammer Rotnes,Frode Larsen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Shyam Chand,Dilshaj Suma Narayanan,Edvin Marthinussen,Tore Standal,"21/23,25/23,21/18",Shyam Chand,Dilshaj Suma Narayanan
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Edvin Marthinussen,Tore Standal,Per Arne Hammer,Eimund Sandbugt-Hammer,"21/23,21/16,21/9",Edvin Marthinussen,Tore Standal
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Shyam Chand,Dilshaj Suma Narayanan,Per Arne Hammer,Eimund Sandbugt-Hammer,"21/13,21/12",Shyam Chand,Dilshaj Suma Narayanan
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Muhammad Zain ul Hassan,Emil Sandnes,Fillip August Rotabakk,Kåre Engan,"21/14,21/11",Muhammad Zain ul Hassan,Emil Sandnes
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Pranon Paenprakhon,Hans Stephen Moralde Santos,Fillip August Rotabakk,Kåre Engan,"21/17,18/21,21/19",Pranon Paenprakhon,Hans Stephen Moralde Santos
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Muhammad Zain ul Hassan,Emil Sandnes,Pranon Paenprakhon,Hans Stephen Moralde Santos,"20/22,25/23,21/19",Muhammad Zain ul Hassan,Emil Sandnes
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Alexander Hansen,Rouven Koslowski,Tommy Mokkelbost,John Thomas Krogstad,"15/21,21/14,21/15",Alexander Hansen,Rouven Koslowski
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Ingrid Trøite,Sofie Kold Hansen,Line Eldegard,Linda Våbenø Berg,"22/20,21/7",Ingrid Trøite,Sofie Kold Hansen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Ragnhild Maurstad Pettersen,Susanne Gripsgård,Emma Michelle Hanssen,Julie Kristin Vatterholm,"21/14,21/14",Ragnhild Maurstad Pettersen,Susanne Gripsgård
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Ingrid Trøite,Sofie Kold Hansen,Emma Michelle Hanssen,Julie Kristin Vatterholm,"21/18,21/14",Ingrid Trøite,Sofie Kold Hansen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Ingrid Trøite,Sofie Kold Hansen,Ragnhild Maurstad Pettersen,Susanne Gripsgård,"19/21,21/16,21/9",Ingrid Trøite,Sofie Kold Hansen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Karen Uggedal Søvik,Celine H Solvang Søvik,Line Eldegard,Linda Våbenø Berg,"21/18,19/21,21/16",Karen Uggedal Søvik,Celine H Solvang Søvik
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Line Eldegard,Linda Våbenø Berg,Nora Haukdal Trøen,Uma Praseeda,"21/12,21/14",Line Eldegard,Linda Våbenø Berg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Nora Haukdal Trøen,Uma Praseeda,Karen Uggedal Søvik,Celine H Solvang Søvik,"21/19,23/21",Nora Haukdal Trøen,Uma Praseeda
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arvydas Malakauskas,,Henry Aleksander Krys,"21/16,21/6",Arvydas Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Henry Aleksander Krys,,John Thomas Krogstad,"8/21,21/17,21/17",Henry Aleksander Krys,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arvydas Malakauskas,,Hans Stephen Moralde Santos,"21/11,21/18",Arvydas Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,John Thomas Krogstad,,Arne Neverrøsten,"21/14,21/11",John Thomas Krogstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Henry Aleksander Krys,,Lucas René Bech,"9/21,21/6,21/17",Henry Aleksander Krys,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Hans Stephen Moralde Santos,,EIRIK EGGEN,"21/11,21/15",Hans Stephen Moralde Santos,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Hans Stephen Moralde Santos,,Marcus Stephan Nordal,"21/11,21/9",Hans Stephen Moralde Santos,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Henry Aleksander Krys,,Leon Hu-Xu,"22/20,18/21,21/16",Henry Aleksander Krys,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,EIRIK EGGEN,,Kenneth Fagervoll,"21/18,22/24,21/19",EIRIK EGGEN,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,John Thomas Krogstad,,Asgeir Øverby,"21/8,21/12",John Thomas Krogstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arne Neverrøsten,,Sebastian Munthe,"21/18,21/7",Arne Neverrøsten,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arvydas Malakauskas,,Kåre Engan,"21/10,21/16",Arvydas Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arvydas Malakauskas,,Henry Aleksander Krys,"21/16,21/6",Arvydas Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Henry Aleksander Krys,,John Thomas Krogstad,"8/21,21/17,21/17",Henry Aleksander Krys,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arvydas Malakauskas,,Hans Stephen Moralde Santos,"21/11,21/18",Arvydas Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,John Thomas Krogstad,,Arne Neverrøsten,"21/14,21/11",John Thomas Krogstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Henry Aleksander Krys,,Lucas René Bech,"9/21,21/6,21/17",Henry Aleksander Krys,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Hans Stephen Moralde Santos,,EIRIK EGGEN,"21/11,21/15",Hans Stephen Moralde Santos,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Hans Stephen Moralde Santos,,Marcus Stephan Nordal,"21/11,21/9",Hans Stephen Moralde Santos,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Henry Aleksander Krys,,Leon Hu-Xu,"22/20,18/21,21/16",Henry Aleksander Krys,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,EIRIK EGGEN,,Kenneth Fagervoll,"21/18,22/24,21/19",EIRIK EGGEN,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,John Thomas Krogstad,,Asgeir Øverby,"21/8,21/12",John Thomas Krogstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arne Neverrøsten,,Sebastian Munthe,"21/18,21/7",Arne Neverrøsten,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Arvydas Malakauskas,,Kåre Engan,"21/10,21/16",Arvydas Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Nina Helen Amundsen,,Amelia Siemiatkowska,"21/10,21/15",Nina Helen Amundsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Nina Helen Amundsen,,Karen Uggedal Søvik,"21/17,15/21,21/12",Nina Helen Amundsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Amelia Siemiatkowska,,Beverly Henriksen,"21/12,21/15",Amelia Siemiatkowska,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Nina Helen Amundsen,,Anne Britt Sandvik,"21/8,21/7",Nina Helen Amundsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Karen Uggedal Søvik,,Tove Søraas,"21/6,21/14",Karen Uggedal Søvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Amelia Siemiatkowska,,Linda Våbenø Berg,"21/15,21/17",Amelia Siemiatkowska,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Beverly Henriksen,,Egle Dzerviene,"21/4,21/10",Beverly Henriksen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Linda Våbenø Berg,,Irena Malaskauske,"22/20,19/21,21/19",Linda Våbenø Berg,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,,Karen Uggedal Søvik,,Viktoria Ventislavova Simova,"19/21,21/18,21/12",Karen Uggedal Søvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Kelly Josie Goodchild,Henry Aleksander Krys,Lucas René Bech,Arne Neverrøsten,"21/15,21/10",Kelly Josie Goodchild,Henry Aleksander Krys
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Asgeir Øverby,Jonah Mathias Øverby,Kristoffer Sosulski Moen,Kasper Li,"21/18,21/14",Asgeir Øverby,Jonah Mathias Øverby
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Kelly Josie Goodchild,Henry Aleksander Krys,Kristoffer Sosulski Moen,Kasper Li,"21/8,21/18",Kelly Josie Goodchild,Henry Aleksander Krys
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Kelly Josie Goodchild,Henry Aleksander Krys,Asgeir Øverby,Jonah Mathias Øverby,"21/12,21/13",Kelly Josie Goodchild,Henry Aleksander Krys
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Kenneth Fagervoll,Marcus Stephan Nordal,Alexander Kiflom,Sebastian Munthe,"21/13,21/10",Kenneth Fagervoll,Marcus Stephan Nordal
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Lucas René Bech,Arne Neverrøsten,Alexander Kiflom,Sebastian Munthe,"21/18,21/12",Lucas René Bech,Arne Neverrøsten
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Arvydas Malakauskas,Leon Hu-Xu,Kenneth Fagervoll,Marcus Stephan Nordal,"21/10,21/5",Arvydas Malakauskas,Leon Hu-Xu
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Arvydas Malakauskas,Leon Hu-Xu,Alexander Kiflom,Sebastian Munthe,"21/7,21/13",Arvydas Malakauskas,Leon Hu-Xu
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Lucas René Bech,Arne Neverrøsten,Kenneth Fagervoll,Marcus Stephan Nordal,"21/12,21/17",Lucas René Bech,Arne Neverrøsten
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Lucas René Bech,Arne Neverrøsten,Arvydas Malakauskas,Leon Hu-Xu,"21/13,24/22",Lucas René Bech,Arne Neverrøsten
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Amelia Siemiatkowska,Viktoria Ventislavova Simova,Elea Magnussen,Christina Marie Wiggen,"21/14,21/7",Amelia Siemiatkowska,Viktoria Ventislavova Simova
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Irena Malaskauske,Anne Britt Sandvik,Astrid Sandnes Fagervoll,Beverly Henriksen,"21/11,21/16",Irena Malaskauske,Anne Britt Sandvik
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Amelia Siemiatkowska,Viktoria Ventislavova Simova,Astrid Sandnes Fagervoll,Beverly Henriksen,"21/8,21/11",Amelia Siemiatkowska,Viktoria Ventislavova Simova
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Irena Malaskauske,Anne Britt Sandvik,Elea Magnussen,Christina Marie Wiggen,"21/19,21/12",Irena Malaskauske,Anne Britt Sandvik
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Amelia Siemiatkowska,Viktoria Ventislavova Simova,Irena Malaskauske,Anne Britt Sandvik,"21/17,21/7",Amelia Siemiatkowska,Viktoria Ventislavova Simova
-2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Elea Magnussen,Christina Marie Wiggen,Astrid Sandnes Fagervoll,Beverly Henriksen,"21/12,17/21,21/16",Elea Magnussen,Christina Marie Wiggen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Danielius Malakauskas,,Isak Larsen Witsø,"21/4,21/5",Danielius Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Maja Dzervaite,,Qiuman Wang,"21/15,21/11",Maja Dzervaite,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Danielius Malakauskas,,Qiuman Wang,"21/10,21/3",Danielius Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Maja Dzervaite,,Isak Larsen Witsø,"21/16,21/5",Maja Dzervaite,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Danielius Malakauskas,,Maja Dzervaite,"21/10,21/7",Danielius Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Qiuman Wang,,Isak Larsen Witsø,"21/13,19/21,21/13",Qiuman Wang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Danielius Malakauskas,,Isak Larsen Witsø,"21/4,21/5",Danielius Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Maja Dzervaite,,Qiuman Wang,"21/15,21/11",Maja Dzervaite,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Danielius Malakauskas,,Qiuman Wang,"21/10,21/3",Danielius Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Maja Dzervaite,,Isak Larsen Witsø,"21/16,21/5",Maja Dzervaite,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Danielius Malakauskas,,Maja Dzervaite,"21/10,21/7",Danielius Malakauskas,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,,Qiuman Wang,,Isak Larsen Witsø,"21/13,19/21,21/13",Qiuman Wang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Devansh Menon,,Melvin Jensen,"21/9,21/9",Devansh Menon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Devansh Menon,,Gabriel Sandvik,"16/21,21/14,21/16",Devansh Menon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Melvin Jensen,,Leo Carlsen,"21/12,21/8",Melvin Jensen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Gabriel Sandvik,,Leo Carlsen,"21/14,21/13",Gabriel Sandvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Gabriel Sandvik,,Melvin Jensen,"21/9,21/12",Gabriel Sandvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Devansh Menon,,Leo Carlsen,"21/16,21/18",Devansh Menon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Devansh Menon,,Melvin Jensen,"21/9,21/9",Devansh Menon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Devansh Menon,,Gabriel Sandvik,"16/21,21/14,21/16",Devansh Menon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Melvin Jensen,,Leo Carlsen,"21/12,21/8",Melvin Jensen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Gabriel Sandvik,,Leo Carlsen,"21/14,21/13",Gabriel Sandvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Gabriel Sandvik,,Melvin Jensen,"21/9,21/12",Gabriel Sandvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Devansh Menon,,Leo Carlsen,"21/16,21/18",Devansh Menon,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Mathea Kristine Aasland,,Iben Marie Kaspersen Krogstad,"21/14,21/16",Mathea Kristine Aasland,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Chinmayi Pazhay Annur Kurruppath,,Iben Marie Kaspersen Krogstad,"21/9,21/6",Chinmayi Pazhay Annur Kurruppath,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,,Mathea Kristine Aasland,,Chinmayi Pazhay Annur Kurruppath,"21/19,22/20",Mathea Kristine Aasland,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Martins Dreimanis,,Tridev Shyam Chand,"23/21,21/19",Martins Dreimanis,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Jayson Xu,,Marcus Leander Aasland Grande,"22/20,22/20",Jayson Xu,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Leo Idicula,,Martins Dreimanis,"21/19,20/22,21/13",Leo Idicula,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Martins Dreimanis,,Marcus Leander Aasland Grande,"21/14,19/21,21/19",Martins Dreimanis,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Tridev Shyam Chand,,Jayson Xu,"21/6,21/9",Tridev Shyam Chand,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Tridev Shyam Chand,,Marcus Leander Aasland Grande,"18/21,21/17,21/14",Tridev Shyam Chand,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Martins Dreimanis,,Jayson Xu,"21/19,21/6",Martins Dreimanis,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Marcus Leander Aasland Grande,,Leo Idicula,"21/19,21/16",Marcus Leander Aasland Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Leo Idicula,,Tridev Shyam Chand,"21/9,21/8",Leo Idicula,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Leo Idicula,,Jayson Xu,"21/14,21/16",Leo Idicula,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Martins Dreimanis,,Tridev Shyam Chand,"23/21,21/19",Martins Dreimanis,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Jayson Xu,,Marcus Leander Aasland Grande,"22/20,22/20",Jayson Xu,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Leo Idicula,,Martins Dreimanis,"21/19,20/22,21/13",Leo Idicula,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Martins Dreimanis,,Marcus Leander Aasland Grande,"21/14,19/21,21/19",Martins Dreimanis,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Tridev Shyam Chand,,Jayson Xu,"21/6,21/9",Tridev Shyam Chand,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Tridev Shyam Chand,,Marcus Leander Aasland Grande,"18/21,21/17,21/14",Tridev Shyam Chand,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Martins Dreimanis,,Jayson Xu,"21/19,21/6",Martins Dreimanis,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Marcus Leander Aasland Grande,,Leo Idicula,"21/19,21/16",Marcus Leander Aasland Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Leo Idicula,,Tridev Shyam Chand,"21/9,21/8",Leo Idicula,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,,Leo Idicula,,Jayson Xu,"21/14,21/16",Leo Idicula,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Tridev Shyam Chand,Leo Idicula,Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad,"21/10,21/6",Tridev Shyam Chand,Leo Idicula
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Tridev Shyam Chand,Leo Idicula,Leander Rønne Olsen,Ola Melkild Brøttem,"21/4,21/6",Tridev Shyam Chand,Leo Idicula
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Tridev Shyam Chand,Leo Idicula,Marcus Leander Aasland Grande,Jayson Xu,"21/14,21/13",Tridev Shyam Chand,Leo Idicula
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Marcus Leander Aasland Grande,Jayson Xu,Leander Rønne Olsen,Ola Melkild Brøttem,"21/12,21/6",Marcus Leander Aasland Grande,Jayson Xu
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Ty Krisander Olsson,David Iordan,Leo Nicolai Hanssen,Martin Barra-Quezada,"21/17,20/22,21/7",Ty Krisander Olsson,David Iordan
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad,Ty Krisander Olsson,David Iordan,"18/21,23/21,21/18",Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad,Leo Nicolai Hanssen,Martin Barra-Quezada,"21/7,21/19",Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,Leander Rønne Olsen,"21/19,21/8",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Theodor Skåtun Barstad,,Ty Krisander Olsson,"21/14,17/21,21/14",Theodor Skåtun Barstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Even Mathias Mjønes Bernhardsen,,Theodor Skåtun Barstad,"21/11,21/17",Even Mathias Mjønes Bernhardsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leander Rønne Olsen,,Ty Krisander Olsson,"21/16,21/19",Leander Rønne Olsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leander Rønne Olsen,,Even Mathias Mjønes Bernhardsen,"21/17,23/21",Leander Rønne Olsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Theodor Skåtun Barstad,,Leander Rønne Olsen,"19/21,25/23,21/10",Theodor Skåtun Barstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Even Mathias Mjønes Bernhardsen,,Ty Krisander Olsson,"22/20,21/10",Even Mathias Mjønes Bernhardsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Martin Barra-Quezada,,Ola Melkild Brøttem,"16/21,21/15,21/16",Martin Barra-Quezada,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,David Iordan,,Martin Barra-Quezada,"21/14,21/14",David Iordan,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,Ola Melkild Brøttem,"21/6,21/11",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,David Iordan,"21/17,21/9",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,Martin Barra-Quezada,"21/17,21/4",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,David Iordan,,Ola Melkild Brøttem,"21/11,21/11",David Iordan,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,Leander Rønne Olsen,"21/19,21/8",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Theodor Skåtun Barstad,,Ty Krisander Olsson,"21/14,17/21,21/14",Theodor Skåtun Barstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Even Mathias Mjønes Bernhardsen,,Theodor Skåtun Barstad,"21/11,21/17",Even Mathias Mjønes Bernhardsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leander Rønne Olsen,,Ty Krisander Olsson,"21/16,21/19",Leander Rønne Olsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leander Rønne Olsen,,Even Mathias Mjønes Bernhardsen,"21/17,23/21",Leander Rønne Olsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Theodor Skåtun Barstad,,Leander Rønne Olsen,"19/21,25/23,21/10",Theodor Skåtun Barstad,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Even Mathias Mjønes Bernhardsen,,Ty Krisander Olsson,"22/20,21/10",Even Mathias Mjønes Bernhardsen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Martin Barra-Quezada,,Ola Melkild Brøttem,"16/21,21/15,21/16",Martin Barra-Quezada,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,David Iordan,,Martin Barra-Quezada,"21/14,21/14",David Iordan,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,Ola Melkild Brøttem,"21/6,21/11",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,David Iordan,"21/17,21/9",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Leo Nicolai Hanssen,,Martin Barra-Quezada,"21/17,21/4",Leo Nicolai Hanssen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,David Iordan,,Ola Melkild Brøttem,"21/11,21/11",David Iordan,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Maja Fagervoll,,Emine Antonsen Kristiansen,"21/12,21/6",Maja Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Emine Antonsen Kristiansen,,Lena Guerreiro Martins,"23/21,21/14",Emine Antonsen Kristiansen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Maja Fagervoll,,Andrea Sandvik,"21/12,21/9",Maja Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Maja Fagervoll,,Lena Guerreiro Martins,"21/6,21/5",Maja Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Andrea Sandvik,,Emine Antonsen Kristiansen,"21/12,21/11",Andrea Sandvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,,Andrea Sandvik,,Lena Guerreiro Martins,"21/13,21/13",Andrea Sandvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Julia Wojtkowska,Natalia Heinich,Sofie Larsen Witsø,Clara Løvøy,"21/9,21/16",Julia Wojtkowska,Natalia Heinich
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik,Julia Wojtkowska,Natalia Heinich,"17/21,23/21,21/18",Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Sofie Larsen Witsø,Clara Løvøy,Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik,"16/21,21/16,21/18",Sofie Larsen Witsø,Clara Løvøy
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Julia Wojtkowska,Natalia Heinich,Sofie Larsen Witsø,Clara Løvøy,"21/9,21/16",Julia Wojtkowska,Natalia Heinich
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik,Julia Wojtkowska,Natalia Heinich,"17/21,23/21,21/18",Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Sofie Larsen Witsø,Clara Løvøy,Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik,"16/21,21/16,21/18",Sofie Larsen Witsø,Clara Løvøy
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Sander Sandnes Fagervoll,"21/11,21/14",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Sander Sandnes Fagervoll,,Isak Larsen Dyrvik,"14/21,21/17,23/21",Sander Sandnes Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Mike Skrocki,,Oliver Husby,"21/10,21/10",Mike Skrocki,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Linus Valvåg,,Oliver Husby,"21/17,21/11",Linus Valvåg,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Mike Skrocki,"21/10,21/9",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Oliver Husby,"21/6,21/8",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Mike Skrocki,,Linus Valvåg,"19/21,21/7,21/13",Mike Skrocki,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Linus Valvåg,"21/7,21/6",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Isak Larsen Dyrvik,,Simen Tyrhaug Håskjold,"19/21,21/16,21/19",Isak Larsen Dyrvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Isak Larsen Dyrvik,,Endre Risan,"21/10,21/16",Isak Larsen Dyrvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Simen Tyrhaug Håskjold,,Endre Risan,"17/21,21/13,21/8",Simen Tyrhaug Håskjold,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Halvor Bell,,Kevin Kesras Aalberg,"21/16,15/21,21/14",Halvor Bell,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Sander Sandnes Fagervoll,,Halvor Bell,"21/14,21/14",Sander Sandnes Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Sander Sandnes Fagervoll,"21/11,21/14",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Sander Sandnes Fagervoll,,Isak Larsen Dyrvik,"14/21,21/17,23/21",Sander Sandnes Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Mike Skrocki,,Oliver Husby,"21/10,21/10",Mike Skrocki,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Linus Valvåg,,Oliver Husby,"21/17,21/11",Linus Valvåg,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Mike Skrocki,"21/10,21/9",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Oliver Husby,"21/6,21/8",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Mike Skrocki,,Linus Valvåg,"19/21,21/7,21/13",Mike Skrocki,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Erik Jiang,,Linus Valvåg,"21/7,21/6",Erik Jiang,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Isak Larsen Dyrvik,,Simen Tyrhaug Håskjold,"19/21,21/16,21/19",Isak Larsen Dyrvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Isak Larsen Dyrvik,,Endre Risan,"21/10,21/16",Isak Larsen Dyrvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Simen Tyrhaug Håskjold,,Endre Risan,"17/21,21/13,21/8",Simen Tyrhaug Håskjold,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Halvor Bell,,Kevin Kesras Aalberg,"21/16,15/21,21/14",Halvor Bell,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Sander Sandnes Fagervoll,,Halvor Bell,"21/14,21/14",Sander Sandnes Fagervoll,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Julia Wojtkowska,,Live Johanne Lillerødvann Nordgård,"21/12,21/5",Julia Wojtkowska,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Julia Wojtkowska,,Sofie Larsen Witsø,"21/11,21/6",Julia Wojtkowska,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Lykke Elise Søvik,,Inger Theoline Teigås,"21/14,21/13",Lykke Elise Søvik,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Sofie Larsen Witsø,,Inger Theoline Teigås,"21/11,21/17",Sofie Larsen Witsø,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Julia Wojtkowska,,Lykke Elise Søvik,"21/8,21/14",Julia Wojtkowska,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Sofie Larsen Witsø,,Lykke Elise Søvik,"23/21,22/24,21/18",Sofie Larsen Witsø,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Julia Wojtkowska,,Inger Theoline Teigås,"21/6,21/6",Julia Wojtkowska,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Natalia Heinich,,Live Johanne Lillerødvann Nordgård,"21/19,19/21,21/15",Natalia Heinich,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Clara Løvøy,,Daria Georgieva Malakova,"21/5,21/7",Clara Løvøy,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Live Johanne Lillerødvann Nordgård,,Clara Løvøy,"21/11,21/12",Live Johanne Lillerødvann Nordgård,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Clara Løvøy,,Natalia Heinich,"25/23,21/13",Clara Løvøy,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Live Johanne Lillerødvann Nordgård,,Daria Georgieva Malakova,"21/12,21/12",Live Johanne Lillerødvann Nordgård,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,,Natalia Heinich,,Daria Georgieva Malakova,"21/5,21/5",Natalia Heinich,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Simen Tyrhaug Håskjold,Linus Valvåg,Mike Skrocki,Kevin Kesras Aalberg,"21/10,21/14",Simen Tyrhaug Håskjold,Linus Valvåg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Sander Sandnes Fagervoll,Halvor Bell,Endre Risan,Oliver Husby,"21/13,21/13",Sander Sandnes Fagervoll,Halvor Bell
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Mike Skrocki,Kevin Kesras Aalberg,Endre Risan,Oliver Husby,"21/11,21/17",Mike Skrocki,Kevin Kesras Aalberg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Erik Jiang,Martins Dreimanis,Simen Tyrhaug Håskjold,Linus Valvåg,"21/7,21/6",Erik Jiang,Martins Dreimanis
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Erik Jiang,Martins Dreimanis,Mike Skrocki,Kevin Kesras Aalberg,"21/8,21/7",Erik Jiang,Martins Dreimanis
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Simen Tyrhaug Håskjold,Linus Valvåg,Sander Sandnes Fagervoll,Halvor Bell,"21/19,21/19",Simen Tyrhaug Håskjold,Linus Valvåg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Sander Sandnes Fagervoll,Halvor Bell,Mike Skrocki,Kevin Kesras Aalberg,"21/7,21/13",Sander Sandnes Fagervoll,Halvor Bell
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Erik Jiang,Martins Dreimanis,Endre Risan,Oliver Husby,"21/10,21/6",Erik Jiang,Martins Dreimanis
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Erik Jiang,Martins Dreimanis,Sander Sandnes Fagervoll,Halvor Bell,"21/5,21/7",Erik Jiang,Martins Dreimanis
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Simen Tyrhaug Håskjold,Linus Valvåg,Endre Risan,Oliver Husby,"21/19,21/15",Simen Tyrhaug Håskjold,Linus Valvåg
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Lena Guerreiro Martins,Andrea Sandvik,Frida Risan,Amalie Trønnes Graneng,"14/21,21/19,21/19",Lena Guerreiro Martins,Andrea Sandvik
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Maja Fagervoll,Emine Antonsen Kristiansen,Frida Risan,Amalie Trønnes Graneng,"21/13,21/17",Maja Fagervoll,Emine Antonsen Kristiansen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Maja Fagervoll,Emine Antonsen Kristiansen,Lena Guerreiro Martins,Andrea Sandvik,"21/10,16/21,21/14",Maja Fagervoll,Emine Antonsen Kristiansen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Daniel Standal,"17/21,21/18,21/19",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Eimund Sandbugt-Hammer,,Viljar Bell,"21/13,13/21,22/20",Eimund Sandbugt-Hammer,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Daniel Standal,,Eimund Sandbugt-Hammer,"21/9,21/12",Daniel Standal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Daniel Standal,,Viljar Bell,"21/14,21/13",Daniel Standal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Vebjørn Børmark,,Oliver Larsen Witsø,"21/16,21/14",Vebjørn Børmark,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Ludvik Liaaen,"21/6,21/7",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Oliver Larsen Witsø,,Ludvik Liaaen,"21/11,21/9",Oliver Larsen Witsø,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Vebjørn Børmark,"21/19,21/16",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Oliver Larsen Witsø,"21/17,21/19",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Vebjørn Børmark,,Ludvik Liaaen,"21/8,21/8",Vebjørn Børmark,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Daniel Standal,"17/21,21/18,21/19",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Eimund Sandbugt-Hammer,,Viljar Bell,"21/13,13/21,22/20",Eimund Sandbugt-Hammer,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Daniel Standal,,Eimund Sandbugt-Hammer,"21/9,21/12",Daniel Standal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Daniel Standal,,Viljar Bell,"21/14,21/13",Daniel Standal,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Vebjørn Børmark,,Oliver Larsen Witsø,"21/16,21/14",Vebjørn Børmark,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Ludvik Liaaen,"21/6,21/7",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Oliver Larsen Witsø,,Ludvik Liaaen,"21/11,21/9",Oliver Larsen Witsø,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Vebjørn Børmark,"21/19,21/16",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Nikolai Helgå,,Oliver Larsen Witsø,"21/17,21/19",Nikolai Helgå,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,,Vebjørn Børmark,,Ludvik Liaaen,"21/8,21/8",Vebjørn Børmark,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Vebjørn Børmark,Oliver Larsen Witsø,Viljar Bell,Ludvik Liaaen,"21/8,21/8",Vebjørn Børmark,Oliver Larsen Witsø
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Nikolai Helgå,Daniel Standal,Viljar Bell,Ludvik Liaaen,"21/7,21/13",Nikolai Helgå,Daniel Standal
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Nikolai Helgå,Daniel Standal,Vebjørn Børmark,Oliver Larsen Witsø,"21/13,21/16",Nikolai Helgå,Daniel Standal
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Sigrid Jonette Varga,"25/23,22/20",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Marthe Evjenth,"21/13,17/21,21/16",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Ane Snustad-Grønskag,,Mari Kristine Bernhardsen,"21/9,21/6",Ane Snustad-Grønskag,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Sigrid Jonette Varga,,Emma Rasmussen-Wingan,"21/11,14/21,21/14",Sigrid Jonette Varga,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Emma Rasmussen-Wingan,,Mari Kristine Bernhardsen,"21/12,21/9",Emma Rasmussen-Wingan,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Sigrid Jonette Varga,,Ane Snustad-Grønskag,"21/17,21/10",Sigrid Jonette Varga,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Sigrid Jonette Varga,,Mari Kristine Bernhardsen,"21/10,21/3",Sigrid Jonette Varga,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Ane Snustad-Grønskag,,Emma Rasmussen-Wingan,"21/16,21/14",Ane Snustad-Grønskag,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Kaya Marielle Nicolaysen-Hanssen,"21/9,21/14",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Raya Mariyanova Miteva,"21/8,21/18",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Raya Mariyanova Miteva,,Kaya Marielle Nicolaysen-Hanssen,"22/20,21/14",Raya Mariyanova Miteva,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Marthe Evjenth,,Mari Uleberg,"21/7,21/7",Marthe Evjenth,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Mari Jensen,,Mari Uleberg,"21/15,21/11",Mari Jensen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Marthe Evjenth,,Mari Jensen,"15/22,22/20,21/15",Marthe Evjenth,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Sigrid Jonette Varga,"25/23,22/20",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Marthe Evjenth,"21/13,17/21,21/16",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Ane Snustad-Grønskag,,Mari Kristine Bernhardsen,"21/9,21/6",Ane Snustad-Grønskag,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Sigrid Jonette Varga,,Emma Rasmussen-Wingan,"21/11,14/21,21/14",Sigrid Jonette Varga,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Emma Rasmussen-Wingan,,Mari Kristine Bernhardsen,"21/12,21/9",Emma Rasmussen-Wingan,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Sigrid Jonette Varga,,Ane Snustad-Grønskag,"21/17,21/10",Sigrid Jonette Varga,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Sigrid Jonette Varga,,Mari Kristine Bernhardsen,"21/10,21/3",Sigrid Jonette Varga,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Ane Snustad-Grønskag,,Emma Rasmussen-Wingan,"21/16,21/14",Ane Snustad-Grønskag,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Kaya Marielle Nicolaysen-Hanssen,"21/9,21/14",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Vera Alvhilde Vestergaard Grande,,Raya Mariyanova Miteva,"21/8,21/18",Vera Alvhilde Vestergaard Grande,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Raya Mariyanova Miteva,,Kaya Marielle Nicolaysen-Hanssen,"22/20,21/14",Raya Mariyanova Miteva,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Marthe Evjenth,,Mari Uleberg,"21/7,21/7",Marthe Evjenth,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Mari Jensen,,Mari Uleberg,"21/15,21/11",Mari Jensen,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,,Marthe Evjenth,,Mari Jensen,"15/22,22/20,21/15",Marthe Evjenth,
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Marthe Evjenth,Vera Alvhilde Vestergaard Grande,Daria Georgieva Malakova,Sigrid Jonette Varga,"21/7,21/12",Marthe Evjenth,Vera Alvhilde Vestergaard Grande
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mari Kristine Bernhardsen,Raya Mariyanova Miteva,Mari Uleberg,Anna Høysæter,"19/21,21/17,21/10",Mari Kristine Bernhardsen,Raya Mariyanova Miteva
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Daria Georgieva Malakova,Sigrid Jonette Varga,Mari Uleberg,Anna Høysæter,"11/21,21/9,22/20",Daria Georgieva Malakova,Sigrid Jonette Varga
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Daria Georgieva Malakova,Sigrid Jonette Varga,Mari Kristine Bernhardsen,Raya Mariyanova Miteva,"18/21,21/15,21/18",Daria Georgieva Malakova,Sigrid Jonette Varga
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Emma Rasmussen-Wingan,Mari Jensen,Kaya Marielle Nicolaysen-Hanssen,Ane Snustad-Grønskag,"21/17,21/16",Emma Rasmussen-Wingan,Mari Jensen
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Marthe Evjenth,Vera Alvhilde Vestergaard Grande,Emma Rasmussen-Wingan,Mari Jensen,"21/16,19/21,21/19",Marthe Evjenth,Vera Alvhilde Vestergaard Grande
-2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Marthe Evjenth,Vera Alvhilde Vestergaard Grande,Kaya Marielle Nicolaysen-Hanssen,Ane Snustad-Grønskag,"21/18,21/7",Marthe Evjenth,Vera Alvhilde Vestergaard Grande
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herresingle,,Petter Tryland Laheld,,Boyan Yu,"21/13,21/14",Petter Tryland Laheld,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herresingle,,Petter Tryland Laheld,,Andreas Stenhaug,"25/23,21/11",Petter Tryland Laheld,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herresingle,,Boyan Yu,,Iver Rolvsjord,"21/18,14/21,21/17",Boyan Yu,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herresingle,,Andreas Stenhaug,,Thomas Holdbakk,"21/13,21/18",Andreas Stenhaug,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herresingle,,Iver Rolvsjord,,Francesco Tomasello,"21/17,13/21,21/15",Iver Rolvsjord,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herredouble,Andreas Stenhaug,Iver Rolvsjord,Bård Vegard Bævre,Hari Shankar Chembeti,"21/19,21/18",Andreas Stenhaug,Iver Rolvsjord
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN E,Herredouble,Petter Tryland Laheld,Boyan Yu,Andreas Stenhaug,Iver Rolvsjord,"21/15,21/7",Petter Tryland Laheld,Boyan Yu
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damesingle,,Nora  Omdal,,Dianne Christine Geronimo,"21/12,21/11",Nora  Omdal,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damesingle,,Nora  Omdal,,Trishna Shyam Chand,"21/7,21/11",Nora  Omdal,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damesingle,,Dianne Christine Geronimo,,Ragnhild Stenvaag,"21/18,6/21,21/17",Dianne Christine Geronimo,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damesingle,,Trishna Shyam Chand,,Camilla Stokkaune,"21/15,21/13",Trishna Shyam Chand,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damesingle,,Ragnhild Stenvaag,,Yngvild Buraas,"21/13,21/9",Ragnhild Stenvaag,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damesingle,,Dianne Christine Geronimo,,Tuva Bjørbekk,"21/16,21/17",Dianne Christine Geronimo,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damedouble,Anne Marthe Svensen,Camilla Stokkaune,Tuva Bjørbekk,Trishna Shyam Chand,"21/16,21/16",Anne Marthe Svensen,Camilla Stokkaune
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damedouble,Nora  Omdal,Yngvild Buraas,Anne Marthe Svensen,Camilla Stokkaune,"15/21,21/11,21/16",Nora  Omdal,Yngvild Buraas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Damedouble,Nora  Omdal,Yngvild Buraas,Tuva Bjørbekk,Trishna Shyam Chand,"21/11,16/21,21/16",Nora  Omdal,Yngvild Buraas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Mixeddouble,Anne Marthe Svensen,Petter Tryland Laheld,Dianne Christine Geronimo,Andreas Stenhaug,"23/21,21/7",Anne Marthe Svensen,Petter Tryland Laheld
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Mixeddouble,Anne Marthe Svensen,Petter Tryland Laheld,Nora  Omdal,Boyan Yu,"10/21,22/20,21/13",Anne Marthe Svensen,Petter Tryland Laheld
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Mixeddouble,Dianne Christine Geronimo,Andreas Stenhaug,Camilla Stokkaune,Iver Rolvsjord,"21/12,21/19",Dianne Christine Geronimo,Andreas Stenhaug
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN A,Mixeddouble,Anne Marthe Svensen,Petter Tryland Laheld,Francesco Tomasello,Yngvild Buraas,"21/14,21/4",Anne Marthe Svensen,Petter Tryland Laheld
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Kevin Axel Rønning,,Amund Skavhaug,"21/19,18/21,21/17",Kevin Axel Rønning,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Kevin Axel Rønning,,Morten Rabben,"21/19,21/17",Kevin Axel Rønning,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Amund Skavhaug,,Alan Tsui,"21/8,17/21,21/13",Amund Skavhaug,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Kevin Axel Rønning,,Ole Christoffer Olsen,"21/17,21/15",Kevin Axel Rønning,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Morten Rabben,,Asgeir Våbenø Berg,"22/20,17/21,21/11",Morten Rabben,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Alan Tsui,,Andreas Årseth Kvamme,"19/21,21/14,21/10",Alan Tsui,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Amund Skavhaug,,Martin Haagenstad,"21/13,21/7",Amund Skavhaug,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Asgeir Våbenø Berg,,Kristian Hyllestad,"21/10,21/12",Asgeir Våbenø Berg,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Alan Tsui,,Otto Wittner,"21/10,21/16",Alan Tsui,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Andreas Årseth Kvamme,,Ole Andreas Sagøy,"22/20,21/15",Andreas Årseth Kvamme,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Kevin Axel Rønning,,Zhuo Xu,"21/18,21/11",Kevin Axel Rønning,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Morten Rabben,,William Aaberg Rølvåg,"21/19,21/19",Morten Rabben,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herresingle,,Martin Haagenstad,,Casper Welzel Andersen,"21/16,21/19",Martin Haagenstad,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damesingle,,Pernille Lillevik,,Trine Søraas Johannessen,"21/13,21/16",Pernille Lillevik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damesingle,,Pernille Lillevik,,Ingrid Trøite,"18/21,21/11,21/7",Pernille Lillevik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damesingle,,Trine Søraas Johannessen,,Silje Lyngstad Skavhaug,"21/10,21/7",Trine Søraas Johannessen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damesingle,,Pernille Lillevik,,Mia Henriksen,"21/11,21/10",Pernille Lillevik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damesingle,,Trine Søraas Johannessen,,Clémentine Le Moal,"19/21,21/15,21/14",Trine Søraas Johannessen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Morten Rabben,Ole Christoffer Olsen,Khalid Mahmud,Andreas Årseth Kvamme,"21/19,22/20",Morten Rabben,Ole Christoffer Olsen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Khalid Mahmud,Andreas Årseth Kvamme,Otto Wittner,Amund Skavhaug,"21/19,21/15",Khalid Mahmud,Andreas Årseth Kvamme
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Morten Rabben,Ole Christoffer Olsen,Asgeir Våbenø Berg,William Aaberg Rølvåg,"13/21,21/18,23/21",Morten Rabben,Ole Christoffer Olsen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Zhuo Xu,Alan Tsui,Ole Petter Antonsen,Mads B. Rotabakk,"21/8,21/12",Zhuo Xu,Alan Tsui
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Otto Wittner,Amund Skavhaug,Zhuo Xu,Alan Tsui,"15/21,21/14,21/10",Otto Wittner,Amund Skavhaug
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Otto Wittner,Amund Skavhaug,Ole Petter Antonsen,Mads B. Rotabakk,"21/16,21/12",Otto Wittner,Amund Skavhaug
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Martin Haagenstad,Erlend Fiskvik Fyhn,Kristian Hyllestad,Sreejith Raghavan,"19/21,25/23,21/17",Martin Haagenstad,Erlend Fiskvik Fyhn
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Khalid Mahmud,Andreas Årseth Kvamme,Martin Haagenstad,Erlend Fiskvik Fyhn,"21/12,21/14",Khalid Mahmud,Andreas Årseth Kvamme
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Khalid Mahmud,Andreas Årseth Kvamme,Kristian Hyllestad,Sreejith Raghavan,"21/12,21/16",Khalid Mahmud,Andreas Årseth Kvamme
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Per Arne Aas,Kevin Axel Rønning,Jørgen Olsen,Andreas Futaker,"21/16,21/19",Per Arne Aas,Kevin Axel Rønning
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Asgeir Våbenø Berg,William Aaberg Rølvåg,Per Arne Aas,Kevin Axel Rønning,"21/15,17/21,21/16",Asgeir Våbenø Berg,William Aaberg Rølvåg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Asgeir Våbenø Berg,William Aaberg Rølvåg,Jørgen Olsen,Andreas Futaker,"21/16,21/9",Asgeir Våbenø Berg,William Aaberg Rølvåg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Michael Berg,Dexter Regarde,Erik Winger,Jan Aage Nyborg,"21/16,21/16",Michael Berg,Dexter Regarde
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Morten Rabben,Ole Christoffer Olsen,Erik Winger,Jan Aage Nyborg,"21/10,21/17",Morten Rabben,Ole Christoffer Olsen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Herredouble,Morten Rabben,Ole Christoffer Olsen,Michael Berg,Dexter Regarde,"21/17,21/16",Morten Rabben,Ole Christoffer Olsen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Clémentine Le Moal,Marte Vorum,Mia Henriksen,Ragnhild Stenvaag,"20/22,21/17,21/15",Clémentine Le Moal,Marte Vorum
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Mia Henriksen,Ragnhild Stenvaag,Pernille Lillevik,Marte Aasen Jensen,"21/17,21/18",Mia Henriksen,Ragnhild Stenvaag
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Pernille Lillevik,Marte Aasen Jensen,MARTE EGGEN,Vivild Våbenø Berg,"21/8,18/21,21/17",Pernille Lillevik,Marte Aasen Jensen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Mia Henriksen,Ragnhild Stenvaag,MARTE EGGEN,Vivild Våbenø Berg,"19/21,21/19,21/11",Mia Henriksen,Ragnhild Stenvaag
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,Trine Søraas Johannessen,Tove Søraas,"21/8,21/12",Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Clémentine Le Moal,Marte Vorum,Trine Søraas Johannessen,Tove Søraas,"21/16,21/14",Clémentine Le Moal,Marte Vorum
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Damedouble,Clémentine Le Moal,Marte Vorum,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,"21/17,23/21",Clémentine Le Moal,Marte Vorum
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Marte Vorum,Kevin Axel Rønning,Hari Shankar Chembeti,Mathea Rødvik Iglebæk,"19/21,23/21,21/11",Marte Vorum,Kevin Axel Rønning
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Marte Vorum,Kevin Axel Rønning,Amund Skavhaug,Silje Lyngstad Skavhaug,"17/21,21/14,21/16",Marte Vorum,Kevin Axel Rønning
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Hari Shankar Chembeti,Mathea Rødvik Iglebæk,Bård Vegard Bævre,Ingrid Trøite,"14/21,26/24,21/14",Hari Shankar Chembeti,Mathea Rødvik Iglebæk
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Amund Skavhaug,Silje Lyngstad Skavhaug,Ole Christoffer Olsen,Anne Berit Iversen,"21/14,21/16",Amund Skavhaug,Silje Lyngstad Skavhaug
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Marte Vorum,Kevin Axel Rønning,Jørgen Olsen,Julie Kristin Vatterholm,"21/14,21/11",Marte Vorum,Kevin Axel Rønning
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Hari Shankar Chembeti,Mathea Rødvik Iglebæk,Pernille Lillevik,William Aaberg Rølvåg,"12/21,21/17,21/11",Hari Shankar Chembeti,Mathea Rødvik Iglebæk
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Bård Vegard Bævre,Ingrid Trøite,Linn Aasland,Mads B. Rotabakk,"21/14,21/12",Bård Vegard Bævre,Ingrid Trøite
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Amund Skavhaug,Silje Lyngstad Skavhaug,Ragnhild Stenvaag,Andreas Årseth Kvamme,"21/16,21/13",Amund Skavhaug,Silje Lyngstad Skavhaug
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Pernille Lillevik,William Aaberg Rølvåg,Martin Haagenstad,MARTE EGGEN,"21/17,21/14",Pernille Lillevik,William Aaberg Rølvåg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Marte Vorum,Kevin Axel Rønning,Asgeir Våbenø Berg,Trine Søraas Johannessen,"21/13,21/11",Marte Vorum,Kevin Axel Rønning
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN B,Mixeddouble,Bård Vegard Bævre,Ingrid Trøite,Casper Welzel Andersen,Clémentine Le Moal,"21/19,22/24,21/18",Bård Vegard Bævre,Ingrid Trøite
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Sindri Tomasson,,Rouven Koslowski,"19/21,21/19,21/15",Sindri Tomasson,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Sindri Tomasson,,Edvin Marthinussen,"21/19,21/14",Sindri Tomasson,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Frode Westbye,,Emil Sandnes,"21/12,21/15",Frode Westbye,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Rouven Koslowski,,Pranon Paenprakhon,"21/13,18/21,21/15",Rouven Koslowski,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Edvin Marthinussen,,Alexander Hansen,"21/16,21/17",Edvin Marthinussen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Sindri Tomasson,,Mats-Einar Hammer Rotnes,"21/16,21/19",Sindri Tomasson,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Frode Westbye,,Tobias Espeseth,"21/19,21/19",Frode Westbye,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Sindri Tomasson,,Erlend Fiskvik Fyhn,"21/13,20/22,21/18",Sindri Tomasson,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Emil Sandnes,,Frode Larsen,"12/21,21/19,22/20",Emil Sandnes,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Pranon Paenprakhon,,Vidar Vikestad,"21/6,21/12",Pranon Paenprakhon,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Rouven Koslowski,,Mads B. Rotabakk,"27/25,18/21,23/21",Rouven Koslowski,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Edvin Marthinussen,,Fillip August Rotabakk,"21/12,13/21,21/19",Edvin Marthinussen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Alexander Hansen,,Per Arne Aas,"19/21,21/15,21/16",Alexander Hansen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Mats-Einar Hammer Rotnes,,Tore Standal,"21/10,18/21,21/19",Mats-Einar Hammer Rotnes,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Mads B. Rotabakk,,Ole Petter Antonsen,"22/20,21/15",Mads B. Rotabakk,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herresingle,,Edvin Marthinussen,,Muhammad Zain ul Hassan,"21/16,21/7",Edvin Marthinussen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Mathea Rødvik Iglebæk,,Marte Aasen Jensen,"15/21,21/18,23/21",Mathea Rødvik Iglebæk,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Marte Aasen Jensen,,Sofie Kold Hansen,"21/14,21/16",Marte Aasen Jensen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Mathea Rødvik Iglebæk,,Celine H Solvang Søvik,"21/10,21/18",Mathea Rødvik Iglebæk,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Sofie Kold Hansen,,Line Eldegard,"13/21,21/19,21/8",Sofie Kold Hansen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Marte Aasen Jensen,,Kelly Josie Goodchild,"21/11,21/15",Marte Aasen Jensen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Mathea Rødvik Iglebæk,,Ragnhild Maurstad Pettersen,"21/8,21/19",Mathea Rødvik Iglebæk,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Celine H Solvang Søvik,,Nora Haukdal Trøen,"21/16,21/13",Celine H Solvang Søvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Mathea Rødvik Iglebæk,,Susanne Gripsgård,"21/15,18/21,21/18",Mathea Rødvik Iglebæk,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damesingle,,Kelly Josie Goodchild,,Emma Michelle Hanssen,"21/15,21/15",Kelly Josie Goodchild,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Shyam Chand,Dilshaj Suma Narayanan,Alexander Hansen,Rouven Koslowski,"21/16,21/17",Shyam Chand,Dilshaj Suma Narayanan
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Shyam Chand,Dilshaj Suma Narayanan,Mats-Einar Hammer Rotnes,Frode Larsen,"23/21,21/14",Shyam Chand,Dilshaj Suma Narayanan
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Alexander Hansen,Rouven Koslowski,Muhammad Zain ul Hassan,Emil Sandnes,"21/15,23/21",Alexander Hansen,Rouven Koslowski
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Tobias Espeseth,Sindri Tomasson,Jens-Kristian Krogsethagen,Vidar Vikestad,"21/12,21/8",Tobias Espeseth,Sindri Tomasson
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Mats-Einar Hammer Rotnes,Frode Larsen,Tobias Espeseth,Sindri Tomasson,"21/18,13/21,21/13",Mats-Einar Hammer Rotnes,Frode Larsen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Mats-Einar Hammer Rotnes,Frode Larsen,Jens-Kristian Krogsethagen,Vidar Vikestad,"21/9,21/6",Mats-Einar Hammer Rotnes,Frode Larsen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Shyam Chand,Dilshaj Suma Narayanan,Edvin Marthinussen,Tore Standal,"21/23,25/23,21/18",Shyam Chand,Dilshaj Suma Narayanan
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Edvin Marthinussen,Tore Standal,Per Arne Hammer,Eimund Sandbugt-Hammer,"21/23,21/16,21/9",Edvin Marthinussen,Tore Standal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Shyam Chand,Dilshaj Suma Narayanan,Per Arne Hammer,Eimund Sandbugt-Hammer,"21/13,21/12",Shyam Chand,Dilshaj Suma Narayanan
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Muhammad Zain ul Hassan,Emil Sandnes,Fillip August Rotabakk,Kåre Engan,"21/14,21/11",Muhammad Zain ul Hassan,Emil Sandnes
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Pranon Paenprakhon,Hans Stephen Moralde Santos,Fillip August Rotabakk,Kåre Engan,"21/17,18/21,21/19",Pranon Paenprakhon,Hans Stephen Moralde Santos
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Muhammad Zain ul Hassan,Emil Sandnes,Pranon Paenprakhon,Hans Stephen Moralde Santos,"20/22,25/23,21/19",Muhammad Zain ul Hassan,Emil Sandnes
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Herredouble,Alexander Hansen,Rouven Koslowski,Tommy Mokkelbost,John Thomas Krogstad,"15/21,21/14,21/15",Alexander Hansen,Rouven Koslowski
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Ingrid Trøite,Sofie Kold Hansen,Line Eldegard,Linda Våbenø Berg,"22/20,21/7",Ingrid Trøite,Sofie Kold Hansen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Ragnhild Maurstad Pettersen,Susanne Gripsgård,Emma Michelle Hanssen,Julie Kristin Vatterholm,"21/14,21/14",Ragnhild Maurstad Pettersen,Susanne Gripsgård
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Ingrid Trøite,Sofie Kold Hansen,Emma Michelle Hanssen,Julie Kristin Vatterholm,"21/18,21/14",Ingrid Trøite,Sofie Kold Hansen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Ingrid Trøite,Sofie Kold Hansen,Ragnhild Maurstad Pettersen,Susanne Gripsgård,"19/21,21/16,21/9",Ingrid Trøite,Sofie Kold Hansen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Karen Uggedal Søvik,Celine H Solvang Søvik,Line Eldegard,Linda Våbenø Berg,"21/18,19/21,21/16",Karen Uggedal Søvik,Celine H Solvang Søvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Line Eldegard,Linda Våbenø Berg,Nora Haukdal Trøen,Uma Praseeda,"21/12,21/14",Line Eldegard,Linda Våbenø Berg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Damedouble,Nora Haukdal Trøen,Uma Praseeda,Karen Uggedal Søvik,Celine H Solvang Søvik,"21/19,23/21",Nora Haukdal Trøen,Uma Praseeda
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Karen Uggedal Søvik,Martin Mogensen,Linda Våbenø Berg,Per Arne Aas,"21/17,21/17",Karen Uggedal Søvik,Martin Mogensen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Karen Uggedal Søvik,Martin Mogensen,Mats-Einar Hammer Rotnes,Tove Søraas,"21/12,21/11",Karen Uggedal Søvik,Martin Mogensen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Linda Våbenø Berg,Per Arne Aas,Marte Aasen Jensen,John Thomas Krogstad,"21/15,21/13",Linda Våbenø Berg,Per Arne Aas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Karen Uggedal Søvik,Martin Mogensen,Emma Michelle Hanssen,Muhammad Zain ul Hassan,"21/8,21/12",Karen Uggedal Søvik,Martin Mogensen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Mats-Einar Hammer Rotnes,Tove Søraas,Petter Tøfte Amundsen,Vivild Våbenø Berg,"21/12,17/21,21/12",Mats-Einar Hammer Rotnes,Tove Søraas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Linda Våbenø Berg,Per Arne Aas,Beverly Henriksen,Tore Standal,"21/11,21/19",Linda Våbenø Berg,Per Arne Aas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Marte Aasen Jensen,John Thomas Krogstad,Edvin Marthinussen,Celine H Solvang Søvik,"21/17,21/15",Marte Aasen Jensen,John Thomas Krogstad
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Emma Michelle Hanssen,Muhammad Zain ul Hassan,Susanne Gripsgård,Rouven Koslowski,"22/20,21/18",Emma Michelle Hanssen,Muhammad Zain ul Hassan
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Mats-Einar Hammer Rotnes,Tove Søraas,Kelly Josie Goodchild,Hans Stephen Moralde Santos,"21/6,21/9",Mats-Einar Hammer Rotnes,Tove Søraas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Linda Våbenø Berg,Per Arne Aas,Line Eldegard,Ole Petter Antonsen,"18/21,21/15,21/13",Linda Våbenø Berg,Per Arne Aas
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Beverly Henriksen,Tore Standal,Per Arne Hammer,Anne Britt Sandvik,"21/23,21/14,23/21",Beverly Henriksen,Tore Standal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Edvin Marthinussen,Celine H Solvang Søvik,Sreejith Raghavan,Uma Praseeda,"20/22,21/19,21/7",Edvin Marthinussen,Celine H Solvang Søvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Karen Uggedal Søvik,Martin Mogensen,Kristian Hyllestad,Nina Helen Amundsen,"17/21,21/14,21/18",Karen Uggedal Søvik,Martin Mogensen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Marte Aasen Jensen,John Thomas Krogstad,Fillip August Rotabakk,Nora Haukdal Trøen,"25/23,19/21,22/20",Marte Aasen Jensen,John Thomas Krogstad
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN C,Mixeddouble,Petter Tøfte Amundsen,Vivild Våbenø Berg,Sofie Kold Hansen,Frode Westbye,"19/21,21/15,21/16",Petter Tøfte Amundsen,Vivild Våbenø Berg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Arvydas Malakauskas,,Henry Aleksander Krys,"21/16,21/6",Arvydas Malakauskas,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Henry Aleksander Krys,,John Thomas Krogstad,"8/21,21/17,21/17",Henry Aleksander Krys,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Arvydas Malakauskas,,Hans Stephen Moralde Santos,"21/11,21/18",Arvydas Malakauskas,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,John Thomas Krogstad,,Arne Neverrøsten,"21/14,21/11",John Thomas Krogstad,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Henry Aleksander Krys,,Lucas René Bech,"9/21,21/6,21/17",Henry Aleksander Krys,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Hans Stephen Moralde Santos,,EIRIK EGGEN,"21/11,21/15",Hans Stephen Moralde Santos,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Hans Stephen Moralde Santos,,Marcus Stephan Nordal,"21/11,21/9",Hans Stephen Moralde Santos,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Henry Aleksander Krys,,Leon Hu-Xu,"22/20,18/21,21/16",Henry Aleksander Krys,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,EIRIK EGGEN,,Kenneth Fagervoll,"21/18,22/24,21/19",EIRIK EGGEN,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,John Thomas Krogstad,,Asgeir Øverby,"21/8,21/12",John Thomas Krogstad,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Arne Neverrøsten,,Sebastian Munthe,"21/18,21/7",Arne Neverrøsten,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herresingle,,Arvydas Malakauskas,,Kåre Engan,"21/10,21/16",Arvydas Malakauskas,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Nina Helen Amundsen,,Amelia Siemiatkowska,"21/10,21/15",Nina Helen Amundsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Nina Helen Amundsen,,Karen Uggedal Søvik,"21/17,15/21,21/12",Nina Helen Amundsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Amelia Siemiatkowska,,Beverly Henriksen,"21/12,21/15",Amelia Siemiatkowska,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Nina Helen Amundsen,,Anne Britt Sandvik,"21/8,21/7",Nina Helen Amundsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Karen Uggedal Søvik,,Tove Søraas,"21/6,21/14",Karen Uggedal Søvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Amelia Siemiatkowska,,Linda Våbenø Berg,"21/15,21/17",Amelia Siemiatkowska,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Beverly Henriksen,,Egle Dzerviene,"21/4,21/10",Beverly Henriksen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Linda Våbenø Berg,,Irena Malaskauske,"22/20,19/21,21/19",Linda Våbenø Berg,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damesingle,,Karen Uggedal Søvik,,Viktoria Ventislavova Simova,"19/21,21/18,21/12",Karen Uggedal Søvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Kelly Josie Goodchild,Henry Aleksander Krys,Lucas René Bech,Arne Neverrøsten,"21/15,21/10",Kelly Josie Goodchild,Henry Aleksander Krys
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Asgeir Øverby,Jonah Mathias Øverby,Kristoffer Sosulski Moen,Kasper Li,"21/18,21/14",Asgeir Øverby,Jonah Mathias Øverby
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Kelly Josie Goodchild,Henry Aleksander Krys,Kristoffer Sosulski Moen,Kasper Li,"21/8,21/18",Kelly Josie Goodchild,Henry Aleksander Krys
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Kelly Josie Goodchild,Henry Aleksander Krys,Asgeir Øverby,Jonah Mathias Øverby,"21/12,21/13",Kelly Josie Goodchild,Henry Aleksander Krys
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Kenneth Fagervoll,Marcus Stephan Nordal,Alexander Kiflom,Sebastian Munthe,"21/13,21/10",Kenneth Fagervoll,Marcus Stephan Nordal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Lucas René Bech,Arne Neverrøsten,Alexander Kiflom,Sebastian Munthe,"21/18,21/12",Lucas René Bech,Arne Neverrøsten
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Arvydas Malakauskas,Leon Hu-Xu,Kenneth Fagervoll,Marcus Stephan Nordal,"21/10,21/5",Arvydas Malakauskas,Leon Hu-Xu
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Arvydas Malakauskas,Leon Hu-Xu,Alexander Kiflom,Sebastian Munthe,"21/7,21/13",Arvydas Malakauskas,Leon Hu-Xu
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Lucas René Bech,Arne Neverrøsten,Kenneth Fagervoll,Marcus Stephan Nordal,"21/12,21/17",Lucas René Bech,Arne Neverrøsten
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Herredouble,Lucas René Bech,Arne Neverrøsten,Arvydas Malakauskas,Leon Hu-Xu,"21/13,24/22",Lucas René Bech,Arne Neverrøsten
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damedouble,Amelia Siemiatkowska,Viktoria Ventislavova Simova,Elea Magnussen,Christina Marie Wiggen,"21/14,21/7",Amelia Siemiatkowska,Viktoria Ventislavova Simova
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damedouble,Irena Malaskauske,Anne Britt Sandvik,Astrid Sandnes Fagervoll,Beverly Henriksen,"21/11,21/16",Irena Malaskauske,Anne Britt Sandvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damedouble,Amelia Siemiatkowska,Viktoria Ventislavova Simova,Astrid Sandnes Fagervoll,Beverly Henriksen,"21/8,21/11",Amelia Siemiatkowska,Viktoria Ventislavova Simova
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damedouble,Irena Malaskauske,Anne Britt Sandvik,Elea Magnussen,Christina Marie Wiggen,"21/19,21/12",Irena Malaskauske,Anne Britt Sandvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damedouble,Amelia Siemiatkowska,Viktoria Ventislavova Simova,Irena Malaskauske,Anne Britt Sandvik,"21/17,21/7",Amelia Siemiatkowska,Viktoria Ventislavova Simova
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Damedouble,Elea Magnussen,Christina Marie Wiggen,Astrid Sandnes Fagervoll,Beverly Henriksen,"21/12,17/21,21/16",Elea Magnussen,Christina Marie Wiggen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Henry Aleksander Krys,Julia Wojtkowska,Arvydas Malakauskas,Irena Malaskauske,"21/19,21/17",Henry Aleksander Krys,Julia Wojtkowska
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Arvydas Malakauskas,Irena Malaskauske,Frode Larsen,Egle Dzerviene,"21/17,18/21,21/15",Arvydas Malakauskas,Irena Malaskauske
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Henry Aleksander Krys,Julia Wojtkowska,Erlend Fiskvik Fyhn,Tone Auran,"21/17,21/13",Henry Aleksander Krys,Julia Wojtkowska
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Arvydas Malakauskas,Irena Malaskauske,Kenneth Fagervoll,Astrid Sandnes Fagervoll,"21/15,21/12",Arvydas Malakauskas,Irena Malaskauske
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Frode Larsen,Egle Dzerviene,EIRIK EGGEN,Ane Fløttum,"18/21,21/13,22/20",Frode Larsen,Egle Dzerviene
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Erlend Fiskvik Fyhn,Tone Auran,Alexander Kiflom,Christina Marie Wiggen,"21/13,25/23",Erlend Fiskvik Fyhn,Tone Auran
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Henry Aleksander Krys,Julia Wojtkowska,Dilshaj Suma Narayanan,Mishiga Vallabhan,"21/14,15/21,22/20",Henry Aleksander Krys,Julia Wojtkowska
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Erlend Fiskvik Fyhn,Tone Auran,Inger Theoline Teigås,Kristoffer Sosulski Moen,"21/10,21/11",Erlend Fiskvik Fyhn,Tone Auran
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Henry Aleksander Krys,Julia Wojtkowska,Natalia Heinich,Marcus Stephan Nordal,"21/19,21/6",Henry Aleksander Krys,Julia Wojtkowska
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Frode Larsen,Egle Dzerviene,Viktoria Ventislavova Simova,Lucas René Bech,"21/12,21/12",Frode Larsen,Egle Dzerviene
+2023/2024,Flatås Flatåscup 2023,27.10.2023,SEN D,Mixeddouble,Arvydas Malakauskas,Irena Malaskauske,Leon Hu-Xu,Mari Uleberg,"21/9,21/12",Arvydas Malakauskas,Irena Malaskauske
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,Herresingle,,Danielius Malakauskas,,Isak Larsen Witsø,"21/4,21/5",Danielius Malakauskas,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,Herresingle,,Maja Dzervaite,,Qiuman Wang,"21/15,21/11",Maja Dzervaite,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,Herresingle,,Danielius Malakauskas,,Qiuman Wang,"21/10,21/3",Danielius Malakauskas,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,Herresingle,,Maja Dzervaite,,Isak Larsen Witsø,"21/16,21/5",Maja Dzervaite,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,Herresingle,,Danielius Malakauskas,,Maja Dzervaite,"21/10,21/7",Danielius Malakauskas,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U9 A,Herresingle,,Qiuman Wang,,Isak Larsen Witsø,"21/13,19/21,21/13",Qiuman Wang,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Herresingle,,Devansh Menon,,Melvin Jensen,"21/9,21/9",Devansh Menon,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Herresingle,,Devansh Menon,,Gabriel Sandvik,"16/21,21/14,21/16",Devansh Menon,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Herresingle,,Melvin Jensen,,Leo Carlsen,"21/12,21/8",Melvin Jensen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Herresingle,,Gabriel Sandvik,,Leo Carlsen,"21/14,21/13",Gabriel Sandvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Herresingle,,Gabriel Sandvik,,Melvin Jensen,"21/9,21/12",Gabriel Sandvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Herresingle,,Devansh Menon,,Leo Carlsen,"21/16,21/18",Devansh Menon,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Damesingle,,Mathea Kristine Aasland,,Iben Marie Kaspersen Krogstad,"21/14,21/16",Mathea Kristine Aasland,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Damesingle,,Chinmayi Pazhay Annur Kurruppath,,Iben Marie Kaspersen Krogstad,"21/9,21/6",Chinmayi Pazhay Annur Kurruppath,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Damesingle,,Mathea Kristine Aasland,,Chinmayi Pazhay Annur Kurruppath,"21/19,22/20",Mathea Kristine Aasland,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Mixeddouble,Chinmayi Pazhay Annur Kurruppath,Devansh Menon,Danielius Malakauskas,Maja Dzervaite,"21/5,21/5",Chinmayi Pazhay Annur Kurruppath,Devansh Menon
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Mixeddouble,Mathea Kristine Aasland,Gabriel Sandvik,Danielius Malakauskas,Maja Dzervaite,"21/16,21/11",Mathea Kristine Aasland,Gabriel Sandvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U11 A,Mixeddouble,Mathea Kristine Aasland,Gabriel Sandvik,Chinmayi Pazhay Annur Kurruppath,Devansh Menon,"20/22,21/14,21/19",Mathea Kristine Aasland,Gabriel Sandvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Martins Dreimanis,,Tridev Shyam Chand,"23/21,21/19",Martins Dreimanis,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Jayson Xu,,Marcus Leander Aasland Grande,"22/20,22/20",Jayson Xu,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Leo Idicula,,Martins Dreimanis,"21/19,20/22,21/13",Leo Idicula,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Martins Dreimanis,,Marcus Leander Aasland Grande,"21/14,19/21,21/19",Martins Dreimanis,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Tridev Shyam Chand,,Jayson Xu,"21/6,21/9",Tridev Shyam Chand,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Tridev Shyam Chand,,Marcus Leander Aasland Grande,"18/21,21/17,21/14",Tridev Shyam Chand,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Martins Dreimanis,,Jayson Xu,"21/19,21/6",Martins Dreimanis,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Marcus Leander Aasland Grande,,Leo Idicula,"21/19,21/16",Marcus Leander Aasland Grande,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Leo Idicula,,Tridev Shyam Chand,"21/9,21/8",Leo Idicula,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herresingle,,Leo Idicula,,Jayson Xu,"21/14,21/16",Leo Idicula,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Tridev Shyam Chand,Leo Idicula,Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad,"21/10,21/6",Tridev Shyam Chand,Leo Idicula
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Tridev Shyam Chand,Leo Idicula,Leander Rønne Olsen,Ola Melkild Brøttem,"21/4,21/6",Tridev Shyam Chand,Leo Idicula
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Tridev Shyam Chand,Leo Idicula,Marcus Leander Aasland Grande,Jayson Xu,"21/14,21/13",Tridev Shyam Chand,Leo Idicula
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Marcus Leander Aasland Grande,Jayson Xu,Leander Rønne Olsen,Ola Melkild Brøttem,"21/12,21/6",Marcus Leander Aasland Grande,Jayson Xu
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Ty Krisander Olsson,David Iordan,Leo Nicolai Hanssen,Martin Barra-Quezada,"21/17,20/22,21/7",Ty Krisander Olsson,David Iordan
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad,Ty Krisander Olsson,David Iordan,"18/21,23/21,21/18",Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Herredouble,Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad,Leo Nicolai Hanssen,Martin Barra-Quezada,"21/7,21/19",Even Mathias Mjønes Bernhardsen,Theodor Skåtun Barstad
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Mixeddouble,Lykke Elise Søvik,Martins Dreimanis,Sofie Larsen Witsø,Jayson Xu,"21/11,21/13",Lykke Elise Søvik,Martins Dreimanis
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Mixeddouble,Lykke Elise Søvik,Martins Dreimanis,Clara Løvøy,Leo Idicula,"21/15,17/21,21/19",Lykke Elise Søvik,Martins Dreimanis
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Mixeddouble,Sofie Larsen Witsø,Jayson Xu,Maja Fagervoll,Marcus Leander Aasland Grande,"21/18,21/16",Sofie Larsen Witsø,Jayson Xu
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 A,Mixeddouble,Sofie Larsen Witsø,Jayson Xu,Live Johanne Lillerødvann Nordgård,Even Mathias Mjønes Bernhardsen,"21/13,21/13",Sofie Larsen Witsø,Jayson Xu
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Leo Nicolai Hanssen,,Leander Rønne Olsen,"21/19,21/8",Leo Nicolai Hanssen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Theodor Skåtun Barstad,,Ty Krisander Olsson,"21/14,17/21,21/14",Theodor Skåtun Barstad,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Even Mathias Mjønes Bernhardsen,,Theodor Skåtun Barstad,"21/11,21/17",Even Mathias Mjønes Bernhardsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Leander Rønne Olsen,,Ty Krisander Olsson,"21/16,21/19",Leander Rønne Olsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Leander Rønne Olsen,,Even Mathias Mjønes Bernhardsen,"21/17,23/21",Leander Rønne Olsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Theodor Skåtun Barstad,,Leander Rønne Olsen,"19/21,25/23,21/10",Theodor Skåtun Barstad,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Even Mathias Mjønes Bernhardsen,,Ty Krisander Olsson,"22/20,21/10",Even Mathias Mjønes Bernhardsen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Martin Barra-Quezada,,Ola Melkild Brøttem,"16/21,21/15,21/16",Martin Barra-Quezada,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,David Iordan,,Martin Barra-Quezada,"21/14,21/14",David Iordan,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Leo Nicolai Hanssen,,Ola Melkild Brøttem,"21/6,21/11",Leo Nicolai Hanssen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Leo Nicolai Hanssen,,David Iordan,"21/17,21/9",Leo Nicolai Hanssen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,Leo Nicolai Hanssen,,Martin Barra-Quezada,"21/17,21/4",Leo Nicolai Hanssen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Herresingle,,David Iordan,,Ola Melkild Brøttem,"21/11,21/11",David Iordan,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Damesingle,,Maja Fagervoll,,Emine Antonsen Kristiansen,"21/12,21/6",Maja Fagervoll,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Damesingle,,Emine Antonsen Kristiansen,,Lena Guerreiro Martins,"23/21,21/14",Emine Antonsen Kristiansen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Damesingle,,Maja Fagervoll,,Andrea Sandvik,"21/12,21/9",Maja Fagervoll,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Damesingle,,Maja Fagervoll,,Lena Guerreiro Martins,"21/6,21/5",Maja Fagervoll,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Damesingle,,Andrea Sandvik,,Emine Antonsen Kristiansen,"21/12,21/11",Andrea Sandvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U13 B,Damesingle,,Andrea Sandvik,,Lena Guerreiro Martins,"21/13,21/13",Andrea Sandvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Damedouble,Julia Wojtkowska,Natalia Heinich,Sofie Larsen Witsø,Clara Løvøy,"21/9,21/16",Julia Wojtkowska,Natalia Heinich
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Damedouble,Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik,Julia Wojtkowska,Natalia Heinich,"17/21,23/21,21/18",Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 A,Damedouble,Sofie Larsen Witsø,Clara Løvøy,Live Johanne Lillerødvann Nordgård,Lykke Elise Søvik,"16/21,21/16,21/18",Sofie Larsen Witsø,Clara Løvøy
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Erik Jiang,,Sander Sandnes Fagervoll,"21/11,21/14",Erik Jiang,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Sander Sandnes Fagervoll,,Isak Larsen Dyrvik,"14/21,21/17,23/21",Sander Sandnes Fagervoll,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Mike Skrocki,,Oliver Husby,"21/10,21/10",Mike Skrocki,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Linus Valvåg,,Oliver Husby,"21/17,21/11",Linus Valvåg,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Erik Jiang,,Mike Skrocki,"21/10,21/9",Erik Jiang,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Erik Jiang,,Oliver Husby,"21/6,21/8",Erik Jiang,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Mike Skrocki,,Linus Valvåg,"19/21,21/7,21/13",Mike Skrocki,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Erik Jiang,,Linus Valvåg,"21/7,21/6",Erik Jiang,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Isak Larsen Dyrvik,,Simen Tyrhaug Håskjold,"19/21,21/16,21/19",Isak Larsen Dyrvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Isak Larsen Dyrvik,,Endre Risan,"21/10,21/16",Isak Larsen Dyrvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Simen Tyrhaug Håskjold,,Endre Risan,"17/21,21/13,21/8",Simen Tyrhaug Håskjold,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Halvor Bell,,Kevin Kesras Aalberg,"21/16,15/21,21/14",Halvor Bell,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herresingle,,Sander Sandnes Fagervoll,,Halvor Bell,"21/14,21/14",Sander Sandnes Fagervoll,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Julia Wojtkowska,,Live Johanne Lillerødvann Nordgård,"21/12,21/5",Julia Wojtkowska,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Julia Wojtkowska,,Sofie Larsen Witsø,"21/11,21/6",Julia Wojtkowska,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Lykke Elise Søvik,,Inger Theoline Teigås,"21/14,21/13",Lykke Elise Søvik,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Sofie Larsen Witsø,,Inger Theoline Teigås,"21/11,21/17",Sofie Larsen Witsø,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Julia Wojtkowska,,Lykke Elise Søvik,"21/8,21/14",Julia Wojtkowska,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Sofie Larsen Witsø,,Lykke Elise Søvik,"23/21,22/24,21/18",Sofie Larsen Witsø,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Julia Wojtkowska,,Inger Theoline Teigås,"21/6,21/6",Julia Wojtkowska,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Natalia Heinich,,Live Johanne Lillerødvann Nordgård,"21/19,19/21,21/15",Natalia Heinich,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Clara Løvøy,,Daria Georgieva Malakova,"21/5,21/7",Clara Løvøy,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Live Johanne Lillerødvann Nordgård,,Clara Løvøy,"21/11,21/12",Live Johanne Lillerødvann Nordgård,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Clara Løvøy,,Natalia Heinich,"25/23,21/13",Clara Løvøy,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Live Johanne Lillerødvann Nordgård,,Daria Georgieva Malakova,"21/12,21/12",Live Johanne Lillerødvann Nordgård,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damesingle,,Natalia Heinich,,Daria Georgieva Malakova,"21/5,21/5",Natalia Heinich,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Simen Tyrhaug Håskjold,Linus Valvåg,Mike Skrocki,Kevin Kesras Aalberg,"21/10,21/14",Simen Tyrhaug Håskjold,Linus Valvåg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Sander Sandnes Fagervoll,Halvor Bell,Endre Risan,Oliver Husby,"21/13,21/13",Sander Sandnes Fagervoll,Halvor Bell
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Mike Skrocki,Kevin Kesras Aalberg,Endre Risan,Oliver Husby,"21/11,21/17",Mike Skrocki,Kevin Kesras Aalberg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Erik Jiang,Martins Dreimanis,Simen Tyrhaug Håskjold,Linus Valvåg,"21/7,21/6",Erik Jiang,Martins Dreimanis
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Erik Jiang,Martins Dreimanis,Mike Skrocki,Kevin Kesras Aalberg,"21/8,21/7",Erik Jiang,Martins Dreimanis
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Simen Tyrhaug Håskjold,Linus Valvåg,Sander Sandnes Fagervoll,Halvor Bell,"21/19,21/19",Simen Tyrhaug Håskjold,Linus Valvåg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Sander Sandnes Fagervoll,Halvor Bell,Mike Skrocki,Kevin Kesras Aalberg,"21/7,21/13",Sander Sandnes Fagervoll,Halvor Bell
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Erik Jiang,Martins Dreimanis,Endre Risan,Oliver Husby,"21/10,21/6",Erik Jiang,Martins Dreimanis
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Erik Jiang,Martins Dreimanis,Sander Sandnes Fagervoll,Halvor Bell,"21/5,21/7",Erik Jiang,Martins Dreimanis
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Herredouble,Simen Tyrhaug Håskjold,Linus Valvåg,Endre Risan,Oliver Husby,"21/19,21/15",Simen Tyrhaug Håskjold,Linus Valvåg
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damedouble,Lena Guerreiro Martins,Andrea Sandvik,Frida Risan,Amalie Trønnes Graneng,"14/21,21/19,21/19",Lena Guerreiro Martins,Andrea Sandvik
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damedouble,Maja Fagervoll,Emine Antonsen Kristiansen,Frida Risan,Amalie Trønnes Graneng,"21/13,21/17",Maja Fagervoll,Emine Antonsen Kristiansen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U15 B,Damedouble,Maja Fagervoll,Emine Antonsen Kristiansen,Lena Guerreiro Martins,Andrea Sandvik,"21/10,16/21,21/14",Maja Fagervoll,Emine Antonsen Kristiansen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Nikolai Helgå,,Daniel Standal,"17/21,21/18,21/19",Nikolai Helgå,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Eimund Sandbugt-Hammer,,Viljar Bell,"21/13,13/21,22/20",Eimund Sandbugt-Hammer,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Daniel Standal,,Eimund Sandbugt-Hammer,"21/9,21/12",Daniel Standal,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Daniel Standal,,Viljar Bell,"21/14,21/13",Daniel Standal,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Vebjørn Børmark,,Oliver Larsen Witsø,"21/16,21/14",Vebjørn Børmark,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Nikolai Helgå,,Ludvik Liaaen,"21/6,21/7",Nikolai Helgå,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Oliver Larsen Witsø,,Ludvik Liaaen,"21/11,21/9",Oliver Larsen Witsø,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Nikolai Helgå,,Vebjørn Børmark,"21/19,21/16",Nikolai Helgå,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Nikolai Helgå,,Oliver Larsen Witsø,"21/17,21/19",Nikolai Helgå,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herresingle,,Vebjørn Børmark,,Ludvik Liaaen,"21/8,21/8",Vebjørn Børmark,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herredouble,Vebjørn Børmark,Oliver Larsen Witsø,Viljar Bell,Ludvik Liaaen,"21/8,21/8",Vebjørn Børmark,Oliver Larsen Witsø
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herredouble,Nikolai Helgå,Daniel Standal,Viljar Bell,Ludvik Liaaen,"21/7,21/13",Nikolai Helgå,Daniel Standal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Herredouble,Nikolai Helgå,Daniel Standal,Vebjørn Børmark,Oliver Larsen Witsø,"21/13,21/16",Nikolai Helgå,Daniel Standal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Mixeddouble,Vera Alvhilde Vestergaard Grande,Daniel Standal,Alexander Hansen,Marthe Evjenth,"21/14,13/21,21/19",Vera Alvhilde Vestergaard Grande,Daniel Standal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Mixeddouble,Vera Alvhilde Vestergaard Grande,Daniel Standal,Mia Henriksen,Oliver Larsen Witsø,"21/18,19/21,21/15",Vera Alvhilde Vestergaard Grande,Daniel Standal
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Mixeddouble,Alexander Hansen,Marthe Evjenth,Sigrid Jonette Varga,Nikolai Helgå,"21/23,21/10,21/18",Alexander Hansen,Marthe Evjenth
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 A,Mixeddouble,Alexander Hansen,Marthe Evjenth,Vebjørn Børmark,Ane Snustad-Grønskag,"21/17,21/10",Alexander Hansen,Marthe Evjenth
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Vera Alvhilde Vestergaard Grande,,Sigrid Jonette Varga,"25/23,22/20",Vera Alvhilde Vestergaard Grande,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Vera Alvhilde Vestergaard Grande,,Marthe Evjenth,"21/13,17/21,21/16",Vera Alvhilde Vestergaard Grande,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Ane Snustad-Grønskag,,Mari Kristine Bernhardsen,"21/9,21/6",Ane Snustad-Grønskag,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Sigrid Jonette Varga,,Emma Rasmussen-Wingan,"21/11,14/21,21/14",Sigrid Jonette Varga,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Emma Rasmussen-Wingan,,Mari Kristine Bernhardsen,"21/12,21/9",Emma Rasmussen-Wingan,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Sigrid Jonette Varga,,Ane Snustad-Grønskag,"21/17,21/10",Sigrid Jonette Varga,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Sigrid Jonette Varga,,Mari Kristine Bernhardsen,"21/10,21/3",Sigrid Jonette Varga,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Ane Snustad-Grønskag,,Emma Rasmussen-Wingan,"21/16,21/14",Ane Snustad-Grønskag,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Vera Alvhilde Vestergaard Grande,,Kaya Marielle Nicolaysen-Hanssen,"21/9,21/14",Vera Alvhilde Vestergaard Grande,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Vera Alvhilde Vestergaard Grande,,Raya Mariyanova Miteva,"21/8,21/18",Vera Alvhilde Vestergaard Grande,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Raya Mariyanova Miteva,,Kaya Marielle Nicolaysen-Hanssen,"22/20,21/14",Raya Mariyanova Miteva,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Marthe Evjenth,,Mari Uleberg,"21/7,21/7",Marthe Evjenth,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Mari Jensen,,Mari Uleberg,"21/15,21/11",Mari Jensen,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damesingle,,Marthe Evjenth,,Mari Jensen,"15/22,22/20,21/15",Marthe Evjenth,
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Marthe Evjenth,Vera Alvhilde Vestergaard Grande,Daria Georgieva Malakova,Sigrid Jonette Varga,"21/7,21/12",Marthe Evjenth,Vera Alvhilde Vestergaard Grande
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Mari Kristine Bernhardsen,Raya Mariyanova Miteva,Mari Uleberg,Anna Høysæter,"19/21,21/17,21/10",Mari Kristine Bernhardsen,Raya Mariyanova Miteva
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Daria Georgieva Malakova,Sigrid Jonette Varga,Mari Uleberg,Anna Høysæter,"11/21,21/9,22/20",Daria Georgieva Malakova,Sigrid Jonette Varga
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Daria Georgieva Malakova,Sigrid Jonette Varga,Mari Kristine Bernhardsen,Raya Mariyanova Miteva,"18/21,21/15,21/18",Daria Georgieva Malakova,Sigrid Jonette Varga
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Emma Rasmussen-Wingan,Mari Jensen,Kaya Marielle Nicolaysen-Hanssen,Ane Snustad-Grønskag,"21/17,21/16",Emma Rasmussen-Wingan,Mari Jensen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Marthe Evjenth,Vera Alvhilde Vestergaard Grande,Emma Rasmussen-Wingan,Mari Jensen,"21/16,19/21,21/19",Marthe Evjenth,Vera Alvhilde Vestergaard Grande
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Damedouble,Marthe Evjenth,Vera Alvhilde Vestergaard Grande,Kaya Marielle Nicolaysen-Hanssen,Ane Snustad-Grønskag,"21/18,21/7",Marthe Evjenth,Vera Alvhilde Vestergaard Grande
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mixeddouble,Sander Sandnes Fagervoll,Amelia Siemiatkowska,Mari Kristine Bernhardsen,Eimund Sandbugt-Hammer,"16/21,22/20,21/15",Sander Sandnes Fagervoll,Amelia Siemiatkowska
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mixeddouble,Mari Kristine Bernhardsen,Eimund Sandbugt-Hammer,Mari Jensen,Viljar Bell,"19/21,21/11,21/13",Mari Kristine Bernhardsen,Eimund Sandbugt-Hammer
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mixeddouble,Sander Sandnes Fagervoll,Amelia Siemiatkowska,Emma Rasmussen-Wingan,Ludvik Liaaen,"21/14,21/18",Sander Sandnes Fagervoll,Amelia Siemiatkowska
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mixeddouble,Mari Jensen,Viljar Bell,Erik Jiang,Anna Høysæter,"21/19,21/16",Mari Jensen,Viljar Bell
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mixeddouble,Emma Rasmussen-Wingan,Ludvik Liaaen,Daria Georgieva Malakova,Halvor Bell,"21/13,21/13",Emma Rasmussen-Wingan,Ludvik Liaaen
+2023/2024,Flatås Flatåscup 2023,27.10.2023,U17 B,Mixeddouble,Sander Sandnes Fagervoll,Amelia Siemiatkowska,Raya Mariyanova Miteva,Isak Larsen Dyrvik,"21/6,21/8",Sander Sandnes Fagervoll,Amelia Siemiatkowska

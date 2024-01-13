@@ -1,392 +1,266 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Gjermund Hagen,"21/17,21/11",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Arild Mevatne,"10/21,21/9,21/14",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Gøran Olsen,"21/14,21/7",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Terje Jacobsen,"21/12,21/16",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Randi Selle,"21/15,21/15",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Thomas Sjursen,"21/12,21/18",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Yahya Januarilham,"21/7,21/9",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Thomas Sjursen,,Tommy H. Abrahamsen,"21/8,21/17",Thomas Sjursen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Tommy H. Abrahamsen,"21/6,21/3",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Thomas Sjursen,"21/13,21/5",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Yahya Januarilham,,Håkon Synnes Ytreland,"21/19,21/12",Yahya Januarilham,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Yahya Januarilham,"21/11,21/14",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Håkon Synnes Ytreland,"21/11,12/21,21/8",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Benjamin Falck,"21/15,21/11",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Terje Jacobsen,"18/21,21/13,21/16",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Terje Jacobsen,,Benjamin Falck,"21/14,21/12",Terje Jacobsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Carlo Alonzo Agustin,"21/18,18/21,21/16",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Arild Mevatne,"27/25,21/16",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Carlo Alonzo Agustin,"21/18,21/13",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Gjermund Hagen,"21/17,21/11",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Arild Mevatne,"10/21,21/9,21/14",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Gøran Olsen,"21/14,21/7",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Terje Jacobsen,"21/12,21/16",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Randi Selle,"21/15,21/15",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Thomas Sjursen,"21/12,21/18",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Yahya Januarilham,"21/7,21/9",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Thomas Sjursen,,Tommy H. Abrahamsen,"21/8,21/17",Thomas Sjursen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Tommy H. Abrahamsen,"21/6,21/3",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Thomas Sjursen,"21/13,21/5",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Yahya Januarilham,,Håkon Synnes Ytreland,"21/19,21/12",Yahya Januarilham,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Yahya Januarilham,"21/11,21/14",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Håkon Synnes Ytreland,"21/11,12/21,21/8",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Benjamin Falck,"21/15,21/11",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Terje Jacobsen,"18/21,21/13,21/16",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Terje Jacobsen,,Benjamin Falck,"21/14,21/12",Terje Jacobsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Carlo Alonzo Agustin,"21/18,18/21,21/16",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Arild Mevatne,"27/25,21/16",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Carlo Alonzo Agustin,"21/18,21/13",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Anne Skjævesland,"21/7,21/15",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Kristin Aven,"21/8,21/12",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Ingeborg Krogsæter,"21/13,21/16",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Ingeborg Krogsæter,,Hanne Nesse,"21/11,21/5",Ingeborg Krogsæter,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Kristin Aven,,Rebekka Lie,"21/12,21/14",Kristin Aven,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Hanne Nesse,,Kristine Wallem,"17/21,21/16,21/19",Hanne Nesse,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Hanne Nesse,"21/8,21/4",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Kristine Wallem,"21/4,21/1",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Ingeborg Krogsæter,,Kristine Haugland,"21/17,21/15",Ingeborg Krogsæter,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Kristin Aven,,Kristine Haugland,"21/14,21/15",Kristin Aven,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Ingeborg Krogsæter,,Kristin Aven,"21/16,21/15",Ingeborg Krogsæter,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Rebekka Lie,,Benedicte Cappelen,"21/12,21/7",Rebekka Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Thea Zahl Thorsen,"21/8,21/12",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Thea Zahl Thorsen,,Benedicte Cappelen,"21/6,21/12",Thea Zahl Thorsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Rebekka Lie,"21/8,21/15",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Benedicte Cappelen,"21/4,21/6",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Rebekka Lie,,Thea Zahl Thorsen,"21/19,21/19",Rebekka Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Håkon Synnes Ytreland,Arild Mevatne,Gøran Olsen,Svenja Tyrhardt,"21/10,21/18",Håkon Synnes Ytreland,Arild Mevatne
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Håkon Synnes Ytreland,Arild Mevatne,Yahya Januarilham,Terje Jacobsen,"21/14,21/17",Håkon Synnes Ytreland,Arild Mevatne
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Yahya Januarilham,Terje Jacobsen,Carlo Alonzo Agustin,Trond Atle Syvertsen,"21/13,21/16",Yahya Januarilham,Terje Jacobsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Randi Selle,Gjermund Hagen,Kjell Arne Selle,Arne Martin Hagen,"21/2,21/7",Randi Selle,Gjermund Hagen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Randi Selle,Gjermund Hagen,Joakim Haugebo,Benjamin Falck,"21/11,21/13",Randi Selle,Gjermund Hagen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Gøran Olsen,Svenja Tyrhardt,Randi Selle,Gjermund Hagen,"10/21,21/19,21/18",Gøran Olsen,Svenja Tyrhardt
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Gøran Olsen,Svenja Tyrhardt,Joakim Haugebo,Benjamin Falck,"21/14,21/16",Gøran Olsen,Svenja Tyrhardt
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Eivind Lærum Bie,,Johnny Holte Haugland,"22/20,21/16",Eivind Lærum Bie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Eivind Lærum Bie,,Kjell Arne Selle,"21/18,21/15",Eivind Lærum Bie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Trond Atle Syvertsen,,Eivind Lærum Bie,"21/7,21/12",Trond Atle Syvertsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Kjell Arne Selle,,Johnny Holte Haugland,"20/22,21/7,21/9",Kjell Arne Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Trond Atle Syvertsen,,Kjell Arne Selle,"21/13,21/8",Trond Atle Syvertsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Eivind Lærum Bie,,Kurt Høyland,"21/13,21/18",Eivind Lærum Bie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Trond Atle Syvertsen,,Kurt Høyland,"21/5,21/8",Trond Atle Syvertsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Eivind Lærum Bie,,Johnny Holte Haugland,"22/20,21/16",Eivind Lærum Bie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Eivind Lærum Bie,,Kjell Arne Selle,"21/18,21/15",Eivind Lærum Bie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Trond Atle Syvertsen,,Eivind Lærum Bie,"21/7,21/12",Trond Atle Syvertsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Kjell Arne Selle,,Johnny Holte Haugland,"20/22,21/7,21/9",Kjell Arne Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Trond Atle Syvertsen,,Kjell Arne Selle,"21/13,21/8",Trond Atle Syvertsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Eivind Lærum Bie,,Kurt Høyland,"21/13,21/18",Eivind Lærum Bie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,,Trond Atle Syvertsen,,Kurt Høyland,"21/5,21/8",Trond Atle Syvertsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Andre Heim,Anne Skjævesland,Anne Lisbet Flåten,Trond Krogsæter,"21/13,21/12",Andre Heim,Anne Skjævesland
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Anne Lisbet Flåten,Trond Krogsæter,Siby Abraham,Espen Stenhaug,"21/15,21/8",Anne Lisbet Flåten,Trond Krogsæter
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Andre Heim,Anne Skjævesland,Agus Darmawan,Eric Isupradipto,"21/14,21/18",Andre Heim,Anne Skjævesland
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Agus Darmawan,Eric Isupradipto,Thomas Sjursen,Anders Haugland,"15/21,21/18,21/18",Agus Darmawan,Eric Isupradipto
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Andre Heim,Anne Skjævesland,Anne Lisbet Flåten,Trond Krogsæter,"21/13,21/12",Andre Heim,Anne Skjævesland
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Anne Lisbet Flåten,Trond Krogsæter,Siby Abraham,Espen Stenhaug,"21/15,21/8",Anne Lisbet Flåten,Trond Krogsæter
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Andre Heim,Anne Skjævesland,Agus Darmawan,Eric Isupradipto,"21/14,21/18",Andre Heim,Anne Skjævesland
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Agus Darmawan,Eric Isupradipto,Thomas Sjursen,Anders Haugland,"15/21,21/18,21/18",Agus Darmawan,Eric Isupradipto
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Roald Grannes,"21/5,21/8",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Selie Galami,"21/10,21/11",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Roald Grannes,,Sverre Svensen,"27/25,21/7",Roald Grannes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Tonje Cecilie Osmundsen,"21/14,21/19",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Roald Grannes,"21/12,21/14",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Roald Grannes,,Tonje Cecilie Osmundsen,"21/7,21/7",Roald Grannes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Sverre Svensen,,Norunn Hagen,"21/8,21/10",Sverre Svensen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Sverre Svensen,,Selie Galami,"21/13,21/17",Sverre Svensen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Selie Galami,,Norunn Hagen,"21/6,21/4",Selie Galami,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Roald Grannes,"21/5,21/8",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Selie Galami,"21/10,21/11",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Roald Grannes,,Sverre Svensen,"27/25,21/7",Roald Grannes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Tonje Cecilie Osmundsen,"21/14,21/19",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Trond Helgøy,,Roald Grannes,"21/12,21/14",Trond Helgøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Roald Grannes,,Tonje Cecilie Osmundsen,"21/7,21/7",Roald Grannes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Sverre Svensen,,Norunn Hagen,"21/8,21/10",Sverre Svensen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Sverre Svensen,,Selie Galami,"21/13,21/17",Sverre Svensen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,,Selie Galami,,Norunn Hagen,"21/6,21/4",Selie Galami,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Roald Grannes,Sverre Svensen,Selie Galami,Norunn Hagen,"21/11,21/6",Roald Grannes,Sverre Svensen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Trond Helgøy,Thomas Midtskog,Selie Galami,Norunn Hagen,"21/14,21/13",Trond Helgøy,Thomas Midtskog
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Trond Helgøy,Thomas Midtskog,Roald Grannes,Sverre Svensen,"21/19,21/18",Trond Helgøy,Thomas Midtskog
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Stine Skjævesland Pedersen,"12/21,21/16,21/16",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Stine Skjævesland Pedersen,,Manas Dubey,"21/8,21/16",Stine Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Lukas Skrunes Sundt,"21/5,21/10",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Lukas Skrunes Sundt,,Anders Langeland,"18/21,21/16,23/21",Lukas Skrunes Sundt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Manas Dubey,,Anders Langeland,"21/13,22/20",Manas Dubey,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Manas Dubey,,Lukas Skrunes Sundt,"21/17,21/16",Manas Dubey,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Jonar Freim,"21/5,21/3",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Jonathan Utne Madsøy,"21/10,21/9",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Stine Skjævesland Pedersen,,Jonar Freim,"21/9,21/4",Stine Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Jonathan Utne Madsøy,,Jonar Freim,"21/6,21/5",Jonathan Utne Madsøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Stine Skjævesland Pedersen,"21/10,21/19",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Stine Skjævesland Pedersen,,Jonathan Utne Madsøy,"21/8,21/8",Stine Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Stine Skjævesland Pedersen,"12/21,21/16,21/16",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Stine Skjævesland Pedersen,,Manas Dubey,"21/8,21/16",Stine Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Lukas Skrunes Sundt,"21/5,21/10",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Lukas Skrunes Sundt,,Anders Langeland,"18/21,21/16,23/21",Lukas Skrunes Sundt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Manas Dubey,,Anders Langeland,"21/13,22/20",Manas Dubey,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Manas Dubey,,Lukas Skrunes Sundt,"21/17,21/16",Manas Dubey,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Jonar Freim,"21/5,21/3",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Jonathan Utne Madsøy,"21/10,21/9",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Stine Skjævesland Pedersen,,Jonar Freim,"21/9,21/4",Stine Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Jonathan Utne Madsøy,,Jonar Freim,"21/6,21/5",Jonathan Utne Madsøy,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Fenris Lindland,,Stine Skjævesland Pedersen,"21/10,21/19",Fenris Lindland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,,Stine Skjævesland Pedersen,,Jonathan Utne Madsøy,"21/8,21/8",Stine Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Jay Janaskar,"21/16,21/16",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Jørgen Vedaa,"21/15,21/15",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Elias Øyen Selsaas,"21/20,21/9",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Olav Kjelby,"21/10,21/10",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jørgen Vedaa,,Eivind Larsen,"21/15,21/18",Jørgen Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Magnus Hørte  Salvesen,"16/21,21/12,21/10",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Eirik Sørvaag,"21/7,21/4",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Magnus Hørte  Salvesen,,Hermod Holte Haugland,"23/21,21/14",Magnus Hørte  Salvesen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Magnus Hørte  Salvesen,"21/12,21/18",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Hermod Holte Haugland,"21/17,21/13",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jørgen Vedaa,,Erlend  Ølberg,"21/13,21/12",Jørgen Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jørgen Vedaa,,Eirik Sørvaag,"21/6,21/6",Jørgen Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Eirik Sørvaag,,Erlend  Ølberg,"21/17,21/19",Eirik Sørvaag,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Oskar  Laukvik,"21/7,21/12",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Olav Kjelby,,Vegard Svennevik,"24/26,21/17,21/15",Olav Kjelby,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Vegard Svennevik,,Oskar  Laukvik,"21/9,21/11",Vegard Svennevik,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Olav Kjelby,"21/10,21/9",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Olav Kjelby,,Oskar  Laukvik,"21/18,21/12",Olav Kjelby,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Vegard Svennevik,"21/13,21/10",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Eivind Larsen,,Oskar Ødegård,"21/12,21/16",Eivind Larsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Oskar Ødegård,"21/5,21/7",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Eivind Larsen,"21/6,21/12",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Jay Janaskar,"21/16,21/16",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Jørgen Vedaa,"21/15,21/15",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Elias Øyen Selsaas,"21/20,21/9",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Olav Kjelby,"21/10,21/10",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jørgen Vedaa,,Eivind Larsen,"21/15,21/18",Jørgen Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Magnus Hørte  Salvesen,"16/21,21/12,21/10",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Eirik Sørvaag,"21/7,21/4",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Magnus Hørte  Salvesen,,Hermod Holte Haugland,"23/21,21/14",Magnus Hørte  Salvesen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Magnus Hørte  Salvesen,"21/12,21/18",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jay Janaskar,,Hermod Holte Haugland,"21/17,21/13",Jay Janaskar,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jørgen Vedaa,,Erlend  Ølberg,"21/13,21/12",Jørgen Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Jørgen Vedaa,,Eirik Sørvaag,"21/6,21/6",Jørgen Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Eirik Sørvaag,,Erlend  Ølberg,"21/17,21/19",Eirik Sørvaag,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Oskar  Laukvik,"21/7,21/12",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Olav Kjelby,,Vegard Svennevik,"24/26,21/17,21/15",Olav Kjelby,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Vegard Svennevik,,Oskar  Laukvik,"21/9,21/11",Vegard Svennevik,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Olav Kjelby,"21/10,21/9",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Olav Kjelby,,Oskar  Laukvik,"21/18,21/12",Olav Kjelby,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Elias Øyen Selsaas,,Vegard Svennevik,"21/13,21/10",Elias Øyen Selsaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Eivind Larsen,,Oskar Ødegård,"21/12,21/16",Eivind Larsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Oskar Ødegård,"21/5,21/7",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,,Simon Vedaa,,Eivind Larsen,"21/6,21/12",Simon Vedaa,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Simon Vedaa,Jørgen Vedaa,Eivind Larsen,Jay Janaskar,"21/23,21/12,21/16",Simon Vedaa,Jørgen Vedaa
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Simon Vedaa,Jørgen Vedaa,Erlend  Ølberg,Olav Kjelby,"21/5,21/13",Simon Vedaa,Jørgen Vedaa
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Eivind Larsen,Jay Janaskar,Elias Øyen Selsaas,Hermod Holte Haugland,"21/18,21/19",Eivind Larsen,Jay Janaskar
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Gjermund Hagen,"21/17,21/11",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Arild Mevatne,"10/21,21/9,21/14",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Gøran Olsen,"21/14,21/7",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Terje Jacobsen,"21/12,21/16",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Randi Selle,"21/15,21/15",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Thomas Sjursen,"21/12,21/18",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Yahya Januarilham,"21/7,21/9",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Thomas Sjursen,,Tommy H. Abrahamsen,"21/8,21/17",Thomas Sjursen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Tommy H. Abrahamsen,"21/6,21/3",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Thomas Sjursen,"21/13,21/5",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Yahya Januarilham,,Håkon Synnes Ytreland,"21/19,21/12",Yahya Januarilham,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Yahya Januarilham,"21/11,21/14",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Håkon Synnes Ytreland,"21/11,12/21,21/8",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Benjamin Falck,"21/15,21/11",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Terje Jacobsen,"18/21,21/13,21/16",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Terje Jacobsen,,Benjamin Falck,"21/14,21/12",Terje Jacobsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Carlo Alonzo Agustin,"21/18,18/21,21/16",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Arild Mevatne,"27/25,21/16",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Carlo Alonzo Agustin,"21/18,21/13",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Gjermund Hagen,"21/17,21/11",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Arild Mevatne,"10/21,21/9,21/14",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Gøran Olsen,"21/14,21/7",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Terje Jacobsen,"21/12,21/16",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Randi Selle,"21/15,21/15",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Thomas Sjursen,"21/12,21/18",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Yahya Januarilham,"21/7,21/9",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Thomas Sjursen,,Tommy H. Abrahamsen,"21/8,21/17",Thomas Sjursen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Tommy H. Abrahamsen,"21/6,21/3",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Eirik Paulsen,,Thomas Sjursen,"21/13,21/5",Eirik Paulsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Yahya Januarilham,,Håkon Synnes Ytreland,"21/19,21/12",Yahya Januarilham,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Yahya Januarilham,"21/11,21/14",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Randi Selle,,Håkon Synnes Ytreland,"21/11,12/21,21/8",Randi Selle,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Benjamin Falck,"21/15,21/11",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gøran Olsen,,Terje Jacobsen,"18/21,21/13,21/16",Gøran Olsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Terje Jacobsen,,Benjamin Falck,"21/14,21/12",Terje Jacobsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Arild Mevatne,,Carlo Alonzo Agustin,"21/18,18/21,21/16",Arild Mevatne,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Arild Mevatne,"27/25,21/16",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Gjermund Hagen,,Carlo Alonzo Agustin,"21/18,21/13",Gjermund Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Anne Skjævesland,"21/7,21/15",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Kristin Aven,"21/8,21/12",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Ingeborg Krogsæter,"21/13,21/16",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Ingeborg Krogsæter,,Hanne Nesse,"21/11,21/5",Ingeborg Krogsæter,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Kristin Aven,,Rebekka Lie,"21/12,21/14",Kristin Aven,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Hanne Nesse,,Kristine Wallem,"17/21,21/16,21/19",Hanne Nesse,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Hanne Nesse,"21/8,21/4",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Svenja Tyrhardt,,Kristine Wallem,"21/4,21/1",Svenja Tyrhardt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Ingeborg Krogsæter,,Kristine Haugland,"21/17,21/15",Ingeborg Krogsæter,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Kristin Aven,,Kristine Haugland,"21/14,21/15",Kristin Aven,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Ingeborg Krogsæter,,Kristin Aven,"21/16,21/15",Ingeborg Krogsæter,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Rebekka Lie,,Benedicte Cappelen,"21/12,21/7",Rebekka Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Thea Zahl Thorsen,"21/8,21/12",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Thea Zahl Thorsen,,Benedicte Cappelen,"21/6,21/12",Thea Zahl Thorsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Rebekka Lie,"21/8,21/15",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Anne Skjævesland,,Benedicte Cappelen,"21/4,21/6",Anne Skjævesland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,,Rebekka Lie,,Thea Zahl Thorsen,"21/19,21/19",Rebekka Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Håkon Synnes Ytreland,Arild Mevatne,Gøran Olsen,Svenja Tyrhardt,"21/10,21/18",Håkon Synnes Ytreland,Arild Mevatne
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Håkon Synnes Ytreland,Arild Mevatne,Yahya Januarilham,Terje Jacobsen,"21/14,21/17",Håkon Synnes Ytreland,Arild Mevatne
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Yahya Januarilham,Terje Jacobsen,Carlo Alonzo Agustin,Trond Atle Syvertsen,"21/13,21/16",Yahya Januarilham,Terje Jacobsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Randi Selle,Gjermund Hagen,Kjell Arne Selle,Arne Martin Hagen,"21/2,21/7",Randi Selle,Gjermund Hagen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Randi Selle,Gjermund Hagen,Joakim Haugebo,Benjamin Falck,"21/11,21/13",Randi Selle,Gjermund Hagen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Gøran Olsen,Svenja Tyrhardt,Randi Selle,Gjermund Hagen,"10/21,21/19,21/18",Gøran Olsen,Svenja Tyrhardt
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Gøran Olsen,Svenja Tyrhardt,Joakim Haugebo,Benjamin Falck,"21/14,21/16",Gøran Olsen,Svenja Tyrhardt
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Anders Haugland,"21/14,21/18",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Eskil Gjertsen Sandnes,"21/19,21/16",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Sebastian Høyland Wahl,"21/19,22/20",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Eskil Gjertsen Sandnes,,Ivan  Kjerulf,"21/13,17/21,23/21",Eskil Gjertsen Sandnes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Sebastian Høyland Wahl,,John Erik Fosseland Hansen,"22/20,21/4",Sebastian Høyland Wahl,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Eskil Gjertsen Sandnes,,Anik Siwach,"21/11,21/11",Eskil Gjertsen Sandnes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Andreas Bull,"21/5,21/6",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anik Siwach,,Andreas Bull,"21/11,21/10",Anik Siwach,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Anik Siwach,"21/11,21/8",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Eskil Gjertsen Sandnes,,Andreas Bull,"21/7,21/6",Eskil Gjertsen Sandnes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Eskil Gjertsen Sandnes,"21/8,22/20",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Ivan  Kjerulf,,Sebastian Høyland Wahl,"21/11,10/21,27/25",Ivan  Kjerulf,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Ivan  Kjerulf,,Bjørn Stople,"21/19,21/9",Ivan  Kjerulf,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Sebastian Høyland Wahl,,Bjørn Stople,"21/15,16/21,21/13",Sebastian Høyland Wahl,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,John Erik Fosseland Hansen,,Even Malm Nordgaard,"15/21,22/20,21/9",John Erik Fosseland Hansen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Jonas Egeland Bentsen,"21/10,23/21",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Even Malm Nordgaard,"21/3,21/10",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,John Erik Fosseland Hansen,,Jonas Egeland Bentsen,"21/17,21/14",John Erik Fosseland Hansen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Jonas Egeland Bentsen,,Even Malm Nordgaard,"16/21,21/18,21/19",Jonas Egeland Bentsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,John Erik Fosseland Hansen,"21/7,21/12",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Anders Haugland,"21/14,21/18",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Eskil Gjertsen Sandnes,"21/19,21/16",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Sebastian Høyland Wahl,"21/19,22/20",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Eskil Gjertsen Sandnes,,Ivan  Kjerulf,"21/13,17/21,23/21",Eskil Gjertsen Sandnes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Sebastian Høyland Wahl,,John Erik Fosseland Hansen,"22/20,21/4",Sebastian Høyland Wahl,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Eskil Gjertsen Sandnes,,Anik Siwach,"21/11,21/11",Eskil Gjertsen Sandnes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Andreas Bull,"21/5,21/6",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anik Siwach,,Andreas Bull,"21/11,21/10",Anik Siwach,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Anik Siwach,"21/11,21/8",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Eskil Gjertsen Sandnes,,Andreas Bull,"21/7,21/6",Eskil Gjertsen Sandnes,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Anders Haugland,,Eskil Gjertsen Sandnes,"21/8,22/20",Anders Haugland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Ivan  Kjerulf,,Sebastian Høyland Wahl,"21/11,10/21,27/25",Ivan  Kjerulf,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Ivan  Kjerulf,,Bjørn Stople,"21/19,21/9",Ivan  Kjerulf,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Sebastian Høyland Wahl,,Bjørn Stople,"21/15,16/21,21/13",Sebastian Høyland Wahl,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,John Erik Fosseland Hansen,,Even Malm Nordgaard,"15/21,22/20,21/9",John Erik Fosseland Hansen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Jonas Egeland Bentsen,"21/10,23/21",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,Even Malm Nordgaard,"21/3,21/10",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,John Erik Fosseland Hansen,,Jonas Egeland Bentsen,"21/17,21/14",John Erik Fosseland Hansen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Jonas Egeland Bentsen,,Even Malm Nordgaard,"16/21,21/18,21/19",Jonas Egeland Bentsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,,Trygve Ellingsen,,John Erik Fosseland Hansen,"21/7,21/12",Trygve Ellingsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Sebastian Høyland Wahl,Trygve Ellingsen,Bjørn Stople,Even Malm Nordgaard,"21/23,21/13,21/16",Sebastian Høyland Wahl,Trygve Ellingsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Bjørn Stople,Even Malm Nordgaard,Eskil Gjertsen Sandnes,Ivan  Kjerulf,"21/11,14/21,21/17",Bjørn Stople,Even Malm Nordgaard
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Bjørn Stople,Even Malm Nordgaard,Simen Nordin,Tord Udø Selfors,"21/14,21/11",Bjørn Stople,Even Malm Nordgaard
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Eskil Gjertsen Sandnes,Ivan  Kjerulf,Simen Nordin,Tord Udø Selfors,"21/12,21/9",Eskil Gjertsen Sandnes,Ivan  Kjerulf
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Sebastian Høyland Wahl,Trygve Ellingsen,Jonas Egeland Bentsen,John Erik Fosseland Hansen,"21/11,21/12",Sebastian Høyland Wahl,Trygve Ellingsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Jonas Egeland Bentsen,John Erik Fosseland Hansen,Jonas Alsaker,Curt Ariel Lid,"21/12,21/15",Jonas Egeland Bentsen,John Erik Fosseland Hansen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Sebastian Høyland Wahl,Trygve Ellingsen,Jonas Alsaker,Curt Ariel Lid,"21/9,21/8",Sebastian Høyland Wahl,Trygve Ellingsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Ingeborg Krogsæter,Marianne Lie,Miriam Stensland,Anne-Emilie Larsen,"20/22,21/13,21/14",Ingeborg Krogsæter,Marianne Lie
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Ingeborg Krogsæter,Marianne Lie,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/18,21/10",Ingeborg Krogsæter,Marianne Lie
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Miriam Stensland,Anne-Emilie Larsen,Thea  Vatne,Hedda Langmark  Thomsen,"18/21,21/14,21/14",Miriam Stensland,Anne-Emilie Larsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Thea  Vatne,Hedda Langmark  Thomsen,Anne Marthe Svensen,Johanna Gundersen,"24/22,22/20",Thea  Vatne,Hedda Langmark  Thomsen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Tord Udø Selfors,,Curt Ariel Lid,"16/21,21/8,21/12",Tord Udø Selfors,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Emil Hansen,"21/10,21/10",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Jonas Alsaker,,Curt Ariel Lid,"21/17,21/17",Jonas Alsaker,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Tord Udø Selfors,,Emil Hansen,"21/17,21/14",Tord Udø Selfors,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Jonas Alsaker,,Tord Udø Selfors,"21/9,21/14",Jonas Alsaker,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Curt Ariel Lid,"21/14,21/18",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Jonas Alsaker,"17/21,21/12,21/19",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Curt Ariel Lid,,Emil Hansen,"21/16,12/21,21/12",Curt Ariel Lid,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Jonas Alsaker,,Emil Hansen,"21/15,21/11",Jonas Alsaker,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Tord Udø Selfors,"21/13,21/15",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Tord Udø Selfors,,Curt Ariel Lid,"16/21,21/8,21/12",Tord Udø Selfors,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Emil Hansen,"21/10,21/10",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Jonas Alsaker,,Curt Ariel Lid,"21/17,21/17",Jonas Alsaker,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Tord Udø Selfors,,Emil Hansen,"21/17,21/14",Tord Udø Selfors,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Jonas Alsaker,,Tord Udø Selfors,"21/9,21/14",Jonas Alsaker,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Curt Ariel Lid,"21/14,21/18",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Jonas Alsaker,"17/21,21/12,21/19",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Curt Ariel Lid,,Emil Hansen,"21/16,12/21,21/12",Curt Ariel Lid,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Jonas Alsaker,,Emil Hansen,"21/15,21/11",Jonas Alsaker,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Simen Nordin,,Tord Udø Selfors,"21/13,21/15",Simen Nordin,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Margrethe Schrøder-Nielsen,,Silje Log,"21/17,21/14",Margrethe Schrøder-Nielsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Margrethe Schrøder-Nielsen,,Julie Vierdal Stensland,"21/8,21/7",Margrethe Schrøder-Nielsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Silje Log,,Johanna Gundersen,"22/24,21/12,21/8",Silje Log,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Margrethe Schrøder-Nielsen,,Silje Log,"21/16,21/13",Margrethe Schrøder-Nielsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Tonje Eie Anda,,Riththisha Elathurajan,"21/9,21/14",Tonje Eie Anda,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Margrethe Schrøder-Nielsen,,Riththisha Elathurajan,"21/3,21/2",Margrethe Schrøder-Nielsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Silje Log,,Tonje Eie Anda,"22/20,21/16",Silje Log,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Margrethe Schrøder-Nielsen,,Tonje Eie Anda,"21/11,21/11",Margrethe Schrøder-Nielsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Silje Log,,Riththisha Elathurajan,"21/13,21/10",Silje Log,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Eline Furubotn Overå,,Marie Brede,"21/17,21/19",Eline Furubotn Overå,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Johanna Gundersen,,Julie Vierdal Stensland,"21/17,21/14",Johanna Gundersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Johanna Gundersen,,Marie Brede,"21/13,21/5",Johanna Gundersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Julie Vierdal Stensland,,Eline Furubotn Overå,"21/11,22/20",Julie Vierdal Stensland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Julie Vierdal Stensland,,Marie Brede,"21/9,21/12",Julie Vierdal Stensland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,,Johanna Gundersen,,Eline Furubotn Overå,"21/18,21/18",Johanna Gundersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Eline Furubotn Overå,Tonje Eie Anda,Riththisha Elathurajan,Julie Vierdal Stensland,"21/14,20/22,21/11",Eline Furubotn Overå,Tonje Eie Anda
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Stian Otten,"21/19,20/27,21/12",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Tarjei Sveen,"20/22,22/20,21/8",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Casper Cappelen,"21/18,21/12",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Espen Stenhaug,"21/12,21/19",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Casper Cappelen,,Kevin Abraham,"21/14,15/21,21/10",Casper Cappelen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Espen Stenhaug,,Kristian Gundersen,"21/10,21/6",Espen Stenhaug,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Espen Stenhaug,"21/16,21/6",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Kristian Gundersen,"21/4,21/4",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Sondre Hagen,"21/14,15/21,21/9",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Kevin Abraham,"21/18,21/12",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Kevin Abraham,,Sondre Hagen,"21/15,21/16",Kevin Abraham,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tarjei Sveen,,Casper Cappelen,"18/21,21/17,21/18",Tarjei Sveen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Mikal Melhus Tøsse,,Daniel Gundersen,"21/5,21/9",Mikal Melhus Tøsse,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tarjei Sveen,,Daniel Gundersen,"21/8,21/7",Tarjei Sveen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Casper Cappelen,,Mikal Melhus Tøsse,"21/13,21/14",Casper Cappelen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tarjei Sveen,,Mikal Melhus Tøsse,"21/19,21/16",Tarjei Sveen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Casper Cappelen,,Daniel Gundersen,"21/5,21/0",Casper Cappelen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Stian Otten,"21/19,20/27,21/12",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Tarjei Sveen,"20/22,22/20,21/8",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Casper Cappelen,"21/18,21/12",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Espen Stenhaug,"21/12,21/19",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Casper Cappelen,,Kevin Abraham,"21/14,15/21,21/10",Casper Cappelen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Espen Stenhaug,,Kristian Gundersen,"21/10,21/6",Espen Stenhaug,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Espen Stenhaug,"21/16,21/6",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Joakim Haugebo,,Kristian Gundersen,"21/4,21/4",Joakim Haugebo,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Sondre Hagen,"21/14,15/21,21/9",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Stian Otten,,Kevin Abraham,"21/18,21/12",Stian Otten,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Kevin Abraham,,Sondre Hagen,"21/15,21/16",Kevin Abraham,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tarjei Sveen,,Casper Cappelen,"18/21,21/17,21/18",Tarjei Sveen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Mikal Melhus Tøsse,,Daniel Gundersen,"21/5,21/9",Mikal Melhus Tøsse,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tarjei Sveen,,Daniel Gundersen,"21/8,21/7",Tarjei Sveen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Casper Cappelen,,Mikal Melhus Tøsse,"21/13,21/14",Casper Cappelen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tarjei Sveen,,Mikal Melhus Tøsse,"21/19,21/16",Tarjei Sveen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Casper Cappelen,,Daniel Gundersen,"21/5,21/0",Casper Cappelen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Marianne Lie,,Tyra Friisenfeldt,"21/18,19/21,21/19",Marianne Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tyra Friisenfeldt,,Mette Skjævesland Pedersen,"21/18,16/21,21/9",Tyra Friisenfeldt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Marianne Lie,,Iris Hagen,"13/21,21/12,21/6",Marianne Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tyra Friisenfeldt,,Anne Marthe Svensen,"21/19,14/21,21/17",Tyra Friisenfeldt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Marianne Lie,,Anne-Emilie Larsen,"21/9,21/17",Marianne Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Mette Skjævesland Pedersen,,Charlotte Svennevig Thuv,"21/7,21/5",Mette Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Anne-Emilie Larsen,,Charlotte Svennevig Thuv,"21/6,21/13",Anne-Emilie Larsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Mette Skjævesland Pedersen,,Anne-Emilie Larsen,"29/27,23/21",Mette Skjævesland Pedersen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Marianne Lie,,Tyra Friisenfeldt,"21/13,21/10",Marianne Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Marianne Lie,,Thea  Vatne,"21/5,21/7",Marianne Lie,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Tyra Friisenfeldt,,Thea  Vatne,"21/7,21/11",Tyra Friisenfeldt,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Anne Marthe Svensen,,Hedda Langmark  Thomsen,"21/10,21/2",Anne Marthe Svensen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Iris Hagen,,Miriam Stensland,"22/20,16/21,21/17",Iris Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Miriam Stensland,,Hedda Langmark  Thomsen,"21/9,21/13",Miriam Stensland,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Iris Hagen,,Anne Marthe Svensen,"21/14,21/17",Iris Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Iris Hagen,,Hedda Langmark  Thomsen,"21/8,21/9",Iris Hagen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,,Anne Marthe Svensen,,Miriam Stensland,"20/22,21/17,21/18",Anne Marthe Svensen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Kristian Gundersen,Daniel Gundersen,Andreas Bull,Marton Gundersen,"21/19,21/13",Kristian Gundersen,Daniel Gundersen
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Fredrik Seljåsen,Daniel Wenaas,Andreas Bull,Marton Gundersen,"21/14,21/18",Fredrik Seljåsen,Daniel Wenaas
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Fredrik Seljåsen,Daniel Wenaas,Kristian Gundersen,Daniel Gundersen,"21/16,21/7",Fredrik Seljåsen,Daniel Wenaas
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Fredrik Seljåsen,,Anders Bellesen,"21/14,21/17",Fredrik Seljåsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Daniel Wenaas,,Marton Gundersen,"21/11,21/13",Daniel Wenaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Daniel Wenaas,,Anders Bellesen,"18/21,21/15,21/19",Daniel Wenaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Fredrik Seljåsen,,Marton Gundersen,"21/6,21/3",Fredrik Seljåsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Anders Bellesen,,Marton Gundersen,"21/11,21/11",Anders Bellesen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Fredrik Seljåsen,,Daniel Wenaas,"21/9,21/8",Fredrik Seljåsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Fredrik Seljåsen,,Anders Bellesen,"21/14,21/17",Fredrik Seljåsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Daniel Wenaas,,Marton Gundersen,"21/11,21/13",Daniel Wenaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Daniel Wenaas,,Anders Bellesen,"18/21,21/15,21/19",Daniel Wenaas,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Fredrik Seljåsen,,Marton Gundersen,"21/6,21/3",Fredrik Seljåsen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Anders Bellesen,,Marton Gundersen,"21/11,21/11",Anders Bellesen,
-2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,,Fredrik Seljåsen,,Daniel Wenaas,"21/9,21/8",Fredrik Seljåsen,
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Eirik Paulsen,,Gjermund Hagen,"21/17,21/11",Eirik Paulsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Eirik Paulsen,,Arild Mevatne,"10/21,21/9,21/14",Eirik Paulsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gjermund Hagen,,Gøran Olsen,"21/14,21/7",Gjermund Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Eirik Paulsen,,Terje Jacobsen,"21/12,21/16",Eirik Paulsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Arild Mevatne,,Randi Selle,"21/15,21/15",Arild Mevatne,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gøran Olsen,,Thomas Sjursen,"21/12,21/18",Gøran Olsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gjermund Hagen,,Yahya Januarilham,"21/7,21/9",Gjermund Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Thomas Sjursen,,Tommy H. Abrahamsen,"21/8,21/17",Thomas Sjursen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Eirik Paulsen,,Tommy H. Abrahamsen,"21/6,21/3",Eirik Paulsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Eirik Paulsen,,Thomas Sjursen,"21/13,21/5",Eirik Paulsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Yahya Januarilham,,Håkon Synnes Ytreland,"21/19,21/12",Yahya Januarilham,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Randi Selle,,Yahya Januarilham,"21/11,21/14",Randi Selle,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Randi Selle,,Håkon Synnes Ytreland,"21/11,12/21,21/8",Randi Selle,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gøran Olsen,,Benjamin Falck,"21/15,21/11",Gøran Olsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gøran Olsen,,Terje Jacobsen,"18/21,21/13,21/16",Gøran Olsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Terje Jacobsen,,Benjamin Falck,"21/14,21/12",Terje Jacobsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Arild Mevatne,,Carlo Alonzo Agustin,"21/18,18/21,21/16",Arild Mevatne,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gjermund Hagen,,Arild Mevatne,"27/25,21/16",Gjermund Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herresingle,,Gjermund Hagen,,Carlo Alonzo Agustin,"21/18,21/13",Gjermund Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Svenja Tyrhardt,,Anne Skjævesland,"21/7,21/15",Svenja Tyrhardt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Svenja Tyrhardt,,Kristin Aven,"21/8,21/12",Svenja Tyrhardt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Anne Skjævesland,,Ingeborg Krogsæter,"21/13,21/16",Anne Skjævesland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Ingeborg Krogsæter,,Hanne Nesse,"21/11,21/5",Ingeborg Krogsæter,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Kristin Aven,,Rebekka Lie,"21/12,21/14",Kristin Aven,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Hanne Nesse,,Kristine Wallem,"17/21,21/16,21/19",Hanne Nesse,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Svenja Tyrhardt,,Hanne Nesse,"21/8,21/4",Svenja Tyrhardt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Svenja Tyrhardt,,Kristine Wallem,"21/4,21/1",Svenja Tyrhardt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Ingeborg Krogsæter,,Kristine Haugland,"21/17,21/15",Ingeborg Krogsæter,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Kristin Aven,,Kristine Haugland,"21/14,21/15",Kristin Aven,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Ingeborg Krogsæter,,Kristin Aven,"21/16,21/15",Ingeborg Krogsæter,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Rebekka Lie,,Benedicte Cappelen,"21/12,21/7",Rebekka Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Anne Skjævesland,,Thea Zahl Thorsen,"21/8,21/12",Anne Skjævesland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Thea Zahl Thorsen,,Benedicte Cappelen,"21/6,21/12",Thea Zahl Thorsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Anne Skjævesland,,Rebekka Lie,"21/8,21/15",Anne Skjævesland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Anne Skjævesland,,Benedicte Cappelen,"21/4,21/6",Anne Skjævesland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Damesingle,,Rebekka Lie,,Thea Zahl Thorsen,"21/19,21/19",Rebekka Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Håkon Synnes Ytreland,Arild Mevatne,Gøran Olsen,Svenja Tyrhardt,"21/10,21/18",Håkon Synnes Ytreland,Arild Mevatne
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Håkon Synnes Ytreland,Arild Mevatne,Yahya Januarilham,Terje Jacobsen,"21/14,21/17",Håkon Synnes Ytreland,Arild Mevatne
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Yahya Januarilham,Terje Jacobsen,Carlo Alonzo Agustin,Trond Atle Syvertsen,"21/13,21/16",Yahya Januarilham,Terje Jacobsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Randi Selle,Gjermund Hagen,Kjell Arne Selle,Arne Martin Hagen,"21/2,21/7",Randi Selle,Gjermund Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Randi Selle,Gjermund Hagen,Joakim Haugebo,Benjamin Falck,"21/11,21/13",Randi Selle,Gjermund Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Gøran Olsen,Svenja Tyrhardt,Randi Selle,Gjermund Hagen,"10/21,21/19,21/18",Gøran Olsen,Svenja Tyrhardt
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Herredouble,Gøran Olsen,Svenja Tyrhardt,Joakim Haugebo,Benjamin Falck,"21/14,21/16",Gøran Olsen,Svenja Tyrhardt
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Håkon Synnes Ytreland,Svenja Tyrhardt,Rebekka Lie,Arild Mevatne,"21/18,21/14",Håkon Synnes Ytreland,Svenja Tyrhardt
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Håkon Synnes Ytreland,Svenja Tyrhardt,Kristin Aven,Gjermund Hagen,"21/14,21/16",Håkon Synnes Ytreland,Svenja Tyrhardt
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Rebekka Lie,Arild Mevatne,Anne Skjævesland,Terje Jacobsen,"21/9,21/18",Rebekka Lie,Arild Mevatne
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Håkon Synnes Ytreland,Svenja Tyrhardt,Anne Skjævesland,Terje Jacobsen,"21/16,21/11",Håkon Synnes Ytreland,Svenja Tyrhardt
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Håkon Synnes Ytreland,Svenja Tyrhardt,Yahya Januarilham,Kristine Wallem,"21/9,21/16",Håkon Synnes Ytreland,Svenja Tyrhardt
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Anne Skjævesland,Terje Jacobsen,Yahya Januarilham,Kristine Wallem,"21/12,18/21,21/15",Anne Skjævesland,Terje Jacobsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Rebekka Lie,Arild Mevatne,Benjamin Falck,Thea Zahl Thorsen,"21/10,21/14",Rebekka Lie,Arild Mevatne
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Rebekka Lie,Arild Mevatne,Kristin Aven,Gjermund Hagen,"21/19,13/21,21/18",Rebekka Lie,Arild Mevatne
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN A,Mixeddouble,Kristin Aven,Gjermund Hagen,Benjamin Falck,Thea Zahl Thorsen,"21/18,21/15",Kristin Aven,Gjermund Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Eivind Lærum Bie,,Johnny Holte Haugland,"22/20,21/16",Eivind Lærum Bie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Eivind Lærum Bie,,Kjell Arne Selle,"21/18,21/15",Eivind Lærum Bie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Trond Atle Syvertsen,,Eivind Lærum Bie,"21/7,21/12",Trond Atle Syvertsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Kjell Arne Selle,,Johnny Holte Haugland,"20/22,21/7,21/9",Kjell Arne Selle,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Trond Atle Syvertsen,,Kjell Arne Selle,"21/13,21/8",Trond Atle Syvertsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Eivind Lærum Bie,,Kurt Høyland,"21/13,21/18",Eivind Lærum Bie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN B,Herresingle,,Trond Atle Syvertsen,,Kurt Høyland,"21/5,21/8",Trond Atle Syvertsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Herredouble,Andre Heim,Anne Skjævesland,Anne Lisbet Flåten,Trond Krogsæter,"21/13,21/12",Andre Heim,Anne Skjævesland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Herredouble,Anne Lisbet Flåten,Trond Krogsæter,Siby Abraham,Espen Stenhaug,"21/15,21/8",Anne Lisbet Flåten,Trond Krogsæter
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Herredouble,Andre Heim,Anne Skjævesland,Agus Darmawan,Eric Isupradipto,"21/14,21/18",Andre Heim,Anne Skjævesland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Herredouble,Agus Darmawan,Eric Isupradipto,Thomas Sjursen,Anders Haugland,"15/21,21/18,21/18",Agus Darmawan,Eric Isupradipto
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Kristine Haugland,Espen Stenhaug,Trond Krogsæter,Selie Galami,"15/21,21/18,24/22",Kristine Haugland,Espen Stenhaug
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Hanne Nesse,Thomas Sjursen,Norunn Hagen,Arne Martin Hagen,"21/11,21/13",Hanne Nesse,Thomas Sjursen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Hanne Nesse,Thomas Sjursen,Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen,"21/12,21/14",Hanne Nesse,Thomas Sjursen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Norunn Hagen,Arne Martin Hagen,Trond Krogsæter,Selie Galami,"21/15,22/20",Norunn Hagen,Arne Martin Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Hanne Nesse,Thomas Sjursen,Kristine Haugland,Espen Stenhaug,"21/15,21/16",Hanne Nesse,Thomas Sjursen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen,Trond Krogsæter,Selie Galami,"21/17,13/21,21/18",Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Kristine Haugland,Espen Stenhaug,Norunn Hagen,Arne Martin Hagen,"21/14,15/21,21/12",Kristine Haugland,Espen Stenhaug
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen,Kristine Haugland,Espen Stenhaug,"21/19,21/13",Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Hanne Nesse,Thomas Sjursen,Trond Krogsæter,Selie Galami,"21/14,21/11",Hanne Nesse,Thomas Sjursen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN C,Mixeddouble,Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen,Norunn Hagen,Arne Martin Hagen,"21/17,21/10",Bjørn Idar Friisenfeldt,Mette Skjævesland Pedersen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Trond Helgøy,,Roald Grannes,"21/5,21/8",Trond Helgøy,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Trond Helgøy,,Selie Galami,"21/10,21/11",Trond Helgøy,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Roald Grannes,,Sverre Svensen,"27/25,21/7",Roald Grannes,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Trond Helgøy,,Tonje Cecilie Osmundsen,"21/14,21/19",Trond Helgøy,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Trond Helgøy,,Roald Grannes,"21/12,21/14",Trond Helgøy,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Roald Grannes,,Tonje Cecilie Osmundsen,"21/7,21/7",Roald Grannes,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Sverre Svensen,,Norunn Hagen,"21/8,21/10",Sverre Svensen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Sverre Svensen,,Selie Galami,"21/13,21/17",Sverre Svensen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herresingle,,Selie Galami,,Norunn Hagen,"21/6,21/4",Selie Galami,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herredouble,Roald Grannes,Sverre Svensen,Selie Galami,Norunn Hagen,"21/11,21/6",Roald Grannes,Sverre Svensen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herredouble,Trond Helgøy,Thomas Midtskog,Selie Galami,Norunn Hagen,"21/14,21/13",Trond Helgøy,Thomas Midtskog
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,SEN D,Herredouble,Trond Helgøy,Thomas Midtskog,Roald Grannes,Sverre Svensen,"21/19,21/18",Trond Helgøy,Thomas Midtskog
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Fenris Lindland,,Stine Skjævesland Pedersen,"12/21,21/16,21/16",Fenris Lindland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Stine Skjævesland Pedersen,,Manas Dubey,"21/8,21/16",Stine Skjævesland Pedersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Fenris Lindland,,Lukas Skrunes Sundt,"21/5,21/10",Fenris Lindland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Lukas Skrunes Sundt,,Anders Langeland,"18/21,21/16,23/21",Lukas Skrunes Sundt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Manas Dubey,,Anders Langeland,"21/13,22/20",Manas Dubey,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Manas Dubey,,Lukas Skrunes Sundt,"21/17,21/16",Manas Dubey,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Fenris Lindland,,Jonar Freim,"21/5,21/3",Fenris Lindland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Fenris Lindland,,Jonathan Utne Madsøy,"21/10,21/9",Fenris Lindland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Stine Skjævesland Pedersen,,Jonar Freim,"21/9,21/4",Stine Skjævesland Pedersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Jonathan Utne Madsøy,,Jonar Freim,"21/6,21/5",Jonathan Utne Madsøy,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Fenris Lindland,,Stine Skjævesland Pedersen,"21/10,21/19",Fenris Lindland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U11 A,Herresingle,,Stine Skjævesland Pedersen,,Jonathan Utne Madsøy,"21/8,21/8",Stine Skjævesland Pedersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Simon Vedaa,,Jay Janaskar,"21/16,21/16",Simon Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jay Janaskar,,Jørgen Vedaa,"21/15,21/15",Jay Janaskar,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Simon Vedaa,,Elias Øyen Selsaas,"21/20,21/9",Simon Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jay Janaskar,,Olav Kjelby,"21/10,21/10",Jay Janaskar,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jørgen Vedaa,,Eivind Larsen,"21/15,21/18",Jørgen Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Elias Øyen Selsaas,,Magnus Hørte  Salvesen,"16/21,21/12,21/10",Elias Øyen Selsaas,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Simon Vedaa,,Eirik Sørvaag,"21/7,21/4",Simon Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Magnus Hørte  Salvesen,,Hermod Holte Haugland,"23/21,21/14",Magnus Hørte  Salvesen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jay Janaskar,,Magnus Hørte  Salvesen,"21/12,21/18",Jay Janaskar,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jay Janaskar,,Hermod Holte Haugland,"21/17,21/13",Jay Janaskar,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jørgen Vedaa,,Erlend  Ølberg,"21/13,21/12",Jørgen Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Jørgen Vedaa,,Eirik Sørvaag,"21/6,21/6",Jørgen Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Eirik Sørvaag,,Erlend  Ølberg,"21/17,21/19",Eirik Sørvaag,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Elias Øyen Selsaas,,Oskar  Laukvik,"21/7,21/12",Elias Øyen Selsaas,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Olav Kjelby,,Vegard Svennevik,"24/26,21/17,21/15",Olav Kjelby,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Vegard Svennevik,,Oskar  Laukvik,"21/9,21/11",Vegard Svennevik,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Elias Øyen Selsaas,,Olav Kjelby,"21/10,21/9",Elias Øyen Selsaas,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Olav Kjelby,,Oskar  Laukvik,"21/18,21/12",Olav Kjelby,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Elias Øyen Selsaas,,Vegard Svennevik,"21/13,21/10",Elias Øyen Selsaas,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Eivind Larsen,,Oskar Ødegård,"21/12,21/16",Eivind Larsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Simon Vedaa,,Oskar Ødegård,"21/5,21/7",Simon Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herresingle,,Simon Vedaa,,Eivind Larsen,"21/6,21/12",Simon Vedaa,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herredouble,Simon Vedaa,Jørgen Vedaa,Eivind Larsen,Jay Janaskar,"21/23,21/12,21/16",Simon Vedaa,Jørgen Vedaa
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herredouble,Simon Vedaa,Jørgen Vedaa,Erlend  Ølberg,Olav Kjelby,"21/5,21/13",Simon Vedaa,Jørgen Vedaa
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U13 A,Herredouble,Eivind Larsen,Jay Janaskar,Elias Øyen Selsaas,Hermod Holte Haugland,"21/18,21/19",Eivind Larsen,Jay Janaskar
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Trygve Ellingsen,,Anders Haugland,"21/14,21/18",Trygve Ellingsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Trygve Ellingsen,,Eskil Gjertsen Sandnes,"21/19,21/16",Trygve Ellingsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Anders Haugland,,Sebastian Høyland Wahl,"21/19,22/20",Anders Haugland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Eskil Gjertsen Sandnes,,Ivan  Kjerulf,"21/13,17/21,23/21",Eskil Gjertsen Sandnes,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Sebastian Høyland Wahl,,John Erik Fosseland Hansen,"22/20,21/4",Sebastian Høyland Wahl,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Eskil Gjertsen Sandnes,,Anik Siwach,"21/11,21/11",Eskil Gjertsen Sandnes,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Anders Haugland,,Andreas Bull,"21/5,21/6",Anders Haugland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Anik Siwach,,Andreas Bull,"21/11,21/10",Anik Siwach,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Anders Haugland,,Anik Siwach,"21/11,21/8",Anders Haugland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Eskil Gjertsen Sandnes,,Andreas Bull,"21/7,21/6",Eskil Gjertsen Sandnes,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Anders Haugland,,Eskil Gjertsen Sandnes,"21/8,22/20",Anders Haugland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Ivan  Kjerulf,,Sebastian Høyland Wahl,"21/11,10/21,27/25",Ivan  Kjerulf,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Ivan  Kjerulf,,Bjørn Stople,"21/19,21/9",Ivan  Kjerulf,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Sebastian Høyland Wahl,,Bjørn Stople,"21/15,16/21,21/13",Sebastian Høyland Wahl,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,John Erik Fosseland Hansen,,Even Malm Nordgaard,"15/21,22/20,21/9",John Erik Fosseland Hansen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Trygve Ellingsen,,Jonas Egeland Bentsen,"21/10,23/21",Trygve Ellingsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Trygve Ellingsen,,Even Malm Nordgaard,"21/3,21/10",Trygve Ellingsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,John Erik Fosseland Hansen,,Jonas Egeland Bentsen,"21/17,21/14",John Erik Fosseland Hansen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Jonas Egeland Bentsen,,Even Malm Nordgaard,"16/21,21/18,21/19",Jonas Egeland Bentsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herresingle,,Trygve Ellingsen,,John Erik Fosseland Hansen,"21/7,21/12",Trygve Ellingsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Sebastian Høyland Wahl,Trygve Ellingsen,Bjørn Stople,Even Malm Nordgaard,"21/23,21/13,21/16",Sebastian Høyland Wahl,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Bjørn Stople,Even Malm Nordgaard,Eskil Gjertsen Sandnes,Ivan  Kjerulf,"21/11,14/21,21/17",Bjørn Stople,Even Malm Nordgaard
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Bjørn Stople,Even Malm Nordgaard,Simen Nordin,Tord Udø Selfors,"21/14,21/11",Bjørn Stople,Even Malm Nordgaard
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Eskil Gjertsen Sandnes,Ivan  Kjerulf,Simen Nordin,Tord Udø Selfors,"21/12,21/9",Eskil Gjertsen Sandnes,Ivan  Kjerulf
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Sebastian Høyland Wahl,Trygve Ellingsen,Jonas Egeland Bentsen,John Erik Fosseland Hansen,"21/11,21/12",Sebastian Høyland Wahl,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Jonas Egeland Bentsen,John Erik Fosseland Hansen,Jonas Alsaker,Curt Ariel Lid,"21/12,21/15",Jonas Egeland Bentsen,John Erik Fosseland Hansen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Herredouble,Sebastian Høyland Wahl,Trygve Ellingsen,Jonas Alsaker,Curt Ariel Lid,"21/9,21/8",Sebastian Høyland Wahl,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Damedouble,Ingeborg Krogsæter,Marianne Lie,Miriam Stensland,Anne-Emilie Larsen,"20/22,21/13,21/14",Ingeborg Krogsæter,Marianne Lie
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Damedouble,Ingeborg Krogsæter,Marianne Lie,Mette Skjævesland Pedersen,Tyra Friisenfeldt,"21/18,21/10",Ingeborg Krogsæter,Marianne Lie
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Damedouble,Miriam Stensland,Anne-Emilie Larsen,Thea  Vatne,Hedda Langmark  Thomsen,"18/21,21/14,21/14",Miriam Stensland,Anne-Emilie Larsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Damedouble,Thea  Vatne,Hedda Langmark  Thomsen,Anne Marthe Svensen,Johanna Gundersen,"24/22,22/20",Thea  Vatne,Hedda Langmark  Thomsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Iris Hagen,Trygve Ellingsen,Marianne Lie,Anders Haugland,"16/21,21/16,22/20",Iris Hagen,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Iris Hagen,Trygve Ellingsen,Sebastian Høyland Wahl,Julie Vierdal Stensland,"21/13,21/13",Iris Hagen,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Marianne Lie,Anders Haugland,Bjørn Stople,Ingeborg Krogsæter,"21/16,22/20",Marianne Lie,Anders Haugland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Iris Hagen,Trygve Ellingsen,Bjørn Stople,Ingeborg Krogsæter,"19/21,21/12,21/17",Iris Hagen,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Bjørn Stople,Ingeborg Krogsæter,Riththisha Elathurajan,Anik Siwach,"21/6,21/2",Bjørn Stople,Ingeborg Krogsæter
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Iris Hagen,Trygve Ellingsen,Riththisha Elathurajan,Anik Siwach,"21/12,21/10",Iris Hagen,Trygve Ellingsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Sebastian Høyland Wahl,Julie Vierdal Stensland,Jay Janaskar,Stine Skjævesland Pedersen,"15/21,21/12,21/16",Sebastian Høyland Wahl,Julie Vierdal Stensland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Sebastian Høyland Wahl,Julie Vierdal Stensland,Tonje Eie Anda,Andreas Bull,"21/19,21/16",Sebastian Høyland Wahl,Julie Vierdal Stensland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Marianne Lie,Anders Haugland,Jay Janaskar,Stine Skjævesland Pedersen,"21/8,21/10",Marianne Lie,Anders Haugland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Jay Janaskar,Stine Skjævesland Pedersen,Tonje Eie Anda,Andreas Bull,"21/18,16/21,21/10",Jay Janaskar,Stine Skjævesland Pedersen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Marianne Lie,Anders Haugland,Sebastian Høyland Wahl,Julie Vierdal Stensland,"21/9,21/19",Marianne Lie,Anders Haugland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 A,Mixeddouble,Marianne Lie,Anders Haugland,Tonje Eie Anda,Andreas Bull,"21/9,21/12",Marianne Lie,Anders Haugland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Tord Udø Selfors,,Curt Ariel Lid,"16/21,21/8,21/12",Tord Udø Selfors,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Simen Nordin,,Emil Hansen,"21/10,21/10",Simen Nordin,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Jonas Alsaker,,Curt Ariel Lid,"21/17,21/17",Jonas Alsaker,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Tord Udø Selfors,,Emil Hansen,"21/17,21/14",Tord Udø Selfors,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Jonas Alsaker,,Tord Udø Selfors,"21/9,21/14",Jonas Alsaker,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Simen Nordin,,Curt Ariel Lid,"21/14,21/18",Simen Nordin,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Simen Nordin,,Jonas Alsaker,"17/21,21/12,21/19",Simen Nordin,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Curt Ariel Lid,,Emil Hansen,"21/16,12/21,21/12",Curt Ariel Lid,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Jonas Alsaker,,Emil Hansen,"21/15,21/11",Jonas Alsaker,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Herresingle,,Simen Nordin,,Tord Udø Selfors,"21/13,21/15",Simen Nordin,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Margrethe Schrøder-Nielsen,,Silje Log,"21/17,21/14",Margrethe Schrøder-Nielsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Margrethe Schrøder-Nielsen,,Julie Vierdal Stensland,"21/8,21/7",Margrethe Schrøder-Nielsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Silje Log,,Johanna Gundersen,"22/24,21/12,21/8",Silje Log,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Margrethe Schrøder-Nielsen,,Silje Log,"21/16,21/13",Margrethe Schrøder-Nielsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Tonje Eie Anda,,Riththisha Elathurajan,"21/9,21/14",Tonje Eie Anda,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Margrethe Schrøder-Nielsen,,Riththisha Elathurajan,"21/3,21/2",Margrethe Schrøder-Nielsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Silje Log,,Tonje Eie Anda,"22/20,21/16",Silje Log,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Margrethe Schrøder-Nielsen,,Tonje Eie Anda,"21/11,21/11",Margrethe Schrøder-Nielsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Silje Log,,Riththisha Elathurajan,"21/13,21/10",Silje Log,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Eline Furubotn Overå,,Marie Brede,"21/17,21/19",Eline Furubotn Overå,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Johanna Gundersen,,Julie Vierdal Stensland,"21/17,21/14",Johanna Gundersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Johanna Gundersen,,Marie Brede,"21/13,21/5",Johanna Gundersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Julie Vierdal Stensland,,Eline Furubotn Overå,"21/11,22/20",Julie Vierdal Stensland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Julie Vierdal Stensland,,Marie Brede,"21/9,21/12",Julie Vierdal Stensland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damesingle,,Johanna Gundersen,,Eline Furubotn Overå,"21/18,21/18",Johanna Gundersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U15 B,Damedouble,Eline Furubotn Overå,Tonje Eie Anda,Riththisha Elathurajan,Julie Vierdal Stensland,"21/14,20/22,21/11",Eline Furubotn Overå,Tonje Eie Anda
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Joakim Haugebo,,Stian Otten,"21/19,20/27,21/12",Joakim Haugebo,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Stian Otten,,Tarjei Sveen,"20/22,22/20,21/8",Stian Otten,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Joakim Haugebo,,Casper Cappelen,"21/18,21/12",Joakim Haugebo,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Stian Otten,,Espen Stenhaug,"21/12,21/19",Stian Otten,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Casper Cappelen,,Kevin Abraham,"21/14,15/21,21/10",Casper Cappelen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Espen Stenhaug,,Kristian Gundersen,"21/10,21/6",Espen Stenhaug,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Joakim Haugebo,,Espen Stenhaug,"21/16,21/6",Joakim Haugebo,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Joakim Haugebo,,Kristian Gundersen,"21/4,21/4",Joakim Haugebo,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Stian Otten,,Sondre Hagen,"21/14,15/21,21/9",Stian Otten,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Stian Otten,,Kevin Abraham,"21/18,21/12",Stian Otten,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Kevin Abraham,,Sondre Hagen,"21/15,21/16",Kevin Abraham,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Tarjei Sveen,,Casper Cappelen,"18/21,21/17,21/18",Tarjei Sveen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Mikal Melhus Tøsse,,Daniel Gundersen,"21/5,21/9",Mikal Melhus Tøsse,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Tarjei Sveen,,Daniel Gundersen,"21/8,21/7",Tarjei Sveen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Casper Cappelen,,Mikal Melhus Tøsse,"21/13,21/14",Casper Cappelen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Tarjei Sveen,,Mikal Melhus Tøsse,"21/19,21/16",Tarjei Sveen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herresingle,,Casper Cappelen,,Daniel Gundersen,"21/5,21/0",Casper Cappelen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Marianne Lie,,Tyra Friisenfeldt,"21/18,19/21,21/19",Marianne Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Tyra Friisenfeldt,,Mette Skjævesland Pedersen,"21/18,16/21,21/9",Tyra Friisenfeldt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Marianne Lie,,Iris Hagen,"13/21,21/12,21/6",Marianne Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Tyra Friisenfeldt,,Anne Marthe Svensen,"21/19,14/21,21/17",Tyra Friisenfeldt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Marianne Lie,,Anne-Emilie Larsen,"21/9,21/17",Marianne Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Mette Skjævesland Pedersen,,Charlotte Svennevig Thuv,"21/7,21/5",Mette Skjævesland Pedersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Anne-Emilie Larsen,,Charlotte Svennevig Thuv,"21/6,21/13",Anne-Emilie Larsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Mette Skjævesland Pedersen,,Anne-Emilie Larsen,"29/27,23/21",Mette Skjævesland Pedersen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Marianne Lie,,Tyra Friisenfeldt,"21/13,21/10",Marianne Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Marianne Lie,,Thea  Vatne,"21/5,21/7",Marianne Lie,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Tyra Friisenfeldt,,Thea  Vatne,"21/7,21/11",Tyra Friisenfeldt,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Anne Marthe Svensen,,Hedda Langmark  Thomsen,"21/10,21/2",Anne Marthe Svensen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Iris Hagen,,Miriam Stensland,"22/20,16/21,21/17",Iris Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Miriam Stensland,,Hedda Langmark  Thomsen,"21/9,21/13",Miriam Stensland,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Iris Hagen,,Anne Marthe Svensen,"21/14,21/17",Iris Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Iris Hagen,,Hedda Langmark  Thomsen,"21/8,21/9",Iris Hagen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Damesingle,,Anne Marthe Svensen,,Miriam Stensland,"20/22,21/17,21/18",Anne Marthe Svensen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herredouble,Kristian Gundersen,Daniel Gundersen,Andreas Bull,Marton Gundersen,"21/19,21/13",Kristian Gundersen,Daniel Gundersen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herredouble,Fredrik Seljåsen,Daniel Wenaas,Andreas Bull,Marton Gundersen,"21/14,21/18",Fredrik Seljåsen,Daniel Wenaas
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Herredouble,Fredrik Seljåsen,Daniel Wenaas,Kristian Gundersen,Daniel Gundersen,"21/16,21/7",Fredrik Seljåsen,Daniel Wenaas
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Rikke Nagell Hansen,Sondre Hagen,Casper Cappelen,Miriam Stensland,"21/16,14/21,21/16",Rikke Nagell Hansen,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Rikke Nagell Hansen,Sondre Hagen,Joakim Haugebo,Thea  Vatne,"21/12,21/16",Rikke Nagell Hansen,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Casper Cappelen,Miriam Stensland,Anne Marthe Svensen,Kevin Abraham,"21/17,23/21",Casper Cappelen,Miriam Stensland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Rikke Nagell Hansen,Sondre Hagen,Fredrik Seljåsen,Hedda Langmark  Thomsen,"21/13,21/14",Rikke Nagell Hansen,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Anne Marthe Svensen,Kevin Abraham,Marton Gundersen,Johanna Gundersen,"21/6,21/9",Anne Marthe Svensen,Kevin Abraham
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Joakim Haugebo,Thea  Vatne,Marton Gundersen,Johanna Gundersen,"21/9,21/8",Joakim Haugebo,Thea  Vatne
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Anne Marthe Svensen,Kevin Abraham,Fredrik Seljåsen,Hedda Langmark  Thomsen,"21/15,15/21,21/16",Anne Marthe Svensen,Kevin Abraham
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Anne Marthe Svensen,Kevin Abraham,Tyra Friisenfeldt,Anders Bellesen,"21/8,21/9",Anne Marthe Svensen,Kevin Abraham
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Fredrik Seljåsen,Hedda Langmark  Thomsen,Tyra Friisenfeldt,Anders Bellesen,"21/14,21/18",Fredrik Seljåsen,Hedda Langmark  Thomsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Rikke Nagell Hansen,Sondre Hagen,Daniel Wenaas,Charlotte Svennevig Thuv,"21/8,21/10",Rikke Nagell Hansen,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Casper Cappelen,Miriam Stensland,Stian Otten,Anne-Emilie Larsen,"24/22,16/21,21/16",Casper Cappelen,Miriam Stensland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Stian Otten,Anne-Emilie Larsen,Daniel Wenaas,Charlotte Svennevig Thuv,"21/5,21/9",Stian Otten,Anne-Emilie Larsen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Casper Cappelen,Miriam Stensland,Rikke Nagell Hansen,Sondre Hagen,"18/21,23/21,21/18",Casper Cappelen,Miriam Stensland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Rikke Nagell Hansen,Sondre Hagen,Stian Otten,Anne-Emilie Larsen,"21/18,21/17",Rikke Nagell Hansen,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 A,Mixeddouble,Casper Cappelen,Miriam Stensland,Daniel Wenaas,Charlotte Svennevig Thuv,"21/5,21/11",Casper Cappelen,Miriam Stensland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,Herresingle,,Fredrik Seljåsen,,Anders Bellesen,"21/14,21/17",Fredrik Seljåsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,Herresingle,,Daniel Wenaas,,Marton Gundersen,"21/11,21/13",Daniel Wenaas,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,Herresingle,,Daniel Wenaas,,Anders Bellesen,"18/21,21/15,21/19",Daniel Wenaas,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,Herresingle,,Fredrik Seljåsen,,Marton Gundersen,"21/6,21/3",Fredrik Seljåsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,Herresingle,,Anders Bellesen,,Marton Gundersen,"21/11,21/11",Anders Bellesen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U17 B,Herresingle,,Fredrik Seljåsen,,Daniel Wenaas,"21/9,21/8",Fredrik Seljåsen,
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Stian Otten,Casper Cappelen,Kevin Abraham,Anik Siwach,"21/19,21/16",Stian Otten,Casper Cappelen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Eivind Lærum Bie,Tarjei Sveen,Mikal Melhus Tøsse,Sondre Hagen,"21/18,21/19",Eivind Lærum Bie,Tarjei Sveen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Stian Otten,Casper Cappelen,Mikal Melhus Tøsse,Sondre Hagen,"21/17,16/21,21/19",Stian Otten,Casper Cappelen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Anders Bellesen,Vetle Skadberg,Kevin Abraham,Anik Siwach,"21/15,24/22",Anders Bellesen,Vetle Skadberg
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Stian Otten,Casper Cappelen,Anders Bellesen,Vetle Skadberg,"21/5,21/9",Stian Otten,Casper Cappelen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Eivind Lærum Bie,Tarjei Sveen,Kevin Abraham,Anik Siwach,"21/12,21/9",Eivind Lærum Bie,Tarjei Sveen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Eivind Lærum Bie,Tarjei Sveen,Anders Bellesen,Vetle Skadberg,"21/17,21/15",Eivind Lærum Bie,Tarjei Sveen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Mikal Melhus Tøsse,Sondre Hagen,Anders Bellesen,Vetle Skadberg,"22/20,21/15",Mikal Melhus Tøsse,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Eivind Lærum Bie,Tarjei Sveen,Stian Otten,Casper Cappelen,"21/19,21/19",Eivind Lærum Bie,Tarjei Sveen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Herredouble,Mikal Melhus Tøsse,Sondre Hagen,Kevin Abraham,Anik Siwach,"21/18,24/26,21/19",Mikal Melhus Tøsse,Sondre Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Damedouble,Kristine Wallem,Kristin Aven,Rebekka Lie,Kristine Haugland,"21/13,21/23,21/17",Kristine Wallem,Kristin Aven
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Damedouble,Rebekka Lie,Kristine Haugland,Hanne Nesse,Thea Zahl Thorsen,"19/21,21/19,21/8",Rebekka Lie,Kristine Haugland
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Damedouble,Kristine Wallem,Kristin Aven,Hanne Nesse,Thea Zahl Thorsen,"22/20,21/18",Kristine Wallem,Kristin Aven
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Damedouble,Rikke Nagell Hansen,Iris Hagen,Hanne Nesse,Thea Zahl Thorsen,"21/19,21/10",Rikke Nagell Hansen,Iris Hagen
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Damedouble,Kristine Wallem,Kristin Aven,Rikke Nagell Hansen,Iris Hagen,"21/11,21/13",Kristine Wallem,Kristin Aven
+2014/2015,Stavanger Stavanger Open 2014,18.10.2014,U19 A,Damedouble,Rebekka Lie,Kristine Haugland,Rikke Nagell Hansen,Iris Hagen,"21/14,21/12",Rebekka Lie,Kristine Haugland

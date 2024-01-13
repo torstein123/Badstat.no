@@ -1,405 +1,322 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Andreas Møyland,"21/18,21/16",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Khiem  Duc Nguyen,"21/13,21/18",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Øystein Hovden Eimind,"21/10,21/18",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Jonas Ruud Tuskin,"21/13,21/10",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Marius Imset,,Martin Enghaug,"21/15,16/21,21/13",Marius Imset,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Marius Imset,"21/12,21/13",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Martin Enghaug,"21/13,22/24,21/16",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Roman Malamant,,Henrik Smittil Høksnes,"21/18,11/21,21/18",Roman Malamant,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Henrik Smittil Høksnes,,Khiem  Duc Nguyen,"13/21,21/19,21/16",Henrik Smittil Høksnes,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Khiem  Duc Nguyen,,Roman Malamant,"21/7,22/20",Khiem  Duc Nguyen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Bent Mørken,"21/19,10/21,21/17",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Tommy Helander,"11/21,21/19,21/19",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Bent Mørken,,Tommy Helander,"21/15,21/17",Bent Mørken,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Jonas Ruud Tuskin,,Roger Bjørnstad,"17/21,21/16,21/15",Jonas Ruud Tuskin,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Jonas Ruud Tuskin,,Daniel Bjørklund,"17/21,25/23,21/11",Jonas Ruud Tuskin,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Roger Bjørnstad,,Daniel Bjørklund,"21/15,13/21,21/11",Roger Bjørnstad,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Olav Sagård Roalkvam,,Jon Eirik Gulli,"21/13,19/21,22/20",Olav Sagård Roalkvam,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Øystein Hovden Eimind,,Olav Sagård Roalkvam,"21/17,14/21,21/16",Øystein Hovden Eimind,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Øystein Hovden Eimind,,Jon Eirik Gulli,"21/11,21/16",Øystein Hovden Eimind,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Andreas Møyland,"21/18,21/16",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Khiem  Duc Nguyen,"21/13,21/18",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Øystein Hovden Eimind,"21/10,21/18",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Jonas Ruud Tuskin,"21/13,21/10",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Marius Imset,,Martin Enghaug,"21/15,16/21,21/13",Marius Imset,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Marius Imset,"21/12,21/13",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Ludvig Smith-Meyer,,Martin Enghaug,"21/13,22/24,21/16",Ludvig Smith-Meyer,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Roman Malamant,,Henrik Smittil Høksnes,"21/18,11/21,21/18",Roman Malamant,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Henrik Smittil Høksnes,,Khiem  Duc Nguyen,"13/21,21/19,21/16",Henrik Smittil Høksnes,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Khiem  Duc Nguyen,,Roman Malamant,"21/7,22/20",Khiem  Duc Nguyen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Bent Mørken,"21/19,10/21,21/17",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Andreas Møyland,,Tommy Helander,"11/21,21/19,21/19",Andreas Møyland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Bent Mørken,,Tommy Helander,"21/15,21/17",Bent Mørken,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Jonas Ruud Tuskin,,Roger Bjørnstad,"17/21,21/16,21/15",Jonas Ruud Tuskin,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Jonas Ruud Tuskin,,Daniel Bjørklund,"17/21,25/23,21/11",Jonas Ruud Tuskin,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Roger Bjørnstad,,Daniel Bjørklund,"21/15,13/21,21/11",Roger Bjørnstad,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Olav Sagård Roalkvam,,Jon Eirik Gulli,"21/13,19/21,22/20",Olav Sagård Roalkvam,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Øystein Hovden Eimind,,Olav Sagård Roalkvam,"21/17,14/21,21/16",Øystein Hovden Eimind,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Øystein Hovden Eimind,,Jon Eirik Gulli,"21/11,21/16",Øystein Hovden Eimind,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Lisa Olsen Berg,,Rahaf Alothman,"21/16,18/21,21/11",Lisa Olsen Berg,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Lisa Olsen Berg,,Aude Dufrene,"21/17,12/21,21/14",Lisa Olsen Berg,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Rahaf Alothman,,Elise Lærkerød Jelsness,"21/19,21/23,21/12",Rahaf Alothman,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Lisa Olsen Berg,,Louise Faarup Storvik,"21/19,21/17",Lisa Olsen Berg,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Louise Faarup Storvik,,Martine E. Voldstad,"21/10,21/16",Louise Faarup Storvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Aude Dufrene,,Hanne Smittil Høksnes,"21/12,21/9",Aude Dufrene,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Aude Dufrene,,Monica Fuglesang,"21/12,21/14",Aude Dufrene,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Monica Fuglesang,,Hanne Smittil Høksnes,"22/20,21/15",Monica Fuglesang,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Elise Lærkerød Jelsness,,Anja Olsen,"21/16,21/10",Elise Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Nora Uri Malterud,,Heti Kusyanti,"21/14,21/6",Nora Uri Malterud,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Elise Lærkerød Jelsness,,Nora Uri Malterud,"21/10,21/14",Elise Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Anja Olsen,,Heti Kusyanti,"21/10,21/8",Anja Olsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Elise Lærkerød Jelsness,,Heti Kusyanti,"21/12,21/6",Elise Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Anja Olsen,,Nora Uri Malterud,"21/12,18/21,22/20",Anja Olsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Rahaf Alothman,,Karin Tryland Laheld,"21/11,21/6",Rahaf Alothman,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Karin Tryland Laheld,,Deepika Mital,"21/16,21/17",Karin Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,,Rahaf Alothman,,Deepika Mital,"21/10,21/7",Rahaf Alothman,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Martin Karlsen,"21/10,21/6",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Petter Tryland Laheld,"21/13,21/17",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Tobias Myhre,"21/12,21/8",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Morten Torkildsen,"21/16,21/19",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Petter Tryland Laheld,,Atle Hjort-Larsen,"21/9,18/21,21/12",Petter Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Erlend Stormo,"21/6,21/6",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tobias Myhre,,Osman Bekri Khan,"21/13,21/16",Tobias Myhre,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Tommy Norheim,"21/4,21/8",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Morten Torkildsen,,Frode Olsen,"21/9,15/21,21/12",Morten Torkildsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Espen Ditmansen,,Frode Olsen,"21/14,21/16",Espen Ditmansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Morten Torkildsen,,Espen Ditmansen,"21/17,21/12",Morten Torkildsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Naruebet Buakaew,"16/21,21/15,21/13",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Naruebet Buakaew,,Svein Brenna,"19/21,21/19,21/12",Naruebet Buakaew,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Svein Brenna,"21/13,21/16",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Baard Janitz,,Bengt Pedersen,"21/15,21/12",Baard Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Petter Tryland Laheld,,Bengt Pedersen,"21/12,21/16",Petter Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Petter Tryland Laheld,,Baard Janitz,"21/19,19/21,21/13",Petter Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Max Ulrich,,Jan Sørgjerd,"21/18,21/18",Max Ulrich,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Atle Hjort-Larsen,,Vinn Quang Tran,"20/22,23/21,21/12",Atle Hjort-Larsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Vinn Quang Tran,,Jan Sørgjerd,"21/12,21/17",Vinn Quang Tran,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Atle Hjort-Larsen,,Max Ulrich,"21/12,21/13",Atle Hjort-Larsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Atle Hjort-Larsen,,Jan Sørgjerd,"21/13,16/21,21/12",Atle Hjort-Larsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Max Ulrich,,Vinn Quang Tran,"21/23,21/19,21/14",Max Ulrich,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tommy Norheim,,Christian Blaurock,"21/16,21/18",Tommy Norheim,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tommy Norheim,,Trym Eirik Grytten,"21/10,21/15",Tommy Norheim,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Erik Langeland,,Kristin Thømt,"21/6,21/15",Erik Langeland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Erik Langeland,"21/15,21/5",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Kristin Thømt,"21/9,21/8",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Erlend Stormo,,Alexander Hansen,"21/19,11/21,21/16",Erlend Stormo,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Erlend Stormo,,Thomas Ølstad,"21/11,21/7",Erlend Stormo,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Alexander Hansen,,Thomas Ølstad,"21/7,21/6",Alexander Hansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Osman Bekri Khan,,Anders Magnryd,"21/3,21/16",Osman Bekri Khan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Osman Bekri Khan,,Espen Kaale,"24/22,21/19",Osman Bekri Khan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Anders Magnryd,,Espen Kaale,"21/15,21/15",Anders Magnryd,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tobias Myhre,,Jan Espen Sørsdal,"21/11,21/19",Tobias Myhre,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Jan Espen Sørsdal,,Arild Moen,"21/15,21/19",Jan Espen Sørsdal,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tobias Myhre,,Arild Moen,"21/5,21/14",Tobias Myhre,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Martin Karlsen,"21/10,21/6",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Petter Tryland Laheld,"21/13,21/17",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Tobias Myhre,"21/12,21/8",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Morten Torkildsen,"21/16,21/19",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Petter Tryland Laheld,,Atle Hjort-Larsen,"21/9,18/21,21/12",Petter Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Erlend Stormo,"21/6,21/6",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tobias Myhre,,Osman Bekri Khan,"21/13,21/16",Tobias Myhre,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Tommy Norheim,"21/4,21/8",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Morten Torkildsen,,Frode Olsen,"21/9,15/21,21/12",Morten Torkildsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Espen Ditmansen,,Frode Olsen,"21/14,21/16",Espen Ditmansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Morten Torkildsen,,Espen Ditmansen,"21/17,21/12",Morten Torkildsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Naruebet Buakaew,"16/21,21/15,21/13",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Naruebet Buakaew,,Svein Brenna,"19/21,21/19,21/12",Naruebet Buakaew,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Martin Karlsen,,Svein Brenna,"21/13,21/16",Martin Karlsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Baard Janitz,,Bengt Pedersen,"21/15,21/12",Baard Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Petter Tryland Laheld,,Bengt Pedersen,"21/12,21/16",Petter Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Petter Tryland Laheld,,Baard Janitz,"21/19,19/21,21/13",Petter Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Max Ulrich,,Jan Sørgjerd,"21/18,21/18",Max Ulrich,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Atle Hjort-Larsen,,Vinn Quang Tran,"20/22,23/21,21/12",Atle Hjort-Larsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Vinn Quang Tran,,Jan Sørgjerd,"21/12,21/17",Vinn Quang Tran,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Atle Hjort-Larsen,,Max Ulrich,"21/12,21/13",Atle Hjort-Larsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Atle Hjort-Larsen,,Jan Sørgjerd,"21/13,16/21,21/12",Atle Hjort-Larsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Max Ulrich,,Vinn Quang Tran,"21/23,21/19,21/14",Max Ulrich,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tommy Norheim,,Christian Blaurock,"21/16,21/18",Tommy Norheim,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tommy Norheim,,Trym Eirik Grytten,"21/10,21/15",Tommy Norheim,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Erik Langeland,,Kristin Thømt,"21/6,21/15",Erik Langeland,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Erik Langeland,"21/15,21/5",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Lars Nonboe Andersen,,Kristin Thømt,"21/9,21/8",Lars Nonboe Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Erlend Stormo,,Alexander Hansen,"21/19,11/21,21/16",Erlend Stormo,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Erlend Stormo,,Thomas Ølstad,"21/11,21/7",Erlend Stormo,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Alexander Hansen,,Thomas Ølstad,"21/7,21/6",Alexander Hansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Osman Bekri Khan,,Anders Magnryd,"21/3,21/16",Osman Bekri Khan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Osman Bekri Khan,,Espen Kaale,"24/22,21/19",Osman Bekri Khan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Anders Magnryd,,Espen Kaale,"21/15,21/15",Anders Magnryd,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tobias Myhre,,Jan Espen Sørsdal,"21/11,21/19",Tobias Myhre,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Jan Espen Sørsdal,,Arild Moen,"21/15,21/19",Jan Espen Sørsdal,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,,Tobias Myhre,,Arild Moen,"21/5,21/14",Tobias Myhre,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Lars Nonboe Andersen,Preben Johansen,Martin Karlsen,Trym Eirik Grytten,"21/11,21/12",Lars Nonboe Andersen,Preben Johansen
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Lars Nonboe Andersen,Preben Johansen,Alexander Hansen,Baard Janitz,"21/17,21/15",Lars Nonboe Andersen,Preben Johansen
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Martin Karlsen,Trym Eirik Grytten,Rahaf Alothman,Riad Alothman,"21/10,21/16",Martin Karlsen,Trym Eirik Grytten
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Lars Nonboe Andersen,Preben Johansen,Naruebet Buakaew,Vinn Quang Tran,"21/5,21/15",Lars Nonboe Andersen,Preben Johansen
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Alexander Hansen,Baard Janitz,Advait Mital,Petter Tryland Laheld,"21/6,21/9",Alexander Hansen,Baard Janitz
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Martin Karlsen,Trym Eirik Grytten,Aude Dufrene,Espen Ditmansen,"21/18,21/13",Martin Karlsen,Trym Eirik Grytten
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Rahaf Alothman,Riad Alothman,Henning Skaug,Heti Kusyanti,"19/21,21/15,21/14",Rahaf Alothman,Riad Alothman
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Naruebet Buakaew,Vinn Quang Tran,Jan Sørgjerd,Arild Moen,"21/16,17/21,21/11",Naruebet Buakaew,Vinn Quang Tran
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Lars Nonboe Andersen,Preben Johansen,Erik Langeland,Tobias Myhre,"21/16,21/9",Lars Nonboe Andersen,Preben Johansen
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Alexander Hansen,Baard Janitz,Max Ulrich,Erlend Stormo,"21/17,21/8",Alexander Hansen,Baard Janitz
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Advait Mital,Petter Tryland Laheld,Roger Bjørnstad,Adrian Bjørnstad,"19/21,21/11,21/15",Advait Mital,Petter Tryland Laheld
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Aude Dufrene,Espen Ditmansen,Ole Magnus Gade Wilhelmsen,Mathias Foyn Wahlqvist,"21/18,21/19",Aude Dufrene,Espen Ditmansen
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Martin Karlsen,Trym Eirik Grytten,Atle Hjort-Larsen,Anders Magnryd,"20/22,21/12,21/16",Martin Karlsen,Trym Eirik Grytten
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Rahaf Alothman,Riad Alothman,Kristin Thømt,Anne Sperre Stephens,"19/21,21/19,21/12",Rahaf Alothman,Riad Alothman
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Henning Skaug,Heti Kusyanti,Osman Bekri Khan,Thomas Ølstad,"21/19,21/17",Henning Skaug,Heti Kusyanti
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Anders Solås,"21/14,21/17",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Erik Rasmussen,"21/9,21/12",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,David Hansson,"21/17,22/20",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Erik Rasmussen,,Jørgen Thorp,"22/20,18/21,21/16",Erik Rasmussen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Mathias Foyn Wahlqvist,"21/11,21/10",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,David Hansson,,Nils Vidar Fredø Olson,"21/15,17/21,21/18",David Hansson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Jarle Grytten,,Andreas Thorp,"21/16,21/15",Jarle Grytten,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Vegard Andersen,"21/12,13/21,21/16",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Vegard Andersen,,Jarle Grytten,"21/19,21/4",Vegard Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Andreas Thorp,"23/21,21/23,21/15",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Jarle Grytten,"21/8,23/21",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Andreas Thorp,,Vegard Andersen,"21/13,21/11",Andreas Thorp,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Matti Winther,,Arve Hinna,"21/6,21/13",Matti Winther,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Jørgen Thorp,,Matti Winther,"21/15,20/22,21/3",Jørgen Thorp,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Jørgen Thorp,,Arve Hinna,"21/10,21/11",Jørgen Thorp,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Ole Magnus Gade Wilhelmsen,,Gudleig Engeseth,"21/13,21/6",Ole Magnus Gade Wilhelmsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Erik Rasmussen,,Ole Magnus Gade Wilhelmsen,"21/7,23/21",Erik Rasmussen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Erik Rasmussen,,Gudleig Engeseth,"21/17,21/7",Erik Rasmussen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Mathias Foyn Wahlqvist,,Roger Sørensen,"21/18,21/19",Mathias Foyn Wahlqvist,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Pavan Prakash,,Roger Sørensen,"21/16,21/8",Pavan Prakash,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Mathias Foyn Wahlqvist,,Pavan Prakash,"21/5,21/11",Mathias Foyn Wahlqvist,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Kamrul Hasan,"21/7,18/21,22/20",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Robert Andreas Nilsen,"21/7,21/7",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Kamrul Hasan,,Robert Andreas Nilsen,"21/12,21/14",Kamrul Hasan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,David Hansson,,Odd Landfald,"21/11,21/15",David Hansson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Thomas Mortensen,,Odd Landfald,"21/11,21/8",Thomas Mortensen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,David Hansson,,Thomas Mortensen,"15/21,21/15,21/18",David Hansson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Nils Vidar Fredø Olson,,Terje Stubben,"15/21,21/17,21/18",Nils Vidar Fredø Olson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Terje Stubben,,Frode Tronrud,"21/11,21/12",Terje Stubben,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Nils Vidar Fredø Olson,,Frode Tronrud,"21/15,21/10",Nils Vidar Fredø Olson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Anders Solås,"21/14,21/17",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Erik Rasmussen,"21/9,21/12",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,David Hansson,"21/17,22/20",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Erik Rasmussen,,Jørgen Thorp,"22/20,18/21,21/16",Erik Rasmussen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Mathias Foyn Wahlqvist,"21/11,21/10",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,David Hansson,,Nils Vidar Fredø Olson,"21/15,17/21,21/18",David Hansson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Jarle Grytten,,Andreas Thorp,"21/16,21/15",Jarle Grytten,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Vegard Andersen,"21/12,13/21,21/16",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Vegard Andersen,,Jarle Grytten,"21/19,21/4",Vegard Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Andreas Thorp,"23/21,21/23,21/15",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Anders Solås,,Jarle Grytten,"21/8,23/21",Anders Solås,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Andreas Thorp,,Vegard Andersen,"21/13,21/11",Andreas Thorp,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Matti Winther,,Arve Hinna,"21/6,21/13",Matti Winther,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Jørgen Thorp,,Matti Winther,"21/15,20/22,21/3",Jørgen Thorp,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Jørgen Thorp,,Arve Hinna,"21/10,21/11",Jørgen Thorp,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Ole Magnus Gade Wilhelmsen,,Gudleig Engeseth,"21/13,21/6",Ole Magnus Gade Wilhelmsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Erik Rasmussen,,Ole Magnus Gade Wilhelmsen,"21/7,23/21",Erik Rasmussen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Erik Rasmussen,,Gudleig Engeseth,"21/17,21/7",Erik Rasmussen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Mathias Foyn Wahlqvist,,Roger Sørensen,"21/18,21/19",Mathias Foyn Wahlqvist,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Pavan Prakash,,Roger Sørensen,"21/16,21/8",Pavan Prakash,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Mathias Foyn Wahlqvist,,Pavan Prakash,"21/5,21/11",Mathias Foyn Wahlqvist,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Kamrul Hasan,"21/7,18/21,22/20",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Martin Heltveit Dahl,,Robert Andreas Nilsen,"21/7,21/7",Martin Heltveit Dahl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Kamrul Hasan,,Robert Andreas Nilsen,"21/12,21/14",Kamrul Hasan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,David Hansson,,Odd Landfald,"21/11,21/15",David Hansson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Thomas Mortensen,,Odd Landfald,"21/11,21/8",Thomas Mortensen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,David Hansson,,Thomas Mortensen,"15/21,21/15,21/18",David Hansson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Nils Vidar Fredø Olson,,Terje Stubben,"15/21,21/17,21/18",Nils Vidar Fredø Olson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Terje Stubben,,Frode Tronrud,"21/11,21/12",Terje Stubben,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,,Nils Vidar Fredø Olson,,Frode Tronrud,"21/15,21/10",Nils Vidar Fredø Olson,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Nils Vidar Fredø Olson,Amit Mital,Robert Andreas Nilsen,Anders Solås,"21/17,21/23,21/13",Nils Vidar Fredø Olson,Amit Mital
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Martin Nguyen,Martin Heltveit Dahl,Jørgen Thorp,Svein Brenna,"21/11,21/6",Martin Nguyen,Martin Heltveit Dahl
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Nils Vidar Fredø Olson,Amit Mital,Erik Rasmussen,Terje Stubben,"21/12,21/14",Nils Vidar Fredø Olson,Amit Mital
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Robert Andreas Nilsen,Anders Solås,Frode Tronrud,Matti Winther,"21/17,21/18",Robert Andreas Nilsen,Anders Solås
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Martin Nguyen,Martin Heltveit Dahl,Arve Hinna,David Hansson,"21/7,21/13",Martin Nguyen,Martin Heltveit Dahl
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Jørgen Thorp,Svein Brenna,Henning Myhre,Jarle Grytten,"18/21,21/10,21/14",Jørgen Thorp,Svein Brenna
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Eirik Tryland Laheld,"21/11,19/21,21/15",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Adrian Janitz,"21/17,21/12",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,Jacob Seeberg Holsvik,"21/18,21/10",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Adrian Janitz,,Dennis Hamer Holsvik,"22/20,21/14",Adrian Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Seeberg Holsvik,,Noah Slettingdalen Sääv,"21/11,22/20",Jacob Seeberg Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Seeberg Holsvik,,Vetle Bolstad,"21/5,21/6",Jacob Seeberg Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Jacob Seeberg Holsvik,"21/16,21/15",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Vetle Bolstad,"21/16,21/7",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Noah Slettingdalen Sääv,,Ola Helgerød,"21/8,21/4",Noah Slettingdalen Sääv,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Noah Slettingdalen Sääv,,Adrian Janitz,"21/15,18/21,21/11",Noah Slettingdalen Sääv,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Adrian Janitz,,Ola Helgerød,"21/7,21/7",Adrian Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,Henrik Melvin Rusthen,"21/10,21/5",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Dennis Hamer Holsvik,,William D. Hillgaar,"21/8,12/21,21/19",Dennis Hamer Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,William D. Hillgaar,"23/21,21/10",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Dennis Hamer Holsvik,,Henrik Melvin Rusthen,"21/15,21/13",Dennis Hamer Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,Dennis Hamer Holsvik,"21/16,21/8",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,William D. Hillgaar,,Henrik Melvin Rusthen,"21/16,22/24,21/18",William D. Hillgaar,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Eirik Tryland Laheld,"21/11,19/21,21/15",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Adrian Janitz,"21/17,21/12",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,Jacob Seeberg Holsvik,"21/18,21/10",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Adrian Janitz,,Dennis Hamer Holsvik,"22/20,21/14",Adrian Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Seeberg Holsvik,,Noah Slettingdalen Sääv,"21/11,22/20",Jacob Seeberg Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Seeberg Holsvik,,Vetle Bolstad,"21/5,21/6",Jacob Seeberg Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Jacob Seeberg Holsvik,"21/16,21/15",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Jacob Sperre Stephens,,Vetle Bolstad,"21/16,21/7",Jacob Sperre Stephens,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Noah Slettingdalen Sääv,,Ola Helgerød,"21/8,21/4",Noah Slettingdalen Sääv,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Noah Slettingdalen Sääv,,Adrian Janitz,"21/15,18/21,21/11",Noah Slettingdalen Sääv,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Adrian Janitz,,Ola Helgerød,"21/7,21/7",Adrian Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,Henrik Melvin Rusthen,"21/10,21/5",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Dennis Hamer Holsvik,,William D. Hillgaar,"21/8,12/21,21/19",Dennis Hamer Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,William D. Hillgaar,"23/21,21/10",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Dennis Hamer Holsvik,,Henrik Melvin Rusthen,"21/15,21/13",Dennis Hamer Holsvik,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Eirik Tryland Laheld,,Dennis Hamer Holsvik,"21/16,21/8",Eirik Tryland Laheld,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,William D. Hillgaar,,Henrik Melvin Rusthen,"21/16,22/24,21/18",William D. Hillgaar,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Sophie Nybøe,,Sally Naomi Jabang,"21/13,21/19",Sophie Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Sophie Nybøe,,Helle Janitz,"21/13,21/14",Sophie Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,,Helle Janitz,,Sally Naomi Jabang,"21/10,21/14",Helle Janitz,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,David Nguyen,"21/15,21/15",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,Noah Andersen,"21/17,21/18",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,David Nguyen,,Leonard Volrath Holmboe,"21/16,15/21,21/15",David Nguyen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,David Nguyen,"21/18,21/17",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,Eivind Engeseth,"21/9,21/16",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,David Nguyen,,Eivind Engeseth,"18/21,21/17,21/15",David Nguyen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Leonard Volrath Holmboe,,Hallvard Grundt,"21/11,21/7",Leonard Volrath Holmboe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Leonard Volrath Holmboe,,Noah Andersen,"21/12,23/21",Leonard Volrath Holmboe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Noah Andersen,,Hallvard Grundt,"21/9,21/14",Noah Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,David Nguyen,"21/15,21/15",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,Noah Andersen,"21/17,21/18",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,David Nguyen,,Leonard Volrath Holmboe,"21/16,15/21,21/15",David Nguyen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,David Nguyen,"21/18,21/17",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Haakon Lærkerød Jelsness,,Eivind Engeseth,"21/9,21/16",Haakon Lærkerød Jelsness,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,David Nguyen,,Eivind Engeseth,"18/21,21/17,21/15",David Nguyen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Leonard Volrath Holmboe,,Hallvard Grundt,"21/11,21/7",Leonard Volrath Holmboe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Leonard Volrath Holmboe,,Noah Andersen,"21/12,23/21",Leonard Volrath Holmboe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,,Noah Andersen,,Hallvard Grundt,"21/9,21/14",Noah Andersen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Philip Allport Fossum,"21/10,21/8",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Marius Nybøe,"21/14,21/11",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Lucas Tourrenc,"22/20,21/15",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Mathias Wong,"21/7,21/18",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Marcus Thon Mørch,"21/3,21/9",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Lucas Tourrenc,,Jan Zabielski,"21/16,21/18",Lucas Tourrenc,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Andreas Karlsen,"21/2,21/3",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Erling Egtvedt,"21/11,21/19",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Erling Egtvedt,,Andreas Karlsen,"21/19,21/16",Erling Egtvedt,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jan Zabielski,,Armand Bruun,"21/16,19/21,21/16",Jan Zabielski,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Truls Helgerød,"21/9,21/11",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Jan Zabielski,"21/8,21/13",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Armand Bruun,,Truls Helgerød,"21/10,21/8",Armand Bruun,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jan Zabielski,,Truls Helgerød,"21/13,21/14",Jan Zabielski,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Armand Bruun,"21/8,21/7",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jakob Grønstøl,,Emil Hamer Holsvik,"21/13,21/6",Jakob Grønstøl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Mathias Wong,"21/14,21/19",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mathias Wong,,Jakob Grønstøl,"21/3,21/17",Mathias Wong,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Emil Hamer Holsvik,"21/12,21/7",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Jakob Grønstøl,"21/12,21/10",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mathias Wong,,Emil Hamer Holsvik,"21/18,21/5",Mathias Wong,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Lucas Tourrenc,,Marcus Thon Mørch,"21/10,21/13",Lucas Tourrenc,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Philip Allport Fossum,"21/10,21/8",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Marius Nybøe,"21/14,21/11",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Lucas Tourrenc,"22/20,21/15",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Mathias Wong,"21/7,21/18",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Marcus Thon Mørch,"21/3,21/9",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Lucas Tourrenc,,Jan Zabielski,"21/16,21/18",Lucas Tourrenc,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Andreas Karlsen,"21/2,21/3",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Varun Manikandan,,Erling Egtvedt,"21/11,21/19",Varun Manikandan,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Erling Egtvedt,,Andreas Karlsen,"21/19,21/16",Erling Egtvedt,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jan Zabielski,,Armand Bruun,"21/16,19/21,21/16",Jan Zabielski,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Truls Helgerød,"21/9,21/11",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Jan Zabielski,"21/8,21/13",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Armand Bruun,,Truls Helgerød,"21/10,21/8",Armand Bruun,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jan Zabielski,,Truls Helgerød,"21/13,21/14",Jan Zabielski,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marius Nybøe,,Armand Bruun,"21/8,21/7",Marius Nybøe,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jakob Grønstøl,,Emil Hamer Holsvik,"21/13,21/6",Jakob Grønstøl,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Mathias Wong,"21/14,21/19",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mathias Wong,,Jakob Grønstøl,"21/3,21/17",Mathias Wong,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Emil Hamer Holsvik,"21/12,21/7",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Philip Allport Fossum,,Jakob Grønstøl,"21/12,21/10",Philip Allport Fossum,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mathias Wong,,Emil Hamer Holsvik,"21/18,21/5",Mathias Wong,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Lucas Tourrenc,,Marcus Thon Mørch,"21/10,21/13",Lucas Tourrenc,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jenny Johansen,,Camilla Persen,"21/9,21/7",Jenny Johansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Camilla Persen,,Mina Korssund,"20/22,21/14,21/18",Camilla Persen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jenny Johansen,,Nicoline Wærsten,"21/14,21/8",Jenny Johansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mina Korssund,,Marta Wilskow,"21/18,21/14",Mina Korssund,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Nicoline Wærsten,,Eva Holmbek Nilsen,"21/15,9/21,21/18",Nicoline Wærsten,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Camilla Persen,,Nicoline Wærsten,"21/13,16/21,21/15",Camilla Persen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Camilla Persen,,Marie A. Toverud,"21/9,21/5",Camilla Persen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Nicoline Wærsten,,Marie A. Toverud,"21/9,21/10",Nicoline Wærsten,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Eva Holmbek Nilsen,,Marta Wilskow,"21/14,22/20",Eva Holmbek Nilsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Marta Wilskow,,Ragne Russnes,"21/16,21/12",Marta Wilskow,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Eva Holmbek Nilsen,,Ragne Russnes,"20/22,21/7,21/15",Eva Holmbek Nilsen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jenny Johansen,,Mina Korssund,"21/9,21/16",Jenny Johansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jenny Johansen,,Helene A. Toverud,"21/9,21/15",Jenny Johansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mina Korssund,,Inger Russnes,"21/11,21/3",Mina Korssund,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Mina Korssund,,Helene A. Toverud,"21/6,21/17",Mina Korssund,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Jenny Johansen,,Inger Russnes,"21/7,21/9",Jenny Johansen,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,,Helene A. Toverud,,Inger Russnes,"21/8,21/14",Helene A. Toverud,
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Jenny Johansen,Jan Zabielski,Mathias Wong,Armand Bruun,"21/18,21/14",Jenny Johansen,Jan Zabielski
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Jacob Sperre Stephens,Pelle Cornelius Nordeide,William D. Hillgaar,Jacob Seeberg Holsvik,"21/8,21/14",Jacob Sperre Stephens,Pelle Cornelius Nordeide
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Jenny Johansen,Jan Zabielski,William D. Hillgaar,Jacob Seeberg Holsvik,"21/7,21/11",Jenny Johansen,Jan Zabielski
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Mathias Wong,Armand Bruun,Jacob Sperre Stephens,Pelle Cornelius Nordeide,"21/9,21/15",Mathias Wong,Armand Bruun
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Jenny Johansen,Jan Zabielski,Jacob Sperre Stephens,Pelle Cornelius Nordeide,"21/9,21/17",Jenny Johansen,Jan Zabielski
-2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Mathias Wong,Armand Bruun,William D. Hillgaar,Jacob Seeberg Holsvik,"21/13,21/12",Mathias Wong,Armand Bruun
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Henrik Smittil Høksnes,Bent Mørken,Tommy Helander,Daniel Bjørklund,"21/15,19/21,21/17",Henrik Smittil Høksnes,Bent Mørken
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Jon Eirik Gulli,Roman Malamant,Tone Gulbrandsen,Hilde Parnemann,"19/21,21/18,21/18",Jon Eirik Gulli,Roman Malamant
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Tommy Helander,Daniel Bjørklund,Jon Eirik Gulli,Roman Malamant,"21/14,19/21,21/14",Tommy Helander,Daniel Bjørklund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Ludvig Smith-Meyer,Øystein Hovden Eimind,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Henrik Smittil Høksnes,Bent Mørken,Tommy Norheim,Jan Espen Sørsdal,"21/11,21/15",Henrik Smittil Høksnes,Bent Mørken
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Tommy Norheim,Jan Espen Sørsdal,Martin Enghaug,Jonas Ruud Tuskin,"21/18,21/18",Tommy Norheim,Jan Espen Sørsdal
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Henrik Smittil Høksnes,Bent Mørken,Ludvig Smith-Meyer,Øystein Hovden Eimind,"13/21,21/10,21/17",Henrik Smittil Høksnes,Bent Mørken
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Henrik Smittil Høksnes,Bent Mørken,Martin Enghaug,Jonas Ruud Tuskin,"21/15,21/17",Henrik Smittil Høksnes,Bent Mørken
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN A,Herredouble,Ludvig Smith-Meyer,Øystein Hovden Eimind,Tommy Norheim,Jan Espen Sørsdal,"21/15,17/21,21/14",Ludvig Smith-Meyer,Øystein Hovden Eimind
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Andreas Møyland,"21/18,21/16",Ludvig Smith-Meyer,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Khiem  Duc Nguyen,"21/13,21/18",Ludvig Smith-Meyer,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Andreas Møyland,,Øystein Hovden Eimind,"21/10,21/18",Andreas Møyland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Andreas Møyland,,Jonas Ruud Tuskin,"21/13,21/10",Andreas Møyland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Marius Imset,,Martin Enghaug,"21/15,16/21,21/13",Marius Imset,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Marius Imset,"21/12,21/13",Ludvig Smith-Meyer,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Ludvig Smith-Meyer,,Martin Enghaug,"21/13,22/24,21/16",Ludvig Smith-Meyer,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Roman Malamant,,Henrik Smittil Høksnes,"21/18,11/21,21/18",Roman Malamant,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Henrik Smittil Høksnes,,Khiem  Duc Nguyen,"13/21,21/19,21/16",Henrik Smittil Høksnes,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Khiem  Duc Nguyen,,Roman Malamant,"21/7,22/20",Khiem  Duc Nguyen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Andreas Møyland,,Bent Mørken,"21/19,10/21,21/17",Andreas Møyland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Andreas Møyland,,Tommy Helander,"11/21,21/19,21/19",Andreas Møyland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Bent Mørken,,Tommy Helander,"21/15,21/17",Bent Mørken,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Jonas Ruud Tuskin,,Roger Bjørnstad,"17/21,21/16,21/15",Jonas Ruud Tuskin,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Jonas Ruud Tuskin,,Daniel Bjørklund,"17/21,25/23,21/11",Jonas Ruud Tuskin,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Roger Bjørnstad,,Daniel Bjørklund,"21/15,13/21,21/11",Roger Bjørnstad,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Olav Sagård Roalkvam,,Jon Eirik Gulli,"21/13,19/21,22/20",Olav Sagård Roalkvam,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Øystein Hovden Eimind,,Olav Sagård Roalkvam,"21/17,14/21,21/16",Øystein Hovden Eimind,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Herresingle,,Øystein Hovden Eimind,,Jon Eirik Gulli,"21/11,21/16",Øystein Hovden Eimind,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Lisa Olsen Berg,,Rahaf Alothman,"21/16,18/21,21/11",Lisa Olsen Berg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Lisa Olsen Berg,,Aude Dufrene,"21/17,12/21,21/14",Lisa Olsen Berg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Rahaf Alothman,,Elise Lærkerød Jelsness,"21/19,21/23,21/12",Rahaf Alothman,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Lisa Olsen Berg,,Louise Faarup Storvik,"21/19,21/17",Lisa Olsen Berg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Louise Faarup Storvik,,Martine E. Voldstad,"21/10,21/16",Louise Faarup Storvik,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Aude Dufrene,,Hanne Smittil Høksnes,"21/12,21/9",Aude Dufrene,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Aude Dufrene,,Monica Fuglesang,"21/12,21/14",Aude Dufrene,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Monica Fuglesang,,Hanne Smittil Høksnes,"22/20,21/15",Monica Fuglesang,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Elise Lærkerød Jelsness,,Anja Olsen,"21/16,21/10",Elise Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Nora Uri Malterud,,Heti Kusyanti,"21/14,21/6",Nora Uri Malterud,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Elise Lærkerød Jelsness,,Nora Uri Malterud,"21/10,21/14",Elise Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Anja Olsen,,Heti Kusyanti,"21/10,21/8",Anja Olsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Elise Lærkerød Jelsness,,Heti Kusyanti,"21/12,21/6",Elise Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Anja Olsen,,Nora Uri Malterud,"21/12,18/21,22/20",Anja Olsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Rahaf Alothman,,Karin Tryland Laheld,"21/11,21/6",Rahaf Alothman,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Karin Tryland Laheld,,Deepika Mital,"21/16,21/17",Karin Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN B,Damesingle,,Rahaf Alothman,,Deepika Mital,"21/10,21/7",Rahaf Alothman,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Lars Nonboe Andersen,,Martin Karlsen,"21/10,21/6",Lars Nonboe Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Martin Karlsen,,Petter Tryland Laheld,"21/13,21/17",Martin Karlsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Lars Nonboe Andersen,,Tobias Myhre,"21/12,21/8",Lars Nonboe Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Martin Karlsen,,Morten Torkildsen,"21/16,21/19",Martin Karlsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Atle Hjort-Larsen,"21/9,18/21,21/12",Petter Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Lars Nonboe Andersen,,Erlend Stormo,"21/6,21/6",Lars Nonboe Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Tobias Myhre,,Osman Bekri Khan,"21/13,21/16",Tobias Myhre,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Lars Nonboe Andersen,,Tommy Norheim,"21/4,21/8",Lars Nonboe Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Morten Torkildsen,,Frode Olsen,"21/9,15/21,21/12",Morten Torkildsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Espen Ditmansen,,Frode Olsen,"21/14,21/16",Espen Ditmansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Morten Torkildsen,,Espen Ditmansen,"21/17,21/12",Morten Torkildsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Martin Karlsen,,Naruebet Buakaew,"16/21,21/15,21/13",Martin Karlsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Naruebet Buakaew,,Svein Brenna,"19/21,21/19,21/12",Naruebet Buakaew,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Martin Karlsen,,Svein Brenna,"21/13,21/16",Martin Karlsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Baard Janitz,,Bengt Pedersen,"21/15,21/12",Baard Janitz,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Bengt Pedersen,"21/12,21/16",Petter Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Petter Tryland Laheld,,Baard Janitz,"21/19,19/21,21/13",Petter Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Max Ulrich,,Jan Sørgjerd,"21/18,21/18",Max Ulrich,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Atle Hjort-Larsen,,Vinn Quang Tran,"20/22,23/21,21/12",Atle Hjort-Larsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Vinn Quang Tran,,Jan Sørgjerd,"21/12,21/17",Vinn Quang Tran,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Atle Hjort-Larsen,,Max Ulrich,"21/12,21/13",Atle Hjort-Larsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Atle Hjort-Larsen,,Jan Sørgjerd,"21/13,16/21,21/12",Atle Hjort-Larsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Max Ulrich,,Vinn Quang Tran,"21/23,21/19,21/14",Max Ulrich,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Tommy Norheim,,Christian Blaurock,"21/16,21/18",Tommy Norheim,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Tommy Norheim,,Trym Eirik Grytten,"21/10,21/15",Tommy Norheim,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Erik Langeland,,Kristin Thømt,"21/6,21/15",Erik Langeland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Lars Nonboe Andersen,,Erik Langeland,"21/15,21/5",Lars Nonboe Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Lars Nonboe Andersen,,Kristin Thømt,"21/9,21/8",Lars Nonboe Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Erlend Stormo,,Alexander Hansen,"21/19,11/21,21/16",Erlend Stormo,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Erlend Stormo,,Thomas Ølstad,"21/11,21/7",Erlend Stormo,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Alexander Hansen,,Thomas Ølstad,"21/7,21/6",Alexander Hansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Osman Bekri Khan,,Anders Magnryd,"21/3,21/16",Osman Bekri Khan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Osman Bekri Khan,,Espen Kaale,"24/22,21/19",Osman Bekri Khan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Anders Magnryd,,Espen Kaale,"21/15,21/15",Anders Magnryd,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Tobias Myhre,,Jan Espen Sørsdal,"21/11,21/19",Tobias Myhre,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Jan Espen Sørsdal,,Arild Moen,"21/15,21/19",Jan Espen Sørsdal,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herresingle,,Tobias Myhre,,Arild Moen,"21/5,21/14",Tobias Myhre,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Lars Nonboe Andersen,Preben Johansen,Martin Karlsen,Trym Eirik Grytten,"21/11,21/12",Lars Nonboe Andersen,Preben Johansen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Lars Nonboe Andersen,Preben Johansen,Alexander Hansen,Baard Janitz,"21/17,21/15",Lars Nonboe Andersen,Preben Johansen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Martin Karlsen,Trym Eirik Grytten,Rahaf Alothman,Riad Alothman,"21/10,21/16",Martin Karlsen,Trym Eirik Grytten
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Lars Nonboe Andersen,Preben Johansen,Naruebet Buakaew,Vinn Quang Tran,"21/5,21/15",Lars Nonboe Andersen,Preben Johansen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Alexander Hansen,Baard Janitz,Advait Mital,Petter Tryland Laheld,"21/6,21/9",Alexander Hansen,Baard Janitz
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Martin Karlsen,Trym Eirik Grytten,Aude Dufrene,Espen Ditmansen,"21/18,21/13",Martin Karlsen,Trym Eirik Grytten
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Rahaf Alothman,Riad Alothman,Henning Skaug,Heti Kusyanti,"19/21,21/15,21/14",Rahaf Alothman,Riad Alothman
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Naruebet Buakaew,Vinn Quang Tran,Jan Sørgjerd,Arild Moen,"21/16,17/21,21/11",Naruebet Buakaew,Vinn Quang Tran
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Lars Nonboe Andersen,Preben Johansen,Erik Langeland,Tobias Myhre,"21/16,21/9",Lars Nonboe Andersen,Preben Johansen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Alexander Hansen,Baard Janitz,Max Ulrich,Erlend Stormo,"21/17,21/8",Alexander Hansen,Baard Janitz
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Advait Mital,Petter Tryland Laheld,Roger Bjørnstad,Adrian Bjørnstad,"19/21,21/11,21/15",Advait Mital,Petter Tryland Laheld
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Aude Dufrene,Espen Ditmansen,Ole Magnus Gade Wilhelmsen,Mathias Foyn Wahlqvist,"21/18,21/19",Aude Dufrene,Espen Ditmansen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Martin Karlsen,Trym Eirik Grytten,Atle Hjort-Larsen,Anders Magnryd,"20/22,21/12,21/16",Martin Karlsen,Trym Eirik Grytten
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Rahaf Alothman,Riad Alothman,Kristin Thømt,Anne Sperre Stephens,"19/21,21/19,21/12",Rahaf Alothman,Riad Alothman
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Herredouble,Henning Skaug,Heti Kusyanti,Osman Bekri Khan,Thomas Ølstad,"21/19,21/17",Henning Skaug,Heti Kusyanti
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Damedouble,Elise Lærkerød Jelsness,Lisa Olsen Berg,Deepika Mital,Anja Olsen,"26/28,21/18,21/14",Elise Lærkerød Jelsness,Lisa Olsen Berg
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Damedouble,Elise Lærkerød Jelsness,Lisa Olsen Berg,Elisabeth Parnemann Sirevåg,Karin Tryland Laheld,"21/16,21/16",Elise Lærkerød Jelsness,Lisa Olsen Berg
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Damedouble,Deepika Mital,Anja Olsen,Louise Faarup Storvik,Martine E. Voldstad,"21/17,21/10",Deepika Mital,Anja Olsen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN C,Damedouble,Deepika Mital,Anja Olsen,Nora Uri Malterud,Monica Fuglesang,"21/16,21/9",Deepika Mital,Anja Olsen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Martin Heltveit Dahl,,Anders Solås,"21/14,21/17",Martin Heltveit Dahl,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Anders Solås,,Erik Rasmussen,"21/9,21/12",Anders Solås,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Martin Heltveit Dahl,,David Hansson,"21/17,22/20",Martin Heltveit Dahl,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Erik Rasmussen,,Jørgen Thorp,"22/20,18/21,21/16",Erik Rasmussen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Martin Heltveit Dahl,,Mathias Foyn Wahlqvist,"21/11,21/10",Martin Heltveit Dahl,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,David Hansson,,Nils Vidar Fredø Olson,"21/15,17/21,21/18",David Hansson,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Jarle Grytten,,Andreas Thorp,"21/16,21/15",Jarle Grytten,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Anders Solås,,Vegard Andersen,"21/12,13/21,21/16",Anders Solås,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Vegard Andersen,,Jarle Grytten,"21/19,21/4",Vegard Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Anders Solås,,Andreas Thorp,"23/21,21/23,21/15",Anders Solås,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Anders Solås,,Jarle Grytten,"21/8,23/21",Anders Solås,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Andreas Thorp,,Vegard Andersen,"21/13,21/11",Andreas Thorp,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Matti Winther,,Arve Hinna,"21/6,21/13",Matti Winther,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Jørgen Thorp,,Matti Winther,"21/15,20/22,21/3",Jørgen Thorp,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Jørgen Thorp,,Arve Hinna,"21/10,21/11",Jørgen Thorp,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Ole Magnus Gade Wilhelmsen,,Gudleig Engeseth,"21/13,21/6",Ole Magnus Gade Wilhelmsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Erik Rasmussen,,Ole Magnus Gade Wilhelmsen,"21/7,23/21",Erik Rasmussen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Erik Rasmussen,,Gudleig Engeseth,"21/17,21/7",Erik Rasmussen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Mathias Foyn Wahlqvist,,Roger Sørensen,"21/18,21/19",Mathias Foyn Wahlqvist,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Pavan Prakash,,Roger Sørensen,"21/16,21/8",Pavan Prakash,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Mathias Foyn Wahlqvist,,Pavan Prakash,"21/5,21/11",Mathias Foyn Wahlqvist,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Martin Heltveit Dahl,,Kamrul Hasan,"21/7,18/21,22/20",Martin Heltveit Dahl,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Martin Heltveit Dahl,,Robert Andreas Nilsen,"21/7,21/7",Martin Heltveit Dahl,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Kamrul Hasan,,Robert Andreas Nilsen,"21/12,21/14",Kamrul Hasan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,David Hansson,,Odd Landfald,"21/11,21/15",David Hansson,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Thomas Mortensen,,Odd Landfald,"21/11,21/8",Thomas Mortensen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,David Hansson,,Thomas Mortensen,"15/21,21/15,21/18",David Hansson,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Nils Vidar Fredø Olson,,Terje Stubben,"15/21,21/17,21/18",Nils Vidar Fredø Olson,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Terje Stubben,,Frode Tronrud,"21/11,21/12",Terje Stubben,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herresingle,,Nils Vidar Fredø Olson,,Frode Tronrud,"21/15,21/10",Nils Vidar Fredø Olson,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herredouble,Nils Vidar Fredø Olson,Amit Mital,Robert Andreas Nilsen,Anders Solås,"21/17,21/23,21/13",Nils Vidar Fredø Olson,Amit Mital
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herredouble,Martin Nguyen,Martin Heltveit Dahl,Jørgen Thorp,Svein Brenna,"21/11,21/6",Martin Nguyen,Martin Heltveit Dahl
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herredouble,Nils Vidar Fredø Olson,Amit Mital,Erik Rasmussen,Terje Stubben,"21/12,21/14",Nils Vidar Fredø Olson,Amit Mital
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herredouble,Robert Andreas Nilsen,Anders Solås,Frode Tronrud,Matti Winther,"21/17,21/18",Robert Andreas Nilsen,Anders Solås
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herredouble,Martin Nguyen,Martin Heltveit Dahl,Arve Hinna,David Hansson,"21/7,21/13",Martin Nguyen,Martin Heltveit Dahl
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,SEN D,Herredouble,Jørgen Thorp,Svein Brenna,Henning Myhre,Jarle Grytten,"18/21,21/10,21/14",Jørgen Thorp,Svein Brenna
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Jacob Sperre Stephens,,Eirik Tryland Laheld,"21/11,19/21,21/15",Jacob Sperre Stephens,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Jacob Sperre Stephens,,Adrian Janitz,"21/17,21/12",Jacob Sperre Stephens,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Eirik Tryland Laheld,,Jacob Seeberg Holsvik,"21/18,21/10",Eirik Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Adrian Janitz,,Dennis Hamer Holsvik,"22/20,21/14",Adrian Janitz,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Jacob Seeberg Holsvik,,Noah Slettingdalen Sääv,"21/11,22/20",Jacob Seeberg Holsvik,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Jacob Seeberg Holsvik,,Vetle Bolstad,"21/5,21/6",Jacob Seeberg Holsvik,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Jacob Sperre Stephens,,Jacob Seeberg Holsvik,"21/16,21/15",Jacob Sperre Stephens,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Jacob Sperre Stephens,,Vetle Bolstad,"21/16,21/7",Jacob Sperre Stephens,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Noah Slettingdalen Sääv,,Ola Helgerød,"21/8,21/4",Noah Slettingdalen Sääv,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Noah Slettingdalen Sääv,,Adrian Janitz,"21/15,18/21,21/11",Noah Slettingdalen Sääv,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Adrian Janitz,,Ola Helgerød,"21/7,21/7",Adrian Janitz,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Eirik Tryland Laheld,,Henrik Melvin Rusthen,"21/10,21/5",Eirik Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Dennis Hamer Holsvik,,William D. Hillgaar,"21/8,12/21,21/19",Dennis Hamer Holsvik,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Eirik Tryland Laheld,,William D. Hillgaar,"23/21,21/10",Eirik Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Dennis Hamer Holsvik,,Henrik Melvin Rusthen,"21/15,21/13",Dennis Hamer Holsvik,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,Eirik Tryland Laheld,,Dennis Hamer Holsvik,"21/16,21/8",Eirik Tryland Laheld,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Herresingle,,William D. Hillgaar,,Henrik Melvin Rusthen,"21/16,22/24,21/18",William D. Hillgaar,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Damesingle,,Sophie Nybøe,,Sally Naomi Jabang,"21/13,21/19",Sophie Nybøe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Damesingle,,Sophie Nybøe,,Helle Janitz,"21/13,21/14",Sophie Nybøe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U11 B,Damesingle,,Helle Janitz,,Sally Naomi Jabang,"21/10,21/14",Helle Janitz,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Haakon Lærkerød Jelsness,,David Nguyen,"21/15,21/15",Haakon Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Haakon Lærkerød Jelsness,,Noah Andersen,"21/17,21/18",Haakon Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,David Nguyen,,Leonard Volrath Holmboe,"21/16,15/21,21/15",David Nguyen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Haakon Lærkerød Jelsness,,David Nguyen,"21/18,21/17",Haakon Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Haakon Lærkerød Jelsness,,Eivind Engeseth,"21/9,21/16",Haakon Lærkerød Jelsness,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,David Nguyen,,Eivind Engeseth,"18/21,21/17,21/15",David Nguyen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Leonard Volrath Holmboe,,Hallvard Grundt,"21/11,21/7",Leonard Volrath Holmboe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Leonard Volrath Holmboe,,Noah Andersen,"21/12,23/21",Leonard Volrath Holmboe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 A,Herresingle,,Noah Andersen,,Hallvard Grundt,"21/9,21/14",Noah Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Varun Manikandan,,Philip Allport Fossum,"21/10,21/8",Varun Manikandan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Varun Manikandan,,Marius Nybøe,"21/14,21/11",Varun Manikandan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Philip Allport Fossum,,Lucas Tourrenc,"22/20,21/15",Philip Allport Fossum,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Varun Manikandan,,Mathias Wong,"21/7,21/18",Varun Manikandan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Marius Nybøe,,Marcus Thon Mørch,"21/3,21/9",Marius Nybøe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Lucas Tourrenc,,Jan Zabielski,"21/16,21/18",Lucas Tourrenc,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Varun Manikandan,,Andreas Karlsen,"21/2,21/3",Varun Manikandan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Varun Manikandan,,Erling Egtvedt,"21/11,21/19",Varun Manikandan,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Erling Egtvedt,,Andreas Karlsen,"21/19,21/16",Erling Egtvedt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Jan Zabielski,,Armand Bruun,"21/16,19/21,21/16",Jan Zabielski,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Marius Nybøe,,Truls Helgerød,"21/9,21/11",Marius Nybøe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Marius Nybøe,,Jan Zabielski,"21/8,21/13",Marius Nybøe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Armand Bruun,,Truls Helgerød,"21/10,21/8",Armand Bruun,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Jan Zabielski,,Truls Helgerød,"21/13,21/14",Jan Zabielski,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Marius Nybøe,,Armand Bruun,"21/8,21/7",Marius Nybøe,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Jakob Grønstøl,,Emil Hamer Holsvik,"21/13,21/6",Jakob Grønstøl,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Philip Allport Fossum,,Mathias Wong,"21/14,21/19",Philip Allport Fossum,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Mathias Wong,,Jakob Grønstøl,"21/3,21/17",Mathias Wong,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Philip Allport Fossum,,Emil Hamer Holsvik,"21/12,21/7",Philip Allport Fossum,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Philip Allport Fossum,,Jakob Grønstøl,"21/12,21/10",Philip Allport Fossum,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Mathias Wong,,Emil Hamer Holsvik,"21/18,21/5",Mathias Wong,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herresingle,,Lucas Tourrenc,,Marcus Thon Mørch,"21/10,21/13",Lucas Tourrenc,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Jenny Johansen,,Camilla Persen,"21/9,21/7",Jenny Johansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Camilla Persen,,Mina Korssund,"20/22,21/14,21/18",Camilla Persen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Jenny Johansen,,Nicoline Wærsten,"21/14,21/8",Jenny Johansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Mina Korssund,,Marta Wilskow,"21/18,21/14",Mina Korssund,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Nicoline Wærsten,,Eva Holmbek Nilsen,"21/15,9/21,21/18",Nicoline Wærsten,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Camilla Persen,,Nicoline Wærsten,"21/13,16/21,21/15",Camilla Persen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Camilla Persen,,Marie A. Toverud,"21/9,21/5",Camilla Persen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Nicoline Wærsten,,Marie A. Toverud,"21/9,21/10",Nicoline Wærsten,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Eva Holmbek Nilsen,,Marta Wilskow,"21/14,22/20",Eva Holmbek Nilsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Marta Wilskow,,Ragne Russnes,"21/16,21/12",Marta Wilskow,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Eva Holmbek Nilsen,,Ragne Russnes,"20/22,21/7,21/15",Eva Holmbek Nilsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Jenny Johansen,,Mina Korssund,"21/9,21/16",Jenny Johansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Jenny Johansen,,Helene A. Toverud,"21/9,21/15",Jenny Johansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Mina Korssund,,Inger Russnes,"21/11,21/3",Mina Korssund,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Mina Korssund,,Helene A. Toverud,"21/6,21/17",Mina Korssund,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Jenny Johansen,,Inger Russnes,"21/7,21/9",Jenny Johansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damesingle,,Helene A. Toverud,,Inger Russnes,"21/8,21/14",Helene A. Toverud,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herredouble,Jenny Johansen,Jan Zabielski,Mathias Wong,Armand Bruun,"21/18,21/14",Jenny Johansen,Jan Zabielski
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herredouble,Jacob Sperre Stephens,Pelle Cornelius Nordeide,William D. Hillgaar,Jacob Seeberg Holsvik,"21/8,21/14",Jacob Sperre Stephens,Pelle Cornelius Nordeide
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herredouble,Jenny Johansen,Jan Zabielski,William D. Hillgaar,Jacob Seeberg Holsvik,"21/7,21/11",Jenny Johansen,Jan Zabielski
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herredouble,Mathias Wong,Armand Bruun,Jacob Sperre Stephens,Pelle Cornelius Nordeide,"21/9,21/15",Mathias Wong,Armand Bruun
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herredouble,Jenny Johansen,Jan Zabielski,Jacob Sperre Stephens,Pelle Cornelius Nordeide,"21/9,21/17",Jenny Johansen,Jan Zabielski
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Herredouble,Mathias Wong,Armand Bruun,William D. Hillgaar,Jacob Seeberg Holsvik,"21/13,21/12",Mathias Wong,Armand Bruun
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Eva Holmbek Nilsen,Mina Ueland,Marta Wilskow,Mina Korssund,"21/16,13/21,21/13",Eva Holmbek Nilsen,Mina Ueland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Marie A. Toverud,Helene A. Toverud,Nicoline Wærsten,Ragne Russnes,"13/21,21/12,21/18",Marie A. Toverud,Helene A. Toverud
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Eva Holmbek Nilsen,Mina Ueland,Marie A. Toverud,Helene A. Toverud,"21/13,21/6",Eva Holmbek Nilsen,Mina Ueland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Marta Wilskow,Mina Korssund,Sally Naomi Jabang,Helle Janitz,"21/5,21/8",Marta Wilskow,Mina Korssund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Eva Holmbek Nilsen,Mina Ueland,Sally Naomi Jabang,Helle Janitz,"21/3,21/3",Eva Holmbek Nilsen,Mina Ueland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Marta Wilskow,Mina Korssund,Nicoline Wærsten,Ragne Russnes,"21/16,21/14",Marta Wilskow,Mina Korssund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Eva Holmbek Nilsen,Mina Ueland,Nicoline Wærsten,Ragne Russnes,"21/18,23/25,21/18",Eva Holmbek Nilsen,Mina Ueland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Marie A. Toverud,Helene A. Toverud,Sally Naomi Jabang,Helle Janitz,"21/4,21/3",Marie A. Toverud,Helene A. Toverud
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Marie A. Toverud,Helene A. Toverud,Marta Wilskow,Mina Korssund,"21/19,15/21,21/18",Marie A. Toverud,Helene A. Toverud
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U13 B,Damedouble,Nicoline Wærsten,Ragne Russnes,Sally Naomi Jabang,Helle Janitz,"21/6,21/0",Nicoline Wærsten,Ragne Russnes
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Advait Mital,,Natanael Stordal,"25/23,21/17",Advait Mital,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Advait Mital,,Daniel Brustad Snorrason,"21/4,21/11",Advait Mital,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Natanael Stordal,,Kasper Johan Straume,"21/11,21/15",Natanael Stordal,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Hermod Holte Haugland,,Oscar Tveit Strøm,"21/14,21/11",Hermod Holte Haugland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Natanael Stordal,,Hermod Holte Haugland,"21/12,10/21,22/20",Natanael Stordal,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Oscar Tveit Strøm,,Kasper Johan Straume,"21/5,18/21,21/5",Oscar Tveit Strøm,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Natanael Stordal,,Oscar Tveit Strøm,"21/17,21/13",Natanael Stordal,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Hermod Holte Haugland,,Kasper Johan Straume,"21/16,21/7",Hermod Holte Haugland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Daniel Brustad Snorrason,,Christer Andersen,"22/20,24/22",Daniel Brustad Snorrason,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Muhammad Reza Mirzaali,,Niklas Andersen,"21/18,19/21,21/11",Muhammad Reza Mirzaali,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Muhammad Reza Mirzaali,,Christer Andersen,"21/18,16/21,21/13",Muhammad Reza Mirzaali,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Daniel Brustad Snorrason,,Niklas Andersen,"21/15,21/15",Daniel Brustad Snorrason,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Christer Andersen,,Niklas Andersen,"17/21,21/18,21/9",Christer Andersen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Daniel Brustad Snorrason,,Muhammad Reza Mirzaali,"21/17,9/21,21/19",Daniel Brustad Snorrason,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Advait Mital,,Oscar Dahl Franck,"21/5,21/8",Advait Mital,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Andreas Korssund,,Jesper Palmqvist,"18/21,21/16,21/14",Andreas Korssund,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Andreas Korssund,,Oscar Dahl Franck,"21/4,21/4",Andreas Korssund,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Advait Mital,,Jesper Palmqvist,"21/17,21/8",Advait Mital,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Jesper Palmqvist,,Oscar Dahl Franck,"21/12,21/16",Jesper Palmqvist,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herresingle,,Advait Mital,,Andreas Korssund,"21/19,19/21,21/11",Advait Mital,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Sofie Aamodt,,Elisabeth Parnemann Sirevåg,"17/21,21/16,22/20",Sofie Aamodt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Elisabeth Parnemann Sirevåg,,Vilde Sandnes,"21/11,21/12",Elisabeth Parnemann Sirevåg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Vilde Sandnes,,Renate Willgohs Iversen,"21/16,22/20",Vilde Sandnes,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Elisabeth Parnemann Sirevåg,,Renate Willgohs Iversen,"21/7,21/6",Elisabeth Parnemann Sirevåg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Sofie Aamodt,,Nora Wilskow,"21/7,21/8",Sofie Aamodt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Sofie Aamodt,,Maria Jansson,"21/5,21/6",Sofie Aamodt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damesingle,,Maria Jansson,,Nora Wilskow,"21/13,21/14",Maria Jansson,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Lars Torkelsen,Hermod Holte Haugland,Kasper Johan Straume,Oscar Dahl Franck,"21/14,22/20",Lars Torkelsen,Hermod Holte Haugland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Daniel Brustad Snorrason,Natanael Stordal,Haakon Lærkerød Jelsness,Christer Andersen,"21/17,21/11",Daniel Brustad Snorrason,Natanael Stordal
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Daniel Brustad Snorrason,Natanael Stordal,Kasper Johan Straume,Oscar Dahl Franck,"21/15,21/11",Daniel Brustad Snorrason,Natanael Stordal
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Lars Torkelsen,Hermod Holte Haugland,Phillip Sperre Stephens,Muhammad Reza Mirzaali,"21/10,18/21,21/11",Lars Torkelsen,Hermod Holte Haugland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Kasper Johan Straume,Oscar Dahl Franck,Phillip Sperre Stephens,Muhammad Reza Mirzaali,"21/12,21/12",Kasper Johan Straume,Oscar Dahl Franck
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Lars Torkelsen,Hermod Holte Haugland,Haakon Lærkerød Jelsness,Christer Andersen,"21/13,21/19",Lars Torkelsen,Hermod Holte Haugland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Haakon Lærkerød Jelsness,Christer Andersen,Kasper Johan Straume,Oscar Dahl Franck,"21/18,21/11",Haakon Lærkerød Jelsness,Christer Andersen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Daniel Brustad Snorrason,Natanael Stordal,Phillip Sperre Stephens,Muhammad Reza Mirzaali,"21/8,21/6",Daniel Brustad Snorrason,Natanael Stordal
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Lars Torkelsen,Hermod Holte Haugland,Daniel Brustad Snorrason,Natanael Stordal,"16/21,21/19,21/18",Lars Torkelsen,Hermod Holte Haugland
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Herredouble,Haakon Lærkerød Jelsness,Christer Andersen,Phillip Sperre Stephens,Muhammad Reza Mirzaali,"21/10,21/14",Haakon Lærkerød Jelsness,Christer Andersen
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damedouble,Maria Jansson,Vilde Sandnes,Renate Willgohs Iversen,Nora Wilskow,"21/14,21/17",Maria Jansson,Vilde Sandnes
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damedouble,Frida Bjørvik Løvheim,Sandra Vaaje,Mille Kristine Bjelland,Vivian Zhong,"21/12,13/21,21/15",Frida Bjørvik Løvheim,Sandra Vaaje
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damedouble,Maria Jansson,Vilde Sandnes,Frida Bjørvik Løvheim,Sandra Vaaje,"21/5,21/6",Maria Jansson,Vilde Sandnes
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damedouble,Renate Willgohs Iversen,Nora Wilskow,Mille Kristine Bjelland,Vivian Zhong,"13/21,21/11,21/14",Renate Willgohs Iversen,Nora Wilskow
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damedouble,Maria Jansson,Vilde Sandnes,Mille Kristine Bjelland,Vivian Zhong,"21/9,21/14",Maria Jansson,Vilde Sandnes
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 A,Damedouble,Renate Willgohs Iversen,Nora Wilskow,Frida Bjørvik Løvheim,Sandra Vaaje,"21/17,21/14",Renate Willgohs Iversen,Nora Wilskow
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Felix Frithjof Piene,,Lars Torkelsen,"21/19,21/17",Felix Frithjof Piene,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Felix Frithjof Piene,,Morten Stormo,"21/16,21/14",Felix Frithjof Piene,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Sindre Sjåvåg,,Eivind Holmbek Nilsen,"21/15,21/10",Sindre Sjåvåg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Lars Torkelsen,,Herman Kjøsterud Erlingsen,"21/7,21/3",Lars Torkelsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Lars Torkelsen,,Eivind Holmbek Nilsen,"21/17,21/10",Lars Torkelsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Sindre Sjåvåg,,Herman Kjøsterud Erlingsen,"21/12,21/4",Sindre Sjåvåg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Eivind Holmbek Nilsen,,Herman Kjøsterud Erlingsen,"21/12,21/5",Eivind Holmbek Nilsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Lars Torkelsen,,Sindre Sjåvåg,"21/8,21/10",Lars Torkelsen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Felix Frithjof Piene,,Mats Haaseth,"21/9,21/3",Felix Frithjof Piene,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Mats Haaseth,,Oskar Andreas Gisholt Jønland,"21/8,21/4",Mats Haaseth,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Felix Frithjof Piene,,Oskar Andreas Gisholt Jønland,"21/6,21/0",Felix Frithjof Piene,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Morten Stormo,,Sondre Flakstad,"24/22,22/20",Morten Stormo,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Morten Stormo,,Phillip Sperre Stephens,"23/21,21/17",Morten Stormo,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herresingle,,Phillip Sperre Stephens,,Sondre Flakstad,"21/13,21/17",Phillip Sperre Stephens,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Celina Nha-Mi-Thanh,,Aurora Lorentzen,"21/11,21/13",Celina Nha-Mi-Thanh,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Sandra Vaaje,,Astrid Egtvedt,"21/11,13/21,21/16",Sandra Vaaje,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Frida Bjørvik Løvheim,,Vivian Zhong,"21/9,21/10",Frida Bjørvik Løvheim,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Frida Bjørvik Løvheim,,Sandra Vaaje,"21/5,21/5",Frida Bjørvik Løvheim,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Astrid Egtvedt,,Vivian Zhong,"21/17,21/11",Astrid Egtvedt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Sandra Vaaje,,Vivian Zhong,"17/21,21/16,21/16",Sandra Vaaje,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Frida Bjørvik Løvheim,,Astrid Egtvedt,"21/6,21/9",Frida Bjørvik Løvheim,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Aurora Lorentzen,,Anna Olava Hansen,"21/6,21/11",Aurora Lorentzen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Anna Olava Hansen,,Ina Marie Øverland,"21/12,21/5",Anna Olava Hansen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Aurora Lorentzen,,Ina Marie Øverland,"21/4,21/12",Aurora Lorentzen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Celina Nha-Mi-Thanh,,Mille Kristine Bjelland,"21/14,21/8",Celina Nha-Mi-Thanh,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Celina Nha-Mi-Thanh,,Mina Ueland,"21/5,21/11",Celina Nha-Mi-Thanh,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Damesingle,,Mille Kristine Bjelland,,Mina Ueland,"21/11,21/12",Mille Kristine Bjelland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Noah Andersen,Leonard Volrath Holmboe,Felix Frithjof Piene,Oscar Tveit Strøm,"22/20,21/14",Noah Andersen,Leonard Volrath Holmboe
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Lucas Tourrenc,Hallvard Grundt,Sindre Sjåvåg,Sondre Flakstad,"21/19,21/15",Lucas Tourrenc,Hallvard Grundt
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Noah Andersen,Leonard Volrath Holmboe,Lucas Tourrenc,Hallvard Grundt,"21/17,21/14",Noah Andersen,Leonard Volrath Holmboe
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Niklas Andersen,Sondre Førsund,Felix Frithjof Piene,Oscar Tveit Strøm,"21/13,21/19",Niklas Andersen,Sondre Førsund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Niklas Andersen,Sondre Førsund,Noah Andersen,Leonard Volrath Holmboe,"21/17,21/19",Niklas Andersen,Sondre Førsund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Felix Frithjof Piene,Oscar Tveit Strøm,Sindre Sjåvåg,Sondre Flakstad,"21/7,21/13",Felix Frithjof Piene,Oscar Tveit Strøm
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Noah Andersen,Leonard Volrath Holmboe,Sindre Sjåvåg,Sondre Flakstad,"21/7,21/10",Noah Andersen,Leonard Volrath Holmboe
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Niklas Andersen,Sondre Førsund,Lucas Tourrenc,Hallvard Grundt,"21/9,21/7",Niklas Andersen,Sondre Førsund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Felix Frithjof Piene,Oscar Tveit Strøm,Lucas Tourrenc,Hallvard Grundt,"21/14,21/15",Felix Frithjof Piene,Oscar Tveit Strøm
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U15 B,Herredouble,Niklas Andersen,Sondre Førsund,Sindre Sjåvåg,Sondre Flakstad,"21/12,21/8",Niklas Andersen,Sondre Førsund
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Marius Edwards,,Halvdan Solvåg Nesse,"21/7,21/11",Marius Edwards,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Marius Edwards,,Espen Kvernberg,"21/13,17/21,21/14",Marius Edwards,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Marius Edwards,,Christoffer Sørensen,"21/6,21/13",Marius Edwards,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Espen Kvernberg,,Christoffer Sørensen,"21/16,21/7",Espen Kvernberg,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Halvdan Solvåg Nesse,,Morten Barhaugen,"19/21,21/16,24/22",Halvdan Solvåg Nesse,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Halvdan Solvåg Nesse,,Martin Borch,"21/17,21/18",Halvdan Solvåg Nesse,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U17 B,Herresingle,,Morten Barhaugen,,Martin Borch,"21/12,22/20",Morten Barhaugen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Martin Nguyen,,Adrian Bjørnstad,"21/13,21/4",Martin Nguyen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Adrian Bjørnstad,,Eivind Molland,"21/16,21/16",Adrian Bjørnstad,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Eivind Molland,,Benjamin Hansen,"21/4,21/8",Eivind Molland,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Adrian Bjørnstad,,Benjamin Hansen,"21/8,21/5",Adrian Bjørnstad,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Martin Nguyen,,Oskar Nybø,"21/13,21/10",Martin Nguyen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Andre Hoai-An Le -Thanh,,Oskar Nybø,"21/19,13/21,21/13",Andre Hoai-An Le -Thanh,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herresingle,,Martin Nguyen,,Andre Hoai-An Le -Thanh,"21/19,19/21,21/17",Martin Nguyen,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Damesingle,,Yasmin Siyad,,Hedda Skjærseth,"21/2,21/6",Yasmin Siyad,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Damesingle,,Savia Aamodt,,Yasmin Siyad,"23/21,21/17",Savia Aamodt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Damesingle,,Savia Aamodt,,Hedda Skjærseth,"21/9,23/21",Savia Aamodt,
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herredouble,Eivind Molland,Oskar Nybø,Espen Kvernberg,Martin Borch,"21/14,21/14",Eivind Molland,Oskar Nybø
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herredouble,Jesper Palmqvist,Marius Edwards,Eivind Molland,Oskar Nybø,"21/13,21/14",Jesper Palmqvist,Marius Edwards
+2016/2017,Slagen Slagenspretten 2017.,11.02.2017,U19 B,Herredouble,Jesper Palmqvist,Marius Edwards,Espen Kvernberg,Martin Borch,"21/14,21/9",Jesper Palmqvist,Marius Edwards

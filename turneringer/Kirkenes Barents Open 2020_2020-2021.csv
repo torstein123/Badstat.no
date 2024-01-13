@@ -1,108 +1,90 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN B,Joakim Andreassen,Violetta Roskova,Bjørn Inge Lund,Mali Elise Eriksen,"21/19,21/11",Joakim Andreassen,Violetta Roskova
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Joakim Andreassen,"19/21,21/19,21/15",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Bjørn Inge Lund,,Bredo Møller,"22/20,21/23,21/19",Bjørn Inge Lund,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Joakim Andreassen,,Bredo Møller,"21/14,21/4",Joakim Andreassen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Joakim Andreassen,,Bjørn Inge Lund,"21/10,21/8",Joakim Andreassen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Nikolai Korostel,,Waqas Tariq,"21/6,21/14",Nikolai Korostel,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Bjørn Floer,"21/0,21/0",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Waqas Tariq,,Bjørn Floer,"21/0,21/0",Waqas Tariq,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Nikolai Korostel,,Bjørn Floer,"21/0,21/0",Nikolai Korostel,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Waqas Tariq,"21/0,21/0",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Nikolai Korostel,"21/12,21/8",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Joakim Andreassen,"19/21,21/19,21/15",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Bjørn Inge Lund,,Bredo Møller,"22/20,21/23,21/19",Bjørn Inge Lund,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Joakim Andreassen,,Bredo Møller,"21/14,21/4",Joakim Andreassen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Joakim Andreassen,,Bjørn Inge Lund,"21/10,21/8",Joakim Andreassen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Nikolai Korostel,,Waqas Tariq,"21/6,21/14",Nikolai Korostel,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Bjørn Floer,"21/0,21/0",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Waqas Tariq,,Bjørn Floer,"21/0,21/0",Waqas Tariq,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Nikolai Korostel,,Bjørn Floer,"21/0,21/0",Nikolai Korostel,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Waqas Tariq,"21/0,21/0",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,,Dag Rune Vellene,,Nikolai Korostel,"21/12,21/8",Dag Rune Vellene,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Inessa Anastasia Roskova,"21/19,21/7",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Anders Bolstad Sandnes,"24/22,21/17",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Leah Lund,"23/21,21/8",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Kristoffer Kalliainen,"21/17,21/8",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Leah Lund,,Kristoffer Kalliainen,"21/14,15/21,22/19",Leah Lund,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Leah Lund,"21/6,21/10",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Angelin Ravi,"21/5,21/10",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Anders Bolstad Sandnes,,Adele Maria Krabenhøft,"21/12,21/8",Anders Bolstad Sandnes,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Anders Bolstad Sandnes,,Angelin Ravi,"21/15,21/9",Anders Bolstad Sandnes,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Adele Maria Krabenhøft,"21/12,21/18",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Angelin Ravi,,Adele Maria Krabenhøft,"21/17,21/18",Angelin Ravi,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Anders Bolstad Sandnes,"21/16,15/21,21/9",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Inessa Anastasia Roskova,"21/19,21/7",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Anders Bolstad Sandnes,"24/22,21/17",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Leah Lund,"23/21,21/8",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Kristoffer Kalliainen,"21/17,21/8",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Leah Lund,,Kristoffer Kalliainen,"21/14,15/21,22/19",Leah Lund,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Aleksander V. Roskov,,Leah Lund,"21/6,21/10",Aleksander V. Roskov,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Angelin Ravi,"21/5,21/10",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Anders Bolstad Sandnes,,Adele Maria Krabenhøft,"21/12,21/8",Anders Bolstad Sandnes,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Anders Bolstad Sandnes,,Angelin Ravi,"21/15,21/9",Anders Bolstad Sandnes,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Adele Maria Krabenhøft,"21/12,21/18",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Angelin Ravi,,Adele Maria Krabenhøft,"21/17,21/18",Angelin Ravi,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,,Inessa Anastasia Roskova,,Anders Bolstad Sandnes,"21/16,15/21,21/9",Inessa Anastasia Roskova,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Silas Saga Fløystad,"21/12,21/6",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Silas Saga Fløystad,,Mats Labahå Pedersen,"21/11,21/6",Silas Saga Fløystad,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Morten Jørgensen,"21/11,21/6",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Silas Saga Fløystad,,Robin Kalliainen,"21/14,21/7",Silas Saga Fløystad,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Morten Jørgensen,,Rani Reginsson,"21/11,21/18",Morten Jørgensen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mats Labahå Pedersen,,Rani Reginsson,"18/21,21/18,21/19",Mats Labahå Pedersen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mats Labahå Pedersen,,Jesse William Nilsen,"21/13,21/11",Mats Labahå Pedersen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Rani Reginsson,,Jesse William Nilsen,"24/22,21/9",Rani Reginsson,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Morten Jørgensen,,Adrian Aune Ebeltoft,"21/7,21/7",Morten Jørgensen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Morten Jørgensen,,Silas Saga Fløystad,"21/16,21/14",Morten Jørgensen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Silas Saga Fløystad,,Adrian Aune Ebeltoft,"21/4,21/4",Silas Saga Fløystad,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Robin Kalliainen,,Ingvar Dervola Johansen,"21/16,21/18",Robin Kalliainen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Robin Kalliainen,"21/6,21/7",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Ingvar Dervola Johansen,"21/9,21/3",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Silas Saga Fløystad,"21/12,21/6",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Silas Saga Fløystad,,Mats Labahå Pedersen,"21/11,21/6",Silas Saga Fløystad,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Morten Jørgensen,"21/11,21/6",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Silas Saga Fløystad,,Robin Kalliainen,"21/14,21/7",Silas Saga Fløystad,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Morten Jørgensen,,Rani Reginsson,"21/11,21/18",Morten Jørgensen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mats Labahå Pedersen,,Rani Reginsson,"18/21,21/18,21/19",Mats Labahå Pedersen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mats Labahå Pedersen,,Jesse William Nilsen,"21/13,21/11",Mats Labahå Pedersen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Rani Reginsson,,Jesse William Nilsen,"24/22,21/9",Rani Reginsson,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Morten Jørgensen,,Adrian Aune Ebeltoft,"21/7,21/7",Morten Jørgensen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Morten Jørgensen,,Silas Saga Fløystad,"21/16,21/14",Morten Jørgensen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Silas Saga Fløystad,,Adrian Aune Ebeltoft,"21/4,21/4",Silas Saga Fløystad,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Robin Kalliainen,,Ingvar Dervola Johansen,"21/16,21/18",Robin Kalliainen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Robin Kalliainen,"21/6,21/7",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Mateo Manfreda,,Ingvar Dervola Johansen,"21/9,21/3",Mateo Manfreda,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Emilie Pettersen,,Mina Sofie Varsi,"21/8,16/21,21/5",Emilie Pettersen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Jetheena Yeyawardana,,Sara Norgård-Larsen,"21/11,21/6",Jetheena Yeyawardana,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Jetheena Yeyawardana,,Cheng Natinga,"21/10,21/19",Jetheena Yeyawardana,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Sara Norgård-Larsen,,Emilie Pettersen,"21/9,21/15",Sara Norgård-Larsen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Cheng Natinga,,Mina Sofie Varsi,"21/14,21/10",Cheng Natinga,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Cheng Natinga,,Emilie Pettersen,"17/21,21/14,21/14",Cheng Natinga,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Jetheena Yeyawardana,,Mina Sofie Varsi,"21/0,21/0",Jetheena Yeyawardana,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Jetheena Yeyawardana,,Emilie Pettersen,"21/16,21/15",Jetheena Yeyawardana,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Sara Norgård-Larsen,,Cheng Natinga,"20/22,22/20,25/23",Sara Norgård-Larsen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,,Sara Norgård-Larsen,,Mina Sofie Varsi,"21/0,21/0",Sara Norgård-Larsen,
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Jesse William Nilsen,Robin Kalliainen,Anders Bolstad Sandnes,Kristoffer Kalliainen,"21/4,21/11",Jesse William Nilsen,Robin Kalliainen
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Rani Reginsson,Morten Jørgensen,Jesse William Nilsen,Robin Kalliainen,"21/10,21/10",Rani Reginsson,Morten Jørgensen
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Rani Reginsson,Morten Jørgensen,Anders Bolstad Sandnes,Kristoffer Kalliainen,"21/3,21/8",Rani Reginsson,Morten Jørgensen
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Emilie Pettersen,Jetheena Yeyawardana,Mina Sofie Varsi,Sara Norgård-Larsen,"21/9,21/15",Emilie Pettersen,Jetheena Yeyawardana
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Emilie Pettersen,Jetheena Yeyawardana,Cheng Natinga,Inessa Anastasia Roskova,"21/17,21/16",Emilie Pettersen,Jetheena Yeyawardana
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Mina Sofie Varsi,Sara Norgård-Larsen,Cheng Natinga,Inessa Anastasia Roskova,"21/14,21/11",Mina Sofie Varsi,Sara Norgård-Larsen
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
-2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Herredouble,Joakim Andreassen,Waqas Tariq,Dag Rune Vellene,Bjørn Floer,"21/19,21/16",Joakim Andreassen,Waqas Tariq
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Herredouble,Dag Rune Vellene,Bjørn Floer,Bjørn Inge Lund,Mali Elise Eriksen,"21/9,21/17",Dag Rune Vellene,Bjørn Floer
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN A,Herredouble,Joakim Andreassen,Waqas Tariq,Nikolai Korostel,Bredo Møller,"21/9,21/17",Joakim Andreassen,Waqas Tariq
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN B,Mixeddouble,Joakim Andreassen,Violetta Roskova,Bjørn Inge Lund,Mali Elise Eriksen,"21/19,21/11",Joakim Andreassen,Violetta Roskova
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Dag Rune Vellene,,Joakim Andreassen,"19/21,21/19,21/15",Dag Rune Vellene,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Bjørn Inge Lund,,Bredo Møller,"22/20,21/23,21/19",Bjørn Inge Lund,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Joakim Andreassen,,Bredo Møller,"21/14,21/4",Joakim Andreassen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Joakim Andreassen,,Bjørn Inge Lund,"21/10,21/8",Joakim Andreassen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Nikolai Korostel,,Waqas Tariq,"21/6,21/14",Nikolai Korostel,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Dag Rune Vellene,,Bjørn Floer,"21/0,21/0",Dag Rune Vellene,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Waqas Tariq,,Bjørn Floer,"21/0,21/0",Waqas Tariq,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Nikolai Korostel,,Bjørn Floer,"21/0,21/0",Nikolai Korostel,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Dag Rune Vellene,,Waqas Tariq,"21/0,21/0",Dag Rune Vellene,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,SEN C,Herresingle,,Dag Rune Vellene,,Nikolai Korostel,"21/12,21/8",Dag Rune Vellene,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Aleksander V. Roskov,,Inessa Anastasia Roskova,"21/19,21/7",Aleksander V. Roskov,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Aleksander V. Roskov,,Anders Bolstad Sandnes,"24/22,21/17",Aleksander V. Roskov,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Inessa Anastasia Roskova,,Leah Lund,"23/21,21/8",Inessa Anastasia Roskova,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Aleksander V. Roskov,,Kristoffer Kalliainen,"21/17,21/8",Aleksander V. Roskov,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Leah Lund,,Kristoffer Kalliainen,"21/14,15/21,22/19",Leah Lund,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Aleksander V. Roskov,,Leah Lund,"21/6,21/10",Aleksander V. Roskov,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Inessa Anastasia Roskova,,Angelin Ravi,"21/5,21/10",Inessa Anastasia Roskova,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Anders Bolstad Sandnes,,Adele Maria Krabenhøft,"21/12,21/8",Anders Bolstad Sandnes,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Anders Bolstad Sandnes,,Angelin Ravi,"21/15,21/9",Anders Bolstad Sandnes,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Inessa Anastasia Roskova,,Adele Maria Krabenhøft,"21/12,21/18",Inessa Anastasia Roskova,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Angelin Ravi,,Adele Maria Krabenhøft,"21/17,21/18",Angelin Ravi,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Herresingle,,Inessa Anastasia Roskova,,Anders Bolstad Sandnes,"21/16,15/21,21/9",Inessa Anastasia Roskova,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U11 A,Mixeddouble,Angelin Ravi,Aleksander V. Roskov,Leah Lund,Adele Maria Krabenhøft,"21/12,18/21,21/15",Angelin Ravi,Aleksander V. Roskov
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Mateo Manfreda,,Silas Saga Fløystad,"21/12,21/6",Mateo Manfreda,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Silas Saga Fløystad,,Mats Labahå Pedersen,"21/11,21/6",Silas Saga Fløystad,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Mateo Manfreda,,Morten Jørgensen,"21/11,21/6",Mateo Manfreda,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Silas Saga Fløystad,,Robin Kalliainen,"21/14,21/7",Silas Saga Fløystad,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Morten Jørgensen,,Rani Reginsson,"21/11,21/18",Morten Jørgensen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Mats Labahå Pedersen,,Rani Reginsson,"18/21,21/18,21/19",Mats Labahå Pedersen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Mats Labahå Pedersen,,Jesse William Nilsen,"21/13,21/11",Mats Labahå Pedersen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Rani Reginsson,,Jesse William Nilsen,"24/22,21/9",Rani Reginsson,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Morten Jørgensen,,Adrian Aune Ebeltoft,"21/7,21/7",Morten Jørgensen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Morten Jørgensen,,Silas Saga Fløystad,"21/16,21/14",Morten Jørgensen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Silas Saga Fløystad,,Adrian Aune Ebeltoft,"21/4,21/4",Silas Saga Fløystad,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Robin Kalliainen,,Ingvar Dervola Johansen,"21/16,21/18",Robin Kalliainen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Mateo Manfreda,,Robin Kalliainen,"21/6,21/7",Mateo Manfreda,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herresingle,,Mateo Manfreda,,Ingvar Dervola Johansen,"21/9,21/3",Mateo Manfreda,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Emilie Pettersen,,Mina Sofie Varsi,"21/8,16/21,21/5",Emilie Pettersen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Jetheena Yeyawardana,,Sara Norgård-Larsen,"21/11,21/6",Jetheena Yeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Jetheena Yeyawardana,,Cheng Pettersen,"21/10,21/19",Jetheena Yeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Sara Norgård-Larsen,,Emilie Pettersen,"21/9,21/15",Sara Norgård-Larsen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Cheng Pettersen,,Mina Sofie Varsi,"21/14,21/10",Cheng Pettersen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Cheng Pettersen,,Emilie Pettersen,"17/21,21/14,21/14",Cheng Pettersen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Jetheena Yeyawardana,,Mina Sofie Varsi,"21/0,21/0",Jetheena Yeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Jetheena Yeyawardana,,Emilie Pettersen,"21/16,21/15",Jetheena Yeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Sara Norgård-Larsen,,Cheng Pettersen,"20/22,22/20,25/23",Sara Norgård-Larsen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damesingle,,Sara Norgård-Larsen,,Mina Sofie Varsi,"21/0,21/0",Sara Norgård-Larsen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herredouble,Jesse William Nilsen,Robin Kalliainen,Anders Bolstad Sandnes,Kristoffer Kalliainen,"21/4,21/11",Jesse William Nilsen,Robin Kalliainen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herredouble,Rani Reginsson,Morten Jørgensen,Jesse William Nilsen,Robin Kalliainen,"21/10,21/10",Rani Reginsson,Morten Jørgensen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Herredouble,Rani Reginsson,Morten Jørgensen,Anders Bolstad Sandnes,Kristoffer Kalliainen,"21/3,21/8",Rani Reginsson,Morten Jørgensen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damedouble,Emilie Pettersen,Jetheena Yeyawardana,Mina Sofie Varsi,Sara Norgård-Larsen,"21/9,21/15",Emilie Pettersen,Jetheena Yeyawardana
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damedouble,Emilie Pettersen,Jetheena Yeyawardana,Cheng Pettersen,Inessa Anastasia Roskova,"21/17,21/16",Emilie Pettersen,Jetheena Yeyawardana
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Damedouble,Mina Sofie Varsi,Sara Norgård-Larsen,Cheng Pettersen,Inessa Anastasia Roskova,"21/14,21/11",Mina Sofie Varsi,Sara Norgård-Larsen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Mixeddouble,Mats Labahå Pedersen,Cheng Pettersen,Robin Kalliainen,Mina Sofie Varsi,"21/15,21/15",Mats Labahå Pedersen,Cheng Pettersen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Mixeddouble,Silas Saga Fløystad,Sara Norgård-Larsen,Robin Kalliainen,Mina Sofie Varsi,"21/16,21/5",Silas Saga Fløystad,Sara Norgård-Larsen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U13 A,Mixeddouble,Silas Saga Fløystad,Sara Norgård-Larsen,Mats Labahå Pedersen,Cheng Pettersen,"21/12,21/18",Silas Saga Fløystad,Sara Norgård-Larsen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herresingle,,Jetheekan jeyawardana,,Adrian Leander Hojem Steen,"21/10,21/18",Jetheekan jeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herresingle,,omar alhmo alhso,,Sami Manfreda,"21/12,21/16",omar alhmo alhso,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herresingle,,Jetheekan jeyawardana,,Sami Manfreda,"21/16,21/13",Jetheekan jeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herresingle,,omar alhmo alhso,,Adrian Leander Hojem Steen,"21/16,21/7",omar alhmo alhso,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herresingle,,Jetheekan jeyawardana,,omar alhmo alhso,"21/13,21/10",Jetheekan jeyawardana,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herresingle,,Adrian Leander Hojem Steen,,Sami Manfreda,"21/14,21/16",Adrian Leander Hojem Steen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herredouble,Jetheekan jeyawardana,omar alhmo alhso,Adrian Leander Hojem Steen,Silas Saga Fløystad,"21/14,21/14",Jetheekan jeyawardana,omar alhmo alhso
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herredouble,Adrian Leander Hojem Steen,Silas Saga Fløystad,Mateo Manfreda,Sami Manfreda,"16/21,21/15,21/18",Adrian Leander Hojem Steen,Silas Saga Fløystad
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herredouble,Jetheekan jeyawardana,omar alhmo alhso,Ingvar Dervola Johansen,Adrian Aune Ebeltoft,"21/5,21/9",Jetheekan jeyawardana,omar alhmo alhso
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herredouble,Adrian Leander Hojem Steen,Silas Saga Fløystad,Ingvar Dervola Johansen,Adrian Aune Ebeltoft,"21/7,21/7",Adrian Leander Hojem Steen,Silas Saga Fløystad
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herredouble,Jetheekan jeyawardana,omar alhmo alhso,Mateo Manfreda,Sami Manfreda,"21/16,21/12",Jetheekan jeyawardana,omar alhmo alhso
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U15 A,Herredouble,Mateo Manfreda,Sami Manfreda,Ingvar Dervola Johansen,Adrian Aune Ebeltoft,"21/5,21/5",Mateo Manfreda,Sami Manfreda
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Mali Elise Eriksen,,Sarah Slapø,"21/9,21/9",Mali Elise Eriksen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Sarah Slapø,,Ane Nylund,"21/17,21/17",Sarah Slapø,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Mali Elise Eriksen,,Johanne Mikkelhaug,"21/18,21/7",Mali Elise Eriksen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Ane Nylund,,Johanne Mikkelhaug,"24/22,21/19",Ane Nylund,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Johanne Mikkelhaug,,Charlotte Mikalsen,"21/17,21/19",Johanne Mikkelhaug,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Ane Nylund,,Charlotte Mikalsen,"21/15,21/14",Ane Nylund,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Mali Elise Eriksen,,Cicilie Jørgensen,"21/4,21/7",Mali Elise Eriksen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Mali Elise Eriksen,,Sarah Slapø,"21/16,21/6",Mali Elise Eriksen,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damesingle,,Sarah Slapø,,Cicilie Jørgensen,"21/10,21/16",Sarah Slapø,
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Damedouble,Cicilie Jørgensen,Johanne Mikkelhaug,Ane Nylund,Charlotte Mikalsen,"21/19,21/8",Cicilie Jørgensen,Johanne Mikkelhaug
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Sarah Slapø,omar alhmo alhso,Sami Manfreda,Johanne Mikkelhaug,"21/15,21/15",Sarah Slapø,omar alhmo alhso
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Sarah Slapø,omar alhmo alhso,Charlotte Mikalsen,Rani Reginsson,"21/8,21/7",Sarah Slapø,omar alhmo alhso
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Jetheekan jeyawardana,Jetheena Yeyawardana,Charlotte Mikalsen,Rani Reginsson,"21/13,21/8",Jetheekan jeyawardana,Jetheena Yeyawardana
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Sarah Slapø,omar alhmo alhso,Jetheekan jeyawardana,Jetheena Yeyawardana,"21/15,21/19",Sarah Slapø,omar alhmo alhso
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Sami Manfreda,Johanne Mikkelhaug,Cicilie Jørgensen,Morten Jørgensen,"21/17,21/18",Sami Manfreda,Johanne Mikkelhaug
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Cicilie Jørgensen,Morten Jørgensen,Adrian Leander Hojem Steen,Ane Nylund,"21/15,15/21,21/19",Cicilie Jørgensen,Morten Jørgensen
+2020/2021,Kirkenes Barents Open 2020,07.11.2020,U17 A,Mixeddouble,Sami Manfreda,Johanne Mikkelhaug,Adrian Leander Hojem Steen,Ane Nylund,"21/15,18/21,21/15",Sami Manfreda,Johanne Mikkelhaug

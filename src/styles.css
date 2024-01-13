@@ -23,6 +23,7 @@ body {
   .PlayerList h1 {
     font-size: 40px;
     margin-bottom: 10px;
+    text-align: center;
   }
 
   .PlayerList input {
@@ -73,6 +74,7 @@ body {
 
 .header {
   margin-top: 100px;
+  padding-left: 93px;
 }
 
   /* Flying rackets */
@@ -239,7 +241,7 @@ p {
 
 .input-container {
   padding: 0;
-  padding-right: 420px;
+  padding-right: 300px;
 }
 
 .rank-change {

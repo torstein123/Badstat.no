@@ -1,73 +1,88 @@
-Season,Tournament Name,Date,Tournament Class,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Rolf Ove Karlsen,Trond Mære,"21/16,21/19",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Jens Asmund Solheim,Fredrik Skånøy,"21/10,21/16",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Joakim Øyen Bedsted,Odin Mauset Skaugen,"24/22,21/15",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Rolf Ove Karlsen,Trond Mære,"24/22,12/21,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Robin Kruksve Krux,Martin Hyllestad,"21/23,21/17,21/17",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Joakim Øyen Bedsted,Odin Mauset Skaugen,Jens Asmund Solheim,Fredrik Skånøy,"21/17,11/21,21/18",Joakim Øyen Bedsted,Odin Mauset Skaugen
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Lars Erik Karlsen,Roar Natvig,"21/17,21/16",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Robin Kruksve Krux,Martin Hyllestad,"10/21,21/18,21/18",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/18,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Robin Kruksve Krux,Martin Hyllestad,"22/20,21/12",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/13,21/17",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Jens Asmund Solheim,Fredrik Skånøy,"21/11,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Joakim Øyen Bedsted,Odin Mauset Skaugen,"20/22,21/16,21/8",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Rolf Ove Karlsen,Trond Mære,"21/16,21/19",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Jens Asmund Solheim,Fredrik Skånøy,"21/10,21/16",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Joakim Øyen Bedsted,Odin Mauset Skaugen,"24/22,21/15",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Rolf Ove Karlsen,Trond Mære,"24/22,12/21,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Robin Kruksve Krux,Martin Hyllestad,"21/23,21/17,21/17",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Joakim Øyen Bedsted,Odin Mauset Skaugen,Jens Asmund Solheim,Fredrik Skånøy,"21/17,11/21,21/18",Joakim Øyen Bedsted,Odin Mauset Skaugen
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Lars Erik Karlsen,Roar Natvig,"21/17,21/16",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Robin Kruksve Krux,Martin Hyllestad,"10/21,21/18,21/18",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/18,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Robin Kruksve Krux,Martin Hyllestad,"22/20,21/12",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/13,21/17",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Jens Asmund Solheim,Fredrik Skånøy,"21/11,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Joakim Øyen Bedsted,Odin Mauset Skaugen,"20/22,21/16,21/8",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rowena Lindberg,Anne Berit Bergsmo,Anita Olsen,Hilde Vatterholm,"18/21,21/17,21/18",Rowena Lindberg,Anne Berit Bergsmo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Hildegunn Måøy,Margarita Wcislo,Silje V. Kruksve Aasland,Marte Stokkaune,"21/16,21/16",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Hilde Vatterholm,"21/16,21/7",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rowena Lindberg,Anne Berit Bergsmo,Silje V. Kruksve Aasland,Marte Stokkaune,"23/21,17/21,21/16",Rowena Lindberg,Anne Berit Bergsmo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Silje V. Kruksve Aasland,Marte Stokkaune,Anita Olsen,Hilde Vatterholm,"17/21,21/16,21/19",Silje V. Kruksve Aasland,Marte Stokkaune
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Hildegunn Måøy,Margarita Wcislo,Rowena Lindberg,Anne Berit Bergsmo,"16/21,21/8,21/16",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Rolf Ove Karlsen,Trond Mære,"21/16,21/19",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Jens Asmund Solheim,Fredrik Skånøy,"21/10,21/16",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Joakim Øyen Bedsted,Odin Mauset Skaugen,"24/22,21/15",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Rolf Ove Karlsen,Trond Mære,"24/22,12/21,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Robin Kruksve Krux,Martin Hyllestad,"21/23,21/17,21/17",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Joakim Øyen Bedsted,Odin Mauset Skaugen,Jens Asmund Solheim,Fredrik Skånøy,"21/17,11/21,21/18",Joakim Øyen Bedsted,Odin Mauset Skaugen
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Lars Erik Karlsen,Roar Natvig,"21/17,21/16",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Robin Kruksve Krux,Martin Hyllestad,"10/21,21/18,21/18",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/18,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Robin Kruksve Krux,Martin Hyllestad,"22/20,21/12",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/13,21/17",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Jens Asmund Solheim,Fredrik Skånøy,"21/11,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Joakim Øyen Bedsted,Odin Mauset Skaugen,"20/22,21/16,21/8",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Rolf Ove Karlsen,Trond Mære,"21/16,21/19",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Jens Asmund Solheim,Fredrik Skånøy,"21/10,21/16",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Joakim Øyen Bedsted,Odin Mauset Skaugen,"24/22,21/15",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Rolf Ove Karlsen,Trond Mære,"24/22,12/21,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Robin Kruksve Krux,Martin Hyllestad,"21/23,21/17,21/17",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Joakim Øyen Bedsted,Odin Mauset Skaugen,Jens Asmund Solheim,Fredrik Skånøy,"21/17,11/21,21/18",Joakim Øyen Bedsted,Odin Mauset Skaugen
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Lars Erik Karlsen,Roar Natvig,"21/17,21/16",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Robin Kruksve Krux,Martin Hyllestad,"10/21,21/18,21/18",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/18,21/13",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Jens Asmund Solheim,Fredrik Skånøy,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Jens Asmund Solheim,Fredrik Skånøy
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Lars Erik Karlsen,Roar Natvig,Robin Kruksve Krux,Martin Hyllestad,"22/20,21/12",Lars Erik Karlsen,Roar Natvig
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rolf Ove Karlsen,Trond Mære,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/13,21/17",Rolf Ove Karlsen,Trond Mære
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Amund Skavhaug,Robert Barø,Jens Asmund Solheim,Fredrik Skånøy,"21/11,21/15",Amund Skavhaug,Robert Barø
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Robin Kruksve Krux,Martin Hyllestad,Joakim Øyen Bedsted,Odin Mauset Skaugen,"20/22,21/16,21/8",Robin Kruksve Krux,Martin Hyllestad
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rowena Lindberg,Anne Berit Bergsmo,Anita Olsen,Hilde Vatterholm,"18/21,21/17,21/18",Rowena Lindberg,Anne Berit Bergsmo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Hildegunn Måøy,Margarita Wcislo,Silje V. Kruksve Aasland,Marte Stokkaune,"21/16,21/16",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Hilde Vatterholm,"21/16,21/7",Hildegunn Måøy,Margarita Wcislo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Rowena Lindberg,Anne Berit Bergsmo,Silje V. Kruksve Aasland,Marte Stokkaune,"23/21,17/21,21/16",Rowena Lindberg,Anne Berit Bergsmo
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Silje V. Kruksve Aasland,Marte Stokkaune,Anita Olsen,Hilde Vatterholm,"17/21,21/16,21/19",Silje V. Kruksve Aasland,Marte Stokkaune
-2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Hildegunn Måøy,Margarita Wcislo,Rowena Lindberg,Anne Berit Bergsmo,"16/21,21/8,21/16",Hildegunn Måøy,Margarita Wcislo
+Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Jens Asmund Solheim,Fredrik Skånøy,Rolf Ove Karlsen,Trond Mære,"21/16,21/19",Jens Asmund Solheim,Fredrik Skånøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Robin Kruksve Krux,Martin Hyllestad,Jens Asmund Solheim,Fredrik Skånøy,"21/10,21/16",Robin Kruksve Krux,Martin Hyllestad
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Lars Erik Karlsen,Roar Natvig,Joakim Øyen Bedsted,Odin Mauset Skaugen,"24/22,21/15",Lars Erik Karlsen,Roar Natvig
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Rolf Ove Karlsen,Trond Mære,"24/22,12/21,21/15",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Robin Kruksve Krux,Martin Hyllestad,"21/23,21/17,21/17",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Joakim Øyen Bedsted,Odin Mauset Skaugen,Jens Asmund Solheim,Fredrik Skånøy,"21/17,11/21,21/18",Joakim Øyen Bedsted,Odin Mauset Skaugen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Rolf Ove Karlsen,Trond Mære,Lars Erik Karlsen,Roar Natvig,"21/17,21/16",Rolf Ove Karlsen,Trond Mære
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Rolf Ove Karlsen,Trond Mære,Robin Kruksve Krux,Martin Hyllestad,"10/21,21/18,21/18",Rolf Ove Karlsen,Trond Mære
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/18,21/13",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Jens Asmund Solheim,Fredrik Skånøy,Lars Erik Karlsen,Roar Natvig,"17/21,21/19,21/12",Jens Asmund Solheim,Fredrik Skånøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Lars Erik Karlsen,Roar Natvig,Robin Kruksve Krux,Martin Hyllestad,"22/20,21/12",Lars Erik Karlsen,Roar Natvig
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Rolf Ove Karlsen,Trond Mære,Joakim Øyen Bedsted,Odin Mauset Skaugen,"21/13,21/17",Rolf Ove Karlsen,Trond Mære
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Amund Skavhaug,Robert Barø,Jens Asmund Solheim,Fredrik Skånøy,"21/11,21/15",Amund Skavhaug,Robert Barø
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Herredouble,Robin Kruksve Krux,Martin Hyllestad,Joakim Øyen Bedsted,Odin Mauset Skaugen,"20/22,21/16,21/8",Robin Kruksve Krux,Martin Hyllestad
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Damedouble,Rowena Lindberg,Anne Berit Bergsmo,Anita Olsen,Hilde Vatterholm,"18/21,21/17,21/18",Rowena Lindberg,Anne Berit Bergsmo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Damedouble,Hildegunn Måøy,Margarita Wcislo,Silje V. Kruksve Aasland,Marte Stokkaune,"21/16,21/16",Hildegunn Måøy,Margarita Wcislo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Damedouble,Hildegunn Måøy,Margarita Wcislo,Anita Olsen,Hilde Vatterholm,"21/16,21/7",Hildegunn Måøy,Margarita Wcislo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Damedouble,Rowena Lindberg,Anne Berit Bergsmo,Silje V. Kruksve Aasland,Marte Stokkaune,"23/21,17/21,21/16",Rowena Lindberg,Anne Berit Bergsmo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Damedouble,Silje V. Kruksve Aasland,Marte Stokkaune,Anita Olsen,Hilde Vatterholm,"17/21,21/16,21/19",Silje V. Kruksve Aasland,Marte Stokkaune
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Damedouble,Hildegunn Måøy,Margarita Wcislo,Rowena Lindberg,Anne Berit Bergsmo,"16/21,21/8,21/16",Hildegunn Måøy,Margarita Wcislo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Martin Hyllestad,Margarita Wcislo,"21/18,13/21,21/17",Rolf Ove Karlsen,Anne Berit Bergsmo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Hildegunn Måøy,Erik Måøy,"21/18,8/21,21/15",Rolf Ove Karlsen,Anne Berit Bergsmo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Rowena Lindberg,Lars Erik Karlsen,"21/15,21/12",Fredrik Skånøy,Marte Stokkaune
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Hildegunn Måøy,Erik Måøy,Rowena Lindberg,Lars Erik Karlsen,"21/12,21/10",Hildegunn Måøy,Erik Måøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Fredrik Skånøy,Marte Stokkaune,"21/17,19/21,21/17",Rolf Ove Karlsen,Anne Berit Bergsmo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Fredrik Skånøy,Marte Stokkaune,Hildegunn Måøy,Erik Måøy,"18/21,21/8,21/16",Fredrik Skånøy,Marte Stokkaune
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Rolf Ove Karlsen,Anne Berit Bergsmo,Rowena Lindberg,Lars Erik Karlsen,"21/18,21/19",Rolf Ove Karlsen,Anne Berit Bergsmo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Martin Hyllestad,Margarita Wcislo,Robin Kruksve Krux,Silje V. Kruksve Aasland,"21/19,21/16",Martin Hyllestad,Margarita Wcislo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Trond Mære,Anita Olsen,"21/15,24/22",Hilde Vatterholm,Roar Natvig
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Hilde Vatterholm,Roar Natvig,Robin Kruksve Krux,Silje V. Kruksve Aasland,"21/19,21/10",Hilde Vatterholm,Roar Natvig
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Martin Hyllestad,Margarita Wcislo,Trond Mære,Anita Olsen,"21/13,23/25,21/17",Martin Hyllestad,Margarita Wcislo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Trond Mære,Anita Olsen,Robin Kruksve Krux,Silje V. Kruksve Aasland,"21/18,21/17",Trond Mære,Anita Olsen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN A,Mixeddouble,Martin Hyllestad,Margarita Wcislo,Hilde Vatterholm,Roar Natvig,"21/19,21/13",Martin Hyllestad,Margarita Wcislo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Erik Måøy,Fred Moen,Markus Måøy,Runar Måøy,"21/14,21/18",Erik Måøy,Fred Moen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Erik Måøy,Fred Moen,Kristian Hyllestad,Svend Helge Hegseth,"21/17,21/16",Erik Måøy,Fred Moen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Markus Måøy,Runar Måøy,Erik Winger,Jan Aage Nyborg,"21/14,21/9",Markus Måøy,Runar Måøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Markus Måøy,Runar Måøy,Sigurd Lorvik,Steinar Fornes,"21/18,21/11",Markus Måøy,Runar Måøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Erik Winger,Jan Aage Nyborg,Jonatan Broch Granum,Sander Hegseth,"15/21,21/18,21/18",Erik Winger,Jan Aage Nyborg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Sondre Løvold,Kjell Holdbakk,Sigurd Lorvik,Steinar Fornes,"21/18,18/21,21/19",Sondre Løvold,Kjell Holdbakk
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Jonatan Broch Granum,Sander Hegseth,Markus Måøy,Runar Måøy,"21/17,18/21,21/15",Jonatan Broch Granum,Sander Hegseth
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Sondre Løvold,Kjell Holdbakk,Erik Winger,Jan Aage Nyborg,"19/21,21/14,21/14",Sondre Løvold,Kjell Holdbakk
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Markus Måøy,Runar Måøy,Sondre Løvold,Kjell Holdbakk,"21/9,21/13",Markus Måøy,Runar Måøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Sigurd Lorvik,Steinar Fornes,Jonatan Broch Granum,Sander Hegseth,"21/19,21/19",Sigurd Lorvik,Steinar Fornes
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Sigurd Lorvik,Steinar Fornes,Erik Winger,Jan Aage Nyborg,"21/23,21/18,23/21",Sigurd Lorvik,Steinar Fornes
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Jonatan Broch Granum,Sander Hegseth,Sondre Løvold,Kjell Holdbakk,"21/16,21/15",Jonatan Broch Granum,Sander Hegseth
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Andreas Futaker,Jørgen Olsen,Rune Heia,Ole Andreas Sagøy,"21/13,21/12",Andreas Futaker,Jørgen Olsen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Kristian Hyllestad,Svend Helge Hegseth,Helge Formo,Inge Rosset,"21/14,21/11",Kristian Hyllestad,Svend Helge Hegseth
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Andreas Futaker,Jørgen Olsen,Helge Formo,Inge Rosset,"21/16,21/6",Andreas Futaker,Jørgen Olsen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Kristian Hyllestad,Svend Helge Hegseth,Rune Heia,Ole Andreas Sagøy,"20/22,21/19,21/13",Kristian Hyllestad,Svend Helge Hegseth
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Kristian Hyllestad,Svend Helge Hegseth,Andreas Futaker,Jørgen Olsen,"22/20,18/21,23/21",Kristian Hyllestad,Svend Helge Hegseth
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Rune Heia,Ole Andreas Sagøy,Helge Formo,Inge Rosset,"21/18,14/21,21/19",Rune Heia,Ole Andreas Sagøy
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Erik Måøy,Fred Moen,Marius Olsen,Sigurd Hellberg,"21/17,21/18",Erik Måøy,Fred Moen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Jonas Midtøy,Gustav Seglsten,Dexter Regarde,Fredrik Nilssen,"21/18,18/21,21/11",Jonas Midtøy,Gustav Seglsten
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Jonas Midtøy,Gustav Seglsten,Marius Olsen,Sigurd Hellberg,"21/15,22/24,21/18",Jonas Midtøy,Gustav Seglsten
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Erik Måøy,Fred Moen,Dexter Regarde,Fredrik Nilssen,"21/14,21/10",Erik Måøy,Fred Moen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Marius Olsen,Sigurd Hellberg,Dexter Regarde,Fredrik Nilssen,"21/17,7/21,21/14",Marius Olsen,Sigurd Hellberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Herredouble,Erik Måøy,Fred Moen,Jonas Midtøy,Gustav Seglsten,"21/12,21/18",Erik Måøy,Fred Moen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Angelika Grande,Lena Falch,Tiril Heia,Nikolina Engen,"21/15,21/17",Angelika Grande,Lena Falch
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Nadja Rahimi,Dianne Christine Geronimo,"21/11,21/9",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Tiril Heia,Nikolina Engen,Nadja Rahimi,Dianne Christine Geronimo,"21/12,21/18",Tiril Heia,Nikolina Engen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Agnes Fornes,Hanna Gorzolka,"21/10,21/4",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Tiril Heia,Nikolina Engen,Agnes Fornes,Hanna Gorzolka,"19/21,21/9,21/17",Tiril Heia,Nikolina Engen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Angelika Grande,Lena Falch,Nadja Rahimi,Dianne Christine Geronimo,"20/22,21/16,21/12",Angelika Grande,Lena Falch
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Tiril Heia,Nikolina Engen,"21/5,21/10",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Julie Kristin Vatterholm,Nordis Østerås Sandberg,Angelika Grande,Lena Falch,"21/19,21/14",Julie Kristin Vatterholm,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Nadja Rahimi,Dianne Christine Geronimo,Agnes Fornes,Hanna Gorzolka,"21/13,21/7",Nadja Rahimi,Dianne Christine Geronimo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Damedouble,Angelika Grande,Lena Falch,Agnes Fornes,Hanna Gorzolka,"21/7,21/13",Angelika Grande,Lena Falch
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,Dexter Regarde,Dianne Christine Geronimo,"22/20,21/10",Kristoffer Brandsås Berg,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,Jørgen Olsen,Julie Kristin Vatterholm,"21/14,21/15",Kristoffer Brandsås Berg,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Camilla Stokkaune,Robert  Karlsen,Jørgen Olsen,Julie Kristin Vatterholm,"21/7,21/14",Camilla Stokkaune,Robert  Karlsen
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Kristoffer Brandsås Berg,Nordis Østerås Sandberg,Camilla Stokkaune,Robert  Karlsen,"19/21,21/11,21/11",Kristoffer Brandsås Berg,Nordis Østerås Sandberg
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Angelika Grande,Sigurd Lorvik,Fred Moen,Stine Husby,"21/12,21/16",Angelika Grande,Sigurd Lorvik
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Dexter Regarde,Dianne Christine Geronimo,Lena Falch,Steinar Fornes,"21/14,21/15",Dexter Regarde,Dianne Christine Geronimo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Dexter Regarde,Dianne Christine Geronimo,Angelika Grande,Sigurd Lorvik,"21/11,21/15",Dexter Regarde,Dianne Christine Geronimo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Fred Moen,Stine Husby,"21/8,21/16",Lena Falch,Steinar Fornes
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Lena Falch,Steinar Fornes,Angelika Grande,Sigurd Lorvik,"21/14,21/19",Lena Falch,Steinar Fornes
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN C,Mixeddouble,Dexter Regarde,Dianne Christine Geronimo,Fred Moen,Stine Husby,"21/15,21/10",Dexter Regarde,Dianne Christine Geronimo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Sander Hegseth,Hanna Gorzolka,Nadja Rahimi,Helge Formo,"23/21,21/11",Sander Hegseth,Hanna Gorzolka
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Nikolina Engen,Inge Rosset,Jonatan Broch Granum,Agnes Fornes,"21/6,21/15",Nikolina Engen,Inge Rosset
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Nadja Rahimi,Helge Formo,Jonatan Broch Granum,Agnes Fornes,"22/20,21/19",Nadja Rahimi,Helge Formo
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Sander Hegseth,Hanna Gorzolka,Tiril Heia,Rune Heia,"21/18,21/12",Sander Hegseth,Hanna Gorzolka
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Tiril Heia,Rune Heia,Nadja Rahimi,Helge Formo,"17/21,21/12,21/19",Tiril Heia,Rune Heia
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Nikolina Engen,Inge Rosset,Sander Hegseth,Hanna Gorzolka,"12/21,21/18,23/21",Nikolina Engen,Inge Rosset
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Tiril Heia,Rune Heia,Jonatan Broch Granum,Agnes Fornes,"22/24,21/11,21/10",Tiril Heia,Rune Heia
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Sander Hegseth,Hanna Gorzolka,Jonatan Broch Granum,Agnes Fornes,"21/18,21/11",Sander Hegseth,Hanna Gorzolka
+2019/2020,Verdal Øradobbelen,07.09.2019,SEN D,Mixeddouble,Nikolina Engen,Inge Rosset,Tiril Heia,Rune Heia,"21/7,21/11",Nikolina Engen,Inge Rosset
