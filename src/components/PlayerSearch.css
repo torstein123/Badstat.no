@@ -1,132 +1,115 @@
-.input-container {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
+/* General styles */
+
+.headerandinput {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.header {
+  font-size: 50px;
+  text-align: center;
+  color: black;
+  margin-right: 84px;
 }
 
+.input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.react-select__control {
+  width: 100%; /* Full width of .input-container */
+  cursor: text;
+  /* ... */
+}
+
+
 .suggestion-container {
-    position: relative;
-    margin-bottom: 100%;
+  display: flex;
+  justify-content: space-between; /* Adjust spacing */
+  align-items: center;
+  width: 100%;
+}
+
+.versus {
+  white-space: nowrap; /* Prevent "VS" from wrapping */
+  padding: 0 10px; /* Adjust based on space availability */
 }
 
 .no-bullets {
-    list-style-type: none;
-    padding-left: 0;
-  }
+  color: black;
+  list-style-type: none;
+  padding-left: 0;
+  position: absolute;
+  width: calc(100% - 4px); /* Adjust width to match input field, considering border */
+  background-color: #fff;
+  border: 2px solid #ddd; /* Add a border to match input fields */
+  border-top: none; /* Remove top border to seamlessly connect with the input */
+  z-index: 1;
+  max-height: 150px;
+  overflow-y: auto; /* Allow scrolling within the list */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Optional: Add shadow for depth */
+}
 
-/* PlayerSearch.css */
+
+/* Input and button styles */
+.suggestion-container input,
+.compare-button {
+  width: 100%; /* Full width to match parent's size */
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px; /* Readable font size for most screens */
+  margin-top: 10px;
+}
+
+.suggestion-container input:focus,
+.compare-button:focus {
+  outline: none;
+  border-color: #FF4081;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
 
 .compare-button {
-    background-color: #007BFF; /* Background color for the button */
-    color: #ffffff; /* Text color for the button */
-    padding: 10px 20px; /* Padding around the button text */
-    border: none; /* Remove button border */
-    border-radius: 5px; /* Add rounded corners */
-    cursor: pointer; /* Change cursor to pointer on hover */
-    font-size: 16px; /* Font size */
-    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
-  
-    /* Hover effect */
-    &:hover {
-      background-color: #0056b3; /* Darker background color on hover */
-    }
-  
-    /* Focus effect */
-    &:focus {
-      outline: none; /* Remove default focus outline */
-      box-shadow: 0 0 5px rgba(0, 123, 255, 0.7); /* Add a subtle box shadow on focus */
-    }
-  }
-
-  /* PlayerSearch.css */
-
-/* Style for the input containers */
-.input-container {
-  margin-left: 420px;
-}
-
-/* Style for the suggestion containers */
-.suggestion-container {
-  position: relative;
-  flex-grow: 1;
-  margin-right: 10px; /* Add some space between input fields */
-}
-
-/* Style for the input elements */
-.suggestion-container input {
-  width: 100%;
-  padding: 10px; /* Padding around the input text */
-  border: 2px solid #ddd; /* Add a border to the input */
-  border-radius: 5px; /* Add rounded corners */
-  font-size: 16px; /* Font size */
-  transition: border-color 0.3s ease; /* Smooth transition for input border color */
-
-  /* Focus effect */
-  &:focus {
-    outline: none; /* Remove default focus outline */
-    border-color: #007BFF; /* Change border color on focus */
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.7); /* Add a subtle box shadow on focus */
-  }
-}
-
-/* Style for the suggestion list */
-.no-bullets {
-  list-style-type: none;
-  color: black;
-  padding: 0;
-  margin: 0;
-  position: absolute;
-  z-index: 1;
-  background-color: #fff;
-  border: 2px solid #ddd; /* Add a border to the suggestion list */
-  border-top: none; /* Remove top border to match the input field border */
-  border-radius: 0 0 5px 5px; /* Rounded corners for the bottom of the list */
-  max-height: 150px; /* Set a maximum height for the suggestion list */
-  overflow-y: auto; /* Add scrollbar for overflow */
-}
-
-/* Style for the suggestion list items */
-.no-bullets li {
-  padding: 10px;
+  background-color: #FF4081;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
-
-  /* Hover effect */
-  &:hover {
-    background-color: #f0f0f0; /* Background color on hover */
-  }
+  transition: background-color 0.3s, color 0.3s;
+  padding: 12px 25px;
+  font-size: 18px; /* Slightly larger font for the button */
 }
 
-/* PlayerSearch.css */
+.compare-button:hover {
+  background-color: #ff79b0;
+}
 
-/* Style for the header */
-.header {
-    font-size: 24px;
-    margin-bottom: 20px; /* Add spacing below the header */
-    margin-left: 270px;
+
+@media (max-width: 768px) {
+  .header {
+    font-size: 30px; /* Smaller font size for smaller screens */
+    margin-bottom: 15px;
   }
-
-
-  @media (max-width: 768px) {
-    .input-container {
-        padding-right: 0; /* Reset the padding-right you've set earlier */
-        display: block;
-        justify-content: center;
-        align-items: center;
-        margin-left: 0;
-      }
-  
-    .suggestion-container {
-      margin-right: 0; /* Remove the right margin */
-      margin-bottom: 20px; /* Add some space at the bottom */
-    }
-  
-    .compare-button {
-      width: 100%; /* Make the button full-width */
-      margin-bottom: 40px;
-    }
-    .header {
-        margin-top: 35px;
-        margin-left: 0px;
-    }
+  .input-container {
+    padding: 10px; /* Less padding on smaller screens */
+    width: 90%; /* Use more of the screen width */
+    max-width: none; /* Override max-width set for larger screens */
   }
+  .compare-button, .suggestion-container input {
+    font-size: 14px; /* Smaller font size for readability */
+  }
+  .versus {
+    font-size: 18px; /* Adjust according to space */
+    margin: 10px 0; /* Stack vertically with space */
+  }
+  .suggestion-container {
+    flex-direction: column; /* Stack inputs vertically */
+    align-items: center;
+  }
+}

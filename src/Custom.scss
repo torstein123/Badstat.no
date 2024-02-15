@@ -5,21 +5,27 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #36393f;
-  color: #fff;
+  background-color: #F5F5F5;
+  color: #333333;
+  background-image: url('img/bg-image.webp');
+  background-size: cover;
+  background-repeat: no-repeat; /* Changed to no-repeat to avoid tiling on large screens */
+  background-attachment: fixed; /* This can give a nice effect but might not work well on all mobile devices */
   min-height: 100vh;
-}
-
-.footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-  position: relative;
-  bottom: 0;
+  margin: 0px;
   width: 100%;
 }
 
+/* Media query for devices with a max-width of 768px, which covers most tablets and phones */
+/* Media query for devices with a max-width of 768px, which covers most tablets and phones */
+@media (max-width: 768px) {
+  body {
+    background-image: none; /* Remove background image for mobile */
+  }
+}
+
+
+
 
 // Now, you can import your custom styles
-@import 'styles.css';
+@import 'PlayerDetail.css';

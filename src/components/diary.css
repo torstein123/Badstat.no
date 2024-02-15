@@ -1,0 +1,144 @@
+/* Diary.css */
+.diary-container {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 7% auto;
+    margin-top:100px;
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid #FF4081;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.diary-container h1, .diary-container h2 {
+    color: #4b4f56;
+}
+
+.diary-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #1c1e21;
+}
+
+.diary-container h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    border-bottom: 1px solid #ccd0d5;
+    padding-bottom: 10px;
+}
+
+.player-dropdown {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.diary-entry-form, .diary-entries-list {
+    margin-top: 20px;
+    color: black;
+}
+
+.please-login {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #606770;
+}
+
+/* Add specific styles for the PlayerDropdown if needed */
+.player-dropdown select {
+    width: 100%;
+    padding: 8px 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccd0d5;
+    background-color: #f5f6f7;
+}
+
+/* Button styles for a Facebook-like feel */
+.button {
+    display: inline-block;
+    background-color: #FF4081;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #ff79b0;
+}
+
+.error, .info {
+    color: #ff0000;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+/* Assuming additional styles in diary.css or DiaryEntries.css */
+.diary-entries-container {
+    background-color: #f5f6f7;
+    border: 1px solid #ccd0d5;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.diary-entry {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.diary-entry h3 {
+    color: #FF4081;
+    margin-bottom: 10px;
+}
+
+.diary-entry p {
+    margin: 10px 0;
+    color: #4b4f56;
+}
+
+.diary-entry p b {
+    font-weight: bold;
+}
+
+.diary-form-container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.diary-form-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccd0d5;
+    border-radius: 4px;
+}
+
+.diary-form-container button {
+    background-color: #FF4081;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.diary-form-container button:hover {
+    background-color: #FF4081;
+}
+
+.diary-introduction {
+    color:#333333
+}

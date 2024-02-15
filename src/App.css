@@ -2,17 +2,36 @@
   text-align: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bangers';
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+  position: relative; /* Endret til 'relative' for å unngå at den alltid er synlig */
+  width: 100%;
+  margin-top: 700px; /* Legger til plass over fotnoten */
+  border-radius: 0 0 8px 8px; /* Runde hjørner nederst */
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.main-content {
+  display: block;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

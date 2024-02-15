@@ -1,18 +1,41 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import data from './combined_rankings.json';
+import dataDD from './combined_rankingsDD.json';
+import dataDS from './combined_rankingsDS.json';
+import dataHS from './combined_rankingsHS.json';
+import dataHD from './combined_rankingsHD.json';
+import dataMIX from './combined_rankingsMIX.json';
 import { Line } from 'react-chartjs-2';
-import './styles.css'; // Import the styles.css file
 import PlayerRecentMatches from './components/PlayerRecentMatches';
-
-
-
-
+import RankingsDisplay from './components/RankingDisplay'; // Adjust the path as necessary
+import './PlayerDetail.css';
 
 const PlayerDetail = () => {
   const { name } = useParams();
   const playerName = decodeURIComponent(name);
-  const playerData = data.find((player) => player.Navn === playerName);
+  const [category, setCategory] = useState('Sammenlagt');
+
+  // Define data based on selected category
+  let categoryData = [];
+  switch (category) {
+    case 'Sammenlagt':
+      categoryData = data;
+      break;
+    case 'single':
+      categoryData = [...dataDS, ...dataHS];
+      break;
+    case 'double':
+      categoryData = [...dataDD, ...dataHD];
+      break;
+    case 'mix':
+      categoryData = dataMIX;
+      break;
+    default:
+      categoryData = [...dataDS, ...dataHS]; // Default to single category
+  }
+
+  const playerData = categoryData.find((player) => player.Navn === playerName);
 
   if (!playerData) {
     return <p>Player not found</p>;
@@ -33,7 +56,7 @@ const PlayerDetail = () => {
   }, validYears[0]);
 
   const rankData = validYears.map((year) => {
-    const playersInYear = data.filter((player) => player[year] !== undefined);
+    const playersInYear = categoryData.filter((player) => player[year] !== undefined);
     const sortedPlayers = playersInYear.sort(
       (a, b) => parseFloat(b[year]) - parseFloat(a[year])
     );
@@ -50,7 +73,7 @@ const PlayerDetail = () => {
         label: 'Rank',
         data: rankData,
         fill: false,
-        borderColor: 'rgba(75, 192, 192, 1)',
+        borderColor: '#ff79b0',
         tension: 0.1,
       },
     ],
@@ -144,39 +167,34 @@ const PlayerDetail = () => {
     improvementMessage = 'Stabil';
   }
 
-  
   return (
     <div className="player-detail-container">
-      <Link to="/" className="button-link">
-        Tilbake
-      </Link>
-  
-      <h1>{playerData.Navn}</h1>
-      <p>
-        {playerData.Navn} har {currentPoints} rankingpoeng, og
-        er rangert som nummer {currentRank} i Norge. Beste år var i {bestYear} med{' '}
-        {parseFloat(playerData[bestYear])} poeng.
-      </p>
-  
-      {improvementArrow && (
-        <div className="trend-container">
-          <div className={`trend-arrow ${improvementArrow === '↑' ? 'green' : improvementArrow === '↓' ? 'red' : 'neutral'}`}>
-            {improvementArrow}
-          </div>
-          <div className="trend-message">{improvementMessage}</div>
+      
+      <h1 id="name">{playerData.Navn}</h1>
+      <div className="category-buttons">
+        <button onClick={() => setCategory('Sammenlagt')}>Sammenlagt</button>
+        <button onClick={() => setCategory('single')}>Single</button>
+        <button onClick={() => setCategory('double')}>Double</button>
+        <button onClick={() => setCategory('mix')}>Mix</button>
+      </div>
+      <div className="rank-box">
+        <div className="points">
+          <h1 style={{ color: '#5c5c5c' }}>POENG</h1>
+          <h1> {currentPoints}</h1>
         </div>
-      )}
-  
-      <p>
-        All-time rankingpoeng: {' '} {totalPoints.toFixed(0)} <br />
-        Gjennomsnittlig rangering gjennom {validYears.length} år{' '}: {averageRank.toFixed(0)}. plass <br />
-      </p>
-  
+        <div className="rank">
+          <h1 style={{ color: '#5c5c5c' }}>RANK</h1>
+          <h1> {currentRank}</h1>
+        </div>
+        <div className="best-placement">
+          <h1 style={{ color: '#5c5c5c' }}>🏅</h1>
+          <h1> {bestRank}</h1>
+        </div>
+      </div>
       <h2>Utvikling over tid</h2>
       <div className="chart-container">
         <Line data={chartData} options={options} />
       </div>
-  
       <h2>Plasseringer</h2>
       <table className="rank-table">
         <thead>
@@ -197,14 +215,8 @@ const PlayerDetail = () => {
         </tbody>
       </table>
       <PlayerRecentMatches playerName={playerName} />
-      </div>
-
-      
+    </div>
   );
-
-
-
-  
 };
 
 export default PlayerDetail;

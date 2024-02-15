@@ -1,6 +1,10 @@
-// PlayerRecentMatches.js
 import React, { useState, useEffect, useMemo } from 'react';
 import './PlayerRecentMatches.css'; // Ensure this CSS file exists in the same directory
+
+const convertDateString = (dateString) => {
+    const parts = dateString.split('.');
+    return `${parts[2]}-${parts[1]}-${parts[0]}`;
+};
 
 function PlayerRecentMatches({ playerName }) {
     const [allMatches, setAllMatches] = useState([]);
@@ -37,9 +41,9 @@ function PlayerRecentMatches({ playerName }) {
             if (match["Match"]) matchTypes.add(match["Match"]);
         });
 
-        setSeasonOptions(['All Seasons', ...seasons]);
-        setClassOptions(['All Classes', ...classes]);
-        setMatchOptions(['All Matches', ...matchTypes]);
+        setSeasonOptions(['Alle sesonger', ...seasons]);
+        setClassOptions(['Alle klasser', ...classes]);
+        setMatchOptions(['Alle kategorier', ...matchTypes]);
     }, [allMatches]);
 
     // Calculate and sort match score differences
@@ -55,16 +59,32 @@ function PlayerRecentMatches({ playerName }) {
         return scoreDiff;
     };
 
-    const findOpponents = (match) => {
+    const findTeamAndOpponents = (match) => {
+        let teamPartner = '';
         let opponents = [];
-        if (match["Team 1 Player 1"] === playerName || match["Team 1 Player 2"] === playerName) {
+    
+        if (match["Team 1 Player 1"] === playerName) {
+            teamPartner = match["Team 1 Player 2"];
             opponents.push(match["Team 2 Player 1"]);
             opponents.push(match["Team 2 Player 2"]);
-        } else if (match["Team 2 Player 1"] === playerName || match["Team 2 Player 2"] === playerName) {
+        } else if (match["Team 1 Player 2"] === playerName) {
+            teamPartner = match["Team 1 Player 1"];
+            opponents.push(match["Team 2 Player 1"]);
+            opponents.push(match["Team 2 Player 2"]);
+        } else if (match["Team 2 Player 1"] === playerName) {
+            teamPartner = match["Team 2 Player 2"];
+            opponents.push(match["Team 1 Player 1"]);
+            opponents.push(match["Team 1 Player 2"]);
+        } else if (match["Team 2 Player 2"] === playerName) {
+            teamPartner = match["Team 2 Player 1"];
             opponents.push(match["Team 1 Player 1"]);
             opponents.push(match["Team 1 Player 2"]);
         }
-        return opponents.filter(opponent => opponent !== "NaN").join(' & ');
+    
+        return {
+            teamPartner: teamPartner,
+            opponents: opponents.filter(opponent => opponent !== "NaN").join(' & ')
+        };
     };
 
     // Filter and sort matches
@@ -83,30 +103,33 @@ function PlayerRecentMatches({ playerName }) {
             })
             .map(match => {
                 const isWin = match["Winner Player 1"] === playerName || match["Winner Player 2"] === playerName;
+                const { teamPartner, opponents } = findTeamAndOpponents(match);
+            
                 return {
                     ...match,
                     isWin,
-                    opponents: findOpponents(match),
+                    teamPartner, // Add this line
+                    opponents,
                     scoreDifference: isWin ? getScoreDifference(match) : -getScoreDifference(match)
                 };
-            });
+            })
+            .sort((a, b) => new Date(convertDateString(b.Date)) - new Date(convertDateString(a.Date)));
 
+        // Apply additional filters and sorting
         if (outcomeFilter === 'Won') {
             return matches.filter(match => match.isWin);
         } else if (outcomeFilter === 'Lost') {
             return matches.filter(match => !match.isWin);
         }
-
-        // Sort by score difference if requested
+    
         if (sortOrder === 'biggest-wins') {
             return matches.filter(match => match.isWin).sort((a, b) => b.scoreDifference - a.scoreDifference);
         } else if (sortOrder === 'biggest-losses') {
             return matches.filter(match => !match.isWin).sort((a, b) => a.scoreDifference - b.scoreDifference);
         }
-
+    
         return matches;
     }, [allMatches, seasonFilter, outcomeFilter, tournamentClassFilter, matchFilter, sortOrder]);
-
     // Count total wins and losses
     const totalWins = filteredAndSortedMatches.filter(match => match.isWin).length;
     const totalLosses = filteredAndSortedMatches.filter(match => !match.isWin).length;
@@ -116,7 +139,7 @@ function PlayerRecentMatches({ playerName }) {
             <div className="filters">
                 {/* Season Filter */}
                 <label>
-                    Season:
+                    Sesong:
                     <select value={seasonFilter} onChange={(e) => setSeasonFilter(e.target.value)}>
                         {seasonOptions.map(season => (
                             <option key={season} value={season}>{season}</option>
@@ -126,16 +149,16 @@ function PlayerRecentMatches({ playerName }) {
                 {/* ... other filter dropdowns */}
                 {/* Outcome Filter */}
                 <label>
-                    Outcome:
+                    Utfall:
                     <select value={outcomeFilter} onChange={(e) => setOutcomeFilter(e.target.value)}>
-                        <option value="All">All</option>
-                        <option value="Won">Won</option>
-                        <option value="Lost">Lost</option>
+                        <option value="All">Alle</option>
+                        <option value="Won">Vunnet</option>
+                        <option value="Lost">Tapt</option>
                     </select>
                 </label>
                 {/* Tournament Class Filter */}
                 <label>
-                    Tournament Class:
+                    Klasse:
                     <select value={tournamentClassFilter} onChange={(e) => setTournamentClassFilter(e.target.value)}>
                         {classOptions.map(tournamentClass => (
                             <option key={tournamentClass} value={tournamentClass}>{tournamentClass}</option>
@@ -144,7 +167,7 @@ function PlayerRecentMatches({ playerName }) {
                 </label>
                 {/* Match Filter */}
                 <label>
-                    Match:
+                    Kategori:
                     <select value={matchFilter} onChange={(e) => setMatchFilter(e.target.value)}>
                         {matchOptions.map(matchType => (
                             <option key={matchType} value={matchType}>{matchType}</option>
@@ -155,26 +178,34 @@ function PlayerRecentMatches({ playerName }) {
 
             {/* Sorting buttons */}
             <div>
-                <button onClick={() => setSortOrder('biggest-wins')}>Sort by Biggest Wins</button>
-                <button onClick={() => setSortOrder('biggest-losses')}>Sort by Biggest Losses</button>
+                <button onClick={() => setSortOrder('biggest-wins')}>Største seire</button>
+                <button onClick={() => setSortOrder('biggest-losses')}>Største tap</button>
             </div>
 
             {/* Display win/loss count */}
             <div>
-                <p>Total Wins: {totalWins}</p>
-                <p>Total Losses: {totalLosses}</p>
+                <p>Vunnet: {totalWins}</p>
+                <p>Tapt: {totalLosses}</p>
             </div>
 
             {/* Match cards */}
             {filteredAndSortedMatches.map((match, index) => (
                 <div key={index} className="match-card">
                     <h3>{match.Date}</h3>
-                    <p><strong>Tournament:</strong> {match["Tournament Name"]}</p>
-                    <p><strong>Match:</strong> {match.Match}</p>
-                    <p><strong>Result:</strong> {match.Result}</p>
-                    <p><strong>Opponent(s):</strong> {match.opponents || 'No opponent found'}</p>
-                    <p><strong>Outcome:</strong> {match.isWin ? 'Win' : 'Loss'}</p>
-                    <p><strong>Score Difference:</strong> {match.scoreDifference}</p>
+                    <p><strong>Turnering:</strong> {match["Tournament Name"]}</p>
+                    <p><strong>Kategori:</strong> {match.Match}</p>
+                    <p><strong>Resultat:</strong> {match.Result}</p>
+                    <p><strong>Partner:</strong> {match.teamPartner}</p>
+                    <p><strong>Motstander(e):</strong> {match.opponents || 'No opponent found'}</p>
+
+                    <p>
+                        <strong>Utfall:</strong> 
+                        {match.isWin ? 
+                            <span style={{ color: 'green' }}>Seier</span> : 
+                            <span style={{ color: 'red' }}>Tap</span>
+                        }
+                    </p>
+                    <p><strong>Poengforskjell:</strong> {match.scoreDifference}</p>
                     {/* You may want to display opponents here */}
                 </div>
             ))}

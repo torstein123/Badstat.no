@@ -1,15 +1,26 @@
-import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import React, { useState, useEffect, useContext } from 'react';
+import { BrowserRouter as Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
 import PlayerDetail from './PlayerDetail';
 import PlayerComparison from './components/PlayerComparison';
-import data from './combined_rankings.json';
 import './Custom.scss';
 import Navbar from "./Navigation/Navbar.js";
-import Home from './pages/Home';
 import Hvorfor from './pages/Hvorfor';
 import Hvordan from './pages/Hvordan';
 import ContactPage from './pages/Feedback';
 import PlayerSearch from './components/PlayerSearch';
+import { AuthenticationContextProvider } from './Auth-Context.js';
+import RegisterScreen from './RegisterScreen'; // Update with the correct path
+import AccountScreen from './AccountScreen.js'; // Update with the correct path
+import { AuthenticationContext } from './Auth-Context.js'; // Adjust the import path
+import Home from './components/hjemmeside.js';
+import LinkRequestScreen from './components/requestLink.js';
+import AdminComponent from './components/admin.js';
+import Diary from './components/diary.js';
+import PlayerList from './components/PlayerList.js';
+import './App.css';
+
+
+
 
 
 
@@ -41,71 +52,6 @@ const FlyingRackets = () => {
   );
 };
 
-const PlayerList = () => {
-  const [search, setSearch] = useState('');
-  const [suggestions, setSuggestions] = useState([]);
-  const [selectedIndex, setSelectedIndex] = useState(-1);
-
-  const handleSearch = (term) => {
-    const filteredData = data.filter((player) =>
-      player.Navn.toLowerCase().startsWith(term.toLowerCase())
-    );
-    if (filteredData.length > 0) {
-      setSuggestions(filteredData.slice(0, 5));
-    } else {
-      setSuggestions([]);
-    }
-    setSearch(term);
-  };
-
-
-
-  const handleKeyDown = (e) => {
-    if (e.keyCode === 38 && selectedIndex > 0) {
-      setSelectedIndex(selectedIndex - 1);
-    } else if (e.keyCode === 40 && selectedIndex < suggestions.length - 1) {
-      setSelectedIndex(selectedIndex + 1);
-    } else if (e.keyCode === 13 && selectedIndex !== -1) {
-      setSearch(suggestions[selectedIndex].Navn);
-      setSuggestions([]);
-      setSelectedIndex(-1);
-    }
-  };
-
-
-  return (
-    <div className="PlayerList">
-      <h1>Søk opp spilleren du ønsker å analysere🏸</h1>
-      <input
-        type="text"
-        placeholder="Søk etter spiller"
-        value={search}
-        onChange={(e) => handleSearch(e.target.value)}
-        onKeyDown={handleKeyDown}
-      />
-      {suggestions.length > 0 && (
-        <ul className="no-bullets">
-          {suggestions.map((suggestion, index) => (
-            <li key={index}>
-              <span
-                
-                style={{ cursor: 'pointer' }}
-              >
-                <Link to={`/player/${encodeURIComponent(suggestion.Navn)}`}>
-                  {suggestion.Navn}
-                </Link>
-              </span>
-            </li>
-          ))}
-        </ul>
-      )}
-      {/* Your existing player list rendering code */}
-      <div className="player-list">
-        {/* Your existing player list rendering code */}
-      </div>
-    </div>
-  );
-};
 
 
 
@@ -116,6 +62,7 @@ const Changelog = () => {
     <div className="Oppdateringer">
       <h3>Updates 💪</h3>
       <ul>
+        <li>Version 0.8.0 (01/2024): Turneringsoversikt(Spillerdetaljer)</li>
         <li>Version 0.2.0 (10/2023): Head to head - Kamper</li>
         <li>Version 0.2.0 (09/2023): Head to head - rankingpoeng</li>
         <li>Version 0.1.0 (05/2023): La til navigasjonsbar og sider</li>
@@ -126,43 +73,59 @@ const Changelog = () => {
   );
 };
 
-const Footer = () => {
+const MainApp = () => {
+  const { isAuthenticated } = useContext(AuthenticationContext);
+  const navigate = useNavigate(); // Get the navigate function
+  const { user } = useContext(AuthenticationContext);
+
+  // Add console.log to check isAuthenticated
+  console.log("isAuthenticated:", isAuthenticated);
+
   return (
-    <div className="footer">
-      <p>Sist oppdatert 21.09.2023</p>
-      <p>Utviklet av Torstein Olsen</p>
-      <p>Data er hentet fra badmintonportalen.</p>
+    <div>
+      
+      <FlyingRackets />
+      <Navbar />
+      <div className="main-content">
+        <Routes>
+          <Route path="/register" element={<RegisterScreen />} />
+          <Route path="/account" element={<AccountScreen />} />
+          <Route path="/" element={<Home />} />
+          
+          {isAuthenticated ? (
+            <>
+              <Route path="/compare/:player1/:player2" element={<PlayerComparison />} />
+              <Route path="/player/:name" element={<PlayerDetail />} />
+              
+              <Route path="/hvorfor" element={<Hvorfor />} />
+              <Route path="/hvordan" element={<Hvordan />} />
+              <Route path="/feedback" element={<ContactPage />} />
+              <Route path="/link" element={<LinkRequestScreen />} />
+              <Route path="/admin" element={<AdminComponent />} />
+              <Route path="/Diary" element={<Diary userId={user?.uid} />} />
+              <Route path="/playerlist" element={<PlayerList/>} />
+              <Route path="/headtohead" element={<PlayerSearch/>} />
+
+            </>
+          ) : (
+            <Route path="/" element={<AccountScreen />} />
+          )}
+        </Routes>
+      </div>
+      
     </div>
   );
 };
 
-const App = () => {
-  const bodyStyle = {
-    backgroundColor: "#36393f",
-  };
 
+const App = () => {
   return (
-    <Router>
-      <FlyingRackets />
-      <Navbar />
-      <div className="main-content" style={bodyStyle}>
-        <Routes>
-          <Route path="/compare/:player1/:player2" element={<PlayerComparison />} />
-          <Route path="/player/:name" element={<PlayerDetail />} />
-          <Route path="/hjem" element={<Home />} />
-          <Route path="/hvorfor" element={<Hvorfor />} />
-          <Route path="/hvordan" element={<Hvordan />} />
-          <Route path="/feedback" element={<ContactPage />} />
-          <Route path="/" element={<>
-            <PlayerList /> {/* Render PlayerList */}
-            <PlayerSearch /> {/* Always render PlayerSearch */}
-            <Changelog /> {/* Render Changelog */}
-          </>} />
-        </Routes>
-      </div>
-      <Footer />
-    </Router>
+    <AuthenticationContextProvider>
+      <Router>
+        <MainApp />
+      </Router>
+    </AuthenticationContextProvider>
   );
 };
-export default App;
 
+export default App;

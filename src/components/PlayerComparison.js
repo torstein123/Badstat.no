@@ -128,15 +128,17 @@ const PlayerComparison = () => {
     <>
       <div className="player-comparison">
         <h1></h1>
-        <h2>{player1Data.Navn} VS {player2Data.Navn}</h2>
-        <h5>Rankingpoeng</h5>
-        <PlayerTable player1Data={player1Data} player2Data={player2Data} />
-        <PlayerChart player1Data={player1Data} player2Data={player2Data} />
-      </div>
-      <div className="App">
-        <h2>Kamper spilt mot hverandre</h2>
+        <h1>HEAD TO HEAD</h1>
+        <div className="App">
+        
         <HeadToHead />
       </div>
+        <h2>Rankingpoeng</h2>
+        <PlayerChart player1Data={player1Data} player2Data={player2Data} />
+        <PlayerTable player1Data={player1Data} player2Data={player2Data} />
+        
+      </div>
+      
     </>
   );
 };

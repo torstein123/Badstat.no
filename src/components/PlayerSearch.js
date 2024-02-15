@@ -1,170 +1,89 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import data from '../combined_rankings.json';
 import './PlayerSearch.css';
-
-const useDebounce = (value, delay) => {
-  const [debouncedValue, setDebouncedValue] = useState(value);
-
-  useEffect(() => {
-    const handler = setTimeout(() => {
-      setDebouncedValue(value);
-    }, delay);
-
-    return () => {
-      clearTimeout(handler);
-    };
-  }, [value]);
-
-  return debouncedValue;
-};
+import AsyncSelect from 'react-select/async';
 
 const PlayerSearch = () => {
-  const [player1, setPlayer1] = useState('');
-  const [suggestions1, setSuggestions1] = useState([]);
-  const [selectedIndex1, setSelectedIndex1] = useState(-1);
-  const [player2, setPlayer2] = useState('');
-  const [suggestions2, setSuggestions2] = useState([]);
-  const [selectedIndex2, setSelectedIndex2] = useState(-1);
-
-  const debouncedSearchTerm1 = useDebounce(player1, 300);
-  const debouncedSearchTerm2 = useDebounce(player2, 300);
-
+  const [player1, setPlayer1] = useState(null);
+  const [player2, setPlayer2] = useState(null);
   const navigate = useNavigate();
-  const wrapperRef1 = useRef(null);
-  const wrapperRef2 = useRef(null);
+
+  // State to store the current window width
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
   useEffect(() => {
-    if (debouncedSearchTerm1) {
-      handleSearch1(debouncedSearchTerm1);
-    }
-  }, [debouncedSearchTerm1]);
-
-  useEffect(() => {
-    if (debouncedSearchTerm2) {
-      handleSearch2(debouncedSearchTerm2);
-    }
-  }, [debouncedSearchTerm2]);
-
-  useEffect(() => {
-    document.addEventListener('mousedown', handleClickOutside1);
-    document.addEventListener('mousedown', handleClickOutside2);
-    return () => {
-      document.removeEventListener('mousedown', handleClickOutside1);
-      document.removeEventListener('mousedown', handleClickOutside2);
+    const handleResize = () => {
+      setWindowWidth(window.innerWidth);
     };
+    window.addEventListener('resize', handleResize);
+    // Cleanup the event listener on component unmount
+    return () => window.removeEventListener('resize', handleResize);
   }, []);
 
-  const handleSearch1 = (term) => {
-    const filteredData = data.filter(player => player.Navn.toLowerCase().startsWith(term.toLowerCase()));
-    if (filteredData.length > 0) {
-      setSuggestions1(filteredData.slice(0, 5));
-    } else {
-      setSuggestions1([]);
-    }
-    setPlayer1(term);
+  const filterPlayers = (inputValue) => {
+    return data.filter(player =>
+      player.Navn.toLowerCase().includes(inputValue.toLowerCase())
+    ).map(player => ({ value: player.Navn, label: player.Navn }));
   };
 
-  const handleSearch2 = (term) => {
-    const filteredData = data.filter(player => player.Navn.toLowerCase().startsWith(term.toLowerCase()));
-    if (filteredData.length > 0) {
-      setSuggestions2(filteredData.slice(0, 5));
-    } else {
-      setSuggestions2([]);
-    }
-    setPlayer2(term);
+  const loadOptions = (inputValue, callback) => {
+    setTimeout(() => {
+      callback(filterPlayers(inputValue));
+    }, 300);
+  };
+
+  const handleChange1 = (selectedOption) => {
+    setPlayer1(selectedOption);
+  };
+
+  const handleChange2 = (selectedOption) => {
+    setPlayer2(selectedOption);
   };
 
   const handleCompare = () => {
     if (player1 && player2) {
-      navigate(`/compare/${encodeURIComponent(player1)}/${encodeURIComponent(player2)}`);
+      navigate(`/compare/${encodeURIComponent(player1.value)}/${encodeURIComponent(player2.value)}`);
     }
   };
 
-  const handleClickOutside1 = event => {
-    if (wrapperRef1.current && !wrapperRef1.current.contains(event.target)) {
-      setSuggestions1([]);
-    }
-  };
-
-  const handleClickOutside2 = event => {
-    if (wrapperRef2.current && !wrapperRef2.current.contains(event.target)) {
-      setSuggestions2([]);
-    }
-  };
-
-  const handleSuggestionClick1 = (suggestion) => {
-    setPlayer1(suggestion.Navn);
-    setSuggestions1([]);
-  };
-
-  const handleSuggestionClick2 = (suggestion) => {
-    setPlayer2(suggestion.Navn);
-    setSuggestions2([]);
-  };
-
-  const handleKeyDown1 = (e) => {
-    if (e.keyCode === 38 && selectedIndex1 > 0) {
-      setSelectedIndex1(selectedIndex1 - 1);
-    } else if (e.keyCode === 40 && selectedIndex1 < suggestions1.length - 1) {
-      setSelectedIndex1(selectedIndex1 + 1);
-    } else if (e.keyCode === 13 && selectedIndex1 !== -1) {
-      setPlayer1(suggestions1[selectedIndex1].Navn);
-      setSuggestions1([]);
-      setSelectedIndex1(-1);
-    }
-  };
-
-  const handleKeyDown2 = (e) => {
-    if (e.keyCode === 38 && selectedIndex2 > 0) {
-      setSelectedIndex2(selectedIndex2 - 1);
-    } else if (e.keyCode === 40 && selectedIndex2 < suggestions2.length - 1) {
-      setSelectedIndex2(selectedIndex2 + 1);
-    } else if (e.keyCode === 13 && selectedIndex2 !== -1) {
-      setPlayer2(suggestions2[selectedIndex2].Navn);
-      setSuggestions2([]);
-      setSelectedIndex2(-1);
-    }
+  // Update customStyles with conditional logic based on windowWidth
+  const customStyles = {
+    control: (base) => ({
+      ...base,
+      cursor: 'text',
+      width: '100%', // Use 100% width for responsive design
+      minWidth: '300px',
+    }),
   };
 
   return (
-    <div>
-      <h1 className="header">Sammenligne to spillere (head to head)</h1>
+    <div className="headerandinput">
       <div className="input-container">
-        <div className="suggestion-container" ref={wrapperRef1}>
-          <input
-            type="text"
-            placeholder="Spiller 1"
+        <h1 className="header">Head to head </h1>
+        <div className="suggestion-container">
+          <AsyncSelect
+            loadOptions={loadOptions}
+            onChange={handleChange1}
             value={player1}
-            onChange={(e) => { setPlayer1(e.target.value); handleSearch1(e.target.value); }}
-            onKeyDown={handleKeyDown1}
+            defaultOptions={[]}
+            cacheOptions
+            styles={customStyles}
+            placeholder="Spiller 1"
           />
-          {suggestions1.length > 0 && (
-            <ul className="no-bullets">
-              {suggestions1.map((suggestion, index) => (
-                <li key={index} onClick={() => handleSuggestionClick1(suggestion)}>{suggestion.Navn}</li>
-              ))}
-            </ul>
-          )}
-        </div>
-        <div className="suggestion-container" ref={wrapperRef2}>
-          <input
-            type="text"
-            placeholder="Spiller 2"
+          <h1 className="versus">VS</h1>
+          <AsyncSelect
+            loadOptions={loadOptions}
+            onChange={handleChange2}
             value={player2}
-            onChange={(e) => { setPlayer2(e.target.value); handleSearch2(e.target.value); }}
-            onKeyDown={handleKeyDown2}
+            defaultOptions={[]}
+            cacheOptions
+            styles={customStyles}
+            placeholder="Spiller 2"
           />
-          {suggestions2.length > 0 && (
-            <ul className="no-bullets">
-              {suggestions2.map((suggestion, index) => (
-                <li key={index} onClick={() => handleSuggestionClick2(suggestion)}>{suggestion.Navn}</li>
-              ))}
-            </ul>
-          )}
-        </div>
+          </div>
         <button className="compare-button" onClick={handleCompare}>
-         Sammenligne
+          Sammenligne
         </button>
       </div>
     </div>

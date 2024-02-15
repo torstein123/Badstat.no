@@ -1,0 +1,679 @@
+Plass.,Spiller-Id,Navn,Klasse,Poeng
+1,101103,"Fredrik Kristensen, Moss",E,800
+2,101992,"Sturla Flåten Jørgensen, Haugerud",E,728
+3,100010,"Jim Ronny Andersen, Kristiansand",E,704
+4,102905,"Carl Christian Mork, Asker",E,624
+5,106508,"Christian Rose Thode, Moss",E,620
+6,100729,"Jørgen Rosenlund, Moss",E,552
+7,100570,"Erik Rundle, Bygdø",E,512
+8,102012,"Kato Lambrecths, Stavanger",A,488
+9,101754,"Sondre Flåten Jørgensen, Karmøy",A,477
+10,108305,"Gergin Nedyalkov Angelov, Vestre Aker",A,456
+11,101075,"Jesper Kristensen, Moss",A,408
+12,102819,"Carl Christian Møller Jacobsen, Sandefjord",A,376
+12,105827,"Kenneth Larsen, Askøy",A,376
+14,102521,"Joel Collard, Vestre Aker",A,340
+15,100663,"Bård Storvik, Bærum",A,337
+16,107588,"Karel Eriksson, Sandefjord",A,329
+17,101187,"Carl Christian Hem, Sandefjord",A,324
+18,102860,"Toheed Ahmed Saeed, Frogner",A,310
+19,102646,"Tobias Krømke, Sandefjord",A,309
+20,101270,"Jonas Christensen, Frogner",A,300
+21,100664,"Geir Storvik, Bærum",A,284
+22,102611,"Vegard Rikheim, Frogner",A,265
+23,103510,"Jan Jacobsen, Bygdø",A,261
+24,101688,"Andre Høidebraaten, Moss",A,257
+25,100540,"Pål Endre Pedersen, Haugerud",A,249
+26,102711,"Gjermund Hagen, Stavanger",A,244
+27,101649,"Åsmund Oma, NTNUI",A,228
+28,100029,"Sverre Bergland sr, Bygdø",A,220
+29,102165,"Torstein Moe , Grong",A,214
+30,100411,"Magnus Christensen, Frogner",A,208
+31,103542,"Trond Mære, Verdal",A,200
+32,102161,"Tommy Helander, Askim",A,190
+33,101358,"Petter Svendsen, Trondheim",A,186
+34,103158,"Matius Wijaya, Moss",A,172
+35,105938,"Ole Martin Leirvåg, Kristiansand",A,167
+36,106065,"Ram Kumar, Haugerud",A,158
+37,100773,"Karl Ødegård, Bergen",A,156
+38,101914,"Thomas Pedersen, Ålesund",A,154
+39,105891,"Carlo Alonzo Agustin, Mandal",A,152
+40,100194,"Bjørn Hamang, Bærum",A,150
+41,100189,"Sigve Hallager, Grong",B,140
+42,101091,"Lars Valentin, Ålesund",B,138
+43,100084,"Rune Oterhals, Trondheim",B,134
+44,105465,"Benjamin Falck, Verdal",B,126
+45,101031,"Tormod Thorp, Moss",B,124
+45,101060,"Edvard Rosenberg, Sandefjord",B,124
+47,103109,"Rolf Ove Karlsen, Verdal",B,122
+47,105802,"Jiawen Shi, Bærum",B,122
+49,101106,"Thomas Berge, Bergen",B,120
+50,106514,"Dusan Nikolic, Djerv",B,118
+51,106301,"Roar Natvig, Verdal",B,116
+52,103917,"Ole Herman Imset, Sandefjord",B,112
+52,100310,"Fredrik Lian, Norborg",B,112
+52,103915,"Hans Andreas Karlsen, Hammerfest",B,112
+55,104903,"Ke Xie, Vestre Aker",B,110
+56,104600,"Christoffer Ripegutu, NTNUI",B,106
+56,103971,"Nikolay Magnus Avenstroup, Kristiansand",B,106
+58,102709,"Arild Mevatne, Bergen",B,104
+59,104306,"Dimiter Ivanov, Asker",B,102
+59,100677,"Robert Sulebakk, Ålesund",B,102
+61,105509,"Keveen Kumar Balasingam, Sotra",B,100
+62,109154,"Christoph Lindner, Vestre Aker",B,99
+63,101472,"Eirik Paulsen, Stavanger",B,98
+64,101915,"Håkon Haukebøe, Haugerud",B,94
+65,103599,"Kasper Lyfjell, Frogner",B,88
+66,105519,"Petter Polden, Sotra",B,86
+67,104510,"Markus Barth, Bergen",B,84
+68,100447,"Kim-Andre Moen, Fredrikstad BK",B,82
+68,100143,"Noralf Gamlem, Norborg",B,82
+70,101566,"Henrik Smittil Høksnes, Sandefjord",B,81
+71,106731,"Sindre Fritzner, Fredrikstad BK",B,80
+72,108725,"Beda Büchel, NTNUI",B,78
+72,101363,"Borgar Hindrum, Leksvik",B,78
+74,102060,"Kumaran Dhakshan Moorthy, Djerv",B,76
+74,104643,"Simen Lexander, Askøy",B,76
+74,105227,"Daniel Bjørklund, Bærum",B,76
+77,105079,"Christoffer Hamnes, Sandefjord",B,74
+77,100139,"Per Ivar Furholm, Norborg",B,74
+79,105065,"Dennis Andersen Moe, Sotra",B,72
+80,100534,"Robin Kruksve Krux, Rissa",B,70
+80,101533,"Jens Asmund Solheim, Rissa",B,70
+82,101280,"Mats Lervåg, Bergen",B,68
+82,104312,"Geir Omdal, Bergen",B,68
+82,105246,"Hans Ravnanger Sæle, Sotra",B,68
+85,101866,"Darren Michael Aron White, Bergen",B,64
+85,103892,"Hairi Bin Muhamad, Stord",B,64
+85,104162,"Håkon Synnes Ytreland, Karmøy",B,64
+85,103085,"Eskil Ljungquist, NTNUI",B,64
+89,100911,"Vegard Tømmerås, Grong",B,62
+90,101997,"Henning Skaug, Horten",B,61
+91,100661,"Tor Stenvaag, Ålesund",B,60
+91,102932,"Mads Marum, Kristiansand",B,60
+93,100322,"Arnt-Helge Karlsen, Stavanger",B,58
+93,101867,"Ola Gunnes, Frogner",B,58
+93,105722,"Vinoth Kumar Balasingam, Bergen",B,58
+96,101369,"Marius Røed, Vestre Aker",B,57
+97,101194,"Ole Andreas Hansen, Vestre Aker",B,56
+97,107348,"Jørn Grane, Askøy",B,56
+97,100948,"Kim Christensen, Frogner",B,56
+97,107686,"Thomas Larsen, Fredrikstad BK",B,56
+97,106304,"Pål Joachim Eide, Bærum",B,56
+97,108592,"Yuen Chong Chim, Djerv",B,56
+103,104247,"Anders Haugland, Karmøy",B,54
+104,109156,"Stig Arve H. Abrahamsen, Imås IL",B,52
+105,108854,"Arvid Vedøy, Karmøy",B,50
+105,105224,"Benjamin Sixten Nordén, Moss",B,50
+107,107454,"Kristoffer Robin Olsen, Sandefjord",C,48
+107,103175,"Lars Erik Karlsen, Verdal",C,48
+107,102291,"Anders Leirud, Frogner",C,48
+110,106952,"Oleg Tsynkalovskiy, Djerv",C,47
+111,104479,"Kjetil Ragde, Stord",C,45
+111,108285,"Hendrik Rytberg, Kvinnherad",C,45
+111,105918,"Joseph Martin Malaiamaan, Bergen",C,45
+111,102897,"Erlend Kruksve, Bergen",C,45
+115,107373,"Kjell Fors, Sverige",C,44
+116,108125,"Andrei Zhulnov, Russland",C,42
+116,107097,"Haydar-Ali Newrosi, Djerv",C,42
+116,100227,"Arne Kristian Helgestad, Frogner",C,42
+119,108084,"Mansoor Hasan, Vestre Aker",C,39
+120,100650,"Odd Helge Gåsbakk, Grong",C,38
+121,108842,"Kolbein Inge Kolbeinsen, Haugesund",C,37
+121,103508,"Taro Mukae, Bygdø",C,37
+123,103665,"Sigbjørn Honve, Bergen",C,36
+123,101976,"Edvin Marthinussen, Norborg",C,36
+123,105710,"Roman Malamant, Vestre Aker",C,36
+126,102786,"Alf Asklund, Frogner",C,35
+126,104249,"Ole Henrik Lund, Bærum",C,35
+128,102524,"Torstein Monsen, Hadsel",C,34
+128,108779,"Anders Balle-Petersen, Kristiansand",C,34
+128,101255,"Fredrik Stanghov, NTNUI",C,34
+131,100233,"Knut Hellum, Horten",C,33
+132,104809,"Vebjørn Rønne, Leksvik",C,32
+132,106242,"Bjørn Halvfstad, Haugerud",C,32
+132,104883,"Arild Hagen, Frogner",C,32
+132,102332,"Sverre Andreas Helland, Grong",C,32
+132,104165,"Glenn Fylling, Ålesund",C,32
+132,100016,"Stian Askerød, Frogner",C,32
+132,103622,"Kjetill Gunnarson, Vestre Aker",C,32
+132,109346,"Ivan Trakov, Moss",C,32
+140,100514,"Andre Olsen Aadland, Fitjar",C,31
+140,101415,"Olav Vatna Selvåg, Stord",C,31
+140,105260,"Kim Andre Amundsen, Berlevåg",C,31
+140,108855,"David Vea, Karmøy",C,31
+144,106688,"Vladimir Nesterov, Russland",C,30
+144,104952,"Erlend Engesæter Bognøy, Sotra",C,30
+144,102180,"Dag Esvall, Frogner",C,30
+144,102773,"Tom Brovold, Hammerfest",C,30
+148,102488,"Lasse Nyheim, Tromsø",C,28
+148,100804,"Helge Økland, Askøy",C,28
+148,107482,"Swadesh Patra, Vestre Aker",C,28
+148,104749,"Trond Krogsæter, Karmøy",C,28
+148,107800,"Yahya Januarilham, Stavanger",C,28
+148,100353,"Tor-Egil Kristensen, Moss",C,28
+148,109126,"Egert Vasar, Kvinnherad",C,28
+155,104504,"Ferenc Macsali, Djerv",C,27
+156,105440,"Sander Espeseth, Norborg",C,26
+157,104383,"Kim Hornbæk Sørensen, Vestre Aker",C,25
+157,107503,"Aleksej Roman Kustrin Iversen , Rubbestadneset",C,25
+159,100885,"Freddy Guldbjørnsen, Mehamn",C,24
+159,102574,"Torleiv Hov Grønbech, Herøy",C,24
+159,101631,"Ivar Søgaard, Asker",C,24
+159,103201,"Dan Frøyd, Haugesund",C,24
+159,108715,"Marton Gundersen, Stavanger",C,24
+159,108292,"Anders Eimstad, Askøy",C,24
+159,100956,"Roger Sandbakk, Sotra",C,24
+166,106807,"Trygve Ellingsen, Kristiansand",C,23
+166,105119,"Steinar Fornes, Verdal",C,23
+166,104742,"Harald Søvik, Stord",C,23
+169,107250,"Tommy Johansen, Stavanger",C,22
+169,108843,"Petur Hemmingsen, NTNUI",C,22
+169,104415,"Olav Andreasson, Haugerud",C,22
+169,104658,"Kjetil Vestly Larsen, Sola",C,22
+169,104519,"Olve Nes Kløvning, Bergen",C,22
+169,105794,"Jan Malamant, Vestre Aker",C,22
+169,104579,"Fredrik Skånøy, Rissa",C,22
+169,101803,"Tore Nymoen, NTNUI",C,22
+169,101143,"Rune Fartum, Haugerud",C,22
+169,104323,"Kim Hong, Haugerud",C,22
+169,100363,"Sigbjørn Krunenes, Frogner",C,22
+180,104257,"Dag Storli, Vestre Aker",C,21
+180,102872,"Arild Hammeren, Berlevåg",C,21
+180,107095,"Marius Foshaug, Djerv",C,21
+180,106109,"Erik Moe, Sotra",C,21
+180,106613,"George Rajkumar, Sotra",C,21
+180,100833,"Rene Dahle, Sotra",C,21
+180,104562,"Svend Helge Hegseth, Orkanger",C,21
+187,100697,"Håvard Soløy, Nesna",C,20
+187,107901,"Frode Kristoffersen, Askøy",C,20
+187,108724,"Xiaodong Chen, NTNUI",C,20
+187,108826,"Espen Søvik, Bergen",C,20
+187,101851,"Egil Johansen, NTNUI",C,20
+187,102003,"Bjørn Teistung, Fredrikstad BK",C,20
+193,103833,"Andreas Halle, BSI",D,18
+193,103429,"Markus Haukebøe, Oppegård IL",D,18
+193,102984,"Andreas Gjerde, Sotra",D,18
+193,102500,"Irving Jensen, Tromsø",D,18
+193,105663,"Stian Otten, Stavanger",D,18
+193,104319,"Germain Schmid, Sunndal",D,18
+193,106875,"Aleksander Berg, NTNUI",D,18
+193,106876,"Kristoffer Brandsås Berg, NTNUI",D,18
+193,105721,"Bharath Kumar Balasingam, Bergen",D,18
+193,106241,"Sondre Sefland, OSI",D,18
+193,106090,"Arild Clausen, Bergen",D,18
+204,105940,"Erik Sværen, Djerv",D,17
+204,104929,"Rune Voreland, Haugesund",D,17
+204,104256,"Simen Eggøy Olson, Tromsø",D,17
+204,108185,"Siby Abraham, Stavanger",D,17
+208,104467,"Ørjan Emil Strand, Ålesund",D,16
+208,103391,"Morten Olsen, Berlevåg",D,16
+208,104019,"Casper Cappelen, Stavanger",D,16
+208,102336,"Reidar Bråten, Nesna",D,16
+208,100996,"Arben Holstad, Vestre Aker",D,16
+208,109155,"Tobias Rolf, Vestre Aker",D,16
+208,108046,"Kjell Tore Brakedal, Rubbestadneset",D,16
+215,107549,"Kevin Abraham, Stavanger",D,15
+215,105240,"Ådne Strøm, Kolvereid",D,15
+217,102448,"Jørgen Wold, Grong",D,14
+217,105871,"Harsharn Tathgar, Vestre Aker",D,14
+217,108837,"Bjarke Smith, Stavanger",D,14
+217,108675,"Thorvald Floden, Frogner",D,14
+217,103362,"Ivan Hegseth, Orkanger",D,14
+217,106872,"Håkon Andreas Hustoft, Stavanger",D,14
+217,100831,"Dan Frede Dahl, Rana",D,14
+217,105120,"Vincentius Rumawas, Asker",D,14
+217,100594,"Kent Roger Sandvær, Herøy",D,14
+217,106033,"Arild Moen, Bærum",D,14
+217,107069,"Tore A. Arntzen, Kvinnherad",D,14
+217,107317,"Dirk Olivie, Vestre Aker",D,14
+217,100903,"Jarle Grefslie, Horten",D,14
+217,108047,"Kjell Oscar Stokka, Rubbestadneset",D,14
+217,101865,"Ole Kamlund, Bergen",D,14
+217,102168,"Sondre Løvold, Klæbu",D,14
+217,102789,"Staale J. Hultgren, Ullevål",D,14
+217,102518,"Viggo Lian, Leksvik",D,14
+217,103482,"Kent Nyheim, Tromsø",D,14
+217,103016,"André Vinnem Fosse, Sotra",D,14
+217,101769,"Anders Langeland, Stord",D,14
+217,102816,"Magnus Berg, Frogner",D,14
+217,106453,"Christian Asbjørnsen, Ålesund",D,14
+217,107311,"Bernt Pallesen, Stavanger",D,14
+241,100951,"Jack Oterhals, Bergen",D,13
+241,101318,"Kim Steve Nystad, Båtsfjord",D,13
+241,100439,"Christoffer Hveding, Mehamn",D,13
+241,104935,"Iver Aalberg, Leksvik",D,13
+241,106577,"Bjørn Stople, Karmøy",D,13
+241,106614,"Thomas Midtskog, Stavanger",D,13
+241,105138,"Paul Witt, Asker",D,13
+248,105161,"Martin Grøtterød, Sandefjord",D,12
+248,108710,"Cyril Portugues, Tromsø",D,12
+248,100027,"Terje Berger, Bergen",D,12
+248,108308,"Marek Kwiatkowski, Tana",D,12
+248,101249,"Luis Anmarkrud, Frogner",D,12
+248,106814,"Simon Petersen, Danmark",D,12
+248,104384,"Anders Åge Naglestad, Vestre Aker",D,12
+248,104385,"Joseph Brendan Kennedy, Vestre Aker",D,12
+248,104973,"Erlend Lade Støylen, Ålesund",D,12
+248,100740,"Tommy Ulveraker, Ålesund",D,12
+248,101299,"Anders Aasheim, Sandefjord",D,12
+248,102480,"Tony Yang, NTNUI",D,12
+248,107404,"Trond Kalhagen, Askim",D,12
+248,109341,"Javier Ricardo Bish Cegarra, Bergen",D,12
+262,100923,"Bjørn Rakstang, Hamar",D,11
+262,105915,"Rune Bratland, Sotra",D,11
+262,105587,"Magnus Eidissen, Nesna",D,11
+262,105590,"Anders Grande, Leksvik",D,11
+262,105285,"Jarmo Finnestrand, Berlevåg",D,11
+262,106793,"Evgeny Kulakov, Russland",D,11
+262,104337,"Bjørn Idar Friisenfeldt, Sola",D,11
+269,104400,"Lars Nonboe Andersen, Horten",D,10
+269,102348,"Tom Storgaard, Frogner",D,10
+269,108594,"Kjetil Norheim, Sædalen",D,10
+269,107855,"Erik Winger, Orkanger",D,10
+269,108141,"Fery Simbolon, Sola",D,10
+269,105423,"Asbjørn Heggelund, Hammerfest",D,10
+269,105004,"Trond Helgøy, Stavanger",D,10
+269,105066,"Iver Rolvsjord, NTNUI",D,10
+269,106160,"Marco Torgersen, Båtsfjord",D,10
+269,101297,"Arne Martin Hagen, Stavanger",D,10
+269,102256,"Pankaj Bhart, Hadsel",D,10
+269,104327,"Vidar Lønn, Frogner",D,10
+269,103876,"Jone Sætenes, Djerv",D,10
+269,108634,"Frank Heggen, Asker",D,10
+283,108365,"Kari Ylivirta, Sverige",D,9
+283,100014,"Geir Arnevik, Grimstad",D,9
+283,102747,"Terje Jacobsen, Stavanger",D,9
+283,106108,"Jørn Inge Bognøy, Sotra",D,9
+283,107353,"Simon Vedaa, Bergen",D,9
+283,106771,"Thomas Sjursen, Karmøy",D,9
+283,105808,"Heine Økland Kolltveit, Sotra",D,9
+290,106813,"Jonathan Bülow-Olsen, Danmark",D,8
+290,104937,"Danila Gataullin, Kristiansand",D,8
+290,100683,"Trond Atle Syvertsen, Mandal",D,8
+290,108921,"Dixon Dalawampu, Stavanger",D,8
+290,105593,"Markus Heggheim, Herøy",D,8
+290,105516,"Berent Barth, Bergen",D,8
+290,105527,"Svein Hogne Eikeland, Djerv",D,8
+290,105654,"Kurt Magne Kvernøy, Rubbestadneset",D,8
+290,104420,"Jon Inge Tilset, Vestre Aker",D,8
+290,105234,"Robert Sieler, Haugerud",D,8
+290,100243,"Christian Hervard, Bærum",D,8
+290,102559,"Ketil Olsen, Bodø",D,8
+290,104361,"Henrik Skjønhaug, Frogner",D,8
+290,100415,"Odd Magne Lund, Grong",D,8
+290,104189,"Mats Nilsen, Ålesund",D,8
+290,101486,"Stian Størseth, Kragerø",D,8
+290,101895,"Erik Måøy, Kolvereid",D,8
+290,108148,"Roger Bjørnstad, Nesodden",D,8
+290,101203,"Marius Sørby, Sandefjord",D,8
+290,107505,"Morten Amundsen, Rubbestadneset",D,8
+290,107506,"Cato Fjellheim, Rubbestadneset",D,8
+290,106198,"Sven Arild Strøm, Kolvereid",D,8
+290,106260,"Audun Christoffer Adolfson, Sotra",D,8
+290,102261,"Petter Karlsen Wåltorp, Djerv",D,8
+290,101438,"Are Eidissen, Djerv",D,8
+315,109277,"Claes Gunnarson, Bærum",D,7
+315,108743,"Eric Isupradipto, Stavanger",D,7
+315,100954,"Joacim Sørensen, Rissa",D,7
+315,103747,"Surodeep Roy, Haugerud",D,7
+315,103164,"Zhenggang Xu, Frogner",D,7
+315,102788,"Niels Gunnar Juel, Ullevål",D,7
+315,105620,"Vegar Næss, Hammerfest",D,7
+315,106434,"Anders Thue, Ullevål",D,7
+315,105360,"Even Langås Kvam, Orkanger",D,7
+315,106086,"Puneet Gupta, Haugerud",D,7
+315,106654,"Nikolai Korostel, Kirkenes",D,7
+326,106779,"Gert Buhl, Stord",D,6
+326,107804,"Anders Bellesen, Sola",D,6
+326,100140,"Emil Pettersen, Gullvikmoen",D,6
+326,108999,"Andreas Nordhøy, Grong",D,6
+326,106296,"Morten Mowinckel, Bergen",D,6
+326,106149,"Alf Ivar Torskangerpoll Johnsen, Tana",D,6
+326,100665,"Tor-Kristian Storvik, Bodø",D,6
+326,102679,"Simen Solberg, Grong",D,6
+326,102498,"Rune Enoksen, Norborg",D,6
+326,100893,"Stian Sveberg, Moss",D,6
+326,100971,"Freddy Øien, Kirkenes",D,6
+326,107895,"Tor Ragnar Johansen, Hammerfest",D,6
+326,108025,"Robert  Karlsen, Rissa",D,6
+326,109027,"Mikko Ojala, Vestre Aker",D,6
+326,101582,"Daniel Olsen, Båtsfjord",D,6
+341,107928,"Odd Erik Stokkaune, Rissa",D,5
+341,107516,"Kennet Hellesund Ellingsen, Bergen",D,5
+341,103872,"Oddvar Mikalsen, Kolvereid",D,5
+341,104294,"Torgeir Lenning, Herøy",D,5
+341,105591,"Børge Håland, Herøy",D,5
+341,102501,"Roar Larsen, Tromsø",D,5
+347,108274,"Tore André Helgemo, Orkanger",D,4
+347,103824,"Bengt Drageset, Bergen",D,4
+347,108963,"Roald Heie, Sædalen",D,4
+347,108923,"Ashutosh  Dubey, Stavanger",D,4
+347,100986,"Hans Bråten, Frogner",D,4
+347,108823,"Vegard Røstad, Berlevåg",D,4
+347,105724,"Håvard Haugen, Sotra",D,4
+347,100707,"Andreas Abrahamsen, Otra IL",D,4
+347,100551,"Arild Rasmussen, Askøy",D,4
+347,107612,"Alexander Krasnov, Russland",D,4
+347,107213,"Andreas Lønes, NTNUI",D,4
+347,101097,"Keith Debnam, Asker",D,4
+347,106854,"Even Heimdal, Leksvik",D,4
+347,106991,"Vegard Strand, Ålesund",D,4
+347,100444,"Jørgen Kristiansen, Djerv",D,4
+347,104683,"Man Nguyen, Haugerud",D,4
+347,107896,"Nelson Thambiraj, Djerv",D,4
+347,109310,"Andrey Degtyarev, Russland",D,4
+347,108809,"Thøger Espeseth, Norborg",D,4
+347,106340,"Marius Krokå, Rana",D,4
+347,104751,"Ole Salomonsen, Hammerfest",D,4
+347,100238,"Arve Henriksen, Frogner",D,4
+369,104255,"Nils Vidar Fredø Olson, Horten",D,3
+369,104945,"Michael White, Bergen",D,3
+369,108095,"Helge Vedaa, Bergen",D,3
+369,107428,"Anders Lindberg, Sverige",D,3
+369,107760,"Andre Korsgaten, Leksvik",D,3
+369,102670,"Tore Hånes, Grong",D,3
+369,102526,"Øystein Telle, Sotra",D,3
+369,105332,"Daniel Sivertsen, Berlevåg",D,3
+369,105266,"Joseph Nguyen, Djerv",D,3
+369,104724,"Frode Wold, Grong",D,3
+369,100716,"Tore Hansen, Nesna",D,3
+369,108853,"Håvard Buvik , Gullvikmoen",D,3
+369,109052,"Ivan Sundt, Karmøy",D,3
+369,108568,"Morten Hanssen, Herøy",D,3
+383,101315,"Knut Liland, Kristiansand",D,2
+383,108817,"Sondre Olsen Bakka, Berlevåg",D,2
+383,102980,"Bjørn Are Hansen, Herøy",D,2
+383,102681,"Morten Solberg, Grong",D,2
+383,107079,"Joakim Aurstad Rennan, Verdal",D,2
+383,106791,"Egor Obukhov, Russland",D,2
+383,106942,"Kristian Herringbotn, Leksvik",D,2
+383,105754,"Tor Morten Aalberg, Leksvik",D,2
+383,100769,"Geir Vik, Pillarguri",D,2
+383,106506,"Fredrik Pedersen, Tromsø",D,2
+383,102671,"Geir Hildrum, Grong",D,2
+383,100200,"Helge Hansen, Kolvereid",D,2
+383,102159,"Aleksander Martinussen, Båtsfjord",D,2
+383,102240,"Christopher Johansen, Nesna",D,2
+383,103819,"Espen Ditmansen, Ullevål",D,2
+383,107172,"Torbjörn Sörlin, Sverige",D,2
+383,108129,"Vasilii Slepukhin, Russland",D,2
+383,101487,"Helge Eliassen, Kragerø",D,2
+383,101440,"Svenn Jostein Bergin, Grong",D,2
+383,108601,"Glenn Andre Gunnestad, Kolvereid",D,2
+383,101445,"Marius Olsen, Verdal",D,2
+383,103987,"Jørgen Olsen, Verdal",D,2
+383,109252,"Tobias Brosjø, Nesna",D,2
+383,100756,"Lars Vanvikmyr, Trondheim",D,2
+383,108650,"Adrian Olsen-Loe Pedersen, Tromsø",D,2
+383,109312,"Dmitry Kofanov, Russland",D,2
+383,103877,"Roy Nilsen, Djerv",D,2
+383,106337,"Tobias Myhre, Sandefjord",D,2
+383,107168,"Jesper Lagerström, Sverige",D,2
+383,107608,"Tarjei Bruaas, Bodø",D,2
+383,102948,"Tommy Johnsen, Rana",D,2
+383,100701,"Per Gunnar Søvik, Norborg",D,2
+383,106035,"Chandra Kumar Parasmothy, Bergen",D,2
+416,107766,"Jan Aage Nyborg, Orkanger",D,1
+416,108991,"Tore Suul Grande, Verdal",D,1
+416,107664,"Stian Berg, Klæbu",D,1
+416,109116,"Jomar Tømmerdal, Leksvik",D,1
+416,109174,"Tobias Foyn Wahlqvist, Nøtterøy",D,1
+416,109285,"Roger  jørgensen, Rana",D,1
+416,105607,"Mathias Loeng Ryan, Grong",D,1
+416,103105,"Arne Solheim, Leksvik",D,1
+416,108887,"sølve johan eliassen, Rana",D,1
+416,108903,"Remi André Martinsen, Trondheim",D,1
+416,107098,"Fredrik Vabø Helset, Sotra",D,1
+416,109085,"Miroslav Strbac, Hammerfest",D,1
+416,107365,"Patric Bäckström, Sverige",D,1
+416,108165,"Tommy Andre Børresen Bradahl, Pillarguri",D,1
+416,101111,"Inge Rosset, Grong",D,1
+416,107934,"Dominik Maass, Hammerfest",D,1
+416,106329,"Niklas Johansen, Herøy",D,1
+416,105851,"Ståle Åbotsvik, Tromsø",D,1
+416,104775,"Gintars Rundelis, Tromsø",D,1
+416,100547,"Stian Prestø, Herøy",D,1
+416,107551,"Andreas Garrido Lund-olsen, Stord",D,1
+416,107386,"Oleg Podkatov, Russland",D,1
+416,106864,"Tor Atle Kleven, Klæbu",D,1
+416,106933,"Petur Benedikt Juliusson, Sædalen",D,1
+416,105198,"Thanakrit sæther, Rana",D,1
+416,106762,"Sverre Svensen, Haugesund",D,1
+416,102228,"Vidar Knoff, Rørvik",D,1
+416,101001,"Geir Olsen, Kolvereid",D,1
+416,108617,"Valerii Chebotkov, Russland",D,1
+416,104411,"Jonas J Grande, Rissa",D,1
+446,100303,"Henrik B Johansen, Bygdø",,0
+446,100475,"Torfinn Nesset, Grimstad",,0
+446,108832,"Tommy Aleksandersen, Rubbestadneset",,0
+446,108851,"Ashis Kumar Patro, Haugerud",,0
+446,108627,"Marius Johansen, Bergen",,0
+446,103136,"Mikal Melhus Tøsse, Stavanger",,0
+446,105832,"Vegard Gran, Slagen",,0
+446,106375,"Anders Solås, Slagen",,0
+446,106831,"Ramapiran Amirthalingam, Bergen",,0
+446,106512,"Andreas Bull, Stavanger",,0
+446,106517,"Nicolai Guldbech, Stavanger",,0
+446,108713,"Kurt Høyland, Stavanger",,0
+446,108841,"Anders Fredrik Mattias Nilsson, Haugesund",,0
+446,108922,"Yahya Januarilham, Stavanger",,0
+446,106998,"Paul Kapustin, BSI",,0
+446,107007,"Venkata Satheesh Somisetty, Ullevål",,0
+446,107012,"Øyvind Fjeld, Sotra",,0
+446,107018,"Stig Åke Holm, Hammerfest",,0
+446,108590,"Finn Moen, Frogner",,0
+446,107455,"Sebastian Høyland Wahl, Stavanger",,0
+446,100849,"Tore Sperre, Ålesund",,0
+446,106871,"Dag Magne Ulvang, Bergen",,0
+446,106805,"Shahzad Alan Khan, Bærum",,0
+446,106828,"Anders Schwartzbach, Danmark",,0
+446,106833,"Sharun Amirthalingam, Bergen",,0
+446,106693,"Alexander Demyanchuk, Russland",,0
+446,105650,"Andre Valerij Stubben, Slagen",,0
+446,102741,"Espen Stenhaug, Stavanger",,0
+446,100536,"Kjetil Pedersen, Sola",,0
+446,100552,"Jan Rasmussen, Grimstad",,0
+446,100614,"Lars H Ersland, Haugerud",,0
+446,100642,"Harry Trones, Kolvereid",,0
+446,105380,"Anh Tai Huynh, Frankrike",,0
+446,105424,"Brage Hinberg Olsen, Pillarguri",,0
+446,105515,"Idar Kløvning, Bergen",,0
+446,100513,"Tommy H. Abrahamsen, Grimstad",,0
+446,100528,"Espen Hamstad, Leksvik",,0
+446,105151,"Kiran Nandedkar, Vestre Aker",,0
+446,100498,"Embret Nordseth, Haugerud",,0
+446,105180,"Knut-Alfred Haugland, NTNUI",,0
+446,105192,"Håkon Halnes, Haugerud",,0
+446,105225,"Dmitry Sherstnyakov, Vestre Aker",,0
+446,100468,"Bent Mørken, Nøtterøy",,0
+446,100471,"Nauman Majid, Haugerud",,0
+446,104896,"Stig Morterud, Kristiansand",,0
+446,104745,"Martin Brekke Hjellestad, Bergen",,0
+446,104755,"lars Bøthun, Ullevål",,0
+446,104770,"Sivert Nordfjæren, Pillarguri",,0
+446,105007,"Kjell Gunnar Johnsen, Berlevåg",,0
+446,100483,"Fredrik Jonsson Ruud, NTNUI",,0
+446,100488,"Håkon Jonsson Ruud, NTNUI",,0
+446,104470,"Erlend Dale, Ålesund",,0
+446,104511,"Hans Eirik Opsahl, Bergen",,0
+446,104413,"Wenyue Yu, OSI",,0
+446,104625,"Joakim Haugebo, Imås IL",,0
+446,104690,"Kristoffer Ulvang, Bergen",,0
+446,100712,"Allan Thorsen, Haugerud",,0
+446,100703,"Bjørn Roger Granhei, Sandnessjøen",,0
+446,105914,"John-Olav Hoddevik, Ullevål",,0
+446,105977,"Kenneth Bjørkås Johnsen, Båtsfjord",,0
+446,105989,"Vikram Kapoor, Haugerud",,0
+446,105990,"Surendra Kumar, Haugerud",,0
+446,106020,"Terje Løvseth, Klæbu",,0
+446,105723,"Håkon Johannessen, Sotra",,0
+446,100668,"Jostein Straume, Sotra",,0
+446,105636,"Espen Lyfjell, Frogner",,0
+446,106504,"Johannes Orri Olafsson, Sandefjord",,0
+446,106531,"Khai Duong, Askøy",,0
+446,106538,"Carl Emil Brasø, Kolvereid",,0
+446,106555,"Petter Daleng, Haugerud",,0
+446,106606,"Sondre Jo Øynes, Grimstad",,0
+446,106407,"mi, Asker",,0
+446,100764,"Per Vestli, Haugerud",,0
+446,106142,"Lars-Martin Mjånes, Sotra",,0
+446,106218,"Ole-Martin Sæthermoen, Frogner",,0
+446,106243,"Kenneth Sanglay, Haugerud",,0
+446,106110,"Haikal Zainal, Vestre Aker",,0
+446,106105,"Marius Waage Valø, Verdal",,0
+446,106034,"Dillip Kumar Balasingam, Bergen",,0
+446,106046,"Øyvind Steinsbø, OSI",,0
+446,108013,"Olav Førland, Djerv",,0
+446,108018,"Lars Terje Overrein, Stjørdal-blink Badminton",,0
+446,108043,"Ole Ketil Holbø, Trondheim",,0
+446,108049,"Geir Mordal, Haugerud",,0
+446,108061,"Morten Hansen, Herøy",,0
+446,108064,"Eirik Ådland  Eysturdal, Kvinnherad",,0
+446,108089,"Kristoffer Drage, Nesna",,0
+446,107416,"Sindre Flaten, Pillarguri",,0
+446,107907,"Alf Erik Pettersen, Herøy",,0
+446,107689,"Sigleif Steinsvåg, Karmøy",,0
+446,107710,"Baard-Harald Huseby, Frogner",,0
+446,107715,"Stian Fornes, Grong",,0
+446,107722,"Aleksei Kotelnikov, Russland",,0
+446,107725,"Ståle Henriksen, Tana",,0
+446,107762,"Kjetil Bruvik, Bergen",,0
+446,107763,"Jan-Erik Sandin, Sverige",,0
+446,107845,"Lasse Hafeld, Leksvik",,0
+446,107857,"Ole Martin Olsen, Fredrikstad BK",,0
+446,107876,"John Sausby, Frogner",,0
+446,107878,"Lars Thomas Bredland, Frogner",,0
+446,107883,"Erik Kristoffersen, Sædalen",,0
+446,107613,"Mikhail Budanov, Russland",,0
+446,107623,"Adam Cable, Bygdø",,0
+446,107680,"Shiyu Yan, Bergen",,0
+446,107519,"Rubab Ishmam, Bergen",,0
+446,107527,"Alexander  Kuzmenko, BSI",,0
+446,107528,"Joakim Andreassen, Tana",,0
+446,107533,"Patrik Semelius, Vestre Aker",,0
+446,107564,"Vegard Hellem, OSI",,0
+446,107574,"Fredrik Kyrö, Sverige",,0
+446,107112,"Morten Johnsen, Tana",,0
+446,107129,"Joakim Hauger, Drøbak",,0
+446,107152,"Frode Brønstad, Grong",,0
+446,107164,"Lei Yu, BSI",,0
+446,107167,"Robin Sörlin, Sverige",,0
+446,107302,"Jarko Tijssen, BSI",,0
+446,107326,"Richard Wasell, Haugerud",,0
+446,107349,"Per Steinar Bjelland, Kvinnherad",,0
+446,107369,"Peter Lindmark, Sverige",,0
+446,107372,"Rebecca Eliasson, Sverige",,0
+446,107433,"Roger Monsen, Asker",,0
+446,100922,"Terje Skauvik, Ålesund",,0
+446,107388,"Andrey Ermolenko, Russland",,0
+446,107390,"Suresh Kumar Krishnan, Djerv",,0
+446,107508,"Martin Franke, Bergen",,0
+446,107509,"Leon Wang, Bergen",,0
+446,107512,"Eric Gunnarsson, Vestre Aker",,0
+446,107476,"Tomasz Koryl, Hamar",,0
+446,107478,"Henning Waldeck, Askøy",,0
+446,107483,"Francis Jeckson Cuaresma, Vestre Aker",,0
+446,107491,"Bernt Bjørsvik, Kvinnherad",,0
+446,107492,"Rune Haugland, Kvinnherad",,0
+446,107501,"Jakub Krakowski, Haugerud",,0
+446,101116,"Robert Malo, Drammen",,0
+446,101120,"Waheed Ahmed Saeed, Haugerud",,0
+446,101123,"John Daae, Asker",,0
+446,101151,"Dag Johnstad, Hamar",,0
+446,101157,"Tajul Islam, Bergen",,0
+446,101167,"Einar Jevne, Fron",,0
+446,101201,"Andreas Halle, Sandefjord",,0
+446,101228,"Lars Rikheim Huus, Frogner",,0
+446,101009,"Ling Zhuang Zeng, Pillarguri",,0
+446,108286,"Erik J Duncan, Askøy",,0
+446,108335,"Jørn Sørjordet, Eiker BK",,0
+446,108345,"Bertil Andersson, Sverige",,0
+446,101064,"David Hsu, Haugerud",,0
+446,100069,"Erik Wåland, Tromsø",,0
+446,100065,"Pål Dahlsveen, Frogner",,0
+446,101048,"Sigve Paulsen, Stavanger",,0
+446,108130,"Nikolai Chizhov, Russland",,0
+446,108143,"Ammar Zainee, Haugerud",,0
+446,108157,"Kjetil  Steen-Hansen, Sædalen",,0
+446,108096,"Peter Karius, Bergen",,0
+446,108121,"Charly Berthod, Grimstad",,0
+446,100115,"Nikolai Svensson, Frogner",,0
+446,101515,"Brynjar Arnfinnsson, OSI",,0
+446,101551,"Audun Nystuen, Pillarguri",,0
+446,101273,"Sven Åge Birkeland, Djerv",,0
+446,101347,"Thomas Holdbakk, Kristiansand",,0
+446,101367,"Morten Oterhals, Bergen",,0
+446,101912,"Andreas Helland, Norborg",,0
+446,101860,"Anders Austnes, Kolvereid",,0
+446,101768,"Torben Thomsen, Drammen",,0
+446,101836,"Kenneth Gundersen, Sotra",,0
+446,101732,"Bjørn Floer, Kirkenes",,0
+446,101726,"Bård Hindrum, Leksvik",,0
+446,100365,"Preben S. Johannessen, Sandefjord",,0
+446,103748,"Manoj Misra, Haugerud",,0
+446,103697,"Andreas Stenhaug, Stavanger",,0
+446,103509,"Sebastian Dahl, Drøbak",,0
+446,103898,"Steinar Thorsen, Djerv",,0
+446,100390,"Øystein Larsen, Kristiansand",,0
+446,103940,"Hans-Christian Marthinsen, Sandefjord",,0
+446,104280,"Vemund Wennemo, Herøy",,0
+446,100413,"Jørn Lund, Moss",,0
+446,104227,"Alexander G. Aurstad, Grong",,0
+446,104188,"Kjetil Knutsen, Ålesund",,0
+446,100409,"Tom Christian Martinsen, Sandefjord",,0
+446,104253,"Tore Frogner, Bærum",,0
+446,103250,"Ulrik Bredland, Frogner",,0
+446,103421,"Meinte Jelsma, Askøy",,0
+446,103295,"Arne Simensen, Hamar",,0
+446,103475,"Simen Lian Hansen, Haugerud",,0
+446,103476,"Sandi Meholjic, Tromsøstudentenes IL",,0
+446,103479,"Bjørn Brækkan, Tromsø",,0
+446,103481,"Tommy Pedersen, Harstad",,0
+446,103645,"Jan Erik Beck, Moss",,0
+446,103017,"Tor Standnes, Askøy",,0
+446,103029,"Eivind Teigen, Pillarguri",,0
+446,100284,"Johannes Imset, Haugerud",,0
+446,103073,"Aleksander Drzewiecki, Haugerud",,0
+446,103099,"Kasper Voogt Arvesen, Bærum",,0
+446,103100,"Håkon Frogner Skår, Bærum",,0
+446,103138,"Håkon Skogland Halvorsen, NTNUI",,0
+446,103147,"Ronny Reinertsen, Kristiansand",,0
+446,102999,"Sander Moum, Grong",,0
+446,102947,"Morten Mediå, Nesna",,0
+446,102917,"Marius N. Hammeren, Berlevåg",,0
+446,102173,"Kjell Holdbakk, Klæbu",,0
+446,102158,"Yngve Espeseth, Kirkenes",,0
+446,102000,"Rishab Chawla, OSI",,0
+446,102324,"Xiao Kun Wang, OSI",,0
+446,102512,"Kjell Kvarmesbakk, Leksvik",,0
+446,102372,"Bård Thrane, Trondheim",,0
+446,102411,"Jørgen Hågensen, Herøy",,0
+446,102421,"Didrik Nagell Hansen, Stavanger",,0
+446,102423,"Sondre Børmark, Klæbu",,0
+446,102431,"Håkon Rørstad, Rissa",,0
+446,102438,"Peter Rønn Stensæth, Vestre Aker",,0
+446,100218,"Markus Harboe, Drøbak",,0
+446,102475,"Bengt Jonsson, Frogner",,0
+446,102642,"Torjus Flåtten, Frogner",,0
+446,102698,"Kjell Arne Selle, Stavanger",,0
+446,102699,"Keith Bryson, Stavanger",,0
+446,102702,"Kristoffer Holte Danielsen, Bergen",,0
+446,102525,"Magnus Haaland, BSI",,0
+446,102572,"Hans Fredrik Schei, Sandnessjøen",,0
+446,102612,"Mattias Xu, Frogner",,0
+446,102735,"Sondre Hagen, Stavanger",,0
+446,100261,"Andreas Holand, Sandefjord",,0
+446,102798,"Erik Langeland, Porsgrunn",,0
+446,102875,"Stian Tønnesen, Mehamn",,0
+446,102821,"Leif Are Hovden Eimind, Sandefjord",,0
+446,102822,"Robin Thorstensen, Moss",,0
+446,102828,"Martin Bangen Paulsen, Drøbak",,0
+446,101530,"Christian Fossmo, Haugerud",,0
+446,100211,"Erik Magnus Hauan, Bygdø",,0
+446,104741,"Sander Clausen, Bergen",,0
+446,108572,"Odin Hellebø, Askøy",,0
+446,108815,"Yanbing Cai, Bergen",,0
+446,106711,"Akisan Thiagaligam, Haugerud",,0
+446,102700,"Anders Nielsen, BSI",,0
+446,107440,"Torbjørn Eimstad, Askøy",,0

@@ -1,7 +1,7 @@
 import React from 'react';
+import './HeadToHeadStats.css';
 
-
-function HeadToHeadStats({ player1, player2, headToHeadMatches }) {
+function HeadToHeadStats({ player1, player2, headToHeadMatches, gameType }) {
     // Filter matches where player1 won
     const player1Wins = headToHeadMatches.filter(match => (
         match["Winner Player 1"] === player1 || match["Winner Player 2"] === player1
@@ -28,15 +28,27 @@ function HeadToHeadStats({ player1, player2, headToHeadMatches }) {
         playerWithMostWins = player2;
         mostWins = player2Wins;
     }
+    let gameTypeInfo;
+    if (gameType !== 'All') {
+        gameTypeInfo = <h3>Kategori: {gameType}</h3>;
+    } else {
+        gameTypeInfo = <h3>All Game Types</h3>;
+    }
 
+    // Wrap the returned JSX in a single parent div
     return (
-        <div className="stats-box">
-            <h3>Oppsummering</h3>
-            <p>{player1} har vunnet: {player1Wins} ({player1WinPercentage}%)</p>
-            <p>{player2} har vunnet: {player2Wins} ({player2WinPercentage}%)</p>
-            {playerWithMostWins && (
-                <p className="most-wins">{playerWithMostWins} har vunnet flest kamper ({mostWins}) stk</p>
-            )}
+        <div>
+            {gameTypeInfo}
+            <div className="win-lose-comparison-box">
+                <div className="player1-wins">
+                    <h2 style={{ color: '#5c5c5c' }}>{player1.split(' ')[0]}</h2>
+                    <h1>{player1Wins}</h1>
+                </div>
+                <div className="player2-wins">
+                    <h2 style={{ color: '#5c5c5c' }}>{player2.split(' ')[0]}</h2>
+                    <h1>{player2Wins}</h1>
+                </div>
+            </div>
         </div>
     );
 }

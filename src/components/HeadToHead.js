@@ -7,17 +7,39 @@ import HeadToHeadStats from './HeadToHeadStats'; // Import the new component
 function HeadToHead() {
     const [allMatches, setAllMatches] = useState([]);
     const { player1, player2 } = useParams();
+    const [gameType, setGameType] = useState('All');
+
+    const handleGameTypeChange = (type) => {
+        setGameType(type);
+    };
+
 
     const headToHeadMatches = useMemo(() => {
-        return allMatches.filter(match => (
-            (match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1) &&
-            (match["Team 2 Player 1"] === player2 || match["Team 2 Player 2"] === player2)
-        ) || (
-            (match["Team 1 Player 1"] === player2 || match["Team 1 Player 2"] === player2) &&
-            (match["Team 2 Player 1"] === player1 || match["Team 2 Player 2"] === player1)
-        ));
-    }, [allMatches, player1, player2]);
-
+        return allMatches.filter(match => {
+            // Map user-friendly options to specific game types in your data
+            let matchesType;
+            switch (gameType) {
+                case 'Single':
+                    matchesType = ['Herresingle', 'Damesingle']; // Add 'Damesingle' if it's a possible value
+                    break;
+                case 'Double':
+                    matchesType = ['Herredouble', 'Damedouble'];
+                    break;
+                case 'Mixed':
+                    matchesType = ['Mixeddouble'];
+                    break;
+                default:
+                    matchesType = ['Herresingle', 'Damesingle', 'Herredouble', 'Damedouble', 'Mixeddouble']; // Assume these are all possible types
+            }
+    
+            if (gameType !== 'Alle' && !matchesType.includes(match["Match"])) return false;
+    
+            return ((match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1) &&
+                (match["Team 2 Player 1"] === player2 || match["Team 2 Player 2"] === player2)) || 
+                ((match["Team 1 Player 1"] === player2 || match["Team 1 Player 2"] === player2) &&
+                (match["Team 2 Player 1"] === player1 || match["Team 2 Player 2"] === player1));
+        });
+    }, [allMatches, player1, player2, gameType]);
     useEffect(() => {
         async function fetchMatches() {
             try {
@@ -29,6 +51,31 @@ function HeadToHead() {
         }
         fetchMatches();
     }, []);
+    function GameTypeSelector() {
+        return (
+            <div className="game-type-selector">
+                <select value={gameType} onChange={(e) => setGameType(e.target.value)}>
+                    <option value="All">All</option>
+                    <option value="Single">Single</option>
+                    <option value="Mixed">Mixed</option>
+                    <option value="Double">Double</option>
+                </select>
+            </div>
+        );
+    }
+
+    function GameTypeButtons() {
+        const gameTypes = ['Alle', 'Single', 'Double', 'Mixed'];
+        return (
+            <div className="game-type-buttons" style={{ display: 'flex', gap: '10px' }}>
+                {gameTypes.map((type) => (
+                    <button key={type} onClick={() => handleGameTypeChange(type)} className="game-type-button">
+                        {type}
+                    </button>
+                ))}
+            </div>
+        );
+    }
 
     // Convert and sort matches by date in descending order
     headToHeadMatches.sort((a, b) => {
@@ -53,9 +100,9 @@ function HeadToHead() {
 
     return (
         <div>
-
+            <GameTypeButtons />
             {/* Card view for mobile */}
-            <HeadToHeadStats player1={player1} player2={player2} headToHeadMatches={headToHeadMatches} />
+            <HeadToHeadStats player1={player1} player2={player2} headToHeadMatches={headToHeadMatches} gameType={gameType} />
             <div className="comparison-container mobile-view">
                 {headToHeadMatches.map((match, index) => (
                     <div key={index} className="match-card">
@@ -81,22 +128,18 @@ function HeadToHead() {
                 <table>
                     <thead>
                         <tr>
+                            <th>Spiller</th>
+                            <th>Resultat</th>
+                            <th>Spiller</th>
                             <th>Sesong</th>
                             <th>Turnering</th>
                             <th>Klasse</th>
                             <th>Kategori</th>
-                            <th>Spiller</th>
-                            <th>Resultat</th>
-                            <th>Spiller</th>
                         </tr>
                     </thead>
                     <tbody>
                         {headToHeadMatches.map((match, index) => (
                             <tr key={index} style={{ backgroundColor: "transparent" }}>
-                            <td>{match["Season"]}</td>
-                            <td>{match["Tournament Name"]}</td>
-                            <td>{match["Tournament Class"]}</td>
-                            <td>{match["Match"]}</td>
                             <td align="right">
                                 {match["Team 1 Player 1"]}
                                 {match["Team 1 Player 2"] && `, ${match["Team 1 Player 2"]}`}
@@ -106,6 +149,11 @@ function HeadToHead() {
                                 {match["Team 2 Player 1"]}
                                 {match["Team 2 Player 2"] && `, ${match["Team 2 Player 2"]}`}
                             </td>
+                            <td>{match["Season"]}</td>
+                            <td>{match["Tournament Name"]}</td>
+                            <td>{match["Tournament Class"]}</td>
+                            <td>{match["Match"]}</td>
+                            
                             
                             </tr>
                         ))}
