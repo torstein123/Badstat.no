@@ -50,8 +50,8 @@ const Navbar = () => {
             </li>
 
             <li className="nav-item">
-              <Link className="nav-link" to="https://www.paypal.com/donate/?hosted_button_id=7DR5WBGT9QL5A" onClick={handleLinkClick}>
-                <h3>Buy me a coffee</h3>
+              <Link className="nav-link" to="/MostGames" onClick={handleLinkClick}>
+                <h3>Topplisten</h3>
               </Link>
             </li>
             {isAuthenticated ? (

@@ -18,6 +18,7 @@ import AdminComponent from './components/admin.js';
 import Diary from './components/diary.js';
 import PlayerList from './components/PlayerList.js';
 import './App.css';
+import Leaderboard from './components/MostGames.js';
 
 
 
@@ -105,6 +106,8 @@ const MainApp = () => {
               <Route path="/Diary" element={<Diary userId={user?.uid} />} />
               <Route path="/playerlist" element={<PlayerList/>} />
               <Route path="/headtohead" element={<PlayerSearch/>} />
+              <Route path="/MostGames" element={<Leaderboard/>} />
+
 
             </>
           ) : (

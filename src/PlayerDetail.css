@@ -262,14 +262,14 @@ body {
   cursor: pointer;
   background-color: var(--bg-200);
   color: var(--text-200);
-  border: 1px solid var(--primary-200);
+  border: 1px solid black;
   border-radius: 6px;
   transition: all 0.3s ease;
 }
 
 .category-buttons button:hover {
-  background-color: var(--primary-200);
-  color: var(--text-100);
+  background-color: #008119;
+  color: #ffffff;
 }
 .player-detail-container {
   padding: 20px;

@@ -53,12 +53,12 @@ const Home = () => {
             <section className="contact-section">
                 <h2>Ta kontakt 📬</h2>
                 <p>Har du spørsmål eller tilbakemeldinger? Vi vil gjerne høre fra deg.</p>
-                <p>@Badstat på Instagram</p>>
+                <a href="https://www.instagram.com/badstatnorge/">Send meg en DM på Instagram</a>
             </section>
 
             {/* Fotnote */}
             <footer className="footer-section">
-                <p>&copy; 2024 Badstat. Alle rettigheter reservert.</p>
+                <p>&copy; 2024 Badstat. Alle rettigheter reservert. Utviklet av Torstein Vikse Olsen</p>
             </footer>
         </div>
     );

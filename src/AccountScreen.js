@@ -14,7 +14,7 @@ export const AccountScreen = () => {
         try {
             await onLogin(email, password);
             console.log("Logged in successfully");
-            navigate('/hjem'); // Ensure this is navigating correctly
+            navigate('/'); // Ensure this is navigating correctly
         } catch (error) {
             // Handle the error appropriately
             console.error("Login failed:", error.message);
@@ -96,7 +96,7 @@ export const AccountScreen = () => {
                     </div>
                     <div class="feature-item">
                         <h3>📈 Over 150 000 kamper registrert</h3>
-                        <p>Utforsk et omfattende kamprapporteringssystem med over 150 000 registrerte kamper.</p>
+                        <p>Jeg har gått gjennom 150 000 registrerte kamper, og kan gi deg god innsikt i dine turneringskamper.</p>
                     </div>
                     </div>
 

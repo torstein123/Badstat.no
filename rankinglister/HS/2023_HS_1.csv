@@ -14,8 +14,8 @@ Plass.,Spiller-Id,Navn,Klasse,Poeng
 13,106092,"Kai Roger Stensen, Trondheim",A,388
 14,103539,"Amund Rikheim Huus, Bergen",A,332
 15,109688,"Aleksander Jakovlevs, Haugerud",A,328
+16,109614,"Brynjar Hus, Bergen",A,300
 16,111907,"Gonçalo Ribeiro, Norborg",A,300
-17,109614,"Brynjar Hus, Bergen",A,290
 18,105509,"Keveen Kumar Balasingam, Sotra",A,276
 19,107653,"Boyan Yu, NTNUI",A,240
 19,102378,"Øyvind W. Selboe, Trondheim",A,240
@@ -25,94 +25,94 @@ Plass.,Spiller-Id,Navn,Klasse,Poeng
 24,103497,"Jonas Østhassel, Kristiansand",A,208
 25,107705,"Advait Mital, Bærum",A,204
 26,100411,"Magnus Christensen, Frogner",A,197
-27,110611,"Adit Sharma, Klemetsrud",A,192
-28,108642,"Andy Hang, OSI",A,188
-29,110836,"Jakob Langeland Risa, Sotra",A,185
-30,109780,"William R. Barø, Trondheim",A,176
-30,113062,"Deeptanshu Toka, Haugerud",A,176
-32,107916,"Benjamin Rølvåg, Nesna",A,168
-33,109193,"Magnus Tjøm, Oppegård IL",A,160
-34,111402,"Henrik Frende Lavik-Haug, Moss",A,158
-35,109774,"Stian Ekroll Glenne, Stavanger",A,156
-36,110411,"Truls Helgerød, Sandefjord",A,150
-37,106155,"Andreas Holmedal, Askøy",B,144
-37,100038,"Ole Christoffer Olsen, Flatås",B,144
-37,102905,"Carl Christian Mork, Haugerud",B,144
-40,112423,"Tirakom Sonjamroen, Imås IL",B,142
-41,100540,"Pål Endre Pedersen, Haugerud",B,138
-42,105519,"Petter Polden, Sotra",B,136
-42,111148,"Heine Lam Nybakk, Sotra",B,136
-42,109814,"Amund Lind, Moss",B,136
-42,109865,"Asgeir Våbenø Berg, Klæbu",B,136
-46,110205,"Mathias Wong, Kristiansand",B,130
-46,106453,"Christian Asbjørnsen, Ålesund",B,130
-46,101026,"Inge Holter, Frogner",B,130
-49,107635,"Martin Enghaug, Moss",B,128
-49,110837,"Ole Kristian Lie , Sotra",B,128
-49,100255,"Pål Hjermstad, Hamar",B,128
-52,110793,"Pelle Cornelius Nordeide, Sandefjord",B,124
-52,100996,"Arben Holstad, Vestre Aker",B,124
-54,100611,"Amund Skavhaug, Trondheim",B,122
-54,100476,"Jan Frode Neverdal, Grimstad",B,122
-56,105794,"Jan Malamant, OSI",B,116
-56,106301,"Roar Natvig, Verdal",B,116
-56,113008,"Kenneth Bayeng Sanglay, OSI",B,116
-59,101358,"Petter Svendsen, Trondheim",B,115
-60,102488,"Lasse Nyheim, Tromsø",B,112
-60,106464,"Theodor Fjelldal, Haugerud",B,112
-60,105066,"Iver Rolvsjord, NTNUI",B,112
-63,101933,"Jarle Grann, Kirkenes",B,110
-63,109659,"Sebastian Reijnen, Kristiansand",B,110
-63,106944,"Jay Janaskar, OSI",B,110
+27,110836,"Jakob Langeland Risa, Sotra",A,193
+28,110611,"Adit Sharma, Klemetsrud",A,192
+28,106155,"Andreas Holmedal, Askøy",A,192
+30,108642,"Andy Hang, OSI",A,188
+31,109774,"Stian Ekroll Glenne, Stavanger",A,180
+32,109780,"William R. Barø, Trondheim",A,176
+32,113062,"Deeptanshu Toka, Haugerud",A,176
+34,107916,"Benjamin Rølvåg, Nesna",A,168
+35,111402,"Henrik Frende Lavik-Haug, Moss",A,166
+36,109193,"Magnus Tjøm, Oppegård IL",A,160
+37,110837,"Ole Kristian Lie , Sotra",A,154
+38,110411,"Truls Helgerød, Sandefjord",A,150
+39,111148,"Heine Lam Nybakk, Sotra",B,144
+39,100038,"Ole Christoffer Olsen, Flatås",B,144
+39,102905,"Carl Christian Mork, Haugerud",B,144
+42,100540,"Pål Endre Pedersen, Haugerud",B,138
+43,105519,"Petter Polden, Sotra",B,136
+43,109814,"Amund Lind, Moss",B,136
+43,109865,"Asgeir Våbenø Berg, Klæbu",B,136
+46,112423,"Tirakom Sonjamroen, Imås IL",B,132
+47,110205,"Mathias Wong, Kristiansand",B,130
+47,106453,"Christian Asbjørnsen, Ålesund",B,130
+47,101026,"Inge Holter, Frogner",B,130
+50,107635,"Martin Enghaug, Moss",B,128
+50,102488,"Lasse Nyheim, Tromsø",B,128
+50,100255,"Pål Hjermstad, Hamar",B,128
+53,100996,"Arben Holstad, Vestre Aker",B,124
+53,110793,"Pelle Cornelius Nordeide, Sandefjord",B,124
+55,100611,"Amund Skavhaug, Trondheim",B,122
+55,100476,"Jan Frode Neverdal, Grimstad",B,122
+57,101933,"Jarle Grann, Kirkenes",B,118
+58,105794,"Jan Malamant, OSI",B,116
+58,106301,"Roar Natvig, Verdal",B,116
+58,113008,"Kenneth Bayeng Sanglay, OSI",B,116
+61,101358,"Petter Svendsen, Trondheim",B,115
+62,106464,"Theodor Fjelldal, Haugerud",B,112
+62,105066,"Iver Rolvsjord, NTNUI",B,112
+64,109659,"Sebastian Reijnen, Kristiansand",B,110
+64,106944,"Jay Janaskar, OSI",B,110
 66,109570,"Varun Manikandan, Sandefjord",B,108
 66,110176,"Sondre Lie Foldnes, Sotra",B,108
-68,108630,"Hermod Holte Haugland , Kristiansand",B,104
-68,113060,"Ken Kold Hansen, Trondheim",B,104
-68,112034,"Tor Haugstulen Jervell, Pillarguri",B,104
-68,100702,"Thor Christian Tallaksen, Bygdø",B,104
+66,115913,"Louka Theo Boitard, Stavanger",B,108
+69,113060,"Ken Kold Hansen, Trondheim",B,104
+69,108630,"Hermod Holte Haugland , Kristiansand",B,104
+69,100702,"Thor Christian Tallaksen, Bygdø",B,104
 72,107691,"Jonathan Utne Madsøy, Karmøy",B,102
-73,107201,"Bengt Pedersen, I.L Ros",B,100
-73,110209,"Sindre Gjuvsland, Sotra",B,100
-75,107132,"Filip Bøhn , Kristiansand",B,98
-75,104852,"Isak L. Hasselvold, NTNUI",B,98
-77,104247,"Anders Haugland, NTNUI",B,97
-78,105891,"Carlo Alonzo Agustin, Mandal",B,96
-78,108071,"Henrik Buvik, Gullvikmoen",B,96
-78,100216,"Roger Haugstulen, Pillarguri",B,96
-78,115153,"Andreas Deinboll, Bergen",B,96
-78,115447,"Alan Tsui, NTNUI",B,96
-78,115913,"Louka Theo Boitard, Stavanger",B,96
-84,113455,"Erling Homme, OSI",B,94
-85,108634,"Frank Heggen, Asker",B,92
-86,100016,"Stian Askerød, Frogner",B,90
-86,100456,"Joakim Harring, Imås IL",B,90
-88,115882,"Martin Feussner, Djerv",B,89
-89,101187,"Carl Christian Hem, Sandefjord",B,88
-89,110055,"Herman Kolstø, Karmøy",B,88
-91,109876,"Kristoffer Kielland Rædergård	, Trondheim",B,87
-92,102373,"Kristian Hyllestad, Trondheim",B,86
-92,106241,"Sondre Sefland, OSI",B,86
-92,114520,"Apurva Jain, Karmøy",B,86
-92,114649,"Lars Christian Larsen, Frøya",B,86
-96,114970,"Avinash Avi, OSI",B,84
-96,104775,"Gintars Rundelis, Tromsø",B,84
-96,104579,"Fredrik Skånøy, Rissa",B,84
-96,101914,"Thomas Pedersen, Ålesund",B,84
-96,101895,"Erik Måøy, Kolvereid",B,84
-101,100746,"Nils Even Urkedal, Norborg",B,83
-101,114553,"Casper Welzel Andersen, Flatås",B,83
-103,114301,"Zhuo Xu, NTNUI",B,81
-103,100312,"Ole Andreas Sagøy, Klæbu",B,81
-105,105620,"Vegar Næss, Hammerfest",B,80
+72,110209,"Sindre Gjuvsland, Sotra",B,102
+74,112034,"Tor Haugstulen Jervell, Pillarguri",B,100
+74,107201,"Bengt Pedersen, I.L Ros",B,100
+76,107132,"Filip Bøhn , Kristiansand",B,98
+76,104852,"Isak L. Hasselvold, NTNUI",B,98
+78,104247,"Anders Haugland, NTNUI",B,97
+79,104775,"Gintars Rundelis, Tromsø",B,96
+79,105891,"Carlo Alonzo Agustin, Mandal",B,96
+79,108071,"Henrik Buvik, Gullvikmoen",B,96
+79,100216,"Roger Haugstulen, Pillarguri",B,96
+79,115153,"Andreas Deinboll, Bergen",B,96
+79,115447,"Alan Tsui, NTNUI",B,96
+85,108650,"Adrian Olsen-Loe Pedersen, Tromsø",B,94
+86,108634,"Frank Heggen, Asker",B,92
+87,114520,"Apurva Jain, Karmøy",B,91
+88,113455,"Erling Homme, OSI",B,90
+88,100456,"Joakim Harring, Imås IL",B,90
+88,100016,"Stian Askerød, Frogner",B,90
+91,106241,"Sondre Sefland, OSI",B,89
+91,115882,"Martin Feussner, Djerv",B,89
+93,101187,"Carl Christian Hem, Sandefjord",B,88
+93,110055,"Herman Kolstø, Karmøy",B,88
+95,109876,"Kristoffer Kielland Rædergård	, Trondheim",B,87
+96,102373,"Kristian Hyllestad, Trondheim",B,86
+96,114649,"Lars Christian Larsen, Frøya",B,86
+98,101914,"Thomas Pedersen, Ålesund",B,84
+98,101895,"Erik Måøy, Kolvereid",B,84
+98,105620,"Vegar Næss, Hammerfest",B,84
+98,104579,"Fredrik Skånøy, Rissa",B,84
+102,100746,"Nils Even Urkedal, Norborg",B,83
+102,114553,"Casper Welzel Andersen, Flatås",B,83
+104,114301,"Zhuo Xu, NTNUI",B,81
+104,100312,"Ole Andreas Sagøy, Klæbu",B,81
 106,112114,"Andreas Årseth Kvamme, Ålesund",B,79
-107,108650,"Adrian Olsen-Loe Pedersen, Tromsø",B,78
-107,114132,"Tan Quach Le, OSI",B,78
-109,109937,"Eirik Wallentin, Sandefjord",B,77
-110,106504,"Johannes Orri Olafsson, Sandefjord",B,76
-110,100189,"Sigve Hallager, Grong",B,76
-110,102773,"Tom Brovold, Hammerfest",B,76
-113,100795,"Otto Wittner, Trondheim",B,75
-114,105220,"Qiqing Gan, Vestre Aker",B,74
+107,114970,"Avinash Avi, OSI",B,78
+108,109937,"Eirik Wallentin, Sandefjord",B,77
+109,106504,"Johannes Orri Olafsson, Sandefjord",B,76
+109,100189,"Sigve Hallager, Grong",B,76
+109,102773,"Tom Brovold, Hammerfest",B,76
+112,100795,"Otto Wittner, Trondheim",B,75
+113,105220,"Qiqing Gan, Vestre Aker",B,74
+113,114132,"Tan Quach Le, OSI",B,74
 115,107881,"Aleksander  Røeggen Johansen, Hammerfest",B,72
 115,107396,"Fred Moen, Kolvereid",B,72
 115,109952,"Aldrin Nelson, Bergen",B,72
@@ -124,1029 +124,1037 @@ Plass.,Spiller-Id,Navn,Klasse,Poeng
 122,106876,"Kristoffer Brandsås Berg, NTNUI",B,68
 124,110107,"William Aaberg Rølvåg, Nesna",B,66
 124,105422,"Geir Arne Andersen, Hammerfest",B,66
-126,108197,"Khiem  Duc Nguyen, Asker",B,65
-127,108668,"Christer Andersen, Mandal",B,64
-127,112219,"Måns Anders Lund Mabäcker, Moss",B,64
-127,114007,"Toby Clifford, Bærum",B,64
-127,104945,"Michael White, Bergen",B,64
+124,104256,"Simen Eggøy Olson, Tromsø",B,66
+127,108197,"Khiem  Duc Nguyen, Asker",B,65
+128,108668,"Christer Andersen, Mandal",B,64
+128,114007,"Toby Clifford, Bærum",B,64
+128,104945,"Michael White, Bergen",B,64
 131,108078,"Ole Petter Øren, Gullvikmoen",B,61
 131,107652,"Xijiang Yu, Vestre Aker",B,61
 131,103354,"Terje Knutseth, Klæbu",B,61
-134,111679,"Mats Berner Tombre, NTNUI",B,60
+134,103174,"Gøran Olsen, Karmøy",B,60
 134,109418,"Robert Barø, Trondheim",B,60
 134,110735,"Rishi Arvind Phatak, Sandefjord",B,60
 134,110585,"Johan Zang, Bærum",B,60
+134,111679,"Mats Berner Tombre, NTNUI",B,60
+134,116329,"Edvin Ståhl, Sverige",B,60
+134,114489,"Leonard Meyer Nordnes, NTNUI",B,60
 134,114243,"Arturs Berzins, Vestre Aker",B,60
 134,114268,"Atle Wikran, Trondheim",B,60
-134,114489,"Leonard Meyer Nordnes, NTNUI",B,60
-141,114485,"Rushikesh Sane, Djerv",B,59
-142,108764,"Marius Sandvær, Herøy",B,58
-142,106033,"Arild Moen, Bærum",B,58
-144,110718,"Joseph Paul, Bærum",B,57
-145,110763,"Vinit Sharma, Klemetsrud",B,56
-145,110543,"Thineskumar Logeswaran, Stovner",B,56
-145,111286,"Joakim Øyen Bedsted, Orkanger",B,56
-145,100311,"Christian S. Johnsen, Bygdø",B,56
-145,104286,"Ludvig Smith-Meyer, Sandefjord",B,56
-145,102438,"Peter Rønn Stensæth, Vestre Aker",B,56
-151,114558,"Frode Westbye, Trondheim",B,55
-152,114307,"Jørund Jensen Blakar, Pillarguri",B,54
-152,105802,"Jiawen Shi, Bærum",B,54
-152,107607,"Tristan Thøgersen, Oppegård IL",B,54
-152,103109,"Rolf Ove Karlsen, Verdal",B,54
-152,104256,"Simen Eggøy Olson, Tromsø",B,54
-152,112552,"Markus Måøy, Kolvereid",B,54
-152,112817,"Tor Vangen Jordet , Tynset",B,54
-152,110340,"Kristoffer Sveen Hjertholm, Karmøy",B,54
-160,102521,"Joel Collard, Vestre Aker",B,53
-160,115969,"Erlend Fiskvik Fyhn, Klæbu",B,53
-162,115320,"Marius Brevik, Grong",B,52
-162,114304,"Sindri Tomasson, NTNUI",B,52
-162,102646,"Tobias Krømke, Sandefjord",B,52
-162,107859,"Magnus Knapperholen, OSI",B,52
-162,110309,"Vishwavasu Soorly Nagaraj, Vestre Aker",B,52
-167,102291,"Anders Leirud, Frogner",B,51
-168,116168,"Marcus Hellesøe, BSI",B,50
-168,114683,"Rohit Deraj Regunathan, Vestre Aker",B,50
-168,115692,"Babu Stalin, Bærum",B,50
-168,108763,"Alexander Hansen, Herøy",B,50
-168,105430,"Jan Petter Olsen, Hammerfest",B,50
-168,100677,"Robert Sulebakk, Ålesund",B,50
-168,100701,"Per Gunnar Søvik, Norborg",B,50
-175,103987,"Jørgen Olsen, Verdal",C,49
-175,115445,"Kato Mørland Abrahamsen, NTNUI",C,49
-175,106530,"Kevin Axel Rønning, Trondheim",C,49
-178,116329,"Edvin Ståhl, Sverige",C,48
-178,107651,"Rafid Ishaq, Bergen",C,48
-178,115708,"André Roos Dølmo, Tynset",C,48
-178,114975,"Harald Buvik, Kolvereid",C,48
-178,113645,"Herman Birkeland, Kristiansand",C,48
-178,103174,"Gøran Olsen, Karmøy",C,48
-178,104467,"Ørjan Emil Strand, NTNUI",C,48
-178,111198,"Shreyan Reddy Korem , Bergen",C,48
-186,100143,"Noralf Gamlem, Norborg",C,47
-186,116560,"Ganapathi Gopal, Asker",C,47
-188,116214,"Jesse Stekelenburg, NTNUI",C,46
-188,113891,"Gabriel Pettersen Engelberg, Moss",C,46
-188,107654,"Zhongyan Yu, Vestre Aker",C,46
-188,107624,"Eirik Tresselt Støylen, Ålesund",C,46
-188,100471,"Nauman Majid, Haugerud",C,46
-188,105333,"Oskar Løkka Hansen, Tromsø",C,46
-188,106664,"Knut Hermann Stenvaag, Ålesund",C,46
+143,114485,"Rushikesh Sane, Djerv",B,59
+144,108764,"Marius Sandvær, Herøy",B,58
+144,106033,"Arild Moen, Bærum",B,58
+146,110718,"Joseph Paul, Bærum",B,57
+147,110763,"Vinit Sharma, Klemetsrud",B,56
+147,110543,"Thineskumar Logeswaran, Stovner",B,56
+147,111286,"Joakim Øyen Bedsted, Orkanger",B,56
+147,100311,"Christian S. Johnsen, Bygdø",B,56
+147,104286,"Ludvig Smith-Meyer, Sandefjord",B,56
+147,102438,"Peter Rønn Stensæth, Vestre Aker",B,56
+147,116168,"Marcus Hellesøe, BSI",B,56
+147,100738,"Ola Ulmo, Pillarguri",B,56
+155,114558,"Frode Westbye, Trondheim",B,55
+156,114307,"Jørund Jensen Blakar, Pillarguri",B,54
+156,105802,"Jiawen Shi, Bærum",B,54
+156,103109,"Rolf Ove Karlsen, Verdal",B,54
+156,112552,"Markus Måøy, Kolvereid",B,54
+156,112817,"Tor Vangen Jordet , Tynset",B,54
+156,110340,"Kristoffer Sveen Hjertholm, Karmøy",B,54
+162,102521,"Joel Collard, Vestre Aker",B,53
+162,115969,"Erlend Fiskvik Fyhn, Klæbu",B,53
+164,115320,"Marius Brevik, Grong",B,52
+164,114304,"Sindri Tomasson, NTNUI",B,52
+164,102646,"Tobias Krømke, Sandefjord",B,52
+164,107859,"Magnus Knapperholen, OSI",B,52
+164,105333,"Oskar Løkka Hansen, Tromsø",B,52
+164,110309,"Vishwavasu Soorly Nagaraj, Vestre Aker",B,52
+170,102291,"Anders Leirud, Frogner",B,51
+171,114683,"Rohit Deraj Regunathan, Vestre Aker",B,50
+171,115692,"Babu Stalin, Bærum",B,50
+171,108763,"Alexander Hansen, Herøy",B,50
+171,100677,"Robert Sulebakk, Ålesund",B,50
+171,100701,"Per Gunnar Søvik, Norborg",B,50
+171,105430,"Jan Petter Olsen, Hammerfest",B,50
+177,103987,"Jørgen Olsen, Verdal",C,49
+177,115445,"Kato Mørland Abrahamsen, NTNUI",C,49
+177,106530,"Kevin Axel Rønning, Trondheim",C,49
+180,107651,"Rafid Ishaq, Bergen",C,48
+180,115708,"André Roos Dølmo, Tynset",C,48
+180,114975,"Harald Buvik, Kolvereid",C,48
+180,113645,"Herman Birkeland, Kristiansand",C,48
+180,104467,"Ørjan Emil Strand, NTNUI",C,48
+180,107607,"Tristan Thøgersen, Oppegård IL",C,48
+180,111198,"Shreyan Reddy Korem , Bergen",C,48
+187,100143,"Noralf Gamlem, Norborg",C,47
+187,116560,"Ganapathi Gopal, Asker",C,47
+189,116214,"Jesse Stekelenburg, NTNUI",C,46
+189,102256,"Pankaj Bhart, Hadsel",C,46
+189,107624,"Eirik Tresselt Støylen, Ålesund",C,46
+189,107654,"Zhongyan Yu, Vestre Aker",C,46
+189,100471,"Nauman Majid, Haugerud",C,46
+189,106664,"Knut Hermann Stenvaag, Ålesund",C,46
 195,108826,"Espen Søvik, Bergen",C,45
 195,112521,"Morten Solsvik, Sotra",C,45
-195,100139,"Per Ivar Furholm, Norborg",C,45
 195,100243,"Christian Hervard, Bærum",C,45
+195,100139,"Per Ivar Furholm, Norborg",C,45
+199,108334,"Mikkel Grevsnes, Oppegård IL",C,44
 199,100697,"Håvard Soløy, Nesna",C,44
-199,112885,"Johnny Lam, OSI",C,44
-201,114337,"Sahil Wadhawan, OSI",C,42
-202,114308,"Tobias Espeseth, NTNUI",C,41
-202,101339,"Michael Berg, Trondheim",C,41
-204,100661,"Tor Stenvaag, Ålesund",C,40
-204,111263,"Anders Moen, Kolvereid",C,40
-204,111913,"Benjamin Brevik , Grong",C,40
-204,109391,"Thomas Christian Malm, Otra IL",C,40
-204,109639,"Stig Gåsbakk, Gullvikmoen",C,40
-204,115956,"Per Stener Vestli, Oppegård IL",C,40
-204,100738,"Ola Ulmo, Pillarguri",C,40
-211,113508,"Børge Bjørnli Nygård, Klæbu",C,39
+199,113891,"Gabriel Pettersen Engelberg, Moss",C,44
+202,114337,"Sahil Wadhawan, OSI",C,42
+203,114308,"Tobias Espeseth, NTNUI",C,41
+203,101339,"Michael Berg, Trondheim",C,41
+205,100661,"Tor Stenvaag, Ålesund",C,40
+205,112219,"Måns Anders Lund Mabäcker, Moss",C,40
+205,112885,"Johnny Lam, OSI",C,40
+205,111263,"Anders Moen, Kolvereid",C,40
+205,111913,"Benjamin Brevik , Grong",C,40
+205,109639,"Stig Gåsbakk, Gullvikmoen",C,40
 211,111495,"Vikaas Subburam, Ålesund",C,39
 211,112646,"Ole Petter Antonsen, Klæbu",C,39
+211,113508,"Børge Bjørnli Nygård, Klæbu",C,39
+214,113094,"Roger Sagen, Lambertseter IF",C,38
+214,102261,"Petter Karlsen Wåltorp, Djerv",C,38
+214,113988,"Eram Jafer Ali Hassen, Bergen",C,38
 214,112058,"Dexter Regarde, Trondheim",C,38
 214,102774,"Tore Nilsen, Hammerfest",C,38
-214,102256,"Pankaj Bhart, Hadsel",C,38
 214,107597,"Kevin Elson, Kristiansand",C,38
-214,113094,"Roger Sagen, Lambertseter IF",C,38
-214,113988,"Eram Jafer Ali Hassen, Bergen",C,38
-214,102261,"Petter Karlsen Wåltorp, Djerv",C,38
-221,114656,"Mats-Einar Hammer Rotnes, Frøya",C,37
-221,115257,"Daniel Standal, Ålesund",C,37
-221,105178,"Andreas Haglund, Imås IL",C,37
-221,112635,"Elias Grønning, Rissa",C,37
-221,112574,"Waqas Tariq, Tana",C,37
-226,112571,"Robert Fjellanger, Kristiansand",C,36
-226,112199,"Fillip August Rotabakk, Orkanger",C,36
-226,112212,"Andreas Stenhaug, NTNUI",C,36
-226,108853,"Håvard Buvik , Gullvikmoen",C,36
-226,100683,"Trond Atle Syvertsen, Mandal",C,36
-226,107804,"Anders Bellesen, Sola",C,36
-226,101992,"Sturla Flåten Jørgensen, Haugerud",C,36
-226,101095,"Morten Langen, Grong",C,36
-226,113813,"Oliver George Creese, Trondheim",C,36
-226,116520,"Francesco Tomasello, NTNUI",C,36
-226,116268,"Petter Tøfte Amundsen, Klæbu",C,36
-226,101197,"Magnus Halvorsen, Sandefjord",C,36
-238,116432,"Kang Nian Yap, Trondheim",C,35
-238,101091,"Lars Valentin, Ålesund",C,35
-240,107910,"Steinar  Hansen, Mandal",C,34
-240,107436,"Vidar Vikhagen, Oppegård IL",C,34
-240,105119,"Steinar Fornes, Verdal",C,34
-240,110635,"Aslak Smith, Kristiansand",C,34
-240,111754,"Linus Nordal, Haugerud",C,34
-240,101249,"Luis Anmarkrud, Frogner",C,34
-240,112921,"Johannes Tobiassen, Bergen",C,34
-240,115036,"Pranon Paenprakhon, Frøya",C,34
-248,114106,"Fredrik Fjell, Mandal",C,33
-248,112302,"Emil Sandnes, Orkanger",C,33
-250,111851,"Christian Lund Haugen, Stanghelle IL",C,32
-250,108334,"Mikkel Grevsnes, Oppegård IL",C,32
-250,102775,"Ernst Georg Olsen, Hammerfest",C,32
-250,102681,"Morten Solberg, Grong",C,32
-250,113407,"Bram Serneels, Trondheim",C,32
-250,113986,"Wesley Man-Ho Cheung, OSI",C,32
-250,100717,"Berit Thyness, Haugerud",C,32
-257,113637,"John Thomas Krogstad, Verdal",C,31
-257,105808,"Heine Økland Kolltveit, Sotra",C,31
-257,107053,"Martin Haagenstad, Klæbu",C,31
-260,110375,"Frank Oddvar Nygård, Asker",C,30
-260,111903,"Kenneth Rasmussen, Østre Tromøy",C,30
-260,100549,"Morten Rabben, Flatås",C,30
-260,114226,"Timothée Le, OSI",C,30
-260,115317,"Bård Vegard Bævre, Trondheim",C,30
-260,116476,"Jørn Juvodden, Frogner",C,30
-266,116407,"Ronan Blakey, BSI",C,29
-266,115510,"Tom Enger, Pillarguri",C,29
-266,115038,"Hans Stephen Moralde Santos, Frøya",C,29
+220,105178,"Andreas Haglund, Imås IL",C,37
+220,112635,"Elias Grønning, Rissa",C,37
+220,112574,"Waqas Tariq, Tana",C,37
+220,114656,"Mats-Einar Hammer Rotnes, Frøya",C,37
+220,115257,"Daniel Standal, Ålesund",C,37
+225,113813,"Oliver George Creese, Trondheim",C,36
+225,116520,"Francesco Tomasello, NTNUI",C,36
+225,116268,"Petter Tøfte Amundsen, Klæbu",C,36
+225,116476,"Jørn Juvodden, Frogner",C,36
+225,101197,"Magnus Halvorsen, Sandefjord",C,36
+225,112199,"Fillip August Rotabakk, Orkanger",C,36
+225,112212,"Andreas Stenhaug, NTNUI",C,36
+225,112571,"Robert Fjellanger, Kristiansand",C,36
+225,108853,"Håvard Buvik , Gullvikmoen",C,36
+225,100683,"Trond Atle Syvertsen, Mandal",C,36
+225,101992,"Sturla Flåten Jørgensen, Haugerud",C,36
+225,101095,"Morten Langen, Grong",C,36
+237,101091,"Lars Valentin, Ålesund",C,35
+237,116432,"Kang Nian Yap, Trondheim",C,35
+239,101249,"Luis Anmarkrud, Frogner",C,34
+239,112921,"Johannes Tobiassen, Bergen",C,34
+239,115036,"Pranon Paenprakhon, Frøya",C,34
+239,107910,"Steinar  Hansen, Mandal",C,34
+239,105119,"Steinar Fornes, Verdal",C,34
+239,110635,"Aslak Smith, Kristiansand",C,34
+239,111754,"Linus Nordal, Haugerud",C,34
+246,112302,"Emil Sandnes, Orkanger",C,33
+246,114106,"Fredrik Fjell, Mandal",C,33
+248,113986,"Wesley Man-Ho Cheung, OSI",C,32
+248,113407,"Bram Serneels, Trondheim",C,32
+248,100717,"Berit Thyness, Haugerud",C,32
+248,111851,"Christian Lund Haugen, Stanghelle IL",C,32
+248,107804,"Anders Bellesen, Sola",C,32
+248,102775,"Ernst Georg Olsen, Hammerfest",C,32
+248,102681,"Morten Solberg, Grong",C,32
+255,105808,"Heine Økland Kolltveit, Sotra",C,31
+255,110166,"Pål Kolstø, Karmøy",C,31
+255,107053,"Martin Haagenstad, Klæbu",C,31
+255,113637,"John Thomas Krogstad, Verdal",C,31
+259,114226,"Timothée Le, OSI",C,30
+259,115317,"Bård Vegard Bævre, Trondheim",C,30
+259,115510,"Tom Enger, Pillarguri",C,30
+259,116434,"Muhammad Sulaiman, Stavanger",C,30
+259,110375,"Frank Oddvar Nygård, Asker",C,30
+259,112150,"Vidar Korsnes, IL Strand-Ulv",C,30
+259,100549,"Morten Rabben, Flatås",C,30
+259,107436,"Vidar Vikhagen, Oppegård IL",C,30
+267,116407,"Ronan Blakey, BSI",C,29
+267,115038,"Hans Stephen Moralde Santos, Frøya",C,29
 269,114378,"Rune Ringseth Bjørhusdahl, Grong",C,28
 269,114446,"Tingyu Zhang, Bergen",C,28
+269,115956,"Per Stener Vestli, Oppegård IL",C,28
+269,115150,"Andreas Saga Romsdal, Kirkenes",C,28
 269,116413,"Alexander Freis, Djerv",C,28
+269,116820,"Roger Grindstuen, Pillarguri",C,28
 269,115706,"Ferdinand Augustin Skjønhals, Tynset",C,28
 269,100036,"Marius Myhre, Haugerud",C,28
 269,104509,"Vera Botcharova Ellingsen, Bergen",C,28
-269,112103,"Arun Kumar Sharma, Djerv",C,28
 269,112821,"Pawel Jakub Saluter , Tynset",C,28
-277,110166,"Pål Kolstø, Karmøy",C,27
-277,114878,"Bharath Kumar Pachappan, Djerv",C,27
-277,114648,"Frode Larsen, Frøya",C,27
-277,115150,"Andreas Saga Romsdal, Kirkenes",C,27
-281,114294,"Hai Nguyen Nguyen Tran, Bærum",C,26
-281,112599,"Martin Uggedal, Vigra IL",C,26
-281,113366,"Lukas Endahl Haraldsen, Frogner",C,26
-281,107821,"Jakub Krakowski, Haugerud",C,26
-281,106715,"Gard Vik Langhammer, Ålesund",C,26
-281,112526,"Mattis Sæther-Danielsen, Gullvikmoen",C,26
-281,112014,"Yatin Mehta, Klemetsrud",C,26
-281,111517,"Håkon K Hofseth, Norborg",C,26
-281,100140,"Emil Pettersen, Herøy",C,26
-290,102168,"Sondre Løvold, Klæbu",C,25
-290,108025,"Robert  Karlsen, Rissa",C,25
-290,115215,"Henrik H Bøje, I.L Ros",C,25
-293,115346,"Sanjayan uthayakumar, Stovner",C,24
-293,115697,"Glen Oumellal, NTNUI",C,24
-293,115971,"Lennart Schulte, Bergen",C,24
-293,115928,"Sanford Chin, Bygdø",C,24
-293,108696,"Niclas Thörn, Sverige",C,24
-293,114030,"Bryan Javier Matland, Moss",C,24
-293,116783,"Rune Plassen Bakken, Pillarguri",C,24
-293,116820,"Roger Grindstuen, Pillarguri",C,24
-293,116875,"Kristian Nyhus Brende, Fron",C,24
-293,109350,"Embret Nordseth, Tynset",C,24
-293,116434,"Muhammad Sulaiman, Stavanger",C,24
-293,108141,"Fery Simbolon, Sola",C,24
-293,101587,"Arne Bjørn Berger, Trondheim",C,24
-293,101103,"Fredrik Kristensen, Moss",C,24
-293,104411,"Jonas J Grande, Rissa",C,24
-293,104036,"Morten Straume, Sotra",C,24
-293,100534,"Robin Kruksve Krux, Rissa",C,24
-293,105240,"Ådne Strøm, Kolvereid",C,24
-293,100650,"Odd Helge Gåsbakk, Grong",C,24
-293,106065,"Ram Kumar, Haugerud",C,24
-293,106465,"John Nguyen, OSI",C,24
-293,100769,"Geir Vik, Pillarguri",C,24
-293,112150,"Vidar Korsnes, IL Strand-Ulv",C,24
-316,112198,"Mads B. Rotabakk, Orkanger",C,23
-316,100765,"Lars Eirik L. Nilsen, Haugerud",C,23
-316,115400,"Adrian Fiskerstrand, Ålesund",C,23
-319,113144,"Bendik Brekke Thorfinnsson, NTNUI",C,22
-319,107428,"Anders Lindberg, Sverige",C,22
-319,110111,"Mats Bernhoff, Herøy",C,22
-319,111395,"Odd Arne Haugen, Grimstad",C,22
-319,112640,"Øivind Storvik, I.L Ros",C,22
-319,111252,"Martin Brekke Hjellestad, Bergen",C,22
-319,111113,"Eivind Moe, Herøy",C,22
-319,105572,"Sigurd Lorvik, Verdal",C,22
-319,100194,"Bjørn Hamang, Bærum",C,22
-319,108114,"Takluun  Yuen, OSI",C,22
-329,100200,"Helge Hansen, Kolvereid",C,21
-329,105597,"Kristian Møkkelgård, Orkanger",C,21
-329,109640,"Joar Gåsbakk, Gullvikmoen",C,21
-329,116427,"Yaroslav Yaroshevyc, Herøy",C,21
-329,104742,"Harald Søvik, BSI",C,21
-329,115146,"Malvind Børresen, Hammerfest",C,21
-329,115856,"Tore Standal, Ålesund",C,21
-329,115830,"Henry Aleksander Krys, Frøya",C,21
-329,116044,"Abhishek Singh, Vestre Aker",C,21
-338,115418,"Rodrigo Carvalho Ribeiro, Norborg",C,20
-338,115362,"Doniyanto, Sola",C,20
-338,115383,"Marwin Tarusna, Vigra IL",C,20
-338,113790,"Nikolai Helgå, Ålesund",C,20
-338,114079,"Oscar Øisjøfoss Sørheim, Lambertseter IF",C,20
-338,114447,"Robert Schittny, Vestre Aker",C,20
-338,116192,"Lucas René Bech, Flatås",C,20
-338,114078,"Oliver Larsen Witsø, Norborg",C,20
-338,109589,"Torstein Vikse Olsen, BSI",C,20
-338,100826,"Morten Aarhus, Asker",C,20
-338,110132,"Morten Mortvedt, Austevoll",C,20
-338,111463,"Håvard Gustavsen, Imås IL",C,20
-338,102165,"Torstein Moe , Grong",C,20
-338,102524,"Torstein Monsen, Stavanger",C,20
-338,107800,"Yahya Januarilham, Stavanger",C,20
-338,107603,"Herman Ruud, Kristiansand",C,20
-354,100084,"Rune Oterhals, Trondheim",D,19
-354,104809,"Vebjørn Rønne, NTNUI",D,19
-354,112753,"Øystein Sveine, Grong",D,19
-354,113023,"Zhile Shen, OSI",D,19
-354,109156,"Stig Arve H. Abrahamsen, Imås IL",D,19
-354,115078,"August Fines, Rissa",D,19
-360,115266,"Per Haarr Dyvik, Sola",D,18
-360,114770,"Justin Dano Sagarino, Frøya",D,18
-360,114959,"Luxshan Manoranjan, Stovner",D,18
-360,113396,"Gian Carlos Dell Acqua, Djerv",D,18
-360,113117,"Qiang Du, Asker",D,18
-360,111656,"Alexander Kristensen, Grimstad",D,18
-360,108910,"Gustav Seglsten, Oppegård IL",D,18
-360,108902,"Benny Vu, NTNUI",D,18
-360,112004,"Stian Ruud-Larsen, Stavanger",D,18
-360,103542,"Trond Mære, Verdal",D,18
-360,107742,"Harm  Kroon, Pillarguri",D,18
-371,112522,"William Wilsone Walker, Sotra",D,17
-371,116600,"Espen Martinussen, Pillarguri",D,17
-371,115086,"Kåre Engan, Orkanger",D,17
-371,115528,"Stian Sæter, Norborg",D,17
-375,115561,"Jarle Andresen, IL Strand-Ulv",D,16
-375,115352,"Kristian Walbom, Moss",D,16
-375,113276,"Per Arne Hammer, Frøya",D,16
-375,113335,"Kenneth salvadhoor, Stovner",D,16
-375,113943,"Ove Kjelland-Mørdre, OSI",D,16
-375,108073,"Odin Formo, Gullvikmoen",D,16
-375,108074,"Jonas Formo, Gullvikmoen",D,16
-375,115560,"Edvard Rosenberg, Nøtterøy",D,16
-375,116877,"Sam Michel Clergeau, Pillarguri",D,16
-375,116821,"Rolf Erik Kristoffersen Høglien, Pillarguri",D,16
-375,116797,"Steinar Mæhlum, Pillarguri",D,16
-375,110259,"Pranav Tehlan, Sotra",D,16
-375,116493,"Daniel Kokai, NTNUI",D,16
-375,111641,"Noah Østhassel Harman, Kristiansand",D,16
-375,112059,"Fredrik Nilssen, Trondheim",D,16
-375,106888,"Brage Løken-Jacobsen, Stavanger",D,16
-375,107446,"Jørgen Thorp, Jarlsberg",D,16
-375,107370,"Stig Landin, Sverige",D,16
-375,101445,"Marius Olsen, Verdal",D,16
-375,103915,"Hans Andreas Karlsen, Hammerfest",D,16
-395,100477,"Arne Neverrøsten, Tynset",D,15
-395,101111,"Inge Rosset, Grong",D,15
-395,110673,"Einar Morgan Utne, Karmøy",D,15
-395,112495,"Jesse Raasakka, I.L Ros",D,15
-395,116158,"Lars Erik Sjølstad, Herøy",D,15
-395,100160,"Tore Groven, Klæbu",D,15
-395,116608,"Jørgen Nordhøy, Grong",D,15
-395,114830,"Carl Danielsen, Gullvikmoen",D,15
-395,115496,"Imran SahebBedadhaluri, Stovner",D,15
-395,115994,"Øyvind Rasmussen, Orkanger",D,15
-405,115513,"Vinh Le Nguyen, Bærum",D,14
-405,115605,"Jacob Munch, Vestre Aker",D,14
-405,115296,"Johan Gravdal, Stanghelle IL",D,14
-405,115249,"Kurt Førde, Gullvikmoen",D,14
-405,114175,"Noah Leander Solbakken Svela, Klemetsrud",D,14
-405,114204,"Muhammad Abdur Rehman, Stovner",D,14
-405,100322,"Arnt-Helge Karlsen, Stavanger",D,14
-405,103521,"Thomas Iversen, Kristiansand",D,14
-405,116741,"Lasse Buus Nielsen, Ullevål",D,14
-405,113738,"Aksel Fossåskaret, Vestre Aker",D,14
-405,113961,"Felix Rostad, Sandefjord",D,14
-405,112780,"Per Arne Aas, Trondheim",D,14
-405,111893,"Eirik Sørstrand, Kristiansand",D,14
-405,110468,"Adrian Janitz, Moss",D,14
-405,110217,"Torfinn Nesset, Imås IL",D,14
-405,109856,"Albert Aasheim-Engen, Frogner",D,14
-405,110091,"John Olav Rædergård	, Orkanger",D,14
-405,109079,"Glenn Humlen, Ålesund",D,14
-405,101488,"Ståle Skorpholm, Sotra",D,14
-405,100951,"Jack Oterhals, Bergen",D,14
-405,106363,"Yusman Kamaleri, Ullevål",D,14
-405,116953,"Matthias Mühleisen, Haugerud",D,14
-405,108304,"Abhishek Singh, Vestre Aker",D,14
-428,102788,"Niels Gunnar Juel, OSI",D,13
-428,101976,"Edvin Marthinussen, Norborg",D,13
-428,109943,"Thomas Mortensen, Drammen",D,13
-428,111592,"Einar Mathias Øren , Gullvikmoen",D,13
-428,111336,"Bernt Erik Sandnes, Orkanger",D,13
-428,116169,"Ian Omedes, BSI",D,13
-428,116200,"Khalid Mahmud, NTNUI",D,13
-428,114244,"Erik Christiansen, NTNUI",D,13
+269,112103,"Arun Kumar Sharma, Djerv",C,28
+269,109391,"Thomas Christian Malm, Otra IL",C,28
+281,112495,"Jesse Raasakka, I.L Ros",C,27
+281,114878,"Bharath Kumar Pachappan, Djerv",C,27
+281,114648,"Frode Larsen, Frøya",C,27
+284,114294,"Hai Nguyen Nguyen Tran, Bærum",C,26
+284,114079,"Oscar Øisjøfoss Sørheim, Lambertseter IF",C,26
+284,112599,"Martin Uggedal, Vigra IL",C,26
+284,113366,"Lukas Endahl Haraldsen, Frogner",C,26
+284,107821,"Jakub Krakowski, Haugerud",C,26
+284,112526,"Mattis Sæther-Danielsen, Gullvikmoen",C,26
+284,112014,"Yatin Mehta, Klemetsrud",C,26
+284,111517,"Håkon K Hofseth, Norborg",C,26
+284,109589,"Torstein Vikse Olsen, BSI",C,26
+284,106715,"Gard Vik Langhammer, Ålesund",C,26
+284,100769,"Geir Vik, Pillarguri",C,26
+284,100140,"Emil Pettersen, Herøy",C,26
+296,102168,"Sondre Løvold, Klæbu",C,25
+296,108025,"Robert  Karlsen, Rissa",C,25
+296,115215,"Henrik H Bøje, I.L Ros",C,25
+299,115346,"Sanjayan uthayakumar, Stovner",C,24
+299,115928,"Sanford Chin, Bygdø",C,24
+299,115971,"Lennart Schulte, Bergen",C,24
+299,115697,"Glen Oumellal, NTNUI",C,24
+299,108696,"Niclas Thörn, Sverige",C,24
+299,114030,"Bryan Javier Matland, Moss",C,24
+299,114121,"Anton Hofmann, Kvæfjord",C,24
+299,116783,"Rune Plassen Bakken, Pillarguri",C,24
+299,116875,"Kristian Nyhus Brende, Fron",C,24
+299,109350,"Embret Nordseth, Tynset",C,24
+299,108141,"Fery Simbolon, Sola",C,24
+299,101587,"Arne Bjørn Berger, Trondheim",C,24
+299,101103,"Fredrik Kristensen, Moss",C,24
+299,106465,"John Nguyen, OSI",C,24
+299,106065,"Ram Kumar, Haugerud",C,24
+299,100650,"Odd Helge Gåsbakk, Grong",C,24
+299,100534,"Robin Kruksve Krux, Rissa",C,24
+299,105240,"Ådne Strøm, Kolvereid",C,24
+299,104411,"Jonas J Grande, Rissa",C,24
+299,104036,"Morten Straume, Sotra",C,24
+299,103915,"Hans Andreas Karlsen, Hammerfest",C,24
+299,111903,"Kenneth Rasmussen, Østre Tromøy",C,24
+299,102033,"Charlotte Leinan, Tromsø",C,24
+322,112198,"Mads B. Rotabakk, Orkanger",C,23
+322,100765,"Lars Eirik L. Nilsen, Haugerud",C,23
+322,115400,"Adrian Fiskerstrand, Ålesund",C,23
+325,114175,"Noah Leander Solbakken Svela, Klemetsrud",C,22
+325,113144,"Bendik Brekke Thorfinnsson, NTNUI",C,22
+325,107428,"Anders Lindberg, Sverige",C,22
+325,110111,"Mats Bernhoff, Herøy",C,22
+325,111395,"Odd Arne Haugen, Grimstad",C,22
+325,111113,"Eivind Moe, Herøy",C,22
+325,111252,"Martin Brekke Hjellestad, Bergen",C,22
+325,105572,"Sigurd Lorvik, Verdal",C,22
+325,100194,"Bjørn Hamang, Bærum",C,22
+325,108114,"Takluun  Yuen, OSI",C,22
+335,100200,"Helge Hansen, Kolvereid",C,21
+335,105597,"Kristian Møkkelgård, Orkanger",C,21
+335,109640,"Joar Gåsbakk, Gullvikmoen",C,21
+335,116427,"Yaroslav Yaroshevyc, Herøy",C,21
+335,104742,"Harald Søvik, BSI",C,21
+335,115146,"Malvind Børresen, Hammerfest",C,21
+335,116044,"Abhishek Singh, Vestre Aker",C,21
+335,115830,"Henry Aleksander Krys, Frøya",C,21
+335,115856,"Tore Standal, Ålesund",C,21
+344,115362,"Doniyanto, Sola",C,20
+344,115383,"Marwin Tarusna, Vigra IL",C,20
+344,115418,"Rodrigo Carvalho Ribeiro, Norborg",C,20
+344,113790,"Nikolai Helgå, Ålesund",C,20
+344,114447,"Robert Schittny, Vestre Aker",C,20
+344,116192,"Lucas René Bech, Flatås",C,20
+344,114078,"Oliver Larsen Witsø, Norborg",C,20
+344,100826,"Morten Aarhus, Asker",C,20
+344,102165,"Torstein Moe , Grong",C,20
+344,102524,"Torstein Monsen, Stavanger",C,20
+344,107800,"Yahya Januarilham, Stavanger",C,20
+344,107603,"Herman Ruud, Kristiansand",C,20
+356,100084,"Rune Oterhals, Trondheim",D,19
+356,104809,"Vebjørn Rønne, NTNUI",D,19
+356,109156,"Stig Arve H. Abrahamsen, Imås IL",D,19
+356,112753,"Øystein Sveine, Grong",D,19
+356,115078,"August Fines, Rissa",D,19
+361,114770,"Justin Dano Sagarino, Frøya",D,18
+361,114959,"Luxshan Manoranjan, Stovner",D,18
+361,113117,"Qiang Du, Asker",D,18
+361,113396,"Gian Carlos Dell Acqua, Djerv",D,18
+361,111656,"Alexander Kristensen, Grimstad",D,18
+361,108910,"Gustav Seglsten, Oppegård IL",D,18
+361,108902,"Benny Vu, NTNUI",D,18
+361,112640,"Øivind Storvik, I.L Ros",D,18
+361,112004,"Stian Ruud-Larsen, Stavanger",D,18
+361,110410,"Anders Tranberg, Stavanger",D,18
+361,110874,"Geir Bjørsvik, Hadsel",D,18
+361,103542,"Trond Mære, Verdal",D,18
+361,107742,"Harm  Kroon, Pillarguri",D,18
+374,116600,"Espen Martinussen, Pillarguri",D,17
+374,115086,"Kåre Engan, Orkanger",D,17
+374,115528,"Stian Sæter, Norborg",D,17
+377,115561,"Jarle Andresen, IL Strand-Ulv",D,16
+377,115296,"Johan Gravdal, Stanghelle IL",D,16
+377,113335,"Kenneth salvadhoor, Stovner",D,16
+377,113276,"Per Arne Hammer, Frøya",D,16
+377,108073,"Odin Formo, Gullvikmoen",D,16
+377,108074,"Jonas Formo, Gullvikmoen",D,16
+377,115560,"Edvard Rosenberg, Nøtterøy",D,16
+377,116821,"Rolf Erik Kristoffersen Høglien, Pillarguri",D,16
+377,116877,"Sam Michel Clergeau, Pillarguri",D,16
+377,116797,"Steinar Mæhlum, Pillarguri",D,16
+377,110259,"Pranav Tehlan, Sotra",D,16
+377,116493,"Daniel Kokai, NTNUI",D,16
+377,111641,"Noah Østhassel Harman, Kristiansand",D,16
+377,107370,"Stig Landin, Sverige",D,16
+377,101445,"Marius Olsen, Verdal",D,16
+377,110673,"Einar Morgan Utne, Karmøy",D,16
+377,106888,"Brage Løken-Jacobsen, Stavanger",D,16
+377,112059,"Fredrik Nilssen, Trondheim",D,16
+377,111463,"Håvard Gustavsen, Imås IL",D,16
+396,112522,"William Wilsone Walker, Sotra",D,15
+396,101111,"Inge Rosset, Grong",D,15
+396,100477,"Arne Neverrøsten, Tynset",D,15
+396,116158,"Lars Erik Sjølstad, Herøy",D,15
+396,100768,"Eystein Vik, Sandefjord",D,15
+396,100160,"Tore Groven, Klæbu",D,15
+396,116608,"Jørgen Nordhøy, Grong",D,15
+396,114830,"Carl Danielsen, Gullvikmoen",D,15
+396,115352,"Kristian Walbom, Moss",D,15
+396,115496,"Imran SahebBedadhaluri, Stovner",D,15
+396,115994,"Øyvind Rasmussen, Orkanger",D,15
+407,115513,"Vinh Le Nguyen, Bærum",D,14
+407,115605,"Jacob Munch, Vestre Aker",D,14
+407,115249,"Kurt Førde, Gullvikmoen",D,14
+407,114204,"Muhammad Abdur Rehman, Stovner",D,14
+407,100322,"Arnt-Helge Karlsen, Stavanger",D,14
+407,103521,"Thomas Iversen, Kristiansand",D,14
+407,116741,"Lasse Buus Nielsen, Ullevål",D,14
+407,116953,"Matthias Mühleisen, Haugerud",D,14
+407,108304,"Abhishek Singh, Vestre Aker",D,14
+407,113738,"Aksel Fossåskaret, Vestre Aker",D,14
+407,113961,"Felix Rostad, Sandefjord",D,14
+407,101488,"Ståle Skorpholm, Sotra",D,14
+407,100951,"Jack Oterhals, Bergen",D,14
+407,112780,"Per Arne Aas, Trondheim",D,14
+407,111893,"Eirik Sørstrand, Kristiansand",D,14
+407,106363,"Yusman Kamaleri, Ullevål",D,14
+407,109079,"Glenn Humlen, Ålesund",D,14
+407,110468,"Adrian Janitz, Moss",D,14
+407,110217,"Torfinn Nesset, Imås IL",D,14
+407,110091,"John Olav Rædergård	, Orkanger",D,14
+427,109943,"Thomas Mortensen, Drammen",D,13
+427,111592,"Einar Mathias Øren , Gullvikmoen",D,13
+427,111336,"Bernt Erik Sandnes, Orkanger",D,13
+427,113023,"Zhile Shen, OSI",D,13
+427,101976,"Edvin Marthinussen, Norborg",D,13
+427,105912,"Per Arne Bjørklund, Pillarguri",D,13
+427,116200,"Khalid Mahmud, NTNUI",D,13
+427,116169,"Ian Omedes, BSI",D,13
+427,114244,"Erik Christiansen, NTNUI",D,13
 436,114284,"Sebastian Tho Hang, Klemetsrud",D,12
-436,113343,"Sourav Kumar Mishra, Haugerud",D,12
-436,113322,"Hans Martin Mabäcker, Moss",D,12
-436,113574,"Martin Kirkpatrick Saunes, BSI",D,12
 436,113238,"Sander Kirkbakk, Flatås",D,12
+436,113343,"Sourav Kumar Mishra, Haugerud",D,12
+436,113574,"Martin Kirkpatrick Saunes, BSI",D,12
+436,115266,"Per Haarr Dyvik, Sola",D,12
 436,115207,"Simen Prestnes Fosså, IL Strand-Ulv",D,12
 436,116086,"Thomas Kleveland, OSI",D,12
+436,115887,"Jakob Lønningen, IL Strand-Ulv",D,12
 436,113777,"Stine Holm Bjørdal, Frogner",D,12
-436,114523,"Leon Hu-Xu, Trondheim",D,12
-436,114121,"Anton Hofmann, Kvæfjord",D,12
 436,101201,"Andreas Halle, Sandefjord",D,12
+436,114523,"Leon Hu-Xu, Trondheim",D,12
 436,116554,"Rouven Koslowski, NTNUI",D,12
 436,112919,"Patrik Toftevåg-nesset, Bergen",D,12
 436,115935,"Muhammed Ibrahim Syed, Bergen",D,12
-436,116643,"Jonas Opsahl, BSI",D,12
 436,116631,"Jarle Løland, Dale",D,12
-436,113013,"Fred Olaf Sørensen, Stanghelle IL",D,12
-436,110874,"Geir Bjørsvik, Hadsel",D,12
-436,109437,"Jonatan Broch Granum, Kristiansand",D,12
-436,106633,"Haakon Lærkerød Jelsness, Moss",D,12
+436,116643,"Jonas Opsahl, BSI",D,12
+436,100756,"Lars Vanvikmyr, Trondheim",D,12
+436,100285,"Marius Imset, Slagen",D,12
 436,102447,"Vegard Leksås, Trondheim",D,12
+436,102788,"Niels Gunnar Juel, OSI",D,12
 436,101684,"Runar Måøy, Kolvereid",D,12
 436,101270,"Jonas Christensen, Frogner",D,12
 436,107544,"Eskil Styve, Ålesund",D,12
 436,108192,"David Nguyen, Klemetsrud",D,12
 436,101009,"Ling Zhuang Zeng, Pillarguri",D,12
+436,107503,"Aleksej Roman Kustrin Iversen , Rubbestadneset",D,12
 436,107131,"Mattias Mørk, Kristiansand",D,12
-436,100756,"Lars Vanvikmyr, Trondheim",D,12
-436,104306,"Dimiter Ivanov, Asker",D,12
-436,100285,"Marius Imset, Slagen",D,12
-466,109394,"Sara Bellesen, Sola",D,11
-466,112524,"Johannes Lillevik Førde, Gullvikmoen",D,11
-466,112087,"Knut Braaen, Bærum",D,11
-466,114061,"Lukas Sulebakk, Ålesund",D,11
-466,116239,"Arvydas Malakauskas, Frøya",D,11
-466,113518,"Najeeb ahmad Qazi, Stovner",D,11
-466,114769,"Tete, Frøya",D,11
-473,113509,"Jude Lourderajan Salvadhoor, Stovner",D,10
-473,113495,"Huy Thai Dang Cao, Strømmen",D,10
-473,115986,"Mahesh Livera, Grimstad",D,10
-473,115479,"William Dalheim, NTNUI",D,10
-473,116366,"Tom Erik Skårn, Grong",D,10
-473,113590,"Ingrid Teistung, Bergen",D,10
-473,105787,"Haavard Haugebo, Imås IL",D,10
-473,114187,"Sivert Optjernsberget Vestli, Haugerud",D,10
-473,114089,"Aksel Hegerstrøm Haugli, Moss",D,10
-473,105722,"Vinoth Kumar Balasingam, Bergen",D,10
-473,105120,"Vincentius Rumawas, Asker",D,10
-473,116628,"Alperen Kara, BSI",D,10
-473,116345,"Le Feng, Stavanger",D,10
-473,113647,"Jomar Sagmo, Grong",D,10
-473,109241,"Christian Lang, Trondheim",D,10
-473,111795,"Pernille Lillevik, Nesna",D,10
-473,112144,"Vasanthan Nadarasah, Stovner",D,10
-473,111800,"Eirik Ekerhovd, Sotra",D,10
-473,111391,"Stian Horvei, Sola",D,10
-473,112608,"Devendra Rameshwarsingh, Stovner",D,10
-473,109052,"Ivan Sundt, Karmøy",D,10
-473,106874,"Eirik Kallåk Larsen, Pillarguri",D,10
-473,110410,"Anders Tranberg, Stavanger",D,10
-473,104568,"Vemund Korssjøen, Grong",D,10
-473,105065,"Dennis Andersen Moe, Sotra",D,10
-473,106537,"Rowena Lindberg, Kolvereid",D,10
-473,100734,"Vijay Ramaswamy, Stavanger",D,10
-473,105911,"Osman Bekri Khan, Drammen",D,10
-473,100665,"Tor-Kristian Storvik, Bodø",D,10
-473,100923,"Bjørn Rakstang, Hamar",D,10
-473,107608,"Tarjei Bruaas, Bodø",D,10
-473,107895,"Tor Ragnar Johansen, Hammerfest",D,10
-473,102559,"Ketil Olsen, Bodø",D,10
-473,102498,"Rune Enoksen, Porsgrunn",D,10
-507,107065,"Elias Ausen, Moss",D,9
-507,105674,"Sander Bunes Kristensen, Moss",D,9
-507,116663,"Niels Stagegaard, Trondheim",D,9
-507,115386,"Steinar Vambeseth, Norborg",D,9
-507,113752,"Simon Åkre, Vigra IL",D,9
-507,114974,"Jay-Mar Ladera Tiburcio, Lambertseter IF",D,9
-513,114478,"Birk Helleren, Mandal",D,8
-513,114344,"Haider Ali, Haugerud",D,8
-513,113781,"Sivasanger Logeswaran, Haugerud",D,8
-513,113685,"Bredo Møller, Kirkenes",D,8
-513,113435,"Dowon Kwak, OSI",D,8
-513,113381,"Kenneth Bjørnestøl, Kristiansand",D,8
-513,115365,"Peimao Zhang, Sola",D,8
-513,115194,"Elshan Hasanov, Klemetsrud",D,8
-513,115187,"Arun Prahash Kalyana Sundaram, Sola",D,8
-513,115553,"Per Bohman, Karmøy",D,8
-513,101583,"Anders Skar, Nøtterøy",D,8
-513,116673,"Thor Martin Mortensen, Gullvikmoen",D,8
-513,114555,"Jude Dhushyanthan, Djerv",D,8
-513,116475,"Jacob Johansen, IL Strand-Ulv",D,8
-513,112454,"Dianne Christine Geronimo, Trondheim",D,8
-513,115659,"Kamran Afzal, Haugerud",D,8
-513,115829,"Per Arne Henning, Trondheim",D,8
-513,111808,"Ashwin Kumar Rao, Djerv",D,8
-513,116885,"Samraat Zingha Ramachandran, Stovner",D,8
-513,116487,"Sundar Reddi, Haugerud",D,8
-513,116492,"Hassan Munir, Stovner",D,8
-513,113364,"Prathamesh Gadekar, Stavanger",D,8
-513,110873,"Espen K. Marås, BSI",D,8
-513,104598,"Tarjei Sveen, Imås IL",D,8
-513,116291,"Inge Knoff, Bygdø",D,8
-513,116302,"Jakob Endres, NTNUI",D,8
-513,116304,"Espen Ditmansen, Drammen",D,8
-513,116380,"Gøran Nordli Hestetun, Bergen",D,8
-513,108907,"Martin Hyllestad, Trondheim",D,8
-513,100716,"Tore Hansen, Nesna",D,8
-513,106128,"Karina Elisabeth Andreassen, Kirkenes",D,8
-513,105161,"Martin Grøtterød, Sandefjord",D,8
-513,100449,"Tommy Mokkelbost, Flatås",D,8
-513,102852,"Jonny Colen, Grong",D,8
-513,107172,"Torbjörn Sörlin, Sverige",D,8
-513,107429,"Henriette  Ellingsen, Tromsø",D,8
-513,107407,"John Stålnacke, Sverige",D,8
-513,107516,"Kennet Hellesund Ellingsen, Bergen",D,8
-513,110938,"Ole Martin Kolberg , Grong",D,8
-513,110521,"Carl Magnus Woldstad, Stavanger",D,8
-513,107039,"Jon Henning Bergane, Skien BK",D,8
-513,108742,"Roald Grannes, Haugesund",D,8
-513,108925,"Odin Mauset Skaugen, Orkanger",D,8
-513,100830,"Charlotte Aase, Bærum",D,8
-513,109569,"Sander Johansen, Nesna",D,8
-513,112156,"Emil Lien Akre, Stavanger",D,8
-513,112361,"Hans Olav Femsteinevik, IL Strand-Ulv",D,8
-513,111804,"Konrad Soløy Myrbostad, Nesna",D,8
-513,111807,"Anders Heldal, Askøy",D,8
-513,111818,"Nguyen Minh Nhat, Vestre Aker",D,8
-563,112021,"Arnt Ole Haukanes, Austevoll",D,7
-563,112023,"Ådne Vik, Fitjar",D,7
-563,111033,"Rajiv Arora, Stovner",D,7
-563,112673,"Marius Dolven, Slagen",D,7
-563,108737,"Manas Dubey, NTNUI",D,7
-563,110544,"Mathanarupan Sithiravelautham, Stovner",D,7
-563,110061,"Anilkumar Unnithan, Stavanger",D,7
-563,110175,"Roger Johansen, Austevoll",D,7
-563,109823,"Kawa Kavian, Djerv",D,7
-563,107855,"Erik Winger, Orkanger",D,7
-563,103013,"Tom Smebye, Verdal",D,7
-563,104749,"Trond Krogsæter, Karmøy",D,7
-563,105089,"Sturla Hansen, Hadsel",D,7
-563,109494,"Christian Landbo Olesen, Vestre Aker",D,7
-563,115117,"Syed Mohammed Ali, IL Skrim",D,7
-563,100768,"Eystein Vik, Sandefjord",D,7
-563,116634,"Niharsan Ketheeswaran, BSI",D,7
-563,115084,"Søren Sindre Munch, Lambertseter IF",D,7
-563,113243,"Svein Hjertholm, Karmøy",D,7
-563,113247,"Åsmund Sønsteli, Pillarguri",D,7
-563,115053,"Hari Shankar Chembeti, Trondheim",D,7
-584,114343,"Ramakrishna Punjal, Haugerud",D,6
-584,113163,"Viktor Mokkelbost, Flatås",D,6
-584,113379,"Frode Rosseland, Kristiansand",D,6
-584,113984,"Lomås Arnfinn, Strømmen",D,6
-584,115118,"Hugo Rosano, Kristiansand",D,6
-584,115295,"Khai Jun, Svalbard",D,6
-584,115562,"Bao Quynh Truong, Sola",D,6
-584,116000,"Thanida Suttirak, Sotra",D,6
-584,116089,"Le Tran Bao An, OSI",D,6
-584,115603,"Gabriel Alexandru, Vigra IL",D,6
-584,115887,"Jakob Lønningen, IL Strand-Ulv",D,6
-584,115941,"Eirik Tetlie, Verdal",D,6
-584,100547,"Stian Prestø, Herøy",D,6
-584,116488,"Zahir Mohamed, Grimstad",D,6
-584,116689,"Aamer Shehzad, Gullvikmoen",D,6
-584,115138,"Mio Skuterud Stenseth, Askøy",D,6
-584,113138,"Veeranjaneyulu Toka, Haugerud",D,6
-584,112551,"Theo Vigane Storhaug, Stavanger",D,6
-584,116780,"Ebbe Lind Kristensen, Haugerud",D,6
-584,116785,"Divy Prakash, IL Skrim",D,6
-584,105606,"Ingrid Gåsbakk, Grong",D,6
-584,110213,"Benjamin Gråberg, Askøy",D,6
-584,100014,"Geir Arnevik, Grimstad",D,6
-584,116400,"Leonardo Rohling, IL Skrim",D,6
-584,113108,"Patrik Backström, Sverige",D,6
-584,101241,"Knut Landmark, Haugerud",D,6
-584,116494,"Frikk Teodor Bull-Hansen, NTNUI",D,6
-584,115653,"Jie Xu, Trondheim",D,6
-584,116225,"Magnus Bech Hesselbjerg, NTNUI",D,6
-584,116311,"Tore Johannessen, Sotra",D,6
-584,116264,"Petter Moe Tennebø, Austevoll",D,6
-584,116143,"Morten Hallan, Kolvereid",D,6
-584,104719,"Lars Bjørnar Vist, Grong",D,6
-584,100439,"Christoffer Hveding, Hammerfest",D,6
-584,104929,"Rune Voreland, Kristiansand",D,6
-584,100294,"Richard Jakobsen, Nøtterøy",D,6
-584,102963,"Adam Karsen, Bygdø",D,6
-584,100707,"Andreas Abrahamsen, Otra IL",D,6
-584,105912,"Per Arne Bjørklund, Pillarguri",D,6
-584,105986,"Tehmur Ali Ifzal, Mortensrud-Aker",D,6
-584,106028,"Magnus Westerlund, Orkanger",D,6
-584,100681,"Jeanette Svendsen, Vestre Aker",D,6
-584,105360,"Even Langås Kvam, Orkanger",D,6
-584,100630,"Runar Tandstad, Sykkylven",D,6
-584,107632,"Noah Andersen, Horten",D,6
-584,107071,"Ashwin Nambiaruveettil, OSI",D,6
-584,107152,"Frode Brønstad, Grong",D,6
-584,107206,"Katja Botcharova Ellingsen, Bergen",D,6
-584,101090,"Marius Aspaas, Klæbu",D,6
-584,101896,"Hildegunn Måøy, Kolvereid",D,6
-584,109833,"Julie Albrektsen, Austevoll",D,6
-584,109878,"Sofie Jin Reistadbakk, Haugerud",D,6
-584,110152,"Kristoffer Jenssen, Ålesund",D,6
-584,110297,"Shuwen Yang, Trondheim",D,6
-584,110401,"Renate Haug Lien, Bodø",D,6
-584,110206,"Kristian Løe, Tromsø",D,6
-584,106654,"Nikolai Korostel, Kirkenes",D,6
-584,100849,"Tore Sperre, Ålesund",D,6
-584,108831,"Espen Fredriksen , Gullvikmoen",D,6
-584,109499,"Roger Morland, Otra IL",D,6
-584,112612,"Jørn Are Pedersen, Harstad",D,6
-584,112148,"Phong Lam, Strømmen",D,6
-584,112491,"Moses Gnanaraj, Stovner",D,6
-584,111053,"Edvin Nordbø, Askøy",D,6
-584,111580,"Geir Liljevold, Norborg",D,6
-649,109575,"Svein Brenna, Jarlsberg",D,5
-649,109371,"Norun R. Fosså, Imås IL",D,5
-649,107408,"Tommy Pettersson, Sverige",D,5
-649,107576,"Gagan Kumar, Sortland",D,5
-649,106252,"Oddbjørn Svinsås, Orkanger",D,5
-649,104479,"Kjetil Ragde, Stord",D,5
-649,115914,"Kent Nguyen, BSI",D,5
-649,111005,"Edvart Soløy Myrbostad, Nesna",D,5
-649,116692,"Erik Fiskum, Grong",D,5
-649,114022,"Are Kjeseth, Vigra IL",D,5
-649,114077,"Julian Hjelle Sæter, Norborg",D,5
-649,114993,"Daniel Olai Vambeseth, Norborg",D,5
-649,106447,"Tuva Bjørbekk, NTNUI",D,5
-649,115985,"Bahram Gorrjiyan, Verdal",D,5
-649,115512,"Audun Knutsønn Hauge, BSI",D,5
-649,115461,"Kenneth Fagervoll, Flatås",D,5
-649,115396,"Magnus Severinsen, BSI",D,5
-649,115148,"Jordan Michael Bauman, Askøy",D,5
-649,113935,"EIRIK EGGEN, Klæbu",D,5
-649,113076,"Roy Uggedal, Vigra IL",D,5
-649,113119,"Titto Idicula, Trondheim",D,5
-649,114153,"Tor Arild Svela, Klemetsrud",D,5
-649,115046,"Dong Jin Seo, Kolvereid",D,5
+436,113013,"Fred Olaf Sørensen, Stanghelle IL",D,12
+436,110206,"Kristian Løe, Tromsø",D,12
+436,110132,"Morten Mortvedt, Austevoll",D,12
+436,109437,"Jonatan Broch Granum, Kristiansand",D,12
+436,106633,"Haakon Lærkerød Jelsness, Moss",D,12
+436,113434,"Radoslaw Jan Ewertowski, Varhaug IL",D,12
+469,112524,"Johannes Lillevik Førde, Gullvikmoen",D,11
+469,112087,"Knut Braaen, Bærum",D,11
+469,114061,"Lukas Sulebakk, Ålesund",D,11
+469,116239,"Arvydas Malakauskas, Frøya",D,11
+469,113518,"Najeeb ahmad Qazi, Stovner",D,11
+469,113322,"Hans Martin Mabäcker, Moss",D,11
+469,114769,"Tete, Frøya",D,11
+476,113509,"Jude Lourderajan Salvadhoor, Stovner",D,10
+476,113495,"Huy Thai Dang Cao, Strømmen",D,10
+476,115479,"William Dalheim, NTNUI",D,10
+476,115295,"Khai Jun, Svalbard",D,10
+476,116366,"Tom Erik Skårn, Grong",D,10
+476,113590,"Ingrid Teistung, Bergen",D,10
+476,114089,"Aksel Hegerstrøm Haugli, Moss",D,10
+476,105787,"Haavard Haugebo, Imås IL",D,10
+476,111795,"Pernille Lillevik, Nesna",D,10
+476,114187,"Sivert Optjernsberget Vestli, Haugerud",D,10
+476,113684,"Silas Saga Fløystad, Kirkenes",D,10
+476,113876,"Mateo Manfreda, Kirkenes",D,10
+476,105722,"Vinoth Kumar Balasingam, Bergen",D,10
+476,105120,"Vincentius Rumawas, Asker",D,10
+476,116628,"Alperen Kara, BSI",D,10
+476,116345,"Le Feng, Stavanger",D,10
+476,109241,"Christian Lang, Trondheim",D,10
+476,113647,"Jomar Sagmo, Grong",D,10
+476,112144,"Vasanthan Nadarasah, Stovner",D,10
+476,111800,"Eirik Ekerhovd, Sotra",D,10
+476,111409,"Endre Lindheim, Varhaug IL",D,10
+476,112608,"Devendra Rameshwarsingh, Stovner",D,10
+476,109052,"Ivan Sundt, Karmøy",D,10
+476,107446,"Jørgen Thorp, Jarlsberg",D,10
+476,107608,"Tarjei Bruaas, Bodø",D,10
+476,107895,"Tor Ragnar Johansen, Hammerfest",D,10
+476,102559,"Ketil Olsen, Bodø",D,10
+476,102498,"Rune Enoksen, Porsgrunn",D,10
+476,104568,"Vemund Korssjøen, Grong",D,10
+476,106537,"Rowena Lindberg, Kolvereid",D,10
+476,105911,"Osman Bekri Khan, Drammen",D,10
+476,100734,"Vijay Ramaswamy, Stavanger",D,10
+476,100665,"Tor-Kristian Storvik, Bodø",D,10
+509,105674,"Sander Bunes Kristensen, Moss",D,9
+509,107065,"Elias Ausen, Moss",D,9
+509,110061,"Anilkumar Unnithan, Stavanger",D,9
+509,112361,"Hans Olav Femsteinevik, IL Strand-Ulv",D,9
+509,116615,"Deepak Kumar Swain, Haugerud",D,9
+509,116663,"Niels Stagegaard, Trondheim",D,9
+509,112232,"Regy Selsaas, Karmøy",D,9
+509,114120,"Nicole Hofmann, Kvæfjord",D,9
+509,115386,"Steinar Vambeseth, Norborg",D,9
+509,113752,"Simon Åkre, Vigra IL",D,9
+509,114974,"Jay-Mar Ladera Tiburcio, Lambertseter IF",D,9
+520,114478,"Birk Helleren, Mandal",D,8
+520,113685,"Bredo Møller, Kirkenes",D,8
+520,113781,"Sivasanger Logeswaran, Haugerud",D,8
+520,113943,"Ove Kjelland-Mørdre, OSI",D,8
+520,113381,"Kenneth Bjørnestøl, Kristiansand",D,8
+520,113435,"Dowon Kwak, OSI",D,8
+520,113247,"Åsmund Sønsteli, Pillarguri",D,8
+520,115365,"Peimao Zhang, Sola",D,8
+520,115194,"Elshan Hasanov, Klemetsrud",D,8
+520,115187,"Arun Prahash Kalyana Sundaram, Sola",D,8
+520,108907,"Martin Hyllestad, Trondheim",D,8
+520,116380,"Gøran Nordli Hestetun, Bergen",D,8
+520,116302,"Jakob Endres, NTNUI",D,8
+520,116304,"Espen Ditmansen, Drammen",D,8
+520,116291,"Inge Knoff, Bygdø",D,8
+520,113364,"Prathamesh Gadekar, Stavanger",D,8
+520,116487,"Sundar Reddi, Haugerud",D,8
+520,116492,"Hassan Munir, Stovner",D,8
+520,110873,"Espen K. Marås, BSI",D,8
+520,104598,"Tarjei Sveen, Imås IL",D,8
+520,101583,"Anders Skar, Nøtterøy",D,8
+520,116673,"Thor Martin Mortensen, Gullvikmoen",D,8
+520,116475,"Jacob Johansen, IL Strand-Ulv",D,8
+520,114555,"Jude Dhushyanthan, Djerv",D,8
+520,112454,"Dianne Christine Geronimo, Trondheim",D,8
+520,115659,"Kamran Afzal, Haugerud",D,8
+520,115829,"Per Arne Henning, Trondheim",D,8
+520,111808,"Ashwin Kumar Rao, Djerv",D,8
+520,116885,"Samraat Zingha Ramachandran, Stovner",D,8
+520,111391,"Stian Horvei, Sola",D,8
+520,111804,"Konrad Soløy Myrbostad, Nesna",D,8
+520,111807,"Anders Heldal, Askøy",D,8
+520,111818,"Nguyen Minh Nhat, Vestre Aker",D,8
+520,112023,"Ådne Vik, Fitjar",D,8
+520,109856,"Albert Aasheim-Engen, Frogner",D,8
+520,110521,"Carl Magnus Woldstad, Stavanger",D,8
+520,110938,"Ole Martin Kolberg , Grong",D,8
+520,109394,"Sara Bellesen, Sola",D,8
+520,109569,"Sander Johansen, Nesna",D,8
+520,100830,"Charlotte Aase, Bærum",D,8
+520,106874,"Eirik Kallåk Larsen, Pillarguri",D,8
+520,107039,"Jon Henning Bergane, Skien BK",D,8
+520,108925,"Odin Mauset Skaugen, Orkanger",D,8
+520,107172,"Torbjörn Sörlin, Sverige",D,8
+520,107407,"John Stålnacke, Sverige",D,8
+520,107429,"Henriette  Ellingsen, Tromsø",D,8
+520,107516,"Kennet Hellesund Ellingsen, Bergen",D,8
+520,106128,"Karina Elisabeth Andreassen, Kirkenes",D,8
+520,100716,"Tore Hansen, Nesna",D,8
+520,100449,"Tommy Mokkelbost, Flatås",D,8
+520,105161,"Martin Grøtterød, Sandefjord",D,8
+520,102852,"Jonny Colen, Grong",D,8
+572,103013,"Tom Smebye, Verdal",D,7
+572,104749,"Trond Krogsæter, Karmøy",D,7
+572,107855,"Erik Winger, Orkanger",D,7
+572,108737,"Manas Dubey, NTNUI",D,7
+572,111033,"Rajiv Arora, Stovner",D,7
+572,110544,"Mathanarupan Sithiravelautham, Stovner",D,7
+572,109823,"Kawa Kavian, Djerv",D,7
+572,112673,"Marius Dolven, Slagen",D,7
+572,115961,"Bilal Afzal, Tromsøstudentenes IL",D,7
+572,116634,"Niharsan Ketheeswaran, BSI",D,7
+572,115117,"Syed Mohammed Ali, IL Skrim",D,7
+572,109494,"Christian Landbo Olesen, Vestre Aker",D,7
+572,105089,"Sturla Hansen, Hadsel",D,7
+572,115084,"Søren Sindre Munch, Lambertseter IF",D,7
+572,113243,"Svein Hjertholm, Karmøy",D,7
+572,115053,"Hari Shankar Chembeti, Trondheim",D,7
+588,114343,"Ramakrishna Punjal, Haugerud",D,6
+588,114344,"Haider Ali, Haugerud",D,6
+588,113163,"Viktor Mokkelbost, Flatås",D,6
+588,113379,"Frode Rosseland, Kristiansand",D,6
+588,113984,"Lomås Arnfinn, Strømmen",D,6
+588,115118,"Hugo Rosano, Kristiansand",D,6
+588,115562,"Bao Quynh Truong, Sola",D,6
+588,115603,"Gabriel Alexandru, Vigra IL",D,6
+588,115941,"Eirik Tetlie, Verdal",D,6
+588,116089,"Le Tran Bao An, OSI",D,6
+588,116000,"Thanida Suttirak, Sotra",D,6
+588,115986,"Mahesh Livera, Grimstad",D,6
+588,116225,"Magnus Bech Hesselbjerg, NTNUI",D,6
+588,116311,"Tore Johannessen, Sotra",D,6
+588,115653,"Jie Xu, Trondheim",D,6
+588,116264,"Petter Moe Tennebø, Austevoll",D,6
+588,116143,"Morten Hallan, Kolvereid",D,6
+588,101241,"Knut Landmark, Haugerud",D,6
+588,113108,"Patrik Backström, Sverige",D,6
+588,116494,"Frikk Teodor Bull-Hansen, NTNUI",D,6
+588,100547,"Stian Prestø, Herøy",D,6
+588,116488,"Zahir Mohamed, Grimstad",D,6
+588,116689,"Aamer Shehzad, Gullvikmoen",D,6
+588,115138,"Mio Skuterud Stenseth, Askøy",D,6
+588,116400,"Leonardo Rohling, IL Skrim",D,6
+588,110213,"Benjamin Gråberg, Askøy",D,6
+588,100014,"Geir Arnevik, Grimstad",D,6
+588,112551,"Theo Vigane Storhaug, Stavanger",D,6
+588,116629,"Pål Nesse, Lye",D,6
+588,113138,"Veeranjaneyulu Toka, Haugerud",D,6
+588,116780,"Ebbe Lind Kristensen, Haugerud",D,6
+588,116785,"Divy Prakash, IL Skrim",D,6
+588,105606,"Ingrid Gåsbakk, Grong",D,6
+588,112612,"Jørn Are Pedersen, Harstad",D,6
+588,112156,"Emil Lien Akre, Stavanger",D,6
+588,112491,"Moses Gnanaraj, Stovner",D,6
+588,112148,"Phong Lam, Strømmen",D,6
+588,112021,"Arnt Ole Haukanes, Austevoll",D,6
+588,111580,"Geir Liljevold, Norborg",D,6
+588,109878,"Sofie Jin Reistadbakk, Haugerud",D,6
+588,110152,"Kristoffer Jenssen, Ålesund",D,6
+588,110175,"Roger Johansen, Austevoll",D,6
+588,110297,"Shuwen Yang, Trondheim",D,6
+588,110401,"Renate Haug Lien, Bodø",D,6
+588,111053,"Edvin Nordbø, Askøy",D,6
+588,108831,"Espen Fredriksen , Gullvikmoen",D,6
+588,100849,"Tore Sperre, Ålesund",D,6
+588,106654,"Nikolai Korostel, Kirkenes",D,6
+588,107632,"Noah Andersen, Horten",D,6
+588,107071,"Ashwin Nambiaruveettil, OSI",D,6
+588,107152,"Frode Brønstad, Grong",D,6
+588,107206,"Katja Botcharova Ellingsen, Bergen",D,6
+588,101090,"Marius Aspaas, Klæbu",D,6
+588,101896,"Hildegunn Måøy, Kolvereid",D,6
+588,104719,"Lars Bjørnar Vist, Grong",D,6
+588,100439,"Christoffer Hveding, Hammerfest",D,6
+588,104929,"Rune Voreland, Kristiansand",D,6
+588,100294,"Richard Jakobsen, Nøtterøy",D,6
+588,102963,"Adam Karsen, Bygdø",D,6
+588,106028,"Magnus Westerlund, Orkanger",D,6
+588,100681,"Jeanette Svendsen, Vestre Aker",D,6
+588,105360,"Even Langås Kvam, Orkanger",D,6
+588,100630,"Runar Tandstad, Sykkylven",D,6
+588,116966,"Knut Steffensen, Sverige",D,6
+652,106252,"Oddbjørn Svinsås, Orkanger",D,5
+652,107408,"Tommy Pettersson, Sverige",D,5
+652,107576,"Gagan Kumar, Sortland",D,5
+652,113076,"Roy Uggedal, Vigra IL",D,5
+652,116692,"Erik Fiskum, Grong",D,5
+652,114022,"Are Kjeseth, Vigra IL",D,5
+652,106447,"Tuva Bjørbekk, NTNUI",D,5
+652,114077,"Julian Hjelle Sæter, Norborg",D,5
+652,114993,"Daniel Olai Vambeseth, Norborg",D,5
+652,115914,"Kent Nguyen, BSI",D,5
+652,111005,"Edvart Soløy Myrbostad, Nesna",D,5
+652,115985,"Bahram Gorrjiyan, Verdal",D,5
+652,115461,"Kenneth Fagervoll, Flatås",D,5
+652,115512,"Audun Knutsønn Hauge, BSI",D,5
+652,115148,"Jordan Michael Bauman, Askøy",D,5
+652,115396,"Magnus Severinsen, BSI",D,5
+652,113935,"EIRIK EGGEN, Klæbu",D,5
+652,113119,"Titto Idicula, Trondheim",D,5
+652,114153,"Tor Arild Svela, Klemetsrud",D,5
+652,115046,"Dong Jin Seo, Kolvereid",D,5
 672,115047,"Sten-Vidar Busch, Rørvik",D,4
-672,114495,"Andreas Bjønness-Enghaug, Moss",D,4
 672,114636,"Melanie Antonella Matland, Moss",D,4
+672,114495,"Andreas Bjønness-Enghaug, Moss",D,4
+672,113259,"Tim Flugge Terjesen, IL Strand-Ulv",D,4
 672,113394,"Adnan Butt, Stovner",D,4
 672,113775,"Rajendra Danve, Asker",D,4
 672,115188,"Ken Strand, Kolvereid",D,4
 672,115206,"Anders Nerhus, IL Strand-Ulv",D,4
 672,115202,"Mads Nikolaj Bjerre, Klemetsrud",D,4
-672,115289,"Håvard Moe Jacobsen, Sola",D,4
 672,115552,"Vilhelm Skreddernes, Orkanger",D,4
-672,115996,"Apoorv Shukla, Lambertseter IF",D,4
 672,115912,"Einar Brinck Hansen, Harstad",D,4
+672,115996,"Apoorv Shukla, Lambertseter IF",D,4
 672,115894,"Marius Andre' Elsfjordstrand Beck, Nesna",D,4
 672,115896,"Jørgen Ove Havnsund, Norborg",D,4
-672,109064,"Frida Bjørvik Løvheim, Sandefjord",D,4
-672,116573,"Selveste Magnus Heieraas, Bodø",D,4
-672,109368,"Thea Vatne, Imås IL",D,4
-672,115524,"Brylle Castro, Bodø",D,4
-672,116605,"Jose Thomas, Vestre Aker",D,4
-672,109268,"Benjamin Teigland, Askøy",D,4
-672,115758,"Thomas Bringsli Midtun, Stanghelle IL",D,4
-672,106393,"Andreas Futaker, Verdal",D,4
-672,116629,"Pål Nesse, Lye",D,4
-672,111400,"Vebjørn Isberg Haugan, Moss",D,4
 672,116437,"Karl Koch-Nielsen, Dale",D,4
 672,116398,"Mitriy Azarov, Kolvereid",D,4
 672,116354,"Danil Michkayev, Sykkylven",D,4
-672,113954,"Martin Herstad, NTNUI",D,4
 672,116405,"Linu jose, Stovner",D,4
 672,105869,"Karni Khan, Drammen",D,4
-672,116101,"Vidar Vikestad, Verdal",D,4
-672,113066,"Kasper Berg, Sandefjord",D,4
+672,113954,"Martin Herstad, NTNUI",D,4
 672,116483,"Ingve Grannes, Sola",D,4
-672,113876,"Mateo Manfreda, Kirkenes",D,4
+672,109368,"Thea Vatne, Imås IL",D,4
+672,113066,"Kasper Berg, Sandefjord",D,4
 672,114364,"Ahmer Sheikh, Sotra",D,4
 672,109724,"Halvor Floden, Frogner",D,4
-672,105014,"Baard Janitz, Moss",D,4
-672,103803,"Merete Andreassen, Tromsø",D,4
-672,106597,"Marcus Busch Isaksen, Fitjar",D,4
-672,100903,"Jarle Grefslie, Horten",D,4
-672,101033,"Knut Morten Engen, Frogner",D,4
-672,101297,"Arne Martin Hagen, Stavanger",D,4
-672,109557,"Tommy Norheim, Nøtterøy",D,4
-672,109768,"Anita Aasebø, Austevoll",D,4
-672,109273,"Svein Andre Hol, Askøy",D,4
-672,106972,"Simen André Børke Høgberg, Hamar",D,4
-672,100804,"Helge Økland, Askøy",D,4
-672,110347,"Henrik Sørensen, Vestre Aker",D,4
-672,110540,"Ramesh Vinayaga, Stovner",D,4
-672,110541,"Bastien Mariyathas, Stovner",D,4
-672,110607,"Torfinn Settnøy, Rørvik",D,4
-672,111566,"Jonathan Rohde Hallager, Grong",D,4
+672,116101,"Vidar Vikestad, Verdal",D,4
+672,109064,"Frida Bjørvik Løvheim, Sandefjord",D,4
+672,116573,"Selveste Magnus Heieraas, Bodø",D,4
+672,115524,"Brylle Castro, Bodø",D,4
+672,116605,"Jose Thomas, Vestre Aker",D,4
+672,111400,"Vebjørn Isberg Haugan, Moss",D,4
+672,109268,"Benjamin Teigland, Askøy",D,4
+672,115758,"Thomas Bringsli Midtun, Stanghelle IL",D,4
+672,106393,"Andreas Futaker, Verdal",D,4
+672,112663,"Elias Søvik Gunnarsson, Linderud",D,4
+672,112312,"Gunnar Kolbeinsson, Norborg",D,4
+672,111439,"Tor Egil Frøyland, Haugesund",D,4
 672,111375,"Syver Kennedy, Lambertseter IF",D,4
 672,112121,"Asim Iftikhar, Stovner",D,4
 672,111697,"Vikas Kumar Sarna, Vestre Aker",D,4
-672,112157,"Simen Lien Akre, Stavanger",D,4
-672,112312,"Gunnar Kolbeinsson, Norborg",D,4
-672,112663,"Elias Søvik Gunnarsson, Linderud",D,4
-730,111399,"Olav Flaten, Imås IL",D,3
-730,110486,"Palany Subramaniam, Strømmen",D,3
-730,107032,"Tom Kristoffersen, Askøy",D,3
-730,102173,"Kjell Holdbakk, Klæbu",D,3
-730,104936,"Silje V. Kruksve Aasland, Rissa",D,3
-730,116049,"Shiliang Zhang, OSI",D,3
-730,116465,"Karthik Tanakala, Klemetsrud",D,3
-730,113345,"Theodor J. Myrvoll, Haugerud",D,3
-730,113929,"Asgeir Øverby, Flatås",D,3
-730,112232,"Regy Selsaas, Karmøy",D,3
-730,116348,"Nishant Mahesh Jadhav, Stavanger",D,3
-730,116364,"Knut arild Eidshaug, Kolvereid",D,3
-730,116118,"Rabish Kumar Singh, Stovner",D,3
-730,114120,"Nicole Hofmann, Kvæfjord",D,3
-730,114796,"Sander Nhat-Minh Nguyen, Bærum",D,3
-730,116122,"Shoaib Akram, Stovner",D,3
-730,116615,"Deepak Kumar Swain, Haugerud",D,3
-730,116672,"Steffen Juliussen, Gullvikmoen",D,3
-730,116693,"Martin Wüstefeld, Grong",D,3
-730,116681,"Jan are Hansen, Porsgrunn",D,3
-730,116649,"Guang Zhong Ding, Askøy",D,3
-730,115319,"Artur Ziolkowski, Moss",D,3
-730,115223,"Sindre Thoresen, OSI",D,3
-730,113787,"Markus Vik, Fitjar",D,3
-730,114851,"Ole Vevle, Djerv",D,3
-730,114287,"Ingvar Sandbugt-Hammer, Frøya",D,3
-730,114355,"Sharon Edward, Stovner",D,3
-757,114165,"Aman Sarna, Klemetsrud",D,2
+672,111566,"Jonathan Rohde Hallager, Grong",D,4
+672,107032,"Tom Kristoffersen, Askøy",D,4
+672,109575,"Svein Brenna, Jarlsberg",D,4
+672,109557,"Tommy Norheim, Nøtterøy",D,4
+672,109273,"Svein Andre Hol, Askøy",D,4
+672,110347,"Henrik Sørensen, Vestre Aker",D,4
+672,110607,"Torfinn Settnøy, Rørvik",D,4
+672,110540,"Ramesh Vinayaga, Stovner",D,4
+672,110541,"Bastien Mariyathas, Stovner",D,4
+672,100923,"Bjørn Rakstang, Hamar",D,4
+672,100903,"Jarle Grefslie, Horten",D,4
+672,107897,"Naga Pardha Borra, Tromsø",D,4
+672,101297,"Arne Martin Hagen, Stavanger",D,4
+672,106597,"Marcus Busch Isaksen, Fitjar",D,4
+672,100804,"Helge Økland, Askøy",D,4
+672,103803,"Merete Andreassen, Tromsø",D,4
+672,105014,"Baard Janitz, Moss",D,4
+672,105065,"Dennis Andersen Moe, Sotra",D,4
+672,104479,"Kjetil Ragde, Stord",D,4
+672,115959,"Anowarul Habib, Tromsøstudentenes IL",D,4
+732,104936,"Silje V. Kruksve Aasland, Rissa",D,3
+732,102173,"Kjell Holdbakk, Klæbu",D,3
+732,110486,"Palany Subramaniam, Strømmen",D,3
+732,109371,"Norun R. Fosså, Imås IL",D,3
+732,111399,"Olav Flaten, Imås IL",D,3
+732,114796,"Sander Nhat-Minh Nguyen, Bærum",D,3
+732,116122,"Shoaib Akram, Stovner",D,3
+732,116633,"Åge Steffen Prestø Andreassen, Lye",D,3
+732,116649,"Guang Zhong Ding, Askøy",D,3
+732,116693,"Martin Wüstefeld, Grong",D,3
+732,116681,"Jan are Hansen, Porsgrunn",D,3
+732,116672,"Steffen Juliussen, Gullvikmoen",D,3
+732,116049,"Shiliang Zhang, OSI",D,3
+732,116465,"Karthik Tanakala, Klemetsrud",D,3
+732,113345,"Theodor J. Myrvoll, Haugerud",D,3
+732,113929,"Asgeir Øverby, Flatås",D,3
+732,116348,"Nishant Mahesh Jadhav, Stavanger",D,3
+732,116364,"Knut arild Eidshaug, Kolvereid",D,3
+732,116118,"Rabish Kumar Singh, Stovner",D,3
+732,115223,"Sindre Thoresen, OSI",D,3
+732,115319,"Artur Ziolkowski, Moss",D,3
+732,113787,"Markus Vik, Fitjar",D,3
+732,114851,"Ole Vevle, Djerv",D,3
+732,114287,"Ingvar Sandbugt-Hammer, Frøya",D,3
+732,114355,"Sharon Edward, Stovner",D,3
 757,114852,"Dave Derder, Slagen",D,2
 757,114829,"Nikolai Danielsen, Gullvikmoen",D,2
-757,114615,"Mariusz Nowakowski, Klemetsrud",D,2
 757,113225,"Johnny Andersen, Klæbu",D,2
 757,113164,"Martin Wallenius Hesjeli, Flatås",D,2
-757,115314,"Sivasundar Anbumani, Stovner",D,2
-757,115277,"Shafiq Muhammad, Stovner",D,2
-757,115267,"Sondre Thoresen Tendeland, Sola",D,2
 757,115434,"Tommy Kjær Andersen, Stavanger",D,2
-757,115945,"Atle Ravndal, Kristiansand",D,2
-757,115963,"Simen Hauge, Karmøy",D,2
+757,115277,"Shafiq Muhammad, Stovner",D,2
+757,115314,"Sivasundar Anbumani, Stovner",D,2
+757,115553,"Per Bohman, Karmøy",D,2
 757,115511,"Andreas Vikse Dahle, BSI",D,2
 757,115576,"Jens Kalleklev, Klæbu",D,2
-757,116653,"Adam Masih, BSI",D,2
-757,114469,"Daniel Ombasic, Nøtterøy",D,2
-757,110025,"Hans Georg Hvistendahl, Vestre Aker",D,2
-757,116621,"Rafal Komsta, Ålesund",D,2
-757,116622,"Julian Wanvik Hagen, Kolvereid",D,2
-757,116497,"Nithin Nandan, Sangam",D,2
-757,116386,"Tobias h Mathiesen, Harstad",D,2
-757,114247,"Børre Kvarv Githmark, Grimstad",D,2
-757,113114,"Peder Strand, Sverige",D,2
-757,116587,"Behrooz Abdolzadegan Ghoochani, Imås IL",D,2
-757,104136,"Audun Mikalsen, Norborg",D,2
-757,115893,"Dag Ivar Lillevik, Nesna",D,2
-757,116594,"Benny Kuriakose, Sangam",D,2
-757,112126,"Varshini Manikandan, IL Skrim",D,2
-757,116743,"Victoria M, Hamar",D,2
-757,110148,"Vegard Andersen, IL Skrim",D,2
-757,115169,"Junzhe Liao, Sola",D,2
-757,116746,"Paal Steffen Lilleås, Sola",D,2
-757,116778,"Wildan Amith, Sola",D,2
-757,114484,"Laurits Angen, Trondheim",D,2
-757,100934,"Svein Atle Udjus, Grimstad",D,2
-757,116793,"Per Bjørn Wennevik, Kolvereid",D,2
-757,116795,"Bjørnar Sævik, Gullvikmoen",D,2
-757,116804,"Roger Skorstad, Grong",D,2
-757,116811,"Håvard André Østerbø, Gullvikmoen",D,2
-757,112677,"Minelli Marrin Mervin, Frogner",D,2
+757,114480,"Harald Victor Volleng, BSI",D,2
+757,116315,"Torjus Berdal, Stavanger",D,2
+757,116305,"Nasar Khan, Stovner",D,2
+757,116265,"Amir Shahzad, Klemetsrud",D,2
+757,116216,"Erlend Blindheim Hole, Trondheim",D,2
 757,116401,"Halidu Dimbei Malik, Verdal",D,2
 757,116382,"Lucas Justin Borge, BSI",D,2
+757,112677,"Minelli Marrin Mervin, Frogner",D,2
+757,100041,"Wenche Brinchmann, Moss",D,2
 757,116471,"Yuji Zhang, Dale",D,2
 757,107366,"Åse  Wallin, Sverige",D,2
 757,103482,"Kent Nyheim, Tromsø",D,2
 757,109161,"Atle Dahle, Stanghelle IL",D,2
 757,110112,"Merete Ruud Tuskin, Moss",D,2
 757,111814,"Simon Andrés Vasquez Frisnes, Bergen",D,2
-757,100041,"Wenche Brinchmann, Moss",D,2
 757,105946,"Mariann Andreassen, BSI",D,2
-757,116265,"Amir Shahzad, Klemetsrud",D,2
-757,116216,"Erlend Blindheim Hole, Trondheim",D,2
-757,116315,"Torjus Berdal, Stavanger",D,2
-757,114480,"Harald Victor Volleng, BSI",D,2
-757,116305,"Nasar Khan, Stovner",D,2
 757,116460,"Mathen Packiyalingam, Stovner",D,2
 757,116108,"Jakob Mordt-Bratteng, Fredrikstad BK",D,2
 757,101202,"Mads Hotvedt-Utheim, Sandefjord",D,2
 757,116547,"Muhammad Zain ul Hassan, NTNUI",D,2
-757,116170,"Galahad Kenarlikdjian, Frogner",D,2
 757,100158,"Britt Grindland, Grimstad",D,2
 757,103267,"Inge Storvik, Bodø",D,2
 757,103607,"Tommy H. Abrahamsen, Imås IL",D,2
-757,113684,"Silas Saga Fløystad, Kirkenes",D,2
+757,116170,"Galahad Kenarlikdjian, Frogner",D,2
 757,108350,"Linnea Cecilie Sørlie, Frogner",D,2
+757,114469,"Daniel Ombasic, Nøtterøy",D,2
+757,110025,"Hans Georg Hvistendahl, Vestre Aker",D,2
+757,116743,"Victoria M, Hamar",D,2
+757,116653,"Adam Masih, BSI",D,2
+757,116497,"Nithin Nandan, Sangam",D,2
+757,116587,"Behrooz Abdolzadegan Ghoochani, Imås IL",D,2
+757,116621,"Rafal Komsta, Ålesund",D,2
+757,116622,"Julian Wanvik Hagen, Kolvereid",D,2
+757,116386,"Tobias h Mathiesen, Harstad",D,2
+757,113114,"Peder Strand, Sverige",D,2
+757,114247,"Børre Kvarv Githmark, Grimstad",D,2
+757,116746,"Paal Steffen Lilleås, Sola",D,2
+757,116778,"Wildan Amith, Sola",D,2
+757,115169,"Junzhe Liao, Sola",D,2
+757,114484,"Laurits Angen, Trondheim",D,2
+757,110148,"Vegard Andersen, IL Skrim",D,2
+757,100934,"Svein Atle Udjus, Grimstad",D,2
+757,116793,"Per Bjørn Wennevik, Kolvereid",D,2
+757,116795,"Bjørnar Sævik, Gullvikmoen",D,2
+757,116804,"Roger Skorstad, Grong",D,2
+757,116811,"Håvard André Østerbø, Gullvikmoen",D,2
+757,104136,"Audun Mikalsen, Norborg",D,2
+757,116841,"Almoghira Hilal, Tromsø",D,2
+757,115893,"Dag Ivar Lillevik, Nesna",D,2
+757,112126,"Varshini Manikandan, IL Skrim",D,2
+757,116594,"Benny Kuriakose, Sangam",D,2
+757,111798,"Leiv Arne Risa, Sotra",D,2
+757,113074,"Gabriel Feodorov, Ålesund",D,2
+757,113075,"Anders Brennhagen, OSI",D,2
+757,112814,"Reavan Victor Thorsteinsson, Varhaug IL",D,2
+757,112819,"Sigve Bekkevoll, Tynset",D,2
+757,109779,"Kjetil Gunnesmo, Orkanger",D,2
+757,109499,"Roger Morland, Otra IL",D,2
+757,108742,"Roald Grannes, Haugesund",D,2
+757,106762,"Sverre Svensen, Haugesund",D,2
+757,110348,"Frode Tronrud, IL Skrim",D,2
+757,110663,"Ludvig Kolberg , Grong",D,2
+757,108285,"Hendrik Rytberg, Kvinnherad",D,2
+757,101001,"Geir Olsen, Kolvereid",D,2
+757,108140,"Agus Darmawan, Sola",D,2
 757,104000,"Zhilin Yang, Trondheim",D,2
 757,104274,"Andrine-Mikaela Kristiansen, Båtsfjord",D,2
 757,103065,"Magnus Eidshaug, Rørvik",D,2
 757,105788,"Jim Høyland, Haugesund",D,2
-757,108285,"Hendrik Rytberg, Kvinnherad",D,2
-757,101001,"Geir Olsen, Kolvereid",D,2
-757,108140,"Agus Darmawan, Sola",D,2
-757,107897,"Naga Pardha Borra, Tromsø",D,2
-757,107503,"Aleksej Roman Kustrin Iversen , Rubbestadneset",D,2
-757,110348,"Frode Tronrud, IL Skrim",D,2
-757,110663,"Ludvig Kolberg , Grong",D,2
-757,110305,"Kaj Søndergård Albrektsen, Austevoll",D,2
-757,109779,"Kjetil Gunnesmo, Orkanger",D,2
-757,111409,"Endre Lindheim, Varhaug IL",D,2
-757,111439,"Tor Egil Frøyland, Haugesund",D,2
-757,112127,"Rune Lavik-Haug, Moss",D,2
-757,112814,"Reavan Victor Thorsteinsson, Varhaug IL",D,2
-757,112819,"Sigve Bekkevoll, Tynset",D,2
-757,113074,"Gabriel Feodorov, Ålesund",D,2
-757,113075,"Anders Brennhagen, OSI",D,2
-842,113065,"Julie Norberg, Sandefjord",D,1
-842,112820,"Magnus Søberg, Tynset",D,1
-842,112818,"Magnus Kolstad Langeland , Tynset",D,1
-842,112666,"Steinar Høiback, Slagen",D,1
-842,112648,"Henrik Strand Høiback, Slagen",D,1
-842,112255,"Susanna Land Tellefsen, Imås IL",D,1
-842,112377,"Line Eldegard, Klæbu",D,1
-842,111428,"Fredrik T.N. Joakimsen, Slagen",D,1
-842,111589,"Beverly Henriksen, Norborg",D,1
-842,109838,"Sondre Aasebø, Austevoll",D,1
-842,106762,"Sverre Svensen, Haugesund",D,1
-842,100847,"Svend Morten Reinertsen, Herøy",D,1
-842,109108,"Eva Dobreva, Stavanger",D,1
-842,109731,"Luan Damaske, Oppegård IL",D,1
-842,107505,"Morten Amundsen, Rubbestadneset",D,1
-842,108046,"Kjell Tore Brakedal, Rubbestadneset",D,1
-842,101285,"Randi Selle, Stavanger",D,1
-842,101732,"Bjørn Floer, Kirkenes",D,1
-842,101440,"Svenn Jostein Bergin, Grong",D,1
-842,112786,"Enja Lin Hollseter Rafnsdottir, Frogner",D,1
-842,104896,"Stig Morterud, Imås IL",D,1
-842,105894,"Andreas Kollstrøm, Bodø",D,1
-842,116369,"Russel Almeida, Frogner",D,1
-842,116496,"Marcus Stephan Nordal, NTNUI",D,1
-842,116553,"Sebastian Munthe, NTNUI",D,1
-842,113111,"Tindra Backström, Sverige",D,1
-842,116109,"Tristan Hatmosø Bakke, Fredrikstad BK",D,1
-842,113970,"William Njøten Myrvang, Sotra",D,1
-842,114104,"Bamo Kalik Hamid, Sandefjord",D,1
-842,116506,"Paul Berlucchi, Bygdø",D,1
-842,116521,"Ulrik Rohde, Karmøy",D,1
-842,116308,"Erik Almström, Sverige",D,1
-842,116309,"Jimmy Björnström, Sverige",D,1
-842,116275,"Aditya Panwar, Stovner",D,1
-842,116367,"Kristoffer Settnøy, Rørvik",D,1
-842,116324,"Jens Dyrelund, IL Skrim",D,1
-842,116215,"Eirik Kaasbøll Andresen, Trondheim",D,1
-842,116134,"Theo Alexander Wik, Rørvik",D,1
-842,116135,"John Elias Normann, Rørvik",D,1
-842,116145,"Ole Adrian Haugland, Rørvik",D,1
-842,116201,"Herman Dragnes, Orkanger",D,1
-842,116212,"Kristoffer Ekeland, IL Strand-Ulv",D,1
-842,109008,"Emma Lindberg, Sverige",D,1
-842,112208,"Roger Andreassen , Sortland",D,1
-842,113107,"Linus Bjørsvik, Hadsel",D,1
-842,116003,"Kjetil Io, Strømmen",D,1
-842,116397,"Theo Nordin, Sverige",D,1
-842,116794,"Espen Opdal, Gullvikmoen",D,1
-842,115089,"Torvind Parnas Bardal, Orkanger",D,1
-842,116633,"Åge Steffen Prestø Andreassen, Lye",D,1
-842,115360,"Ajay Kumar, Stavanger",D,1
-842,116408,"Nirujan Ketheeswaran, BSI",D,1
-842,116293,"Timofii Sukhorukov, Bygdø",D,1
-842,114354,"Rahujan Ravindran, Stovner",D,1
-842,113852,"Vidar Nguyen, Jarlsberg",D,1
-842,114441,"Vemund Grimmer, Haugerud",D,1
-842,102794,"Erik Langeland, Porsgrunn",D,1
-842,115961,"Bilal Afzal, Tromsøstudentenes IL",D,1
-842,115987,"Harsha Sandaruwan Gardiyawasam, Grimstad",D,1
-842,116383,"Quan Nguyen, BSI",D,1
-842,116826,"Ann-Karin Endresen, Herøy",D,1
-842,116834,"Pål Rylandsholm, Bærum",D,1
-842,116841,"Almoghira Hilal, Tromsø",D,1
-842,116810,"Shahzad Ajmal, Klemetsrud",D,1
-842,116585,"Willy Sandmo, Bodø",D,1
-842,116607,"Kaj Damsgård Torndahl, Otra IL",D,1
-842,116611,"Jørgen pruijs, Grimstad",D,1
-842,113506,"Aarush kumar sharma, Sortland",D,1
-842,112426,"Sindre Braathen, Bodø",D,1
-842,115294,"Marthe Evjenth, Nesna",D,1
-842,116642,"Tan van Nguyen, Kristiansand",D,1
-842,116700,"Lasse Lynum, Grong",D,1
-842,111643,"Christoffer Svendsen, Kristiansand",D,1
-842,113842,"Alwyn Danie, Slagen",D,1
-842,116655,"Lorenz Ask, Ålesund",D,1
-842,115748,"Magnus Mollan, Flatås",D,1
-842,116017,"Jonas Leine Bjerkreim, Stavanger",D,1
-842,116116,"Sondre Tobias Hammer, Nesna",D,1
-842,115931,"Linnea Hamre, BSI",D,1
-842,115652,"Qubo Hu, Trondheim",D,1
-842,115268,"Peter Julian Sundberg, Sola",D,1
-842,114209,"Katrine Aske, BSI",D,1
-842,114129,"Pradeep Nalawade, Haugesund",D,1
-842,114567,"Haider Abbas, OSI",D,1
-926,114598,"Aurangzeb Subhani Babar, Klemetsrud",,0
-926,114519,"Elias Næbb, Orkanger",,0
-926,114557,"Jacob Lindberg, Trondheim",,0
-926,114773,"Auttaphon Seepad, Frøya",,0
-926,114854,"Sondre Warren, Mandal",,0
-926,114855,"Dag Mongstad, BSI",,0
-926,114871,"Sai Vivek Anand Budhavarapu, Moss",,0
-926,115061,"Vidar Vikhagen, Haugerud",,0
-926,114978,"Yoel Dawit, Mandal",,0
-926,115024,"Aman Singh Mahal, Klemetsrud",,0
-926,114168,"Kacper Cekiera, Klemetsrud",,0
-926,114237,"Dedy Wahyudi, Sola",,0
-926,114257,"Stian Lie, Haugesund",,0
-926,114281,"Yi Rong, OSI",,0
-926,114285,"Eimund Sandbugt-Hammer, Frøya",,0
-926,114486,"Christoffer Jakobsson, Klemetsrud",,0
-926,114448,"Shan Ahmed Syed, Strømmen",,0
-926,114451,"Suthan Vivekananthan, Stovner",,0
-926,114474,"Jing Jin, Sandefjord",,0
-926,114345,"Sajid Imran, Haugerud",,0
-926,114394,"Ole Håvard Rustad, BSI",,0
-926,114404,"Noah Nogva, Norborg",,0
-926,114433,"Kai Robert Vartdal, Vigra IL",,0
-926,114443,"Hjalmar Goa Rønningen, Haugerud",,0
-926,114148,"Kanwal Agnihotri, Klemetsrud",,0
-926,114152,"Muhammad Aftab, Klemetsrud",,0
-926,114220,"Magnus Søderholm, Moss",,0
-926,114102,"Håkon Johnsen, Orkanger",,0
-926,114014,"Andrej Nimcevic, Mandal",,0
-926,114016,"Emil Eikaas, Mandal",,0
-926,114017,"Tobias Birkeland, Mandal",,0
-926,114018,"Nemanja Nimcevic, Mandal",,0
-926,113760,"John-Daniel Hilao Hansen, NTNUI",,0
-926,113794,"John Pal Jayapal, Stovner",,0
-926,113938,"Jun Ma, NTNUI",,0
-926,113939,"Alexander Matveev, Trondheim",,0
-926,113903,"Yogesh Kumkar, Moss",,0
-926,113921,"David Nguyen, Kristiansand",,0
-926,113172,"Kamalraju Balakrishnun, Strømmen",,0
-926,113214,"Willy Fauskanger, Fredrikstad BK",,0
-926,113086,"Jinbang Hu, NTNUI",,0
-926,113118,"Zhe Wu, Asker",,0
-926,113240,"Lars Dalevoll, Flatås",,0
-926,113259,"Tim Flugge Terjesen, IL Strand-Ulv",,0
-926,113244,"Steven Haugland, Austevoll",,0
-926,113516,"Gaurav Sharma, Lambertseter IF",,0
-926,113535,"William Johan Vik, Stanghelle IL",,0
-926,113573,"Kristian Gundersen, Mandal",,0
-926,113579,"Rajprakash Sivaraj, Djerv",,0
-926,113601,"Petter Hammervik Nilsen, Flatås",,0
-926,115269,"Ferdinand Line Forgaard, Sola",,0
-926,115280,"Nandhakumar Shanmugasundaram, Stovner",,0
-926,115318,"Madhusudan Pareek, Strømmen",,0
-926,115334,"Andre Andersen, Moss",,0
-926,115450,"Hanzala Iqbal Malik, OSI",,0
-926,115404,"Cameron Morgan-McGovern, BSI",,0
-926,115413,"Rahul Lochab, Tromsø",,0
-926,115414,"Magnus Bruvoll, Ålesund",,0
-926,115397,"Yolanda Jaceline, Ålesund",,0
-926,115399,"George Abuzatoaie, Norborg",,0
-926,115387,"Johannes Minh Tung Phan, Haugerud",,0
-926,115369,"Aleksander Boutenko, Sandefjord",,0
-926,115361,"Setthasat Singsanan, Trondheim",,0
-926,115225,"Zander Håkonsen, OSI",,0
-926,115231,"Archit Pandav, Asker",,0
-926,115244,"Leiv Otto Watne, Klemetsrud",,0
-926,115248,"Xiao Zhang, OSI",,0
-926,115254,"Ibrahim Ahmad Ali Alwahdani, Dale",,0
-926,115222,"Tai Quach Le, OSI",,0
-926,115203,"Murali Venkatesan, Klemetsrud",,0
-926,115196,"Ranjan Sahu, Klemetsrud",,0
-926,115200,"Prasanna Yadav, Klemetsrud",,0
-926,115201,"Suri Rajendran, Klemetsrud",,0
-926,115171,"Hassan Ali, Strømmen",,0
-926,115182,"Rajeshkumar Balan, Sola",,0
-926,115135,"Even Ringstad, Klemetsrud",,0
-926,115142,"Magne Abelsen, Sotra",,0
-926,115145,"Filip Træet Ellingsen, Askøy",,0
-926,115094,"Wilfred Husemoen, NTNUI",,0
-926,115096,"Ketil Haugli, Moss",,0
-926,115097,"Knut Aasgaard Øien, Pillarguri",,0
-926,115116,"Feraz Mohammed Chonon, IL Skrim",,0
-926,115832,"Shivu Sidde Gowda, Kronstad",,0
-926,115841,"Eskil Brøndbo, Gullvikmoen",,0
-926,115892,"Jonatan Evensen, Gullvikmoen",,0
-926,115886,"Olve Vangdal, IL Strand-Ulv",,0
-926,115899,"Mohid Sajid, Klemetsrud",,0
-926,115997,"Saket Soni, Lambertseter IF",,0
-926,115998,"Sindre Bjørnaali, NTNUI",,0
-926,115957,"Dhanvin M koundunya, Tromsøstudentenes IL",,0
-926,115749,"Hieu Hoang, Trondheim",,0
-926,115773,"Bibin Pottananiyil Bhaskaran, Sangam",,0
-926,115785,"Dragan Njegic, Klemetsrud",,0
-926,115698,"Alessandro Brambilla, Trondheim",,0
-926,115710,"Victor Thiry, Vestre Aker",,0
-926,115718,"Audun Kjemperud, Asker",,0
-926,115744,"John Erik Fasseland Hansen, Frogner",,0
-926,115567,"Jarle Fjellstad, Mandal",,0
-926,115616,"Tor Inge Jørgensen, Gullvikmoen",,0
-926,115629,"Piotr Kapica, Norborg",,0
-926,115647,"Jeyakrishnan.Sreekumar, Sangam",,0
-926,115648,"Midhun Mohan, Sangam",,0
-926,115651,"Jie wu, Trondheim",,0
-926,115557,"Mahdi Islam, BSI",,0
-926,115559,"Karsten Van Herwaarden, Nøtterøy",,0
-926,115464,"Jørgen Schanke Grude, Sola",,0
-926,115478,"Ali Heshmati, NTNUI",,0
-926,115504,"Abhay Rajhans, Stovner",,0
-926,115487,"Meng Jiang, NTNUI",,0
-926,115488,"Mihir Kulkarni, NTNUI",,0
-926,115492,"Luuk Wubben, NTNUI",,0
-926,100147,"Hilde Genberg, Dale",,0
-926,100010,"Jim Ronny Andersen, Kristiansand",,0
-926,101853,"Petter Amundsen, Klæbu",,0
-926,101315,"Knut Liland, Haugerud",,0
-926,101192,"Sebastian Bøe, Sandefjord",,0
-926,101123,"John Daae, Asker",,0
-926,100172,"Jon Eirik Gulli, Slagen",,0
-926,102423,"Sondre Børmark, Klæbu",,0
-926,102332,"Sverre Andreas Helland, Grong",,0
-926,102747,"Terje Jacobsen, Stavanger",,0
-926,108292,"Anders Eimstad, Askøy",,0
-926,101073,"David Wong, Haugerud",,0
-926,100960,"Dag Rune Vellene, Kirkenes",,0
-926,107758,"Eivind André Løvold Nilsen, Klæbu",,0
-926,107795,"Thomas Grüner Fjeldheim, Haugerud",,0
-926,107513,"Kristine  Grande Ødegårdstuen, Moss",,0
-926,107260,"Sturla Mørk, Kristiansand",,0
-926,107317,"Dirk Olivie, Vestre Aker",,0
-926,107155,"Andreas Thorp, Jarlsberg",,0
-926,100550,"Minh Nhu Thai, OSI",,0
-926,100509,"Harald Næss, Bergen",,0
-926,105504,"Sander Hegseth, Kristiansand",,0
-926,106632,"Elise Lærkerød Jelsness, Bygdø",,0
-926,106502,"Fons Broekhoven, Kolvereid",,0
-926,106304,"Pål Joachim Eide, Bærum",,0
-926,100773,"Karl Ødegård, Bergen",,0
-926,106427,"Andreas Andersen, Klemetsrud",,0
-926,105851,"Ståle Åbotsvik, Tromsø",,0
-926,106198,"Sven Arild Strøm, Kolvereid",,0
-926,103001,"Lorents Blomseth, Grong",,0
-926,103164,"Zhenggang Xu, Frogner",,0
-926,103349,"Robert Hoeggen, Rissa",,0
-926,100406,"Jan Petter Lindland, Mandal",,0
-926,103804,"Holger Johnsen, Tromsø",,0
-926,103819,"Espen Ditmansen, Ullevål",,0
-926,103576,"Kristian Ness Storsve, Trondheim",,0
-926,103429,"Markus Haukebøe, Oppegård IL",,0
-926,103479,"Bjørn Brækkan, Tromsø",,0
-926,104935,"Iver Aalberg, Leksvik",,0
-926,105227,"Daniel Bjørklund, Bærum",,0
-926,104903,"Ke Xie, Vestre Aker",,0
-926,104920,"Elias Lenning , Herøy",,0
-926,100468,"Bent Mørken, Nøtterøy",,0
-926,109725,"Jonas Floden, Frogner",,0
-926,109666,"Daniel Nguyen, Kristiansand",,0
-926,109680,"Nancy Hang, Haugerud",,0
-926,109160,"Robert Eriksen, Stanghelle IL",,0
-926,109169,"Amit Mital, Bærum",,0
-926,109276,"Vetle Vinnes Bråten, Askøy",,0
-926,109201,"Magnus Seilen, Stanghelle IL",,0
-926,109267,"Marius Aga, Bygdø",,0
-926,109519,"Jakob Grønstøl, Slagen",,0
-926,100862,"Anne Klyve, Asker",,0
-926,106764,"Elias Øyen Selsaas, Karmøy",,0
-926,106807,"Trygve Ellingsen, Stavanger",,0
-926,107044,"Julian Wanvik Hagen, Leksvik",,0
-926,108927,"Celina Nha-Mi-Thanh, OSI",,0
-926,108999,"Andreas Nordhøy, Grong",,0
-926,109007,"Elkan Abraham, Stavanger",,0
-926,109789,"Trishna Shyam Chand, Trondheim",,0
-926,109922,"Marie A. Toverud, Sandefjord",,0
-926,109994,"David Wu, Bærum",,0
-926,110012,"Eivind Molland, I.L Ros",,0
-926,110015,"Bernard Arntsen, Risør BK",,0
-926,110024,"Bjørn Deron, Klemetsrud",,0
-926,110121,"Helene Ye, OSI",,0
-926,110714,"Endre Sundby Dalen, Nøtterøy",,0
-926,110985,"Odd A Homme, Risør BK",,0
-926,111008,"Nila Lorvik, Herøy",,0
-926,110883,"Yuelong Zang, Bærum",,0
-926,110930,"Lars Lauvik, Sotra",,0
-926,110865,"Thomas Haugen, Trondheim",,0
-926,110351,"Stein Georg Lillemoen, Fredrikstad BK",,0
-926,110577,"Victoria Heiberg, Haugerud",,0
-926,111634,"Lars Kjørholt, Risør BK",,0
-926,111652,"Jonas Sørstrand, Kristiansand",,0
-926,111539,"Kugathas Thas, Asker",,0
-926,111511,"Joakim Elverum Furre , Grong",,0
-926,111411,"Christian Haugstad Mathisen, Varhaug IL",,0
-926,111386,"Einar Høksnes, Sandefjord",,0
-926,111360,"Svein Jacob Kaspersen, Sandefjord",,0
-926,111269,"Simen Mjelva, Rubbestadneset",,0
-926,111332,"Sondre Engelsen Ødegård, Stanghelle IL",,0
-926,111185,"Shravan Ramkumar, Asker",,0
-926,111186,"Shreyas Danve, Klemetsrud",,0
-926,112147,"Tommy Bjørkelund, IL Strand-Ulv",,0
-926,112123,"Ida Marie Thomassen Stiegler, BSI",,0
-926,112110,"Agarna Kokilan , Stovner",,0
-926,112101,"Sebastian Adrian Uchto, Frogner",,0
-926,111729,"Gowrikumar Sathiyaseelan, Stovner",,0
-926,111798,"Leiv Arne Risa, Sotra",,0
-926,111686,"Adrian Helle Ekerhovd, Sotra",,0
-926,111692,"Peter Schuster, Djerv",,0
-926,111693,"Prakash Yalamanchili, Djerv",,0
-926,111825,"Victor Yeap, Sandefjord",,0
-926,111924,"Fredrik Heiberg, Haugerud",,0
-926,112554,"Asghar Mahmood, Lambertseter IF",,0
-926,112492,"Vikas Manocha, Stavanger",,0
-926,112503,"Je Mark Ocaya, Lambertseter IF",,0
-926,112516,"John Bryan Tapolgo, Lambertseter IF",,0
-926,112429,"Nazim Nordén, Moss",,0
-926,112446,"Lolith Vijayan, Haugerud",,0
-926,112474,"Lars Juhl, Sola",,0
-926,112311,"Iver Bostad, Vigra IL",,0
-926,112360,"Kåre Eikeland, IL Strand-Ulv",,0
-926,112376,"Christin Jeanette Hagen , Klæbu",,0
-926,112168,"Naimish Doshi, Sola",,0
-926,112591,"Brand Ivar Hetland Bauman, Askøy",,0
-926,112792,"Khalil  Akram, Lambertseter IF",,0
-926,112793,"Adil Mahmood , Lambertseter IF",,0
-926,112800,"Geoffrey Werner, Trondheim",,0
-926,112811,"Hege Grønning, Rissa",,0
-926,113014,"Kristian Espnes, Harstad",,0
-926,112852,"Geir Pedersen , Frogner",,0
-926,113045,"Mohammed Ayaz Rauf, Lambertseter IF",,0
+757,116303,"Kristian Sylta, Sotra",D,2
+757,116962,"Abdullah Al Mamun, Bygdø",D,2
+757,113505,"Mette Kruse, Harstad",D,2
+757,108923,"Ashutosh  Dubey, Stavanger",D,2
+840,101285,"Randi Selle, Stavanger",D,1
+840,101732,"Bjørn Floer, Kirkenes",D,1
+840,101440,"Svenn Jostein Bergin, Grong",D,1
+840,110305,"Kaj Søndergård Albrektsen, Austevoll",D,1
+840,109838,"Sondre Aasebø, Austevoll",D,1
+840,100847,"Svend Morten Reinertsen, Herøy",D,1
+840,112820,"Magnus Søberg, Tynset",D,1
+840,113065,"Julie Norberg, Sandefjord",D,1
+840,112666,"Steinar Høiback, Slagen",D,1
+840,112648,"Henrik Strand Høiback, Slagen",D,1
+840,112818,"Magnus Kolstad Langeland , Tynset",D,1
+840,112377,"Line Eldegard, Klæbu",D,1
+840,111428,"Fredrik T.N. Joakimsen, Slagen",D,1
+840,111589,"Beverly Henriksen, Norborg",D,1
+840,115987,"Harsha Sandaruwan Gardiyawasam, Grimstad",D,1
+840,116383,"Quan Nguyen, BSI",D,1
+840,116826,"Ann-Karin Endresen, Herøy",D,1
+840,116834,"Pål Rylandsholm, Bærum",D,1
+840,113852,"Vidar Nguyen, Jarlsberg",D,1
+840,114441,"Vemund Grimmer, Haugerud",D,1
+840,116810,"Shahzad Ajmal, Klemetsrud",D,1
+840,116794,"Espen Opdal, Gullvikmoen",D,1
+840,115089,"Torvind Parnas Bardal, Orkanger",D,1
+840,102794,"Erik Langeland, Porsgrunn",D,1
+840,114354,"Rahujan Ravindran, Stovner",D,1
+840,115360,"Ajay Kumar, Stavanger",D,1
+840,116408,"Nirujan Ketheeswaran, BSI",D,1
+840,115294,"Marthe Evjenth, Nesna",D,1
+840,113506,"Aarush kumar sharma, Sortland",D,1
+840,116585,"Willy Sandmo, Bodø",D,1
+840,116607,"Kaj Damsgård Torndahl, Otra IL",D,1
+840,116611,"Jørgen pruijs, Grimstad",D,1
+840,116655,"Lorenz Ask, Ålesund",D,1
+840,116642,"Tan van Nguyen, Kristiansand",D,1
+840,116293,"Timofii Sukhorukov, Bygdø",D,1
+840,116700,"Lasse Lynum, Grong",D,1
+840,111643,"Christoffer Svendsen, Kristiansand",D,1
+840,113842,"Alwyn Danie, Slagen",D,1
+840,112786,"Enja Lin Hollseter Rafnsdottir, Frogner",D,1
+840,116369,"Russel Almeida, Frogner",D,1
+840,116496,"Marcus Stephan Nordal, NTNUI",D,1
+840,116553,"Sebastian Munthe, NTNUI",D,1
+840,112426,"Sindre Braathen, Bodø",D,1
+840,104896,"Stig Morterud, Imås IL",D,1
+840,105894,"Andreas Kollstrøm, Bodø",D,1
+840,113111,"Tindra Backström, Sverige",D,1
+840,113970,"William Njøten Myrvang, Sotra",D,1
+840,114104,"Bamo Kalik Hamid, Sandefjord",D,1
+840,116109,"Tristan Hatmosø Bakke, Fredrikstad BK",D,1
+840,116506,"Paul Berlucchi, Bygdø",D,1
+840,116521,"Ulrik Rohde, Karmøy",D,1
+840,116003,"Kjetil Io, Strømmen",D,1
+840,116397,"Theo Nordin, Sverige",D,1
+840,109008,"Emma Lindberg, Sverige",D,1
+840,112208,"Roger Andreassen , Sortland",D,1
+840,113107,"Linus Bjørsvik, Hadsel",D,1
+840,116215,"Eirik Kaasbøll Andresen, Trondheim",D,1
+840,116275,"Aditya Panwar, Stovner",D,1
+840,116145,"Ole Adrian Haugland, Rørvik",D,1
+840,116201,"Herman Dragnes, Orkanger",D,1
+840,116212,"Kristoffer Ekeland, IL Strand-Ulv",D,1
+840,116308,"Erik Almström, Sverige",D,1
+840,116309,"Jimmy Björnström, Sverige",D,1
+840,116324,"Jens Dyrelund, IL Skrim",D,1
+840,116367,"Kristoffer Settnøy, Rørvik",D,1
+840,115748,"Magnus Mollan, Flatås",D,1
+840,116134,"Theo Alexander Wik, Rørvik",D,1
+840,116135,"John Elias Normann, Rørvik",D,1
+840,116116,"Sondre Tobias Hammer, Nesna",D,1
+840,115931,"Linnea Hamre, BSI",D,1
+840,115945,"Atle Ravndal, Kristiansand",D,1
+840,115652,"Qubo Hu, Trondheim",D,1
+840,114209,"Katrine Aske, BSI",D,1
+840,114567,"Haider Abbas, OSI",D,1
+914,114598,"Aurangzeb Subhani Babar, Klemetsrud",,0
+914,114615,"Mariusz Nowakowski, Klemetsrud",,0
+914,114519,"Elias Næbb, Orkanger",,0
+914,114557,"Jacob Lindberg, Trondheim",,0
+914,114773,"Auttaphon Seepad, Frøya",,0
+914,114854,"Sondre Warren, Mandal",,0
+914,114855,"Dag Mongstad, BSI",,0
+914,114871,"Sai Vivek Anand Budhavarapu, Moss",,0
+914,115061,"Vidar Vikhagen, Haugerud",,0
+914,114978,"Yoel Dawit, Mandal",,0
+914,115024,"Aman Singh Mahal, Klemetsrud",,0
+914,114486,"Christoffer Jakobsson, Klemetsrud",,0
+914,114448,"Shan Ahmed Syed, Strømmen",,0
+914,114451,"Suthan Vivekananthan, Stovner",,0
+914,114474,"Jing Jin, Sandefjord",,0
+914,114345,"Sajid Imran, Haugerud",,0
+914,114394,"Ole Håvard Rustad, BSI",,0
+914,114404,"Noah Nogva, Norborg",,0
+914,114433,"Kai Robert Vartdal, Vigra IL",,0
+914,114443,"Hjalmar Goa Rønningen, Haugerud",,0
+914,114285,"Eimund Sandbugt-Hammer, Frøya",,0
+914,114165,"Aman Sarna, Klemetsrud",,0
+914,114168,"Kacper Cekiera, Klemetsrud",,0
+914,114237,"Dedy Wahyudi, Sola",,0
+914,114257,"Stian Lie, Haugesund",,0
+914,114281,"Yi Rong, OSI",,0
+914,114220,"Magnus Søderholm, Moss",,0
+914,114129,"Pradeep Nalawade, Haugesund",,0
+914,114148,"Kanwal Agnihotri, Klemetsrud",,0
+914,114152,"Muhammad Aftab, Klemetsrud",,0
+914,114102,"Håkon Johnsen, Orkanger",,0
+914,114014,"Andrej Nimcevic, Mandal",,0
+914,114016,"Emil Eikaas, Mandal",,0
+914,114017,"Tobias Birkeland, Mandal",,0
+914,114018,"Nemanja Nimcevic, Mandal",,0
+914,113760,"John-Daniel Hilao Hansen, NTNUI",,0
+914,113938,"Jun Ma, NTNUI",,0
+914,113939,"Alexander Matveev, Trondheim",,0
+914,113794,"John Pal Jayapal, Stovner",,0
+914,113903,"Yogesh Kumkar, Moss",,0
+914,113921,"David Nguyen, Kristiansand",,0
+914,113172,"Kamalraju Balakrishnun, Strømmen",,0
+914,113214,"Willy Fauskanger, Fredrikstad BK",,0
+914,113118,"Zhe Wu, Asker",,0
+914,113244,"Steven Haugland, Austevoll",,0
+914,113240,"Lars Dalevoll, Flatås",,0
+914,113516,"Gaurav Sharma, Lambertseter IF",,0
+914,113535,"William Johan Vik, Stanghelle IL",,0
+914,113573,"Kristian Gundersen, Mandal",,0
+914,113579,"Rajprakash Sivaraj, Djerv",,0
+914,113601,"Petter Hammervik Nilsen, Flatås",,0
+914,115832,"Shivu Sidde Gowda, Kronstad",,0
+914,115841,"Eskil Brøndbo, Gullvikmoen",,0
+914,115892,"Jonatan Evensen, Gullvikmoen",,0
+914,115886,"Olve Vangdal, IL Strand-Ulv",,0
+914,115957,"Dhanvin M koundunya, Tromsøstudentenes IL",,0
+914,115963,"Simen Hauge, Karmøy",,0
+914,115899,"Mohid Sajid, Klemetsrud",,0
+914,116017,"Jonas Leine Bjerkreim, Stavanger",,0
+914,115997,"Saket Soni, Lambertseter IF",,0
+914,115998,"Sindre Bjørnaali, NTNUI",,0
+914,115749,"Hieu Hoang, Trondheim",,0
+914,115773,"Bibin Pottananiyil Bhaskaran, Sangam",,0
+914,115785,"Dragan Njegic, Klemetsrud",,0
+914,115698,"Alessandro Brambilla, Trondheim",,0
+914,115710,"Victor Thiry, Vestre Aker",,0
+914,115718,"Audun Kjemperud, Asker",,0
+914,115744,"John Erik Fasseland Hansen, Frogner",,0
+914,115567,"Jarle Fjellstad, Mandal",,0
+914,115616,"Tor Inge Jørgensen, Gullvikmoen",,0
+914,115629,"Piotr Kapica, Norborg",,0
+914,115647,"Jeyakrishnan.Sreekumar, Sangam",,0
+914,115648,"Midhun Mohan, Sangam",,0
+914,115651,"Jie wu, Trondheim",,0
+914,115557,"Mahdi Islam, BSI",,0
+914,115559,"Karsten Van Herwaarden, Nøtterøy",,0
+914,115464,"Jørgen Schanke Grude, Sola",,0
+914,115478,"Ali Heshmati, NTNUI",,0
+914,115504,"Abhay Rajhans, Stovner",,0
+914,115487,"Meng Jiang, NTNUI",,0
+914,115488,"Mihir Kulkarni, NTNUI",,0
+914,115492,"Luuk Wubben, NTNUI",,0
+914,115318,"Madhusudan Pareek, Strømmen",,0
+914,115361,"Setthasat Singsanan, Trondheim",,0
+914,115334,"Andre Andersen, Moss",,0
+914,115280,"Nandhakumar Shanmugasundaram, Stovner",,0
+914,115289,"Håvard Moe Jacobsen, Sola",,0
+914,115267,"Sondre Thoresen Tendeland, Sola",,0
+914,115268,"Peter Julian Sundberg, Sola",,0
+914,115269,"Ferdinand Line Forgaard, Sola",,0
+914,115397,"Yolanda Jaceline, Ålesund",,0
+914,115399,"George Abuzatoaie, Norborg",,0
+914,115450,"Hanzala Iqbal Malik, OSI",,0
+914,115369,"Aleksander Boutenko, Sandefjord",,0
+914,115387,"Johannes Minh Tung Phan, Haugerud",,0
+914,115404,"Cameron Morgan-McGovern, BSI",,0
+914,115413,"Rahul Lochab, Tromsø",,0
+914,115414,"Magnus Bruvoll, Ålesund",,0
+914,115225,"Zander Håkonsen, OSI",,0
+914,115231,"Archit Pandav, Asker",,0
+914,115244,"Leiv Otto Watne, Klemetsrud",,0
+914,115248,"Xiao Zhang, OSI",,0
+914,115254,"Ibrahim Ahmad Ali Alwahdani, Dale",,0
+914,115222,"Tai Quach Le, OSI",,0
+914,115203,"Murali Venkatesan, Klemetsrud",,0
+914,115196,"Ranjan Sahu, Klemetsrud",,0
+914,115200,"Prasanna Yadav, Klemetsrud",,0
+914,115201,"Suri Rajendran, Klemetsrud",,0
+914,115171,"Hassan Ali, Strømmen",,0
+914,115182,"Rajeshkumar Balan, Sola",,0
+914,115135,"Even Ringstad, Klemetsrud",,0
+914,115142,"Magne Abelsen, Sotra",,0
+914,115145,"Filip Træet Ellingsen, Askøy",,0
+914,115094,"Wilfred Husemoen, NTNUI",,0
+914,115096,"Ketil Haugli, Moss",,0
+914,115097,"Knut Aasgaard Øien, Pillarguri",,0
+914,115116,"Feraz Mohammed Chonon, IL Skrim",,0
+914,111634,"Lars Kjørholt, Risør BK",,0
+914,111652,"Jonas Sørstrand, Kristiansand",,0
+914,111686,"Adrian Helle Ekerhovd, Sotra",,0
+914,111692,"Peter Schuster, Djerv",,0
+914,111693,"Prakash Yalamanchili, Djerv",,0
+914,111539,"Kugathas Thas, Asker",,0
+914,111511,"Joakim Elverum Furre , Grong",,0
+914,111411,"Christian Haugstad Mathisen, Varhaug IL",,0
+914,111386,"Einar Høksnes, Sandefjord",,0
+914,111360,"Svein Jacob Kaspersen, Sandefjord",,0
+914,111185,"Shravan Ramkumar, Asker",,0
+914,111186,"Shreyas Danve, Klemetsrud",,0
+914,111269,"Simen Mjelva, Rubbestadneset",,0
+914,111332,"Sondre Engelsen Ødegård, Stanghelle IL",,0
+914,111729,"Gowrikumar Sathiyaseelan, Stovner",,0
+914,111825,"Victor Yeap, Sandefjord",,0
+914,111924,"Fredrik Heiberg, Haugerud",,0
+914,112123,"Ida Marie Thomassen Stiegler, BSI",,0
+914,112127,"Rune Lavik-Haug, Moss",,0
+914,112147,"Tommy Bjørkelund, IL Strand-Ulv",,0
+914,112110,"Agarna Kokilan , Stovner",,0
+914,112101,"Sebastian Adrian Uchto, Frogner",,0
+914,112376,"Christin Jeanette Hagen , Klæbu",,0
+914,112360,"Kåre Eikeland, IL Strand-Ulv",,0
+914,112311,"Iver Bostad, Vigra IL",,0
+914,112157,"Simen Lien Akre, Stavanger",,0
+914,112168,"Naimish Doshi, Sola",,0
+914,112255,"Susanna Land Tellefsen, Imås IL",,0
+914,112492,"Vikas Manocha, Stavanger",,0
+914,112503,"Je Mark Ocaya, Lambertseter IF",,0
+914,112516,"John Bryan Tapolgo, Lambertseter IF",,0
+914,112429,"Nazim Nordén, Moss",,0
+914,112446,"Lolith Vijayan, Haugerud",,0
+914,112474,"Lars Juhl, Sola",,0
+914,112591,"Brand Ivar Hetland Bauman, Askøy",,0
+914,112554,"Asghar Mahmood, Lambertseter IF",,0
+914,112792,"Khalil  Akram, Lambertseter IF",,0
+914,112793,"Adil Mahmood , Lambertseter IF",,0
+914,112800,"Geoffrey Werner, Trondheim",,0
+914,112811,"Hege Grønning, Rissa",,0
+914,113045,"Mohammed Ayaz Rauf, Lambertseter IF",,0
+914,113086,"Jinbang Hu, NTNUI",,0
+914,112852,"Geir Pedersen , Frogner",,0
+914,113014,"Kristian Espnes, Harstad",,0
+914,106972,"Simen André Børke Høgberg, Hamar",,0
+914,100862,"Anne Klyve, Asker",,0
+914,106764,"Elias Øyen Selsaas, Karmøy",,0
+914,106807,"Trygve Ellingsen, Stavanger",,0
+914,107044,"Julian Wanvik Hagen, Leksvik",,0
+914,108927,"Celina Nha-Mi-Thanh, OSI",,0
+914,108999,"Andreas Nordhøy, Grong",,0
+914,109007,"Elkan Abraham, Stavanger",,0
+914,109519,"Jakob Grønstøl, Slagen",,0
+914,109276,"Vetle Vinnes Bråten, Askøy",,0
+914,109108,"Eva Dobreva, Stavanger",,0
+914,109160,"Robert Eriksen, Stanghelle IL",,0
+914,109169,"Amit Mital, Bærum",,0
+914,109201,"Magnus Seilen, Stanghelle IL",,0
+914,109267,"Marius Aga, Bygdø",,0
+914,109666,"Daniel Nguyen, Kristiansand",,0
+914,109680,"Nancy Hang, Haugerud",,0
+914,109725,"Jonas Floden, Frogner",,0
+914,109731,"Luan Damaske, Oppegård IL",,0
+914,109768,"Anita Aasebø, Austevoll",,0
+914,109994,"David Wu, Bærum",,0
+914,110012,"Eivind Molland, I.L Ros",,0
+914,110015,"Bernard Arntsen, Risør BK",,0
+914,110024,"Bjørn Deron, Klemetsrud",,0
+914,109922,"Marie A. Toverud, Sandefjord",,0
+914,109833,"Julie Albrektsen, Austevoll",,0
+914,109789,"Trishna Shyam Chand, Trondheim",,0
+914,110121,"Helene Ye, OSI",,0
+914,110714,"Endre Sundby Dalen, Nøtterøy",,0
+914,110985,"Odd A Homme, Risør BK",,0
+914,111008,"Nila Lorvik, Herøy",,0
+914,110883,"Yuelong Zang, Bærum",,0
+914,110930,"Lars Lauvik, Sotra",,0
+914,110865,"Thomas Haugen, Trondheim",,0
+914,110351,"Stein Georg Lillemoen, Fredrikstad BK",,0
+914,110577,"Victoria Heiberg, Haugerud",,0
+914,100147,"Hilde Genberg, Dale",,0
+914,100010,"Jim Ronny Andersen, Kristiansand",,0
+914,101853,"Petter Amundsen, Klæbu",,0
+914,101315,"Knut Liland, Haugerud",,0
+914,101192,"Sebastian Bøe, Sandefjord",,0
+914,101123,"John Daae, Asker",,0
+914,100172,"Jon Eirik Gulli, Slagen",,0
+914,102423,"Sondre Børmark, Klæbu",,0
+914,102332,"Sverre Andreas Helland, Grong",,0
+914,102747,"Terje Jacobsen, Stavanger",,0
+914,108046,"Kjell Tore Brakedal, Rubbestadneset",,0
+914,108292,"Anders Eimstad, Askøy",,0
+914,101033,"Knut Morten Engen, Frogner",,0
+914,101073,"David Wong, Haugerud",,0
+914,100960,"Dag Rune Vellene, Kirkenes",,0
+914,107758,"Eivind André Løvold Nilsen, Klæbu",,0
+914,107795,"Thomas Grüner Fjeldheim, Haugerud",,0
+914,107260,"Sturla Mørk, Kristiansand",,0
+914,107317,"Dirk Olivie, Vestre Aker",,0
+914,107155,"Andreas Thorp, Jarlsberg",,0
+914,107505,"Morten Amundsen, Rubbestadneset",,0
+914,107513,"Kristine  Grande Ødegårdstuen, Moss",,0
+914,105851,"Ståle Åbotsvik, Tromsø",,0
+914,100707,"Andreas Abrahamsen, Otra IL",,0
+914,100550,"Minh Nhu Thai, OSI",,0
+914,100509,"Harald Næss, Bergen",,0
+914,105504,"Sander Hegseth, Kristiansand",,0
+914,100773,"Karl Ødegård, Bergen",,0
+914,106427,"Andreas Andersen, Klemetsrud",,0
+914,106632,"Elise Lærkerød Jelsness, Bygdø",,0
+914,106304,"Pål Joachim Eide, Bærum",,0
+914,106502,"Fons Broekhoven, Kolvereid",,0
+914,106198,"Sven Arild Strøm, Kolvereid",,0
+914,105986,"Tehmur Ali Ifzal, Mortensrud-Aker",,0
+914,103001,"Lorents Blomseth, Grong",,0
+914,103164,"Zhenggang Xu, Frogner",,0
+914,103349,"Robert Hoeggen, Rissa",,0
+914,100406,"Jan Petter Lindland, Mandal",,0
+914,103804,"Holger Johnsen, Tromsø",,0
+914,103819,"Espen Ditmansen, Ullevål",,0
+914,103576,"Kristian Ness Storsve, Trondheim",,0
+914,103429,"Markus Haukebøe, Oppegård IL",,0
+914,103479,"Bjørn Brækkan, Tromsø",,0
+914,105227,"Daniel Bjørklund, Bærum",,0
+914,104935,"Iver Aalberg, Leksvik",,0
+914,104903,"Ke Xie, Vestre Aker",,0
+914,104920,"Elias Lenning , Herøy",,0
+914,100468,"Bent Mørken, Nøtterøy",,0
+914,104306,"Dimiter Ivanov, Asker",,0

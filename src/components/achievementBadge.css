@@ -1,0 +1,113 @@
+/* achievementBadge.css */
+
+.achievement-badge {
+  border: 2px solid #000;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.achievement-badge:hover {
+  transform: scale(1.05);
+}
+
+.achievement-badge.locked {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.badge-header {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.progress-bar-container {
+  margin-top: 10px;
+}
+
+.milestone-achieved {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.next-milestone {
+  margin-top: 10px;
+}
+
+.achievement-locked {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+/* Modal styles */
+.modal-dialog {
+  max-width: 600px;
+}
+
+.modal-content {
+  border-radius: 10px;
+}
+
+.modal-header {
+  background-color: #007bff;
+  color: #fff;
+  border-bottom: none;
+}
+
+.modal-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.modal-body {
+  font-size: 16px;
+}
+
+/* achievementBadge.css */
+
+.burning-flames-animation {
+  /* Add epic fire flames animation */
+  animation: burning-flames 2s infinite alternate; /* Example duration and iteration, adjust as needed */
+}
+
+@keyframes burning-flames {
+  0% {
+    opacity: 0.5;
+    transform: scale(1);
+    filter: brightness(100%);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+    filter: brightness(150%);
+  }
+  100% {
+    opacity: 0.5;
+    transform: scale(1);
+    filter: brightness(100%);
+  }
+}
+
+.shining-stars-animation {
+  /* Add shining stars animation */
+  animation: shining-stars 2s infinite alternate; /* Example duration and iteration, adjust as needed */
+}
+
+@keyframes shining-stars {
+  0% {
+    opacity: 0.5;
+    filter: brightness(100%);
+  }
+  50% {
+    opacity: 1;
+    filter: brightness(150%);
+  }
+  100% {
+    opacity: 0.5;
+    filter: brightness(100%);
+  }
+}

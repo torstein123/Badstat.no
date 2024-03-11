@@ -10,6 +10,8 @@ import { Line } from 'react-chartjs-2';
 import PlayerRecentMatches from './components/PlayerRecentMatches';
 import RankingsDisplay from './components/RankingDisplay'; // Adjust the path as necessary
 import './PlayerDetail.css';
+import AchievementsDisplay from './components/achievementsDisplay';
+import achievementsConfig from './config/achievementsConfig';
 
 const PlayerDetail = () => {
   const { name } = useParams();
@@ -191,16 +193,19 @@ const PlayerDetail = () => {
           <h1> {bestRank}</h1>
         </div>
       </div>
-      <h2>Utvikling over tid</h2>
+      <h2>UTMERKELSER</h2>
+      <AchievementsDisplay playerName={playerName} milestones={achievementsConfig.gameplayMilestones} />
+
+      <h2>RANK</h2>
       <div className="chart-container">
         <Line data={chartData} options={options} />
       </div>
-      <h2>Plasseringer</h2>
+      <h2>RANKINGLISTE</h2>
       <table className="rank-table">
         <thead>
           <tr>
             <th>År</th>
-            <th>Plassering</th>
+            <th>Rank</th>
             <th>Poeng</th>
           </tr>
         </thead>
