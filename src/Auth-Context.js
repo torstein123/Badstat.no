@@ -1,6 +1,6 @@
 import React, { useState, createContext, useEffect } from "react";
 import { loginRequest } from "./Auth-service";
-import { createUserWithEmailAndPassword, onAuthStateChanged, signOut } from "firebase/auth";
+import { createUserWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "firebase/auth";
 import { auth, db } from "./firebase"; // Ensure correct paths
 import { doc, setDoc, collection, getDocs } from "firebase/firestore";
 
@@ -61,6 +61,24 @@ export const AuthenticationContextProvider = ({ children }) => {
             setError(e.message);
         }
     };
+    const [feedbackMessage, setFeedbackMessage] = useState('');
+    const [isFeedbackPositive, setIsFeedbackPositive] = useState(true);
+    const onResetPassword = async (email) => {
+        setIsLoading(true);
+        try {
+            await sendPasswordResetEmail(auth, email);
+            setIsFeedbackPositive(true); // Indicate positive feedback
+            setFeedbackMessage('Password reset link sent! Check your email.');
+        } catch (error) {
+            setIsFeedbackPositive(false); // Indicate negative feedback
+            setFeedbackMessage(error.message); // Use a more user-friendly message as needed
+            setError(error.message);
+        }
+        setIsLoading(false);
+    };
+
+
+
 
     const fetchUserDiaryEntries = async (userId, opponentSpillerId) => {
         if (!user) {
@@ -84,7 +102,11 @@ export const AuthenticationContextProvider = ({ children }) => {
                 onLogin,
                 onRegister,
                 onLogout,
-                fetchUserDiaryEntries, // Make the function available through context
+                feedbackMessage,
+                isFeedbackPositive,
+                isLoading,
+                onResetPassword,
+                fetchUserDiaryEntries,
             }}
         >
             {children}

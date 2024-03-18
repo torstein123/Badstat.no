@@ -74,17 +74,21 @@ const Changelog = () => {
   );
 };
 
-const MainApp = () => {
-  const { isAuthenticated } = useContext(AuthenticationContext);
-  const navigate = useNavigate(); // Get the navigate function
-  const { user } = useContext(AuthenticationContext);
+const LoginRequired = () => {
+  return <div id="login">Kun brukere har tilgang til denne funksjonen</div>;
+};
 
-  // Add console.log to check isAuthenticated
+const MainApp = () => {
+  const { isAuthenticated, user, isLoading } = useContext(AuthenticationContext);
+  if (isLoading) {
+    return <div className="loading-screen">Loading...</div>; // Customize as needed
+  }
+
+
   console.log("isAuthenticated:", isAuthenticated);
 
   return (
     <div>
-      
       <FlyingRackets />
       <Navbar />
       <div className="main-content">
@@ -92,34 +96,34 @@ const MainApp = () => {
           <Route path="/register" element={<RegisterScreen />} />
           <Route path="/account" element={<AccountScreen />} />
           <Route path="/" element={<Home />} />
-          
+          <Route path="/MostGames" element={<Leaderboard />} />
           {isAuthenticated ? (
             <>
               <Route path="/compare/:player1/:player2" element={<PlayerComparison />} />
               <Route path="/player/:name" element={<PlayerDetail />} />
-              
               <Route path="/hvorfor" element={<Hvorfor />} />
               <Route path="/hvordan" element={<Hvordan />} />
               <Route path="/feedback" element={<ContactPage />} />
               <Route path="/link" element={<LinkRequestScreen />} />
               <Route path="/admin" element={<AdminComponent />} />
               <Route path="/Diary" element={<Diary userId={user?.uid} />} />
-              <Route path="/playerlist" element={<PlayerList/>} />
-              <Route path="/headtohead" element={<PlayerSearch/>} />
-              <Route path="/MostGames" element={<Leaderboard/>} />
-
-
+              <Route path="/playerlist" element={<PlayerList />} />
+              <Route path="/headtohead" element={<PlayerSearch />} />
+              <Route path="/test" element={<LoginRequired />} />
             </>
           ) : (
-            <Route path="/" element={<AccountScreen />} />
+            <>
+              <Route path="/headtohead" element={<LoginRequired />} />
+              <Route path="/PlayerList" element={<LoginRequired />} />
+              <Route path="/Diary" element={<LoginRequired />} />
+              <Route path="/player*" element={<LoginRequired />} />
+            </>
           )}
         </Routes>
       </div>
-      
     </div>
   );
 };
-
 
 const App = () => {
   return (

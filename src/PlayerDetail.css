@@ -142,6 +142,7 @@ body {
 
 
 .rank-box {
+  font-family: 'Calibri', 'Courier New', Courier, monospace;
   display: flex;
   justify-content:space-around;
   margin: 40px;
@@ -149,6 +150,12 @@ body {
   text-align: center;
 
 }
+
+#klubbnavn {
+    font-size: 35px;
+    margin-top:0px;
+    text-align: center;
+  }
 
 @media (max-width: 768px) {
   .player-detail-container {
@@ -172,7 +179,7 @@ body {
 }
 
 #name {
-  font-size: 70px;
+  font-size: 65px;
   margin-top:20px;
   text-align: center;
 }
@@ -197,6 +204,9 @@ body {
 
     .PlayerList input {
       width: 100%;
+    }
+    #name {
+      font-size: 50px;
     }
 
     .PlayerList h2 {
@@ -226,6 +236,24 @@ body {
   .rotating-emoji {
     display: inline-block;
     animation: rotation 2s infinite linear;
+  }
+
+  .club-logo {
+    width: 100px; /* Smaller width for the club logo */
+    height: 100px; /* Smaller height for the club logo */
+    margin-right: 20px; /* Space between the club logo and the player image */
+  }
+  
+  .player-image {
+    width: 150px; /* Larger width for the player image */
+    height: 150px; /* Larger height for the player image */
+  }
+  
+  .info-container {
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+    margin-bottom: 30px;
   }
 
   @keyframes rotation {
@@ -366,6 +394,9 @@ p {
 
   .chart-container {
     height: 200px; /* Further adjust for very small screens */
+  }
+  .info-container {
+    margin: auto;
   }
 }
 

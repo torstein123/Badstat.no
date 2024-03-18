@@ -6,6 +6,9 @@ import dataDS from './combined_rankingsDS.json';
 import dataHS from './combined_rankingsHS.json';
 import dataHD from './combined_rankingsHD.json';
 import dataMIX from './combined_rankingsMIX.json';
+import clubLogos from './clubLogos.js'; // Adjust the path as necessary
+import playerImages from './playerImages.js'; // Adjust the path as necessary
+
 import { Line } from 'react-chartjs-2';
 import PlayerRecentMatches from './components/PlayerRecentMatches';
 import RankingsDisplay from './components/RankingDisplay'; // Adjust the path as necessary
@@ -42,6 +45,19 @@ const PlayerDetail = () => {
   if (!playerData) {
     return <p>Player not found</p>;
   }
+
+  const allClubsArray = playerData['All Clubs'] ? playerData['All Clubs'].split('|') : [];
+
+const currentClub = playerData['Current Club'];
+  // Filter out the current club from the array
+  const allClubsExceptCurrent = allClubsArray.filter(club => club !== currentClub);
+  const logoComponents = allClubsExceptCurrent.map((club) => {
+    const logoPath = clubLogos[club];
+    return logoPath ? <img key={club} src={logoPath} alt={`${club} logo`} style={{ width: '50px', height: '50px', marginRight: '10px' }} /> : null;
+  }).filter(component => component !== null); // This will filter out any clubs without a logo
+
+  // Join the remaining clubs into a string, separated by your chosen delimiter (e.g., ", ")
+  const clubsDisplayString = allClubsExceptCurrent.join(', ');
 
   const years = Object.keys(playerData)
     .filter((key) => key.match(/^\d{4}$/))
@@ -169,10 +185,24 @@ const PlayerDetail = () => {
     improvementMessage = 'Stabil';
   }
 
+  const currentClubLogo = clubLogos[currentClub];
+  const playerImage = playerImages[playerData['Spiller-Id']] || 'https://t3.ftcdn.net/jpg/03/20/77/16/360_F_320771622_DSGMf0UHsq9dLftVF42z0SmwzCK14Iq8.jpg';
+
+
   return (
     <div className="player-detail-container">
       
       <h1 id="name">{playerData.Navn}</h1>
+      <div className="info-container">
+        {currentClubLogo ? (
+          <img src={currentClubLogo} alt={`${currentClub} logo`} className="club-logo" />
+        ) : (
+          <h2>{currentClub}</h2>
+        )}
+        {playerImage && (
+          <img src={playerImage} alt={`${playerData.Navn}`} className="player-image" />
+        )}
+      </div>
       <div className="category-buttons">
         <button onClick={() => setCategory('Sammenlagt')}>Sammenlagt</button>
         <button onClick={() => setCategory('single')}>Single</button>

@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 import glob
-import re
 
 # File path
 path = r"C:\Users\Torstein\Documents\rankinglist-master (2)\rankinglist-master\badmintonstats\rankinglister\HS"
@@ -10,51 +9,59 @@ all_files = glob.glob(os.path.join(path, "*.csv"))
 
 # Empty DataFrame which we will add to
 final_df = pd.DataFrame()
-print("All files:", all_files)
-for year in range(2013, 2024):  # Adjusted the range to 2024 to include 2023
-    yearly_files = [file for file in all_files if str(year) in file]
-    print(f"Processing year: {year}")
-    print(f"Files for {year}: {yearly_files}")
 
+# Track club information per player per year
+club_info = {}
+
+for year in range(2013, 2024):
+    yearly_files = [file for file in all_files if str(year) in file]
 
     # Empty DataFrame for the current year
     yearly_df = pd.DataFrame()
 
     for file in yearly_files:
         df = pd.read_csv(file)
-        df['Klubb'] = df['Navn'].str.extract(r',\s(.*?)(?=,|$)')  # Extract the club from the 'Navn' column
-        df['Navn'] = df['Navn'].str.extract(r'^(.*?),')  # Extract the name from the 'Navn' column
-        print(f'Processing file: {os.path.basename(file)}')  # Debug line
+        split_names = df['Navn'].str.split(',', n=1, expand=True)
+        df['Navn'] = split_names[0].str.strip()
+        df['Klubb'] = split_names[1].str.strip() if split_names.shape[1] > 1 else ''
+
+        # Track club for "Current Club" determination
+        for index, row in df.iterrows():
+            spiller_id = row['Spiller-Id']
+            club = row['Klubb']
+            if spiller_id not in club_info:
+                club_info[spiller_id] = {'clubs': set(), 'current_club': club}
+            club_info[spiller_id]['clubs'].add(club)
+            # Assuming the last processed file/year has the current club
+            club_info[spiller_id]['current_club'] = club
 
         if not yearly_df.empty:
             yearly_df = pd.concat([yearly_df, df])
         else:
             yearly_df = df
 
-    # Group by Spiller-Id and aggregate the points and clubs
-    yearly_df = yearly_df.groupby(['Spiller-Id', 'Navn']).agg({'Klubb': '|'.join, 'Poeng': 'sum'}).reset_index()
-
-    # Rename the columns to the year
+    yearly_df.drop(columns=['Klubb'], inplace=True)  # Remove 'Klubb' column before merge
+    yearly_df = yearly_df.groupby(['Spiller-Id', 'Navn']).agg({'Poeng': 'sum'}).reset_index()
     yearly_df = yearly_df.rename(columns={'Poeng': str(year)})
 
-    # Drop the 'Klubb' column from both DataFrames before merging
-    yearly_df.drop('Klubb', axis=1, inplace=True, errors='ignore')
-    final_df.drop('Klubb', axis=1, inplace=True, errors='ignore')
-
-    # Merge this yearly data into the final dataframe
     if not final_df.empty:
         final_df = pd.merge(final_df, yearly_df, on=['Spiller-Id', 'Navn'], how='outer')
     else:
         final_df = yearly_df
 
-# Replace NaN with 0
-final_df.fillna(0, inplace=True)
+# Add "All Clubs" and "Current Club" columns
+final_df['All Clubs'] = final_df['Spiller-Id'].apply(lambda x: '|'.join(club_info[x]['clubs']))
+final_df['Current Club'] = final_df['Spiller-Id'].apply(lambda x: club_info[x]['current_club'])
+
+# Replace NaN with 0 in point columns
+point_columns = [str(year) for year in range(2013, 2024)]
+final_df[point_columns] = final_df[point_columns].fillna(0)
 
 # Reset the index
 final_df.reset_index(drop=True, inplace=True)
 
-# Reorder the columns
-columns = ['Spiller-Id', 'Navn'] + [str(year) for year in range(2013, 2024)]
+# Reorder the columns to include 'Spiller-Id', 'Navn', 'All Clubs', 'Current Club', and the years
+columns = ['Spiller-Id', 'Navn', 'All Clubs', 'Current Club'] + point_columns
 
 # Select the final columns
 final_df = final_df[columns]

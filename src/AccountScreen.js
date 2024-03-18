@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 export const AccountScreen = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
-    const { onLogin, error, user, onLogout, isAuthenticated } = useContext(AuthenticationContext);
+    const { onLogin, onResetPassword, error, user, onLogout, isAuthenticated, feedbackMessage, isFeedbackPositive, isLoading } = useContext(AuthenticationContext);
     const navigate = useNavigate(); // Use useNavigate for navigation in React Router
 
     const handleLogin = async () => {
@@ -22,7 +22,19 @@ export const AccountScreen = () => {
         }
     };
 
-    
+    const handleResetPassword = async () => {
+        if (email) {
+            try {
+                await onResetPassword(email);
+                alert('Hvis en bruker er knyttet til e-posten skal du ha fått en reset-link nå.'); // Provide feedback
+            } catch (error) {
+                console.error("Reset password failed:", error.message);
+                // Optionally, update the UI to inform the user
+            }
+        } else {
+            alert('Vennligst skriv inn e-posten din i "logg-inn" feltet og prøv igjen.');
+        }
+    };
     
 
     return (
@@ -66,6 +78,10 @@ export const AccountScreen = () => {
                                 <button onClick={handleLogin} className="button">
                                     Logg inn
                                 </button>
+                                <button onClick={handleResetPassword} className="button">
+                                    Glemt passord?
+                                </button>
+                                
                             </div>
                             <p>Har du ikke bruker?</p>
                             <button

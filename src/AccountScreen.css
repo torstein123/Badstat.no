@@ -7,7 +7,20 @@ html, body {
     padding: 0;
     overflow-x: hidden; /* Prevent horizontal scroll */
 }
+.feedback-message {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: center;
+}
 
+.positive {
+    background-color: lightgreen;
+}
+
+.negative {
+    background-color: lightcoral;
+}
 
 .logo {
     width: 330px;
