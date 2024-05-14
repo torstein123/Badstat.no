@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
         <Link className="navbar-brand" to="/" onClick={handleLinkClick}>
-          <h1>BadStat Norge</h1>
+          <h1>BadStat <span style={{ color: 'yellow' }}>  BETA</span></h1>
         </Link>
         <button
           className="navbar-toggler"

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -142,14 +143,20 @@ body {
 
 
 .rank-box {
-  font-family: 'Calibri', 'Courier New', Courier, monospace;
   display: flex;
   justify-content:space-around;
   margin: 40px;
   margin-left:0px;
+  margin-bottom: 0px;
   text-align: center;
 
 }
+
+.rank-points {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700; /* Makes the font bold */
+  /* Add more styling here as needed */
+  }
 
 #klubbnavn {
     font-size: 35px;
@@ -283,6 +290,7 @@ body {
   justify-content: center;
   gap: 10px;
   margin-bottom: 20px;
+  margin-top:20px;
 }
 
 .category-buttons button {
@@ -386,6 +394,10 @@ p {
 @media (max-width: 600px) {
   h1 {
     font-size: 20px; /* Adjust h1 font size */
+  }
+
+  .category-buttons {
+    margin-top: 0px;
   }
 
   p, .trend-container {

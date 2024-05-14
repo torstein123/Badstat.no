@@ -203,25 +203,26 @@ const currentClub = playerData['Current Club'];
           <img src={playerImage} alt={`${playerData.Navn}`} className="player-image" />
         )}
       </div>
+
+      <div className="rank-box">
+        <div className="points">
+          <h1 style={{ color: '#5c5c5c' }}>POENG</h1>
+          <h1 className="rank-points"> {currentPoints}</h1>
+        </div>
+        <div className="rank">
+          <h1 style={{ color: '#5c5c5c' }}>RANK</h1>
+          <h1 className="rank-points"> {currentRank}</h1>
+        </div>
+        <div className="best-placement">
+          <h1 style={{ color: '#5c5c5c' }}>BESTE</h1>
+          <h1 className="rank-points"> {bestRank}</h1>
+        </div>
+      </div>
       <div className="category-buttons">
         <button onClick={() => setCategory('Sammenlagt')}>Sammenlagt</button>
         <button onClick={() => setCategory('single')}>Single</button>
         <button onClick={() => setCategory('double')}>Double</button>
         <button onClick={() => setCategory('mix')}>Mix</button>
-      </div>
-      <div className="rank-box">
-        <div className="points">
-          <h1 style={{ color: '#5c5c5c' }}>POENG</h1>
-          <h1> {currentPoints}</h1>
-        </div>
-        <div className="rank">
-          <h1 style={{ color: '#5c5c5c' }}>RANK</h1>
-          <h1> {currentRank}</h1>
-        </div>
-        <div className="best-placement">
-          <h1 style={{ color: '#5c5c5c' }}>🏅</h1>
-          <h1> {bestRank}</h1>
-        </div>
       </div>
       <h2>UTMERKELSER</h2>
       <AchievementsDisplay playerName={playerName} milestones={achievementsConfig.gameplayMilestones} />

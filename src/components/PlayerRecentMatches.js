@@ -190,25 +190,28 @@ function PlayerRecentMatches({ playerName }) {
 
             {/* Match cards */}
             {filteredAndSortedMatches.map((match, index) => (
-                <div key={index} className="match-card">
-                    <h3>{match.Date}</h3>
-                    <p><strong>Turnering:</strong> {match["Tournament Name"]}</p>
-                    <p><strong>Kategori:</strong> {match.Match}</p>
-                    <p><strong>Resultat:</strong> {match.Result}</p>
-                    <p><strong>Partner:</strong> {match.teamPartner}</p>
-                    <p><strong>Motstander(e):</strong> {match.opponents || 'No opponent found'}</p>
+    <div key={index} className="match-card">
+        <h3>{match.Date}</h3>
+        <p><strong>Turnering:</strong> {match["Tournament Name"]}</p>
+        {/* Concatenate Tournament Class with Match for the Kategori */}
+        <p><strong>Kategori:</strong> {` ${match.Match} ${match["Tournament Class"]}`}</p>
+        <p><strong>Resultat:</strong> {match.Result}</p>
+        {/* Conditionally render partner information if it's not "NaN" */}
+        {match.teamPartner !== "NaN" && (
+            <p><strong>Partner:</strong> {match.teamPartner}</p>
+        )}
+        <p><strong>Motstander(e):</strong> {match.opponents || 'No opponent found'}</p>
 
-                    <p>
-                        <strong>Utfall:</strong> 
-                        {match.isWin ? 
-                            <span style={{ color: 'green' }}>Seier</span> : 
-                            <span style={{ color: 'red' }}>Tap</span>
-                        }
-                    </p>
-                    <p><strong>Poengforskjell:</strong> {match.scoreDifference}</p>
-                    {/* You may want to display opponents here */}
-                </div>
-            ))}
+        <p>
+            <strong>Utfall:</strong> 
+            {match.isWin ? 
+                <span style={{ color: 'green' }}>Seier</span> : 
+                <span style={{ color: 'red' }}>Tap</span>
+            }
+        </p>
+        <p><strong>Poengforskjell:</strong> {match.scoreDifference}</p>
+    </div>
+))}
         </div>
     );
 }
