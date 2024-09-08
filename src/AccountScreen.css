@@ -17,7 +17,12 @@ html, body {
 .positive {
     background-color: lightgreen;
 }
-
+.google {
+    margin:10px;
+    border-radius: 10px;
+    border-color: transparent;
+    cursor: pointer;
+}
 .negative {
     background-color: lightcoral;
 }

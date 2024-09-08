@@ -2,52 +2,59 @@ import React, { useContext, useState } from 'react';
 import { AuthenticationContext } from "./Auth-Context";
 import './AccountScreen.css';
 import { useNavigate } from 'react-router-dom';
-
+import GoogleSignInLogo from './img/google.svg'; // Ensure this is the correct path
 
 export const AccountScreen = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
-    const { onLogin, onResetPassword, error, user, onLogout, isAuthenticated, feedbackMessage, isFeedbackPositive, isLoading } = useContext(AuthenticationContext);
-    const navigate = useNavigate(); // Use useNavigate for navigation in React Router
+    const {
+        onLogin,
+        onGoogleLogin,
+        onResetPassword,
+        error,
+        user,
+        onLogout,
+        isAuthenticated,
+        isLoading
+    } = useContext(AuthenticationContext);
+
+    const navigate = useNavigate();
 
     const handleLogin = async () => {
         try {
             await onLogin(email, password);
-            console.log("Logged in successfully");
-            navigate('/'); // Ensure this is navigating correctly
+            navigate('/'); // Redirect to home on successful login
         } catch (error) {
-            // Handle the error appropriately
             console.error("Login failed:", error.message);
-            // Optionally, update the UI to inform the user
+            alert(error.message); // Provide user feedback
         }
     };
 
     const handleResetPassword = async () => {
-        if (email) {
-            try {
-                await onResetPassword(email);
-                alert('Hvis en bruker er knyttet til e-posten skal du ha fått en reset-link nå.'); // Provide feedback
-            } catch (error) {
-                console.error("Reset password failed:", error.message);
-                // Optionally, update the UI to inform the user
-            }
-        } else {
+        if (!email) {
             alert('Vennligst skriv inn e-posten din i "logg-inn" feltet og prøv igjen.');
+            return;
+        }
+        try {
+            await onResetPassword(email);
+            alert('Hvis en bruker er knyttet til e-posten skal du ha fått en reset-link nå.');
+        } catch (error) {
+            console.error("Reset password failed:", error.message);
+            alert(error.message);
         }
     };
-    
 
     return (
         <div className="full-page-background">
-            <div class="container-wrapper">
+            <div className="container-wrapper">
                 <div className="registration-container">
                     <div className="logo">
-
+                        {/* Optionally add a logo here */}
                     </div>
                     <div className="promotional-text">
-                    <h3>Heisann!👋🏽</h3>
+                        <h3>Heisann!👋🏽</h3>
                     </div>
-        
+
                     {isAuthenticated ? (
                         <div>
                             <p>Du er logget inn med e-post: {user.email}</p>
@@ -56,7 +63,6 @@ export const AccountScreen = () => {
                     ) : (
                         <>
                             <p>Velkommen! Du må være logget inn for å få tilgang til turneringsdata</p>
-                            <p>Har du bruker?</p>
                             <div className="inputContainer">
                                 <input
                                     type="text"
@@ -73,15 +79,23 @@ export const AccountScreen = () => {
                                     className="input"
                                 />
                             </div>
-        
+
                             <div className="buttonContainer">
-                                <button onClick={handleLogin} className="button">
-                                    Logg inn
-                                </button>
-                                <button onClick={handleResetPassword} className="button">
-                                    Glemt passord?
-                                </button>
-                                
+                                {isLoading ? (
+                                    <p>Loading...</p>
+                                ) : (
+                                    <>
+                                        <button onClick={onGoogleLogin} className="google">
+                                            <img src={GoogleSignInLogo} alt="Sign in with Google" />
+                                        </button>
+                                        <button onClick={handleLogin} className="button">
+                                            Logg inn
+                                        </button>
+                                        <button onClick={handleResetPassword} className="button">
+                                            Glemt passord?
+                                        </button>
+                                    </>
+                                )}
                             </div>
                             <p>Har du ikke bruker?</p>
                             <button
@@ -92,39 +106,32 @@ export const AccountScreen = () => {
                     )}
                 </div>
 
-                <div class="feature-container">
+                <div className="feature-container">
                     <h2>Funksjoner</h2>
-                    <div class="feature-item">
+                    <div className="feature-item">
                         <h3>📊 Spillerstatistikk</h3>
                         <p>Vis statistikk for badmintonspillere. Mer detaljert statistikk kommer fortløpende</p>
                     </div>
-                    <div class="feature-item">
+                    <div className="feature-item">
                         <h3>🤼‍♂️ Head-to-Head-kamper</h3>
                         <p>Sammenlign spillere og deres historiske oppgjør.</p>
                     </div>
-                    <div class="feature-item">
+                    <div className="feature-item">
                         <h3>🏸 Alle turneringskamper</h3>
                         <p>Utforsk alle turneringskamper som er spilt av forskjellige spillere.</p>
                     </div>
-                    <div class="feature-item">
+                    <div className="feature-item">
                         <h3>📖 Badminton Dagbok</h3>
                         <p>Hold en personlig kampdagbok over kamper du har spilt mot spesifikke motstandere, og lær av dine feil</p>
                     </div>
-                    <div class="feature-item">
+                    <div className="feature-item">
                         <h3>📈 Over 150 000 kamper registrert</h3>
-                        <p>Jeg har gått gjennom 150 000 registrerte kamper, og kan gi deg god innsikt i dine turneringskamper.</p>
+                        <p>Databasen inneholder 150 000 registrerte kamper (alle kamper siden 2013  ).</p>
                     </div>
-                    </div>
-
-</div>
-
-
-            
+                </div>
+            </div>
         </div>
-
     );
-    
-    
 };
 
 export default AccountScreen;

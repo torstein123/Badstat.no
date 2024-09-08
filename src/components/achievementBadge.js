@@ -76,7 +76,7 @@ if (achievement && achievement.animation && achievement.animation !== 'none') {
         <div className={`achievement-badge ${isAchieved ? '' : 'locked'} ${animationClass}`} style={{ backgroundColor: isAchieved ? achievement.badgeColor : '#ccc' }} onClick={() => setShowModal(true)}>
           <div className="badge-header">{achievement.header}</div>
           <FontAwesomeIcon icon={isAchieved ? achievement.icon : faLock} size="2x" />
-          {!isAchieved && <div className="achievement-locked">Låst</div>}
+          {!isAchieved && <div className="achievement-locked">Utmerkelse ikke oppnådd</div>}
         </div>
 
         <Modal show={showModal} onHide={() => setShowModal(false)}>
@@ -89,8 +89,8 @@ if (achievement && achievement.animation && achievement.animation !== 'none') {
               <p>Har blitt oppnådd {playerData.comebackGames}, {comebackWin},
               {comebackWinScores}, gang(er).</p>
             )}
-            {isAchieved && achievement.header === "Sterk i 3.sett" && (
-              <p>Kamper vunnet i 3. sett: {playerData.strongThirdSetPercentage}%</p>
+            {isAchieved && achievement.header === "Sjekk seiersprosent i 3.sett" && (
+              <h1>{playerData.strongThirdSetPercentage}%</h1>
             )}
           </Modal.Body>
         </Modal>

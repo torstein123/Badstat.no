@@ -87,9 +87,9 @@ const otherAchievements = [
     animation: "none", // No animation for this achievement
   },
   {
-    header: "Sterk i 3.sett",
-    description: "Sterk 3.sett: Mentalt robust og seig! Du har vist en imponerende seiersrate på over 60% i avgjørende 3-setts kamper.",
-    criteria: (playerData) => playerData.deciderWinRate > 60,
+    header: "Sjekk seiersprosent i 3.sett",
+    description:"",
+    criteria: (playerData) => playerData.deciderWinRate > 0,
     badgeColor: "#007bff",
     icon: faBrain,
     animation: "none", // No animation for this achievement

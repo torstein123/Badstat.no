@@ -49,14 +49,14 @@ h3 {
   text-decoration: none; /* Remove underline */
   margin-top: 20px;
   margin-bottom: 50px;
-  padding: 15px 30px;
-  background-color: #ff79b0;
-  color: rgb(0, 0, 0);
+  background-color: #FF4081;
+  color: #ffff;
+  padding: 0px 0px;
   border: none;
   cursor: pointer;
-  font-size: 18px; /* Gjør teksten litt større for bedre lesbarhet */
+  font-size: 12px; /* Gjør teksten litt større for bedre lesbarhet */
+  font-weight: bold;
   border-radius: 20px; /* Mykere, mer moderne knappeform */
-  transition: background 0.3s ease; /* Glatt overgangseffekt for interaksjon */
 }
 /* Seksjonsstiler */
 section {

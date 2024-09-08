@@ -1,7 +1,14 @@
 import React, { useState, createContext, useEffect } from "react";
 import { loginRequest } from "./Auth-service";
-import { createUserWithEmailAndPassword, onAuthStateChanged, signOut, sendPasswordResetEmail } from "firebase/auth";
-import { auth, db } from "./firebase"; // Ensure correct paths
+import {
+    createUserWithEmailAndPassword,
+    onAuthStateChanged,
+    signOut,
+    sendPasswordResetEmail,
+    GoogleAuthProvider,
+    signInWithPopup
+} from "firebase/auth";
+import { auth, db } from "./firebase";
 import { doc, setDoc, collection, getDocs } from "firebase/firestore";
 
 export const AuthenticationContext = createContext();
@@ -61,24 +68,34 @@ export const AuthenticationContextProvider = ({ children }) => {
             setError(e.message);
         }
     };
-    const [feedbackMessage, setFeedbackMessage] = useState('');
-    const [isFeedbackPositive, setIsFeedbackPositive] = useState(true);
+
+    const onGoogleLogin = async () => {
+        setIsLoading(true);
+        const provider = new GoogleAuthProvider();
+        try {
+            const result = await signInWithPopup(auth, provider);
+            setUser(result.user);
+        } catch (error) {
+            setError(error.message);
+        } finally {
+            setIsLoading(false);
+        }
+    };
+
     const onResetPassword = async (email) => {
         setIsLoading(true);
         try {
             await sendPasswordResetEmail(auth, email);
-            setIsFeedbackPositive(true); // Indicate positive feedback
             setFeedbackMessage('Password reset link sent! Check your email.');
+            setIsFeedbackPositive(true);
         } catch (error) {
-            setIsFeedbackPositive(false); // Indicate negative feedback
-            setFeedbackMessage(error.message); // Use a more user-friendly message as needed
+            setFeedbackMessage(error.message);
+            setIsFeedbackPositive(false);
             setError(error.message);
+        } finally {
+            setIsLoading(false);
         }
-        setIsLoading(false);
     };
-
-
-
 
     const fetchUserDiaryEntries = async (userId, opponentSpillerId) => {
         if (!user) {
@@ -92,6 +109,9 @@ export const AuthenticationContextProvider = ({ children }) => {
         return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
     };
 
+    const [feedbackMessage, setFeedbackMessage] = useState('');
+    const [isFeedbackPositive, setIsFeedbackPositive] = useState(true);
+
     return (
         <AuthenticationContext.Provider
             value={{
@@ -102,9 +122,9 @@ export const AuthenticationContextProvider = ({ children }) => {
                 onLogin,
                 onRegister,
                 onLogout,
+                onGoogleLogin,  // Make sure to add this for access in components
                 feedbackMessage,
                 isFeedbackPositive,
-                isLoading,
                 onResetPassword,
                 fetchUserDiaryEntries,
             }}
