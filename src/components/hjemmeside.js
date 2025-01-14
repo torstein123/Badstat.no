@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'; // Import useContext
+import React, { useContext } from 'react';
 import PlayerComparison from './PlayerComparison';
 import PlayerList from './PlayerList';
 import SearchBar from '../Search_Bar';
@@ -21,26 +21,41 @@ const Home = () => {
 
     return (
         <div className="home-page">
+                            <section className="celebration-section">
+                <div className="celebration-card">
+                    <h2>🎉 Over 250 Brukere! 🇳🇴</h2>
+                    <p>
+                        Tusen takk til alle som har hatt glede av Badstat, og takk for mange fine meldinger!
+                    </p>
+                </div>
+            </section>
             <section className="hero-section">
                 <h1>Velkommen til Badstat 🏸</h1>
-                <p>Med Badstat får du verktøyene du trenger til turnering. <br/>Sjekk tidligere kamper, analyser motstandere, sammenligne deg med andre og skriv kamplogger.</p>
-                <div className="start-button">
-    {isAuthenticated ? (
-        <button
-            style={{ all: 'unset', padding: '0px 0px', display: 'block', width: '100%' }}
-        >
-            <h3>Du er logget inn</h3>
-        </button>
-    ) : (
-        <Link to="/account" onClick={handleLinkClick} style={{ all: 'unset', padding: '0px 0px', display: 'block', width: '100%' }}>
-            <h3>Logg inn / Registrer</h3>
-        </Link>
-    )}
-</div>
+                <p>Med Badstat får du verktøyene du trenger til turnering. <br />Sjekk tidligere kamper, analyser motstandere, sammenligne deg med andre og skriv kamplogger.</p>
+                <p>
+                    Utviklet av
+                    <a href="https://vikse.dev" target="_blank" rel="noopener noreferrer"> Torstein Vikse Olsen</a>
+                </p>
 
-                <p>Oppdatert: 13.07.2024</p>
-                <img src="https://embedsocial.com/admin/media/feed-media/17950/17950733630435669/image_2_large.jpeg" alt="Badminton action" style={{maxWidth: '100%', height: 'auto', marginTop: '20px', marginBottom:  '30px', borderRadius : '10px'}}/>
+                <div className="start-button">
+                    {isAuthenticated ? (
+                        <button
+                            style={{ all: 'unset', padding: '0px 0px', display: 'block', width: '100%' }}
+                        >
+                            <h3>Du er logget inn</h3>
+                        </button>
+                    ) : (
+                        <Link to="/account" onClick={handleLinkClick} style={{ all: 'unset', padding: '0px 0px', display: 'block', width: '100%' }}>
+                            <h3>Logg inn / Registrer</h3>
+                        </Link>
+                    )}
+                </div>
+
+                <p>Oppdatert: 15.01.2025</p>
+                <img src="https://files.nettsteder.regjeringen.no/wpuploads01/sites/492/2022/10/COLOURBOX33648811-1024x651.jpg" alt="Badminton action" style={{ maxWidth: '100%', height: 'auto', marginTop: '20px', marginBottom: '30px', borderRadius: '10px' }} />
             </section>
+
+            
 
             <section className="contact-section">
                 <h2>Ta kontakt 📬</h2>
@@ -49,10 +64,13 @@ const Home = () => {
             </section>
 
             <footer className="footer-section">
-                <p>&copy; 2024 Badstat. Alle rettigheter reservert. Utviklet av Torstein Vikse Olsen</p>
+                <p>
+                    &copy; 2025 Badstat. Alle rettigheter reservert. Utviklet av
+                    <a href="https://vikse.dev" target="_blank" rel="noopener noreferrer"> Torstein Vikse Olsen</a>
+                </p>
             </footer>
         </div>
     );
 };
 
-export default Home;  
+export default Home;

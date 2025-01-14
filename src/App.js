@@ -25,6 +25,7 @@ import Leaderboard from './components/MostGames.js';
 
 
 
+
 const FlyingRackets = () => {
   const rackets = Array.from({ length: 2 });
 

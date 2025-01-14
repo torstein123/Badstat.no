@@ -13,7 +13,7 @@ final_df = pd.DataFrame()
 # Track club information per player per year
 club_info = {}
 
-for year in range(2013, 2024):
+for year in range(2013, 2025):
     yearly_files = [file for file in all_files if str(year) in file]
 
     # Empty DataFrame for the current year
@@ -54,7 +54,7 @@ final_df['All Clubs'] = final_df['Spiller-Id'].apply(lambda x: '|'.join(club_inf
 final_df['Current Club'] = final_df['Spiller-Id'].apply(lambda x: club_info[x]['current_club'])
 
 # Replace NaN with 0 in point columns
-point_columns = [str(year) for year in range(2013, 2024)]
+point_columns = [str(year) for year in range(2013, 2025)]
 final_df[point_columns] = final_df[point_columns].fillna(0)
 
 # Reset the index

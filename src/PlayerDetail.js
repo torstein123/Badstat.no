@@ -153,10 +153,10 @@ const currentClub = playerData['Current Club'];
   const bestRank = Math.min(...rankData);
   const worstRank = Math.max(...rankData);
 
-  const previousYear = '2022';
+  const previousYear = '2023';
   const previousRank =
     rankData[validYears.indexOf(previousYear)] || rankData[rankData.length - 1];
-  const currentYear = '2023';
+  const currentYear = '2024';
   const currentRank = rankData[0];
   const rankChange = previousRank - currentRank;
   const previousPoints = parseFloat(playerData[previousYear] || 0); // Added this line

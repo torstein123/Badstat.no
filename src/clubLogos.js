@@ -1,6 +1,6 @@
 // clubLogos.js
 const clubLogos = {
-    "BSI": "https://mlhskte01mbk.i.optimole.com/w:150/h:150/q:mauto/rt:fill/g:ce/f:avif/https://bsi.no/wp-content/uploads/2023/01/bsi_logo-2-e1675034197892.png",
+    "BSI": "https://bsi.no/wp-content/uploads/2024/02/Design-uten-navn.png",
     "Haugesund": "https://haugesundbk.net/bilder/logo/ny_logo_transparent_haugesund.png",
     "Bergen": "https://wordpress.bergenbk.no/wp-content/uploads/2013/05/cropped-copy-cropped-Logo-BBK.jpg",
     "Sotra": "https://radiosotra.no/wp-content/uploads/sotrabadminton.webp",

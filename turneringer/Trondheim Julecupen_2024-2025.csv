@@ -1,1 +1,716 @@
 Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Kai Roger Stensen,,Petter Svendsen,"21/9,21/14",Kai Roger Stensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Kai Roger Stensen,,Boyan Yu,"21/16,16/21,21/12",Kai Roger Stensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Petter Svendsen,,Gonçalo Ribeiro,"21/10,21/19",Petter Svendsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Kai Roger Stensen,,Ole Petter Øren,"21/10,21/9",Kai Roger Stensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Boyan Yu,,Jesse Stekelenburg,"21/13,9/21,21/17",Boyan Yu,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Petter Svendsen,,Øyvind W. Selboe,"21/17,21/12",Petter Svendsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Gonçalo Ribeiro,,Gaétan Bouthors,"21/13,21/12",Gonçalo Ribeiro,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Kai Roger Stensen,,Anders Moen,"21/8,21/12",Kai Roger Stensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Kai Roger Stensen,,Emil Pettersen,"21/15,21/6",Kai Roger Stensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Emil Pettersen,,Anders Moen,"11/21,21/18,21/9",Emil Pettersen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,William R. Barø,,Even Kvam,"21/14,21/8",William R. Barø,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Boyan Yu,,William R. Barø,"21/18,16/21,21/11",Boyan Yu,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Boyan Yu,,Even Kvam,"21/12,21/9",Boyan Yu,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Jesse Stekelenburg,,Kristoffer Kielland Rædergård,"21/16,21/17",Jesse Stekelenburg,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Jesse Stekelenburg,,Robert Sulebakk,"21/11,21/12",Jesse Stekelenburg,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Kristoffer Kielland Rædergård,,Robert Sulebakk,"21/11,21/12",Kristoffer Kielland Rædergård,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Petter Svendsen,,Knut Hermann Stenvaag,"21/13,21/12",Petter Svendsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Knut Hermann Stenvaag,,Torleiv Hov Grønbech,"22/20,21/17",Knut Hermann Stenvaag,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Petter Svendsen,,Torleiv Hov Grønbech,"21/14,21/18",Petter Svendsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Øyvind W. Selboe,,Benjamin Brevik,"21/12,21/9",Øyvind W. Selboe,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Gaétan Bouthors,,Oliver George Creese,"21/17,19/21,21/17",Gaétan Bouthors,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Gaétan Bouthors,,Rolf Ove Karlsen,"21/18,23/21",Gaétan Bouthors,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Oliver George Creese,,Rolf Ove Karlsen,"23/21,21/18",Oliver George Creese,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Gonçalo Ribeiro,,Iver Rolvsjord,"21/12,21/18",Gonçalo Ribeiro,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Gonçalo Ribeiro,,Eirik Tresselt Støylen,"24/22,19/21,21/16",Gonçalo Ribeiro,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herresingle,,Iver Rolvsjord,,Eirik Tresselt Støylen,"19/21,21/18,21/18",Iver Rolvsjord,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Henrik Buvik,Benjamin Rølvåg,"21/19,21/16",Kai Roger Stensen,Andreas Nordhøy
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Gonçalo Ribeiro,Robert Sulebakk,"22/20,21/16",Kai Roger Stensen,Andreas Nordhøy
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Henrik Buvik,Benjamin Rølvåg,Iver Rolvsjord,Boyan Yu,"21/14,21/19",Henrik Buvik,Benjamin Rølvåg
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Iver Rolvsjord,Boyan Yu,Kristoffer Kielland Rædergård,William R. Barø,"22/20,21/16",Iver Rolvsjord,Boyan Yu
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Gonçalo Ribeiro,Robert Sulebakk,Jesse Stekelenburg,Martin Østensen,"21/12,23/21",Gonçalo Ribeiro,Robert Sulebakk
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Gonçalo Ribeiro,Robert Sulebakk,Øyvind W. Selboe,Oliver George Creese,"21/16,21/18",Gonçalo Ribeiro,Robert Sulebakk
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Øyvind W. Selboe,Oliver George Creese,Jesse Stekelenburg,Martin Østensen,"21/13,21/13",Øyvind W. Selboe,Oliver George Creese
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Tore Groven,Bård Vegard Bævre,"21/14,21/14",Kai Roger Stensen,Andreas Nordhøy
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Tore Groven,Bård Vegard Bævre,Ole Christoffer Olsen,Emil Pettersen,"21/19,21/16",Tore Groven,Bård Vegard Bævre
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Kai Roger Stensen,Andreas Nordhøy,Ole Christoffer Olsen,Emil Pettersen,"21/12,21/8",Kai Roger Stensen,Andreas Nordhøy
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Iver Rolvsjord,Boyan Yu,Jens Asmund Solheim,Robin Kruksve Krux,"21/10,21/11",Iver Rolvsjord,Boyan Yu
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Iver Rolvsjord,Boyan Yu,Lars Valentin,Eirik Tresselt Støylen,"21/18,21/15",Iver Rolvsjord,Boyan Yu
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Lars Valentin,Eirik Tresselt Støylen,Jens Asmund Solheim,Robin Kruksve Krux,"21/15,21/17",Lars Valentin,Eirik Tresselt Støylen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Kristoffer Kielland Rædergård,William R. Barø,Torleiv Hov Grønbech,Even Kvam,"21/19,21/14",Kristoffer Kielland Rædergård,William R. Barø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Kristoffer Kielland Rædergård,William R. Barø,Sigve Hallager,Odd Helge Gåsbakk,"21/16,21/12",Kristoffer Kielland Rædergård,William R. Barø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Sigve Hallager,Odd Helge Gåsbakk,Torleiv Hov Grønbech,Even Kvam,"21/19,21/16",Sigve Hallager,Odd Helge Gåsbakk
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Henrik Buvik,Benjamin Rølvåg,Ole Petter Øren,Markus Måøy,"21/19,21/17",Henrik Buvik,Benjamin Rølvåg
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Henrik Buvik,Benjamin Rølvåg,Rolf Ove Karlsen,Trond Mære,"21/11,16/21,21/18",Henrik Buvik,Benjamin Rølvåg
+2024/2025,Trondheim Julecupen,07.12.2024,SEN E,Herredouble,Rolf Ove Karlsen,Trond Mære,Ole Petter Øren,Markus Måøy,"18/21,21/14,21/11",Rolf Ove Karlsen,Trond Mære
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Runa Korshavn,,Ragnhild Stenvaag,"21/14,21/19",Runa Korshavn,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Runa Korshavn,,Marte Stokkaune,"21/13,21/13",Runa Korshavn,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Ragnhild Stenvaag,,Dianne Christine Geronimo,"21/15,21/10",Ragnhild Stenvaag,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Dianne Christine Geronimo,,Charlotte Aase,"21/19,11/21,21/18",Dianne Christine Geronimo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Marte Stokkaune,,Nora  Omdal,"24/22,21/16",Marte Stokkaune,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Marte Stokkaune,,Gunn Fiskergaard,"21/17,21/17",Marte Stokkaune,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Runa Korshavn,,Andrea Løvold,"21/9,21/11",Runa Korshavn,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Andrea Løvold,,Linnea Nordnes Prestø,"17/21,21/5,21/15",Andrea Løvold,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Runa Korshavn,,Linnea Nordnes Prestø,"21/19,21/17",Runa Korshavn,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Dianne Christine Geronimo,,Trine Søraas Johannessen,"21/18,17/21,21/16",Dianne Christine Geronimo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Signe Lenning,,Trine Søraas Johannessen,"21/17,21/18",Signe Lenning,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Dianne Christine Geronimo,,Signe Lenning,"12/21,21/13,21/14",Dianne Christine Geronimo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Charlotte Aase,,Sara Hvidsten,"23/21,24/26,22/20",Charlotte Aase,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Tone Groven,,Sara Hvidsten,"21/15,17/21,22/20",Tone Groven,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Charlotte Aase,,Tone Groven,"21/17,21/14",Charlotte Aase,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Ragnhild Stenvaag,,Darja Maria Abuzatoaie,"21/10,21/15",Ragnhild Stenvaag,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damesingle,,Darja Maria Abuzatoaie,,Trishna Shyam Chand,"21/14,21/15",Darja Maria Abuzatoaie,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Ingvild Håland,Runa Korshavn,Trishna Shyam Chand,Sara Hvidsten,"21/13,21/19",Ingvild Håland,Runa Korshavn
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Trishna Shyam Chand,Sara Hvidsten,Hildegunn Måøy,Trine Søraas Johannessen,"21/10,21/14",Trishna Shyam Chand,Sara Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Andrea Løvold,Marte Stokkaune,Camilla Stokkaune,Anne Berit Bergsmo,"18/21,21/9,21/19",Andrea Løvold,Marte Stokkaune
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Ingvild Håland,Runa Korshavn,Camilla Stokkaune,Anne Berit Bergsmo,"21/18,21/16",Ingvild Håland,Runa Korshavn
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Ingvild Håland,Runa Korshavn,Andrea Løvold,Marte Stokkaune,"21/10,21/14",Ingvild Håland,Runa Korshavn
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Tyra Friisenfeldt,Moana Vadseth Furholm,Sissel W. Schmidt,Gunn Fiskergaard,"21/13,21/14",Tyra Friisenfeldt,Moana Vadseth Furholm
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Hildegunn Måøy,Trine Søraas Johannessen,Tyra Friisenfeldt,Moana Vadseth Furholm,"21/17,22/24,21/17",Hildegunn Måøy,Trine Søraas Johannessen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Hildegunn Måøy,Trine Søraas Johannessen,Sissel W. Schmidt,Gunn Fiskergaard,"21/23,21/10,21/14",Hildegunn Måøy,Trine Søraas Johannessen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Trishna Shyam Chand,Sara Hvidsten,Signe Lenning,Linnea Nordnes Prestø,"21/18,17/21,21/14",Trishna Shyam Chand,Sara Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Signe Lenning,Linnea Nordnes Prestø,Dianne Christine Geronimo,Shuwen Yang,"21/15,21/16",Signe Lenning,Linnea Nordnes Prestø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Damedouble,Trishna Shyam Chand,Sara Hvidsten,Dianne Christine Geronimo,Shuwen Yang,"19/21,23/21,25/23",Trishna Shyam Chand,Sara Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Boyan Yu,Nora  Omdal,Dianne Christine Geronimo,Oliver George Creese,"21/16,18/21,21/17",Boyan Yu,Nora  Omdal
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Dianne Christine Geronimo,Oliver George Creese,Andreas Nordhøy,Marte Stokkaune,"10/21,21/18,21/11",Dianne Christine Geronimo,Oliver George Creese
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Boyan Yu,Nora  Omdal,Shuwen Yang,Øyvind W. Selboe,"21/9,21/14",Boyan Yu,Nora  Omdal
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Dianne Christine Geronimo,Oliver George Creese,Signe Lenning,William R. Barø,"21/19,23/21",Dianne Christine Geronimo,Oliver George Creese
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Andreas Nordhøy,Marte Stokkaune,Sara Buvik,Gaétan Bouthors,"11/21,21/15,21/19",Andreas Nordhøy,Marte Stokkaune
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Shuwen Yang,Øyvind W. Selboe,Charlotte Aase,Robert Barø,"21/17,21/23,21/18",Shuwen Yang,Øyvind W. Selboe
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Boyan Yu,Nora  Omdal,Tone Groven,Tore Groven,"21/17,21/18",Boyan Yu,Nora  Omdal
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Andreas Nordhøy,Marte Stokkaune,Linnea Nordnes Prestø,Torleiv Hov Grønbech,"21/7,21/13",Andreas Nordhøy,Marte Stokkaune
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Charlotte Aase,Robert Barø,Gonçalo Ribeiro,Mia Henriksen,"21/17,21/17",Charlotte Aase,Robert Barø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Tone Groven,Tore Groven,Vegard Leksås,Trishna Shyam Chand,"15/21,21/12,21/17",Tone Groven,Tore Groven
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Dianne Christine Geronimo,Oliver George Creese,Andrea Løvold,Even Kvam,"21/7,21/7",Dianne Christine Geronimo,Oliver George Creese
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Signe Lenning,William R. Barø,Morten Solberg,Hildegunn Måøy,"21/15,21/18",Signe Lenning,William R. Barø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Sara Buvik,Gaétan Bouthors,Ragnhild Stenvaag,Eirik Tresselt Støylen,"18/21,21/19,21/18",Sara Buvik,Gaétan Bouthors
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Shuwen Yang,Øyvind W. Selboe,Rolf Ove Karlsen,Anne Berit Bergsmo,"19/21,25/23,21/17",Shuwen Yang,Øyvind W. Selboe
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Boyan Yu,Nora  Omdal,Benjamin Rølvåg,Camilla Stokkaune,"21/9,21/18",Boyan Yu,Nora  Omdal
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Andreas Nordhøy,Marte Stokkaune,Ingvild Håland,Petter Svendsen,"15/21,21/19,21/13",Andreas Nordhøy,Marte Stokkaune
+2024/2025,Trondheim Julecupen,07.12.2024,SEN A,Mixeddouble,Charlotte Aase,Robert Barø,Iver Rolvsjord,Moana Vadseth Furholm,"24/26,25/23,21/15",Charlotte Aase,Robert Barø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Markus Måøy,,Vegard Leksås,"17/21,21/14,21/10",Markus Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegard Leksås,,Elias Grønning,"17/21,21/19,21/8",Vegard Leksås,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Markus Måøy,,Odd Helge Gåsbakk,"21/11,21/8",Markus Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegard Leksås,,Pawel Jakub Saluter,"21/12,11/21,21/18",Vegard Leksås,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Elias Grønning,,Zhuo Xu,"21/19,13/21,21/13",Elias Grønning,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Odd Helge Gåsbakk,,Fred Moen,"21/17,21/16",Odd Helge Gåsbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Markus Måøy,,Vegar Næss,"15/21,21/15,21/18",Markus Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Markus Måøy,,Martin Østensen,"19/21,21/13,24/22",Markus Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegard Leksås,,Tor Haugstulen Jervell,"21/19,21/11",Vegard Leksås,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Elias Grønning,,Jørgen Olsen,"21/14,21/15",Elias Grønning,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Odd Helge Gåsbakk,,Erik Holden,"21/16,17/21,21/13",Odd Helge Gåsbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Fred Moen,,Eirik Kallåk Larsen,"15/21,21/9,21/17",Fred Moen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Pawel Jakub Saluter,,Håvard Buvik,"21/8,21/18",Pawel Jakub Saluter,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Ole Christoffer Olsen,,Håvard Buvik,"21/14,21/11",Ole Christoffer Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Pawel Jakub Saluter,,Ole Christoffer Olsen,"21/18,16/21,21/18",Pawel Jakub Saluter,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Erik Måøy,,Aleksander Berg,"21/14,21/19",Erik Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Tor Haugstulen Jervell,,Erik Måøy,"21/17,21/13",Tor Haugstulen Jervell,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Tor Haugstulen Jervell,,Aleksander Berg,"21/16,21/16",Tor Haugstulen Jervell,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Simen Eggøy Olson,,Sigurd Lorvik,"21/12,21/8",Simen Eggøy Olson,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegard Leksås,,Sigurd Lorvik,"21/11,21/9",Vegard Leksås,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegard Leksås,,Simen Eggøy Olson,"21/19,16/21,21/19",Vegard Leksås,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Nikolai Helgå,,Børge Bjørnli Nygård,"21/10,19/21,22/20",Nikolai Helgå,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Zhuo Xu,,Børge Bjørnli Nygård,"21/14,21/13",Zhuo Xu,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Zhuo Xu,,Nikolai Helgå,"21/16,21/13",Zhuo Xu,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Otto Wittner,,Hans Stephen Moralde Santos,"21/18,21/17",Otto Wittner,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Jørgen Olsen,,Otto Wittner,"21/10,12/21,21/16",Jørgen Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Jørgen Olsen,,Hans Stephen Moralde Santos,"21/16,21/16",Jørgen Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Elias Grønning,,Lars Petter Danielsen,"21/13,21/14",Elias Grønning,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Elias Grønning,,Harald Buvik,"21/15,21/14",Elias Grønning,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Lars Petter Danielsen,,Harald Buvik,"13/21,24/22,21/13",Lars Petter Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Erik Holden,,Ole Andreas Sagøy,"21/9,21/19",Erik Holden,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Alireza Sedghi,,Ole Andreas Sagøy,"21/16,21/16",Alireza Sedghi,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Erik Holden,,Alireza Sedghi,"21/17,21/12",Erik Holden,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Odd Helge Gåsbakk,,Kristian Nyhus Brende,"21/9,21/14",Odd Helge Gåsbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Odd Helge Gåsbakk,,Gaute Sellevoll,"21/13,18/21,23/21",Odd Helge Gåsbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Gaute Sellevoll,,Kristian Nyhus Brende,"23/21,21/19",Gaute Sellevoll,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Tor Stenvaag,,Joakim Øyen Bedsted,"15/21,21/19,21/12",Tor Stenvaag,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Eirik Kallåk Larsen,,Tor Stenvaag,"21/9,21/11",Eirik Kallåk Larsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Joakim Øyen Bedsted,,Eirik Kallåk Larsen,"21/15,13/21,21/13",Joakim Øyen Bedsted,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Fred Moen,,Roar Natvig,"22/20,13/21,21/19",Fred Moen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Fred Moen,,Kang Nian Yap,"21/13,21/15",Fred Moen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Markus Måøy,,Bengt Pedersen,"21/12,21/11",Markus Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Bengt Pedersen,,Marius Olav Evensen,"21/10,18/21,21/19",Bengt Pedersen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Markus Måøy,,Marius Olav Evensen,"21/16,17/21,21/11",Markus Måøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Amund Skavhaug,,Adrian Olsen-Loe Pedersen,"22/20,21/16",Amund Skavhaug,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Martin Østensen,,Adrian Olsen-Loe Pedersen,"21/19,19/21,22/20",Martin Østensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Mats-Einar Hammer Rotnes,,Martin Wüstefeld,"16/21,21/17,21/13",Mats-Einar Hammer Rotnes,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegar Næss,,Martin Wüstefeld,"21/9,21/5",Vegar Næss,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herresingle,,Vegar Næss,,Mats-Einar Hammer Rotnes,"21/12,21/7",Vegar Næss,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Anja Olsen,,Marte Vorum,"14/21,21/19,21/12",Anja Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Marte Vorum,,Elin Hansen,"21/15,21/15",Marte Vorum,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Marte Eggen,,Elin Hansen,"21/15,21/16",Marte Eggen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Marte Vorum,,Marte Eggen,"21/11,21/16",Marte Vorum,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Anja Olsen,,Hege Grønning,"21/13,21/15",Anja Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Hege Grønning,,Vivild Våbenø Berg,"21/13,21/5",Hege Grønning,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damesingle,,Anja Olsen,,Vivild Våbenø Berg,"21/10,21/10",Anja Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Robert Barø,Amund Skavhaug,Anders Moen,Fred Moen,"21/14,21/12",Robert Barø,Amund Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Anders Moen,Fred Moen,Jacek Artur Skrocki,Elias Grønning,"21/23,21/9,21/10",Anders Moen,Fred Moen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Robert Barø,Amund Skavhaug,Morten Solberg,Vegard Leksås,"24/22,12/21,21/15",Robert Barø,Amund Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Anders Moen,Fred Moen,Tor Haugstulen Jervell,Roger Haugstulen,"21/13,21/9",Anders Moen,Fred Moen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Jacek Artur Skrocki,Elias Grønning,Mattis Sæther-Danielsen,Lars Petter Danielsen,"21/18,21/11",Jacek Artur Skrocki,Elias Grønning
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Morten Solberg,Vegard Leksås,Pawel Jakub Saluter,Zhuo Xu,"21/5,21/13",Morten Solberg,Vegard Leksås
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Robert Barø,Amund Skavhaug,Ole Andreas Sagøy,Kristian Møkkelgård,"21/14,21/12",Robert Barø,Amund Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Jacek Artur Skrocki,Elias Grønning,Mats-Einar Hammer Rotnes,Frode Larsen,"21/6,21/16",Jacek Artur Skrocki,Elias Grønning
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Morten Solberg,Vegard Leksås,Casper Welzel Andersen,Steinar Fornes,"21/8,21/11",Morten Solberg,Vegard Leksås
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Benjamin Brevik,Jonathan Rohde Hallager,Terje Knutseth,Ole Petter Antonsen,"21/11,21/11",Benjamin Brevik,Jonathan Rohde Hallager
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Tor Haugstulen Jervell,Roger Haugstulen,Benjamin Brevik,Jonathan Rohde Hallager,"21/14,21/14",Tor Haugstulen Jervell,Roger Haugstulen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Tor Haugstulen Jervell,Roger Haugstulen,Terje Knutseth,Ole Petter Antonsen,"21/15,21/10",Tor Haugstulen Jervell,Roger Haugstulen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Anders Moen,Fred Moen,Per Arne Aas,Erik Holden,"21/16,21/17",Anders Moen,Fred Moen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Kristian Nyhus Brende,Eirik Kallåk Larsen,Per Arne Aas,Erik Holden,"21/12,21/16",Kristian Nyhus Brende,Eirik Kallåk Larsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Anders Moen,Fred Moen,Kristian Nyhus Brende,Eirik Kallåk Larsen,"21/13,21/13",Anders Moen,Fred Moen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Per Gunnar Søvik,Tor Stenvaag,Lukas Sulebakk,Nikolai Helgå,"21/16,21/11",Per Gunnar Søvik,Tor Stenvaag
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Mattis Sæther-Danielsen,Lars Petter Danielsen,Per Gunnar Søvik,Tor Stenvaag,"22/24,21/12,21/19",Mattis Sæther-Danielsen,Lars Petter Danielsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Mattis Sæther-Danielsen,Lars Petter Danielsen,Lukas Sulebakk,Nikolai Helgå,"21/19,21/17",Mattis Sæther-Danielsen,Lars Petter Danielsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Mats-Einar Hammer Rotnes,Frode Larsen,Vebjørn Børmark,Ole Kristian Hauge Vullum,"19/21,21/14,21/18",Mats-Einar Hammer Rotnes,Frode Larsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Mats-Einar Hammer Rotnes,Frode Larsen,Øystein Sveine,Bengt Pedersen,"21/17,14/21,21/17",Mats-Einar Hammer Rotnes,Frode Larsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Otto Wittner,Kang Nian Yap,Joakim Øyen Bedsted,Mads B. Rotabakk,"14/21,21/16,21/15",Otto Wittner,Kang Nian Yap
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Jacek Artur Skrocki,Elias Grønning,Otto Wittner,Kang Nian Yap,"21/19,21/15",Jacek Artur Skrocki,Elias Grønning
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Jacek Artur Skrocki,Elias Grønning,Joakim Øyen Bedsted,Mads B. Rotabakk,"21/19,21/14",Jacek Artur Skrocki,Elias Grønning
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Shyam Chand,Mahesh Chandrika,Rune Plassen Bakken,Åsmund Sønsteli,"21/8,21/10",Shyam Chand,Mahesh Chandrika
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Casper Welzel Andersen,Steinar Fornes,Rune Plassen Bakken,Åsmund Sønsteli,"21/13,21/15",Casper Welzel Andersen,Steinar Fornes
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Casper Welzel Andersen,Steinar Fornes,Shyam Chand,Mahesh Chandrika,"20/22,21/13,21/13",Casper Welzel Andersen,Steinar Fornes
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Morten Solberg,Vegard Leksås,Børge Bjørnli Nygård,Johnny Andersen,"21/9,21/12",Morten Solberg,Vegard Leksås
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Morten Solberg,Vegard Leksås,John Thomas Krogstad,Sigurd Lorvik,"21/9,21/11",Morten Solberg,Vegard Leksås
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Børge Bjørnli Nygård,Johnny Andersen,John Thomas Krogstad,Sigurd Lorvik,"21/12,21/17",Børge Bjørnli Nygård,Johnny Andersen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Pawel Jakub Saluter,Zhuo Xu,Aleksander Berg,Jørgen Olsen,"21/11,18/21,21/14",Pawel Jakub Saluter,Zhuo Xu
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Adrian Olsen-Loe Pedersen,Simen Eggøy Olson,Aleksander Berg,Jørgen Olsen,"21/12,21/16",Adrian Olsen-Loe Pedersen,Simen Eggøy Olson
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Pawel Jakub Saluter,Zhuo Xu,Adrian Olsen-Loe Pedersen,Simen Eggøy Olson,"21/16,23/25,21/19",Pawel Jakub Saluter,Zhuo Xu
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Gaute Sellevoll,Harald Buvik,Kristian Renbjør,Roar Natvig,"21/17,21/15",Gaute Sellevoll,Harald Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Robert Barø,Amund Skavhaug,Einar Mathias Øren,August Fines,"21/11,21/16",Robert Barø,Amund Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Einar Mathias Øren,August Fines,Kristian Renbjør,Roar Natvig,"21/18,22/20",Einar Mathias Øren,August Fines
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Robert Barø,Amund Skavhaug,Gaute Sellevoll,Harald Buvik,"18/21,21/17,24/22",Robert Barø,Amund Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Robert Barø,Amund Skavhaug,Kristian Renbjør,Roar Natvig,"21/19,21/18",Robert Barø,Amund Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Gaute Sellevoll,Harald Buvik,Einar Mathias Øren,August Fines,"21/18,21/19",Gaute Sellevoll,Harald Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Ole Andreas Sagøy,Kristian Møkkelgård,Johannes Lillevik Førde,Marius Olav Evensen,"21/14,21/12",Ole Andreas Sagøy,Kristian Møkkelgård
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Ole Andreas Sagøy,Kristian Møkkelgård,Erik Måøy,Kristian Hyllestad,"21/13,26/24",Ole Andreas Sagøy,Kristian Møkkelgård
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Herredouble,Erik Måøy,Kristian Hyllestad,Johannes Lillevik Førde,Marius Olav Evensen,"21/19,14/21,21/18",Erik Måøy,Kristian Hyllestad
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damedouble,Chelseah Tulio,Kelly Josie Goodchild,Vivild Våbenø Berg,Marte Eggen,"21/11,21/19",Chelseah Tulio,Kelly Josie Goodchild
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damedouble,Silje V. Kruksve Aasland,Eli Bente Just,Chelseah Tulio,Kelly Josie Goodchild,"21/17,21/18",Silje V. Kruksve Aasland,Eli Bente Just
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Damedouble,Silje V. Kruksve Aasland,Eli Bente Just,Vivild Våbenø Berg,Marte Eggen,"21/12,21/10",Silje V. Kruksve Aasland,Eli Bente Just
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Anja Olsen,Vegar Næss,Emil Pettersen,Pernille Lillevik,"21/14,21/17",Anja Olsen,Vegar Næss
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Anja Olsen,Vegar Næss,Trond Mære,Anita Olsen,"21/11,21/19",Anja Olsen,Vegar Næss
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Emil Pettersen,Pernille Lillevik,Markus Måøy,Trine Søraas Johannessen,"19/21,21/12,21/14",Emil Pettersen,Pernille Lillevik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Anja Olsen,Vegar Næss,Ida Lillevik Førde,Adrian Olsen-Loe Pedersen,"21/15,21/15",Anja Olsen,Vegar Næss
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Trond Mære,Anita Olsen,Kristoffer Kielland Rædergård,Silje Lyngstad Skavhaug,"21/19,21/17",Trond Mære,Anita Olsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Markus Måøy,Trine Søraas Johannessen,Sissel W. Schmidt,Lars Valentin,"21/19,21/15",Markus Måøy,Trine Søraas Johannessen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Emil Pettersen,Pernille Lillevik,Marie Vela-Mena,Alan Tsui,"21/10,21/18",Emil Pettersen,Pernille Lillevik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Emil Pettersen,Pernille Lillevik,Joakim Øyen Bedsted,Mona Øyen Bedsted,"21/17,21/14",Emil Pettersen,Pernille Lillevik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Trond Mære,Anita Olsen,Silje V. Kruksve Aasland,Kristian Møkkelgård,"21/18,21/18",Trond Mære,Anita Olsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Ida Lillevik Førde,Adrian Olsen-Loe Pedersen,Ole Andreas Sagøy,Eli Bente Just,"21/16,21/16",Ida Lillevik Førde,Adrian Olsen-Loe Pedersen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Sissel W. Schmidt,Lars Valentin,Henrik Hvidsten,Sara Hvidsten,"21/12,19/21,21/14",Sissel W. Schmidt,Lars Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Markus Måøy,Trine Søraas Johannessen,Lars Petter Danielsen,Malin Sæther-Danielsen,"21/9,21/14",Markus Måøy,Trine Søraas Johannessen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Marie Vela-Mena,Alan Tsui,Elias Grønning,Hege Grønning,"21/17,21/17",Marie Vela-Mena,Alan Tsui
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Anja Olsen,Vegar Næss,Ole Petter Øren,Siv Solum Buvik,"15/21,21/12,21/7",Anja Olsen,Vegar Næss
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Kristoffer Kielland Rædergård,Silje Lyngstad Skavhaug,Sigve Hallager,Tove Søraas,"25/23,21/13",Kristoffer Kielland Rædergård,Silje Lyngstad Skavhaug
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Anja Olsen,Vegar Næss,Martin Østensen,Susanne Gripsgård,"21/14,21/14",Anja Olsen,Vegar Næss
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Ida Lillevik Førde,Adrian Olsen-Loe Pedersen,Mads B. Rotabakk,Nora Haukdal Trøen,"16/21,21/12,24/22",Ida Lillevik Førde,Adrian Olsen-Loe Pedersen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Sigve Hallager,Tove Søraas,Mattis Sæther-Danielsen,Maja Sæther-Danielsen,"21/13,21/16",Sigve Hallager,Tove Søraas
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Silje V. Kruksve Aasland,Kristian Møkkelgård,Marte Eggen,Ole Petter Antonsen,"21/18,21/17",Silje V. Kruksve Aasland,Kristian Møkkelgård
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Trond Mære,Anita Olsen,Chelseah Tulio,Jacek Artur Skrocki,"21/12,21/15",Trond Mære,Anita Olsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Henrik Hvidsten,Sara Hvidsten,Elin Hansen,Bengt Pedersen,"21/11,21/15",Henrik Hvidsten,Sara Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Sissel W. Schmidt,Lars Valentin,Gaute Sellevoll,Aurora Kaspersen,"21/7,21/13",Sissel W. Schmidt,Lars Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Lars Petter Danielsen,Malin Sæther-Danielsen,Titto Idicula,Parvathavardhini Soundararajan,"21/14,21/16",Lars Petter Danielsen,Malin Sæther-Danielsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Markus Måøy,Trine Søraas Johannessen,Vivild Våbenø Berg,Vebjørn Børmark,"21/12,21/13",Markus Måøy,Trine Søraas Johannessen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Elias Grønning,Hege Grønning,Jørgen Olsen,Julie Kristin Vatterholm,"21/17,21/12",Elias Grønning,Hege Grønning
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Marie Vela-Mena,Alan Tsui,Stephanie Wüstefeld,Martin Wüstefeld,"21/7,21/8",Marie Vela-Mena,Alan Tsui
+2024/2025,Trondheim Julecupen,07.12.2024,SEN B,Mixeddouble,Joakim Øyen Bedsted,Mona Øyen Bedsted,Marte Vorum,Roar Natvig,"23/21,21/17",Joakim Øyen Bedsted,Mona Øyen Bedsted
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thomas Holdbakk,,Einar Mathias Øren,"21/18,21/19",Thomas Holdbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Einar Mathias Øren,,Ole Petter Antonsen,"21/17,21/15",Einar Mathias Øren,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thomas Holdbakk,,Casper Welzel Andersen,"21/15,17/21,21/16",Thomas Holdbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Ole Petter Antonsen,,Kenneth Albertsen,"20/22,21/14,21/14",Ole Petter Antonsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Einar Mathias Øren,,Niels Stagegaard,"21/12,21/14",Einar Mathias Øren,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thomas Holdbakk,,Danil Michkayev,"21/14,21/8",Thomas Holdbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Casper Welzel Andersen,,Øystein Sveine,"21/16,21/10",Casper Welzel Andersen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Niels Stagegaard,,Øyvind Rasmussen,"21/15,21/18",Niels Stagegaard,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thomas Holdbakk,,Alexander Hansen,"21/13,16/21,21/10",Thomas Holdbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Casper Welzel Andersen,,Helge Hansen,"21/17,21/11",Casper Welzel Andersen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Sander Grandetrø,,Markus Lervik Furuvik,"21/18,21/18",Sander Grandetrø,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Ole Petter Antonsen,,Sander Grandetrø,"21/10,21/17",Ole Petter Antonsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Ole Petter Antonsen,,Markus Lervik Furuvik,"21/16,13/21,27/25",Ole Petter Antonsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Kenneth Albertsen,,Lucas René Bech,"21/8,21/12",Kenneth Albertsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Jørgen Nordhøy,,Johnny Kalajdzic,"21/6,21/18",Jørgen Nordhøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Kenneth Albertsen,,Johnny Kalajdzic,"21/5,21/10",Kenneth Albertsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Jørgen Nordhøy,,Lucas René Bech,"21/12,21/19",Jørgen Nordhøy,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Johnny Kalajdzic,,Lucas René Bech,"21/13,21/17",Johnny Kalajdzic,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Kenneth Albertsen,,Jørgen Nordhøy,"21/8,21/10",Kenneth Albertsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Tom Smebye,,Justin Dano Sagarino,"17/21,21/7,21/19",Tom Smebye,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Einar Mathias Øren,,Tom Smebye,"21/5,21/11",Einar Mathias Øren,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Einar Mathias Øren,,Justin Dano Sagarino,"21/9,21/14",Einar Mathias Øren,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Niels Stagegaard,,Mats Bernhoff,"21/14,19/21,21/13",Niels Stagegaard,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Niels Stagegaard,,John Thomas Krogstad,"21/10,21/11",Niels Stagegaard,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Mats Bernhoff,,John Thomas Krogstad,"21/7,21/18",Mats Bernhoff,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Øyvind Rasmussen,,Rune Plassen Bakken,"21/14,21/7",Øyvind Rasmussen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thomas Holdbakk,,Thor Martin Mortensen,"21/8,21/8",Thomas Holdbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thomas Holdbakk,,Ludvik Liaaen,"21/9,21/10",Thomas Holdbakk,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Thor Martin Mortensen,,Ludvik Liaaen,"21/10,10/21,21/18",Thor Martin Mortensen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Henry Aleksander Krys,,Michael Berg,"21/7,21/15",Henry Aleksander Krys,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Alexander Hansen,,Michael Berg,"21/9,21/15",Alexander Hansen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Alexander Hansen,,Henry Aleksander Krys,"21/13,11/21,21/15",Alexander Hansen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Sam Khemklad,,Tobias Espeseth,"21/19,21/11",Sam Khemklad,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Danil Michkayev,,Sam Khemklad,"17/21,21/16,21/9",Danil Michkayev,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Casper Welzel Andersen,,Sheldon Porter,"21/8,21/8",Casper Welzel Andersen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Casper Welzel Andersen,,Rolf Erik Kristoffersen Høglien,"21/6,21/8",Casper Welzel Andersen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Sheldon Porter,,Rolf Erik Kristoffersen Høglien,"21/6,21/9",Sheldon Porter,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Emil Sandnes,,Helge Hansen,"21/16,17/21,21/13",Emil Sandnes,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Steinar Fornes,,Emil Sandnes,"21/19,21/11",Steinar Fornes,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Helge Hansen,,Steinar Fornes,"26/24,22/20",Helge Hansen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Johannes Lillevik Førde,,Frode Larsen,"16/21,21/12,21/11",Johannes Lillevik Førde,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Øystein Sveine,,Frode Larsen,"19/21,21/16,21/14",Øystein Sveine,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herresingle,,Øystein Sveine,,Johannes Lillevik Førde,"15/21,21/15,21/17",Øystein Sveine,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Susanne Gripsgård,,Tove Søraas,"21/15,21/16",Susanne Gripsgård,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Parvathavardhini Soundararajan,,Meriam Lund,"21/19,21/17",Parvathavardhini Soundararajan,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Tove Søraas,,Malin Sandnes,"21/12,21/11",Tove Søraas,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Tove Søraas,,Parvathavardhini Soundararajan,"21/16,14/21,21/18",Tove Søraas,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Meriam Lund,,Malin Sandnes,"21/15,21/6",Meriam Lund,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Tove Søraas,,Meriam Lund,"21/17,21/16",Tove Søraas,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Parvathavardhini Soundararajan,,Malin Sandnes,"21/9,21/6",Parvathavardhini Soundararajan,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Kwanthida Poonsawat,,Stephanie Wüstefeld,"15/21,21/16,21/17",Kwanthida Poonsawat,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Susanne Gripsgård,,Emma Rasmussen-Wingan,"21/16,21/7",Susanne Gripsgård,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Kwanthida Poonsawat,,Emma Rasmussen-Wingan,"21/19,16/21,21/11",Kwanthida Poonsawat,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Susanne Gripsgård,,Stephanie Wüstefeld,"21/15,21/14",Susanne Gripsgård,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Susanne Gripsgård,,Kwanthida Poonsawat,"21/17,21/8",Susanne Gripsgård,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damesingle,,Stephanie Wüstefeld,,Emma Rasmussen-Wingan,"19/21,21/12,21/17",Stephanie Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Håvard Buvik,Sara Buvik,Lars Vanvikmyr,Henrik Hvidsten,"21/13,17/21,21/18",Håvard Buvik,Sara Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Lars Vanvikmyr,Henrik Hvidsten,Kenneth Albertsen,Sheldon Porter,"23/21,21/12",Lars Vanvikmyr,Henrik Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Håvard Buvik,Sara Buvik,Alexander Hansen,Kenneth Bernhoff,"21/8,21/11",Håvard Buvik,Sara Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Kenneth Albertsen,Sheldon Porter,Henry Aleksander Krys,Hans Stephen Moralde Santos,"18/21,21/15,21/13",Kenneth Albertsen,Sheldon Porter
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Håvard Buvik,Sara Buvik,Dilshaj Suma Narayanan,Shahabaz Basheer,"21/12,21/16",Håvard Buvik,Sara Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Alexander Hansen,Kenneth Bernhoff,Morten Kvåle,Kjetil Ravlo,"21/17,21/16",Alexander Hansen,Kenneth Bernhoff
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Lucas René Bech,Helge Hansen,Eivind Moe,Sindre Emanuel Moe,"21/15,21/18",Lucas René Bech,Helge Hansen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Lars Vanvikmyr,Henrik Hvidsten,Jørgen Nordhøy,Martin Wüstefeld,"21/18,17/21,21/16",Lars Vanvikmyr,Henrik Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Lars Vanvikmyr,Henrik Hvidsten,Eivind Moe,Sindre Emanuel Moe,"21/15,21/7",Lars Vanvikmyr,Henrik Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Jørgen Nordhøy,Martin Wüstefeld,Lucas René Bech,Helge Hansen,"21/15,17/21,21/11",Jørgen Nordhøy,Martin Wüstefeld
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Jørgen Nordhøy,Martin Wüstefeld,Eivind Moe,Sindre Emanuel Moe,"21/16,18/21,21/12",Jørgen Nordhøy,Martin Wüstefeld
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Lars Vanvikmyr,Henrik Hvidsten,Lucas René Bech,Helge Hansen,"21/4,21/15",Lars Vanvikmyr,Henrik Hvidsten
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Johnny Kalajdzic,Ludvik Liaaen,Rolf Erik Kristoffersen Høglien,Roger Grindstuen,"21/14,19/21,21/16",Johnny Kalajdzic,Ludvik Liaaen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Henry Aleksander Krys,Hans Stephen Moralde Santos,Johnny Kalajdzic,Ludvik Liaaen,"21/14,21/15",Henry Aleksander Krys,Hans Stephen Moralde Santos
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Henry Aleksander Krys,Hans Stephen Moralde Santos,Rolf Erik Kristoffersen Høglien,Roger Grindstuen,"21/9,21/7",Henry Aleksander Krys,Hans Stephen Moralde Santos
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Kenneth Albertsen,Sheldon Porter,Øyvind Rasmussen,Sander Grandetrø,"21/17,19/21,21/15",Kenneth Albertsen,Sheldon Porter
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Øyvind Rasmussen,Sander Grandetrø,Eirik Tetlie,Tobias Taube,"21/16,21/11",Øyvind Rasmussen,Sander Grandetrø
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Kenneth Albertsen,Sheldon Porter,Eirik Tetlie,Tobias Taube,"21/17,21/14",Kenneth Albertsen,Sheldon Porter
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Dilshaj Suma Narayanan,Shahabaz Basheer,Stian Olsen,Steinar Mæhlum,"21/7,21/12",Dilshaj Suma Narayanan,Shahabaz Basheer
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Kjell Holdbakk,Thomas Holdbakk,Stian Olsen,Steinar Mæhlum,"21/10,21/17",Kjell Holdbakk,Thomas Holdbakk
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Dilshaj Suma Narayanan,Shahabaz Basheer,Kjell Holdbakk,Thomas Holdbakk,"21/11,21/14",Dilshaj Suma Narayanan,Shahabaz Basheer
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Markus Lervik Furuvik,Sam Khemklad,Emil Sandnes,Bernt Erik Sandnes,"21/13,21/9",Markus Lervik Furuvik,Sam Khemklad
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Håvard Buvik,Sara Buvik,Emil Sandnes,Bernt Erik Sandnes,"21/16,21/10",Håvard Buvik,Sara Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Håvard Buvik,Sara Buvik,Markus Lervik Furuvik,Sam Khemklad,"21/14,21/13",Håvard Buvik,Sara Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Mats Bernhoff,Michael Berg,Marius Overland,Sebastian Engvik,"21/13,21/14",Mats Bernhoff,Michael Berg
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Morten Kvåle,Kjetil Ravlo,Marius Overland,Sebastian Engvik,"21/10,21/16",Morten Kvåle,Kjetil Ravlo
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Morten Kvåle,Kjetil Ravlo,Mats Bernhoff,Michael Berg,"13/21,21/19,22/20",Morten Kvåle,Kjetil Ravlo
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Alexander Hansen,Kenneth Bernhoff,Halidu Dimbei Malik,Tom Smebye,"22/20,14/21,21/16",Alexander Hansen,Kenneth Bernhoff
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Halidu Dimbei Malik,Tom Smebye,Per Arne Hammer,Danil Michkayev,"21/18,21/19",Halidu Dimbei Malik,Tom Smebye
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Herredouble,Alexander Hansen,Kenneth Bernhoff,Per Arne Hammer,Danil Michkayev,"20/22,21/16,21/18",Alexander Hansen,Kenneth Bernhoff
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Seema Mathew,Parvathavardhini Soundararajan,Susanne Engseth,Julie Kristin Vatterholm,"7/21,21/17,21/19",Seema Mathew,Parvathavardhini Soundararajan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Susanne Engseth,Julie Kristin Vatterholm,Thea Eldegard Andersen,Julia Småvik,"21/18,21/15",Susanne Engseth,Julie Kristin Vatterholm
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Susanne Engseth,Julie Kristin Vatterholm,Stephanie Wüstefeld,Elin Hansen,"14/21,21/18,21/17",Susanne Engseth,Julie Kristin Vatterholm
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Susanne Engseth,Julie Kristin Vatterholm,Siv Solum Buvik,Ida Lillevik Førde,"21/11,21/9",Susanne Engseth,Julie Kristin Vatterholm
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Stephanie Wüstefeld,Elin Hansen,Siv Solum Buvik,Ida Lillevik Førde,"21/18,22/20",Stephanie Wüstefeld,Elin Hansen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Guusje van Broekhoven,Emma Callaert,Malin Sandnes,Sara Engan,"14/21,21/17,21/14",Guusje van Broekhoven,Emma Callaert
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Thea Eldegard Andersen,Julia Småvik,Guusje van Broekhoven,Emma Callaert,"17/21,21/16,21/18",Thea Eldegard Andersen,Julia Småvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Thea Eldegard Andersen,Julia Småvik,Malin Sandnes,Sara Engan,"21/9,21/15",Thea Eldegard Andersen,Julia Småvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Beverly Henriksen,Mia Henriksen,Anne Kari Vangen Bakken,Marianne Østenseth,"21/10,21/12",Beverly Henriksen,Mia Henriksen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Helene Winger,Nora Haukdal Trøen,Anne Kari Vangen Bakken,Marianne Østenseth,"21/5,21/8",Helene Winger,Nora Haukdal Trøen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Helene Winger,Nora Haukdal Trøen,Beverly Henriksen,Mia Henriksen,"14/21,21/15,21/9",Helene Winger,Nora Haukdal Trøen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Seema Mathew,Parvathavardhini Soundararajan,Amelia Siemiatkowska,Kwanthida Poonsawat,"15/21,21/19,22/20",Seema Mathew,Parvathavardhini Soundararajan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Amelia Siemiatkowska,Kwanthida Poonsawat,Emma Rasmussen-Wingan,Mari Jensen,"25/23,20/22,21/17",Amelia Siemiatkowska,Kwanthida Poonsawat
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Damedouble,Seema Mathew,Parvathavardhini Soundararajan,Emma Rasmussen-Wingan,Mari Jensen,"21/12,21/13",Seema Mathew,Parvathavardhini Soundararajan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Johannes Lillevik Førde,Maja Sørgjerd,Per Gunnar Søvik,Karen Uggedal Søvik,"23/21,11/21,21/19",Johannes Lillevik Førde,Maja Sørgjerd
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Per Gunnar Søvik,Karen Uggedal Søvik,Beverly Henriksen,Andreas Årseth Kvamme,"21/9,14/21,21/19",Per Gunnar Søvik,Karen Uggedal Søvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Johannes Lillevik Førde,Maja Sørgjerd,Marius Brevik,Solveig Bergin,"21/19,22/20",Johannes Lillevik Førde,Maja Sørgjerd
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Beverly Henriksen,Andreas Årseth Kvamme,Malin Sandnes,Kristian Renbjør,"19/21,21/19,21/15",Beverly Henriksen,Andreas Årseth Kvamme
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Per Gunnar Søvik,Karen Uggedal Søvik,Kenneth Albertsen,Susanne Engseth,"22/20,21/17",Per Gunnar Søvik,Karen Uggedal Søvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Johannes Lillevik Førde,Maja Sørgjerd,Cecilie Hildrum,Harald Buvik,"21/12,18/21,21/18",Johannes Lillevik Førde,Maja Sørgjerd
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Marius Brevik,Solveig Bergin,Seema Mathew,Nirmal Krishna Rathakrishnan,"21/13,21/12",Marius Brevik,Solveig Bergin
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Beverly Henriksen,Andreas Årseth Kvamme,Amelia Siemiatkowska,Alexander Hansen,"21/9,16/21,22/20",Beverly Henriksen,Andreas Årseth Kvamme
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Malin Sandnes,Kristian Renbjør,Markus Lervik Furuvik,Kwanthida Poonsawat,"21/17,21/14",Malin Sandnes,Kristian Renbjør
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Kenneth Albertsen,Susanne Engseth,Øystein Sveine,Mari Uleberg,"21/18,21/12",Kenneth Albertsen,Susanne Engseth
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Per Gunnar Søvik,Karen Uggedal Søvik,Eivind Moe,Marlen Thoresen Mikalsen,"21/15,21/15",Per Gunnar Søvik,Karen Uggedal Søvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Cecilie Hildrum,Harald Buvik,Heidi Cicilie Haarberg,Sebastian Engvik,"21/2,21/14",Cecilie Hildrum,Harald Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Seema Mathew,Nirmal Krishna Rathakrishnan,Helene Winger,Herman Dragnes,"21/19,21/17",Seema Mathew,Nirmal Krishna Rathakrishnan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Marius Brevik,Solveig Bergin,Mats-Einar Hammer Rotnes,Emma Rasmussen-Wingan,"21/5,21/18",Marius Brevik,Solveig Bergin
+2024/2025,Trondheim Julecupen,07.12.2024,SEN C,Mixeddouble,Cecilie Hildrum,Harald Buvik,Egle Dzerviene,Sam Khemklad,"21/11,21/15",Cecilie Hildrum,Harald Buvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Vegard Williksen,,Kjetil Ravlo,"21/17,21/13",Vegard Williksen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Vegard Williksen,,Lukas Albertsen,"21/11,21/10",Vegard Williksen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Kjetil Ravlo,,Oliver Moe,"23/21,16/21,21/14",Kjetil Ravlo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Lukas Albertsen,,Steinar Mæhlum,"21/19,21/16",Lukas Albertsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Vegard Williksen,,Tobias Taube,"21/13,21/14",Vegard Williksen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Oliver Moe,,Åsmund Sønsteli,"21/18,21/13",Oliver Moe,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Kjetil Ravlo,,Mindaugas Norkaitis,"21/15,21/18",Kjetil Ravlo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Joel Medina Strand,,Alexander Lindseth,"21/15,21/15",Joel Medina Strand,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Steinar Mæhlum,,Alexander Lindseth,"21/15,21/12",Steinar Mæhlum,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Steinar Mæhlum,,Joel Medina Strand,"21/16,16/21,21/16",Steinar Mæhlum,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Kristoffer Sosulski Moen,,Halidu Dimbei Malik,"21/15,12/21,21/19",Kristoffer Sosulski Moen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Lukas Albertsen,,Halidu Dimbei Malik,"21/14,21/12",Lukas Albertsen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Håkon Toresen,,Stian Olsen,"21/17,21/14",Håkon Toresen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Tobias Taube,,Stian Olsen,"21/11,21/7",Tobias Taube,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Tobias Taube,,Håkon Toresen,"21/11,21/12",Tobias Taube,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Vegard Williksen,,Kåre Engan,"30/29,23/25,21/19",Vegard Williksen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Kåre Engan,,Herman Dragnes,"21/10,21/17",Kåre Engan,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Vegard Williksen,,Herman Dragnes,"21/9,21/14",Vegard Williksen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Åsmund Sønsteli,,Morten Kvåle,"21/19,21/17",Åsmund Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Morten Kvåle,,Martin Røis Nilsen,"22/24,21/12,21/8",Morten Kvåle,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Åsmund Sønsteli,,Martin Røis Nilsen,"21/12,21/14",Åsmund Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Oliver Moe,,Joel Albertsen,"21/7,21/10",Oliver Moe,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Tom Erik Skårn,,Joel Albertsen,"21/19,11/21,21/18",Tom Erik Skårn,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Oliver Moe,,Tom Erik Skårn,"21/12,21/15",Oliver Moe,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Mindaugas Norkaitis,,Fredrik Lund,"12/21,21/18,21/19",Mindaugas Norkaitis,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Kjetil Ravlo,,Laurits Angen,"21/10,21/6",Kjetil Ravlo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Kjetil Ravlo,,Steffen Juliussen,"21/11,21/17",Kjetil Ravlo,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herresingle,,Steffen Juliussen,,Laurits Angen,"21/4,21/6",Steffen Juliussen,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Annelotte Storsul Sverdrup,,Guusje van Broekhoven,"21/19,21/16",Annelotte Storsul Sverdrup,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Annelotte Storsul Sverdrup,,Savitha Podalona Narayana,"21/8,21/7",Annelotte Storsul Sverdrup,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Guusje van Broekhoven,,Egle Dzerviene,"21/11,21/12",Guusje van Broekhoven,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Guusje van Broekhoven,,Mari Uleberg,"21/14,21/19",Guusje van Broekhoven,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Egle Dzerviene,,Veronica Holmberg,"21/9,21/13",Egle Dzerviene,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Savitha Podalona Narayana,,Giedre Isganaityte,"16/21,21/16,21/14",Savitha Podalona Narayana,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Giedre Isganaityte,,Kathrine Ottesen,"21/18,21/13",Giedre Isganaityte,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Savitha Podalona Narayana,,Kathrine Ottesen,"21/9,21/12",Savitha Podalona Narayana,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damesingle,,Annelotte Storsul Sverdrup,,Ida Lillevik Førde,"21/7,21/18",Annelotte Storsul Sverdrup,
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Sujith Sreekumar,Sreejith Raghavan,Steffen Juliussen,Thor Martin Mortensen,"21/18,23/21",Sujith Sreekumar,Sreejith Raghavan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Steffen Juliussen,Thor Martin Mortensen,Marian Kovalenko,Kenneth Fagervoll,"23/21,21/8",Steffen Juliussen,Thor Martin Mortensen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Sujith Sreekumar,Sreejith Raghavan,Vegard Williksen,Oliver Moe,"21/13,21/17",Sujith Sreekumar,Sreejith Raghavan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Stig Erik Trøen,Hans Petter Enebakk,Thor Thoresen,Justin Dano Sagarino,"21/11,21/11",Stig Erik Trøen,Hans Petter Enebakk
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Steffen Juliussen,Thor Martin Mortensen,Stig Erik Trøen,Hans Petter Enebakk,"21/10,16/21,24/22",Steffen Juliussen,Thor Martin Mortensen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Steffen Juliussen,Thor Martin Mortensen,Thor Thoresen,Justin Dano Sagarino,"22/20,21/18",Steffen Juliussen,Thor Martin Mortensen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Marian Kovalenko,Kenneth Fagervoll,Joel Albertsen,Lukas Albertsen,"22/20,21/12",Marian Kovalenko,Kenneth Fagervoll
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Marian Kovalenko,Kenneth Fagervoll,Tom Erik Skårn,Dag Ivar Lillevik,"21/19,18/21,23/21",Marian Kovalenko,Kenneth Fagervoll
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Joel Albertsen,Lukas Albertsen,Tom Erik Skårn,Dag Ivar Lillevik,"21/16,21/14",Joel Albertsen,Lukas Albertsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Sujith Sreekumar,Sreejith Raghavan,Tobias Langlie,Even Mathias Mjønes Bernhardsen,"21/19,21/12",Sujith Sreekumar,Sreejith Raghavan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Fredrik Lund,Kåre Engan,Bjørnar Sævik,Adrian Børgersen,"21/17,21/14",Fredrik Lund,Kåre Engan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Sujith Sreekumar,Sreejith Raghavan,Bjørnar Sævik,Adrian Børgersen,"21/9,21/13",Sujith Sreekumar,Sreejith Raghavan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Tobias Langlie,Even Mathias Mjønes Bernhardsen,Fredrik Lund,Kåre Engan,"13/21,21/14,21/18",Tobias Langlie,Even Mathias Mjønes Bernhardsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Sujith Sreekumar,Sreejith Raghavan,Fredrik Lund,Kåre Engan,"21/13,21/13",Sujith Sreekumar,Sreejith Raghavan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Tobias Langlie,Even Mathias Mjønes Bernhardsen,Bjørnar Sævik,Adrian Børgersen,"21/11,21/7",Tobias Langlie,Even Mathias Mjønes Bernhardsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Vegard Williksen,Oliver Moe,Håkon Toresen,Alexander Lindseth,"21/19,15/21,21/8",Vegard Williksen,Oliver Moe
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Vegard Williksen,Oliver Moe,Asgeir Øverby,Jonah Mathias Øverby,"21/11,21/13",Vegard Williksen,Oliver Moe
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Herredouble,Asgeir Øverby,Jonah Mathias Øverby,Håkon Toresen,Alexander Lindseth,"21/10,21/12",Asgeir Øverby,Jonah Mathias Øverby
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Kathrine Ottesen,Marie Vela-Mena,Meriam Lund,Cecilie Hildrum,"21/15,24/22",Kathrine Ottesen,Marie Vela-Mena
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Kathrine Ottesen,Marie Vela-Mena,Priyadarshini Geetha,Mishiga Vallabhan,"21/14,17/21,21/14",Kathrine Ottesen,Marie Vela-Mena
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Meriam Lund,Cecilie Hildrum,Lisa Enebakk,Janne Berit Haukdal,"21/13,21/7",Meriam Lund,Cecilie Hildrum
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Egle Dzerviene,Savitha Podalona Narayana,Astrid Sandnes Fagervoll,Giedre Isganaityte,"21/11,21/11",Egle Dzerviene,Savitha Podalona Narayana
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Kathrine Ottesen,Marie Vela-Mena,Astrid Sandnes Fagervoll,Giedre Isganaityte,"21/11,21/14",Kathrine Ottesen,Marie Vela-Mena
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Kathrine Ottesen,Marie Vela-Mena,Egle Dzerviene,Savitha Podalona Narayana,"21/17,21/12",Kathrine Ottesen,Marie Vela-Mena
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Priyadarshini Geetha,Mishiga Vallabhan,Annelotte Storsul Sverdrup,Mari Uleberg,"21/12,23/21",Priyadarshini Geetha,Mishiga Vallabhan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Priyadarshini Geetha,Mishiga Vallabhan,Maren Weglo,Kirsti Moe,"21/18,21/13",Priyadarshini Geetha,Mishiga Vallabhan
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Kristin Lerånn,Anette Stenvik,Wanda Helen Berge,Jonah Nyeitera,"21/10,21/14",Kristin Lerånn,Anette Stenvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Meriam Lund,Cecilie Hildrum,Kristin Lerånn,Anette Stenvik,"21/19,21/18",Meriam Lund,Cecilie Hildrum
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Meriam Lund,Cecilie Hildrum,Wanda Helen Berge,Jonah Nyeitera,"21/12,21/9",Meriam Lund,Cecilie Hildrum
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Damedouble,Lisa Enebakk,Janne Berit Haukdal,Uma Praseeda,Kavitha Radhakrishnan,"22/20,21/14",Lisa Enebakk,Janne Berit Haukdal
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Sreejith Raghavan,Uma Praseeda,Mats Bernhoff,Guusje van Broekhoven,"15/21,21/18,21/17",Sreejith Raghavan,Uma Praseeda
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Sreejith Raghavan,Uma Praseeda,Kristin Lerånn,Robert Edvardsen,"21/12,21/8",Sreejith Raghavan,Uma Praseeda
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Mats Bernhoff,Guusje van Broekhoven,Kenneth Bernhoff,Annelotte Storsul Sverdrup,"15/21,21/15,21/17",Mats Bernhoff,Guusje van Broekhoven
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Kristin Lerånn,Robert Edvardsen,Bjørnar Sævik,Maren Weglo,"21/13,21/12",Kristin Lerånn,Robert Edvardsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Sreejith Raghavan,Uma Praseeda,Jørgen Nordhøy,Anette Stenvik,"21/18,21/11",Sreejith Raghavan,Uma Praseeda
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Kenneth Bernhoff,Annelotte Storsul Sverdrup,Fredrik Lund,Meriam Lund,"13/21,24/22,22/20",Kenneth Bernhoff,Annelotte Storsul Sverdrup
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Mats Bernhoff,Guusje van Broekhoven,Øyvind Rasmussen,Kaia Vathra,"21/14,21/12",Mats Bernhoff,Guusje van Broekhoven
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Jørgen Nordhøy,Anette Stenvik,Stian Olsen,Marianne Østenseth,"21/8,21/16",Jørgen Nordhøy,Anette Stenvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Kristin Lerånn,Robert Edvardsen,Steinar Mæhlum,Linn Berit Eiesar,"21/10,21/10",Kristin Lerånn,Robert Edvardsen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Bjørnar Sævik,Maren Weglo,Stig Erik Trøen,Janne Berit Haukdal,"21/18,21/13",Bjørnar Sævik,Maren Weglo
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Sreejith Raghavan,Uma Praseeda,Wanda Helen Berge,Kjell Holdbakk,"21/9,21/12",Sreejith Raghavan,Uma Praseeda
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Kenneth Bernhoff,Annelotte Storsul Sverdrup,Astrid Sandnes Fagervoll,Kenneth Fagervoll,"21/18,21/17",Kenneth Bernhoff,Annelotte Storsul Sverdrup
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Fredrik Lund,Meriam Lund,Kirsti Moe,Thor Martin Mortensen,"15/21,21/19,21/18",Fredrik Lund,Meriam Lund
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Øyvind Rasmussen,Kaia Vathra,Gard Tveten Aune,Gry Tveten Aune,"21/9,21/4",Øyvind Rasmussen,Kaia Vathra
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Mats Bernhoff,Guusje van Broekhoven,Per Arne Hammer,Jonah Nyeitera,"21/15,21/17",Mats Bernhoff,Guusje van Broekhoven
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Bjørnar Sævik,Maren Weglo,Mindaugas Norkaitis,Giedre Isganaityte,"21/15,21/11",Bjørnar Sævik,Maren Weglo
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Jørgen Nordhøy,Anette Stenvik,Kristoffer Sosulski Moen,Veronica Holmberg,"21/11,21/5",Jørgen Nordhøy,Anette Stenvik
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Astrid Sandnes Fagervoll,Kenneth Fagervoll,Lisa Enebakk,Hans Petter Enebakk,"21/8,21/14",Astrid Sandnes Fagervoll,Kenneth Fagervoll
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Kirsti Moe,Thor Martin Mortensen,Rune Plassen Bakken,Anne Kari Vangen Bakken,"16/21,21/11,21/16",Kirsti Moe,Thor Martin Mortensen
+2024/2025,Trondheim Julecupen,07.12.2024,SEN D,Mixeddouble,Øyvind Rasmussen,Kaia Vathra,Mishiga Vallabhan,Dilshaj Suma Narayanan,"21/19,18/21,21/14",Øyvind Rasmussen,Kaia Vathra
+2024/2025,Trondheim Julecupen,07.12.2024,U9 A,Damesingle,,Emma Linnea Mjønes,,Marie Haugnes Strand,"21/7,21/16",Emma Linnea Mjønes,
+2024/2025,Trondheim Julecupen,07.12.2024,U9 A,Damesingle,,Marie Haugnes Strand,,Mathea Tetlie,"21/13,21/11",Marie Haugnes Strand,
+2024/2025,Trondheim Julecupen,07.12.2024,U9 A,Damesingle,,Emma Linnea Mjønes,,Mathea Tetlie,"22/20,21/15",Emma Linnea Mjønes,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Simon Balvold,,Marelius Weglo Juliussen,"21/13,18/21,21/11",Simon Balvold,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Simon Balvold,,Andreas Hagstrøm Sagøy,"21/9,21/13",Simon Balvold,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Marelius Weglo Juliussen,,Isak Sveine Aspnes,"21/17,21/17",Marelius Weglo Juliussen,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Andreas Hagstrøm Sagøy,,Ola Moe Toresen,"21/15,21/9",Andreas Hagstrøm Sagøy,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Martin Overland,,Ola Moe Toresen,"21/13,19/21,21/7",Martin Overland,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Andreas Hagstrøm Sagøy,,Martin Overland,"21/19,24/22",Andreas Hagstrøm Sagøy,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Simon Balvold,,Henrik Moe Toresen,"21/17,21/17",Simon Balvold,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Simon Balvold,,Axel Trøite Børgersen,"21/11,21/5",Simon Balvold,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Henrik Moe Toresen,,Axel Trøite Børgersen,"21/6,21/10",Henrik Moe Toresen,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Wiktor Skrocki,,Samuel Mikalsen Lindseth,"21/17,21/11",Wiktor Skrocki,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Marelius Weglo Juliussen,,Wiktor Skrocki,"17/21,21/15,22/20",Marelius Weglo Juliussen,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Marelius Weglo Juliussen,,Samuel Mikalsen Lindseth,"21/8,21/18",Marelius Weglo Juliussen,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Isak Sveine Aspnes,,Georg Nilsen Sævik,"21/5,21/11",Isak Sveine Aspnes,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Håkon Hojem Kvam,,Georg Nilsen Sævik,"21/19,21/13",Håkon Hojem Kvam,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herresingle,,Isak Sveine Aspnes,,Håkon Hojem Kvam,"21/9,21/18",Isak Sveine Aspnes,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Damesingle,,Chinmayi Pazhay Annur Kurruppath,,Alde Andrea Rohde Hallager,"21/11,21/18",Chinmayi Pazhay Annur Kurruppath,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Isak Sveine Aspnes,Simon Balvold,Wiktor Skrocki,Samuel Mikalsen Lindseth,"21/8,21/11",Isak Sveine Aspnes,Simon Balvold
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Wiktor Skrocki,Samuel Mikalsen Lindseth,Axel Trøite Børgersen,Ola Moe Toresen,"21/7,21/17",Wiktor Skrocki,Samuel Mikalsen Lindseth
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Wiktor Skrocki,Samuel Mikalsen Lindseth,Andreas Hagstrøm Sagøy,Sverre Alexander Lysberg Selbæk,"21/9,19/21,21/14",Wiktor Skrocki,Samuel Mikalsen Lindseth
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Axel Trøite Børgersen,Ola Moe Toresen,Andreas Hagstrøm Sagøy,Sverre Alexander Lysberg Selbæk,"22/20,21/16",Axel Trøite Børgersen,Ola Moe Toresen
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Isak Sveine Aspnes,Simon Balvold,Håkon Hojem Kvam,Marelius Weglo Juliussen,"21/12,21/9",Isak Sveine Aspnes,Simon Balvold
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Isak Sveine Aspnes,Simon Balvold,Georg Nilsen Sævik,Henrik Moe Toresen,"21/19,21/19",Isak Sveine Aspnes,Simon Balvold
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Herredouble,Georg Nilsen Sævik,Henrik Moe Toresen,Håkon Hojem Kvam,Marelius Weglo Juliussen,"21/17,15/21,21/11",Georg Nilsen Sævik,Henrik Moe Toresen
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Damedouble,Chinmayi Pazhay Annur Kurruppath,Frida Westye-Korshavn,Asbjørg Vangen Bakken,Johanne Sønsteli,"21/6,21/15",Chinmayi Pazhay Annur Kurruppath,Frida Westye-Korshavn
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Damedouble,Chinmayi Pazhay Annur Kurruppath,Frida Westye-Korshavn,Ida Brøttem,Emma Linnea Mjønes,"21/8,21/6",Chinmayi Pazhay Annur Kurruppath,Frida Westye-Korshavn
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Damedouble,Asbjørg Vangen Bakken,Johanne Sønsteli,Ida Brøttem,Emma Linnea Mjønes,"21/17,21/14",Asbjørg Vangen Bakken,Johanne Sønsteli
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Nichlas Brevik,Johanne Sønsteli,Wiktor Skrocki,Chinmayi Pazhay Annur Kurruppath,"21/13,21/14",Nichlas Brevik,Johanne Sønsteli
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Simon Balvold,Alde Andrea Rohde Hallager,Isak Sveine Aspnes,Asbjørg Vangen Bakken,"21/8,21/14",Simon Balvold,Alde Andrea Rohde Hallager
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Wiktor Skrocki,Chinmayi Pazhay Annur Kurruppath,Isak Sveine Aspnes,Asbjørg Vangen Bakken,"21/8,21/10",Wiktor Skrocki,Chinmayi Pazhay Annur Kurruppath
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Wiktor Skrocki,Chinmayi Pazhay Annur Kurruppath,Simon Balvold,Alde Andrea Rohde Hallager,"12/21,21/18,21/8",Wiktor Skrocki,Chinmayi Pazhay Annur Kurruppath
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Nichlas Brevik,Johanne Sønsteli,Sara Hamstad,Håkon Hojem Kvam,"21/10,21/18",Nichlas Brevik,Johanne Sønsteli
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Marelius Weglo Juliussen,Frida Westye-Korshavn,Sara Hamstad,Håkon Hojem Kvam,"21/10,21/14",Marelius Weglo Juliussen,Frida Westye-Korshavn
+2024/2025,Trondheim Julecupen,07.12.2024,U11 A,Mixeddouble,Nichlas Brevik,Johanne Sønsteli,Marelius Weglo Juliussen,Frida Westye-Korshavn,"17/21,21/15,21/9",Nichlas Brevik,Johanne Sønsteli
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Herresingle,,Qiuman Wang,,Anvit Vinayak Chettimada,"21/8,21/3",Qiuman Wang,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Herresingle,,Sander Kristiansen Antonsen,,Anvit Vinayak Chettimada,"21/13,21/11",Sander Kristiansen Antonsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Herresingle,,Qiuman Wang,,Sverre Alexander Lysberg Selbæk,"21/11,21/8",Qiuman Wang,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Herresingle,,Sverre Alexander Lysberg Selbæk,,Anvit Vinayak Chettimada,"21/5,21/14",Sverre Alexander Lysberg Selbæk,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Herresingle,,Qiuman Wang,,Sander Kristiansen Antonsen,"21/11,21/3",Qiuman Wang,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Herresingle,,Sverre Alexander Lysberg Selbæk,,Sander Kristiansen Antonsen,"21/18,21/15",Sverre Alexander Lysberg Selbæk,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Johanne Sønsteli,,Asbjørg Vangen Bakken,"21/18,21/11",Johanne Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Frida Westye-Korshavn,,Maja Dzervaite,"16/21,21/13,21/9",Frida Westye-Korshavn,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Asbjørg Vangen Bakken,,Maja Dzervaite,"21/18,21/19",Asbjørg Vangen Bakken,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Asbjørg Vangen Bakken,,Frida Westye-Korshavn,"21/17,12/21,21/15",Asbjørg Vangen Bakken,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Sara Hamstad,,Ida Brøttem,"21/12,21/9",Sara Hamstad,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Johanne Sønsteli,,Sara Hamstad,"21/8,21/4",Johanne Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U11 B,Damesingle,,Johanne Sønsteli,,Ida Brøttem,"21/11,21/8",Johanne Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Adrian Sønsteli,,Solan August Tustervatn,"21/10,16/21,21/18",Adrian Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Solan August Tustervatn,,Magnus Grindstuen,"21/15,21/10",Solan August Tustervatn,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Adrian Sønsteli,,Liam Sveine Aspnes,"21/6,21/9",Adrian Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Devansh Menon,,Liam Sveine Aspnes,"21/4,21/2",Devansh Menon,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Adrian Sønsteli,,Leo Nicolai Hanssen,"21/10,21/11",Adrian Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Adrian Sønsteli,,Devansh Menon,"21/16,23/21",Adrian Sønsteli,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Leo Nicolai Hanssen,,Liam Sveine Aspnes,"21/8,21/8",Leo Nicolai Hanssen,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Devansh Menon,,Leo Nicolai Hanssen,"21/14,21/16",Devansh Menon,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Magnus Grindstuen,,Theodor Skåtun Barstad,"21/11,21/16",Magnus Grindstuen,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Magnus Grindstuen,,Leo Carlsen,"21/16,21/8",Magnus Grindstuen,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Leo Carlsen,,Theodor Skåtun Barstad,"19/21,21/7,21/6",Leo Carlsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Solan August Tustervatn,,Joakim Bøe Jervell,"21/19,24/22",Solan August Tustervatn,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Solan August Tustervatn,,Lukas Wüstefeld,"21/14,21/16",Solan August Tustervatn,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herresingle,,Lukas Wüstefeld,,Joakim Bøe Jervell,"16/21,21/18,21/9",Lukas Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damesingle,,Kaia Madeleine Thoresen Mikalsen,,Lotta Johanna Erøy Fagervik,"21/12,21/6",Kaia Madeleine Thoresen Mikalsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damesingle,,Nicole Vidugirytè,,Ida Amalie Skårn,"21/12,16/21,21/12",Nicole Vidugirytè,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damesingle,,Ida Amalie Skårn,,Kaia Madeleine Thoresen Mikalsen,"13/21,21/13,20/18",Ida Amalie Skårn,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damesingle,,Ida Amalie Skårn,,Lotta Johanna Erøy Fagervik,"21/8,21/6",Ida Amalie Skårn,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damesingle,,Nicole Vidugirytè,,Lotta Johanna Erøy Fagervik,"21/11,21/9",Nicole Vidugirytè,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damesingle,,Nicole Vidugirytè,,Kaia Madeleine Thoresen Mikalsen,"21/4,21/7",Nicole Vidugirytè,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Leo Nicolai Hanssen,Helvijs Bramanis,Eilev Lonbakken Høglien,Magnus Grindstuen,"21/14,21/16",Leo Nicolai Hanssen,Helvijs Bramanis
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Lukas Wüstefeld,Liam Sveine Aspnes,Devansh Menon,Leo Carlsen,"21/15,27/29,21/12",Lukas Wüstefeld,Liam Sveine Aspnes
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Leo Nicolai Hanssen,Helvijs Bramanis,Devansh Menon,Leo Carlsen,"14/21,21/19,21/11",Leo Nicolai Hanssen,Helvijs Bramanis
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Adrian Sønsteli,Joakim Bøe Jervell,Eilev Lonbakken Høglien,Magnus Grindstuen,"21/16,21/11",Adrian Sønsteli,Joakim Bøe Jervell
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Adrian Sønsteli,Joakim Bøe Jervell,Leo Nicolai Hanssen,Helvijs Bramanis,"21/11,21/8",Adrian Sønsteli,Joakim Bøe Jervell
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Lukas Wüstefeld,Liam Sveine Aspnes,Eilev Lonbakken Høglien,Magnus Grindstuen,"21/18,17/21,22/20",Lukas Wüstefeld,Liam Sveine Aspnes
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Leo Nicolai Hanssen,Helvijs Bramanis,Lukas Wüstefeld,Liam Sveine Aspnes,"21/19,21/19",Leo Nicolai Hanssen,Helvijs Bramanis
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Adrian Sønsteli,Joakim Bøe Jervell,Devansh Menon,Leo Carlsen,"21/12,21/15",Adrian Sønsteli,Joakim Bøe Jervell
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Devansh Menon,Leo Carlsen,Eilev Lonbakken Høglien,Magnus Grindstuen,"21/13,21/10",Devansh Menon,Leo Carlsen
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Herredouble,Adrian Sønsteli,Joakim Bøe Jervell,Lukas Wüstefeld,Liam Sveine Aspnes,"21/10,21/9",Adrian Sønsteli,Joakim Bøe Jervell
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damedouble,Nicole Vidugirytè,Lotta Johanna Erøy Fagervik,Ane Kvernø,Kaia Madeleine Thoresen Mikalsen,"21/17,21/12",Nicole Vidugirytè,Lotta Johanna Erøy Fagervik
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damedouble,Lone Nordal Grevsnes,Sunniva Eiesar-Mæhlum,Ida Amalie Skårn,Thea Oline Moe,"21/16,21/13",Lone Nordal Grevsnes,Sunniva Eiesar-Mæhlum
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damedouble,Lone Nordal Grevsnes,Sunniva Eiesar-Mæhlum,Ane Kvernø,Kaia Madeleine Thoresen Mikalsen,"21/10,21/16",Lone Nordal Grevsnes,Sunniva Eiesar-Mæhlum
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damedouble,Nicole Vidugirytè,Lotta Johanna Erøy Fagervik,Ida Amalie Skårn,Thea Oline Moe,"21/8,21/16",Nicole Vidugirytè,Lotta Johanna Erøy Fagervik
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damedouble,Ane Kvernø,Kaia Madeleine Thoresen Mikalsen,Ida Amalie Skårn,Thea Oline Moe,"18/21,21/18,21/17",Ane Kvernø,Kaia Madeleine Thoresen Mikalsen
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Damedouble,Nicole Vidugirytè,Lotta Johanna Erøy Fagervik,Lone Nordal Grevsnes,Sunniva Eiesar-Mæhlum,"21/18,23/21",Nicole Vidugirytè,Lotta Johanna Erøy Fagervik
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Leo Nicolai Hanssen,Lone Nordal Grevsnes,Solan August Tustervatn,Kaia Madeleine Thoresen Mikalsen,"14/21,21/8,21/15",Leo Nicolai Hanssen,Lone Nordal Grevsnes
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Leo Nicolai Hanssen,Lone Nordal Grevsnes,Ida Amalie Skårn,Magnus Grindstuen,"21/10,21/10",Leo Nicolai Hanssen,Lone Nordal Grevsnes
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Solan August Tustervatn,Kaia Madeleine Thoresen Mikalsen,Liam Sveine Aspnes,Thea Oline Moe,"21/11,21/17",Solan August Tustervatn,Kaia Madeleine Thoresen Mikalsen
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Solan August Tustervatn,Kaia Madeleine Thoresen Mikalsen,Nicole Vidugirytè,Adrian Sønsteli,"14/21,23/21,21/13",Solan August Tustervatn,Kaia Madeleine Thoresen Mikalsen
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Nicole Vidugirytè,Adrian Sønsteli,Liam Sveine Aspnes,Thea Oline Moe,"21/12,21/4",Nicole Vidugirytè,Adrian Sønsteli
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Leo Nicolai Hanssen,Lone Nordal Grevsnes,Leo Carlsen,Ester Marie Vestergaard Grande,"21/9,21/5",Leo Nicolai Hanssen,Lone Nordal Grevsnes
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Leo Nicolai Hanssen,Lone Nordal Grevsnes,Vebjørn Eiesar-Mæhlum,Sunniva Eiesar-Mæhlum,"21/10,21/5",Leo Nicolai Hanssen,Lone Nordal Grevsnes
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Leo Carlsen,Ester Marie Vestergaard Grande,Vebjørn Eiesar-Mæhlum,Sunniva Eiesar-Mæhlum,"21/16,21/19",Leo Carlsen,Ester Marie Vestergaard Grande
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Ida Amalie Skårn,Magnus Grindstuen,Lotta Johanna Erøy Fagervik,Eilev Lonbakken Høglien,"21/11,21/17",Ida Amalie Skårn,Magnus Grindstuen
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Ida Amalie Skårn,Magnus Grindstuen,Lukas Wüstefeld,Iben Marie Kaspersen Krogstad,"21/9,21/17",Ida Amalie Skårn,Magnus Grindstuen
+2024/2025,Trondheim Julecupen,07.12.2024,U13 A,Mixeddouble,Lotta Johanna Erøy Fagervik,Eilev Lonbakken Høglien,Lukas Wüstefeld,Iben Marie Kaspersen Krogstad,"11/21,21/6,21/13",Lotta Johanna Erøy Fagervik,Eilev Lonbakken Høglien
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Nichlas Brevik,,Matti Wüstefeld,"21/14,21/10",Nichlas Brevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Nichlas Brevik,,Eilev Lonbakken Høglien,"21/12,21/6",Nichlas Brevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Matti Wüstefeld,,Hallgeir Vangen Bakken,"23/21,21/12",Matti Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Melvin Jensen,,Ola Melkild Brøttem,"21/15,21/18",Melvin Jensen,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Eilev Lonbakken Høglien,,Ola Melkild Brøttem,"15/21,21/16,21/18",Eilev Lonbakken Høglien,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Eilev Lonbakken Høglien,,Melvin Jensen,"21/13,21/15",Eilev Lonbakken Høglien,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Leander Tetlie,,Patrick Sander Raj,"21/7,21/7",Leander Tetlie,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Nichlas Brevik,,Patrick Sander Raj,"21/3,21/7",Nichlas Brevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Adhrit Vinayak Chettimada,,Patrick Sander Raj,"21/5,21/6",Adhrit Vinayak Chettimada,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Nichlas Brevik,,Leander Tetlie,"21/5,21/11",Nichlas Brevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Johan Vik-Mo Falch,,Vidharth Valamburi,"17/21,21/14,21/18",Johan Vik-Mo Falch,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Matti Wüstefeld,,Vidharth Valamburi,"17/21,21/14,21/12",Matti Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Matti Wüstefeld,,Johan Vik-Mo Falch,"21/6,21/13",Matti Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Helvijs Bramanis,,Kai While Jacobsen,"21/15,21/17",Helvijs Bramanis,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Hallgeir Vangen Bakken,,Helvijs Bramanis,"21/16,7/21,21/18",Hallgeir Vangen Bakken,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herresingle,,Hallgeir Vangen Bakken,,Kai While Jacobsen,"21/7,21/10",Hallgeir Vangen Bakken,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Damesingle,,Ane Kvernø,,Una Kvål,"21/6,21/8",Ane Kvernø,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Damesingle,,Ane Kvernø,,Iben Marie Kaspersen Krogstad,"21/13,21/9",Ane Kvernø,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Damesingle,,Iben Marie Kaspersen Krogstad,,Una Kvål,"21/6,21/15",Iben Marie Kaspersen Krogstad,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Damesingle,,Ester Marie Vestergaard Grande,,Iben Marie Kaspersen Krogstad,"21/15,21/7",Ester Marie Vestergaard Grande,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Damesingle,,Ane Kvernø,,Ester Marie Vestergaard Grande,"21/11,21/16",Ane Kvernø,
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Solan August Tustervatn,Johan Vik-Mo Falch,Vidharth Valamburi,Adhrit Vinayak Chettimada,"21/8,21/8",Solan August Tustervatn,Johan Vik-Mo Falch
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Solan August Tustervatn,Johan Vik-Mo Falch,Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken,"21/10,20/22,21/15",Solan August Tustervatn,Johan Vik-Mo Falch
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Solan August Tustervatn,Johan Vik-Mo Falch,Ola Melkild Brøttem,Theodor Skåtun Barstad,"21/12,21/11",Solan August Tustervatn,Johan Vik-Mo Falch
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Matti Wüstefeld,Nichlas Brevik,Solan August Tustervatn,Johan Vik-Mo Falch,"18/21,21/17,21/14",Matti Wüstefeld,Nichlas Brevik
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken,Ola Melkild Brøttem,Theodor Skåtun Barstad,"21/16,21/13",Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Matti Wüstefeld,Nichlas Brevik,Ola Melkild Brøttem,Theodor Skåtun Barstad,"21/15,17/21,21/15",Matti Wüstefeld,Nichlas Brevik
+2024/2025,Trondheim Julecupen,07.12.2024,U13 B,Herredouble,Matti Wüstefeld,Nichlas Brevik,Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken,"21/13,21/16",Matti Wüstefeld,Nichlas Brevik
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Jonathan Rohde Hallager,,Leo Idicula,"21/8,23/21",Jonathan Rohde Hallager,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Leo Idicula,,Carl Stagegaard,"22/20,21/17",Leo Idicula,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Jonathan Rohde Hallager,,Tridev Shyam Chand,"21/15,21/10",Jonathan Rohde Hallager,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Jonathan Rohde Hallager,,Amund Børmark,"21/10,21/14",Jonathan Rohde Hallager,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Tridev Shyam Chand,,Amund Børmark,"19/21,21/17,21/18",Tridev Shyam Chand,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Carl Stagegaard,,Viktor Eldegard,"10/21,21/17,21/17",Carl Stagegaard,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Jayson Xu,,Viktor Eldegard,"21/9,10/21,23/21",Jayson Xu,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Carl Stagegaard,,Jayson Xu,"21/11,21/15",Carl Stagegaard,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Leo Idicula,,Jaran Salater Nygård,"15/21,21/10,21/13",Leo Idicula,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Jaran Salater Nygård,,Even Mathias Mjønes Bernhardsen,"21/13,17/21,21/18",Jaran Salater Nygård,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herresingle,,Leo Idicula,,Even Mathias Mjønes Bernhardsen,"21/5,21/16",Leo Idicula,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Sæther-Danielsen,,Alexandra Valentin,"23/21,13/21,21/16",Maja Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Sæther-Danielsen,,Maja Sørgjerd,"21/15,21/14",Maja Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Lone Nordal Grevsnes,,Lykke Elise Søvik,"21/3,21/11",Lone Nordal Grevsnes,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Alexandra Valentin,,Julia Wojtkowska,"21/13,17/21,22/20",Alexandra Valentin,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Alexandra Valentin,,Lone Nordal Grevsnes,"20/22,21/16,21/11",Alexandra Valentin,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Julia Wojtkowska,,Lykke Elise Søvik,"21/19,23/21",Julia Wojtkowska,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Lone Nordal Grevsnes,,Julia Wojtkowska,"21/14,21/14",Lone Nordal Grevsnes,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Alexandra Valentin,,Lykke Elise Søvik,"21/15,21/17",Alexandra Valentin,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Sørgjerd,,Sara Engan,"21/9,21/8",Maja Sørgjerd,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Karen Uggedal Søvik,,Maja Fagervoll,"21/17,21/8",Karen Uggedal Søvik,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Karen Uggedal Søvik,,Sara Engan,"21/5,21/5",Karen Uggedal Søvik,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Sørgjerd,,Maja Fagervoll,"21/8,21/12",Maja Sørgjerd,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Fagervoll,,Sara Engan,"21/5,21/14",Maja Fagervoll,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Sørgjerd,,Karen Uggedal Søvik,"21/14,19/21,21/9",Maja Sørgjerd,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damesingle,,Maja Sæther-Danielsen,,Emine Antonsen Kristiansen,"21/13,21/5",Maja Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herredouble,Viktor Eldegard,Amund Børmark,Jaran Salater Nygård,Carl Stagegaard,"21/17,21/17",Viktor Eldegard,Amund Børmark
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herredouble,Tridev Shyam Chand,Leo Idicula,Jaran Salater Nygård,Carl Stagegaard,"19/21,24/22,21/17",Tridev Shyam Chand,Leo Idicula
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Herredouble,Tridev Shyam Chand,Leo Idicula,Viktor Eldegard,Amund Børmark,"21/15,21/9",Tridev Shyam Chand,Leo Idicula
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damedouble,Karen Uggedal Søvik,Alexandra Valentin,Maja Fagervoll,Emine Antonsen Kristiansen,"21/8,21/15",Karen Uggedal Søvik,Alexandra Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damedouble,Maja Sæther-Danielsen,Malin Sæther-Danielsen,Maja Fagervoll,Emine Antonsen Kristiansen,"21/11,21/4",Maja Sæther-Danielsen,Malin Sæther-Danielsen
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Damedouble,Karen Uggedal Søvik,Alexandra Valentin,Maja Sæther-Danielsen,Malin Sæther-Danielsen,"21/18,17/21,21/16",Karen Uggedal Søvik,Alexandra Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Jonathan Rohde Hallager,Alexandra Valentin,Maja Fagervoll,Amund Børmark,"21/16,21/9",Jonathan Rohde Hallager,Alexandra Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Lykke Elise Søvik,Carl Stagegaard,Emine Antonsen Kristiansen,Even Mathias Mjønes Bernhardsen,"21/14,21/11",Lykke Elise Søvik,Carl Stagegaard
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Jonathan Rohde Hallager,Alexandra Valentin,Lykke Elise Søvik,Carl Stagegaard,"21/19,21/15",Jonathan Rohde Hallager,Alexandra Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Maja Fagervoll,Amund Børmark,Jakob Wüstefeld,Stine Overland,"21/16,22/20",Maja Fagervoll,Amund Børmark
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Lykke Elise Søvik,Carl Stagegaard,Jakob Wüstefeld,Stine Overland,"21/15,24/22",Lykke Elise Søvik,Carl Stagegaard
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Maja Fagervoll,Amund Børmark,Emine Antonsen Kristiansen,Even Mathias Mjønes Bernhardsen,"19/21,21/11,21/7",Maja Fagervoll,Amund Børmark
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Jonathan Rohde Hallager,Alexandra Valentin,Jakob Wüstefeld,Stine Overland,"21/19,21/8",Jonathan Rohde Hallager,Alexandra Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Jonathan Rohde Hallager,Alexandra Valentin,Emine Antonsen Kristiansen,Even Mathias Mjønes Bernhardsen,"21/4,21/6",Jonathan Rohde Hallager,Alexandra Valentin
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Jakob Wüstefeld,Stine Overland,Emine Antonsen Kristiansen,Even Mathias Mjønes Bernhardsen,"19/21,21/18,21/11",Jakob Wüstefeld,Stine Overland
+2024/2025,Trondheim Julecupen,07.12.2024,U15 A,Mixeddouble,Lykke Elise Søvik,Carl Stagegaard,Maja Fagervoll,Amund Børmark,"21/16,17/21,22/20",Lykke Elise Søvik,Carl Stagegaard
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Jakob Wüstefeld,,Isak Larsen Dyrvik,"21/17,12/21,21/13",Jakob Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Jakob Wüstefeld,,Noah Hallan,"21/13,21/12",Jakob Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Isak Larsen Dyrvik,,Michael Donner,"18/21,21/18,21/17",Isak Larsen Dyrvik,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Michael Donner,,Leander Rønne Olsen,"21/18,10/21,21/18",Michael Donner,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Noah Hallan,,Leonardo Boff Mota,"21/6,21/8",Noah Hallan,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Sebastian Skarpnes,,Leonardo Boff Mota,"21/3,21/2",Sebastian Skarpnes,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Noah Hallan,,Sebastian Skarpnes,"21/8,21/9",Noah Hallan,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Jakob Wüstefeld,,Elias Mauseth,"21/9,21/14",Jakob Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Elias Mauseth,,Oliver Johan Tustervatn,"21/6,21/11",Elias Mauseth,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Mathias Elverhaug-Gjerde,,Oliver Johan Tustervatn,"21/9,21/9",Mathias Elverhaug-Gjerde,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Jakob Wüstefeld,,Mathias Elverhaug-Gjerde,"21/18,21/19",Jakob Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Jakob Wüstefeld,,Oliver Johan Tustervatn,"21/8,21/5",Jakob Wüstefeld,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Mathias Elverhaug-Gjerde,,Elias Mauseth,"21/12,13/21,21/16",Mathias Elverhaug-Gjerde,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Leander Rønne Olsen,,Ty Krisander Olsson,"21/18,21/7",Leander Rønne Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Leander Rønne Olsen,,Emil Lerånn Edvardsen,"22/20,21/14",Leander Rønne Olsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Emil Lerånn Edvardsen,,Ty Krisander Olsson,"21/15,21/18",Emil Lerånn Edvardsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Michael Donner,,Sigurd Mikalsen Lindseth,"21/13,21/11",Michael Donner,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Ola Kvande Stendal,,Sigurd Mikalsen Lindseth,"21/11,21/8",Ola Kvande Stendal,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Michael Donner,,Ola Kvande Stendal,"21/19,21/17",Michael Donner,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Isak Larsen Dyrvik,,Gaute Tønne Lindsøe,"21/10,21/9",Isak Larsen Dyrvik,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Gaute Tønne Lindsøe,,Sivert Vik-Mo Falch,"21/13,21/19",Gaute Tønne Lindsøe,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herresingle,,Isak Larsen Dyrvik,,Sivert Vik-Mo Falch,"21/9,21/10",Isak Larsen Dyrvik,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Vasilisa Gorelkina,,Eva Lindseth,"19/21,21/15,21/17",Vasilisa Gorelkina,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Anette Forsbakk Nordhøy,,Emilia Santos,"21/6,21/9",Anette Forsbakk Nordhøy,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Eva Lindseth,,Emilia Santos,"19/21,23/21,21/4",Eva Lindseth,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Anette Forsbakk Nordhøy,,Eva Lindseth,"21/7,21/7",Anette Forsbakk Nordhøy,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Ingrid Antonette Selboskar,,Emilia Santos,"21/7,21/13",Ingrid Antonette Selboskar,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Ingrid Antonette Selboskar,,Eva Lindseth,"21/12,21/5",Ingrid Antonette Selboskar,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Anette Forsbakk Nordhøy,,Vasilisa Gorelkina,"21/15,21/18",Anette Forsbakk Nordhøy,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Vasilisa Gorelkina,,Emilia Santos,"21/9,21/8",Vasilisa Gorelkina,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Anette Forsbakk Nordhøy,,Ingrid Antonette Selboskar,"21/9,21/9",Anette Forsbakk Nordhøy,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damesingle,,Vasilisa Gorelkina,,Ingrid Antonette Selboskar,"21/17,21/14",Vasilisa Gorelkina,
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Isak Larsen Dyrvik,Elias Mauseth,Jakob Wüstefeld,Noah Hallan,"21/12,22/20",Isak Larsen Dyrvik,Elias Mauseth
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Isak Larsen Dyrvik,Elias Mauseth,Ty Krisander Olsson,Jayson Xu,"30/29,18/21,21/10",Isak Larsen Dyrvik,Elias Mauseth
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Gaute Tønne Lindsøe,Ola Kvande Stendal,Kristoffer Hagen,Mathias Elverhaug-Gjerde,"22/20,21/15",Gaute Tønne Lindsøe,Ola Kvande Stendal
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Jakob Wüstefeld,Noah Hallan,Kristoffer Hagen,Mathias Elverhaug-Gjerde,"21/7,21/11",Jakob Wüstefeld,Noah Hallan
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Jakob Wüstefeld,Noah Hallan,Gaute Tønne Lindsøe,Ola Kvande Stendal,"21/11,21/17",Jakob Wüstefeld,Noah Hallan
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Leander Rønne Olsen,Sivert Vik-Mo Falch,Leo Grønningsæther,Leonardo Boff Mota,"21/7,21/10",Leander Rønne Olsen,Sivert Vik-Mo Falch
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Isak Larsen Dyrvik,Elias Mauseth,Leander Rønne Olsen,Sivert Vik-Mo Falch,"19/21,21/12,21/11",Isak Larsen Dyrvik,Elias Mauseth
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Isak Larsen Dyrvik,Elias Mauseth,Leo Grønningsæther,Leonardo Boff Mota,"21/7,21/5",Isak Larsen Dyrvik,Elias Mauseth
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Ty Krisander Olsson,Jayson Xu,Sebastian Skarpnes,Sigurd Mikalsen Lindseth,"23/21,21/11",Ty Krisander Olsson,Jayson Xu
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Ty Krisander Olsson,Jayson Xu,Oliver Johan Tustervatn,Michael Donner,"21/9,21/12",Ty Krisander Olsson,Jayson Xu
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Herredouble,Oliver Johan Tustervatn,Michael Donner,Sebastian Skarpnes,Sigurd Mikalsen Lindseth,"21/14,21/7",Oliver Johan Tustervatn,Michael Donner
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damedouble,Anette Forsbakk Nordhøy,Vasilisa Gorelkina,Ingrid Antonette Selboskar,Emilia Santos,"21/17,21/11",Anette Forsbakk Nordhøy,Vasilisa Gorelkina
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damedouble,Natalia Heinich,Julia Wojtkowska,Ingrid Antonette Selboskar,Emilia Santos,"21/7,21/7",Natalia Heinich,Julia Wojtkowska
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damedouble,Anette Forsbakk Nordhøy,Vasilisa Gorelkina,Eva Lindseth,Stine Overland,"20/22,21/18,21/15",Anette Forsbakk Nordhøy,Vasilisa Gorelkina
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damedouble,Eva Lindseth,Stine Overland,Ingrid Antonette Selboskar,Emilia Santos,"21/10,21/4",Eva Lindseth,Stine Overland
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damedouble,Natalia Heinich,Julia Wojtkowska,Anette Forsbakk Nordhøy,Vasilisa Gorelkina,"21/11,21/15",Natalia Heinich,Julia Wojtkowska
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Damedouble,Natalia Heinich,Julia Wojtkowska,Eva Lindseth,Stine Overland,"21/10,21/11",Natalia Heinich,Julia Wojtkowska
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Isak Larsen Dyrvik,Julia Wojtkowska,Natalia Heinich,Sebastian Skarpnes,"21/9,21/17",Isak Larsen Dyrvik,Julia Wojtkowska
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Natalia Heinich,Sebastian Skarpnes,Anette Forsbakk Nordhøy,Michael Donner,"21/13,18/21,21/18",Natalia Heinich,Sebastian Skarpnes
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Ola Kvande Stendal,Vasilisa Gorelkina,Noah Hallan,Ingrid Antonette Selboskar,"17/21,21/16,21/9",Ola Kvande Stendal,Vasilisa Gorelkina
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Isak Larsen Dyrvik,Julia Wojtkowska,Noah Hallan,Ingrid Antonette Selboskar,"21/5,21/8",Isak Larsen Dyrvik,Julia Wojtkowska
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Isak Larsen Dyrvik,Julia Wojtkowska,Ola Kvande Stendal,Vasilisa Gorelkina,"21/13,21/8",Isak Larsen Dyrvik,Julia Wojtkowska
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Natalia Heinich,Sebastian Skarpnes,Emil Lerånn Edvardsen,Sara Engan,"21/11,21/19",Natalia Heinich,Sebastian Skarpnes
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Emil Lerånn Edvardsen,Sara Engan,Eva Lindseth,Oliver Johan Tustervatn,"21/15,21/14",Emil Lerånn Edvardsen,Sara Engan
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Natalia Heinich,Sebastian Skarpnes,Eva Lindseth,Oliver Johan Tustervatn,"21/11,21/12",Natalia Heinich,Sebastian Skarpnes
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Elias Mauseth,Ane Kvernø,Mathias Elverhaug-Gjerde,Emilia Santos,"21/15,16/21,21/14",Elias Mauseth,Ane Kvernø
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Anette Forsbakk Nordhøy,Michael Donner,Elias Mauseth,Ane Kvernø,"21/10,21/7",Anette Forsbakk Nordhøy,Michael Donner
+2024/2025,Trondheim Julecupen,07.12.2024,U15 B,Mixeddouble,Anette Forsbakk Nordhøy,Michael Donner,Mathias Elverhaug-Gjerde,Emilia Santos,"21/15,16/21,21/14",Anette Forsbakk Nordhøy,Michael Donner
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,August Fines,,Mattis Sæther-Danielsen,"21/19,12/21,21/18",August Fines,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Mattis Sæther-Danielsen,,Vebjørn Børmark,"22/20,23/21",Mattis Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,August Fines,,Lukas Sulebakk,"21/18,21/16",August Fines,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Ole Kristian Hauge Vullum,,Lukas Sulebakk,"19/21,21/17,25/23",Ole Kristian Hauge Vullum,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Vebjørn Børmark,,Eirik Borstad,"21/5,21/5",Vebjørn Børmark,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Kenneth Bernhoff,,Eirik Borstad,"21/19,21/11",Kenneth Bernhoff,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Vebjørn Børmark,,Kenneth Bernhoff,"21/3,21/8",Vebjørn Børmark,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Mattis Sæther-Danielsen,,Sander Sandnes Fagervoll,"21/8,21/12",Mattis Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Mattis Sæther-Danielsen,,Erik Jiang,"21/6,21/12",Mattis Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Herresingle,,Erik Jiang,,Sander Sandnes Fagervoll,"21/17,21/8",Erik Jiang,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Ingrid Trøite,,Pernille Lillevik,"21/18,21/14",Ingrid Trøite,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Pernille Lillevik,,Silje Lyngstad Skavhaug,"21/14,21/16",Pernille Lillevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Ingrid Trøite,,Malin Sæther-Danielsen,"21/11,21/15",Ingrid Trøite,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Pernille Lillevik,,Kelly Josie Goodchild,"21/12,21/17",Pernille Lillevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Pernille Lillevik,,Mathea Rødvik Iglebæk,"21/12,21/13",Pernille Lillevik,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Kelly Josie Goodchild,,Mathea Rødvik Iglebæk,"27/25,20/22,24/22",Kelly Josie Goodchild,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Silje Lyngstad Skavhaug,,Sofie Kold Hansen,"21/8,20/22,21/15",Silje Lyngstad Skavhaug,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Sofie Kold Hansen,,Aurora Kaspersen,"21/10,21/10",Sofie Kold Hansen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Silje Lyngstad Skavhaug,,Aurora Kaspersen,"21/5,21/7",Silje Lyngstad Skavhaug,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Amelia Siemiatkowska,,Ane Snustad-Grønskag,"21/12,13/21,21/8",Amelia Siemiatkowska,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Malin Sæther-Danielsen,,Ane Snustad-Grønskag,"21/6,21/7",Malin Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Malin Sæther-Danielsen,,Amelia Siemiatkowska,"18/21,21/16,21/18",Malin Sæther-Danielsen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Ingrid Trøite,,Mia Henriksen,"21/12,21/6",Ingrid Trøite,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Ingrid Trøite,,Kamila Remizova,"21/7,21/8",Ingrid Trøite,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damesingle,,Mia Henriksen,,Kamila Remizova,"21/8,21/3",Mia Henriksen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damedouble,Darja Maria Abuzatoaie,Ragnhild Stenvaag,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,"21/18,21/10",Darja Maria Abuzatoaie,Ragnhild Stenvaag
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damedouble,Darja Maria Abuzatoaie,Ragnhild Stenvaag,Maja Sørgjerd,Aurora Kaspersen,"21/5,21/6",Darja Maria Abuzatoaie,Ragnhild Stenvaag
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damedouble,Pernille Lillevik,Ingrid Trøite,Ane Snustad-Grønskag,Kamila Remizova,"21/11,21/7",Pernille Lillevik,Ingrid Trøite
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damedouble,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,Ane Snustad-Grønskag,Kamila Remizova,"21/16,21/13",Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Damedouble,Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk,Pernille Lillevik,Ingrid Trøite,"10/21,22/20,21/17",Silje Lyngstad Skavhaug,Mathea Rødvik Iglebæk
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Mixeddouble,Lukas Sulebakk,Kamila Remizova,Lukas Albertsen,Sofie Kold Hansen,"21/15,21/15",Lukas Sulebakk,Kamila Remizova
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Mixeddouble,Lukas Albertsen,Sofie Kold Hansen,Sander Sandnes Fagervoll,Ingrid Trøite,"22/20,21/19",Lukas Albertsen,Sofie Kold Hansen
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Mixeddouble,Lukas Sulebakk,Kamila Remizova,Ole Kristian Hauge Vullum,Kelly Josie Goodchild,"21/14,24/22",Lukas Sulebakk,Kamila Remizova
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Mixeddouble,Ole Kristian Hauge Vullum,Kelly Josie Goodchild,Lukas Albertsen,Sofie Kold Hansen,"21/18,21/16",Ole Kristian Hauge Vullum,Kelly Josie Goodchild
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Mixeddouble,Lukas Sulebakk,Kamila Remizova,Sander Sandnes Fagervoll,Ingrid Trøite,"21/14,21/16",Lukas Sulebakk,Kamila Remizova
+2024/2025,Trondheim Julecupen,07.12.2024,U17 A,Mixeddouble,Ole Kristian Hauge Vullum,Kelly Josie Goodchild,Sander Sandnes Fagervoll,Ingrid Trøite,"14/21,21/13,21/19",Ole Kristian Hauge Vullum,Kelly Josie Goodchild
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Marian Kovalenko,,Tobias Langlie,"21/16,16/21,21/17",Marian Kovalenko,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Marian Kovalenko,,Linus Valvåg,"17/21,21/16,21/8",Marian Kovalenko,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Tobias Langlie,,Kevin Kesras Aalberg,"21/8,21/11",Tobias Langlie,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Tobias Langlie,,Nicholas Almli-Visth,"21/5,21/2",Tobias Langlie,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Kevin Kesras Aalberg,,Nicholas Almli-Visth,"21/5,21/9",Kevin Kesras Aalberg,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Thor Thoresen,,Gard Tveten Aune,"21/15,21/15",Thor Thoresen,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Marian Kovalenko,,Gard Tveten Aune,"21/11,21/8",Marian Kovalenko,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Marian Kovalenko,,Thor Thoresen,"21/9,21/8",Marian Kovalenko,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Linus Valvåg,,Ottar B Rønningsgrind,"21/14,21/14",Linus Valvåg,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Linus Valvåg,,Marius Rudolfsen,"21/8,21/9",Linus Valvåg,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herresingle,,Ottar B Rønningsgrind,,Marius Rudolfsen,"21/9,21/11",Ottar B Rønningsgrind,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Mike Skrocki,,Elise Oberle,"21/14,21/16",Mike Skrocki,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Jessica Hu-Xu,,Inger Theoline Teigås,"20/22,21/17,21/13",Jessica Hu-Xu,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Inger Theoline Teigås,,Elise Oberle,"21/11,21/12",Inger Theoline Teigås,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Mike Skrocki,,Inger Theoline Teigås,"21/19,21/9",Mike Skrocki,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Sofie Holm,,Inger Theoline Teigås,"21/7,21/8",Sofie Holm,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Sofie Holm,,Elise Oberle,"21/8,21/8",Sofie Holm,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Jessica Hu-Xu,,Elise Oberle,"23/21,21/16",Jessica Hu-Xu,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damesingle,,Sofie Holm,,Mike Skrocki,"21/12,21/11",Sofie Holm,
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herredouble,Ottar B Rønningsgrind,Kevin Kesras Aalberg,Nicholas Almli-Visth,Marius Rudolfsen,"21/14,21/10",Ottar B Rønningsgrind,Kevin Kesras Aalberg
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herredouble,Sander Sandnes Fagervoll,Linus Valvåg,Nicholas Almli-Visth,Marius Rudolfsen,"21/10,21/9",Sander Sandnes Fagervoll,Linus Valvåg
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Herredouble,Sander Sandnes Fagervoll,Linus Valvåg,Ottar B Rønningsgrind,Kevin Kesras Aalberg,"21/12,21/18",Sander Sandnes Fagervoll,Linus Valvåg
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damedouble,Mike Skrocki,Inger Theoline Teigås,Elise Oberle,Lykke Elise Søvik,"21/18,21/14",Mike Skrocki,Inger Theoline Teigås
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Damedouble,Mike Skrocki,Inger Theoline Teigås,Jessica Hu-Xu,Sofie Holm,"21/11,21/12",Mike Skrocki,Inger Theoline Teigås
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Elise Oberle,Sindre Emanuel Moe,Ottar B Rønningsgrind,Inger Theoline Teigås,"21/17,21/18",Elise Oberle,Sindre Emanuel Moe
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Marian Kovalenko,Jessica Hu-Xu,Mike Skrocki,Kevin Kesras Aalberg,"21/13,22/20",Marian Kovalenko,Jessica Hu-Xu
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Elise Oberle,Sindre Emanuel Moe,Marian Kovalenko,Jessica Hu-Xu,"21/17,13/21,21/16",Elise Oberle,Sindre Emanuel Moe
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Ottar B Rønningsgrind,Inger Theoline Teigås,Mike Skrocki,Kevin Kesras Aalberg,"24/22,25/23",Ottar B Rønningsgrind,Inger Theoline Teigås
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Marian Kovalenko,Jessica Hu-Xu,Ottar B Rønningsgrind,Inger Theoline Teigås,"21/18,21/14",Marian Kovalenko,Jessica Hu-Xu
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Eirik Borstad,Sofie Holm,Elise Oberle,Sindre Emanuel Moe,"21/9,21/19",Eirik Borstad,Sofie Holm
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Eirik Borstad,Sofie Holm,Mike Skrocki,Kevin Kesras Aalberg,"22/20,21/19",Eirik Borstad,Sofie Holm
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Eirik Borstad,Sofie Holm,Marian Kovalenko,Jessica Hu-Xu,"21/17,21/9",Eirik Borstad,Sofie Holm
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Eirik Borstad,Sofie Holm,Ottar B Rønningsgrind,Inger Theoline Teigås,"21/13,21/15",Eirik Borstad,Sofie Holm
+2024/2025,Trondheim Julecupen,07.12.2024,U17 B,Mixeddouble,Mike Skrocki,Kevin Kesras Aalberg,Elise Oberle,Sindre Emanuel Moe,"21/13,18/21,21/16",Mike Skrocki,Kevin Kesras Aalberg
