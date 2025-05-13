@@ -1,1 +1,576 @@
 Season,Tournament Name,Date,Tournament Class,Match,Tab,Team 1 Player 1,Team 1 Player 2,Team 2 Player 1,Team 2 Player 2,Result,Winner Player 1,Winner Player 2
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Gonçalo Ribeiro,,Petter Tryland Laheld,"21/8,22/20",Gonçalo Ribeiro,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Gonçalo Ribeiro,,Sigve Hallager,"22/20,21/11",Gonçalo Ribeiro,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Petter Tryland Laheld,,Jesse Stekelenburg,"21/16,19/21,21/14",Petter Tryland Laheld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Sigve Hallager,,Henrik Buvik,"21/12,21/17",Sigve Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Petter Tryland Laheld,,Kristoffer Kielland Rædergård,"21/9,21/12",Petter Tryland Laheld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Daniel Standal,,Kristoffer Kielland Rædergård,"21/19,21/19",Daniel Standal,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Petter Tryland Laheld,,Daniel Standal,"21/10,21/11",Petter Tryland Laheld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Jesse Stekelenburg,,Iver Rolvsjord,"16/21,21/11,21/15",Jesse Stekelenburg,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Jesse Stekelenburg,,Oliver George Creese,"21/13,21/13",Jesse Stekelenburg,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Oliver George Creese,,Iver Rolvsjord,"21/8,10/21,21/16",Oliver George Creese,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Sigve Hallager,,Gaétan Bouthors,"21/16,21/9",Sigve Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Gaétan Bouthors,,Rolf Ove Karlsen,"21/0,21/0",Gaétan Bouthors,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Sigve Hallager,,Rolf Ove Karlsen,"21/10,21/16",Sigve Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Henrik Buvik,,Øyvind W. Selboe,"21/16,14/21,21/19",Henrik Buvik,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Øyvind W. Selboe,,Knut Hermann Stenvaag,"21/18,21/13",Øyvind W. Selboe,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Henrik Buvik,,Knut Hermann Stenvaag,"21/10,21/0",Henrik Buvik,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herresingle,,Gonçalo Ribeiro,,Rune Oterhals,"21/8,21/15",Gonçalo Ribeiro,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Mees Heitkamp,Jesse Stekelenburg,Henrik Buvik,Ole Petter Øren,"21/15,21/15",Mees Heitkamp,Jesse Stekelenburg
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Henrik Buvik,Ole Petter Øren,Kristoffer Kielland Rædergård,Petter Svendsen,"19/21,21/12,21/12",Henrik Buvik,Ole Petter Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Mees Heitkamp,Jesse Stekelenburg,Kristoffer Brandsås Berg,Leo Idicula,"21/10,21/9",Mees Heitkamp,Jesse Stekelenburg
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Mees Heitkamp,Jesse Stekelenburg,Iver Rolvsjord,Petter Tryland Laheld,"12/21,21/17,21/19",Mees Heitkamp,Jesse Stekelenburg
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Gonçalo Ribeiro,Rune Oterhals,Kristoffer Brandsås Berg,Leo Idicula,"21/12,21/8",Gonçalo Ribeiro,Rune Oterhals
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Iver Rolvsjord,Petter Tryland Laheld,Gonçalo Ribeiro,Rune Oterhals,"21/8,21/12",Iver Rolvsjord,Petter Tryland Laheld
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Iver Rolvsjord,Petter Tryland Laheld,Kristoffer Brandsås Berg,Leo Idicula,"21/15,21/13",Iver Rolvsjord,Petter Tryland Laheld
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Mees Heitkamp,Jesse Stekelenburg,Gonçalo Ribeiro,Rune Oterhals,"21/11,21/8",Mees Heitkamp,Jesse Stekelenburg
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Henrik Buvik,Ole Petter Øren,Knut Hermann Stenvaag,Gaétan Bouthors,"21/12,21/16",Henrik Buvik,Ole Petter Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Henrik Buvik,Ole Petter Øren,Øyvind W. Selboe,Oliver George Creese,"21/16,17/21,21/17",Henrik Buvik,Ole Petter Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Øyvind W. Selboe,Oliver George Creese,Knut Hermann Stenvaag,Gaétan Bouthors,"21/18,21/14",Øyvind W. Selboe,Oliver George Creese
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Kristoffer Kielland Rædergård,Petter Svendsen,Sigve Hallager,Morten Langen,"21/10,21/19",Kristoffer Kielland Rædergård,Petter Svendsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Sigve Hallager,Morten Langen,Tore Groven,Bård Vegard Bævre,"18/21,21/17,21/16",Sigve Hallager,Morten Langen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Herredouble,Kristoffer Kielland Rædergård,Petter Svendsen,Tore Groven,Bård Vegard Bævre,"21/19,21/17",Kristoffer Kielland Rædergård,Petter Svendsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Petter Tryland Laheld,Sara Buvik,Petter Svendsen,Ingvild Håland,"12/21,21/14,21/12",Petter Tryland Laheld,Sara Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Petter Tryland Laheld,Sara Buvik,Henrik Buvik,Mathea Rødvik Iglebæk,"21/16,21/16",Petter Tryland Laheld,Sara Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Petter Svendsen,Ingvild Håland,Gonçalo Ribeiro,Nora  Omdal,"27/25,21/19",Petter Svendsen,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Petter Tryland Laheld,Sara Buvik,Øyvind W. Selboe,Trishna Shyam Chand,"21/19,21/15",Petter Tryland Laheld,Sara Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Henrik Buvik,Mathea Rødvik Iglebæk,Dianne Christine Geronimo,Oliver George Creese,"21/13,21/16",Henrik Buvik,Mathea Rødvik Iglebæk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Petter Svendsen,Ingvild Håland,Tore Groven,Tone Groven,"21/12,21/11",Petter Svendsen,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Gonçalo Ribeiro,Nora  Omdal,Sondre Løvold,Hildegunn Måøy,"26/24,21/18",Gonçalo Ribeiro,Nora  Omdal
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Petter Svendsen,Ingvild Håland,Camilla Stokkaune,Kristoffer Kielland Rædergård,"21/12,22/20",Petter Svendsen,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Dianne Christine Geronimo,Oliver George Creese,Daniel Standal,Ragnhild Stenvaag,"21/12,21/15",Dianne Christine Geronimo,Oliver George Creese
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN E,Mixeddouble,Sondre Løvold,Hildegunn Måøy,Moana Vadseth Furholm,Iver Rolvsjord,"21/19,21/17",Sondre Løvold,Hildegunn Måøy
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Runa Korshavn,,Dianne Christine Geronimo,"21/19,21/7",Runa Korshavn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Dianne Christine Geronimo,,Trishna Shyam Chand,"21/16,21/16",Dianne Christine Geronimo,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Runa Korshavn,,Pernille Lillevik,"21/11,21/7",Runa Korshavn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Tone Groven,,Ronja H. Thorstensen,"21/9,22/20",Tone Groven,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Dianne Christine Geronimo,,Tone Groven,"19/21,21/14,21/16",Dianne Christine Geronimo,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Dianne Christine Geronimo,,Ronja H. Thorstensen,"21/0,21/0",Dianne Christine Geronimo,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Trishna Shyam Chand,,Gunn Fiskergaard,"16/21,21/13,21/9",Trishna Shyam Chand,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Trishna Shyam Chand,,Silje Lyngstad Skavhaug,"21/10,21/13",Trishna Shyam Chand,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Gunn Fiskergaard,,Silje Lyngstad Skavhaug,"21/12,21/7",Gunn Fiskergaard,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Kelly Josie Goodchild,,Line Rønningen Øien,"21/16,21/12",Kelly Josie Goodchild,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Pernille Lillevik,,Ingrid Trøite,"17/21,21/9,23/21",Pernille Lillevik,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Pernille Lillevik,,Kelly Josie Goodchild,"21/17,17/21,21/14",Pernille Lillevik,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Ingrid Trøite,,Line Rønningen Øien,"21/13,21/6",Ingrid Trøite,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Ingrid Trøite,,Kelly Josie Goodchild,"21/12,21/12",Ingrid Trøite,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Pernille Lillevik,,Line Rønningen Øien,"21/8,21/13",Pernille Lillevik,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Runa Korshavn,,Trine Søraas Johannessen,"21/16,21/17",Runa Korshavn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Runa Korshavn,,Ragnhild Stenvaag,"21/17,17/21,21/11",Runa Korshavn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damesingle,,Ragnhild Stenvaag,,Trine Søraas Johannessen,"21/12,21/11",Ragnhild Stenvaag,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Runa Korshavn,Ingvild Håland,Nora  Omdal,Sara Buvik,"22/20,25/23",Runa Korshavn,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Pernille Lillevik,Ingrid Trøite,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,"19/21,21/15,21/10",Pernille Lillevik,Ingrid Trøite
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Nora  Omdal,Sara Buvik,Tone Groven,Ronja H. Thorstensen,"13/21,21/13,22/20",Nora  Omdal,Sara Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Tone Groven,Ronja H. Thorstensen,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,"21/12,21/11",Tone Groven,Ronja H. Thorstensen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Nora  Omdal,Sara Buvik,Pernille Lillevik,Ingrid Trøite,"21/14,21/9",Nora  Omdal,Sara Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Tone Groven,Ronja H. Thorstensen,Pernille Lillevik,Ingrid Trøite,"21/11,21/12",Tone Groven,Ronja H. Thorstensen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Nora  Omdal,Sara Buvik,Mathea Rødvik Iglebæk,Silje Lyngstad Skavhaug,"21/6,21/11",Nora  Omdal,Sara Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Hildegunn Måøy,Trine Søraas Johannessen,Moana Vadseth Furholm,Ragnhild Stenvaag,"21/17,12/21,21/17",Hildegunn Måøy,Trine Søraas Johannessen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Hildegunn Måøy,Trine Søraas Johannessen,Camilla Stokkaune,Dianne Christine Geronimo,"13/21,25/23,21/13",Hildegunn Måøy,Trine Søraas Johannessen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Runa Korshavn,Ingvild Håland,Moana Vadseth Furholm,Ragnhild Stenvaag,"21/18,21/11",Runa Korshavn,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Runa Korshavn,Ingvild Håland,Camilla Stokkaune,Dianne Christine Geronimo,"21/14,21/15",Runa Korshavn,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Runa Korshavn,Ingvild Håland,Hildegunn Måøy,Trine Søraas Johannessen,"21/18,21/16",Runa Korshavn,Ingvild Håland
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN A,Damedouble,Camilla Stokkaune,Dianne Christine Geronimo,Moana Vadseth Furholm,Ragnhild Stenvaag,"17/21,21/13,21/17",Camilla Stokkaune,Dianne Christine Geronimo
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vegar Næss,,Benny Vu,"21/14,21/15",Vegar Næss,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vegar Næss,,Joakim Øyen Bedsted,"21/16,21/17",Vegar Næss,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Benny Vu,,Vebjørn Børmark,"18/21,21/18,21/7",Benny Vu,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vegar Næss,,Morten Langen,"21/15,21/19",Vegar Næss,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Joakim Øyen Bedsted,,Elias Grønning,"21/11,21/14",Joakim Øyen Bedsted,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Benny Vu,,Mattis Sæther-Danielsen,"21/17,21/19",Benny Vu,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vebjørn Børmark,,Tor Stenvaag,"21/11,21/17",Vebjørn Børmark,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vegar Næss,,Sindre Renbjør-holan,"21/13,21/7",Vegar Næss,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Morten Langen,,Stig Gåsbakk,"21/7,21/15",Morten Langen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Elias Grønning,,Jørgen Olsen,"23/21,13/21,21/18",Elias Grønning,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Joakim Øyen Bedsted,,Ole Andreas Sagøy,"21/16,21/10",Joakim Øyen Bedsted,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Mattis Sæther-Danielsen,,August Fines,"21/16,21/18",Mattis Sæther-Danielsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Benny Vu,,Lars Petter Danielsen,"21/10,21/10",Benny Vu,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Tor Stenvaag,,Fillip August Rotabakk,"21/16,16/21,21/16",Tor Stenvaag,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vebjørn Børmark,,Casper Welzel Andersen,"21/12,21/17",Vebjørn Børmark,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vegar Næss,,Einar Mathias Øren,"21/10,21/18",Vegar Næss,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Ole Andreas Sagøy,,Joar Gåsbakk,"21/10,18/21,21/16",Ole Andreas Sagøy,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Tor Stenvaag,,Alireza Sedghi,"18/21,22/20,21/19",Tor Stenvaag,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Stig Gåsbakk,,Ole Kristian Hauge Vullum,"21/16,21/14",Stig Gåsbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Casper Welzel Andersen,,Ørjan Emil Strand,"8/21,21/19,21/19",Casper Welzel Andersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Elias Grønning,,Kristian Hyllestad,"21/18,16/21,21/15",Elias Grønning,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Fillip August Rotabakk,,Marius Olav Evensen,"18/21,21/15,21/14",Fillip August Rotabakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Sindre Renbjør-holan,,Roger Haugstulen,"21/16,21/19",Sindre Renbjør-holan,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Morten Langen,,Erik Måøy,"21/15,21/17",Morten Langen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Joakim Øyen Bedsted,,Martin Herstad,"21/12,21/19",Joakim Øyen Bedsted,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Mattis Sæther-Danielsen,,Sigurd Lorvik,"23/21,16/21,21/9",Mattis Sæther-Danielsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,August Fines,,Hans Stephen Moralde Santos,"21/9,21/8",August Fines,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Benny Vu,,Bengt Pedersen,"19/21,21/12,21/6",Benny Vu,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Vebjørn Børmark,,Erik Holden,"21/15,14/21,21/17",Vebjørn Børmark,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Benny Vu,,Rikuto Oda,"21/11,21/18",Benny Vu,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Mattis Sæther-Danielsen,,Martin Wüstefeld,"21/9,21/16",Mattis Sæther-Danielsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Joakim Øyen Bedsted,,Mats-Einar Hammer Rotnes,"21/14,21/11",Joakim Øyen Bedsted,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herresingle,,Marius Olav Evensen,,Henry Aleksander Krys,"20/22,21/13,21/17",Marius Olav Evensen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Casper Welzel Andersen,Ole Christoffer Olsen,Joakim Øyen Bedsted,Mads B. Rotabakk,"21/19,21/16",Casper Welzel Andersen,Ole Christoffer Olsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Vegar Næss,Kristian Hyllestad,"21/19,13/21,21/14",Joakim Øyen Bedsted,Mads B. Rotabakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Casper Welzel Andersen,Ole Christoffer Olsen,Mattis Sæther-Danielsen,Lars Petter Danielsen,"21/19,27/25",Casper Welzel Andersen,Ole Christoffer Olsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Vegar Næss,Kristian Hyllestad,Ole Petter Antonsen,Petter Tøfte Amundsen,"21/12,21/14",Vegar Næss,Kristian Hyllestad
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Daniel Standal,Tore Standal,"20/22,23/21,21/13",Joakim Øyen Bedsted,Mads B. Rotabakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Mattis Sæther-Danielsen,Lars Petter Danielsen,Ørjan Emil Strand,Tor Stenvaag,"21/14,21/16",Mattis Sæther-Danielsen,Lars Petter Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Casper Welzel Andersen,Ole Christoffer Olsen,Ole Andreas Sagøy,Arve Sellesbakk,"18/21,21/16,21/17",Casper Welzel Andersen,Ole Christoffer Olsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Casper Welzel Andersen,Ole Christoffer Olsen,Sander Grandetrø,John Olav Rædergård,"15/21,21/14,21/9",Casper Welzel Andersen,Ole Christoffer Olsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Ole Petter Antonsen,Petter Tøfte Amundsen,Roger Haugstulen,Tor Haugstulen Jervell,"21/15,21/16",Ole Petter Antonsen,Petter Tøfte Amundsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Roger Haugstulen,Tor Haugstulen Jervell,Oliver Langen,Jonathan Rohde Hallager,"23/21,21/15",Roger Haugstulen,Tor Haugstulen Jervell
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Ole Petter Antonsen,Petter Tøfte Amundsen,Oliver Langen,Jonathan Rohde Hallager,"21/13,22/24,21/11",Ole Petter Antonsen,Petter Tøfte Amundsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Vegar Næss,Kristian Hyllestad,Johannes Lillevik Førde,Marius Olav Evensen,"21/13,21/18",Vegar Næss,Kristian Hyllestad
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Johannes Lillevik Førde,Marius Olav Evensen,John Thomas Krogstad,Sigurd Lorvik,"22/20,21/11",Johannes Lillevik Førde,Marius Olav Evensen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Vegar Næss,Kristian Hyllestad,John Thomas Krogstad,Sigurd Lorvik,"21/17,21/10",Vegar Næss,Kristian Hyllestad
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Daniel Standal,Tore Standal,Vebjørn Børmark,Ole Kristian Hauge Vullum,"21/16,22/20",Daniel Standal,Tore Standal
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Elias Grønning,August Fines,Vebjørn Børmark,Ole Kristian Hauge Vullum,"21/0,21/0",Elias Grønning,August Fines
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Daniel Standal,Tore Standal,Elias Grønning,August Fines,"21/23,21/15,24/22",Daniel Standal,Tore Standal
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Benny Vu,Alireza Sedghi,"21/18,21/8",Joakim Øyen Bedsted,Mads B. Rotabakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Mats-Einar Hammer Rotnes,Frode Larsen,"21/19,21/16",Joakim Øyen Bedsted,Mads B. Rotabakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Benny Vu,Alireza Sedghi,Joar Gåsbakk,Stig Gåsbakk,"21/9,21/19",Benny Vu,Alireza Sedghi
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Joakim Øyen Bedsted,Mads B. Rotabakk,Joar Gåsbakk,Stig Gåsbakk,"21/11,21/16",Joakim Øyen Bedsted,Mads B. Rotabakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Mats-Einar Hammer Rotnes,Frode Larsen,Joar Gåsbakk,Stig Gåsbakk,"21/13,18/21,24/22",Mats-Einar Hammer Rotnes,Frode Larsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Casper Welzel Andersen,Ole Christoffer Olsen,Erik Måøy,Martin Herstad,"21/14,22/20",Casper Welzel Andersen,Ole Christoffer Olsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Mihn Dan Do,Cao Dahn Do,Erik Måøy,Martin Herstad,"21/17,19/21,21/15",Mihn Dan Do,Cao Dahn Do
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Casper Welzel Andersen,Ole Christoffer Olsen,Mihn Dan Do,Cao Dahn Do,"21/18,21/16",Casper Welzel Andersen,Ole Christoffer Olsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Sander Grandetrø,John Olav Rædergård,Kristian Renbjør,Jørgen Olsen,"21/15,21/18",Sander Grandetrø,John Olav Rædergård
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Ole Andreas Sagøy,Arve Sellesbakk,Einar Mathias Øren,Fillip August Rotabakk,"13/21,21/13,21/17",Ole Andreas Sagøy,Arve Sellesbakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Ole Andreas Sagøy,Arve Sellesbakk,Hans Stephen Moralde Santos,Henry Aleksander Krys,"21/18,21/9",Ole Andreas Sagøy,Arve Sellesbakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Einar Mathias Øren,Fillip August Rotabakk,Hans Stephen Moralde Santos,Henry Aleksander Krys,"21/15,21/16",Einar Mathias Øren,Fillip August Rotabakk
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Ørjan Emil Strand,Tor Stenvaag,Martin Wüstefeld,Vegard Leksås,"20/22,21/19,21/19",Ørjan Emil Strand,Tor Stenvaag
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Martin Wüstefeld,Vegard Leksås,Øystein Sveine,Rune Ringseth Bjørhusdahl,"21/18,21/19",Martin Wüstefeld,Vegard Leksås
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Ørjan Emil Strand,Tor Stenvaag,Øystein Sveine,Rune Ringseth Bjørhusdahl,"21/14,21/16",Ørjan Emil Strand,Tor Stenvaag
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Erik Holden,Per Arne Aas,Sondre Løvold,Johnny Andersen,"23/21,16/21,21/16",Erik Holden,Per Arne Aas
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Mattis Sæther-Danielsen,Lars Petter Danielsen,Sondre Løvold,Johnny Andersen,"21/10,21/16",Mattis Sæther-Danielsen,Lars Petter Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Herredouble,Mattis Sæther-Danielsen,Lars Petter Danielsen,Erik Holden,Per Arne Aas,"21/14,21/15",Mattis Sæther-Danielsen,Lars Petter Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Elin Hansen,Line Rønningen Øien,Amelia Siemiatkowska,Kelly Josie Goodchild,"21/15,21/16",Elin Hansen,Line Rønningen Øien
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Elin Hansen,Line Rønningen Øien,Christin Jeanette Hagen,Tove Søraas,"21/15,21/17",Elin Hansen,Line Rønningen Øien
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Elin Hansen,Line Rønningen Øien,Marte Aasen Jensen,Silje V. Kruksve Aasland,"21/18,21/12",Elin Hansen,Line Rønningen Øien
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Christin Jeanette Hagen,Tove Søraas,Marte Aasen Jensen,Silje V. Kruksve Aasland,"15/21,22/20,21/19",Christin Jeanette Hagen,Tove Søraas
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Amelia Siemiatkowska,Kelly Josie Goodchild,Aurora Kaspersen,Julie Kristin Vatterholm,"21/7,21/11",Amelia Siemiatkowska,Kelly Josie Goodchild
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Marte Eggen,Nora Haukdal Trøen,Aurora Kaspersen,Julie Kristin Vatterholm,"21/18,21/18",Marte Eggen,Nora Haukdal Trøen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Damedouble,Amelia Siemiatkowska,Kelly Josie Goodchild,Marte Eggen,Nora Haukdal Trøen,"21/14,21/18",Amelia Siemiatkowska,Kelly Josie Goodchild
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,August Fines,Trine Søraas Johannessen,Knut Hermann Stenvaag,Gunn Fiskergaard,"16/21,21/15,21/19",August Fines,Trine Søraas Johannessen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,August Fines,Trine Søraas Johannessen,Rune Oterhals,Ingrid Trøite,"22/20,21/18",August Fines,Trine Søraas Johannessen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Knut Hermann Stenvaag,Gunn Fiskergaard,Jørgen Olsen,Julie Kristin Vatterholm,"21/13,21/18",Knut Hermann Stenvaag,Gunn Fiskergaard
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,August Fines,Trine Søraas Johannessen,Ole Petter Øren,Siv Solum Buvik,"12/21,21/18,21/13",August Fines,Trine Søraas Johannessen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Rune Oterhals,Ingrid Trøite,Marte Eggen,Johnny Andersen,"17/21,21/19,21/16",Rune Oterhals,Ingrid Trøite
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Knut Hermann Stenvaag,Gunn Fiskergaard,Line Rønningen Øien,Tor Haugstulen Jervell,"21/18,26/24",Knut Hermann Stenvaag,Gunn Fiskergaard
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Joakim Øyen Bedsted,Mona Øyen Bedsted,"21/19,19/21,23/21",Jørgen Olsen,Julie Kristin Vatterholm
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Ole Petter Øren,Siv Solum Buvik,Johannes Lillevik Førde,Pernille Lillevik,"15/21,21/14,21/18",Ole Petter Øren,Siv Solum Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,August Fines,Trine Søraas Johannessen,John Thomas Krogstad,Marte Aasen Jensen,"21/9,21/17",August Fines,Trine Søraas Johannessen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Marte Eggen,Johnny Andersen,Fillip August Rotabakk,Nora Haukdal Trøen,"21/9,21/17",Marte Eggen,Johnny Andersen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Rune Oterhals,Ingrid Trøite,Kelly Josie Goodchild,Hans Stephen Moralde Santos,"21/15,21/12",Rune Oterhals,Ingrid Trøite
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Line Rønningen Øien,Tor Haugstulen Jervell,Ole Christoffer Olsen,Ragnhild Maurstad Pettersen,"21/15,21/15",Line Rønningen Øien,Tor Haugstulen Jervell
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Knut Hermann Stenvaag,Gunn Fiskergaard,Terje Knutseth,Maja Fossbakken Knutseth,"22/20,21/9",Knut Hermann Stenvaag,Gunn Fiskergaard
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Joakim Øyen Bedsted,Mona Øyen Bedsted,Ida Lillevik Førde,Erik Måøy,"21/12,21/15",Joakim Øyen Bedsted,Mona Øyen Bedsted
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Jørgen Olsen,Julie Kristin Vatterholm,Stephanie Wüstefeld,Martin Wüstefeld,"22/20,21/13",Jørgen Olsen,Julie Kristin Vatterholm
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Terje Knutseth,Maja Fossbakken Knutseth,Elin Hansen,Bengt Pedersen,"9/21,21/17,21/19",Terje Knutseth,Maja Fossbakken Knutseth
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Joakim Øyen Bedsted,Mona Øyen Bedsted,Kristian Hyllestad,Marte Vorum,"21/19,17/21,21/14",Joakim Øyen Bedsted,Mona Øyen Bedsted
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Johannes Lillevik Førde,Pernille Lillevik,Vebjørn Børmark,Ane Snustad-Grønskag,"14/21,21/11,21/10",Johannes Lillevik Førde,Pernille Lillevik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Fillip August Rotabakk,Nora Haukdal Trøen,Ole Kristian Hauge Vullum,Aurora Kaspersen,"21/14,21/17",Fillip August Rotabakk,Nora Haukdal Trøen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Rune Oterhals,Ingrid Trøite,Roger Haugstulen,Ronja H. Thorstensen,"21/14,14/21,21/19",Rune Oterhals,Ingrid Trøite
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Line Rønningen Øien,Tor Haugstulen Jervell,Mattis Sæther-Danielsen,Maja Sæther-Danielsen,"21/15,21/11",Line Rønningen Øien,Tor Haugstulen Jervell
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN B,Mixeddouble,Stephanie Wüstefeld,Martin Wüstefeld,Robert  Karlsen,Tove Søraas,"23/21,21/19",Stephanie Wüstefeld,Martin Wüstefeld
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Arve Sellesbakk,,Trygve Johan Ernstsen,"21/18,17/21,21/19",Arve Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Trygve Johan Ernstsen,,John Olav Rædergård,"21/14,17/21,21/17",Trygve Johan Ernstsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Arve Sellesbakk,,Ole Petter Antonsen,"21/10,21/15",Arve Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Trygve Johan Ernstsen,,Petter Tøfte Amundsen,"21/15,21/12",Trygve Johan Ernstsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,John Olav Rædergård,,Øystein Sveine,"21/19,21/10",John Olav Rædergård,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Arve Sellesbakk,,Eirik Aaskjær,"21/11,21/18",Arve Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Ole Petter Antonsen,,Ingvar Sandbugt-Hammer,"19/21,21/11,21/10",Ole Petter Antonsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Trygve Johan Ernstsen,,Lucas René Bech,"21/8,21/7",Trygve Johan Ernstsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Petter Tøfte Amundsen,,Øyvind Rasmussen,"21/10,22/20",Petter Tøfte Amundsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Øystein Sveine,,Maja Sæther-Danielsen,"21/17,21/16",Øystein Sveine,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,John Olav Rædergård,,Terje Knutseth,"21/13,21/7",John Olav Rædergård,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Eirik Aaskjær,,Johnny Kalajdzic,"21/23,21/8,21/12",Eirik Aaskjær,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Arve Sellesbakk,,Sander Sandnes Fagervoll,"21/11,21/9",Arve Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Ingvar Sandbugt-Hammer,,Marian Kovalenko,"21/18,21/14",Ingvar Sandbugt-Hammer,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Ole Petter Antonsen,,Steinar Fornes,"21/23,21/10,21/16",Ole Petter Antonsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Petter Tøfte Amundsen,,Eirik Borstad,"21/11,21/12",Petter Tøfte Amundsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Trygve Johan Ernstsen,,Jørund Jensen Blakar,"21/6,21/17",Trygve Johan Ernstsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,John Olav Rædergård,,Frode Larsen,"21/17,21/13",John Olav Rædergård,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Terje Knutseth,,Harm  Kroon,"21/7,21/14",Terje Knutseth,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Eirik Aaskjær,,Per Arne Hammer,"21/19,22/20",Eirik Aaskjær,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Arve Sellesbakk,,Niels Stagegaard,"21/7,21/8",Arve Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Sander Sandnes Fagervoll,,John Thomas Krogstad,"21/9,17/21,21/18",Sander Sandnes Fagervoll,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Ingvar Sandbugt-Hammer,,Rune Ringseth Bjørhusdahl,"7/21,21/15,21/18",Ingvar Sandbugt-Hammer,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Marian Kovalenko,,Per Arne Bjørklund,"21/19,19/21,21/11",Marian Kovalenko,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Steinar Fornes,,Kåre Engan,"17/21,21/8,21/9",Steinar Fornes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herresingle,,Johnny Kalajdzic,,Tom Erik Skårn,"21/11,24/22",Johnny Kalajdzic,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Kristiane Rohde Hallager,,Marte Aasen Jensen,"21/15,19/21,22/20",Kristiane Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Marte Aasen Jensen,,Ane Snustad-Grønskag,"21/12,23/21",Marte Aasen Jensen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Kristiane Rohde Hallager,,Aurora Kaspersen,"21/14,21/9",Kristiane Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Kristiane Rohde Hallager,,Elin Hansen,"21/13,21/13",Kristiane Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Marte Eggen,,Stephanie Wüstefeld,"21/19,21/14",Marte Eggen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Marte Aasen Jensen,,Marte Eggen,"21/11,21/13",Marte Aasen Jensen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Marte Aasen Jensen,,Stephanie Wüstefeld,"21/10,21/15",Marte Aasen Jensen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Ane Snustad-Grønskag,,Mari Jensen,"21/16,21/19",Ane Snustad-Grønskag,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Nina Trettøy,,Tove Søraas,"21/17,10/21,21/17",Nina Trettøy,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Tove Søraas,,Mari Jensen,"21/12,21/15",Tove Søraas,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Ane Snustad-Grønskag,,Nina Trettøy,"21/15,21/18",Ane Snustad-Grønskag,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Nina Trettøy,,Mari Jensen,"21/12,17/21,21/9",Nina Trettøy,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Ane Snustad-Grønskag,,Tove Søraas,"21/14,15/21,21/17",Ane Snustad-Grønskag,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Irena Malaskauske,,Ragnhild Maurstad Pettersen,"21/17,21/17",Irena Malaskauske,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Elin Hansen,,Irena Malaskauske,"21/19,21/12",Elin Hansen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Elin Hansen,,Ragnhild Maurstad Pettersen,"21/15,21/19",Elin Hansen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Kristiane Rohde Hallager,,Maja Fossbakken Knutseth,"21/17,21/9",Kristiane Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Malin Sæther-Danielsen,,Maja Fossbakken Knutseth,"21/11,21/11",Malin Sæther-Danielsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Kristiane Rohde Hallager,,Malin Sæther-Danielsen,"21/14,21/14",Kristiane Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Aurora Kaspersen,,Nora Haukdal Trøen,"21/18,21/12",Aurora Kaspersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Aurora Kaspersen,,May Lyngvær,"21/14,21/14",Aurora Kaspersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damesingle,,Nora Haukdal Trøen,,May Lyngvær,"24/22,21/16",Nora Haukdal Trøen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Marian Kovalenko,Bengt Pedersen,Mindaugas Norkaitis,Jakob Wüstefeld,"14/21,21/16,21/16",Marian Kovalenko,Bengt Pedersen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Marian Kovalenko,Bengt Pedersen,Øyvind Rasmussen,Eirik Aaskjær,"21/18,21/15",Marian Kovalenko,Bengt Pedersen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Mindaugas Norkaitis,Jakob Wüstefeld,Per Arne Hammer,Ingvar Sandbugt-Hammer,"21/17,21/19",Mindaugas Norkaitis,Jakob Wüstefeld
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Per Arne Hammer,Ingvar Sandbugt-Hammer,Sreejith Raghavan,Sujith Sreekumar,"21/19,21/13",Per Arne Hammer,Ingvar Sandbugt-Hammer
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Marian Kovalenko,Bengt Pedersen,Trygve Johan Ernstsen,Hassan Eskandarani,"21/10,21/17",Marian Kovalenko,Bengt Pedersen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Sander Sandnes Fagervoll,Kenneth Fagervoll,Håkon Toresen,Steffen Juliussen,"21/8,21/15",Sander Sandnes Fagervoll,Kenneth Fagervoll
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Mindaugas Norkaitis,Jakob Wüstefeld,Sander Sandnes Fagervoll,Kenneth Fagervoll,"19/21,21/14,21/14",Mindaugas Norkaitis,Jakob Wüstefeld
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Mindaugas Norkaitis,Jakob Wüstefeld,Håkon Toresen,Steffen Juliussen,"21/12,21/19",Mindaugas Norkaitis,Jakob Wüstefeld
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Per Arne Hammer,Ingvar Sandbugt-Hammer,Lucas René Bech,Johnny Kalajdzic,"22/20,21/10",Per Arne Hammer,Ingvar Sandbugt-Hammer
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Per Arne Hammer,Ingvar Sandbugt-Hammer,Espen Martinussen,Per Arne Bjørklund,"16/21,21/8,21/12",Per Arne Hammer,Ingvar Sandbugt-Hammer
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Espen Martinussen,Per Arne Bjørklund,Lucas René Bech,Johnny Kalajdzic,"22/20,10/21,21/16",Espen Martinussen,Per Arne Bjørklund
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Sreejith Raghavan,Sujith Sreekumar,Arne Bjørn Berger,Eirik Borstad,"21/9,21/17",Sreejith Raghavan,Sujith Sreekumar
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Sreejith Raghavan,Sujith Sreekumar,Kåre Engan,Robert Edvardsen,"23/21,21/6",Sreejith Raghavan,Sujith Sreekumar
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Arne Bjørn Berger,Eirik Borstad,Kåre Engan,Robert Edvardsen,"21/13,21/16",Arne Bjørn Berger,Eirik Borstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Trygve Johan Ernstsen,Hassan Eskandarani,Marius Overland,Sebastian Engvik,"21/18,21/16",Trygve Johan Ernstsen,Hassan Eskandarani
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Marius Overland,Sebastian Engvik,Martin Røis Nilsen,Lukas Lindberg,"21/0,21/0",Marius Overland,Sebastian Engvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Trygve Johan Ernstsen,Hassan Eskandarani,Martin Røis Nilsen,Lukas Lindberg,"21/15,21/11",Trygve Johan Ernstsen,Hassan Eskandarani
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Marian Kovalenko,Bengt Pedersen,Rune Plassen Bakken,Jørund Jensen Blakar,"21/13,21/11",Marian Kovalenko,Bengt Pedersen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Rune Plassen Bakken,Jørund Jensen Blakar,Sverre Vegard Pettersen,Ragnhild Maurstad Pettersen,"21/19,21/19",Rune Plassen Bakken,Jørund Jensen Blakar
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Marian Kovalenko,Bengt Pedersen,Sverre Vegard Pettersen,Ragnhild Maurstad Pettersen,"21/13,21/19",Marian Kovalenko,Bengt Pedersen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Sindre Renbjør-holan,Trond Flatås,Kjell Holdbakk,Harm  Kroon,"21/11,21/8",Sindre Renbjør-holan,Trond Flatås
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Øyvind Rasmussen,Eirik Aaskjær,Kjell Holdbakk,Harm  Kroon,"21/5,21/7",Øyvind Rasmussen,Eirik Aaskjær
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Herredouble,Øyvind Rasmussen,Eirik Aaskjær,Sindre Renbjør-holan,Trond Flatås,"21/19,21/16",Øyvind Rasmussen,Eirik Aaskjær
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Maja Fagervoll,Malin Sæther-Danielsen,Stephanie Wüstefeld,Ida Lillevik Førde,"21/16,21/9",Maja Fagervoll,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Stephanie Wüstefeld,Ida Lillevik Førde,Aina Kaspersen,Malin Sandnes,"25/23,21/19",Stephanie Wüstefeld,Ida Lillevik Førde
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Stephanie Wüstefeld,Ida Lillevik Førde,Vivi Thi Pham,Veronica Holmberg,"21/8,21/16",Stephanie Wüstefeld,Ida Lillevik Førde
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Aina Kaspersen,Malin Sandnes,Vivi Thi Pham,Veronica Holmberg,"21/11,21/4",Aina Kaspersen,Malin Sandnes
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,May Lyngvær,Annaliza Sambile,Giedre Isganaityte,Astrid Sandnes Fagervoll,"21/12,21/7",May Lyngvær,Annaliza Sambile
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Maja Fagervoll,Malin Sæther-Danielsen,Giedre Isganaityte,Astrid Sandnes Fagervoll,"21/7,21/15",Maja Fagervoll,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Maja Sæther-Danielsen,Siv Solum Buvik,May Lyngvær,Annaliza Sambile,"21/17,21/10",Maja Sæther-Danielsen,Siv Solum Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Maja Fagervoll,Malin Sæther-Danielsen,Maja Sæther-Danielsen,Siv Solum Buvik,"23/25,21/17,21/19",Maja Fagervoll,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Maja Sæther-Danielsen,Siv Solum Buvik,Giedre Isganaityte,Astrid Sandnes Fagervoll,"21/6,21/5",Maja Sæther-Danielsen,Siv Solum Buvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Damedouble,Maja Fagervoll,Malin Sæther-Danielsen,May Lyngvær,Annaliza Sambile,"21/11,21/15",Maja Fagervoll,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Lars Petter Danielsen,Malin Sæther-Danielsen,Ole Petter Antonsen,Christin Jeanette Hagen,"21/13,21/13",Lars Petter Danielsen,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Ole Petter Antonsen,Christin Jeanette Hagen,Kristiane Rohde Hallager,Einar Mathias Øren,"16/21,21/16,21/18",Ole Petter Antonsen,Christin Jeanette Hagen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Lars Petter Danielsen,Malin Sæther-Danielsen,Per Arne Aas,Annaliza Sambile,"21/16,21/18",Lars Petter Danielsen,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Ole Petter Antonsen,Christin Jeanette Hagen,Frode Larsen,Wanda Helen Berge,"21/15,21/16",Ole Petter Antonsen,Christin Jeanette Hagen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Kristiane Rohde Hallager,Einar Mathias Øren,Aina Kaspersen,Steinar Fornes,"21/5,22/20",Kristiane Rohde Hallager,Einar Mathias Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Lars Petter Danielsen,Malin Sæther-Danielsen,Jørund Jensen Blakar,Nina Trettøy,"21/13,21/12",Lars Petter Danielsen,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Per Arne Aas,Annaliza Sambile,Sander Sandnes Fagervoll,Amelia Siemiatkowska,"21/14,21/15",Per Arne Aas,Annaliza Sambile
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Frode Larsen,Wanda Helen Berge,May Lyngvær,John Olav Rædergård,"21/18,21/16",Frode Larsen,Wanda Helen Berge
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Aina Kaspersen,Steinar Fornes,Sindre Renbjør-holan,Malin Sandnes,"9/21,21/15,21/14",Aina Kaspersen,Steinar Fornes
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Jørund Jensen Blakar,Nina Trettøy,Henry Aleksander Krys,Egle Dzerviene,"19/21,21/18,21/18",Jørund Jensen Blakar,Nina Trettøy
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Ole Petter Antonsen,Christin Jeanette Hagen,Kenneth Fagervoll,Astrid Sandnes Fagervoll,"21/9,21/10",Ole Petter Antonsen,Christin Jeanette Hagen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Kristiane Rohde Hallager,Einar Mathias Øren,Veronica Holmberg,Lukas Lindberg,"21/8,21/6",Kristiane Rohde Hallager,Einar Mathias Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Per Arne Aas,Annaliza Sambile,Per Arne Hammer,Elise Oberle,"21/9,21/11",Per Arne Aas,Annaliza Sambile
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Sander Sandnes Fagervoll,Amelia Siemiatkowska,Line Eldegard,Kjell Holdbakk,"21/17,21/14",Sander Sandnes Fagervoll,Amelia Siemiatkowska
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Lars Petter Danielsen,Malin Sæther-Danielsen,Mari Jensen,Mads B. Rotabakk,"21/11,17/21,21/6",Lars Petter Danielsen,Malin Sæther-Danielsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN C,Mixeddouble,Per Arne Aas,Annaliza Sambile,Heidi Cicilie Haarberg,Sebastian Engvik,"21/13,9/21,21/6",Per Arne Aas,Annaliza Sambile
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Arne Bjørn Berger,,Mindaugas Norkaitis,"21/18,21/17",Arne Bjørn Berger,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Arne Bjørn Berger,,Åsmund Sønsteli,"15/21,21/16,21/10",Arne Bjørn Berger,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Mindaugas Norkaitis,,Steinar Mæhlum,"19/21,21/14,21/15",Mindaugas Norkaitis,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Åsmund Sønsteli,,Inge Rosset,"21/15,21/17",Åsmund Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Arne Bjørn Berger,,Rolf Erik Kristoffersen Høglien,"23/21,21/18",Arne Bjørn Berger,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Steinar Mæhlum,,Steffen Juliussen,"21/7,21/16",Steinar Mæhlum,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Mindaugas Norkaitis,,Rune Plassen Bakken,"25/23,21/13",Mindaugas Norkaitis,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Inge Rosset,,Jacob Lund,"16/21,21/13,22/20",Inge Rosset,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Rolf Erik Kristoffersen Høglien,,Marius Overland,"21/14,17/21,21/14",Rolf Erik Kristoffersen Høglien,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Steinar Mæhlum,,Roger Skorstad,"21/11,21/11",Steinar Mæhlum,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Arne Bjørn Berger,,Tom Enger,"23/21,21/14",Arne Bjørn Berger,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Rune Plassen Bakken,,Herman Dragnes,"21/10,21/9",Rune Plassen Bakken,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Mindaugas Norkaitis,,Rune Holm,"21/6,21/7",Mindaugas Norkaitis,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Åsmund Sønsteli,,Johnny Sivertsen,"21/8,21/5",Åsmund Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Mindaugas Norkaitis,,Espen Martinussen,"21/18,21/10",Mindaugas Norkaitis,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Åsmund Sønsteli,,Håkon Toresen,"21/14,21/17",Åsmund Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Tom Enger,,Marthe Evjenth,"18/21,21/16,21/9",Tom Enger,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herresingle,,Steinar Mæhlum,,Kenneth Fagervoll,"14/21,21/16,21/17",Steinar Mæhlum,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Thea Eldegard Andersen,,Egle Dzerviene,"21/11,21/1",Thea Eldegard Andersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Thea Eldegard Andersen,,Ida Lillevik Førde,"21/8,21/12",Thea Eldegard Andersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Egle Dzerviene,,Anne Kari Vangen Bakken,"21/13,21/17",Egle Dzerviene,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Heidi Cicilie Haarberg,,Anne Kari Vangen Bakken,"11/21,21/19,21/19",Heidi Cicilie Haarberg,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Egle Dzerviene,,Heidi Cicilie Haarberg,"21/19,21/13",Egle Dzerviene,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Wanda Helen Berge,,Marianne Østenseth,"21/9,21/8",Wanda Helen Berge,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Ida Lillevik Førde,,Wanda Helen Berge,"21/13,21/16",Ida Lillevik Førde,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Ida Lillevik Førde,,Marianne Østenseth,"21/9,21/15",Ida Lillevik Førde,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Thea Eldegard Andersen,,Linn Berit Eiesar,"21/2,21/2",Thea Eldegard Andersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Thea Eldegard Andersen,,Giedre Isganaityte,"21/7,21/10",Thea Eldegard Andersen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damesingle,,Giedre Isganaityte,,Linn Berit Eiesar,"21/18,9/21,21/13",Giedre Isganaityte,
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Tom Enger,Åsmund Sønsteli,Stian Olsen,Steinar Mæhlum,"21/17,21/19",Tom Enger,Åsmund Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Stian Olsen,Steinar Mæhlum,Rolf Erik Kristoffersen Høglien,Roger Grindstuen,"21/9,21/19",Stian Olsen,Steinar Mæhlum
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Inge Rosset,Svenn Jostein Bergin,Rune Holm,Glenn Ståle Mandal,"21/9,21/10",Inge Rosset,Svenn Jostein Bergin
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Tom Enger,Åsmund Sønsteli,Rune Holm,Glenn Ståle Mandal,"21/7,21/8",Tom Enger,Åsmund Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Tom Enger,Åsmund Sønsteli,Inge Rosset,Svenn Jostein Bergin,"21/14,21/14",Tom Enger,Åsmund Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Arne Kristian Mo,Trond Stav,Viktor Eldegard,Jacob Lund,"16/21,21/18,21/8",Arne Kristian Mo,Trond Stav
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Viktor Eldegard,Jacob Lund,Rolf Erik Kristoffersen Høglien,Roger Grindstuen,"16/21,21/11,21/19",Viktor Eldegard,Jacob Lund
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Rolf Erik Kristoffersen Høglien,Roger Grindstuen,Arne Kristian Mo,Trond Stav,"21/0,21/0",Rolf Erik Kristoffersen Høglien,Roger Grindstuen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Stian Olsen,Steinar Mæhlum,Tom Erik Skårn,Roger Skorstad,"21/13,21/12",Stian Olsen,Steinar Mæhlum
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Stian Olsen,Steinar Mæhlum,Johnny Sivertsen,Frank Lund,"21/13,21/10",Stian Olsen,Steinar Mæhlum
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Herredouble,Tom Erik Skårn,Roger Skorstad,Johnny Sivertsen,Frank Lund,"21/10,21/6",Tom Erik Skårn,Roger Skorstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Thea Eldegard Andersen,Julia Småvik,Elise Oberle,Egle Dzerviene,"25/23,21/11",Thea Eldegard Andersen,Julia Småvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Thea Eldegard Andersen,Julia Småvik,Maren Weglo,Ida Kvaale,"21/7,21/12",Thea Eldegard Andersen,Julia Småvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Nina Trettøy,Linn Berit Eiesar,Shiny Wang,Wanda Helen Berge,"21/19,21/14",Nina Trettøy,Linn Berit Eiesar
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Nina Trettøy,Linn Berit Eiesar,Maren Weglo,Ida Kvaale,"21/13,21/7",Nina Trettøy,Linn Berit Eiesar
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Thea Eldegard Andersen,Julia Småvik,Nina Trettøy,Linn Berit Eiesar,"21/12,21/10",Thea Eldegard Andersen,Julia Småvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Shiny Wang,Wanda Helen Berge,Maren Weglo,Ida Kvaale,"17/21,21/17,24/22",Shiny Wang,Wanda Helen Berge
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Thea Eldegard Andersen,Julia Småvik,Shiny Wang,Wanda Helen Berge,"21/12,21/7",Thea Eldegard Andersen,Julia Småvik
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Anette Stenvik,Kaia Vathra,Uma Praseeda,Sowmyashree Arakere,"21/17,21/13",Anette Stenvik,Kaia Vathra
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Elise Oberle,Egle Dzerviene,Anne Kari Vangen Bakken,Marianne Østenseth,"24/26,21/10,21/19",Elise Oberle,Egle Dzerviene
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Anette Stenvik,Kaia Vathra,Anne Kari Vangen Bakken,Marianne Østenseth,"21/19,21/12",Anette Stenvik,Kaia Vathra
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Elise Oberle,Egle Dzerviene,Anette Stenvik,Kaia Vathra,"23/21,21/10",Elise Oberle,Egle Dzerviene
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Uma Praseeda,Sowmyashree Arakere,Anne Kari Vangen Bakken,Marianne Østenseth,"21/18,21/11",Uma Praseeda,Sowmyashree Arakere
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Damedouble,Elise Oberle,Egle Dzerviene,Uma Praseeda,Sowmyashree Arakere,"21/19,16/21,21/18",Elise Oberle,Egle Dzerviene
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Kaia Vathra,Sander Grandetrø,Uma Praseeda,Sreejith Raghavan,"21/19,21/15",Kaia Vathra,Sander Grandetrø
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Uma Praseeda,Sreejith Raghavan,Rune Plassen Bakken,Anne Kari Vangen Bakken,"21/17,21/15",Uma Praseeda,Sreejith Raghavan
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Kaia Vathra,Sander Grandetrø,Mindaugas Norkaitis,Giedre Isganaityte,"21/13,21/4",Kaia Vathra,Sander Grandetrø
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Rune Plassen Bakken,Anne Kari Vangen Bakken,Shiny Wang,Jonah Mathias Øverby,"21/9,21/7",Rune Plassen Bakken,Anne Kari Vangen Bakken
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Mindaugas Norkaitis,Giedre Isganaityte,Marianne Østenseth,Stian Olsen,"21/14,13/21,21/17",Mindaugas Norkaitis,Giedre Isganaityte
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Kaia Vathra,Sander Grandetrø,Steffen Juliussen,Ida Kvaale,"21/19,21/3",Kaia Vathra,Sander Grandetrø
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Uma Praseeda,Sreejith Raghavan,Anette Stenvik,Øyvind Rasmussen,"21/19,21/13",Uma Praseeda,Sreejith Raghavan
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Steffen Juliussen,Ida Kvaale,Janne Berit Haukdal,Stig Erik Trøen,"21/14,21/10",Steffen Juliussen,Ida Kvaale
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Anette Stenvik,Øyvind Rasmussen,Steinar Mæhlum,Linn Berit Eiesar,"21/18,21/15",Anette Stenvik,Øyvind Rasmussen
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Kaia Vathra,Sander Grandetrø,Thea Eldegard Andersen,Jacob Lund,"21/11,21/12",Kaia Vathra,Sander Grandetrø
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Mindaugas Norkaitis,Giedre Isganaityte,Martin Røis Nilsen,Vivi Thi Pham,"22/20,21/14",Mindaugas Norkaitis,Giedre Isganaityte
+2024/2025,Orkanger Orkla Cup,26.04.2025,SEN D,Mixeddouble,Rune Plassen Bakken,Anne Kari Vangen Bakken,Tobias Langlie,Emine Antonsen Kristiansen,"21/19,21/10",Rune Plassen Bakken,Anne Kari Vangen Bakken
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Helge Solem,,Sander Kristiansen Antonsen,"21/9,17/21,21/16",Helge Solem,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Milian Weglo Juliussen,,Vegard Myrlund,"21/8,21/14",Milian Weglo Juliussen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Helge Solem,,Milian Weglo Juliussen,"21/13,21/14",Helge Solem,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Sander Kristiansen Antonsen,,Sander Evensen,"21/12,21/14",Sander Kristiansen Antonsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Helge Solem,,Sander Evensen,"21/6,21/4",Helge Solem,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Sander Kristiansen Antonsen,,Vegard Myrlund,"21/15,21/19",Sander Kristiansen Antonsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Helge Solem,,Vegard Myrlund,"21/8,21/12",Helge Solem,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Milian Weglo Juliussen,,Sander Evensen,"21/13,21/11",Milian Weglo Juliussen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Sander Kristiansen Antonsen,,Milian Weglo Juliussen,"21/18,11/21,21/18",Sander Kristiansen Antonsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herresingle,,Sander Evensen,,Vegard Myrlund,"18/21,22/20,21/18",Sander Evensen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Damesingle,,Alina Ovedie Karlsen,,Lotte Westye-korshavn,"21/13,21/18",Alina Ovedie Karlsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Damesingle,,Emma Linnea Mjønes,,Marie Haugnes Strand,"21/11,21/18",Emma Linnea Mjønes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Damesingle,,Marie Haugnes Strand,,Lotte Westye-korshavn,"21/14,21/15",Marie Haugnes Strand,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Damesingle,,Emma Linnea Mjønes,,Alina Ovedie Karlsen,"21/23,21/11,21/19",Emma Linnea Mjønes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Damesingle,,Emma Linnea Mjønes,,Lotte Westye-korshavn,"21/13,21/12",Emma Linnea Mjønes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Damesingle,,Marie Haugnes Strand,,Alina Ovedie Karlsen,"18/21,21/19,21/19",Marie Haugnes Strand,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herredouble,Marie Haugnes Strand,Emma Linnea Mjønes,Vegard Myrlund,Sander Evensen,"21/0,21/0",Marie Haugnes Strand,Emma Linnea Mjønes
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herredouble,Helge Solem,Sander Kristiansen Antonsen,Alina Ovedie Karlsen,Lotte Westye-korshavn,"21/9,21/12",Helge Solem,Sander Kristiansen Antonsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herredouble,Helge Solem,Sander Kristiansen Antonsen,Marie Haugnes Strand,Emma Linnea Mjønes,"21/7,21/6",Helge Solem,Sander Kristiansen Antonsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herredouble,Alina Ovedie Karlsen,Lotte Westye-korshavn,Vegard Myrlund,Sander Evensen,"21/0,21/0",Alina Ovedie Karlsen,Lotte Westye-korshavn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herredouble,Alina Ovedie Karlsen,Lotte Westye-korshavn,Marie Haugnes Strand,Emma Linnea Mjønes,"21/19,21/19",Alina Ovedie Karlsen,Lotte Westye-korshavn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U9 B,Herredouble,Helge Solem,Sander Kristiansen Antonsen,Vegard Myrlund,Sander Evensen,"21/0,21/0",Helge Solem,Sander Kristiansen Antonsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Isak Sveine Aspnes,,Danielius Malakauskas,"21/0,21/0",Isak Sveine Aspnes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Isak Sveine Aspnes,,Wiktor Skrocki,"21/18,22/20",Isak Sveine Aspnes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Casper Bjørhusdahl,,Ola Moe Toresen,"21/4,19/21,21/5",Casper Bjørhusdahl,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Ola Moe Toresen,,Marelius Weglo Juliussen,"21/17,21/18,21/15",Ola Moe Toresen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Danielius Malakauskas,,Casper Bjørhusdahl,"22/20,21/11",Danielius Malakauskas,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Danielius Malakauskas,,Ola Moe Toresen,"21/8,21/11",Danielius Malakauskas,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Danielius Malakauskas,,Marelius Weglo Juliussen,"21/18,21/12",Danielius Malakauskas,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Casper Bjørhusdahl,,Marelius Weglo Juliussen,"21/19,12/21,21/9",Casper Bjørhusdahl,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Henrik Moe Toresen,,Theodor Kvaale Lysholm,"21/12,21/4",Henrik Moe Toresen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Isak Sveine Aspnes,,Henrik Moe Toresen,"21/13,15/21,21/19",Isak Sveine Aspnes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Isak Sveine Aspnes,,Theodor Kvaale Lysholm,"21/8,21/15",Isak Sveine Aspnes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Håkon Hojem Kvam,,Martin Overland,"13/21,21/16,21/12",Håkon Hojem Kvam,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Wiktor Skrocki,,Martin Overland,"21/16,20/22,21/14",Wiktor Skrocki,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herresingle,,Wiktor Skrocki,,Håkon Hojem Kvam,"21/12,18/21,21/19",Wiktor Skrocki,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Alma Marie Øren,,Alde Andrea Rohde Hallager,"21/12,21/17",Alma Marie Øren,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Ida Marie Tømmerås Skorstad,,Asbjørg Vangen Bakken,"21/6,21/8",Ida Marie Tømmerås Skorstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Johanne Sønsteli,,Alde Andrea Rohde Hallager,"21/18,21/6",Johanne Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Ida Marie Tømmerås Skorstad,,Johanne Sønsteli,"21/8,21/15",Ida Marie Tømmerås Skorstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Ida Marie Tømmerås Skorstad,,Alde Andrea Rohde Hallager,"21/11,21/16",Ida Marie Tømmerås Skorstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Alma Marie Øren,,Asbjørg Vangen Bakken,"21/10,21/11",Alma Marie Øren,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Alma Marie Øren,,Ida Marie Tømmerås Skorstad,"21/17,21/9",Alma Marie Øren,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Johanne Sønsteli,,Asbjørg Vangen Bakken,"21/17,21/17",Johanne Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Alma Marie Øren,,Johanne Sønsteli,"21/12,25/23",Alma Marie Øren,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damesingle,,Alde Andrea Rohde Hallager,,Asbjørg Vangen Bakken,"23/21,21/6",Alde Andrea Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Casper Bjørhusdahl,Isak Sveine Aspnes,Wiktor Skrocki,Danielius Malakauskas,"21/0,21/0",Casper Bjørhusdahl,Isak Sveine Aspnes
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Wiktor Skrocki,Danielius Malakauskas,Håkon Hojem Kvam,Marelius Weglo Juliussen,"20/22,21/11,21/15",Wiktor Skrocki,Danielius Malakauskas
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Wiktor Skrocki,Danielius Malakauskas,Theodor Kvaale Lysholm,Ola Moe Toresen,"21/4,21/8",Wiktor Skrocki,Danielius Malakauskas
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Håkon Hojem Kvam,Marelius Weglo Juliussen,Theodor Kvaale Lysholm,Ola Moe Toresen,"21/15,21/7",Håkon Hojem Kvam,Marelius Weglo Juliussen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Milian Weglo Juliussen,Henrik Moe Toresen,Andreas Hagstrøm Sagøy,Martin Overland,"24/22,21/9",Milian Weglo Juliussen,Henrik Moe Toresen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Casper Bjørhusdahl,Isak Sveine Aspnes,Adrian Hansen Sellesbakk,Jonas Bratland Haltstrand,"21/16,21/16",Casper Bjørhusdahl,Isak Sveine Aspnes
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Casper Bjørhusdahl,Isak Sveine Aspnes,Milian Weglo Juliussen,Henrik Moe Toresen,"18/21,21/15,21/19",Casper Bjørhusdahl,Isak Sveine Aspnes
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Andreas Hagstrøm Sagøy,Martin Overland,Adrian Hansen Sellesbakk,Jonas Bratland Haltstrand,"23/21,21/9",Andreas Hagstrøm Sagøy,Martin Overland
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Milian Weglo Juliussen,Henrik Moe Toresen,Adrian Hansen Sellesbakk,Jonas Bratland Haltstrand,"21/10,21/17",Milian Weglo Juliussen,Henrik Moe Toresen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Herredouble,Casper Bjørhusdahl,Isak Sveine Aspnes,Andreas Hagstrøm Sagøy,Martin Overland,"21/14,21/7",Casper Bjørhusdahl,Isak Sveine Aspnes
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damedouble,Ida Marie Tømmerås Skorstad,Alma Marie Øren,Sara Hamstad,Eira Trettøy Siljehaug,"21/4,21/4",Ida Marie Tømmerås Skorstad,Alma Marie Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damedouble,Frida Westye-Korshavn,Chinmayi Pazhay Annur Kurruppath,Asbjørg Vangen Bakken,Johanne Sønsteli,"21/10,21/14",Frida Westye-Korshavn,Chinmayi Pazhay Annur Kurruppath
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damedouble,Frida Westye-Korshavn,Chinmayi Pazhay Annur Kurruppath,Sara Hamstad,Eira Trettøy Siljehaug,"21/7,21/4",Frida Westye-Korshavn,Chinmayi Pazhay Annur Kurruppath
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damedouble,Ida Marie Tømmerås Skorstad,Alma Marie Øren,Asbjørg Vangen Bakken,Johanne Sønsteli,"21/4,21/14",Ida Marie Tømmerås Skorstad,Alma Marie Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damedouble,Ida Marie Tømmerås Skorstad,Alma Marie Øren,Frida Westye-Korshavn,Chinmayi Pazhay Annur Kurruppath,"21/9,21/19",Ida Marie Tømmerås Skorstad,Alma Marie Øren
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Damedouble,Asbjørg Vangen Bakken,Johanne Sønsteli,Sara Hamstad,Eira Trettøy Siljehaug,"21/19,21/16",Asbjørg Vangen Bakken,Johanne Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Matti Wüstefeld,Ida Marie Tømmerås Skorstad,Casper Bjørhusdahl,Johanne Sønsteli,"21/9,21/8",Matti Wüstefeld,Ida Marie Tømmerås Skorstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Wiktor Skrocki,Alde Andrea Rohde Hallager,Eira Trettøy Siljehaug,Martin Overland,"21/14,21/13",Wiktor Skrocki,Alde Andrea Rohde Hallager
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Casper Bjørhusdahl,Johanne Sønsteli,Eira Trettøy Siljehaug,Martin Overland,"21/14,24/22",Casper Bjørhusdahl,Johanne Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Casper Bjørhusdahl,Johanne Sønsteli,Wiktor Skrocki,Alde Andrea Rohde Hallager,"23/21,14/21,21/11",Casper Bjørhusdahl,Johanne Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Matti Wüstefeld,Ida Marie Tømmerås Skorstad,Danielius Malakauskas,Frida Westye-Korshavn,"21/16,19/21,21/15",Matti Wüstefeld,Ida Marie Tømmerås Skorstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Isak Sveine Aspnes,Asbjørg Vangen Bakken,Sara Hamstad,Magnus Vaadan,"21/14,21/16",Isak Sveine Aspnes,Asbjørg Vangen Bakken
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Matti Wüstefeld,Ida Marie Tømmerås Skorstad,Sara Hamstad,Magnus Vaadan,"21/12,23/21",Matti Wüstefeld,Ida Marie Tømmerås Skorstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Danielius Malakauskas,Frida Westye-Korshavn,Isak Sveine Aspnes,Asbjørg Vangen Bakken,"21/14,21/18",Danielius Malakauskas,Frida Westye-Korshavn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Matti Wüstefeld,Ida Marie Tømmerås Skorstad,Isak Sveine Aspnes,Asbjørg Vangen Bakken,"21/19,21/18",Matti Wüstefeld,Ida Marie Tømmerås Skorstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 A,Mixeddouble,Danielius Malakauskas,Frida Westye-Korshavn,Sara Hamstad,Magnus Vaadan,"21/9,21/6",Danielius Malakauskas,Frida Westye-Korshavn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Herresingle,,Andreas Hagstrøm Sagøy,,Adrian Hansen Sellesbakk,"14/21,21/15,21/12",Andreas Hagstrøm Sagøy,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Herresingle,,Andreas Hagstrøm Sagøy,,Sverre Alexander Lysberg Selbæk,"21/8,21/9",Andreas Hagstrøm Sagøy,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Herresingle,,Magnus Vaadan,,Jonas Bratland Haltstrand,"21/17,21/17",Magnus Vaadan,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Herresingle,,Adrian Hansen Sellesbakk,,Jonas Bratland Haltstrand,"21/13,21/9",Adrian Hansen Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Herresingle,,Adrian Hansen Sellesbakk,,Magnus Vaadan,"18/21,21/16,21/9",Adrian Hansen Sellesbakk,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Damesingle,,Sara Hamstad,,Eira Trettøy Siljehaug,"21/9,21/15",Sara Hamstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Damesingle,,Frida Westye-Korshavn,,Sara Hamstad,"21/15,21/13",Frida Westye-Korshavn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U11 B,Damesingle,,Frida Westye-Korshavn,,Eira Trettøy Siljehaug,"21/9,21/3",Frida Westye-Korshavn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Adrian Sønsteli,,Solan August Tustervatn,"21/16,12/21,22/20",Adrian Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Solan August Tustervatn,,Isak Aasheim,"21/16,19/21,21/12",Solan August Tustervatn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Devansh Menon,,Hallgeir Vangen Bakken,"21/14,21/16",Devansh Menon,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Adrian Sønsteli,,Hallgeir Vangen Bakken,"21/8,21/6",Adrian Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Adrian Sønsteli,,Devansh Menon,"21/5,21/10",Adrian Sønsteli,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Joakim Bøe Jervell,,Magnus Grindstuen,"21/15,21/14",Joakim Bøe Jervell,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Solan August Tustervatn,,Magnus Grindstuen,"21/16,21/8",Solan August Tustervatn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Solan August Tustervatn,,Joakim Bøe Jervell,"21/11,21/12",Solan August Tustervatn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Isak Aasheim,,Leo Carlsen,"21/12,21/16",Isak Aasheim,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Isak Aasheim,,Lukas Wüstefeld,"21/18,22/20",Isak Aasheim,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herresingle,,Lukas Wüstefeld,,Leo Carlsen,"19/21,21/18,21/17",Lukas Wüstefeld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Nora Langen,,Ina Maria Skogmo Bjørhusdahl,"21/16,13/21,21/15",Nora Langen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Ane Kvernø,"21/7,21/3",Ina Maria Skogmo Bjørhusdahl,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Ina Maria Skogmo Bjørhusdahl,,Ida Amalie Skårn,"21/3,21/5",Ina Maria Skogmo Bjørhusdahl,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Ida Amalie Skårn,,Ane Kvernø,"21/17,21/13",Ida Amalie Skårn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Nora Langen,,Nika Serstjannikova,"21/15,21/6",Nora Langen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Nora Langen,,Ingeborg Tømmerås Skorstad,"19/21,21/16,21/13",Nora Langen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damesingle,,Ingeborg Tømmerås Skorstad,,Nika Serstjannikova,"21/5,21/8",Ingeborg Tømmerås Skorstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Magnus Grindstuen,Eilev Lonbakken Høglien,Matti Wüstefeld,Liam Sveine Aspnes,"21/10,19/21,21/11",Magnus Grindstuen,Eilev Lonbakken Høglien
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Joakim Bøe Jervell,Adrian Sønsteli,Leo Carlsen,Devansh Menon,"21/10,21/12",Joakim Bøe Jervell,Adrian Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Lukas Wüstefeld,Solan August Tustervatn,Magnus Grindstuen,Eilev Lonbakken Høglien,"21/11,21/12",Lukas Wüstefeld,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Leo Carlsen,Devansh Menon,Matti Wüstefeld,Liam Sveine Aspnes,"22/20,21/19",Leo Carlsen,Devansh Menon
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Lukas Wüstefeld,Solan August Tustervatn,Matti Wüstefeld,Liam Sveine Aspnes,"21/7,21/13",Lukas Wüstefeld,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Joakim Bøe Jervell,Adrian Sønsteli,Magnus Grindstuen,Eilev Lonbakken Høglien,"21/15,21/15",Joakim Bøe Jervell,Adrian Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Joakim Bøe Jervell,Adrian Sønsteli,Matti Wüstefeld,Liam Sveine Aspnes,"21/13,21/14",Joakim Bøe Jervell,Adrian Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Lukas Wüstefeld,Solan August Tustervatn,Leo Carlsen,Devansh Menon,"21/11,21/16",Lukas Wüstefeld,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Leo Carlsen,Devansh Menon,Magnus Grindstuen,Eilev Lonbakken Høglien,"21/16,21/16",Leo Carlsen,Devansh Menon
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Herredouble,Lukas Wüstefeld,Solan August Tustervatn,Joakim Bøe Jervell,Adrian Sønsteli,"21/15,21/19",Lukas Wüstefeld,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ane Kvernø,Nora Langen,Emma Borthen,Aylina Johnsen,"21/9,21/8",Ane Kvernø,Nora Langen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ida Amalie Skårn,Nika Serstjannikova,Emma Borthen,Aylina Johnsen,"21/10,21/11",Ida Amalie Skårn,Nika Serstjannikova
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ida Amalie Skårn,Nika Serstjannikova,Nardos Zerizgi Amare,Linnea Grande Korssletten,"21/19,21/12",Ida Amalie Skårn,Nika Serstjannikova
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Nika Serstjannikova,"21/7,21/6",Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ane Kvernø,Nora Langen,Nardos Zerizgi Amare,Linnea Grande Korssletten,"21/5,21/8",Ane Kvernø,Nora Langen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl,Nardos Zerizgi Amare,Linnea Grande Korssletten,"21/8,21/6",Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ane Kvernø,Nora Langen,Ida Amalie Skårn,Nika Serstjannikova,"21/11,21/12",Ane Kvernø,Nora Langen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl,Emma Borthen,Aylina Johnsen,"21/9,21/6",Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Emma Borthen,Aylina Johnsen,Nardos Zerizgi Amare,Linnea Grande Korssletten,"17/21,21/18,21/18",Emma Borthen,Aylina Johnsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Damedouble,Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl,Ane Kvernø,Nora Langen,"21/13,21/12",Ingeborg Tømmerås Skorstad,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Leo Nicolai Hanssen,Chinmayi Pazhay Annur Kurruppath,Liam Sveine Aspnes,Nika Serstjannikova,"21/12,21/10",Leo Nicolai Hanssen,Chinmayi Pazhay Annur Kurruppath
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl,Ida Amalie Skårn,Adrian Sønsteli,"21/14,21/8",Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl,Liam Sveine Aspnes,Nika Serstjannikova,"21/5,21/6",Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Ingeborg Tømmerås Skorstad,Solan August Tustervatn,Leo Nicolai Hanssen,Chinmayi Pazhay Annur Kurruppath,"21/19,21/14",Ingeborg Tømmerås Skorstad,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Ingeborg Tømmerås Skorstad,Solan August Tustervatn,Liam Sveine Aspnes,Nika Serstjannikova,"21/10,21/8",Ingeborg Tømmerås Skorstad,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Ida Amalie Skårn,Adrian Sønsteli,Leo Nicolai Hanssen,Chinmayi Pazhay Annur Kurruppath,"21/14,21/13",Ida Amalie Skårn,Adrian Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Ida Amalie Skårn,Adrian Sønsteli,Liam Sveine Aspnes,Nika Serstjannikova,"21/6,21/13",Ida Amalie Skårn,Adrian Sønsteli
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Ingeborg Tømmerås Skorstad,Solan August Tustervatn,Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl,"21/16,23/21",Ingeborg Tømmerås Skorstad,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Ingeborg Tømmerås Skorstad,Solan August Tustervatn,Ida Amalie Skårn,Adrian Sønsteli,"25/23,21/16",Ingeborg Tømmerås Skorstad,Solan August Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 A,Mixeddouble,Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl,Leo Nicolai Hanssen,Chinmayi Pazhay Annur Kurruppath,"21/7,21/5",Lukas Wüstefeld,Ina Maria Skogmo Bjørhusdahl
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Leo Nicolai Hanssen,,Theodor Skåtun Barstad,"21/14,21/15",Leo Nicolai Hanssen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Leo Nicolai Hanssen,,Vebjørn Eiesar-Mæhlum,"21/14,21/11",Leo Nicolai Hanssen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Theodor Skåtun Barstad,,Liam Sveine Aspnes,"21/11,21/7",Theodor Skåtun Barstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Theodor Skåtun Barstad,,Carl Hardy Holt,"21/12,21/5",Theodor Skåtun Barstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Theodor Skåtun Barstad,,Martinus Brovold Martinussen,"21/8,21/7",Theodor Skåtun Barstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Martinus Brovold Martinussen,,Carl Hardy Holt,"21/15,16/21,21/18",Martinus Brovold Martinussen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Eilev Lonbakken Høglien,,Melvin Jensen,"21/19,21/5",Eilev Lonbakken Høglien,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Melvin Jensen,,Sebastian Dønheim-Nilsen,"21/4,21/7",Melvin Jensen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Liam Sveine Aspnes,,Sebastian Dønheim-Nilsen,"21/7,21/10",Liam Sveine Aspnes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Liam Sveine Aspnes,,Eilev Lonbakken Høglien,"21/17,22/20",Liam Sveine Aspnes,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Eilev Lonbakken Høglien,,Sebastian Dønheim-Nilsen,"21/9,21/7",Eilev Lonbakken Høglien,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Vebjørn Eiesar-Mæhlum,,Sander Skauge,"21/14,21/13",Vebjørn Eiesar-Mæhlum,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Martin Barra-Quezada,,Liam Kojen,"21/15,21/9",Martin Barra-Quezada,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Martin Barra-Quezada,,Sander Skauge,"21/10,21/8",Martin Barra-Quezada,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Vebjørn Eiesar-Mæhlum,,Martin Barra-Quezada,"21/17,21/17",Vebjørn Eiesar-Mæhlum,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Sander Skauge,,Liam Kojen,"19/21,21/17,21/15",Sander Skauge,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Vebjørn Eiesar-Mæhlum,,Liam Kojen,"21/9,21/15",Vebjørn Eiesar-Mæhlum,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Leo Nicolai Hanssen,,Matti Wüstefeld,"21/15,21/17",Leo Nicolai Hanssen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Matti Wüstefeld,,Jonas Aae Andøl,"21/1,21/10",Matti Wüstefeld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herresingle,,Leo Nicolai Hanssen,,Jonas Aae Andøl,"21/3,21/6",Leo Nicolai Hanssen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Chinmayi Pazhay Annur Kurruppath,,Linnea Grande Korssletten,"21/14,21/16",Chinmayi Pazhay Annur Kurruppath,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Iben Marie Kaspersen Krogstad,,Sunniva Eiesar-Mæhlum,"21/16,24/22",Iben Marie Kaspersen Krogstad,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Chinmayi Pazhay Annur Kurruppath,,Iben Marie Kaspersen Krogstad,"21/13,21/9",Chinmayi Pazhay Annur Kurruppath,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Chinmayi Pazhay Annur Kurruppath,,Sunniva Eiesar-Mæhlum,"24/22,21/11",Chinmayi Pazhay Annur Kurruppath,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Linnea Grande Korssletten,,Nardos Zerizgi Amare,"21/17,21/10",Linnea Grande Korssletten,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Ester Marie Vestergaard Grande,,Helene Benedikte Tøndel,"21/2,21/6",Ester Marie Vestergaard Grande,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Linnea Grande Korssletten,,Ester Marie Vestergaard Grande,"21/13,21/13",Linnea Grande Korssletten,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Nardos Zerizgi Amare,,Helene Benedikte Tøndel,"21/4,21/6",Nardos Zerizgi Amare,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Linnea Grande Korssletten,,Helene Benedikte Tøndel,"21/13,21/12",Linnea Grande Korssletten,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Damesingle,,Nardos Zerizgi Amare,,Ester Marie Vestergaard Grande,"21/7,21/17",Nardos Zerizgi Amare,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herredouble,Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken,Martinus Brovold Martinussen,Liam Kojen,"21/8,21/8",Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herredouble,Martin Barra-Quezada,Theodor Skåtun Barstad,Martinus Brovold Martinussen,Liam Kojen,"21/8,21/15",Martin Barra-Quezada,Theodor Skåtun Barstad
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Herredouble,Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken,Martin Barra-Quezada,Theodor Skåtun Barstad,"21/16,21/17",Vebjørn Eiesar-Mæhlum,Hallgeir Vangen Bakken
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Mixeddouble,Isabelle Olsen,Eilev Lonbakken Høglien,Iben Marie Kaspersen Krogstad,Martinus Brovold Martinussen,"22/20,14/21,21/9",Isabelle Olsen,Eilev Lonbakken Høglien
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Mixeddouble,Sunniva Eiesar-Mæhlum,Vebjørn Eiesar-Mæhlum,Iben Marie Kaspersen Krogstad,Martinus Brovold Martinussen,"21/12,21/11",Sunniva Eiesar-Mæhlum,Vebjørn Eiesar-Mæhlum
+2024/2025,Orkanger Orkla Cup,26.04.2025,U13 B,Mixeddouble,Sunniva Eiesar-Mæhlum,Vebjørn Eiesar-Mæhlum,Isabelle Olsen,Eilev Lonbakken Høglien,"21/19,21/19",Sunniva Eiesar-Mæhlum,Vebjørn Eiesar-Mæhlum
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jonathan Rohde Hallager,,Leo Idicula,"21/15,21/12",Jonathan Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jonathan Rohde Hallager,,Carl Stagegaard,"21/16,21/11",Jonathan Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Leo Idicula,,Jakob Wüstefeld,"21/14,21/11",Leo Idicula,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jonathan Rohde Hallager,,Jayson Xu,"21/11,21/7",Jonathan Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jonathan Rohde Hallager,,Leander Rønne Olsen,"21/15,21/14",Jonathan Rohde Hallager,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jayson Xu,,Leander Rønne Olsen,"21/9,21/18",Jayson Xu,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Carl Stagegaard,,Tridev Shyam Chand,"21/18,21/14",Carl Stagegaard,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Even Mathias Mjønes Bernhardsen,,Carl Stagegaard,"21/16,7/21,21/19",Even Mathias Mjønes Bernhardsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Tridev Shyam Chand,,Even Mathias Mjønes Bernhardsen,"21/18,25/23",Tridev Shyam Chand,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jakob Wüstefeld,,Maja Fagervoll,"21/17,21/14",Jakob Wüstefeld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Isak Larsen Dyrvik,,Maja Fagervoll,"21/19,21/19",Isak Larsen Dyrvik,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Jakob Wüstefeld,,Isak Larsen Dyrvik,"21/7,21/11",Jakob Wüstefeld,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Leo Idicula,,Oliver Langen,"12/21,21/16,21/16",Leo Idicula,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Oliver Langen,,Viktor Eldegard,"18/21,21/12,21/14",Oliver Langen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herresingle,,Leo Idicula,,Viktor Eldegard,"21/13,21/12",Leo Idicula,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Natalia Heinich,,Sara Engan,"17/21,21/14,21/14",Natalia Heinich,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Sara Engan,,Stine Overland,"21/16,21/19",Sara Engan,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Sara Engan,,Eva Lindseth,"21/11,21/11",Sara Engan,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Stine Overland,,Eva Lindseth,"21/11,21/7",Stine Overland,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Emine Antonsen Kristiansen,,Ingrid Antonette Selboskar,"21/13,21/18",Emine Antonsen Kristiansen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Natalia Heinich,,Ingrid Antonette Selboskar,"21/17,21/11",Natalia Heinich,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Natalia Heinich,,Emine Antonsen Kristiansen,"21/14,21/14",Natalia Heinich,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Natalia Heinich,,Isabelle Olsen,"21/7,21/6",Natalia Heinich,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Emine Antonsen Kristiansen,,Isabelle Olsen,"21/7,21/11",Emine Antonsen Kristiansen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Damesingle,,Ingrid Antonette Selboskar,,Isabelle Olsen,"21/13,21/7",Ingrid Antonette Selboskar,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herredouble,Tridev Shyam Chand,Jayson Xu,Carl Stagegaard,Emil Stagegaard,"21/18,21/8",Tridev Shyam Chand,Jayson Xu
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herredouble,Carl Stagegaard,Emil Stagegaard,Leander Rønne Olsen,Emil Lerånn Edvardsen,"21/11,21/19",Carl Stagegaard,Emil Stagegaard
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Herredouble,Tridev Shyam Chand,Jayson Xu,Leander Rønne Olsen,Emil Lerånn Edvardsen,"21/13,20/22,21/12",Tridev Shyam Chand,Jayson Xu
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Leander Rønne Olsen,Maja Fagervoll,Isak Larsen Dyrvik,Natalia Heinich,"21/8,19/21,21/17",Leander Rønne Olsen,Maja Fagervoll
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Isak Larsen Dyrvik,Natalia Heinich,Martin Brun Lauritzen,Eva Lindseth,"21/10,21/16",Isak Larsen Dyrvik,Natalia Heinich
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Isak Larsen Dyrvik,Natalia Heinich,Jakob Wüstefeld,Stine Overland,"21/19,21/18",Isak Larsen Dyrvik,Natalia Heinich
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Jakob Wüstefeld,Stine Overland,Martin Brun Lauritzen,Eva Lindseth,"21/8,21/5",Jakob Wüstefeld,Stine Overland
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Leander Rønne Olsen,Maja Fagervoll,Oliver Langen,Nora Langen,"24/22,21/19",Leander Rønne Olsen,Maja Fagervoll
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Sara Engan,Ola Kvande Stendal,Leander Rønne Olsen,Maja Fagervoll,"16/21,22/20,21/15",Sara Engan,Ola Kvande Stendal
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 A,Mixeddouble,Oliver Langen,Nora Langen,Sara Engan,Ola Kvande Stendal,"21/23,21/15,21/19",Oliver Langen,Nora Langen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Ola Kvande Stendal,,Emil Stagegaard,"21/16,21/17",Ola Kvande Stendal,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Ola Kvande Stendal,,Gaute Tønne Lindsøe,"21/17,21/13",Ola Kvande Stendal,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Emil Stagegaard,,Olav Myrum Gusgaard,"21/7,21/14",Emil Stagegaard,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Emil Stagegaard,,Ola Melkild Brøttem,"21/9,21/2",Emil Stagegaard,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Olav Myrum Gusgaard,,Ola Melkild Brøttem,"21/13,21/17",Olav Myrum Gusgaard,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Gaute Tønne Lindsøe,,Nikolai Karlsen,"21/10,21/7",Gaute Tønne Lindsøe,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Oliver Johan Tustervatn,,Nikolai Karlsen,"21/8,21/14",Oliver Johan Tustervatn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Gaute Tønne Lindsøe,,Oliver Johan Tustervatn,"21/17,21/19",Gaute Tønne Lindsøe,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Martin Brun Lauritzen,,Nikolai Karlsen,"21/6,21/16",Martin Brun Lauritzen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Oliver Johan Tustervatn,,Martin Brun Lauritzen,"19/21,21/15,22/20",Oliver Johan Tustervatn,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Gaute Tønne Lindsøe,,Martin Brun Lauritzen,"21/9,21/16",Gaute Tønne Lindsøe,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Emil Lerånn Edvardsen,,Jonas Kristoffer Løland,"21/6,21/4",Emil Lerånn Edvardsen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Ola Kvande Stendal,,Jonas Kristoffer Løland,"21/0,21/9",Ola Kvande Stendal,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herresingle,,Ola Kvande Stendal,,Emil Lerånn Edvardsen,"21/10,21/13",Ola Kvande Stendal,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herredouble,Gaute Tønne Lindsøe,Ola Kvande Stendal,Leo Nicolai Hanssen,Oliver Johan Tustervatn,"22/20,14/21,21/18",Gaute Tønne Lindsøe,Ola Kvande Stendal
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herredouble,Gaute Tønne Lindsøe,Ola Kvande Stendal,Ola Melkild Brøttem,Nikolai Karlsen,"21/12,21/8",Gaute Tønne Lindsøe,Ola Kvande Stendal
+2024/2025,Orkanger Orkla Cup,26.04.2025,U15 B,Herredouble,Leo Nicolai Hanssen,Oliver Johan Tustervatn,Ola Melkild Brøttem,Nikolai Karlsen,"21/12,21/9",Leo Nicolai Hanssen,Oliver Johan Tustervatn
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Tobias Langlie,,Thor Thoresen,"18/21,21/15,22/20",Tobias Langlie,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Jørgen Resseth Enger,,Simen Tyrhaug Håskjold,"21/14,21/17",Jørgen Resseth Enger,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Tobias Langlie,,Jørgen Resseth Enger,"21/17,21/7",Tobias Langlie,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Simen Tyrhaug Håskjold,,Tobias Langlie,"17/21,25/23,21/18",Simen Tyrhaug Håskjold,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Thor Thoresen,,Nicholas Almli-Visth,"21/9,21/7",Thor Thoresen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Jon Formo,,Linus Valvåg,"21/14,21/14",Jon Formo,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Jon Formo,,Nicholas Almli-Visth,"21/9,21/5",Jon Formo,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Thor Thoresen,,Linus Valvåg,"21/16,22/20",Thor Thoresen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Thor Thoresen,,Jon Formo,"21/23,21/19,21/7",Thor Thoresen,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herresingle,,Linus Valvåg,,Nicholas Almli-Visth,"21/10,21/15",Linus Valvåg,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Damesingle,,Mike Skrocki,,Inger Theoline Teigås,"17/21,21/10,21/14",Mike Skrocki,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Damesingle,,Amelia Siemiatkowska,,Elise Oberle,"21/11,21/8",Amelia Siemiatkowska,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Damesingle,,Mike Skrocki,,Elise Oberle,"21/11,21/14",Mike Skrocki,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Damesingle,,Amelia Siemiatkowska,,Inger Theoline Teigås,"21/6,21/8",Amelia Siemiatkowska,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Damesingle,,Amelia Siemiatkowska,,Mike Skrocki,"21/13,21/14",Amelia Siemiatkowska,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Damesingle,,Elise Oberle,,Inger Theoline Teigås,"21/18,21/12",Elise Oberle,
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herredouble,Tobias Langlie,Even Mathias Mjønes Bernhardsen,Linus Valvåg,Simen Tyrhaug Håskjold,"21/12,19/21,27/25",Tobias Langlie,Even Mathias Mjønes Bernhardsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herredouble,Mike Skrocki,Thor Thoresen,Linus Valvåg,Simen Tyrhaug Håskjold,"22/20,21/18",Mike Skrocki,Thor Thoresen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herredouble,Tobias Langlie,Even Mathias Mjønes Bernhardsen,Jørgen Resseth Enger,Jon Formo,"21/18,21/11",Tobias Langlie,Even Mathias Mjønes Bernhardsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herredouble,Jørgen Resseth Enger,Jon Formo,Mike Skrocki,Thor Thoresen,"21/14,21/15",Jørgen Resseth Enger,Jon Formo
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herredouble,Tobias Langlie,Even Mathias Mjønes Bernhardsen,Mike Skrocki,Thor Thoresen,"21/15,21/12",Tobias Langlie,Even Mathias Mjønes Bernhardsen
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 A,Herredouble,Linus Valvåg,Simen Tyrhaug Håskjold,Jørgen Resseth Enger,Jon Formo,"18/21,21/11,21/17",Linus Valvåg,Simen Tyrhaug Håskjold
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 B,Damedouble,Natalia Heinich,Inger Theoline Teigås,Gina Marie Rokseth,Stine Overland,"21/6,21/9",Natalia Heinich,Inger Theoline Teigås
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 B,Damedouble,Emine Antonsen Kristiansen,Sara Engan,Gina Marie Rokseth,Stine Overland,"21/10,21/14",Emine Antonsen Kristiansen,Sara Engan
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 B,Damedouble,Natalia Heinich,Inger Theoline Teigås,Eva Lindseth,Isabelle Olsen,"21/10,21/6",Natalia Heinich,Inger Theoline Teigås
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 B,Damedouble,Gina Marie Rokseth,Stine Overland,Eva Lindseth,Isabelle Olsen,"23/21,21/19",Gina Marie Rokseth,Stine Overland
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 B,Damedouble,Emine Antonsen Kristiansen,Sara Engan,Eva Lindseth,Isabelle Olsen,"21/8,21/16",Emine Antonsen Kristiansen,Sara Engan
+2024/2025,Orkanger Orkla Cup,26.04.2025,U17 B,Damedouble,Natalia Heinich,Inger Theoline Teigås,Emine Antonsen Kristiansen,Sara Engan,"21/11,21/15",Natalia Heinich,Inger Theoline Teigås

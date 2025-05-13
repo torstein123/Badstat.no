@@ -1,637 +1,774 @@
 Plass.,Spiller-Id,Navn,Klasse,Poeng
-1,101285,"Randi Selle, Stavanger",E,984
-2,102635,"Marie Christensen, Frogner",E,836
-3,107127,"Delia Murtazalieva, Bergen",E,760
-4,102422,"Solvår S Flåten Jørgensen, Moss",E,756
-5,105826,"Aimee Hong, Bergen",E,716
-6,103102,"Emilie Sotnes Hamang, Bergen",E,584
-7,105408,"Julie Marie Andersen Abusdal, Kristiansand",E,544
-8,109878,"Sofie Jin Reistadbakk, Haugerud",A,468
-9,102463,"Vilde Espeseth, Kristiansand",A,448
-10,109432,"Mina Korssund, Moss",A,436
-11,109049,"Linnea Holmedal, Sotra",A,416
-12,112454,"Dianne Christine Geronimo, Trondheim",A,376
-13,105886,"Stine Skjævesland Pedersen, Kristiansand",A,340
-14,109464,"Emma Yasmin Ruud, Moss",A,332
-15,105206,"Ingvild Håland, Trondheim",A,312
-16,108761,"Victoria Zhang, OSI",A,292
-16,109857,"Vilma Aasheim-Engen, Frogner",A,292
-18,107206,"Katja Botcharova Ellingsen, Bergen",A,288
-19,107735,"Nora  Omdal, NTNUI",A,266
-20,104421,"Malin Andersson, Haugerud",A,264
-21,108760,"Karianne Zhang, OSI",A,260
-22,104091,"Anne-Margrethe Ulla Staurset, Norborg",A,258
-23,109594,"Nikol Hermansen, Bergen",A,254
-24,101342,"Runa Korshavn, Trondheim",A,248
-25,106221,"Marte Stokkaune, Trondheim",A,240
-26,108740,"Signe Lenning, Herøy",A,236
-27,114636,"Melanie Antonella Matland, Moss",A,232
-28,100717,"Berit Thyness, Haugerud",A,224
-28,102533,"Elisa Wiborg, Haugerud",A,224
-30,107625,"Ragnhild Stenvaag, Ålesund",A,212
-31,111008,"Nila Lorvik, Herøy",A,204
-32,108671,"Marlen Nygård, NTNUI",A,200
-32,106220,"Camilla Stokkaune, Orkanger",A,200
-34,100681,"Jeanette Svendsen, Vestre Aker",A,196
-35,109058,"Ronja Hartmann, Norborg",A,188
-36,105436,"Moana Vadseth Furholm, NTNUI",A,178
-37,108076,"Sara Buvik, NTNUI",A,176
-37,108927,"Celina Nha-Mi-Thanh, OSI",A,176
-39,101262,"Hege Leirud, Frogner",A,172
-40,116009,"Amal Mariia Elrozi, Klemetsrud",A,164
-41,104509,"Vera Botcharova Ellingsen, Bergen",A,160
-42,113435,"Dowon Kwak, OSI",A,158
-43,115842,"Ann-Kristin Mathisen Johnson, Norborg",A,156
-44,100074,"Tone Groven, Klæbu",A,154
-44,112126,"Varshini Manikandan, IL Skrim",A,154
-46,111538,"Juli Helen Johansen Klungtveit, Sotra",A,152
-47,110577,"Victoria Heiberg, Haugerud",A,150
-48,107439,"Selma Kvarenes Bjørnestøl, Kristiansand",B,142
-48,103494,"Rikke Østhassel, Kristiansand",B,142
-50,105315,"Trine Sperre, Ålesund",B,140
-50,107513,"Kristine  Grande Ødegårdstuen, Moss",B,140
-52,100113,"Gunn Fiskergaard, Ålesund",B,136
-53,113442,"Kamonthip Charoenphanit, OSI",B,134
-54,103531,"Cecilie Li, Haugerud",B,132
-55,109705,"Akarija Anton Reginold, Sotra",B,128
-56,109420,"Trine Søraas Johannessen, Rissa",B,126
-56,112327,"Viola Jordalen, Bergen",B,126
-58,112169,"Abiramy Kokilan, Strømmen",B,120
+1,102422,"Solvår S Flåten Jørgensen, Moss",E,920
+2,102635,"Marie Christensen, Frogner",E,904
+3,105408,"Julie Marie Andersen Abusdal, Kristiansand",E,868
+4,102463,"Vilde Espeseth, Kristiansand",E,852
+5,101285,"Randi Selle, Stavanger",E,816
+6,105826,"Aimee Hong, Bergen",E,812
+7,109432,"Mina Korssund, Moss",A,484
+8,109464,"Emma Yasmin Ruud, Moss",A,448
+9,109049,"Linnea Holmedal, Sotra",A,444
+10,109878,"Sofie Jin Reistadbakk, Haugerud",A,404
+10,109857,"Vilma Aasheim-Engen, Frogner",A,404
+12,114636,"Melanie Antonella Matland, Moss",A,388
+13,105886,"Stine Skjævesland Pedersen, Kristiansand",A,368
+14,107439,"Selma Kvarenes Bjørnestøl, Kristiansand",A,278
+15,103102,"Emilie Sotnes Hamang, Bergen",A,276
+16,105206,"Ingvild Håland, Trondheim",A,272
+17,100681,"Jeanette Svendsen, Vestre Aker",A,260
+17,112454,"Dianne Christine Geronimo, Trondheim",A,260
+19,107735,"Nora  Omdal, NTNUI",A,246
+20,111538,"Juli Helen Johansen Klungtveit, Sotra",A,240
+21,107625,"Ragnhild Stenvaag, Ålesund",A,228
+22,109680,"Nancy Hang, Haugerud",A,224
+23,113886,"Alice Løvås Walbom, Moss",A,216
+24,108760,"Karianne Zhang, OSI",A,212
+25,104509,"Vera Botcharova Ellingsen, Bergen",A,208
+26,102533,"Elisa Wiborg, Haugerud",A,204
+27,101342,"Runa Korshavn, Trondheim",A,202
+28,107127,"Delia Murtazalieva, Bergen",A,200
+29,100717,"Berit Thyness, Haugerud",A,198
+29,110577,"Victoria Heiberg, Haugerud",A,198
+31,109648,"Anine Halvorsen Egge, Grimstad",A,196
+32,108076,"Sara Buvik, NTNUI",A,194
+33,100193,"Monica Halvorsen, Frogner",A,192
+34,104338,"Emilia Petersen Norberg, Sandefjord",A,188
+34,116009,"Amal Mariia Elrozi, Klemetsrud",A,188
+36,108671,"Marlen Nygård, NTNUI",A,186
+37,102606,"Helle Sofie Sagøy, Kristiansand",A,182
+38,112126,"Varshini Manikandan, Klemetsrud",A,180
+39,105315,"Trine Sperre, Ålesund",A,176
+40,109058,"Ronja Hartmann, Norborg",A,170
+41,105436,"Moana Vadseth Furholm, NTNUI",A,158
+42,113442,"Kamonthip Charoenphanit, OSI",A,156
+43,101896,"Hildegunn Måøy, Kolvereid",A,154
+44,100074,"Tone Groven, Klæbu",A,150
+45,102142,"Sara Hvidsten, Vestre Aker",B,140
+45,110371,"Maria Botcharova Ellingsen, Bergen",B,140
+47,109594,"Nikol Hermansen, Bergen",B,138
+47,113435,"Dowon Kwak, OSI",B,138
+49,115842,"Ann-Kristin Mathisen Johnson, Norborg",B,136
+49,109420,"Trine Søraas Johannessen, Rissa",B,136
+49,103494,"Rikke Østhassel, Kristiansand",B,136
+52,104270,"Sofia Louis Macsali, Bergen",B,128
+52,107205,"Julie Langeland Risa, Sotra",B,128
+52,109545,"Nicoline Wærsten, Kristiansand",B,128
+52,109656,"Maja Morvik Kragholm, Kristiansand",B,128
+56,100113,"Gunn Fiskergaard, Ålesund",B,126
+57,104421,"Malin Andersson, Haugerud",B,124
 58,104490,"Dina Høl Bugge, Bergen",B,120
-60,109648,"Anine Halvorsen Egge, Grimstad",B,118
-60,113083,"Hannah Wong, Haugerud",B,118
-62,107205,"Julie Langeland Risa, Sotra",B,116
-63,100628,"Sissel W. Schmidt, Ålesund",B,114
-63,108741,"Linnea Nordnes Prestø, Herøy",B,114
-65,106696,"Ane Hofstad Lycke, NTNUI",B,112
-66,109789,"Trishna Shyam Chand, Trondheim",B,110
-67,111470,"Cecilie Welle Bay , Ålesund",B,108
-67,107950,"Eli Bente Just, Orkanger",B,108
-69,102606,"Helle Sofie Sagøy, Kristiansand",B,106
-70,100899,"Randi Ulla Nogva, Norborg",B,104
-70,113193,"Maaike Weerdesteyn, Vestre Aker",B,104
-72,107946,"Yngvild Buraas, OSI",B,102
-73,102468,"Marthe Skaug, Frogner",B,100
-73,102142,"Sara Hvidsten, Vestre Aker",B,100
-73,104936,"Silje V. Kruksve Aasland, Orkanger",B,100
-76,104925,"Anne Marthe Svensen, NTNUI",B,98
-77,101896,"Hildegunn Måøy, Kolvereid",B,96
-77,109656,"Maja Morvik Kragholm, Kristiansand",B,96
-77,116743,"Victoria, Hamar",B,96
-80,100643,"Bente Sotnes, Bærum",B,92
-81,100437,"Inger Margrethe Midtlid, Ålesund",B,90
-81,100871,"Marielle Sørby, Sandefjord",B,90
-81,109545,"Nicoline Wærsten, Kristiansand",B,90
-84,105219,"Mei Yang, Vestre Aker",B,88
-84,104998,"Ingrid Stene Olsen, Norborg",B,88
-86,107909,"Elise  Holmedal, BSI",B,86
-87,103445,"Lovise Krogsæter, Karmøy",B,84
-87,110882,"Yanhong Peng, Bærum",B,84
-87,116951,"Myleen Espineda, Lambertseter IF",B,84
-87,115688,"Milaniia Petrina, Klemetsrud",B,84
-91,113886,"Alice Løvås Walbom, Moss",B,82
-91,110335,"Anita Bui, OSI",B,82
-93,109680,"Nancy Hang, Haugerud",B,80
-94,110112,"Merete Ruud Tuskin, Moss",B,78
-94,115232,"Farleigh Eshawez, Lambertseter IF",B,78
-94,115881,"Eileen Linda Shamim, Djerv",B,78
-97,107054,"Julie Grande Ødegårdstuen, Oppegård IL",B,76
-98,105946,"Mariann Andreassen, BSI",B,74
-98,103012,"Anne Berit Bergsmo, Verdal",B,74
-98,116567,"Mille Kristine Bjelland, Sandefjord",B,74
-101,106632,"Elise Lærkerød Jelsness, Bygdø",B,72
-101,102532,"Tam Huynh, Sandefjord",B,72
-101,110418,"Tove Søraas, Rissa",B,72
-101,109555,"Thea Øyen Selsaas, Karmøy",B,72
-101,112224,"Ingrid Trøite, Trondheim",B,72
-106,111691,"Anna Oleyniksson, Djerv",B,71
-107,110178,"Anne Lie Foldnes, Sotra",B,68
-107,105188,"Tyra Friisenfeldt, Grong",B,68
-107,114209,"Katrine Aske, BSI",B,68
-110,110121,"Helene Ye, OSI",B,66
-110,111342,"Silje Lyngstad Skavhaug, Trondheim",B,66
-110,112770,"Sarah Zeyu Du, Asker",B,66
-113,112677,"Minelli Marrin Mervin, Strømmen",B,64
-113,111854,"Marte Eggen, Klæbu",B,64
-113,109550,"Kaisa Isabell Sandboe, Oppegård IL",B,64
-113,108930,"Hedda Berg Angell, Kristiansand",B,64
-113,106482,"Jenny Rajkumar, Sotra",B,64
-113,107917,"Line Klæbo, Bergen",B,64
-113,117187,"Thea Johanne Arnhoff Hagen, Strømmen",B,64
-113,115375,"Annejet Bos, Bergen",B,64
-121,107049,"Vivild Våbenø Berg, Klæbu",B,62
-121,104338,"Emilia Petersen Norberg, Sandefjord",B,62
-121,111795,"Pernille Lillevik, Nesna",B,62
-124,103803,"Merete Andreassen, Tromsø",B,60
-124,107996,"Charlotte Berntsen, Tromsø",B,60
-126,100830,"Charlotte Aase, Bærum",B,58
-126,111109,"Marte Aasen Jensen, Levanger",B,58
-128,112117,"Elisabeth Roos, Vestre Aker",B,56
-128,112331,"Darja Maria Abuzatoaie, Norborg",B,56
-128,109695,"Emilie Lie Cook, Haugerud",B,56
-128,110737,"Malathy Subramaniam, Strømmen",B,56
-128,102732,"Iris Hagen, Stavanger",B,56
-128,102476,"Andrea Løvold, Klæbu",B,56
-128,107885,"Eva Forsaa Åbotsvik, Tromsø",B,56
-128,116929,"Vivian Zhong, OSI",B,56
-128,114164,"Gülser Selin Kilinc, BSI",B,56
-128,115888,"Jianing Zuo, OSI",B,56
-138,113945,"Annika Liungman, Trondheim",B,52
-138,113777,"Stine Holm Bjørdal, Frogner",B,52
-138,113118,"Zhe Wu, Asker",B,52
-138,116863,"Phattaranan Pinthongkam, Tynset",B,52
-138,107566,"Viktoria Humlen, Ålesund",B,52
-138,102730,"Rikke Nagell Hansen, Stavanger",B,52
-138,101148,"Svenja Hodne, Karmøy",B,52
-138,109554,"Camilla Skrunes Sundt, Karmøy",B,52
-138,109421,"Astrid Lovise Pallesen , Stavanger",B,52
-147,114120,"Nicole Hofmann, Kvæfjord",B,50
-147,114461,"Hilde Røssland, Sotra",B,50
-147,115686,"Marte Vorum, Trondheim",B,50
-147,117545,"Nina Helene Kristoffersen, Vestre Aker",B,50
-151,115218,"Sofie Bjelke Samuelsen, Askøy",C,48
-151,106784,"Heidi Kristine Skree, Karmøy",C,48
-151,110797,"Saline Knip, Vestre Aker",C,48
-151,112683,"Giulia Dell'Acqua, Bergen",C,48
-151,103764,"Punyanuch Ampaijit, Tynset",C,48
-151,103574,"Kristin Thømt, Askim",C,48
-157,107134,"June  Bøhn, Kristiansand",C,46
-157,114664,"Chelseah Tulio, Frøya",C,46
-157,114941,"Kayzee Espineda, Lambertseter IF",C,46
+58,108927,"Celina Mi Le Thanh, OSI",B,120
+58,104998,"Ingrid Stene Olsen, Norborg",B,120
+61,100628,"Sissel W. Schmidt, Ålesund",B,118
+62,109705,"Akarija Anton Reginold, Sotra",B,116
+62,109789,"Trishna Shyam Chand, Trondheim",B,116
+62,115688,"Milaniia Petrina, Klemetsrud",B,116
+65,111257,"Ekaja Dubey, Stavanger",B,114
+65,104091,"Anne-Margrethe Ulla Staurset, Norborg",B,114
+67,103012,"Anne Berit Bergsmo, Verdal",B,112
+67,110112,"Merete Ruud Tuskin, Moss",B,112
+69,112770,"Sarah Zeyu Du, Asker",B,110
+70,100830,"Charlotte Aase, Bærum",B,108
+71,106221,"Marte Stokkaune, Trondheim",B,104
+71,112169,"Abiramy Kokilan, Strømmen",B,104
+71,113083,"Hannah Wong, Haugerud",B,104
+74,104925,"Anne Marthe Svensen, NTNUI",B,102
+75,100643,"Bente Sotnes, Bærum",B,100
+75,109212,"Heidi Hartmann, Norborg",B,100
+77,109695,"Emilie Lie Cook, Haugerud",B,96
+77,106220,"Camilla Stokkaune, Orkanger",B,96
+77,105219,"Mei Yang, Vestre Aker",B,96
+77,102924,"Kristina Andersen, Kristiansand",B,96
+81,114383,"Coline Bouchayer, Vestre Aker",B,94
+82,105946,"Mariann Andreassen, BSI",B,92
+82,107054,"Julie Grande Ødegårdstuen, Oppegård IL",B,92
+82,101262,"Hege Leirud, Frogner",B,92
+85,100003,"Helene Abusdal, Kristiansand",B,88
+86,100899,"Randi Ulla Nogva, Norborg",B,86
+86,114164,"Gülser Selin Kilinc, Djerv",B,86
+86,114209,"Katrine Aske, BSI",B,86
+89,100871,"Marielle Sørby, Sandefjord",B,84
+90,107917,"Line Klæbo, Bergen",B,82
+91,107206,"Katja Botcharova Ellingsen, Bergen",B,80
+91,104936,"Silje V. Kruksve Aasland, Orkanger",B,80
+91,109168,"Deepika Mital, Bærum",B,80
+91,112327,"Viola Jordalen, Bergen",B,80
+95,104414,"Lin Ma, Vestre Aker",B,76
+95,108761,"Victoria Zhang, OSI",B,76
+97,112224,"Ingrid Trøite, Trondheim",B,74
+97,115881,"Eileen Linda Shamim, Djerv",B,74
+99,115712,"Chinbe Weeratoon Svensson, Haugerud",B,72
+99,110418,"Tove Søraas, Rissa",B,72
+99,110737,"Malathy Subramaniam, Strømmen",B,72
+99,107566,"Viktoria Humlen, Ålesund",B,72
+103,114804,"Charu Pandey, Klemetsrud",B,70
+103,114206,"Agnieszka Krzysztoń, OSI",B,70
+103,117545,"Nina Helene Kristoffersen, Vestre Aker",B,70
+106,116743,"Victoria, Moss",B,68
+106,116951,"Myleen Espineda, Lambertseter IF",B,68
+106,115375,"Annejet Bos, Bergen",B,68
+106,108740,"Signe Lenning, Herøy",B,68
+110,108741,"Linnea Nordnes Prestø, Herøy",B,66
+110,111854,"Marte Eggen, Klæbu",B,66
+110,117187,"Thea Johanne Arnhoff Hagen, Strømmen",B,66
+113,106784,"Heidi Kristine Skree, Karmøy",B,64
+113,111691,"Anna Oleyniksson, Djerv",B,64
+113,111342,"Silje Lyngstad Skavhaug, Trondheim",B,64
+113,110882,"Yanhong Peng, Bærum",B,64
+113,104546,"Henny Lyfjell, Frogner",B,64
+113,107950,"Eli Bente Just, Orkanger",B,64
+113,117853,"Judith Reindl, Haugerud",B,64
+120,103991,"Julie Kristin Vatterholm, Verdal",B,62
+120,107049,"Vivild Våbenø Berg, Klæbu",B,62
+120,111795,"Pernille Lillevik, Nesna",B,62
+123,112405,"Ellen Berg Groos, Grimstad",B,60
+123,114494,"Mia Hegerstrøm Haugli, Moss",B,60
+123,113590,"Ingrid Teistung, Bergen",B,60
+123,101306,"Caroline Elisabeth Hem, Sandefjord",B,60
+127,114853,"Ida Lillevik Førde, Gullvikmoen",B,56
+127,109554,"Camilla Skrunes Sundt, Karmøy",B,56
+127,102476,"Andrea Løvold, Klæbu",B,56
+130,110121,"Helene Ye, OSI",B,54
+130,115888,"Jianing Zuo, OSI",B,54
+132,113777,"Stine Holm Bjørdal, Frogner",B,52
+132,114071,"Charlotte Humlen, Ålesund",B,52
+132,105606,"Ingrid Gåsbakk, NTNUI",B,52
+132,111597,"Rannveig Berg , Grong",B,52
+132,110686,"Linda Våbenø Berg, Klæbu",B,52
+132,101040,"Anne Gro Rikheim, Frogner",B,52
+132,110838,"Oline Langeland Risa, Sotra",B,52
+132,113759,"Sennova Lindland, Klemetsrud",B,52
+140,102732,"Iris Hagen, Stavanger",B,50
+140,103531,"Cecilie Li, Haugerud",B,50
+140,114461,"Hilde Røssland, Sotra",B,50
+140,115665,"Janna Alexa Rodriguez De Ocampo, Haugerud",B,50
+140,115218,"Sofie Bjelke Samuelsen, Askøy",B,50
+145,108986,"Siv Solum Buvik , Gullvikmoen",C,49
+146,110590,"Celine H Solvang Søvik, Norborg",C,48
+146,110377,"Alexandra Valentin, Ålesund",C,48
+146,110178,"Anne Lie Foldnes, Sotra",C,48
+146,112683,"Giulia Dell'Acqua, Bergen",C,48
+146,112117,"Elisabeth Roos, Vestre Aker",C,48
+146,103300,"Jenny Hervard, Bærum",C,48
+146,115232,"Svem Farleigh Eshawez, Lambertseter IF",C,48
+146,115027,"Maja Fagervoll, Flatås",C,48
+146,113505,"Mette Kruse, Harstad",C,48
+146,113706,"Martine Skjeltorp Nyborg, Strømmen",C,48
+146,102731,"Ingrid Øgreid, Harstad",C,48
 157,100553,"Jorunn Rasmussen, Grimstad",C,46
-161,114791,"Mari Jensen, Orkanger",C,44
-161,114162,"Mari H. Birkelund, Klemetsrud",C,44
-161,112811,"Hege Grønning, Rissa",C,44
-161,112376,"Christin Jeanette Hagen , Klæbu",C,44
-161,110590,"Celine H Solvang Søvik, Norborg",C,44
-166,110591,"Karen Uggedal Søvik, Norborg",C,42
-166,110686,"Linda Våbenø Berg, Klæbu",C,42
-166,100550,"Minh Nhu Thai, OSI",C,42
-169,110424,"Mia Henriksen, Norborg",C,41
-170,113026,"Susanne Gripsgård, NTNUI",C,40
-170,100003,"Helene Abusdal, Kristiansand",C,40
-170,104546,"Henny Lyfjell, Frogner",C,40
-170,114206,"Agnieszka Krzysztoń, OSI",C,40
-170,114643,"Kelly Josie Goodchild, Frøya",C,40
-170,105103,"Mette Skjævesland Pedersen, Bergen",C,40
-176,113065,"Julie Norberg, Sandefjord",C,38
-176,114853,"Ida Lillevik Førde, Gullvikmoen",C,38
-176,115044,"Pairin Surintham, Frøya",C,38
-176,104414,"Lin Ma, Vestre Aker",C,38
-176,101042,"Aina Anmarkrud, Frogner",C,38
-176,110377,"Alexandra Valentin, Ålesund",C,38
-176,109168,"Deepika Mital, Bærum",C,38
-183,112377,"Line Eldegard, Klæbu",C,36
-183,104762,"Ingrid-Marie Bruvold, Tromsø",C,36
-183,105595,"Elin Hansen, Herøy",C,36
-183,106447,"Tuva Bjørbekk, NTNUI",C,36
-183,115712,"Chinbe Weeratoon Svensson, Haugerud",C,36
-183,115767,"Vidya Gouli, Stovner",C,36
-183,114383,"Coline Bouchayer, Vestre Aker",C,36
-190,114224,"Shilpa Danve, Asker",C,34
-190,113168,"Mikaela Stordal, Moss",C,34
-190,113269,"Malin Sæther-Danielsen, Gullvikmoen",C,34
-190,113780,"Sasiga Logeswaran, Haugerud",C,34
-190,113972,"Marie Torsvik Loga, Sotra",C,34
-190,108986,"Siv Solum Buvik , Gullvikmoen",C,34
-196,110297,"Shuwen Yang, Trondheim",C,32
-196,111136,"Nora Haukdal Trøen, Rissa",C,32
-196,111257,"Ekaja Dubey, Stavanger",C,32
-196,108394,"Alda Karen Jònsdòttir, Sandefjord",C,32
-196,101510,"Anita Olsen, Verdal",C,32
-196,100921,"Synnøve Furholm, Ålesund",C,32
-196,114062,"Kamila Remizova, Ålesund",C,32
-196,115970,"Marianne Østenseth, Pillarguri",C,32
-196,116406,"Chloé Lescop, BSI",C,32
-196,111597,"Rannveig Berg , Grong",C,32
-196,116896,"Stephanie Wüstefeld, Grong",C,32
-196,116688,"Suying Ding, Askøy",C,32
-196,117076,"Parvathavardhini Soundararajan, Trondheim",C,32
-209,110817,"Mari Hildung, Tromsø",C,31
-210,116831,"Fabienne Good, Gullvikmoen",C,30
-211,113061,"Sofie Kold Hansen, Trondheim",C,28
-211,109922,"Marie A. Toverud, Sandefjord",C,28
-211,112123,"Ida Marie Thomassen Stiegler, Djerv",C,28
-211,111730,"Rajee Makesan, Stovner",C,28
-211,112570,"Lykke Elise Søvik, Norborg",C,28
-211,101040,"Anne Gro Rikheim, Frogner",C,28
-211,103300,"Jenny Hervard, Bærum",C,28
-218,103991,"Julie Kristin Vatterholm, Verdal",C,26
-218,109699,"Clémentine Le Moal, Flatås",C,26
-218,113590,"Ingrid Teistung, Bergen",C,26
-218,114351,"Sofie Larsen Witsø, Norborg",C,26
-218,115753,"Anastasiia Petrina, Klemetsrud",C,26
-218,116582,"Siying Wang, Bærum",C,26
-218,116525,"Synne Skreosen Dahl, NTNUI",C,26
-218,116540,"Cecilie Marie Berglund, Pillarguri",C,26
-218,117473,"Marie Vela-Mena, NTNUI",C,26
-218,101948,"Helene Håkonsen Søgaard, Bærum",C,26
-218,104857,"Lisa Olsen Berg, Bærum",C,26
+157,104857,"Lisa Olsen Berg, Bærum",C,46
+157,116929,"Vivian Zhong, OSI",C,46
+157,109699,"Clémentine Le Moal, Flatås",C,46
+161,106537,"Rowena Lindberg, Kolvereid",C,44
+161,116567,"Mille Kristine Bjelland, Sandefjord",C,44
+161,113269,"Malin Sæther-Danielsen, Gullvikmoen",C,44
+161,114063,"Cindy Suen, OSI",C,44
+161,114070,"Ruth Grimstad, Ålesund",C,44
+166,113270,"Maja Sæther-Danielsen, Gullvikmoen",C,42
+166,100373,"Hanna B. Kværnø, Grong",C,42
+166,112811,"Hege Grønning, Rissa",C,42
+169,114791,"Mari Jensen, Orkanger",C,41
+169,114958,"Aurora Kaspersen, Levanger",C,41
+171,114643,"Kelly Josie Goodchild, Frøya",C,40
+171,115288,"Sigrid Ringen Synnes, Vigra IL",C,40
+171,110424,"Mia Henriksen, Norborg",C,40
+171,105103,"Mette Skjævesland Pedersen, Bergen",C,40
+171,103101,"Frida Sotnes Hamang, Bærum",C,40
+176,116896,"Stephanie Wüstefeld, Grong",C,39
+177,114658,"Amelia Siemiatkowska, Frøya",C,38
+177,113065,"Julie Norberg, Sandefjord",C,38
+177,113975,"Justé Beinoriuté, Sotra",C,38
+177,109555,"Thea Øyen Selsaas, Karmøy",C,38
+177,112677,"Minelli Marrin Mervin, Strømmen",C,38
+177,111109,"Marte Aasen Jensen, Levanger",C,38
+177,111275,"Audrina Ammara Darmawan, Stavanger",C,38
+177,111136,"Nora Haukdal Trøen, Rissa",C,38
+177,105205,"Anne Berit Iversen, Flatås",C,38
+186,105595,"Elin Hansen, Herøy",C,36
+186,107909,"Elise  Holmedal, BSI",C,36
+186,107676,"Linn Duong, Haugesund",C,36
+186,110797,"Saline Knip, Vestre Aker",C,36
+186,114941,"Kayzee Espineda, Lambertseter IF",C,36
+186,106128,"Karina Elisabeth Andreassen, OSI",C,36
+186,103873,"Margarita Wcislo, Kolvereid",C,36
+193,115294,"Marthe Evjenth, Bodø",C,35
+193,116221,"Ane Fløttum, Klæbu",C,35
+195,115753,"Anastasiia Petrina, Klemetsrud",C,34
+195,113636,"Aina Kaspersen, Levanger",C,34
+195,114351,"Sofie Larsen Witsø, Norborg",C,34
+195,113972,"Marie Torsvik Loga, Sotra",C,34
+195,112694,"Angelina Sharma, Djerv",C,34
+195,106996,"Jenny Chen, Djerv",C,34
+201,114120,"Nicole Hofmann, Kvæfjord",C,33
+202,113118,"Zhe Wu, Asker",C,32
+202,117541,"Veronica Holmberg, NTNUI",C,32
+202,112570,"Lykke Elise Søvik, Norborg",C,32
+202,112331,"Darja Maria Abuzatoaie, Norborg",C,32
+202,111503,"Laura Zeying Du, Asker",C,32
+202,105188,"Tyra Friisenfeldt, Grong",C,32
+208,114790,"Emma Rasmussen-Wingan, Orkanger",C,31
+209,114062,"Kamila Remizova, Ålesund",C,30
+209,106447,"Tuva Bjørbekk, NTNUI",C,30
+209,110591,"Karen Uggedal Søvik, Norborg",C,30
+209,102167,"Malin Solberg, Grong",C,30
+209,118032,"Edit Lundström, OSI",C,30
+214,118033,"Viktorija Ivascenkova, Strømmen",C,28
+214,112349,"Line Rønningen Øien, Pillarguri",C,28
+214,113585,"Gladys Jude Lourderajan, Stovner",C,28
+214,117076,"Parvathavardhini Soundararajan, Trondheim",C,28
 218,108822,"Kashmira Joglekar, Haugerud",C,26
+218,116701,"Celina Shuja, Sangam",C,26
+218,101948,"Helene Håkonsen Søgaard, Bærum",C,26
+218,117473,"Marie Vela-Mena, NTNUI",C,26
+218,114931,"Janelyn Oliveros, Lambertseter IF",C,26
+218,114664,"Chelseah Tulio, Frøya",C,26
+218,116213,"Frida Thorsås, OSI",C,26
+218,111341,"Mathea Rødvik Iglebæk, Trondheim",C,26
+218,108636,"Hege Elisabeth Bakke, Rissa",C,26
+218,100550,"Minh Nhu Thai, OSI",C,26
+218,107134,"June  Bøhn, Kristiansand",C,26
+218,102730,"Rikke Nagell Hansen, Stavanger",C,26
 218,109706,"Arathija Anton Reginold, Sotra",C,26
-231,116299,"Lu Cao, Vestre Aker",C,24
-231,101306,"Caroline Elisabeth Hem, Sandefjord",C,24
-231,117750,"Filippa Nordkvist, Sverige",C,24
-231,117751,"Stina Connedal, Sverige",C,24
-231,114071,"Charlotte Humlen, Ålesund",C,24
-231,115288,"Sigrid Ringen Synnes, Vigra IL",C,24
-231,106128,"Karina Elisabeth Andreassen, OSI",C,24
-231,116557,"Xiaoyao Xia, Bærum",C,24
-231,114251,"Amelia Pawlowska, Imås IL",C,24
-231,114790,"Emma Rasmussen-Wingan, Orkanger",C,24
-231,113270,"Maja Sæther-Danielsen, Gullvikmoen",C,24
-231,109212,"Heidi Hartmann, Norborg",C,24
-231,110583,"Kristiane Rohde Hallager , Grong",C,24
-231,112405,"Ellen Berg Groos, Grimstad",C,24
-231,112265,"Thea Stie, Imås IL",C,24
-231,100373,"Hanna B. Kværnø, Grong",C,24
-247,111589,"Beverly Henriksen, Norborg",C,23
-247,111028,"Danalakshmi Gopal, Stovner",C,23
+231,116549,"Tone Auran, Klæbu",C,25
+232,116688,"Suying Ding, Askøy",C,24
+232,115044,"Pairin Surintham, Frøya",C,24
+232,115095,"Trine Lise Haugli, Moss",C,24
+232,115458,"Viktoria Hov Jensen, NTNUI",C,24
+232,113770,"Seema Mathew, Trondheim",C,24
+232,113780,"Sasiga Logeswaran, Haugerud",C,24
+232,113026,"Susanne Gripsgård, NTNUI",C,24
+232,102351,"Lone Storgaard, Frogner",C,24
+232,100947,"Toril Staldvik, Frogner",C,24
+232,103574,"Kristin Thømt, Askim",C,24
+232,108930,"Hedda Berg Angell, Kristiansand",C,24
+232,110297,"Shuwen Yang, Trondheim",C,24
+232,116299,"Lu Cao, Vestre Aker",C,24
+232,117750,"Filippa Nordkvist, Sverige",C,24
+232,117751,"Stina Connedal, Sverige",C,24
+247,105625,"Marte Loeng, Grong",C,23
+247,115462,"Astrid Sandnes Fagervoll, Flatås",C,23
 247,117130,"Kwanthida Poonsawat, Frøya",C,23
-250,116701,"Celina Shuja, Sangam",C,22
-250,115245,"Maja Lucy Panek, Askøy",C,22
+250,116444,"Heidi Cicilie Haarberg, Rissa",C,22
 250,117623,"Qingmin Ma, Djerv",C,22
 250,117624,"Weiping Mu, Djerv",C,22
-250,113585,"Gladys Jude Lourderajan, Stovner",C,22
-250,114310,"Sofie Holm, Trondheim",C,22
+250,117628,"Kathrine Ottesen, NTNUI",C,22
+250,115245,"Maja Lucy Panek, Askøy",C,22
 250,116000,"Thanida Suttirak, Sotra",C,22
-250,115665,"Janna Alexa Rodriguez De Ocampo, Haugerud",C,22
-250,115403,"Vera Alvhilde Vestergaard Grande, Trondheim",C,22
-250,111503,"Laura Zeying Du, Asker",C,22
-250,103662,"Siv Dyrkolbotn, Bergen",C,22
-250,105205,"Anne Berit Iversen, Flatås",C,22
-250,106445,"Tora Vik Langhammer, Bergen",C,22
-263,108309,"Ann Elin Digernes, Haugesund",C,21
-263,107676,"Linn Duong, Haugesund",C,21
-263,116784,"Anne Kari Vangen Bakken, Pillarguri",C,21
-266,116519,"Qihan Chen, NTNUI",C,20
-266,114494,"Mia Hegerstrøm Haugli, Moss",C,20
-266,112391,"Ulrikke Sørstrand, Kristiansand",C,20
-266,105606,"Ingrid Gåsbakk, NTNUI",C,20
-266,115443,"Henriette Otterlei, Norborg",C,20
-266,115981,"Nina Helen Amundsen, Trondheim",C,20
-266,113770,"Seema Mathew, Trondheim",C,20
-266,106909,"Nina Wang Korbu, Hamar",C,20
-266,106116,"Nora Uri Malterud, OSI",C,20
-266,112142,"Mary Diana Bastien, Stovner",C,20
-266,111926,"Milla Maevski , Oppegård IL",C,20
-266,110839,"Maja Fossbakken Knutseth, Klæbu",C,20
-266,109921,"Helene A. Toverud, Sandefjord",C,20
-266,102167,"Malin Solberg, Grong",C,20
-266,102451,"Marie Fiskum, Grong",C,20
-266,102924,"Kristina Andersen, Kristiansand",C,20
-282,116221,"Ane Fløttum, Klæbu",D,19
-283,115027,"Maja Fagervoll, Flatås",D,18
-283,115193,"Vishakha Giridhar, Klemetsrud",D,18
-283,115459,"Karen Johannesen, NTNUI",D,18
-283,115462,"Astrid Sandnes Fagervoll, Flatås",D,18
-283,114286,"Liv Merete Hammer, Frøya",D,18
-283,117628,"Kathrine Ottesen, NTNUI",D,18
-283,115227,"Sofie Fauskanger Hauso, Askøy",D,18
-283,114931,"Janelyn Oliveros, Lambertseter IF",D,18
-283,109368,"Thea Vatne, Imås IL",D,18
-283,109064,"Frida Bjørvik Løvheim, Sandefjord",D,18
-283,107955,"Laufey Maria Olafsdottir, Sandefjord",D,18
-283,116714,"Anna Tran, Haugerud",D,18
-295,116798,"Linn Berit Eiesar, Pillarguri",D,17
-295,116231,"Henrikke Emilie Kjøs Holli, Bygdø",D,17
-297,114771,"Anne Britt Sandvik, Frøya",D,16
-297,114958,"Aurora Kaspersen, Levanger",D,16
-297,114658,"Amelia Siemiatkowska, Frøya",D,16
-297,114063,"Cindy Suen, OSI",D,16
-297,111585,"Zuzana Hartmann, Norborg",D,16
-297,108081,"Marit Aspnes, Grong",D,16
-297,101412,"Anne Kathrine Wenaas Ribe, Sandefjord",D,16
-297,102033,"Charlotte Leinan, Tromsø",D,16
-297,105625,"Marte Loeng, Grong",D,16
-297,111275,"Audrina Ammara Darmawan, Stavanger",D,16
-297,117649,"Wenxuan Chen, OSI",D,16
-297,114070,"Ruth Grimstad, Ålesund",D,16
-309,109394,"Sara Bellesen, Sola",D,15
-309,117169,"Mette Sofie Tresselt, Ålesund",D,15
-311,116444,"Heidi Cicilie Haarberg, Rissa",D,14
-311,116584,"Sofia Wang, Bærum",D,14
-311,117541,"Veronica Holmberg, NTNUI",D,14
-311,112674,"Maja Sørgjerd, Herøy",D,14
-311,114293,"Trang Hong Thi Nguyen, Bærum",D,14
-311,109833,"Julie Albrektsen, Austevoll",D,14
-311,109834,"Astrid Salthella, Austevoll",D,14
-311,111250,"Nora Lindanger, Sola",D,14
-311,111341,"Mathea Rødvik Iglebæk, Trondheim",D,14
-311,112851,"Lina Bjørndal Westerlund, Orkanger",D,14
-311,112699,"Helena Misund Uggedal, Vigra IL",D,14
-311,100622,"Tove Falmår, Grong",D,14
-311,108636,"Hege Elisabeth Bakke, Rissa",D,14
-311,100947,"Toril Staldvik, Frogner",D,14
-325,116360,"Catrine Havre Økland, Sotra",D,13
-325,116549,"Tone Auran, Klæbu",D,13
-325,117077,"Gabriele Klijūnaitė, Karmøy",D,13
-325,116534,"Egle Dzerviene, Frøya",D,13
-329,117501,"Guusje van Broekhoven, Nesna",D,12
-329,102542,"Emilie Alm Aasmundrud, Tromsøstudentenes IL",D,12
-329,115947,"Irena Malaskauske, Frøya",D,12
-329,114660,"Viktoria Ventislavova Simova, Frøya",D,12
-329,113177,"Lena Gloppen, Sola",D,12
-329,113978,"Maham Sheikh, Sotra",D,12
-329,107116,"Linn Hepsøe, Tromsø",D,12
-329,100193,"Monica Halvorsen, Frogner",D,12
-329,112349,"Line Rønningen Øien, Pillarguri",D,12
-329,111864,"Julia Småvik, Klæbu",D,12
-329,111007,"Dorthe Lorvik, Herøy",D,12
-329,109371,"Norun R. Fosså, Imås IL",D,12
-329,110720,"Ragnhild Løvenskiold Grüner Husom, Trondheim",D,12
-329,100127,"Maren Formo, Grong",D,12
-329,116817,"Karla Formo Lund, Danmark",D,12
-329,102269,"Linn Lilian Stenrud, Frogner",D,12
-329,116416,"Reshma Susan, Sangam",D,12
-329,112143,"Sugirtha Jeiharan , Sangam",D,12
-329,113419,"Yashaswini Toka, Haugerud",D,12
-348,116616,"Una Vedøy, Karmøy",D,11
-348,117102,"Ragnhild Gloppen, Karmøy",D,11
-350,117216,"Lisa Enebakk, Rissa",D,10
-350,116586,"Brigita Baltrimaite, Klemetsrud",D,10
-350,117551,"Emma Callaert, NTNUI",D,10
-350,115802,"Sasila Sithamparanathan, Sangam",D,10
-350,113975,"Justé Beinoriuté, Sotra",D,10
-350,113636,"Aina Kaspersen, Levanger",D,10
-350,115980,"Dina Holst-Larsen, Moss",D,10
-350,116140,"Meriam Lund, Kolvereid",D,10
-350,115628,"Merete Fuglum, Grong",D,10
-350,109875,"Eline Ullereng Mamelund, Frogner",D,10
-350,111922,"Betzy Margrethe Parelius Wammer, Sandefjord",D,10
-350,112694,"Angelina Sharma, Djerv",D,10
-350,102351,"Lone Storgaard, Frogner",D,10
-350,100609,"Kristina Skauvik, Ålesund",D,10
-364,116287,"Mari Uleberg, Trondheim",D,9
-364,116232,"Augusta Nordheim Poulsen, Bygdø",D,9
-364,116280,"Nadin Hope, Klemetsrud",D,9
-364,117414,"Priyadarshini Geetha, Trondheim",D,9
-364,116617,"Anna-Karin Våge, Karmøy",D,9
-369,116630,"Cecilie Hildrum, Kolvereid",D,8
-369,117127,"Wanda Helen Berge, Frøya",D,8
-369,116952,"Bo wen, Bærum",D,8
-369,100610,"Monica Skauvik, Ålesund",D,8
-369,114282,"Ane Sjøgren-Erichsen, Klemetsrud",D,8
-369,116394,"Milla Björnström, Sverige",D,8
-369,115294,"Marthe Evjenth, Bodø",D,8
-369,113505,"Mette Kruse, Harstad",D,8
-369,114665,"Julia Wojtkowska, Frøya",D,8
-369,114156,"Amanda Ha Doan, Klemetsrud",D,8
-369,107438,"Emilie Haukebøe, Oppegård IL",D,8
-369,104828,"Vilde Morvik Ekerhovd, Sotra",D,8
-369,104582,"Anja Niemi, Tromsø",D,8
-369,113017,"Linn Lie Andersen, Stanghelle IL",D,8
-369,112605,"Elisabeth Hjellegjerde Skog, Sykkylven",D,8
-369,112204,"Rebekka Hesjedal, Stanghelle IL",D,8
-369,111667,"Ragnhild Maurstad Pettersen, Flatås",D,8
-369,111960,"Janne Berit Haukdal, Rissa",D,8
-369,109920,"Johanne Toverud, Sandefjord",D,8
-369,117744,"Ina Slungård Fundtaunet, Levanger",D,8
-369,113983,"Chen Huang, Strømmen",D,8
-369,117491,"Anette Stenvik, Orkanger",D,8
-369,104436,"Emma Søvik, NTNUI",D,8
-369,115722,"Frida Nguyen Phan, Haugerud",D,8
-369,111108,"Susanne Engseth, Rana",D,8
-369,117797,"Mekala Devi Brakasam, IL Skrim",D,8
-395,110969,"Sandra Wiik, Tromsø",D,7
-395,112735,"Anette Forsbakk Nordhøy , Grong",D,7
-395,107919,"Lone Hopstad, Karmøy",D,7
-395,116545,"Elea Magnussen, NTNUI",D,7
-395,116546,"Christina Marie Wiggen, NTNUI",D,7
-395,116826,"Ann-Karin Endresen, Herøy",D,7
-401,116902,"Jonah Nyeitera, Frøya",D,6
-401,117003,"Julie Murray, Skottland",D,6
-401,117011,"Emma Macleod, Skottland",D,6
-401,117012,"Jessica Macleod, Skottland",D,6
-401,117015,"Joanna MacLean, Skottland",D,6
-401,117016,"Catherine MacMillan, Skottland",D,6
-401,117201,"Mirjam Manous Kroon Stroomer, Pillarguri",D,6
-401,115808,"Prapakaran, Yalini, Sangam",D,6
-401,113660,"Nora Langen, Grong",D,6
-401,117408,"Julie Gråberg, Askøy",D,6
-401,115601,"Annelotte Storsul Sverdrup, Kolvereid",D,6
-401,117433,"Amalie Sofie Svensson, Danmark",D,6
-401,114804,"Charu Pandey, Klemetsrud",D,6
-401,113942,"Ida Marie Oxaas, Leksvik",D,6
-401,113500,"Wenche Blix, Austevoll",D,6
-401,115632,"Yalini Prapakaran, Sangam",D,6
-401,115337,"Ellen Sandbugt, Frøya",D,6
-401,115476,"Annalyn Santos Fiskerstrand, Ålesund",D,6
-401,115480,"Marina Karlsen, NTNUI",D,6
-401,116331,"Pamodini sutharsan, Sangam",D,6
-401,116213,"Frida Thorsås, OSI",D,6
-401,116172,"Sujenthini Kumar, Sangam",D,6
-401,107366,"Åse  Wallin, Sverige",D,6
-401,102163,"Anja Olsen, Bærum",D,6
-401,104649,"Monica Fuglesang, Bærum",D,6
-401,103924,"Ronja H. Thorstensen, Pillarguri",D,6
-401,103837,"Mirjam Finanger, Nesna",D,6
-401,106537,"Rowena Lindberg, Kolvereid",D,6
-401,112264,"Sylvia Husmo, Nesna",D,6
-401,112283,"Turid Gråberg, Askøy",D,6
-401,111116,"Hege Merethe Rølvåg, Nesna",D,6
-401,110029,"Hedda Mortvedt, Austevoll",D,6
-401,107753,"Helene Winger, Orkanger",D,6
-401,111865,"Thea Eldegard Andersen, Klæbu",D,6
-401,105367,"Thelma Lovise Flaat-Gåsbakk, Grong",D,6
-401,105435,"Matilde Furholm, Ålesund",D,6
-401,112303,"Malin Sandnes, Levanger",D,6
-401,107728,"Charlotte Svennevig Thuv, Imås IL",D,6
-401,109067,"Julie Marie Olsen, Sotra",D,6
-440,109889,"Lena Heldal, Askøy",D,5
-440,113056,"Bente Øyen Selsaas, Karmøy",D,5
-440,115729,"Mishiga Vallabhan, Trondheim",D,5
-440,117101,"Mette Vaaga, Karmøy",D,5
-440,117180,"Silje Haugen, Pillarguri",D,5
-440,117259,"Charlotte Lunde, Pillarguri",D,5
-440,117263,"Christina Larsen, Norborg",D,5
-440,116975,"Linda Dahl Moe, Herøy",D,5
-440,116861,"Wenjia Ma Stokken, Askøy",D,5
-449,116819,"Susann Dahle Standal, Ålesund",D,4
-449,117013,"Arlene Kerr, Skottland",D,4
-449,117004,"Volna Mackay, Skottland",D,4
-449,112649,"Thelma Thøgersen, Oppegård IL",D,4
-449,115979,"Marielle Pedersen Uttberg, Oppegård IL",D,4
-449,102023,"Irene Holen, Pillarguri",D,4
-449,102784,"Irene Pryhn, Pillarguri",D,4
-449,116599,"Ida Celine Knausgård, Kristiansand",D,4
-449,117174,"Kristin Lerånn, Orkanger",D,4
-449,114686,"Maria Vartdal, Vigra IL",D,4
-449,117434,"Emma Friis Poulsen, Danmark",D,4
-449,117443,"Mira Kørup, Danmark",D,4
-449,113795,"Mary Sophia Salvadhoor, Moss",D,4
-449,117399,"Mimi Tran-Nha Nguyen, Strømmen",D,4
-449,116446,"Bhavna Pathania, Strømmen",D,4
-449,113667,"Uma Praseeda, Trondheim",D,4
-449,114561,"Maja Gjemdal, Moss",D,4
-449,114213,"Emma Michelle Hanssen, Flatås",D,4
-449,116141,"Cora Mendoza Rossøy, Rørvik",D,4
-449,116022,"Britt Bohman, Karmøy",D,4
-449,115739,"Siyang Emily Ji, NTNUI",D,4
-449,115931,"Linnea Hamre, BSI",D,4
-449,115466,"Van Sui Cer, NTNUI",D,4
-449,115332,"Ida Nemeth-Bjørkli, Moss",D,4
-449,115458,"Viktoria Hov Jensen, NTNUI",D,4
-449,115095,"Trine Lise Haugli, Moss",D,4
-449,110847,"Vibeke Onarheim Vea, Rubbestadneset",D,4
-449,110469,"Helle Janitz, Moss",D,4
-449,109306,"Nandita Anil, Stavanger",D,4
-449,111135,"Stine Bakke, Tromsøstudentenes IL",D,4
-449,112017,"Kjersti Hestenes, Rubbestadneset",D,4
-449,112158,"Tanisha Naimish Doshi, Stavanger",D,4
-449,112974,"Yutong Feng, Stavanger",D,4
-449,107673,"Ingeborg Halvorsen, Haugesund",D,4
-449,111902,"Maria Jablonska, Norborg",D,4
-449,117125,"Marlen Thoresen Mikalsen, Herøy",D,4
-449,117668,"Beate Mari Pettersen, Herøy",D,4
-449,116511,"Jeanette Westerheim Lee, Haugesund",D,4
-449,116512,"Tilde Halle Brandsø, Haugesund",D,4
-449,117706,"Florence Pagsanjan Pabalan, Lambertseter IF",D,4
-449,100147,"Hilde Genberg, Dale",D,4
-449,117024,"Kirsti Moe, Gullvikmoen",D,4
-449,117092,"Maren Weglo, Gullvikmoen",D,4
-449,117836,"Udgået, Klemetsrud",D,4
-493,117636,"Ligia Feodorov, Ålesund",D,3
-493,107008,"Randi Rolvsjord, Askøy",D,3
-493,111363,"Kristine Heggøy , Haugesund",D,3
-493,115335,"Aud-Othilie Søreng Reppe, Frøya",D,3
-493,116137,"Beate Storsul, Kolvereid",D,3
-493,114029,"Ane Snustad-Grønskag, Trondheim",D,3
-493,115406,"Vilde Rødje Karlsen, Karmøy",D,3
-500,117505,"Christine Brinchmann, Moss",D,2
-500,117421,"Yuna Monaharova, Stavanger",D,2
-500,117512,"Solveig Bergin, Grong",D,2
-500,117285,"Margareth Eike, Haugesund",D,2
-500,102341,"Mona Helen Wangberg Simonsen, Rana",D,2
-500,102342,"Nina Skogseth, Rana",D,2
-500,117429,"Monica Wulff Skjeltorp, Strømmen",D,2
-500,117337,"Tiantian Zhu, Tromsø",D,2
-500,115463,"Kruthika Raghavan Subodh, Stavanger",D,2
-500,112809,"Alva Karoline Sandøy Bredrup, Nesna",D,2
-500,117533,"Elica Kjosmoen, Nesna",D,2
-500,105887,"Sanna Martine Øvstebø, NTNUI",D,2
-500,117384,"Niyah Anderson, BSI",D,2
-500,116389,"Mari Hjørungnes, Strømmen",D,2
-500,116973,"Randi-Kristine Tindslett Svendsen, Herøy",D,2
-500,116948,"Elisabeth Iversen, Tana",D,2
-500,114778,"Maria Rasool, Klemetsrud",D,2
-500,116173,"Silje Krissly Pettersen, Sangam",D,2
-500,116282,"Vasudha Toka, Haugerud",D,2
-500,116443,"Anita Merete Haarberg Sørensen, Rissa",D,2
-500,115336,"Inga-Lill Søreng Reppe, Frøya",D,2
-500,115562,"Bao Quynh Truong, Bærum",D,2
-500,115636,"Kirubalini Jeyamohan Moorthy, Sangam",D,2
-500,115713,"Sania Kamran, Haugerud",D,2
-500,115714,"Wania Kamran, Haugerud",D,2
-500,112105,"Kristoffer, Askøy",D,2
-500,110018,"Maurina Adriana, Sola",D,2
-500,110162,"Angelė Virketytė, Harstad",D,2
-500,110313,"Julia Opedal, BSI",D,2
-500,105383,"Cathrine Enoksen, Grong",D,2
-500,104396,"Shaomeng Li, Haugerud",D,2
-500,108105,"Irene Lillestøl Duinker, Askøy",D,2
-500,107621,"Hildegunn Waage, Haugesund",D,2
-500,107299,"Angelica  Brovold, Hammerfest",D,2
-500,117637,"Michaela Rosmo-Rivas, Vestre Aker",D,2
-500,117638,"Nora Brodin, Vestre Aker",D,2
-500,115607,"Solvor Jansen, Karmøy",D,2
-500,117588,"Matilda Oculy, BSI",D,2
-500,117651,"Novey Marie Labesores, Lambertseter IF",D,2
-500,117779,"Savitha Podalona Narayana, Trondheim",D,2
-500,117067,"Aria Masuk, Stovner",D,2
-500,117792,"Gabriela Avda, Stovner",D,2
-500,114277,"Kavitha Radhakrishnan, Trondheim",D,2
-500,115102,"Sara Engan, Orkanger",D,2
-544,117138,"Giedre Isganaityte, Flatås",D,1
-544,117023,"Ida Kvaale, Gullvikmoen",D,1
-544,117681,"Lisa Holberg Olsen, Gullvikmoen",D,1
-544,117816,"Julie Bergin, Grong",D,1
-544,113731,"Sruthi Krishnan, Asker",D,1
-544,116650,"Makhashree Chellakannan, Asker",D,1
-544,117568,"Nina Myrum, Pillarguri",D,1
-544,117585,"Camilla Fredheim, BSI",D,1
-544,117711,"Ingvild Skaar, Sotra",D,1
-544,117716,"Milia Baldacchino, BSI",D,1
-544,106618,"Ngamata Pedersen, Tana",D,1
-544,110226,"Magnhild Stokka, Haugesund",D,1
-544,112736,"Eira Heia , Grong",D,1
-544,113037,"Violetta Roskova, Tana",D,1
-544,115500,"Anjali Kumari, Stovner",D,1
-544,116428,"Mari Kristine Bernhardsen, Frøya",D,1
-544,116301,"Raya Mariyanova Miteva, Frøya",D,1
-544,114311,"Maria Magdalena Cekiera, Klemetsrud",D,1
-544,114091,"Malin Søviknes Fotland, Askøy",D,1
-544,114092,"Maria Lillestøl Duinker, Askøy",D,1
-544,113680,"Olivia Einarsen Fiskum, Grong",D,1
-544,116898,"Elisabeth Fjeldheim Riise, Haugesund",D,1
-544,116682,"Marita Fauske, Askøy",D,1
-544,117025,"Olea Moe Bergin, Grong",D,1
-544,117083,"Amphil mueller, Rørvik",D,1
-544,117085,"Bjørg Hauge Sund, Haugesund",D,1
-544,117086,"Chi Thuy Le, Haugesund",D,1
-544,116421,"Jingle Ballery Mae Tubal, Tromsøstudentenes IL",D,1
-544,117335,"Elise Oberle, Frøya",D,1
-544,117179,"Gunhild Aasgaard Ottosen, Pillarguri",D,1
-544,117146,"Astrid Oberle, Ålesund",D,1
-544,116897,"Ingrid Ersland Undheim, Fitjar",D,1
-544,113996,"Eldrid Fitjar, Fitjar",D,1
-544,117239,"Andrea Gjendem, Moss",D,1
-544,117497,"Dina Raminta Larsen, Moss",D,1
-544,116983,"Anique Driessen, Tromsøstudentenes IL",D,1
-544,116985,"Tiril Lappegård, Tromsøstudentenes IL",D,1
-544,116988,"Hannah Steen, Tromsøstudentenes IL",D,1
-582,116781,"Caroline Vang Kristensen, Haugerud",,0
-582,116564,"Seema Stalin, Bærum",,0
-582,116723,"Ashara Taavi Rayhana Lay, Sola",,0
-582,116726,"Napatsorn Emwat, Sola",,0
-582,116468,"Joséphine Carolina Balbontin, Bygdø",,0
-582,116495,"Clémence Haas, NTNUI",,0
-582,116523,"Nina Juul Nielsen, NTNUI",,0
-582,116524,"Emilie Frederikke Hansen, NTNUI",,0
-582,116635,"Ina Nguyen, BSI",,0
-582,116676,"Thanh Thanh Tran Vo, Frøya",,0
-582,113959,"Amalie Teigen, Rissa",,0
-582,113971,"Christine Torsvik Loga, Sotra",,0
-582,114214,"Kaya Marielle Nicolaysen-Hanssen, Flatås",,0
-582,114125,"Therese Hovland Børgesen, Haugesund",,0
-582,114126,"Thea-Sofie Lønning Eikemo, Haugesund",,0
-582,114579,"Sigrid Jonette Varga, Ålesund",,0
-582,115519,"Irene Sætre, Stanghelle IL",,0
-582,115545,"Anita Løvheim, Sandefjord",,0
-582,115622,"Halle Samuel, Strømmen",,0
-582,115425,"Josefine Bergseth, Bygdø",,0
-582,115426,"Sandra Klonteig, Bygdø",,0
-582,115120,"Wei Hong, Bærum",,0
-582,115250,"Tenzin Ingsey, Dale",,0
-582,113018,"Solbjørg Langhelle, Stanghelle IL",,0
-582,113016,"Malin Fossen Genberg, Dale",,0
-582,112714,"Hong-Thien Nguyen Phatak, Sandefjord",,0
-582,112925,"Jannike Wefring, Stanghelle IL",,0
-582,112287,"Anna Liv Kretz, Stavanger",,0
-582,112280,"Synne Ruud-Larsen, Stavanger",,0
-582,112550,"Praapthi Rao, Stavanger",,0
-582,112002,"Cecilie Mikkelsen, Askøy",,0
-582,111451,"Andrea Nygård, Asker",,0
-582,111333,"Christin Wefring, Stanghelle IL",,0
-582,110899,"Rahaf Alothman, Asker",,0
-582,110005,"Silje Seem, Grong",,0
-582,110566,"Tonje Midttun, Karmøy",,0
-582,110401,"Renate Haug Lien, Bodø",,0
-582,109108,"Eva Dobreva, Stavanger",,0
-582,108995,"Mathilde Vik Myking, BSI",,0
-582,108856,"Silje Andrea Rohde , Grong",,0
-582,109768,"Anita Aasebø, Austevoll",,0
-582,109467,"Leonie Johann, Bodø",,0
-582,106006,"Margrethe Schrøder-Nielsen, Sola",,0
-582,104270,"Sofia Louis Macsali, Bergen",,0
-582,103355,"Mari Lindsetmo, Grong",,0
-582,103416,"Frida Prestø, Herøy",,0
-582,107130,"Marie  Mørk, Kristiansand",,0
-582,100998,"Barbro Johnsen, Herøy",,0
-582,100943,"Linn Aasland, Leksvik",,0
-582,102960,"Irina Benedicte Eklund, Nøtterøy",,0
-582,102987,"Stine Andersen, Moss",,0
-582,102066,"Ingunn Vie Skare, Bergen",,0
-582,101908,"Anna W. Nedrehegg, Stord",,0
-582,108350,"Linnea Cecilie Sørlie, Frogner",,0
-582,108060,"Kamilla Bakke Foss, Rissa",,0
+250,107946,"Yngvild Buraas, OSI",C,22
+250,111108,"Susanne Engseth, Rana",C,22
+258,116231,"Henrikke Emilie Kjøs Holli, Bygdø",C,21
+258,117408,"Julie Gråberg, Askøy",C,21
+260,112391,"Ulrikke Sørstrand, Kristiansand",C,20
+260,114686,"Maria Vartdal, Vigra IL",C,20
+260,116525,"Synne Skreosen Dahl, NTNUI",C,20
+260,116902,"Jonah Nyeitera, Frøya",C,20
+260,115767,"Vidya Gouli, Stovner",C,20
+260,114286,"Liv Merete Hammer, Frøya",C,20
+260,104649,"Monica Fuglesang, Bærum",C,20
+260,111589,"Beverly Henriksen, Norborg",C,20
+260,112142,"Mary Diana Bastien, Stovner",C,20
+260,102451,"Marie Fiskum, Grong",C,20
+260,115722,"Frida Nguyen Phan, Haugerud",C,20
+260,116410,"Evita Gedgaudaite, Klemetsrud",C,20
+272,112376,"Christin Jeanette Hagen , Klæbu",D,19
+272,117169,"Mette Sofie Tresselt, Ålesund",D,19
+272,117501,"Guusje van Broekhoven, Nesna",D,19
+272,116985,"Tiril Lappegård, Tromsøstudentenes IL",D,19
+276,115601,"Annelotte Storsul Sverdrup, Kolvereid",D,18
+276,115227,"Sofie Fauskanger Hauso, Askøy",D,18
+276,111585,"Zuzana Hartmann, Norborg",D,18
+276,116630,"Cecilia Bardaje, Kolvereid",D,18
+276,116831,"Fabienne Good, Gullvikmoen",D,18
+276,115686,"Marte Vorum, Trondheim",D,18
+276,111864,"Julia Småvik, Klæbu",D,18
+276,109368,"Thea Vatne, Imås IL",D,18
+276,106445,"Tora Vik Langhammer, Bergen",D,18
+276,116714,"Anna Tran, Haugerud",D,18
+276,111865,"Thea Eldegard Andersen, Klæbu",D,18
+287,116140,"Meriam Lund, Kolvereid",D,17
+288,113978,"Maham Sheikh, Sotra",D,16
+288,116519,"Qihan Chen, NTNUI",D,16
+288,109833,"Julie Albrektsen, Austevoll",D,16
+288,109834,"Astrid Salthella, Austevoll",D,16
+288,117649,"Wenxuan Chen, OSI",D,16
+288,113419,"Yashaswini Toka, Haugerud",D,16
+288,117744,"Ina Slungård Fundtaunet, Levanger",D,16
+288,115844,"Julie Seem, Hadsel",D,16
+288,118247,"Elin Genberger, Sverige",D,16
+288,118248,"Agnes Johnsson, Sverige",D,16
+298,109394,"Sara Bellesen, Sola",D,15
+298,111250,"Nora Lindanger, Sola",D,15
+298,108309,"Ann Elin Digernes, Haugesund",D,15
+298,116534,"Egle Dzerviene, Frøya",D,15
+298,117127,"Wanda Helen Berge, Frøya",D,15
+303,114282,"Ane Sjøgren-Erichsen, Klemetsrud",D,14
+303,117491,"Anette Stenvik, Orkanger",D,14
+303,102341,"Mona Helen Wangberg Simonsen, Rana",D,14
+303,116421,"Jingle Ballery Mae Tubal, Tromsøstudentenes IL",D,14
+303,102542,"Emilie Alm Aasmundrud, Tromsø",D,14
+303,116983,"Anique Driessen, Tromsøstudentenes IL",D,14
+303,101042,"Aina Anmarkrud, Frogner",D,14
+303,100921,"Synnøve Furholm, Ålesund",D,14
+303,110335,"Anita Bui, OSI",D,14
+303,102092,"Sunniva Sørensen, Verdal",D,14
+313,117077,"Gabriele Klijūnaitė, Karmøy",D,13
+313,116360,"Catrine Havre Økland, Sotra",D,13
+315,115947,"Irena Malaskauske, Frøya",D,12
+315,115628,"Merete Fuglum, Grong",D,12
+315,115443,"Henriette Otterlei, Norborg",D,12
+315,114660,"Viktoria Ventislavova Simova, Frøya",D,12
+315,117216,"Lisa Enebakk, Rissa",D,12
+315,112265,"Thea Stie, Imås IL",D,12
+315,112699,"Helena Misund Uggedal, Vigra IL",D,12
+315,112674,"Maja Sørgjerd, Herøy",D,12
+315,112735,"Anette Forsbakk Nordhøy , Grong",D,12
+315,102163,"Anja Olsen, Bærum",D,12
+315,102532,"Tam Huynh, Sandefjord",D,12
+315,103924,"Ronja H. Thorstensen, Pillarguri",D,12
+315,103445,"Lovise Krogsæter, Karmøy",D,12
+315,114350,"Clara Løvøy, Norborg",D,12
+315,114832,"Ingeborg Tømmerås Skorstad, Grong",D,12
+315,111544,"Vivi Thi Pham, NTNUI",D,12
+315,117860,"Anna Elise Haraldsø, Kolvereid",D,12
+315,102269,"Linn Lilian Stenrud, Frogner",D,12
+315,112143,"Sugirtha Jeiharan , Sangam",D,12
+315,112303,"Malin Sandnes, Levanger",D,12
+315,116416,"Reshma Susan, Sangam",D,12
+315,100147,"Hilde Genberg, Dale",D,12
+315,117797,"Mekala Devi Brakasam, IL Skrim",D,12
+315,100127,"Maren Formo, Grong",D,12
+315,116817,"Karla Formo Lund, Danmark",D,12
+340,117384,"Niyah Anderson, BSI",D,11
+340,117125,"Marlen Thoresen Mikalsen, Herøy",D,11
+340,117668,"Beate Mari Pettersen, Herøy",D,11
+340,117335,"Elise Oberle, Frøya",D,11
+340,113177,"Lena Gloppen, Sola",D,11
+345,113017,"Linn Lie Andersen, Stanghelle IL",D,10
+345,115970,"Marianne Østenseth, Pillarguri",D,10
+345,102342,"Nina Skogseth, Rana",D,10
+345,117414,"Priyadarshini Geetha, Trondheim",D,10
+345,117551,"Emma Callaert, NTNUI",D,10
+345,102023,"Irene Holen, Pillarguri",D,10
+345,113660,"Nora Langen, Grong",D,10
+345,115802,"Sasila Sithamparanathan, Sangam",D,10
+345,117102,"Ragnhild Gloppen, Karmøy",D,10
+345,100622,"Tove Falmår, Grong",D,10
+345,112204,"Rebekka Hesjedal, Stanghelle IL",D,10
+345,112377,"Line Eldegard, Klæbu",D,10
+345,111028,"Danalakshmi Gopal, Stovner",D,10
+345,111960,"Janne Berit Haukdal, Rissa",D,10
+345,110839,"Maja Fossbakken Knutseth, Klæbu",D,10
+345,116511,"Jeanette Westerheim Lee, Haugesund",D,10
+345,116512,"Tilde Halle Brandsø, Haugesund",D,10
+345,100609,"Kristina Skauvik, Ålesund",D,10
+363,116784,"Anne Kari Vangen Bakken, Pillarguri",D,9
+363,116586,"Brigita Baltrimaite, Klemetsrud",D,9
+363,116616,"Una Vedøy, Karmøy",D,9
+363,116232,"Augusta Nordheim Poulsen, Bygdø",D,9
+363,115193,"Vishakha Giridhar, Klemetsrud",D,9
+368,116141,"Cora Mendoza Rossøy, Rørvik",D,8
+368,113016,"Malin Fossen Genberg, Dale",D,8
+368,114771,"Anne Britt Sandvik, Frøya",D,8
+368,114224,"Shilpa Danve, Asker",D,8
+368,114156,"Amanda Ha Doan, Klemetsrud",D,8
+368,116582,"Siying Wang, Bærum",D,8
+368,100610,"Monica Skauvik, Ålesund",D,8
+368,117174,"Kristin Lerånn, Orkanger",D,8
+368,111667,"Ragnhild Maurstad Pettersen, Flatås",D,8
+368,112851,"Lina Bjørndal Westerlund, Orkanger",D,8
+368,104828,"Vilde Morvik Ekerhovd, Sotra",D,8
+368,108081,"Marit Aspnes, Grong",D,8
+368,111902,"Maria Jablonska, NTNUI",D,8
+368,113983,"Chen Huang, Strømmen",D,8
+368,117706,"Florence Pagsanjan Pabalan, Lambertseter IF",D,8
+368,104436,"Emma Søvik, NTNUI",D,8
+368,117092,"Maren Weglo, Gullvikmoen",D,8
+368,101610,"Lotte Moe, Herøy",D,8
+368,117781,"Aino Eva Woldstad, Vestre Aker",D,8
+368,118045,"Laura Bojarskaite, Ullevål",D,8
+368,118272,"Amilia Mared, Sverige",D,8
+368,118273,"Rut Wesser, Sverige",D,8
+368,114334,"Ina Maria Skogmo Bjørhusdahl, Grong",D,8
+368,117404,"Silje Holvik, Moss",D,8
+392,114359,"May Lyngvær, Kirkenes",D,7
+392,117024,"Kirsti Moe, Gullvikmoen",D,7
+392,117636,"Ligia Feodorov, Ålesund",D,7
+392,117533,"Elica Kjosmoen, Nesna",D,7
+392,116584,"Sofia Wang, Asker",D,7
+392,116545,"Elea Magnussen, NTNUI",D,7
+392,116546,"Christina Marie Wiggen, NTNUI",D,7
+392,116617,"Anna-Karin Våge, Karmøy",D,7
+392,117263,"Christina Larsen, Norborg",D,7
+392,116287,"Mari Uleberg, Trondheim",D,7
+402,114310,"Sofie Holm, Trondheim",D,6
+402,117201,"Mirjam Manous Kroon Stroomer, Pillarguri",D,6
+402,116826,"Ann-Karin Endresen, Herøy",D,6
+402,117015,"Joanna MacLean, Skottland",D,6
+402,117016,"Catherine MacMillan, Skottland",D,6
+402,117003,"Julie Murray, Skottland",D,6
+402,117011,"Emma Macleod, Skottland",D,6
+402,117012,"Jessica Macleod, Skottland",D,6
+402,116406,"Chloé Lescop, BSI",D,6
+402,115808,"Prapakaran, Yalini, Sangam",D,6
+402,115729,"Mishiga Vallabhan, Trondheim",D,6
+402,117433,"Amalie Sofie Svensson, Danmark",D,6
+402,117337,"Tiantian Zhu, Tromsø",D,6
+402,108105,"Irene Lillestøl Duinker, Askøy",D,6
+402,107919,"Lone Hopstad, Karmøy",D,6
+402,101412,"Anne Kathrine Wenaas Ribe, Sandefjord",D,6
+402,107008,"Randi Rolvsjord, Askøy",D,6
+402,111470,"Cecilie Welle Bay , Ålesund",D,6
+402,112123,"Ida Marie Thomassen Stiegler, Djerv",D,6
+402,109067,"Julie Marie Olsen, Sotra",D,6
+402,107728,"Charlotte Svennevig Thuv, Imås IL",D,6
+402,107753,"Helene Winger, Orkanger",D,6
+402,105367,"Thelma Lovise Flaat-Gåsbakk, Grong",D,6
+402,105435,"Matilde Furholm, Ålesund",D,6
+402,117855,"Nina Trettøy, Pillarguri",D,6
+402,117857,"Amalie Josten, Pillarguri",D,6
+402,100158,"Britt Grindland, Grimstad",D,6
+402,116661,"Pirathiha Packiyalingam, Stovner",D,6
+402,117538,"Lisa Yu, NTNUI",D,6
+402,113691,"Lisa Svedberg, Sverige",D,6
+402,114869,"Nova Jonsson, Sverige",D,6
+402,103949,"Tonje Løslett, Frogner",D,6
+434,117977,"Eva Christin Leikanger Indrestrand, Levanger",D,5
+434,117979,"Anne Lise Gran, Levanger",D,5
+434,112947,"Gry Merete Langsjøvold, Hamar",D,5
+434,117585,"Camilla Fredheim, BSI",D,5
+434,115979,"Marielle Pedersen Uttberg, Oppegård IL",D,5
+434,116798,"Linn Berit Eiesar, Pillarguri",D,5
+434,117259,"Charlotte Lunde, Pillarguri",D,5
+434,117180,"Silje Haugen, Pillarguri",D,5
+434,112649,"Thelma Thøgersen, Oppegård IL",D,5
+434,113667,"Uma Praseeda, Trondheim",D,5
+444,113680,"Olivia Einarsen Fiskum, Grong",D,4
+444,115632,"Yalini Prapakaran, Sangam",D,4
+444,117013,"Arlene Kerr, Skottland",D,4
+444,117004,"Volna Mackay, Skottland",D,4
+444,116952,"Bo wen, Bærum",D,4
+444,116973,"Randi-Kristine Tindslett Svendsen, Herøy",D,4
+444,116861,"Wenjia Ma Stokken, Askøy",D,4
+444,116446,"Bhavna Pathania, Strømmen",D,4
+444,117399,"Mimi Tran-Nha Nguyen, Strømmen",D,4
+444,113795,"Mary Sophia Salvadhoor, Moss",D,4
+444,117434,"Emma Friis Poulsen, Danmark",D,4
+444,117443,"Mira Kørup, Danmark",D,4
+444,117512,"Solveig Bergin, Grong",D,4
+444,102784,"Irene Pryhn, Pillarguri",D,4
+444,116599,"Ida Celine Knausgård, Kristiansand",D,4
+444,110969,"Sandra Wiik, Tromsø",D,4
+444,111135,"Stine Bakke, Tromsøstudentenes IL",D,4
+444,112736,"Eira Heia , Grong",D,4
+444,112283,"Turid Gråberg, Askøy",D,4
+444,112158,"Tanisha Naimish Doshi, Stavanger",D,4
+444,112264,"Sylvia Husmo, Nesna",D,4
+444,110817,"Mari Hildung, Tromsø",D,4
+444,109889,"Lena Heldal, Askøy",D,4
+444,109306,"Nandita Anil, Stavanger",D,4
+444,104762,"Ingrid-Marie Bruvold, Tromsø",D,4
+444,103662,"Siv Dyrkolbotn, Bergen",D,4
+444,107116,"Linn Hepsøe, Tromsø",D,4
+444,117637,"Michaela Rosmo-Rivas, Vestre Aker",D,4
+444,117638,"Nora Brodin, Vestre Aker",D,4
+444,114299,"Gabriella Sygard Johnsgård, Pillarguri",D,4
+444,117587,"Nina Holter, Frogner",D,4
+444,107429,"Henriette  Ellingsen, Tromsø",D,4
+444,115149,"Sofia Pylnenko, Hammerfest",D,4
+444,116197,"Jenica Sibayan, Kirkenes",D,4
+444,117836,"Udgået, Klemetsrud",D,4
+444,115730,"Samyukktha Sathyanarayanan, Haugerud",D,4
+444,117566,"Maya Gupta Jacobsen, Vestre Aker",D,4
+444,118039,"Camilla F. Busch, Rørvik",D,4
+444,117152,"Emilia Brandsdal, Frogner",D,4
+444,118043,"Maria Jankowska, Frogner",D,4
+444,117958,"Ying Xue, Tromsø",D,4
+444,118006,"Leona Mihaljovic-Kolcic, Moss",D,4
+444,114802,"Emma Nhat-Anh Nguyen, Bærum",D,4
+444,115618,"Johanne Mork Støre, Bærum",D,4
+444,118212,"Anna Kolinsky--Clomes, Sola",D,4
+444,118217,"Hannah Huahong Wang, Askim",D,4
+444,117422,"Yiwei Xu, Sola",D,4
+444,113611,"Caroline Brovold, Hammerfest",D,4
+444,117526,"Mariia Fedenko, Vestre Aker",D,4
+444,118375,"Sakura Rancy Harshani Attanayake, Vestre Aker",D,4
+494,117515,"Jazmin Ballerts, Rørvik",D,3
+494,117883,"Hedda Fiske-Nygaard, Hammerfest",D,3
+494,116069,"May-Britt Skar, Hamar",D,3
+494,117023,"Ida Kvaale, Gullvikmoen",D,3
+494,117138,"Giedre Isganaityte, Flatås",D,3
+494,117588,"Matilda Oculy, BSI",D,3
+494,107673,"Ingeborg Halvorsen, Haugesund",D,3
+494,109768,"Anita Aasebø, Austevoll",D,3
+494,111363,"Kristine Heggøy , Haugesund",D,3
+494,115406,"Vilde Rødje Karlsen, Karmøy",D,3
+494,116819,"Susann Dahle Standal, Ålesund",D,3
+494,116975,"Linda Dahl Moe, Herøy",D,3
+494,117101,"Mette Vaaga, Karmøy",D,3
+494,116022,"Britt Bohman, Karmøy",D,3
+494,114029,"Ane Snustad-Grønskag, Trondheim",D,3
+494,113056,"Bente Øyen Selsaas, Karmøy",D,3
+494,113500,"Wenche Blix, Austevoll",D,3
+511,114665,"Julia Wojtkowska, Frøya",D,2
+511,116172,"Sujenthini Kumar, Sangam",D,2
+511,116173,"Silje Krissly Pettersen, Sangam",D,2
+511,116394,"Milla Björnström, Sverige",D,2
+511,116280,"Nadin Hope, Klemetsrud",D,2
+511,116282,"Vasudha Toka, Haugerud",D,2
+511,115931,"Linnea Hamre, BSI",D,2
+511,115713,"Sania Kamran, Haugerud",D,2
+511,115714,"Wania Kamran, Haugerud",D,2
+511,115337,"Ellen Sandbugt, Frøya",D,2
+511,115403,"Vera Alvhilde Vestergaard Grande, Trondheim",D,2
+511,116948,"Elisabeth Iversen, Tana",D,2
+511,116331,"Pamodini sutharsan, Sangam",D,2
+511,116443,"Anita Merete Haarberg Sørensen, Rissa",D,2
+511,117285,"Margareth Eike, Haugesund",D,2
+511,117421,"Yuna Monaharova, Stavanger",D,2
+511,117505,"Christine Brinchmann, Moss",D,2
+511,115463,"Kruthika Raghavan Subodh, Stavanger",D,2
+511,117429,"Monica Wulff Skjeltorp, Strømmen",D,2
+511,116389,"Mari Hjørungnes, Strømmen",D,2
+511,117568,"Nina Myrum, Pillarguri",D,2
+511,105887,"Sanna Martine Øvstebø, NTNUI",D,2
+511,112809,"Alva Karoline Sandøy Bredrup, Nesna",D,2
+511,110313,"Julia Opedal, BSI",D,2
+511,110583,"Kristiane Rohde Hallager , Grong",D,2
+511,107299,"Angelica  Brovold, Hammerfest",D,2
+511,102033,"Charlotte Leinan, Tromsø",D,2
+511,104396,"Shaomeng Li, Haugerud",D,2
+511,117651,"Novey Marie Labesores, Lambertseter IF",D,2
+511,115607,"Solvor Jansen, Karmøy",D,2
+511,117779,"Savitha Podalona Narayana, Trondheim",D,2
+511,117067,"Aria Masuk, Stovner",D,2
+511,117792,"Gabriela Avda, Stovner",D,2
+511,117711,"Ingvild Skaar, Sotra",D,2
+511,114277,"Kavitha Radhakrishnan, Trondheim",D,2
+511,115102,"Sara Engan, Orkanger",D,2
+511,115109,"Celeste Olsen, Hammerfest",D,2
+511,113861,"Angelin Ravi, Båtsfjord",D,2
+511,100198,"Aud Rita Pettersen, Herøy",D,2
+511,100612,"Anne Skien, Moss",D,2
+511,107712,"Silje Andrea  Rohde, Grong",D,2
+511,118038,"Nore Sklett, Grong",D,2
+511,117580,"Yuwen He, Vestre Aker",D,2
+511,116002,"Amelie Neuville, Vestre Aker",D,2
+511,117886,"Mari Toen Nese, Tromsøstudentenes IL",D,2
+511,117909,"Lucie Rosset, Tromsøstudentenes IL",D,2
+511,117731,"Gry Tveten Aune, Verdal",D,2
+511,117963,"Hilde Mari Musum, Verdal",D,2
+511,118327,"Kamilla Weka, Hammerfest",D,2
+511,117777,"Kaia Vathra, Orkanger",D,2
+511,118236,"Annaliza Sambile, Trondheim",D,2
+511,118358,"Susanne Røed, Hamar",D,2
+511,115140,"Anika Hofmann, Kvæfjord",D,2
+511,117891,"Elvira Sørensen, Bodø",D,2
+565,116924,"Irma Wiesener, Vestre Aker",D,1
+565,117229,"Eva Maria Lange Skirbekk, Vestre Aker",D,1
+565,118194,"Sumathi Sudha, Mortensrud-Aker",D,1
+565,118197,"Madhavi Kaveripakam, Mortensrud-Aker",D,1
+565,118037,"Cesilie Jacobsen, Levanger",D,1
+565,118134,"Breeyana repunte, Rørvik",D,1
+565,118286,"Shiny Wang, Flatås",D,1
+565,118152,"Sowmyashree Arakere, Trondheim",D,1
+565,115325,"Sara Øien-Gjertsen, Tromsø",D,1
+565,118203,"Vesna Jagrovic, Levanger",D,1
+565,118205,"Thea Vibe Rud Madsen, Tromsøstudentenes IL",D,1
+565,118025,"Lina El Ghami, Nesna",D,1
+565,105746,"Elise Solheim, Pillarguri",D,1
+565,118055,"Kristina Pirtskhalava, Bodø",D,1
+565,118088,"Sura Haida Sørlie, Bodø",D,1
+565,118140,"Minal Dongre, Stovner",D,1
+565,118141,"Mrunali Patel, Stovner",D,1
+565,117589,"Iselin Hov Solheim, Bodø",D,1
+565,104426,"Berit Stråmyr, Bodø",D,1
+565,114306,"Lone Nordal Grevsnes, Oppegård IL",D,1
+565,115327,"Smilla Pedersen Braathen, Tromsø",D,1
+565,115977,"Nora Karoline Endresen, Tromsø",D,1
+565,117716,"Milia Baldacchino, BSI",D,1
+565,117681,"Lisa Holberg Olsen, Gullvikmoen",D,1
+565,117816,"Julie Bergin, Grong",D,1
+565,113731,"Sruthi Krishnan, Asker",D,1
+565,116650,"Makhashree Chellakannan, Asker",D,1
+565,104582,"Anja Niemi, Tromsø",D,1
+565,103803,"Merete Andreassen, Tromsø",D,1
+565,106618,"Ngamata Pedersen, Tana",D,1
+565,110401,"Renate Haug Lien, Bodø",D,1
+565,109467,"Leonie Johann, Bodø",D,1
+565,116897,"Ingrid Ersland Undheim, Fitjar",D,1
+565,113996,"Eldrid Fitjar, Fitjar",D,1
+565,116988,"Hannah Steen, Tromsøstudentenes IL",D,1
+565,117239,"Andrea Gjendem, Moss",D,1
+565,117497,"Dina Raminta Larsen, Moss",D,1
+565,117086,"Chi Thuy Le, Haugesund",D,1
+565,117179,"Gunhild Aasgaard Ottosen, Pillarguri",D,1
+565,115335,"Aud-Othilie Søreng Reppe, Frøya",D,1
+565,116137,"Beate Storsul, Kolvereid",D,1
+565,113037,"Violetta Roskova, Tana",D,1
+607,113018,"Solbjørg Langhelle, Stanghelle IL",,0
+607,113061,"Sofie Kold Hansen, Trondheim",,0
+607,113193,"Maaike Weerdesteyn, Vestre Aker",,0
+607,113168,"Mikaela Stordal, Moss",,0
+607,113942,"Ida Marie Oxaas, Leksvik",,0
+607,113945,"Annika Liungman, Trondheim",,0
+607,113959,"Amalie Teigen, Rissa",,0
+607,113971,"Christine Torsvik Loga, Sotra",,0
+607,114311,"Maria Magdalena Cekiera, Klemetsrud",,0
+607,114778,"Maria Rasool, Klemetsrud",,0
+607,114561,"Maja Gjemdal, Moss",,0
+607,114579,"Sigrid Jonette Varga, Ålesund",,0
+607,114162,"Mari H. Birkelund, Klemetsrud",,0
+607,114125,"Therese Hovland Børgesen, Haugesund",,0
+607,114126,"Thea-Sofie Lønning Eikemo, Haugesund",,0
+607,114091,"Malin Søviknes Fotland, Askøy",,0
+607,114092,"Maria Lillestøl Duinker, Askøy",,0
+607,114251,"Amelia Pawlowska, Imås IL",,0
+607,114293,"Trang Hong Thi Nguyen, Bærum",,0
+607,114213,"Emma Michelle Hanssen, Flatås",,0
+607,114214,"Kaya Marielle Nicolaysen-Hanssen, Flatås",,0
+607,116301,"Raya Mariyanova Miteva, Frøya",,0
+607,115739,"Siyang Emily Ji, NTNUI",,0
+607,115980,"Dina Holst-Larsen, Moss",,0
+607,115981,"Nina Helen Amundsen, Trondheim",,0
+607,115336,"Inga-Lill Søreng Reppe, Frøya",,0
+607,115636,"Kirubalini Jeyamohan Moorthy, Sangam",,0
+607,115459,"Karen Johannesen, NTNUI",,0
+607,115466,"Van Sui Cer, NTNUI",,0
+607,115476,"Annalyn Santos Fiskerstrand, Ålesund",,0
+607,115480,"Marina Karlsen, NTNUI",,0
+607,115500,"Anjali Kumari, Stovner",,0
+607,115519,"Irene Sætre, Stanghelle IL",,0
+607,115545,"Anita Løvheim, Sandefjord",,0
+607,115562,"Bao Quynh Truong, Bærum",,0
+607,115622,"Halle Samuel, Strømmen",,0
+607,115425,"Josefine Bergseth, Bygdø",,0
+607,115426,"Sandra Klonteig, Bygdø",,0
+607,115332,"Ida Nemeth-Bjørkli, Moss",,0
+607,115250,"Tenzin Ingsey, Dale",,0
+607,115120,"Wei Hong, Bærum",,0
+607,117146,"Astrid Oberle, Ålesund",,0
+607,117025,"Olea Moe Bergin, Grong",,0
+607,117083,"Amphil mueller, Rørvik",,0
+607,117085,"Bjørg Hauge Sund, Haugesund",,0
+607,116428,"Mari Kristine Bernhardsen, Frøya",,0
+607,116523,"Nina Juul Nielsen, NTNUI",,0
+607,116524,"Emilie Frederikke Hansen, NTNUI",,0
+607,116468,"Joséphine Carolina Balbontin, Bygdø",,0
+607,116495,"Clémence Haas, NTNUI",,0
+607,116557,"Xiaoyao Xia, Bærum",,0
+607,116564,"Seema Stalin, Bærum",,0
+607,116540,"Cecilie Marie Berglund, Pillarguri",,0
+607,116781,"Caroline Vang Kristensen, Haugerud",,0
+607,116863,"Phattaranan Pinthongkam, Tynset",,0
+607,116898,"Elisabeth Fjeldheim Riise, Haugesund",,0
+607,116723,"Ashara Taavi Rayhana Lay, Sola",,0
+607,116726,"Napatsorn Emwat, Sola",,0
+607,116635,"Ina Nguyen, BSI",,0
+607,116676,"Thanh Thanh Tran Vo, Frøya",,0
+607,116682,"Marita Fauske, Askøy",,0
+607,109550,"Kaisa Isabell Sandboe, Oppegård IL",,0
+607,109371,"Norun R. Fosså, Imås IL",,0
+607,109421,"Astrid Lovise Pallesen , Stavanger",,0
+607,108995,"Mathilde Vik Myking, BSI",,0
+607,109064,"Frida Bjørvik Løvheim, Sandefjord",,0
+607,109108,"Eva Dobreva, Stavanger",,0
+607,110469,"Helle Janitz, Moss",,0
+607,110566,"Tonje Midttun, Karmøy",,0
+607,110847,"Vibeke Onarheim Vea, Rubbestadneset",,0
+607,110720,"Ragnhild Løvenskiold Grüner Husom, Trondheim",,0
+607,110226,"Magnhild Stokka, Haugesund",,0
+607,110162,"Angelė Virketytė, Harstad",,0
+607,109875,"Eline Ullereng Mamelund, Frogner",,0
+607,109920,"Johanne Toverud, Sandefjord",,0
+607,109921,"Helene A. Toverud, Sandefjord",,0
+607,109922,"Marie A. Toverud, Sandefjord",,0
+607,110005,"Silje Seem, Grong",,0
+607,110018,"Maurina Adriana, Sola",,0
+607,110029,"Hedda Mortvedt, Austevoll",,0
+607,111451,"Andrea Nygård, Asker",,0
+607,111333,"Christin Wefring, Stanghelle IL",,0
+607,111007,"Dorthe Lorvik, Herøy",,0
+607,111008,"Nila Lorvik, Herøy",,0
+607,110899,"Rahaf Alothman, Asker",,0
+607,111116,"Hege Merethe Rølvåg, Nesna",,0
+607,111730,"Rajee Makesan, Stovner",,0
+607,112002,"Cecilie Mikkelsen, Askøy",,0
+607,112017,"Kjersti Hestenes, Rubbestadneset",,0
+607,112105,"Kristoffer, Askøy",,0
+607,111922,"Betzy Margrethe Parelius Wammer, Sandefjord",,0
+607,111926,"Milla Maevski , Oppegård IL",,0
+607,112280,"Synne Ruud-Larsen, Stavanger",,0
+607,112287,"Anna Liv Kretz, Stavanger",,0
+607,112925,"Jannike Wefring, Stanghelle IL",,0
+607,112974,"Yutong Feng, Stavanger",,0
+607,112714,"Hong-Thien Nguyen Phatak, Sandefjord",,0
+607,112605,"Elisabeth Hjellegjerde Skog, Sykkylven",,0
+607,112550,"Praapthi Rao, Stavanger",,0
+607,106632,"Elise Lærkerød Jelsness, Bygdø",,0
+607,106696,"Ane Hofstad Lycke, NTNUI",,0
+607,106482,"Jenny Rajkumar, Sotra",,0
+607,106909,"Nina Wang Korbu, Hamar",,0
+607,108394,"Alda Karen Jònsdòttir, Sandefjord",,0
+607,108856,"Silje Andrea Rohde , Grong",,0
+607,105383,"Cathrine Enoksen, Grong",,0
+607,106006,"Margrethe Schrøder-Nielsen, Sola",,0
+607,106116,"Nora Uri Malterud, OSI",,0
+607,103837,"Mirjam Finanger, Nesna",,0
+607,103764,"Punyanuch Ampaijit, Tynset",,0
+607,103355,"Mari Lindsetmo, Grong",,0
+607,103416,"Frida Prestø, Herøy",,0
+607,100437,"Inger Margrethe Midtlid, Ålesund",,0
+607,102066,"Ingunn Vie Skare, Bergen",,0
+607,101908,"Anna W. Nedrehegg, Stord",,0
+607,101510,"Anita Olsen, Verdal",,0
+607,101148,"Svenja Hodne, Karmøy",,0
+607,108350,"Linnea Cecilie Sørlie, Frogner",,0
+607,102468,"Marthe Skaug, Frogner",,0
+607,102960,"Irina Benedicte Eklund, Nøtterøy",,0
+607,102987,"Stine Andersen, Moss",,0
+607,107366,"Åse  Wallin, Sverige",,0
+607,107130,"Marie  Mørk, Kristiansand",,0
+607,107621,"Hildegunn Waage, Haugesund",,0
+607,107438,"Emilie Haukebøe, Oppegård IL",,0
+607,107513,"Kristine  Grande Ødegårdstuen, Moss",,0
+607,107885,"Eva Forsaa Åbotsvik, Tromsø",,0
+607,100943,"Linn Aasland, Leksvik",,0
+607,100998,"Barbro Johnsen, Herøy",,0
+607,107955,"Laufey Maria Olafsdottir, Sandefjord",,0
+607,107996,"Charlotte Berntsen, Tromsø",,0
+607,108060,"Kamilla Bakke Foss, Rissa",,0
+607,108080,"Erle Nordbakk, Grong",,0
+607,104725,"Ida Hånes, Grong",,0
+607,100041,"Wenche Brinchmann, Moss",,0
+607,106451,"Linnea Alvilde Espeseth, Ålesund",,0
+607,100862,"Anne Klyve, Asker",,0
+607,109247,"Therese Kristoffersen, Askøy",,0
+607,109540,"Emilie Romundstad Nyborg, Orkanger",,0
+607,110383,"Sofie Christensen, Karmøy",,0
+607,111521,"Agnes Søvik Gunnarsdottir, Norborg",,0
+607,111666,"Tora Maurstad Pettersen, Flatås",,0
+607,113030,"Oline Hanssen, Moss",,0
+607,113230,"Minni Elise Aakvik, Gullvikmoen",,0
+607,113235,"Hedda Frotjold-Mo, Orkanger",,0
+607,113250,"Helene Mokkelbost, Flatås",,0
+607,114292,"Phuong Tuyet Nguyen, Bærum",,0
+607,114356,"Sayanthini Vijayatheeban, Stovner",,0
+607,114640,"Elaine Marie Cogay, Frøya",,0
+607,114702,"Mille Mysen-Sandal, Moss",,0
+607,114857,"Miranda Starup Jensen, Sandefjord",,0
+607,115030,"Kathryne Mae Santos Dahlø, Frøya",,0
+607,115034,"Rhonamey Benalet Kvernø, Frøya",,0
+607,115042,"Princess Huinda, Lambertseter IF",,0
+607,115709,"Karolina Nordsjø, Vestre Aker",,0
+607,115875,"Thea Storheil, Kolvereid",,0
+607,115949,"Ashley Pasawa, Frøya",,0
+607,116021,"Rutvi Nalawade, Karmøy",,0
+607,116054,"Vilde Hanssen, Grong",,0
+607,116138,"Stine Rolfsen, Flatås",,0
+607,116139,"Synnøve Solheim, NTNUI",,0
+607,116185,"Lisa Makinadjian, Molde",,0
+607,116226,"Luna Vassallo, OSI",,0
+607,116296,"Mali Vallernes, Frøya",,0
+607,116352,"Marianna Rodrigues Aranha de Sousa, Sykkylven",,0
+607,116353,"Filipa Nunes Alves, Sykkylven",,0
+607,118184,"Daria Maksimova, Tromsøstudentenes IL",,0

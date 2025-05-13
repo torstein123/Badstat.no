@@ -11,7 +11,6 @@ export const handleRedirectResult = async () => {
         const result = await getRedirectResult(auth);
         if (result) {
             const user = result.user;
-            console.log('Logged in with Redirect:', user.email); // Optional: handle user data
             return user;
         }
     } catch (error) {
@@ -24,8 +23,6 @@ export const loginRequest = (email, password) => {
     return signInWithEmailAndPassword(auth, email, password)
         .then(userCredentials => {
             const user = userCredentials.user;
-            console.log('Logged in with:', user.email);
-            // You can return user data or a success message here if needed
             return user;
         })
         .catch(error => {

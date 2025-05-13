@@ -6,29 +6,55 @@ const processPlayerData = (playerName) => {
         match['Team 2 Player 1'] === playerName || match['Team 2 Player 2'] === playerName
     );
 
+    // Initialize counters for each category
     let deciderWins = 0;
     let deciderMatches = 0;
+    let singleDeciderWins = 0;
+    let singleDeciderMatches = 0;
+    let doubleDeciderWins = 0;
+    let doubleDeciderMatches = 0;
+    let mixDeciderWins = 0;
+    let mixDeciderMatches = 0;
+
     const comebackWinScores = [];
     let strongThirdSets = 0;
 
-    console.log(`Processing data for: ${playerName}, Total filtered matches: ${filteredMatches.length}`);
-    
     filteredMatches.forEach(match => {
         const sets = match.Result.split(',').map(set => set.split('/').map(Number));
         
         if (sets.length === 3) { // The match went to a deciding set
-            console.log(`Deciding set match found:`, match); // Simplified log
             deciderMatches++;
 
-            const playerWon = (match['Winner Player 1'] === playerName || match['Winner Player 2'] === playerName) &&
-                              (sets[2][0] > sets[2][1] || sets[2][1] > sets[2][0]);
+            // Determine match type
+            const isSingles = match['Event']?.toLowerCase() === 'herresingle' || 
+                            match['Event']?.toLowerCase() === 'damesingle';
+            
+            const isMixed = match['Event']?.toLowerCase() === 'mixeddouble';
+            
+            // Increment category-specific counters
+            if (isSingles) {
+                singleDeciderMatches++;
+            } else if (isMixed) {
+                mixDeciderMatches++;
+            } else {
+                doubleDeciderMatches++;
+            }
+
+            const playerWon = (match['Winner Player 1'] === playerName || match['Winner Player 2'] === playerName);
 
             if (playerWon) {
                 deciderWins++;
-                console.log(`Deciding Set Win: ${match.Result}`, match); // Log 2: Wins in deciding sets
+                // Increment category-specific wins
+                if (isSingles) {
+                    singleDeciderWins++;
+                } else if (isMixed) {
+                    mixDeciderWins++;
+                } else {
+                    doubleDeciderWins++;
+                }
             }
 
-            // Your existing logic for "Comeback Win"
+            // Existing comeback win logic
             const firstSetLoss = (match['Team 1 Player 2'] === playerName || match['Team 1 Player 1'] === playerName) ? 
                                     sets[0][1] - sets[0][0] : sets[0][0] - sets[0][1];
             const playerWonLastSet = (sets[2][0] > sets[2][1] && match['Winner Player 1'] === playerName) ||
@@ -37,33 +63,47 @@ const processPlayerData = (playerName) => {
                 comebackWinScores.push(match.Result);
             }
 
-            // Logic to track "Sterk 3.sett" achievement
             if (playerWon) {
                 strongThirdSets++;
             }
         }
     });
 
+    // Calculate win rates for each category
+    const deciderWinRate = deciderMatches > 0 ? (deciderWins / deciderMatches) * 100 : 0;
+    const singleDeciderWinRate = singleDeciderMatches > 0 ? (singleDeciderWins / singleDeciderMatches) * 100 : 0;
+    const doubleDeciderWinRate = doubleDeciderMatches > 0 ? (doubleDeciderWins / doubleDeciderMatches) * 100 : 0;
+    const mixDeciderWinRate = mixDeciderMatches > 0 ? (mixDeciderWins / mixDeciderMatches) * 100 : 0;
+
     const comebackWin = comebackWinScores.length > 0;
-    const deciderWinRate = deciderMatches > 0 ? (deciderWins / deciderMatches) * 100 : 0; // Calculate win rate in deciding sets
     const strongThirdSetPercentage = deciderMatches > 0 ? parseFloat((strongThirdSets / deciderMatches * 100).toFixed(0)) : 0;
-
-    // Number of games affected by "Tidenes comeback"
     const comebackGames = comebackWinScores.length;
-
-    // Determine if the player has achieved "Decider Dominator"
-    const deciderDominator = deciderWinRate > 60; // Check if win rate exceeds 70%
+    const deciderDominator = deciderWinRate > 60;
 
     return {
         gamesPlayed: filteredMatches.length,
         comebackWin,
         comebackWinScores,
         comebackGames,
+        // Overall stats
         deciderWins,
         deciderMatches,
         deciderWinRate,
-        deciderDominator, // Indicates if the player has achieved "Decider Dominator"
-        strongThirdSetPercentage, // Percentage of strong third sets won
+        // Singles stats
+        singleDeciderWins,
+        singleDeciderMatches,
+        singleDeciderWinRate,
+        // Doubles stats
+        doubleDeciderWins,
+        doubleDeciderMatches,
+        doubleDeciderWinRate,
+        // Mixed stats
+        mixDeciderWins,
+        mixDeciderMatches,
+        mixDeciderWinRate,
+        // Other achievements
+        deciderDominator,
+        strongThirdSetPercentage,
     };
 };
 

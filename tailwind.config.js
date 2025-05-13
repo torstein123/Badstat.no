@@ -4,31 +4,49 @@ module.exports = {
   //    This tells Tailwind to scan for class names in your project files.
   //    Add or remove paths as needed, depending on your folder structure.
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",  // if your React components are in /src
-    "./public/index.html",         // sometimes you want to include HTML files
+    "./src/**/*.{js,jsx,ts,tsx}",
   ],
 
   // 2) Extend the Default Theme
   //    Here you can add custom colors, fonts, breakpoints, etc.
   theme: {
     extend: {
-      colors: {
-        // Example of a custom color palette
-        midnight: "#001F3F",
-        electric: "#7DF9FF",
+      animation: {
+        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        'shimmer': 'shimmer 2s linear infinite',
+        'rainbow-text': 'rainbow 8s linear infinite',
+        'bounce-subtle': 'bounce-subtle 2s ease-in-out infinite',
       },
-      fontFamily: {
-        // Example of custom font families
-        sans: ["Inter", "sans-serif"],
-        display: ["Oswald", "sans-serif"],
-      },
+      keyframes: {
+        shimmer: {
+          '0%': { transform: 'translateX(-100%)' },
+          '100%': { transform: 'translateX(100%)' }
+        },
+        rainbow: {
+          '0%, 100%': {
+            'background-size': '200% 200%',
+            'background-position': 'left center'
+          },
+          '50%': {
+            'background-size': '200% 200%',
+            'background-position': 'right center'
+          }
+        },
+        'bounce-subtle': {
+          '0%, 100%': {
+            transform: 'translateY(-10%)',
+            'animation-timing-function': 'cubic-bezier(0.8,0,1,1)'
+          },
+          '50%': {
+            transform: 'none',
+            'animation-timing-function': 'cubic-bezier(0,0,0.2,1)'
+          }
+        }
+      }
     },
   },
 
   // 3) Add Plugins
   //    For example, forms, typography, line-clamp, etc.
-  plugins: [
-    // require('@tailwindcss/forms'),
-    // require('@tailwindcss/typography'),
-  ],
+  plugins: [],
 };

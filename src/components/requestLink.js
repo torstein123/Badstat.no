@@ -32,7 +32,6 @@ const LinkRequest = () => {
         status: 'accepted',
         userId,
       });
-      console.log('Link request added with ID: ', docRef.id);
     } catch (error) {
       console.error('Error adding link request: ', error);
     }
@@ -55,9 +54,6 @@ const LinkRequest = () => {
   
         // Call the addLinkRequest function to add the selected suggestion to the database
         addLinkRequest(selectedSuggestion.Navn, userId);
-      } else {
-        // Handle the case where the user is not authenticated
-        console.log('User is not authenticated');
       }
     }
   };
@@ -90,9 +86,6 @@ const LinkRequest = () => {
   
       // Call the addLinkRequest function to add the selected suggestion to the database
       addLinkRequest(selectedSuggestion.Navn, userId);
-    } else {
-      // Handle the case where the user is not authenticated
-      console.log('User is not authenticated');
     }
   };
   

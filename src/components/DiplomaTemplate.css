@@ -1,0 +1,357 @@
+.diploma-preview-card {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  border: none;
+}
+
+.diploma-preview-container {
+  padding: 20px;
+  background-color: #f8f9fa;
+  overflow: hidden;
+}
+
+/* Base Diploma Styles */
+.diploma {
+  width: 100%;
+  aspect-ratio: 1.414 / 1; /* A4 ratio */
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Palatino', 'Times New Roman', serif;
+  max-width: 800px;
+}
+
+.diploma-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.diploma-header h1 {
+  font-size: 2.5rem;
+  margin: 10px 0;
+  font-weight: bold;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.diploma-subtitle {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.diploma-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.player-name {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 10px 0;
+  padding: 5px 15px;
+}
+
+.player-club {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.achievement-text {
+  font-style: italic;
+  margin: 15px 0;
+  max-width: 80%;
+  line-height: 1.6;
+}
+
+.stats-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin: 25px 0;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  text-align: center;
+  min-width: 100px;
+}
+
+.stat-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 5px;
+}
+
+.highlight-achievement {
+  margin: 20px 0;
+  font-weight: 500;
+  padding: 10px 20px;
+  max-width: 80%;
+  line-height: 1.6;
+}
+
+.diploma-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: auto;
+  padding-top: 30px;
+}
+
+.signature-container {
+  text-align: center;
+  min-width: 180px;
+}
+
+.signature-line {
+  width: 100%;
+  height: 1px;
+  background-color: #000;
+  margin-bottom: 5px;
+}
+
+.signature-name {
+  font-size: 0.9rem;
+}
+
+.date-container {
+  text-align: center;
+  min-width: 180px;
+}
+
+.date {
+  font-size: 0.9rem;
+}
+
+/* Premium Template Styles */
+.premium-template {
+  background: #fff url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><rect width="100" height="100" fill="white"/><path d="M0,0 L100,100 M100,0 L0,100" stroke="rgba(0,0,0,0.03)" stroke-width="1"/></svg>');
+  border: 12px solid transparent;
+  border-image: linear-gradient(45deg, #d4af37, #f9d77e, #d4af37) 1;
+  position: relative;
+}
+
+.premium-template .diploma-header h1 {
+  color: #9e7c0c;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.premium-template .diploma-subtitle {
+  color: #9e7c0c;
+}
+
+.premium-template .player-name {
+  background: linear-gradient(to right, rgba(212, 175, 55, 0), rgba(212, 175, 55, 0.2), rgba(212, 175, 55, 0));
+  border-radius: 4px;
+  color: #333;
+}
+
+.premium-template .diploma-logo {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 10px;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="rgba(158, 124, 12, 0.8)"><path d="M12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28z"/></svg>') no-repeat center center;
+  background-size: contain;
+}
+
+.premium-template .stat-item {
+  background-color: rgba(212, 175, 55, 0.1);
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+}
+
+.premium-template .stat-value {
+  color: #9e7c0c;
+}
+
+.premium-template .highlight-achievement {
+  background-color: rgba(212, 175, 55, 0.1);
+  border-radius: 8px;
+  color: #333;
+}
+
+.premium-template .diploma-corner {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="rgba(158, 124, 12, 0.8)"><path d="M12 6.76l1.379 4.246h4.465l-3.612 2.625 1.379 4.246-3.611-2.625-3.612 2.625 1.379-4.246-3.612-2.625h4.465z"/></svg>');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.premium-template .top-left {
+  top: 10px;
+  left: 10px;
+}
+
+.premium-template .top-right {
+  top: 10px;
+  right: 10px;
+  transform: rotate(90deg);
+}
+
+.premium-template .bottom-left {
+  bottom: 10px;
+  left: 10px;
+  transform: rotate(270deg);
+}
+
+.premium-template .bottom-right {
+  bottom: 10px;
+  right: 10px;
+  transform: rotate(180deg);
+}
+
+.premium-template .signature-line {
+  background: linear-gradient(to right, transparent, #9e7c0c, transparent);
+  height: 2px;
+}
+
+/* Pro Template Styles */
+.pro-template {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.pro-template::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(45deg, rgba(70, 130, 180, 0.05) 25%, transparent 25%, transparent 50%, rgba(70, 130, 180, 0.05) 50%, rgba(70, 130, 180, 0.05) 75%, transparent 75%);
+  background-size: 40px 40px;
+  z-index: 0;
+}
+
+.pro-template .diploma-header h1 {
+  color: #2c5282;
+  position: relative;
+}
+
+.pro-template .diploma-subtitle {
+  color: #2c5282;
+  position: relative;
+}
+
+.pro-template .diploma-content {
+  position: relative;
+  z-index: 1;
+}
+
+.pro-template .certificate-text {
+  margin-bottom: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+.pro-template .player-name {
+  color: #2c5282;
+  border-bottom: 2px solid rgba(44, 82, 130, 0.3);
+  padding-bottom: 5px;
+}
+
+.pro-template .diploma-logo.pro {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 10px;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="rgba(44, 82, 130, 0.8)"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>') no-repeat center center;
+  background-size: contain;
+}
+
+.pro-template .stats-container.pro {
+  background-color: rgba(44, 82, 130, 0.05);
+  padding: 15px;
+  border-radius: 8px;
+  width: 80%;
+}
+
+.pro-template .stat-value {
+  color: #2c5282;
+}
+
+.pro-template .highlight-achievement.pro {
+  color: #2c5282;
+  font-weight: 500;
+}
+
+.pro-template .signature-line {
+  background: linear-gradient(to right, transparent, #2c5282, transparent);
+}
+
+.pro-template .diploma-watermark {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  width: 120px;
+  height: 120px;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="rgba(44, 82, 130, 0.06)"><path d="M7,15H9V9H7V15M11,15H13V9H11V15M15,15H17V9H15V15M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z"/></svg>') no-repeat center center;
+  background-size: contain;
+  opacity: 0.2;
+}
+
+/* Standard Template Styles */
+.standard-template {
+  background-color: #fff;
+  border: 1px solid #eee;
+}
+
+.standard-template .diploma-header h1 {
+  color: #444;
+}
+
+.standard-template .diploma-subtitle {
+  color: #666;
+}
+
+.standard-template .player-name {
+  color: #444;
+}
+
+.standard-template .stats-container.simple {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  margin: 20px auto;
+  max-width: 70%;
+}
+
+.standard-template .stats-container.simple .stat-item {
+  background-color: #f8f9fa;
+  padding: 10px 15px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.standard-template .stats-container.simple .stat-label {
+  margin-top: 0;
+  font-weight: 500;
+  color: #555;
+}
+
+.standard-template .signature-line {
+  background-color: #444;
+} 

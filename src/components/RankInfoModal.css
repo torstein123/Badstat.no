@@ -1,0 +1,97 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(13, 17, 23, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  background-color: #1a1f2e;
+  padding: 2.5rem;
+  border-radius: 12px;
+  max-width: 600px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  color: #e6e7e9;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 2rem;
+}
+
+.close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  line-height: 1;
+  color: #8b949e;
+  transition: color 0.2s ease;
+  z-index: 10000;
+}
+
+.close-button:hover {
+  color: #ffffff;
+}
+
+.rank-info {
+  margin-top: 1rem;
+}
+
+.rank-info h2 {
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.rank-info h3 {
+  margin: 1.5rem 0 1rem;
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.rank-info ul {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 1.5rem;
+}
+
+.rank-info li {
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+  color: #c9d1d9;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.rank-info li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #58a6ff;
+}
+
+.rank-info p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  color: #c9d1d9;
+}
+
+.rank-info strong {
+  color: #58a6ff;
+  font-weight: 500;
+} 

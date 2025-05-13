@@ -2,38 +2,157 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    gap: 20px;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
   }
   
   .ranking-category {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    border-radius: 16px;
+    min-width: 220px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
   }
   
-  .singles {
-    background-color: #f8d7da;
+  /* Standard rank styling */
+  .ranking-category.standard {
+    background: linear-gradient(145deg, #1a1a1a, #2a2a2a);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
-  .doubles {
-    background-color: #fff3cd;
+  /* Premium rank styling (ranks 4-10) */
+  .ranking-category.premium {
+    background: linear-gradient(145deg, #1e3a8a, #1e40af);
+    border: 2px solid rgba(100, 155, 255, 0.5);
+    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);
   }
   
-  .mixed-doubles {
-    background-color: #d1ecf1;
+  .ranking-category.premium::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent, rgba(100, 155, 255, 0.2), transparent);
+    animation: shimmer 2s infinite;
+  }
+  
+  /* Elite rank styling (top 3) */
+  .ranking-category.elite {
+    background: linear-gradient(145deg, #7d4e11, #b45309);
+    border: 2px solid rgba(255, 200, 50, 0.5);
+    box-shadow: 0 4px 25px rgba(234, 179, 8, 0.3);
+  }
+  
+  .ranking-category.elite::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent, rgba(255, 200, 50, 0.2), transparent);
+    animation: shimmer 2s infinite;
+  }
+  
+  .ranking-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 15px;
+    width: 100%;
+    justify-content: center;
   }
   
   .category-title {
-    font-size: 1rem;
-    color: #333333;
-    margin-bottom: 5px;
+    font-size: 1.1rem;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .ranking-value-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
   }
   
   .ranking-value {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: bold;
-    color: #333333;
+    color: #ffffff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .info-button {
+    background: none;
+    border: none;
+    padding: 4px;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .info-button:hover {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  
+  .rank-icon {
+    font-size: 1.5rem;
+    margin-left: 8px;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  }
+  
+  /* Animations */
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+  /* Hover effects */
+  .ranking-category.premium:hover,
+  .ranking-category.elite:hover {
+    transform: translateY(-4px);
+  }
+  
+  .ranking-category.premium:hover {
+    box-shadow: 0 8px 30px rgba(100, 155, 255, 0.4);
+    border-color: rgba(100, 155, 255, 0.7);
+  }
+  
+  .ranking-category.elite:hover {
+    box-shadow: 0 8px 30px rgba(255, 200, 50, 0.4);
+    border-color: rgba(255, 200, 50, 0.7);
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .rankings-display {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .ranking-category {
+      width: 100%;
+      max-width: 300px;
+    }
   }
   

@@ -6,7 +6,6 @@ const uploadJsonFile = async (filePath, collectionName, documentName) => {
       // Upload the data to Firestore
       const docRef = doc(db, collectionName, documentName);
       await setDoc(docRef, { data: jsonData }, { merge: true });
-      console.log(`${filePath} uploaded successfully to ${collectionName}/${documentName}`);
     } catch (error) {
       console.error(`Error uploading ${filePath}:`, error);
     }

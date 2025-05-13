@@ -1,3 +1,20 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Allow: /player/
+Allow: /headtohead
+Allow: /playerlist
+Allow: /MostGames
+
+Sitemap: https://badstat.no/sitemap.xml
+
+# Allow all crawlers to access all pages
+Disallow: /Diary
+Disallow: /admin
+Disallow: /account
+Disallow: /register
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/

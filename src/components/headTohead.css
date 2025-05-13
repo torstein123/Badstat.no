@@ -17,31 +17,31 @@
     /* Add more styling as needed */
 }
 .match-card {
-    border: 1px solid var(--primary-200); /* Adjusted to use primary-200 for border */
+    border: 1px solid var(--primary-300); /* Improved to primary-300 for better contrast */
     padding: 20px;
     margin: 20px 0;
     border-radius: 12px;
-    background-color: var(--bg-200); /* Updated to bg-200 for background */
+    background-color: var(--bg-300); /* Updated to bg-300 for better contrast */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .match-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Consider using accent colors for shadow if needed */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
 .match-card h3 {
-    color: var(--text-100); /* Updated to text-100 for header color */
+    color: var(--text-100); /* Kept as text-100 for header color */
     margin-top: 0;
     margin-bottom: 8px;
     font-weight: 500;
-    border-bottom: 1px solid var(--primary-200); /* Adjusted to primary-200 for consistency */
+    border-bottom: 1px solid var(--primary-300); /* Improved to primary-300 for border */
     padding-bottom: 8px;
 }
 
 .match-card p {
-    color: var(--text-200); /* Updated to text-200 for paragraph text */
+    color: var(--text-100); /* Improved to text-100 for better contrast */
     margin-bottom: 10px;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .stats-box .most-wins {
-    color: #ff6600; /* Orange color for the player with most wins */
+    color: #ff7700; /* Improved orange color for better contrast */
     font-weight: bold;
 }
 
@@ -101,7 +101,7 @@
 .score {
     margin: 0 10px;
     font-size: 1.2em;
-    color: #e63946;  /* Adjust this as needed */
+    color: #e74c3c;  /* Adjusted for better contrast */
 }
 
 /* Mobile by default */

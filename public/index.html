@@ -3,24 +3,85 @@
 <head>
     <meta charset="utf-8" />
     <title>Badstat - Norsk Badminton Statistikk og Analyser</title>
-    <meta name="description" content="Utforsk norsk badmintonstatistikk. Analyser over 150.000 kamper og få et fortrinn i konkurransen. Oppdag trender, sammenlign spillere og mer." />
+    <meta name="description" content="Utforsk norsk badmintonstatistikk med over 150.000 kamper. Detaljerte spilleranalyser, rankinger, head-to-head statistikk, turneringsresultater og mer. Din ultimate ressurs for norsk badminton." />
     <link rel="icon" href="%PUBLIC_URL%/B.png" />
-    <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6338038731129939" crossorigin="anonymous"></script>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <link rel="apple-touch-icon" href="B.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q69Z2MFQ3P"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-Q69Z2MFQ3P');
+    </script>
+    
     <!-- Sosiale medier og delingsmeta -->
-    <meta property="og:title" content="Badstat - Norsk Badminton Statistikk og Analyser" />
-    <meta property="og:description" content="Utforsk norsk badmintonstatistikk. Analyser over 150.000 kamper og få et fortrinn i konkurransen." />
+    <meta property="og:title" content="Badstat - Norsk Badminton Statistikk og Analyser | 150.000+ Kamper" />
+    <meta property="og:description" content="Utforsk Norges mest omfattende badmintonstatistikk database. Spilleranalyser, rankinger, head-to-head statistikk og turneringsresultater." />
+    <meta property="og:type" content="website" />
     <meta property="og:image" content="%PUBLIC_URL%/bsilogo.png" />
     <meta property="og:url" content="https://badstat.no" />
     <meta name="twitter:card" content="summary_large_image" />
     
-    <!-- Legg til flere nøkkelord relatert til siden din -->
-    <meta name="keywords" content="badminton, statistikk, norge, analyser, spillere, kamper, badminton norge" />
+    <!-- SEO Meta Tags -->
+    <meta name="keywords" content="badminton norge, badminton statistikk, badmintonportalen, cup2000,badminton norge, norsk badminton, badminton ranking, badminton rankingliste, badminton turneringer, spilleranalyser, badmintonspillere norge, norske badmintonresultater, badminton data" />
+    <meta name="author" content="Badstat - Norsk Badminton Statistikk" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="language" content="no" />
+    <meta name="revisit-after" content="7 days" />
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SportsOrganization",
+      "name": "Badstat",
+      "url": "https://badstat.no",
+      "description": "Norsk Badminton Statistikk og Analyser",
+      "sport": "Badminton",
+      "knowsAbout": ["Badminton", "Sports Statistics", "Player Rankings", "Tournament Results"],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Norway"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://badstat.no/playerlist?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "sameAs": ["https://badstat.no"]
+    }
+    </script>
+    <!-- Additional Sports Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "Norwegian Badminton Statistics",
+      "description": "Comprehensive database of Norwegian badminton matches, player statistics, and rankings covering over 150,000 matches",
+      "keywords": ["badminton", "statistics", "norway", "rankings", "tournament results", "player analysis"],
+      "creator": {
+        "@type": "Organization",
+        "name": "Badstat"
+      },
+      "temporalCoverage": "2000/2024",
+      "spatialCoverage": {
+        "@type": "Country",
+        "name": "Norway"
+      }
+    }
+    </script>
 </head>
 <body>
     <div id="root"></div>
