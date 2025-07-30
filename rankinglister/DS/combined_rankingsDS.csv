@@ -4,7 +4,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 100041,Wenche Brinchmann,Moss,Moss,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
 100045,Kari Bunes,Moss,Moss,6.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100092,Anita Elson,Kristiansand,Kristiansand,148.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-100113,Gunn Fiskergaard,Ålesund,Ålesund,168.0,216.0,200.0,150.0,112.0,116.0,64.0,12.0,118.0,106.0,104.0,146.0
+100113,Gunn Fiskergaard,Ålesund,Ålesund,168.0,216.0,200.0,150.0,112.0,116.0,64.0,12.0,118.0,106.0,104.0,150.0
 100156,Linn Grenby,Sotra,Sotra,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100158,Britt Grindland,Grimstad,Grimstad,84.0,102.0,44.0,68.0,78.0,70.0,26.0,0.0,42.0,36.0,34.0,4.0
 100159,Ellen Groos,Grimstad,Grimstad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -12,7 +12,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 100175,Maria Jiangli Stenrud,Frogner,Frogner,202.0,0.0,42.0,52.0,36.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0
 100182,Sigrid Elise Sund,Hamar,Hamar,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100193,Monica Halvorsen,Frogner,Frogner,28.0,0.0,0.0,0.0,0.0,76.0,98.0,0.0,31.0,18.0,55.0,28.0
-100204,Cathrine Fossmo,Moss,Moss,944.0,1024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100204,Cathrine Fossmo,Moss,Moss,944.0,1024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 100341,Maren Kamlund,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100357,Sophie Owen-Davies,Frogner,Frogner,216.0,472.0,96.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100373,Hanna B. Kværnø,Grong,Grong,52.0,176.0,156.0,100.0,56.0,44.0,34.0,0.0,8.0,28.0,0.0,34.0
@@ -25,8 +25,8 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 100624,Solfrid Slettebakken,Kragerø,Kragerø,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100628,Sissel W. Schmidt,Ålesund,Ålesund,24.0,26.0,80.0,14.0,0.0,14.0,21.0,0.0,5.0,12.0,0.0,0.0
 100643,Bente Sotnes,Bærum,Bærum,28.0,0.0,68.0,84.0,58.0,23.0,0.0,0.0,52.0,126.0,68.0,24.0
-100681,Jeanette Svendsen,Vestre Aker,Vestre Aker,92.0,57.0,372.0,280.0,216.0,54.0,115.0,0.0,92.0,54.0,30.0,60.0
-100717,Berit Thyness,Haugerud,Haugerud,344.0,356.0,149.0,220.0,348.0,232.0,156.0,0.0,175.0,192.0,252.0,212.0
+100681,Jeanette Svendsen,Vestre Aker,Vestre Aker,92.0,57.0,372.0,280.0,216.0,54.0,115.0,0.0,92.0,54.0,30.0,44.0
+100717,Berit Thyness,Haugerud,Haugerud,344.0,356.0,149.0,220.0,348.0,232.0,156.0,0.0,175.0,192.0,252.0,192.0
 100772,Åsne Lund,Grong,Grong,72.0,24.0,62.0,60.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100805,Tone Rasmussen Økland,Askøy,Askøy,114.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,14.0,0.0,0.0,0.0
 100862,Anne Klyve,Asker,Asker,312.0,64.0,132.0,512.0,152.0,140.0,24.0,0.0,250.0,52.0,0.0,0.0
@@ -37,7 +37,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 100989,Ida C. Pedersen,Moss,Moss,50.0,116.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101040,Anne Gro Rikheim,Frogner,Frogner,32.0,15.0,70.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,22.0
 101065,Marie Wåland,Kristiansand,Kristiansand,192.0,176.0,48.0,256.0,112.0,105.0,72.0,224.0,366.0,0.0,0.0,0.0
-101080,Elisabeth Thrane,NTNUI|Trondheim,NTNUI,220.0,0.0,184.0,0.0,7.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0
+101080,Elisabeth Thrane,Trondheim|NTNUI,NTNUI,220.0,0.0,184.0,0.0,7.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0
 101107,Camilla Christine Sørensen,Djerv,Djerv,8.0,7.0,44.0,22.0,0.0,22.0,24.0,0.0,6.0,0.0,0.0,0.0
 101142,Gunnhild Bøyum,Frogner,Frogner,12.0,28.0,25.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101148,Svenja Tyrhardt,Karmøy,Karmøy,226.0,232.0,121.0,0.0,14.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
@@ -47,7 +47,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 101229,Line Johnstad,Hamar,Hamar,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101262,Hege Leirud,Frogner,Frogner,276.0,0.0,276.0,214.0,113.0,0.0,24.0,0.0,171.0,68.0,0.0,0.0
 101269,Hilde Mari Furnes,Djerv,Djerv,35.0,0.0,59.0,36.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-101285,Randi Selle,Stavanger,Stavanger,372.0,388.0,192.0,64.0,357.0,468.0,408.0,0.0,210.0,648.0,760.0,724.0
+101285,Randi Selle,Stavanger,Stavanger,372.0,388.0,192.0,64.0,357.0,468.0,408.0,0.0,210.0,648.0,760.0,708.0
 101294,Sonja Wåland,Kristiansand,Kristiansand,248.0,0.0,56.0,128.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101308,Marit Lillelien,Asker,Asker,148.0,232.0,160.0,145.0,56.0,9.0,6.0,0.0,0.0,0.0,0.0,0.0
 101342,Runa Korshavn,Trondheim,Trondheim,42.0,134.0,0.0,18.0,48.0,18.0,44.0,0.0,21.0,60.0,160.0,236.0
@@ -59,18 +59,18 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 101788,Therese Meland,Haugesund,Haugesund,40.0,34.0,32.0,0.0,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 101928,Christina svendsen,Båtsfjord,Båtsfjord,28.0,14.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101929,Ida Theres Johansen,Båtsfjord,Båtsfjord,14.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-102033,Charlotte Leinan,Tromsø|Kristiansand,Tromsø,166.0,304.0,136.0,96.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+102033,Charlotte Leinan,Kristiansand|Tromsø,Tromsø,166.0,304.0,136.0,96.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 102056,Hege Malene Ulstein,Vestre Aker,Vestre Aker,360.0,196.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102063,Toril Elise Ulvang,Bergen,Bergen,97.0,84.0,0.0,26.0,0.0,0.0,10.0,0.0,2.0,0.0,0.0,0.0
 102066,Ingunn Vie Skare,Bergen,Bergen,14.0,23.0,64.0,52.0,0.0,23.0,3.0,0.0,0.0,3.0,0.0,0.0
-102092,Sunniva Sørensen,Verdal|Orkanger,Verdal,36.0,14.0,20.0,48.0,28.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0
+102092,Sunniva Sørensen,Orkanger|Verdal,Verdal,36.0,14.0,20.0,48.0,28.0,6.0,0.0,0.0,0.0,0.0,0.0,3.0
 102142,Sara Hvidsten,Grimstad|Vestre Aker,Vestre Aker,114.0,60.0,170.0,140.0,144.0,42.0,0.0,0.0,26.0,146.0,78.0,72.0
-102163,Anja Olsen,Frogner|Bærum,Bærum,59.0,58.0,0.0,90.0,58.0,20.0,25.0,0.0,2.0,19.0,6.0,22.0
+102163,Anja Olsen,Frogner|Bærum,Bærum,59.0,58.0,0.0,90.0,58.0,20.0,25.0,0.0,2.0,19.0,6.0,16.0
 102181,Liv Kristiane Bugge,Bergen,Bergen,11.0,17.0,41.0,6.0,0.0,31.0,7.0,0.0,1.0,0.0,0.0,0.0
 102182,Ulla Faarup,Bærum,Bærum,20.0,57.0,32.0,62.0,8.0,14.0,0.0,0.0,10.0,0.0,0.0,0.0
 102213,Synnøve Sirhaug,Sotra,Sotra,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102236,Trude Gystad,Nesna,Nesna,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-102269,Linn Lilian Stenrud,Ullevål|Frogner,Frogner,380.0,744.0,1088.0,61.0,0.0,129.0,10.0,0.0,2.0,0.0,0.0,32.0
+102269,Linn Lilian Stenrud,Frogner|Ullevål,Frogner,380.0,744.0,1088.0,61.0,0.0,129.0,10.0,0.0,2.0,0.0,0.0,32.0
 102271,Trine Wåland,Kristiansand,Kristiansand,98.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102274,Thea Johansen,Nøtterøy,Nøtterøy,784.0,912.0,508.0,804.0,949.0,356.0,148.0,0.0,62.0,0.0,0.0,0.0
 102275,Natalie Kristensen,Moss,Moss,452.0,65.0,9.0,0.0,128.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0
@@ -93,13 +93,13 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 102703,Karoline Kaldheim,Karmøy,Karmøy,146.0,121.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102730,Rikke Nagell Hansen,Stavanger,Stavanger,15.0,29.0,49.0,64.0,0.0,0.0,0.0,0.0,23.0,0.0,0.0,0.0
 102731,Ingrid Øgreid,Stavanger,Stavanger,36.0,0.0,44.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-102732,Iris Hagen,Stavanger,Stavanger,16.0,54.0,46.0,67.0,22.0,50.0,20.0,0.0,121.0,134.0,130.0,160.0
+102732,Iris Hagen,Stavanger,Stavanger,16.0,54.0,46.0,67.0,22.0,50.0,20.0,0.0,121.0,134.0,130.0,156.0
 102770,Linda Schei,Sandnessjøen,Sandnessjøen,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102840,Malin Hustig,Sotra,Sotra,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102869,Heidi Torgersen,Båtsfjord,Båtsfjord,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102921,Malin Holdbakk,Klæbu,Klæbu,18.0,0.0,0.0,43.0,0.0,46.0,4.0,0.0,0.0,0.0,0.0,0.0
 102924,Kristina Andersen,Kristiansand,Kristiansand,160.0,64.0,50.0,66.0,134.0,298.0,128.0,0.0,26.0,0.0,0.0,120.0
-102928,Marlene Wåland,Klemetsrud|Kristiansand,Klemetsrud,212.0,816.0,920.0,1048.0,476.0,356.0,205.0,36.0,149.0,0.0,128.0,0.0
+102928,Marlene Wåland,Kristiansand|Mandal,Mandal,212.0,816.0,920.0,1048.0,476.0,356.0,205.0,36.0,149.0,0.0,128.0,0.0
 102929,Tuva Salvesen Johansen,Kristiansand,Kristiansand,48.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102960,Irina Benedicte Eklund,Nøtterøy,Nøtterøy,168.0,548.0,433.0,0.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 102961,Silje Røgenes,BSI,BSI,27.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -137,11 +137,11 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 103803,Merete Andreassen,Tromsø,Tromsø,40.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 103827,Hanne Osen,Nesna,Nesna,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 103837,Mirjam Finanger,Nesna,Nesna,6.0,14.0,22.0,14.0,5.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
-103873,Margarita Wcislo,Kolvereid|Verdal,Kolvereid,16.0,4.0,0.0,6.0,76.0,108.0,42.0,0.0,28.0,48.0,0.0,40.0
+103873,Margarita Wcislo,Verdal|Kolvereid,Kolvereid,16.0,4.0,0.0,6.0,76.0,108.0,42.0,0.0,28.0,48.0,0.0,40.0
 103874,Ingalill Mikalsen,Kolvereid,Kolvereid,152.0,56.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
 103888,Marie Johansen,Nøtterøy,Nøtterøy,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 103906,Silje Svee,Trondheim,Trondheim,6.0,9.0,83.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-103924,Ronja H. Thorstensen,Moss|Pillarguri,Pillarguri,52.0,218.0,36.0,0.0,0.0,0.0,0.0,0.0,16.0,100.0,282.0,8.0
+103924,Ronja H. Thorstensen,Pillarguri|Moss,Pillarguri,52.0,218.0,36.0,0.0,0.0,0.0,0.0,0.0,16.0,100.0,282.0,8.0
 103947,Nora Jansson,Sandefjord,Sandefjord,4.0,4.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 103949,Tonje Løslett,Sandefjord,Sandefjord,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 104016,Elisabeth Pape,Stavanger,Stavanger,106.0,124.0,134.0,258.0,30.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -156,7 +156,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 104275,Mathilde Mikalsen,Båtsfjord,Båtsfjord,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 104281,Caroline Susann Guldbjørnsen,Mehamn,Mehamn,30.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 104396,Shaomeng Li,Haugerud,Haugerud,67.0,45.0,20.0,10.0,0.0,0.0,13.0,0.0,3.0,0.0,0.0,0.0
-104414,Lin Ma,OSI|Vestre Aker,Vestre Aker,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,56.0
+104414,Lin Ma,Vestre Aker|OSI,Vestre Aker,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,64.0
 104421,Malin Andersson,Haugerud,Haugerud,120.0,292.0,128.0,104.0,305.0,288.0,52.0,0.0,7.0,0.0,93.0,0.0
 104430,Rebekka Lie,Karmøy,Karmøy,22.0,14.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 104498,Nora Bang Vågen,Djerv,Djerv,26.0,6.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -178,7 +178,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 104887,Victoria Magelssen,Bærum,Bærum,62.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 104913,Karolina Odin Bolstad,Vestre Aker,Vestre Aker,256.0,36.0,57.0,50.0,14.0,98.0,0.0,0.0,9.0,0.0,0.0,0.0
 104930,Karina Sjoukje Jelsma,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-104936,Silje V. Kruksve Aasland,Rissa|Leksvik|Orkanger,Orkanger,6.0,68.0,140.0,148.0,206.0,116.0,32.0,0.0,30.0,14.0,31.0,45.0
+104936,Silje V. Kruksve Aasland,Orkanger|Rissa|Leksvik,Orkanger,6.0,68.0,140.0,148.0,206.0,116.0,32.0,0.0,30.0,14.0,31.0,45.0
 104960,Karoline Lerengen,Tromsø,Tromsø,34.0,148.0,180.0,196.0,80.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0
 105069,Anne-Liv Lie,Sotra,Sotra,164.0,166.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105074,Ylva Rohde,Kirkenes,Kirkenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -202,7 +202,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 105497,Karianne Koi,Kirkenes,Kirkenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105522,Line Strander,BSI,BSI,42.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105575,Ingrid Dretvik,Leksvik,Leksvik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-105595,Elin Hansen,Herøy,Herøy,26.0,11.0,22.0,10.0,10.0,8.0,0.0,0.0,0.0,18.0,20.0,12.0
+105595,Elin Hansen,Herøy,Herøy,26.0,11.0,22.0,10.0,10.0,8.0,0.0,0.0,0.0,18.0,20.0,10.0
 105599,Helene Elmer,Nøtterøy,Nøtterøy,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105625,Marte Loeng,Grong,Grong,6.0,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105644,Theepiga Makesan,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -225,7 +225,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 106161,Marit Louise Ulvang,Ålesund,Ålesund,20.0,48.0,37.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106184,Sofie Vorren,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106185,Synnøve Solheim,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-106220,Camilla Stokkaune,NTNUI|Orkanger,Orkanger,12.0,78.0,38.0,8.0,71.0,34.0,4.0,2.0,25.0,76.0,98.0,88.0
+106220,Camilla Stokkaune,NTNUI|Orkanger,Orkanger,12.0,78.0,38.0,8.0,71.0,34.0,4.0,2.0,25.0,76.0,98.0,80.0
 106237,Christine Skarding Rogne,Drøbak,Drøbak,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106294,Emma Daae,Frogner,Frogner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106306,Kirsten Jeppesen,Bærum,Bærum,29.0,31.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -272,7 +272,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 107165,Astrid Bognøy,Sotra,Sotra,7.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107171,Sara Annuswer,Sverige,Sverige,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107178,Olga Öberg,Sverige,Sverige,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-107205,Julie Langeland Risa,Sotra,Sotra,7.0,7.0,0.0,14.0,38.0,44.0,27.0,0.0,38.0,34.0,62.0,112.0
+107205,Julie Langeland Risa,Sotra,Sotra,7.0,7.0,0.0,14.0,38.0,44.0,27.0,0.0,38.0,34.0,62.0,118.0
 107325,Katherine Stott,Vestre Aker,Vestre Aker,72.0,55.0,69.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107329,Liping Mu,Haugerud,Haugerud,15.0,52.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107366,Åse  Wallin,Sverige,Sverige,12.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
@@ -310,8 +310,8 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 107851,Hilde Kristine Aurstad Rennan,Verdal,Verdal,5.0,2.0,7.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107875,Trude Stokkebekk,Frogner,Frogner,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107877,Michelle  Granhaug,Drøbak,Drøbak,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-107917,Line Klæbo,Djerv|BSI|Bergen,Bergen,2.0,2.0,6.0,36.0,41.0,21.0,0.0,0.0,108.0,128.0,0.0,61.0
-107919,Lone Hopstad,Karmøy|Nesna,Karmøy,4.0,6.0,2.0,7.0,4.0,0.0,0.0,0.0,7.0,0.0,6.0,0.0
+107917,Line Klæbo,BSI|Bergen|Djerv,Bergen,2.0,2.0,6.0,36.0,41.0,21.0,0.0,0.0,108.0,128.0,0.0,63.0
+107919,Lone Hopstad,Nesna|Karmøy,Karmøy,4.0,6.0,2.0,7.0,4.0,0.0,0.0,0.0,7.0,0.0,6.0,0.0
 107946,Yngvild  Buraas,NTNUI|OSI,OSI,10.0,24.0,0.0,25.0,41.0,54.0,26.0,0.0,28.0,66.0,0.0,0.0
 107962,Maiken Lied Berntzen,Tromsøstudentenes IL,Tromsøstudentenes IL,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107965,Anne Knudsen,Djerv,Djerv,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -334,13 +334,13 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 108272,Tonje Hansen,Nesna,Nesna,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108299,Gunilla Løvgården,Ullevål,Ullevål,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108367,Kjersti Nordås,Frogner,Frogner,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-112605,Elisabeth Hjellegjerde Skog,Ålesund|Sykkylven,Sykkylven,84.0,38.0,0.0,22.0,8.0,0.0,0.0,0.0,7.0,41.0,28.0,6.0
+112605,Elisabeth Hjellegjerde Skog,Sykkylven|Ålesund,Sykkylven,84.0,38.0,0.0,22.0,8.0,0.0,0.0,0.0,7.0,41.0,28.0,6.0
 100030,Kari H. Berntsen,Bygdø,Bygdø,0.0,21.0,18.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100097,Terese Owesen,Frogner|Bærum,Bærum,0.0,61.0,184.0,60.0,12.0,40.0,0.0,0.0,4.0,0.0,0.0,0.0
 100374,Sara Kværnø Saugen,Grong,Grong,0.0,16.0,0.0,24.0,48.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0
-100830,Charlotte Aase,Bærum,Bærum,0.0,105.0,172.0,51.0,46.0,42.0,48.0,0.0,192.0,145.0,94.0,274.0
+100830,Charlotte Aase,Bærum,Bærum,0.0,105.0,172.0,51.0,46.0,42.0,48.0,0.0,192.0,145.0,94.0,280.0
 100950,Heidi Larsson Kleveland,Vestre Aker,Vestre Aker,0.0,152.0,168.0,68.0,116.0,86.0,32.0,0.0,8.0,0.0,0.0,0.0
-100998,Barbro Johnsen,Gullvikmoen|Herøy,Herøy,0.0,4.0,0.0,0.0,0.0,8.0,14.0,0.0,3.0,26.0,0.0,0.0
+100998,Barbro Johnsen,Herøy|Gullvikmoen,Herøy,0.0,4.0,0.0,0.0,0.0,8.0,14.0,0.0,3.0,26.0,0.0,0.0
 101042,Aina Anmarkrud,Frogner,Frogner,0.0,30.0,18.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,4.0
 101053,Ulrikke V. Mitchell,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 101087,Gitte Gandborg,Frogner,Frogner,0.0,28.0,0.0,0.0,0.0,58.0,54.0,0.0,57.0,18.0,0.0,0.0
@@ -373,11 +373,11 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 104549,Hanne Smittil Høksnes,Sandefjord,Sandefjord,0.0,2.0,0.0,72.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 104857,Lisa Olsen Berg,Frogner|Bærum,Bærum,0.0,14.0,0.0,166.0,134.0,4.0,0.0,0.0,130.0,186.0,0.0,0.0
 104925,Anne Marthe Svensen,NTNUI|Haugesund,NTNUI,0.0,31.0,50.0,54.0,19.0,0.0,0.0,0.0,0.0,12.0,28.0,54.0
-105010,Marianne Lie,Karmøy|BSI,BSI,0.0,44.0,53.0,138.0,76.0,22.0,0.0,0.0,2.0,0.0,0.0,0.0
+105010,Marianne Lie,BSI|Karmøy,BSI,0.0,44.0,53.0,138.0,76.0,22.0,0.0,0.0,2.0,0.0,0.0,0.0
 105103,Mette Skjævesland Pedersen,Bergen,Bergen,0.0,1.0,20.0,73.0,130.0,194.0,102.0,0.0,125.0,24.0,26.0,14.0
-105188,Tyra Friisenfeldt,NTNUI|Sola|Grong,Grong,0.0,4.0,7.0,84.0,66.0,198.0,76.0,0.0,55.0,174.0,82.0,68.0
+105188,Tyra Friisenfeldt,NTNUI|Grong|Sola,Grong,0.0,4.0,7.0,84.0,66.0,198.0,76.0,0.0,55.0,174.0,82.0,68.0
 105201,Sophie Larsen,NTNUI,NTNUI,0.0,7.0,4.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-105206,Ingvild Håland,NTNUI|Trondheim,Trondheim,0.0,13.0,19.0,150.0,178.0,176.0,78.0,0.0,130.0,330.0,154.0,78.0
+105206,Ingvild Håland,NTNUI|Trondheim,Trondheim,0.0,13.0,19.0,150.0,178.0,176.0,78.0,0.0,130.0,330.0,154.0,74.0
 105219,Mei Yang,Vestre Aker,Vestre Aker,0.0,64.0,84.0,116.0,74.0,46.0,47.0,0.0,73.0,74.0,74.0,28.0
 105253,Hanne Nesse,BSI,BSI,0.0,26.0,6.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105347,Anne-Emilie Larsen,Sola,Sola,0.0,2.0,25.0,87.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -389,16 +389,16 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 105677,Solveig Heggheim,Herøy,Herøy,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105685,Miriam Stensland,Sola,Sola,0.0,6.0,47.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 105694,Aileen Paulsen,Herøy,Herøy,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-105946,Mariann Andreassen,Askøy|BSI,BSI,0.0,20.0,46.0,81.0,102.0,138.0,104.0,0.0,104.0,35.0,55.0,81.0
+105946,Mariann Andreassen,BSI|Askøy,BSI,0.0,20.0,46.0,81.0,102.0,138.0,104.0,0.0,104.0,35.0,55.0,89.0
 105985,Marianne Barstad,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-106116,Nora Uri Malterud,OSI|Vestre Aker,OSI,0.0,1.0,6.0,16.0,8.0,38.0,0.0,0.0,0.0,0.0,60.0,0.0
+106116,Nora Uri Malterud,Vestre Aker|OSI,OSI,0.0,1.0,6.0,16.0,8.0,38.0,0.0,0.0,0.0,0.0,60.0,0.0
 106147,Tiril Tande,Bodø,Bodø,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106148,Via Tande,Bodø,Bodø,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106153,Annie Gundersen,Tana,Tana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106165,Linea Borch,Tana,Tana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106244,Augusta Sverdrup Alfnes,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-106445,Tora Vik Langhammer,Ålesund|Bergen,Bergen,0.0,8.0,40.0,44.0,94.0,13.0,0.0,0.0,0.0,0.0,20.0,14.0
-106482,Jenny Rajkumar,Sotra|Frogner,Sotra,0.0,88.0,8.0,42.0,84.0,293.0,406.0,208.0,207.0,14.0,121.0,0.0
+106445,Tora Vik Langhammer,Bergen|Ålesund,Bergen,0.0,8.0,40.0,44.0,94.0,13.0,0.0,0.0,0.0,0.0,20.0,14.0
+106482,Jenny Rajkumar,Frogner|Sotra,Sotra,0.0,88.0,8.0,42.0,84.0,293.0,406.0,208.0,207.0,14.0,121.0,0.0
 106486,Jolanta Franaszczuk,Djerv,Djerv,0.0,13.0,0.0,29.0,14.0,0.0,35.0,0.0,8.0,0.0,0.0,0.0
 106795,Alena Labutova,Russland,Russland,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106820,Anna Petersen,Danmark,Danmark,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -476,7 +476,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 109311,Alexandra Shuvalova,Russland,Russland,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100168,Kirsten Gulbrandsen,Vestre Aker,Vestre Aker,0.0,0.0,14.0,14.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100170,Tone Gulbrandsen,Jarlsberg,Jarlsberg,0.0,0.0,66.0,74.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0
-100550,Minh Nhu Thai,Klemetsrud|Fredrikstad BK|OSI,OSI,0.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,60.0,79.0,8.0,18.0
+100550,Minh Nhu Thai,Fredrikstad BK|Klemetsrud|OSI,OSI,0.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,60.0,79.0,8.0,18.0
 100568,Tonje Andersen,Eidsvoll,Eidsvoll,0.0,0.0,4.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100704,Maria Jakobsen,Herøy,Herøy,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100921,Synnøve Furholm,Ålesund,Ålesund,0.0,0.0,4.0,38.0,0.0,24.0,2.0,0.0,64.0,38.0,36.0,21.0
@@ -504,10 +504,10 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 105367,Thelma Lovise Flaat-Gåsbakk,Grong,Grong,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 105408,Julie Marie Andersen Abusdal,Kristiansand,Kristiansand,0.0,0.0,8.0,142.0,98.0,230.0,232.0,96.0,638.0,24.0,408.0,553.0
 105436,Moana Vadseth Furholm,NTNUI|Ålesund,NTNUI,0.0,0.0,24.0,55.0,20.0,4.0,0.0,0.0,38.0,40.0,22.0,20.0
-105606,Ingrid Gåsbakk,NTNUI|Kristiansand|Grong,NTNUI,0.0,0.0,28.0,92.0,88.0,142.0,40.0,0.0,108.0,28.0,0.0,88.0
+105606,Ingrid Gåsbakk,NTNUI|Grong|Kristiansand,NTNUI,0.0,0.0,28.0,92.0,88.0,142.0,40.0,0.0,108.0,28.0,0.0,88.0
 105826,Aimee Hong,Bergen|Haugerud,Bergen,0.0,0.0,110.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
 105908,Johanne Kristine F. Gunnarshaug,Karmøy,Karmøy,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-106128,Karina Elisabeth Andreassen,OSI|Kirkenes,OSI,0.0,0.0,2.0,6.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,148.0
+106128,Karina Elisabeth Andreassen,Kirkenes|OSI,OSI,0.0,0.0,2.0,6.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,148.0
 106221,Marte Stokkaune,Trondheim|Rissa,Trondheim,0.0,0.0,10.0,18.0,92.0,98.0,100.0,8.0,125.0,58.0,62.0,54.0
 106312,Annagha Mital,NTNUI,NTNUI,0.0,0.0,42.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 106447,Tuva Bjørbekk,NTNUI|Norborg,NTNUI,0.0,0.0,98.0,46.0,32.0,0.0,0.0,0.0,0.0,40.0,58.0,27.0
@@ -538,7 +538,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 108839,Elzbieta Maliszewska,Vestre Aker,Vestre Aker,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108968,Naida Murtazalieva,Bygdø,Bygdø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108988,Tale Hunnestad,Gullvikmoen,Gullvikmoen,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-109108,Eva Dobreva,Stavanger|Stord,Stavanger,0.0,0.0,18.0,28.0,14.0,72.0,76.0,0.0,25.0,0.0,13.0,6.0
+109108,Eva Dobreva,Stord|Stavanger,Stavanger,0.0,0.0,18.0,28.0,14.0,72.0,76.0,0.0,25.0,0.0,13.0,5.0
 109168,Deepika Mital,Bærum,Bærum,0.0,0.0,70.0,10.0,0.0,24.0,8.0,0.0,19.0,27.0,10.0,13.0
 109247,Therese Kristoffersen,Askøy,Askøy,0.0,0.0,6.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 109368,Thea Vatne,Imås IL,Imås IL,0.0,0.0,33.0,28.0,48.0,73.0,0.0,0.0,0.0,0.0,4.0,14.0
@@ -608,7 +608,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 106784,Heidi Kristine Skree,Gullvikmoen|Karmøy,Karmøy,0.0,0.0,0.0,13.0,52.0,42.0,40.0,192.0,34.0,0.0,0.0,10.0
 106797,Agnessa Pedersen,Moss,Moss,0.0,0.0,0.0,132.0,70.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0
 106909,Nina Wang Korbu,Hamar,Hamar,0.0,0.0,0.0,10.0,8.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0
-107049,Vivild Våbenø Berg,Klæbu,Klæbu,0.0,0.0,0.0,7.0,2.0,22.0,17.0,0.0,7.0,26.0,44.0,32.0
+107049,Vivild Våbenø Berg,Klæbu,Klæbu,0.0,0.0,0.0,7.0,2.0,22.0,17.0,0.0,7.0,26.0,44.0,28.0
 107081,Frida Natvig,Verdal,Verdal,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 107116,Linn Hepsøe,Tromsø,Tromsø,0.0,0.0,0.0,4.0,3.0,20.0,22.0,0.0,29.0,2.0,0.0,0.0
 107127,Delia Murtazalieva,Bergen|Haugerud,Bergen,0.0,0.0,0.0,32.0,25.0,270.0,492.0,180.0,529.0,556.0,876.0,92.0
@@ -618,15 +618,15 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 107546,Karin Tryland Laheld,Vestre Aker,Vestre Aker,0.0,0.0,0.0,76.0,62.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0
 107566,Viktoria Humlen,Ålesund,Ålesund,0.0,0.0,0.0,1.0,26.0,60.0,18.0,6.0,88.0,98.0,76.0,50.0
 107856,Caroline Solemsløkk Helgemo,Orkanger,Orkanger,0.0,0.0,0.0,34.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
-107909,Elise  Holmedal,Askøy|BSI,BSI,0.0,0.0,0.0,48.0,49.0,40.0,0.0,0.0,0.0,0.0,21.0,50.0
+107909,Elise  Holmedal,BSI|Askøy,BSI,0.0,0.0,0.0,48.0,49.0,40.0,0.0,0.0,0.0,0.0,21.0,50.0
 107941,Sandra-Viktoria Karlsen,Stavanger,Stavanger,0.0,0.0,0.0,6.0,37.0,20.0,3.0,0.0,0.0,0.0,0.0,0.0
 107994,Sara-Kristin Nergaard,Båtsfjord,Båtsfjord,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108105,Irene Lillestøl Duinker,Askøy,Askøy,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108301,Simona Früh,Vestre Aker,Vestre Aker,0.0,0.0,0.0,35.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
 108309,Ann Elin Digernes,Haugesund,Haugesund,0.0,0.0,0.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108582,Tuva Vinnes Bråten,Askøy,Askøy,0.0,0.0,0.0,6.0,48.0,37.0,63.0,0.0,15.0,0.0,0.0,0.0
-108760,Karianne Zhang,OSI|Haugerud,OSI,0.0,0.0,0.0,198.0,228.0,182.0,28.0,28.0,148.0,48.0,98.0,0.0
-108761,Victoria Zhang,OSI|Haugerud,OSI,0.0,0.0,0.0,14.0,54.0,0.0,60.0,0.0,71.0,70.0,136.0,73.0
+108760,Karianne Zhang,Haugerud|OSI,OSI,0.0,0.0,0.0,198.0,228.0,182.0,28.0,28.0,148.0,48.0,98.0,0.0
+108761,Victoria Zhang,Haugerud|OSI,OSI,0.0,0.0,0.0,14.0,54.0,0.0,60.0,0.0,71.0,70.0,136.0,73.0
 108786,Sofie Aamodt,Haugerud,Haugerud,0.0,0.0,0.0,4.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108927,Celina Nha-Mi-Thanh,Asker|OSI,OSI,0.0,0.0,0.0,10.0,36.0,32.0,30.0,0.0,62.0,132.0,242.0,0.0
 109067,Julie Marie Olsen,Sotra,Sotra,0.0,0.0,0.0,6.0,58.0,50.0,58.0,0.0,24.0,0.0,0.0,0.0
@@ -642,7 +642,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 110018,Maurina Adriana,Sola,Sola,0.0,0.0,0.0,5.0,7.0,8.0,2.0,0.0,3.0,3.0,0.0,0.0
 110053,Eeke Nijdam,Hadsel,Hadsel,0.0,0.0,0.0,6.0,7.0,9.0,8.0,0.0,1.0,0.0,0.0,0.0
 110123,Mia Skipnes,Herøy,Herøy,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-110178,Anne Lie Foldnes,Sotra,Sotra,0.0,0.0,0.0,6.0,46.0,88.0,42.0,0.0,48.0,46.0,50.0,20.0
+110178,Anne Lie Foldnes,Sotra,Sotra,0.0,0.0,0.0,6.0,46.0,88.0,42.0,0.0,48.0,46.0,50.0,12.0
 110221,Yuzhu Pearl Li,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 110226,Magnhild Stokka,Haugesund,Haugesund,0.0,0.0,0.0,21.0,18.0,14.0,0.0,0.0,0.0,0.0,0.0,4.0
 110228,Tina Vuong,Karmøy,Karmøy,0.0,0.0,0.0,32.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -703,12 +703,12 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 103490,Yeni Sri Kåsa,Horten,Horten,0.0,0.0,0.0,0.0,16.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 104892,Thea Alfredsen,Bodø,Bodø,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 105306,Elin Hexeberg Huseby,Frogner,Frogner,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-105886,Stine Skjævesland Pedersen,Sola|Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,39.0,54.0,32.0,0.0,46.0,398.0,284.0,330.0
+105886,Stine Skjævesland Pedersen,Kristiansand|Sola,Kristiansand,0.0,0.0,0.0,0.0,39.0,54.0,32.0,0.0,46.0,398.0,284.0,330.0
 105948,Maria Jansson,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,18.0,51.0,21.0,0.0,5.0,0.0,0.0,0.0
 105965,Irene Johnsen,Berlevåg,Berlevåg,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 105980,Yvonne Jørstad,Berlevåg,Berlevåg,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 106789,Irina Rudakova,Russland,Russland,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-106834,Akija Anton Reginold,Sotra|Bergen,Sotra,0.0,0.0,0.0,0.0,16.0,30.0,28.0,36.0,43.0,4.0,0.0,0.0
+106834,Akija Anton Reginold,Bergen|Sotra,Sotra,0.0,0.0,0.0,0.0,16.0,30.0,28.0,36.0,43.0,4.0,0.0,0.0
 107028,Silje B. Karlsen,Rissa,Rissa,0.0,0.0,0.0,0.0,57.0,68.0,6.0,4.0,26.0,0.0,0.0,0.0
 107134,June  Bøhn,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,28.0,24.0,110.0,0.0,78.0,0.0,48.0,0.0
 107185,Anna Bydén,Sverige,Sverige,0.0,0.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -716,12 +716,12 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 107206,Katja Botcharova Ellingsen,Bergen,Bergen,0.0,0.0,0.0,0.0,42.0,48.0,98.0,36.0,452.0,1048.0,892.0,220.0
 107215,Stine Marie Jakobsen,Rissa,Rissa,0.0,0.0,0.0,0.0,10.0,3.0,18.0,0.0,4.0,0.0,0.0,0.0
 107228,Hanne Kolstø,Karmøy,Karmøy,0.0,0.0,0.0,0.0,41.0,34.0,14.0,0.0,4.0,8.0,0.0,0.0
-108076,Sara Buvik,Gullvikmoen|NTNUI,NTNUI,0.0,0.0,0.0,0.0,9.0,48.0,8.0,0.0,33.0,134.0,0.0,100.0
-108671,Marlen Nygård,NTNUI|Asker,NTNUI,0.0,0.0,0.0,0.0,17.0,31.0,77.0,0.0,48.0,0.0,42.0,46.0
+108076,Sara Buvik,NTNUI|Gullvikmoen,NTNUI,0.0,0.0,0.0,0.0,9.0,48.0,8.0,0.0,33.0,134.0,0.0,100.0
+108671,Marlen Nygård,NTNUI|Asker,NTNUI,0.0,0.0,0.0,0.0,17.0,31.0,77.0,0.0,48.0,0.0,42.0,64.0
 108767,Lovelle Salvani,Herøy,Herøy,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 108877,Amber Heggdal,Trondheim,Trondheim,0.0,0.0,0.0,0.0,9.0,52.0,24.0,2.0,14.0,0.0,0.0,0.0
 108890,maya lauvås,Rana,Rana,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-109064,Frida Bjørvik Løvheim,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,59.0,50.0,39.0,54.0,416.0,180.0,125.0,124.0
+109064,Frida Bjørvik Løvheim,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,59.0,50.0,39.0,54.0,416.0,180.0,125.0,154.0
 109096,Thea Jørgensen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,49.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0
 109352,Mai Mathilde Hertaas,Frogner,Frogner,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 109467,Leonie Johann,Bodø,Bodø,0.0,0.0,0.0,0.0,8.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -729,14 +729,14 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 109502,June Morland,Otra IL,Otra IL,0.0,0.0,0.0,0.0,10.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0
 109510,Sara Kelly Ramsgaard,Otra IL,Otra IL,0.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 109907,Natalia Gandurska,Otra IL,Otra IL,0.0,0.0,0.0,0.0,7.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0
-110121,Helene Ye,OSI|Bygdø,OSI,0.0,0.0,0.0,0.0,2.0,21.0,41.0,0.0,9.0,6.0,0.0,18.0
+110121,Helene Ye,Bygdø|OSI,OSI,0.0,0.0,0.0,0.0,2.0,21.0,41.0,0.0,9.0,6.0,0.0,18.0
 110124,Thea Wang Larsen,Herøy,Herøy,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,4.0,4.0,0.0,0.0
 110246,Alexandra Utslottøy,Stord,Stord,0.0,0.0,0.0,0.0,11.0,34.0,6.0,0.0,1.0,0.0,0.0,0.0
 110247,Nora Amanda Melkevik Dahle,Stord,Stord,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 110248,Synne Brandsdal,Stord,Stord,0.0,0.0,0.0,0.0,11.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0
 110293,Camilla Persen,Moss,Moss,0.0,0.0,0.0,0.0,1.0,12.0,21.0,0.0,3.0,0.0,0.0,0.0
 110312,Sanne Ellingsen,Stavanger,Stavanger,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-110313,Julia Opedal,Haugesund|BSI,BSI,0.0,0.0,0.0,0.0,7.0,26.0,0.0,0.0,1.0,0.0,1.0,0.0
+110313,Julia Opedal,BSI|Haugesund,BSI,0.0,0.0,0.0,0.0,7.0,26.0,0.0,0.0,1.0,0.0,1.0,0.0
 110318,Serine Stokka,Haugesund,Haugesund,0.0,0.0,0.0,0.0,6.0,13.0,0.0,0.0,1.0,0.0,0.0,0.0
 110369,Vivian Zhong,Slagen,Slagen,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 110370,Mille Kristine Bjelland,Slagen,Slagen,0.0,0.0,0.0,0.0,4.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0
@@ -755,7 +755,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 110790,Bodil Engejordet,Bygdø,Bygdø,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 110901,Anne Sperre Stephens,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,12.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0
 111009,Kristine Hokland,Imås IL,Imås IL,0.0,0.0,0.0,0.0,24.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-111109,Marte Aasen Jensen,Levanger|Nesna|Verdal,Levanger,0.0,0.0,0.0,0.0,12.0,5.0,0.0,0.0,0.0,23.0,81.0,22.0
+111109,Marte Aasen Jensen,Levanger|Verdal|Nesna,Levanger,0.0,0.0,0.0,0.0,12.0,5.0,0.0,0.0,0.0,23.0,81.0,22.0
 111125,Kaviya Karunaharan,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111183,Amruta Chowdary Bojedla,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111200,Lee Na Teo,Djerv,Djerv,0.0,0.0,0.0,0.0,20.0,42.0,0.0,0.0,10.0,0.0,0.0,0.0
@@ -781,12 +781,12 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 111473,Stine Vatne,Imås IL,Imås IL,0.0,0.0,0.0,0.0,15.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
 111579,Sara Tessem Moan,Bodø,Bodø,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111581,Margarita Bjerkevoll,Norborg,Norborg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-111585,Zuzana Hartmann,Norborg,Norborg,0.0,0.0,0.0,0.0,10.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0
-111589,Beverly Henriksen,Norborg,Norborg,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,7.0,14.0,16.0
+111585,Zuzana Hartmann,Norborg,Norborg,0.0,0.0,0.0,0.0,10.0,4.0,4.0,0.0,1.0,0.0,0.0,6.0
+111589,Beverly Henriksen,Norborg,Norborg,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,7.0,14.0,10.0
 111591,Laila Sandsaunet,Verdal,Verdal,0.0,0.0,0.0,0.0,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 111598,Caroline Redkjær Jensen,Danmark,Danmark,0.0,0.0,0.0,0.0,149.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0
 111672,Ann Helen Heldal,Askøy,Askøy,0.0,0.0,0.0,0.0,16.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0
-111691,Anna Oleyniksson,Djerv,Djerv,0.0,0.0,0.0,0.0,36.0,90.0,90.0,0.0,44.0,72.0,50.0,78.0
+111691,Anna Oleyniksson,Djerv,Djerv,0.0,0.0,0.0,0.0,36.0,90.0,90.0,0.0,44.0,72.0,50.0,94.0
 111694,Linda Haglund,Imås IL,Imås IL,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111773,Synne Sigstad Jørgensen,Horten,Horten,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111774,Gina Sharon Kaup,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -801,7 +801,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 111861,Camilla Stensgaard Paulsen,Bergen,Bergen,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111910,Yuki Koyama,Djerv,Djerv,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111937,Iris Olafsen-Solberg,Orkanger,Orkanger,0.0,0.0,0.0,0.0,30.0,24.0,12.0,0.0,11.0,0.0,0.0,0.0
-111955,Kristine Bayona Dela Cruz,OSI|Vestre Aker,OSI,0.0,0.0,0.0,0.0,3.0,58.0,66.0,0.0,112.0,56.0,0.0,0.0
+111955,Kristine Bayona Dela Cruz,Vestre Aker|OSI,OSI,0.0,0.0,0.0,0.0,3.0,58.0,66.0,0.0,112.0,56.0,0.0,0.0
 111989,Marina Iskhakova,Russland,Russland,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 111999,Monika Kväl,Sverige,Sverige,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 112001,Miriam Mikkelsen,Askøy,Askøy,0.0,0.0,0.0,0.0,1.0,14.0,15.0,0.0,2.0,0.0,0.0,0.0
@@ -814,7 +814,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 112075,Tone Iren Hansen,Herøy,Herøy,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 112076,Ingrid Nakstad Romundstad,Orkanger,Orkanger,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 112096,Sidra Sabha,Herøy,Herøy,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-112123,Ida Marie Thomassen Stiegler,Djerv|Sotra|BSI|Askøy,Djerv,0.0,0.0,0.0,0.0,1.0,69.0,21.0,0.0,22.0,32.0,36.0,14.0
+112123,Ida Marie Thomassen Stiegler,BSI|Sotra|Djerv|Askøy,Djerv,0.0,0.0,0.0,0.0,1.0,69.0,21.0,0.0,22.0,32.0,36.0,14.0
 100302,Andrea Austnes,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 101545,Christina Welten,Moss,Moss,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
 102351,Lone Storgaard,Frogner,Frogner,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,36.0,21.0
@@ -829,18 +829,18 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 107662,Lena Knutseth,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
 107688,Solveig Elise Thuestad,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
 107720,Polina Bokovaia,Russland,Russland,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-107735,Nora  Omdal,NTNUI|Kristiansand,NTNUI,0.0,0.0,0.0,0.0,0.0,50.0,116.0,96.0,375.0,396.0,412.0,244.0
+107735,Nora  Omdal,NTNUI|Kristiansand,NTNUI,0.0,0.0,0.0,0.0,0.0,50.0,116.0,96.0,375.0,396.0,412.0,248.0
 107736,Benedikte Omdal,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0
 107829,Live Lislerud Vestli,Oppegård IL,Oppegård IL,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
 108081,Marit Sveine Aspnes,Grong,Grong,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
 108780,Ingrid Beate Østberg,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0
 108884,Nikolina Engen,Grong,Grong,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0
-109058,Ronja Hartmann,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,88.0,100.0,86.0,98.0
+109058,Ronja Hartmann,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,88.0,100.0,86.0,100.0
 109269,Cathrine Eimstad,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
 109537,Caroline Nielsen Tangen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 109544,Ragne Russnes,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,6.0,18.0,0.0,0.0
-109545,Nicoline Wærsten,Kristiansand|Vestre Aker,Kristiansand,0.0,0.0,0.0,0.0,0.0,8.0,50.0,0.0,32.0,80.0,106.0,96.0
-109550,Kaisa Isabell Sandboe,Oppegård IL|Haugerud,Oppegård IL,0.0,0.0,0.0,0.0,0.0,110.0,76.0,0.0,18.0,22.0,26.0,0.0
+109545,Nicoline Wærsten,Vestre Aker|Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,8.0,50.0,0.0,32.0,80.0,106.0,96.0
+109550,Kaisa Isabell Sandboe,Haugerud|Oppegård IL,Oppegård IL,0.0,0.0,0.0,0.0,0.0,110.0,76.0,0.0,18.0,22.0,26.0,0.0
 109657,Emma Morvik Kragholm,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,21.0,22.0,0.0,5.0,0.0,0.0,0.0
 109889,Lena Nilsen,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 109945,Karina Andersen,Kirkenes,Kirkenes,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -850,25 +850,25 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 110571,Inger Russnes,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
 110599,Leyla Eleonora Destefanis,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,3.0,6.0,0.0,1.0,0.0,0.0,0.0
 111104,Meera Sockalingam,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
-111108,Susanne Engseth,Rana|Verdal,Rana,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,2.0
+111108,Susanne Engseth,Verdal|Rana,Rana,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,2.0
 111135,Stine Bakke,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0
 111153,Therese Steffensen,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 111361,Amalia Smørdal,Haugesund,Haugesund,0.0,0.0,0.0,0.0,0.0,6.0,8.0,0.0,2.0,0.0,0.0,0.0
 111635,Ida Speikeland Smithsen,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,14.0,14.0,0.0,4.0,0.0,0.0,0.0
 111713,Kavitha Chandrasselan,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111714,Rohini Vijeyaratnam,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-111730,Rajee Makesan,Stovner|Sangam,Stovner,0.0,0.0,0.0,0.0,0.0,30.0,8.0,0.0,12.0,34.0,15.0,0.0
+111730,Rajee Makesan,Sangam|Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,30.0,8.0,0.0,12.0,34.0,15.0,0.0
 111743,Mary Sarmila Ladislaus,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 111766,Livia Jusztin-majercsik,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 111768,Thirumagal Subanendrarajah,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
 111776,Ellinor Marie Barø,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 111785,Malin Birgitte Horvei,Sola,Sola,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 111834,Candy Baynosa,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-111922,Betzy Margrethe Parelius Wammer,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,1.0,11.0,2.0
+111922,Betzy Margrethe Parelius Wammer,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,1.0,11.0,4.0
 111948,Kesia Frøyland,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
 112002,Cecilie Mikkelsen,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,42.0,50.0,0.0,11.0,0.0,4.0,0.0
 112019,Thea Katharina Frøyland,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,24.0,10.0,0.0,2.0,0.0,0.0,12.0
-112142,Mary Diana Bastien,Stovner|Sangam,Stovner,0.0,0.0,0.0,0.0,0.0,40.0,15.0,0.0,3.0,31.0,4.0,12.0
+112142,Mary Diana Bastien,Sangam|Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,40.0,15.0,0.0,3.0,31.0,4.0,12.0
 112143,Sugirtha Jeiharan,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,34.0,3.0,0.0,0.0,0.0,0.0,0.0
 112204,Rebekka Hesjedal,Stanghelle IL,Stanghelle IL,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,4.0,4.0
 112205,Hana Mihalova,Stanghelle IL,Stanghelle IL,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -879,17 +879,17 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 112326,Susanne Olsen,Kirkenes,Kirkenes,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 112332,Line Philipsen,Danmark,Danmark,0.0,0.0,0.0,0.0,0.0,128.0,0.0,0.0,0.0,0.0,0.0,0.0
 112341,Victoria Demyanchuk,Russland,Russland,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-112349,Line Rønningen Øien,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,3.0,16.0,34.0,34.0
+112349,Line Rønningen Øien,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,3.0,16.0,34.0,38.0
 112362,Natalie Wendt,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
 112363,Fenfang Zhao,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
 112371,Mai Thongprasert,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 112376,Christin Jeanette Hagen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,1.0,11.0,0.0,29.0,20.0,25.0,18.0
-112377,Line Eldegard,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,6.0,8.0,0.0,18.0,23.0,34.0,9.0
+112377,Line Eldegard,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,6.0,8.0,0.0,18.0,23.0,34.0,5.0
 112399,Nina Løland,Oppegård IL,Oppegård IL,0.0,0.0,0.0,0.0,0.0,20.0,11.0,0.0,2.0,0.0,0.0,0.0
 112401,Ignatia A Ratnarajah,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0
 112405,Ellen Berg Groos,Grimstad,Grimstad,0.0,0.0,0.0,0.0,0.0,42.0,14.0,0.0,3.0,0.0,0.0,70.0
 112414,Too Shen Yee,Nøtterøy,Nøtterøy,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0
-112454,Dianne Christine Geronimo,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,63.0,30.0,12.0,84.0,180.0,216.0,248.0
+112454,Dianne Christine Geronimo,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,63.0,30.0,12.0,84.0,180.0,216.0,244.0
 112467,Charlotte Moss,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0
 112469,Merete Halvorsen Svanberg,I.L Ros,I.L Ros,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 112585,Sara Tuomala,Finland,Finland,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -900,11 +900,11 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 112714,Hong-Thien Nguyen Phatak,Sandefjord|OSI,Sandefjord,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,13.0,8.0,8.0
 112761,Arina Pisaruk,Russland,Russland,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 112769,Mana Pooyamehr,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-112811,Hege Grønning,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,4.0,30.0,0.0,54.0,63.0,44.0,33.0
+112811,Hege Grønning,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,4.0,30.0,0.0,54.0,63.0,44.0,25.0
 112841,Nina Hoff,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 112842,Maria Conchita Isaksen,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,1.0,0.0,0.0,0.0
 112844,Marie-Elise Gundersen,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
-112851,Lina Bjørndal Westerlund,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,13.0,15.0,14.0,8.0
+112851,Lina Bjørndal Westerlund,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,13.0,15.0,14.0,0.0
 112862,Marthe Almaas,Hammerfest,Hammerfest,0.0,0.0,0.0,0.0,0.0,1.0,18.0,0.0,30.0,0.0,0.0,0.0
 112872,Pernille Maurstad Uv,OSI,OSI,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 112873,Inswasti Cahyani,OSI,OSI,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -919,23 +919,23 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 109065,Sandra Vaaje,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,5.0,0.0,0.0,0.0
 109306,Nandita Anil,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,3.0,0.0,0.0,0.0
 109414,Amalie Lexander,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,4.0,0.0,0.0,0.0
-109421,Astrid Lovise Pallesen,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,42.0,64.0,112.0,4.0
+109421,Astrid Lovise Pallesen,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,42.0,64.0,112.0,0.0
 109577,Mina Ueland,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,0.0,0.0,0.0
 109594,Nikol Hermansen,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,102.0,144.0,258.0,260.0
-109705,Akarija Anton Reginold,Sotra|Bergen,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,159.0,154.0,24.0,55.0
-109706,Arathija Anton Reginold,Sotra|Bergen,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,103.0,0.0,0.0,4.0
+109705,Akarija Anton Reginold,Bergen|Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,159.0,154.0,24.0,55.0
+109706,Arathija Anton Reginold,Bergen|Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,103.0,0.0,0.0,4.0
 109834,Astrid Salthella,Austevoll,Austevoll,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,6.0,18.0,8.0
 109878,Sofie Jin Reistadbakk,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,102.0,149.0,225.0,77.0
-110260,Divya Tehlan,Sotra|Bergen,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,98.0,4.0,0.0,0.0
+110260,Divya Tehlan,Bergen|Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,98.0,4.0,0.0,0.0
 110335,Anita Bui,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,73.0,4.0,0.0
-110371,Maria Botcharova Ellingsen,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,23.0,52.0,72.0,196.0
+110371,Maria Botcharova Ellingsen,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,23.0,52.0,72.0,184.0
 110684,Ingunn Sunde,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,53.0,0.0,6.0,0.0,0.0,0.0
 110935,Kjersti Døssland,Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,4.0,0.0,0.0,0.0
 111008,Nila Lorvik,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,137.0,16.0,160.0,0.0
 111333,Christin Wefring,Stanghelle IL,Stanghelle IL,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
 111470,Cecilie Welle Bay,Norborg|Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,4.0,8.0,4.0,14.0
 112117,Elisabeth Roos,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,52.0,66.0,38.0,80.0
-112327,Viola Jordalen,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,25.0,0.0,108.0,110.0
+112327,Viola Jordalen,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,25.0,0.0,108.0,94.0
 112373,Emma Kvaløy Svensen,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0
 112843,Min Chuthamas Phimphurat,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,2.0,0.0,0.0,0.0
 112954,Linnea Kvaløy Olsen,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,19.0,0.0,0.0,0.0
@@ -975,11 +975,11 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 113490,Dina Samuel,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
 113505,Mette Kruse,Harstad,Harstad,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,6.0,4.0,24.0
 113584,Nhung Nguyen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,2.0,0.0,0.0,0.0
-113585,Gladys Jude Lourderajan,Stovner|Sangam,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,30.0,17.0,0.0
+113585,Gladys Jude Lourderajan,Sangam|Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,30.0,17.0,0.0
 113607,Silje Stenstad Nilsen,Slagen,Slagen,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,3.0,4.0
 113642,Liliana Valencia,Karmøy|OSI,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,6.0,0.0,0.0,0.0
 113676,Eva Eriksson,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,3.0,0.0,0.0,0.0
-109432,Mina Korssund,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,81.0,140.0,400.0,460.0
+109432,Mina Korssund,Moss|Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,81.0,140.0,400.0,460.0
 109464,Emma Yasmin Ruud,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,30.0,80.0,234.0,608.0
 109789,Trishna Shyam Chand,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,53.0,66.0,146.0,88.0
 113250,Helene Mokkelbost,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0,0.0,0.0
@@ -996,8 +996,8 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 108769,Celina Sandvær,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 109012,Mali Elise Eriksen,Båtsfjord,Båtsfjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 109049,Linnea Holmedal,Sotra|Askøy,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,24.0,520.0,688.0
-109212,Heidi Hartmann,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,186.0,72.0,65.0
-109258,Laura Taidla,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,0.0
+109212,Heidi Hartmann,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,186.0,72.0,97.0
+109258,Laura Taidla,Herøy|BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,6.0
 109420,Trine Søraas Johannessen,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,0.0,116.0,106.0
 109555,Thea Øyen Selsaas,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,30.0,28.0,56.0
 109648,Anine Halvorsen Egge,Grimstad,Grimstad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,44.0,146.0,154.0
@@ -1008,11 +1008,11 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 109842,Urd Dalen,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 109857,Vilma Aasheim-Engen,Frogner,Frogner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,124.0,192.0,48.0,200.0
 110297,Shuwen Yang,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,90.0,106.0,0.0
-110577,Victoria Heiberg,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,6.0,160.0,268.0
+110577,Victoria Heiberg,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,6.0,160.0,232.0
 110797,Saline Knip,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,6.0,1.0
 111115,Nora Jørgensen,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 111341,Mathea Rødvik Iglebæk,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,14.0,0.0
-111342,Silje Lyngstad Skavhaug,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,24.0,48.0,30.0
+111342,Silje Lyngstad Skavhaug,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,24.0,48.0,22.0
 111465,Alina Reiersølmoen Vigre,Imås IL,Imås IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0
 111467,Anna Marie Møretrø,Imås IL,Imås IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
 111503,Laura Zeying Du,Asker,Asker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,18.0,7.0,31.0
@@ -1023,15 +1023,15 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 112017,Kjersti Hestenes,Rubbestadneset,Rubbestadneset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0
 112118,Kritika Sharma,Asker,Asker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 112158,Tanisha Naimish Doshi,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,4.0,6.0
-112169,Abiramy Kokilan,Strømmen|Haugerud,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,12.0,81.0,52.0
-112224,Ingrid Trøite,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,28.0,70.0,84.0
+112169,Abiramy Kokilan,Strømmen|Haugerud,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,12.0,81.0,64.0
+112224,Ingrid Trøite,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,28.0,70.0,80.0
 112255,Susanna Land Tellefsen,Imås IL,Imås IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
 112265,Thea Stie,Imås IL,Imås IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,24.0,16.0,12.0
 112283,Turid Gråberg,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
-112303,Malin Sandnes,Levanger|Orkanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,22.0,0.0,8.0
+112303,Malin Sandnes,Orkanger|Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,22.0,0.0,8.0
 112331,Darja Maria Abuzatoaie,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,36.0,50.0,28.0
 112550,Praapthi Rao,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,2.0,0.0
-112677,Minelli Marrin Mervin,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,8.0,17.0,82.0
+112677,Minelli Marrin Mervin,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,8.0,17.0,98.0
 112683,Giulia Dell'Acqua,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0,38.0,68.0
 112746,Hanna Malm,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
 112829,Johanne Mikkelhaug,Båtsfjord,Båtsfjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1040,7 +1040,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 113037,Violetta Roskova,Tana,Tana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 113061,Sofie Hansen,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,24.0,0.0,0.0
 113088,Maria Jacob,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
-113177,Lena Gloppen,Sola,Sola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20.0,15.0,6.0
+113177,Lena Gloppen,Sola,Sola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,20.0,15.0,4.0
 113405,Randi Gåsø,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0
 113530,Florence Mandelik,Lambertseter IF,Lambertseter IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 113615,Mia Mysen-Sandal,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1057,8 +1057,8 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 114026,Carolina Stoop,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 114042,Kiran Nisa,Mortensrud-Aker,Mortensrud-Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 114043,Rizwana Alam,Mortensrud-Aker,Mortensrud-Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
-114062,Kamila Remizova,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,24.0,35.0,11.0
-114063,Suen Cindy,OSI|Strømmen,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+114062,Kamila Remizova,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,24.0,35.0,15.0
+114063,Suen Cindy,Strømmen|OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 114128,Swati Nalawade,Haugesund,Haugesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 114140,Milka Kathrin Shao,Rubbestadneset,Rubbestadneset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
 114141,Paula Guisado Castro,Rubbestadneset,Rubbestadneset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
@@ -1066,12 +1066,12 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 114159,Nidhi Joneja,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,8.0,0.0,0.0
 114161,Giedre Radene,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 114162,Mari H. Birkelund,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,12.0,32.0,0.0
-114164,Gülser Selin Kilinc,Klemetsrud|Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,50.0,76.0,108.0
+114164,Gülser Selin Kilinc,Djerv|Klemetsrud,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,50.0,76.0,108.0
 114166,Cassandra Helene Svela,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,1.0,0.0
 114203,Valentine Hahn,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0
 114205,Juliette Meulle,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
 114206,Agnieszka Krzysztoń,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,72.0,24.0
-114209,Katrine Aske,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,33.0,62.0
+114209,Katrine Aske,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,33.0,65.0
 114224,Shilpa Danve,Asker,Asker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,20.0,3.0
 114251,Amelia Pawlowska,Imås IL,Imås IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,24.0,16.0,0.0
 114286,Liv Merete Hammer,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,16.0,18.0,7.0
@@ -1082,7 +1082,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 114311,Maria Magdalena Cekiera,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,0.0,0.0
 114338,Qiduo Yu,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 114383,Coline Bouchayer,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,36.0,17.0,56.0
-114461,Hilde Røssland,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,57.0,26.0,72.0
+114461,Hilde Røssland,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,57.0,26.0,78.0
 114475,Nana Wei,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 114516,Juliette Bourdin,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 114531,Nadia Yaqub,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
@@ -1094,7 +1094,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 114725,Iram Nisa,Mortensrud-Aker,Mortensrud-Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 114771,Anne Britt Sandvik,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,12.0,6.0
 114776,Kalpana Chaudhary,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
-114853,Ida Lillevik Førde,Gullvikmoen,Gullvikmoen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0,6.0,6.0
+114853,Ida Lillevik Førde,Gullvikmoen,Gullvikmoen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0,6.0,8.0
 114861,Elin Ericsson,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0
 114867,Sandra Sölin,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 114888,Mirtha Elena Castro,Rubbestadneset,Rubbestadneset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -1105,52 +1105,52 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 114991,Bente Ramfjord,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 115014,Mathilde Moen,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
 115042,Princess Huinda,Lambertseter IF,Lambertseter IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0
-115044,Pairin Surintham,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,52.0,60.0,6.0
+115044,Pairin Surintham,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,52.0,60.0,8.0
 115083,Michelle Dunay,Lambertseter IF,Lambertseter IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
 115101,Charlotte Bauch,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0
 115110,Lisa Lundquist,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0
 115114,Anaëlle Chalumeau,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0
-115120,Wei Hong,OSI|Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,10.0,0.0
+115120,Wei Hong,Bærum|OSI,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,10.0,0.0
 115163,Katryn Ann Macaso Junker,", Stavanger",", Stavanger",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
 115170,Janika Bourgeois,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0
 115181,Heidi Berg,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 100074,Tone Groven,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73.0,126.0,124.0
 100147,Hilde Genberg,Dale,Dale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,28.0
 100871,Marielle Sørby,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,13.0,0.0
-101306,Caroline Elisabeth Hem,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,91.0
+101306,Caroline Elisabeth Hem,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,109.0
 101412,Anne Kathrine Wenaas Ribe,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,8.0,6.0
 107956,Rebecca Haukebøe,Oppegård IL,Oppegård IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0
 108930,Hedda Berg Angell,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,0.0,24.0
 109540,Emilie Romundstad Nyborg,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
 109554,Camilla Skrunes Sundt,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0,80.0,77.0
 110005,Silje Seem,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
-110377,Alexandra Valentin,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,28.0,35.0
+110377,Alexandra Valentin,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,28.0,39.0
 110566,Tonje Midttun,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0
 110583,Kristiane Rohde Hallager,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,32.0
 110591,Karen Uggedal Søvik,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,36.0,29.0
 110648,Marie Gade Brask,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,148.0,0.0,0.0
-110838,Oline Langeland Risa,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,134.0,97.0
+110838,Oline Langeland Risa,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,134.0,65.0
 111007,Dorthe Lorvik,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,120.0,0.0
 111028,Danalakshmi Gopal,Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,23.0,2.0
-111136,Nora Haukdal Trøen,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,26.0,19.0
-111257,Ekaja Dubey,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,26.0,210.0
-111275,Audrina Ammara Darmawan,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26.0,68.0
+111136,Nora Haukdal Trøen,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,26.0,13.0
+111257,Ekaja Dubey,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,26.0,204.0
+111275,Audrina Ammara Darmawan,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26.0,62.0
 111521,Agnes Søvik Gunnarsdottir,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
 111538,Juli Helen Johansen Klungtveit,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,157.0,250.0
 111666,Tora Maurstad Pettersen,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
-111667,Ragnhild Maurstad Pettersen,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,26.0,3.0
+111667,Ragnhild Maurstad Pettersen,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,26.0,1.0
 111791,Lilly Evy Schurmann,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0
 111795,Pernille Lillevik,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,38.0,82.0
 111826,Thea Isabell Hansen,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
 111854,MARTE EGGEN,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0
-112126,Varshini Manikandan,Klemetsrud|IL Skrim,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,8.0,186.0
+112126,Varshini Manikandan,IL Skrim,IL Skrim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,8.0,186.0
 112264,Sylvia Husmo,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,1.0
 112770,Sarah Zeyu Du,Asker,Asker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,58.0,78.0
-113016,Malin Fossen Genberg,Dale,Dale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,12.0
+113016,Malin Fossen Genberg,Dale,Dale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,20.0
 113021,Ronija Eileen Evensen,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0
 113030,Oline Hanssen,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,52.0,0.0,0.0
 113065,Julie Norberg,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,54.0,24.0
-113083,Hannah Wong,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,97.0,64.0
+113083,Hannah Wong,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,97.0,56.0
 113168,Mikaela Stordal,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,105.0,41.0,0.0
 113230,Minni Elise Aakvik,Gullvikmoen,Gullvikmoen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
 113268,Ingrid-Elise Wammen Espeland,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
@@ -1162,19 +1162,19 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 113590,Ingrid Teistung,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,94.0,0.0
 113777,Stine Holm Bjørdal,Frogner,Frogner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,36.0,118.0
 113826,Erle Sofie Andersen,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
-113886,Alice Løvås Walbom,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,50.0,89.0
+113886,Alice Løvås Walbom,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,50.0,101.0
 113901,Frida Lavik-Haug,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0
 113959,Amalie Teigen,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
 114074,Ada Bjerkestrand,Vigra IL,Vigra IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
 114075,Jenny Hildre,Vigra IL,Vigra IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
 114120,Nicole Hofmann,Kvæfjord,Kvæfjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,48.0,55.0
 114213,Emma Michelle Hanssen,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,0.0
-114636,Melanie Antonella Matland,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,192.0,360.0
+114636,Melanie Antonella Matland,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,192.0,354.0
 114640,Elaine Marie Cogay,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-114643,Kelly Josie Goodchild,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,24.0,22.0
+114643,Kelly Josie Goodchild,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,24.0,24.0
 114778,Maria Rasool,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0
-114790,Emma Rasmussen-Wingan,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,4.0,15.0
-114791,Mari Jensen,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,9.0,20.0
+114790,Emma Rasmussen-Wingan,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,4.0,11.0
+114791,Mari Jensen,Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,9.0,14.0
 114857,Miranda Starup Jensen,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
 114955,Zlata Velikanova,Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 115043,Jovi Lubay Sespene,Lambertseter IF,Lambertseter IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0
@@ -1188,22 +1188,22 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 115252,Ida Katarina Liv Stafström,Dale,Dale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 115253,Clara Ann Søby,Dale,Dale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
 115293,Marina Endresen,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-115294,Marthe Evjenth,Bodø|Nesna,Bodø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,10.0
+115294,Marthe Evjenth,Bodø|Nesna,Bodø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,18.0
 115310,Prerna Kulkarni,Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0
 115336,Inga-Lill Søreng Reppe,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
-115337,Ellen Sandbugt,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0
+115337,Ellen Sandbugt,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0
 115340,Tora Svennevik,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0
 115375,Annejet Bos,BSI|Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,0.0,68.0
 115397,Yolanda Jaceline,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
 115458,Viktoria Hov Jensen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,13.0,25.0
 115459,Karen Johannesen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,0.0
-115462,Astrid Sandnes Fagervoll,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,2.0
+115462,Astrid Sandnes Fagervoll,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,1.0
 115466,Van Sui Cer,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0
 115476,Annalyn Santos Fiskerstrand,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0
 115480,Marina Karlsen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,1.0
 115545,Anita Løvheim,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0
 115556,Jenny Wu,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
-115562,Bao Quynh Truong,Sola|Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.0,8.0
+115562,Bao Quynh Truong,Bærum|Sola,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.0,8.0
 115582,Tetiana Yakovenko,Varhaug IL,Varhaug IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 115614,Hui Qian Yang,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
 115686,Marte Vorum,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,28.0,18.0
@@ -1214,20 +1214,20 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 115767,Vidya Gouli,Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,31.0,16.0
 115835,Mina Eriksen,Kronstad,Kronstad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 115844,Julie Seem,Hadsel|Grong,Hadsel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0
-115881,Eileen Linda Shamim,Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,55.0,56.0
-115947,Irena Malaskauske,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,16.0,20.0
-115970,Marianne Østenseth,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,2.0
+115881,Eileen Linda Shamim,Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,55.0,62.0
+115947,Irena Malaskauske,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,16.0,15.0
+115970,Marianne Østenseth,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,3.0
 115978,Maryam Imam,Tromsø,Tromsø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 115980,Dina Holst-Larsen,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
 115981,Nina Helen Amundsen,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,39.0,0.0
-115983,Mitali Milind Vanage,Sola,Sola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0
+115983,Mitali Milind Vanage,Sola,Sola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
 116000,Thanida Suttirak,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,17.0,29.0
 116021,Rutvi Nalawade,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0
 116043,Mila Knutsen Lillehagen,Hamar,Hamar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
 116137,Beate Storsul,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0
 116138,Stine Rolfsen,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
 116139,Synnøve Solheim,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
-116140,Meriam Lund,Rørvik|Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,26.0
+116140,Meriam Lund,Kolvereid|Rørvik,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,27.0
 116167,Malaz Ahmed Khamis,Nesna,Nesna,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
 116185,Lisa Makinadjian,Molde,Molde,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,0.0,0.0
 116226,Luna Vassallo,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0
@@ -1246,46 +1246,46 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 109920,Johanne Toverud,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
 109921,Helene A. Toverud,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0
 109922,Marie A. Toverud,Sandefjord,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0
-110424,Mia Henriksen,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,38.0
+110424,Mia Henriksen,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,20.0
 110469,Helle Janitz,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
 110590,Celine H Solvang Søvik,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,20.0
 110839,Maja Fossbakken Knutseth,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,41.0
 111451,Andrea Nygård,Asker,Asker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
-111854,Marte Eggen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,36.0
+111854,Marte Eggen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,30.0
 112055,Emilija Tera,Trondheim|Orkanger,Orkanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0
 112674,Maja Mathilde Johnsen Sørgjerd,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
-112694,Angelina Sharma,Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,96.0
+112694,Angelina Sharma,Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,116.0
 112699,Helena Uggedal,Vigra IL,Vigra IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0
 112735,Anette Forsbakk Nordhøy,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,12.0
-112974,Yutong Feng,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,10.0
-113061,Sofie Kold Hansen,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0,24.0
+112974,Yutong Feng,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0
+113061,Sofie Kold Hansen,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0,30.0
 113464,Tine Ellen Sjøstedt,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0,0.0
 113680,Olivia Einarsen Fiskum,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
-113706,Martine Skjeltorp Nyborg,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,88.0
-113759,Sennova Lindland,Klemetsrud|Mandal,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,212.0
-113972,Marie Torsvik Loga,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,22.0
-113975,Justé Beinoriuté,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,40.0
+113706,Martine Skjeltorp Nyborg,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,76.0
+113759,Sennova Lindland,Mandal,Mandal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,234.0
+113972,Marie Torsvik Loga,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,26.0
+113975,Justé Beinoriuté,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,48.0
 113978,Maham Sheikh,Sotra,Sotra,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0
-114063,Cindy Suen,OSI|Strømmen,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,21.0
+114063,Cindy Suen,Strømmen|OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,21.0
 114214,Kaya Marielle Nicolaysen-Hanssen,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 114310,Sofie Holm,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0
 114561,Maja Gjemdal,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
-114658,Amelia Siemiatkowska,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0
-114660,Viktoria Ventislavova Simova,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-114804,Charu Pandey,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,57.0
+114658,Amelia Siemiatkowska,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0
+114660,Viktoria Ventislavova Simova,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0
+114804,Charu Pandey,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,51.0
 114898,Villemo Kjihl,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 114958,Aurora Kaspersen,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,46.0
-115035,Live Johanne Lillerødvann Nordgård,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
+115035,Live Johanne Lillerødvann Nordgård,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,8.0
 115193,Vishakha Giridhar,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
-115218,Sofie Bjelke Samuelsen,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,54.0
+115218,Sofie Bjelke Samuelsen,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,70.0
 115327,Smilla Pedersen Braathen,Tromsø,Tromsø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
 115332,Ida Nemeth-Bjørkli,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 115335,Aud-Othilie Søreng Reppe,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 115403,Vera Alvhilde Vestergaard Grande,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0
-115443,Henriette Otterlei,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,14.0
-115463,Kruthika Raghavan Subodh,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,16.0
-115601,Annelotte Storsul Sverdrup,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,42.0
-115622,Halle Samuel,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0
+115443,Henriette Otterlei,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,6.0
+115463,Kruthika Raghavan Subodh,Stavanger,Stavanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,10.0
+115601,Annelotte Storsul Sverdrup,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,46.0
+115622,Halle Samuel,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0
 115688,Milaniia Petrina,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,78.0
 115712,Chinbe Weeratoon Svensson,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,44.0
 115739,Siyang Emily Ji,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0
@@ -1295,62 +1295,62 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 115888,Jianing Zuo,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0
 115931,Linnea Hamre,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0
 115977,Nora Karoline Endresen,Tromsø,Tromsø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0
-116009,Amal Mariia Elrozi,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,64.0
+116009,Amal Mariia Elrozi,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0,56.0
 116022,Britt Bohman,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 116173,Silje Krissly Pettersen,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
-116221,Ane Fløttum,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,19.0
+116221,Ane Fløttum,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,18.0
 116282,Vasudha Toka,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 116301,Raya Mariyanova Miteva,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 116399,Alejandra Andrea Pescador,IL Strand-Ulv,IL Strand-Ulv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
-116406,Chloé Lescop,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,2.0
+116406,Chloé Lescop,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0
 116428,Mari Kristine Bernhardsen,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 116519,Qihan Chen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12.0
 116525,Synne Skreosen Dahl,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0
-116534,Egle Dzerviene,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,19.0
-116540,Cecilie Marie Berglund,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,4.0
+116534,Egle Dzerviene,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,22.0
+116540,Cecilie Marie Berglund,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,2.0
 116557,Xiaoyao Xia,Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0
 116564,Seema Stalin,Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0
 116567,Mille Kristine Bjelland,Sandefjord|OSI,Sandefjord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,26.0
 116582,Siying Wang,Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,9.0
 116584,Sofia Wang,Asker|Bærum,Asker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
-116586,Brigita Baltrimaite,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+116586,Brigita Baltrimaite,Klemetsrud,Klemetsrud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 116590,Britt Eglum,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 116617,Anna-Karin Våge,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
 116635,Ina Nguyen,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 116660,Yola Keenlyside,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 116676,Thanh Thanh Tran Vo,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 116682,Marita Fauske,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
-116688,Suying Ding,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,35.0
-116743,Victoria M,Moss|Hamar,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,118.0,0.0
-116784,Anne Kari Vangen Bakken,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
+116688,Suying Ding,Askøy,Askøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,31.0
+116743,Victoria M,Hamar,Hamar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,118.0,0.0
+116784,Anne Kari Vangen Bakken,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
 116798,Linn Berit Eiesar,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
-116819,Susann Dahle Standal,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
+116819,Susann Dahle Standal,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0
 116826,Ann-Karin Endresen,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
 116831,Fabienne Good,Gullvikmoen,Gullvikmoen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,10.0
 116863,Phattaranan Pinthongkam,Tynset,Tynset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0
-116896,Stephanie Wüstefeld,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,24.0
-116897,Ingrid Ersland Undheim,Fitjar,Fitjar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0
+116896,Stephanie Wüstefeld,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,18.0
+116897,Ingrid Ersland Undheim,Fitjar,Fitjar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0
 116900,Rosette,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
-116902,Jonah Nyeitera,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0
+116902,Jonah Nyeitera,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,5.0
 116933,Kjersti Hafsahl,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 116940,Maria Tobota-Johannessen,Karmøy,Karmøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 116951,Myleen Espineda,Lambertseter IF,Lambertseter IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,12.0
 116973,Randi-Kristine Tindslett Svendsen,Herøy,Herøy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0
-117003,Julie Murray,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
-117004,Volna Mackay,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
-117011,Emma Macleod,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
-117012,Jessica Macleod,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
-117013,Arlene Kerr,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+117003,Julie Murray,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+117004,Volna Mackay,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+117011,Emma Macleod,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+117012,Jessica Macleod,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+117013,Arlene Kerr,Skottland,Skottland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 117018,Haiyan Long,Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
 117025,Olea Moe Bergin,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 117044,Helene Ella Ekrem,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-117076,Parvathavardhini Soundararajan,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,19.0
+117076,Parvathavardhini Soundararajan,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,16.0
 117111,Hilde Berg-Hansen,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0
 117130,Kwanthida Poonsawat,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12.0
-117138,Giedre Isganaityte,Flatås|Orkanger,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,7.0
+117138,Giedre Isganaityte,Orkanger|Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,7.0
 117146,Astrid Oberle,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-117169,Mette Sofie Tresselt,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,30.0
-117259,Charlotte Lunde,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+117169,Mette Sofie Tresselt,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,27.0
+117259,Charlotte Lunde,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 100609,Kristina Skauvik,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 102023,Irene Holen,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 102542,Emilie Alm Aasmundrud,Tromsø,Tromsø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0
@@ -1358,7 +1358,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 108927,Celina Mi Le Thanh,Asker|OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136.0
 111544,Vivi Thi Pham,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 111597,Rannveig Berg,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
-111865,Thea Eldegard Andersen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+111865,Thea Eldegard Andersen,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0
 112391,Ulrikke Sørstrand,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
 112570,Lykke Elise Søvik,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
 112649,Thelma Thøgersen,Oppegård IL,Oppegård IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
@@ -1370,6 +1370,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 113419,Yashaswini Toka,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
 113660,Nora Langen,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 113795,Mary Sophia Salvadhoor,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+113805,Abigail Niroshan,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
 113996,Eldrid Fitjar,Fitjar,Fitjar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 114029,Ane Snustad-Grønskag,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 114070,Ruth Grimstad,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0
@@ -1380,6 +1381,8 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 114351,Sofie Larsen Witsø,Norborg,Norborg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
 114359,May Lyngvær,Kirkenes,Kirkenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
 114494,Mia Hegerstrøm Haugli,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0
+114646,Natalia Heinich,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+114661,Mike Skrocki,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 114686,Maria Vartdal,Vigra IL,Vigra IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0
 114802,Emma Nhat-Anh Nguyen,Bærum,Bærum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
 114869,Nova Jonsson,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
@@ -1393,7 +1396,8 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 115628,Merete Fuglum,Grong,Grong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0
 115665,Janna Alexa Rodriguez De Ocampo,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
 115722,Frida Nguyen Phan,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
-115730,Samyukktha Sathyanarayanan,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+115730,Samyukktha Sathyanarayanan,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+115766,Caroline Ernest,Bergen,Bergen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 115802,Sasila Sithamparanathan,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 115838,Nandini Karumuri,Djerv,Djerv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 116002,Amelie Neuville,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
@@ -1410,6 +1414,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 116421,Jingle Ballery Mae Tubal,Tromsøstudentenes IL,Tromsøstudentenes IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
 116444,Heidi Cicilie Haarberg,Rissa,Rissa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 116446,Bhavna Pathania,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+116536,Inger Theoline Teigås,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 116546,Christina Marie Wiggen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 116549,Tone Auran,Klæbu,Klæbu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
 116599,Ida Celine Knausgård,Kristiansand,Kristiansand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
@@ -1418,7 +1423,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 116661,Pirathiha Packiyalingam,Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
 116701,Celina Shuja,Sangam,Sangam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
 116714,Anna Tran,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
-116743,Victoria,Moss|Hamar,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0
+116743,Victoria,Hamar,Hamar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0
 116908,Stine Ånestad Vestly,Varhaug IL,Varhaug IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 116921,Hilde Bliksrud,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 116983,Anique Driessen,Tromsøstudentenes IL,Tromsøstudentenes IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
@@ -1435,10 +1440,10 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 117300,Joanna Pres,Kronstad,Kronstad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 117319,Lena Mielke,Svalbard,Svalbard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 117324,Nuntipat Banwanit,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
-117335,Elise Oberle,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
-117337,Tiantian Zhu,Tromsø,Tromsø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+117335,Elise Oberle,Frøya,Frøya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
+117337,Tiantian Zhu,Tromsø,Tromsø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 117347,Bella Nicoline Bech,Flatås,Flatås,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
-117384,Niyah Anderson,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+117384,Niyah Anderson,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0
 117398,Ingrid Dalsjø,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 117399,Mimi Tran-Nha Nguyen,Strømmen,Strømmen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 117404,Silje Holvik,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
@@ -1478,26 +1483,27 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 117744,Ina Slungård Fundtaunet,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
 117750,Filippa Nordkvist,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0
 117779,Savitha Podalona Narayana,Trondheim,Trondheim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+117781,Aino Eva Woldstad,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
 117792,Gabriela Avda,Stovner,Stovner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 117797,Mekala Devi Brakasam,IL Skrim,IL Skrim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
 117846,Solvår Alm,BSI,BSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 117853,Judith Reindl,Haugerud,Haugerud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
-117855,Nina Trettøy,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
-117860,Anna Elise Haraldsø,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
+117855,Nina Trettøy,Pillarguri,Pillarguri,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+117860,Anna Elise Haraldsø,Kolvereid,Kolvereid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
 117883,Hedda Fiske-Nygaard,Hammerfest,Hammerfest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 117886,Mari Toen Nese,Tromsøstudentenes IL,Tromsøstudentenes IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 117890,Natalia Timokhina,Sortland,Sortland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 117909,Lucie Rosset,Tromsøstudentenes IL,Tromsøstudentenes IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 117963,Hilde Mari Musum,Verdal,Verdal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 117977,Eva Christin Leikanger Indrestrand,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-117979,Anne Lise Gran,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+117979,Anne Lise Gran,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
 118006,Leona Mihaljovic-Kolcic,Moss,Moss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
 118021,Hege Ask,Ålesund,Ålesund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 118028,Aniek van Rodijnen,NTNUI,NTNUI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
-118032,Edit Lundström,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
-118037,Cesilie Jacobsen,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+118032,Edit Lundström,OSI,OSI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0
+118037,Cesilie Jacobsen,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
 118043,Maria Jankowska,Frogner,Frogner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-118045,Laura Bojarskaite,Ullevål,Ullevål,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+118045,Laura Bojarskaite,Ullevål,Ullevål,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0
 118055,Kristina Pirtskhalava,Bodø,Bodø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 118059,Kristianne Hjelseng,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
 118088,Sura Haida Sørlie,Bodø,Bodø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
@@ -1508,7 +1514,7 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 118182,Grace Yeo-Coldevin,Bodø,Bodø,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 118184,Daria Maksimova,Tromsøstudentenes IL,Tromsøstudentenes IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 118193,Veena Marie Melkeråen Oftedal,Sola,Sola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-118203,Vesna Jagrovic,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+118203,Vesna Jagrovic,Levanger,Levanger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
 118205,Thea Vibe Rud Madsen,Tromsøstudentenes IL,Tromsøstudentenes IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 118212,Anna Kolinsky--Clomes,Sola,Sola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
 118219,Veronica Aanestad,Varhaug IL,Varhaug IL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
@@ -1516,6 +1522,9 @@ Spiller-Id,Navn,All Clubs,Current Club,2013,2014,2015,2016,2017,2018,2019,2020,2
 118268,Victoria Stenberg,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
 118272,Amilia Mared,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
 118278,Julia Jansson,Sverige,Sverige,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+118317,Yuna ír Thakham,Island,Island,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
 118327,Kamilla Weka,Hammerfest,Hammerfest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+118338,Synnøva Gro Sæd,Odda,Odda,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 118369,Rylma Mendoza,Lambertseter IF,Lambertseter IF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
-118375,Sakura Rancy Harshani Attanayake,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+118375,Sakura Rancy Harshani Attanayake,Vestre Aker,Vestre Aker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+118406,Hilde Høgberg,Hamar,Hamar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0

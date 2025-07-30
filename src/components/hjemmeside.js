@@ -148,7 +148,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div className="bg-white/5 backdrop-blur-lg rounded-xl p-8 text-center border border-white/10 hover:border-teal-500/30 transition-all duration-300 group hover:bg-white/10">
-                        <div className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-amber-400 mb-2 group-hover:scale-110 transition-transform duration-300">14.05.2025</div>
+                        <div className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-amber-400 mb-2 group-hover:scale-110 transition-transform duration-300">06.07.2025</div>
                         <div className="text-gray-300 font-medium">Sist oppdatert</div>
                         <div className="absolute -top-2 -right-2 w-8 h-8 bg-teal-500/20 rounded-full flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                             <FontAwesomeIcon icon={faCalendar} className="text-teal-400 text-xs" />

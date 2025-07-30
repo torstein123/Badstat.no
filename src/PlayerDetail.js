@@ -1214,19 +1214,6 @@ const PlayerDetail = () => {
           </motion.div>
 
           {/* Year in Review Button */}
-          <div className="w-full mb-4 px-4">
-            <Link
-              to={`/player/${name}/year-in-review`}
-              className="block w-full md:w-auto md:mx-auto max-w-lg py-3 px-6 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-purple-500/30 text-center relative overflow-hidden group"
-            >
-              <span className="absolute inset-0 bg-gradient-to-r from-purple-400/30 to-pink-400/30 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
-              <span className="relative flex items-center justify-center">
-                <span className="mr-2">✨</span>
-                {year} Year in Review
-                <span className="ml-2">✨</span>
-              </span>
-            </Link>
-          </div>
         </div>
       </div>
     </>
