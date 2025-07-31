@@ -1,31 +1,50 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { Line } from 'react-chartjs-2';
 import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChartLine, faTrophy, faMedal, faArrowUp, faArrowDown, faFilter, faChevronDown } from '@fortawesome/free-solid-svg-icons';
-
-// Import ranking data
-import dataHS from '../combined_rankingsHS.json';
-import dataDS from '../combined_rankingsDS.json';
-import dataHD from '../combined_rankingsHD.json';
-import dataDD from '../combined_rankingsDD.json';
-import dataMIX from '../combined_rankingsMIX.json';
+import { getRankingsByCategory } from '../services/databaseService';
 
 const RankingHistoryGraph = ({ playerName }) => {
   const [selectedCategory, setSelectedCategory] = useState('HS');
   const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const [categoryData, setCategoryData] = useState({});
+  const [loading, setLoading] = useState(true);
 
-  // Memoize category data mapping
-  const categoryData = useMemo(() => ({
-    'HS': { data: dataHS, name: 'Herresingle' },
-    'DS': { data: dataDS, name: 'Damesingle' },
-    'HD': { data: dataHD, name: 'Herredouble' },
-    'DD': { data: dataDD, name: 'Damedouble' },
-    'MIX': { data: dataMIX, name: 'Mixed Double' }
-  }), []);
+  // Fetch category data
+  useEffect(() => {
+    const fetchCategoryData = async () => {
+      try {
+        setLoading(true);
+        const categories = ['HS', 'DS', 'HD', 'DD', 'MIX'];
+        const categoryNames = {
+          'HS': 'Herresingle',
+          'DS': 'Damesingle', 
+          'HD': 'Herredouble',
+          'DD': 'Damedouble',
+          'MIX': 'Mixed Double'
+        };
+
+        const data = {};
+        for (const category of categories) {
+          data[category] = {
+            data: await getRankingsByCategory(category),
+            name: categoryNames[category]
+          };
+        }
+        setCategoryData(data);
+      } catch (error) {
+        console.error('Error fetching category data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchCategoryData();
+  }, []);
 
   // Memoize current data and player data
-  const currentData = useMemo(() => categoryData[selectedCategory].data, [selectedCategory, categoryData]);
+  const currentData = useMemo(() => categoryData[selectedCategory]?.data || [], [selectedCategory, categoryData]);
   const playerData = useMemo(() => currentData.find(player => player.Navn === playerName), [currentData, playerName]);
 
   // Memoize years and ranking calculations
@@ -197,6 +216,21 @@ const RankingHistoryGraph = ({ playerName }) => {
     },
   }), []);
 
+  if (loading) {
+    return (
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+        className="bg-white/10 backdrop-blur-sm rounded-xl p-4 sm:p-6 mt-4 sm:mt-8"
+      >
+        <div className="text-center py-6 sm:py-8 text-gray-300 text-sm sm:text-base">
+          Laster rankingdata...
+        </div>
+      </motion.div>
+    );
+  }
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -218,7 +252,7 @@ const RankingHistoryGraph = ({ playerName }) => {
           >
             <div className="flex items-center">
               <FontAwesomeIcon icon={faFilter} className="mr-2 text-sm" />
-              <span className="text-sm">{categoryData[selectedCategory].name}</span>
+              <span className="text-sm">{categoryData[selectedCategory]?.name || 'Laster...'}</span>
             </div>
             <FontAwesomeIcon 
               icon={faChevronDown} 
@@ -273,7 +307,7 @@ const RankingHistoryGraph = ({ playerName }) => {
 
       {!playerData ? (
         <div className="text-center py-6 sm:py-8 text-gray-300 text-sm sm:text-base">
-          Ingen rankingdata tilgjengelig for {playerName} i {categoryData[selectedCategory].name}
+          Ingen rankingdata tilgjengelig for {playerName} i {categoryData[selectedCategory]?.name || 'valgt kategori'}
         </div>
       ) : (
         <>

@@ -20,3 +20,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Large data files - no longer needed with database
+/data
+src/*.json
+src/*.csv
+src/cleaned_file.*
+src/combined_rankings*
+src/all_rankings_combined.csv
+src/combined_rankings_with_clubs*
+
+# Keep only essential JSON files
+!src/config/*.json
+!src/services/*.json
+!package.json
+!package-lock.json

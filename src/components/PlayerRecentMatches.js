@@ -22,6 +22,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faTimes, faFilter } from '@fortawesome/free-solid-svg-icons';
 import AdSlot from './AdSlot'; // Import AdSlot
+import { getPlayerMatches } from '../services/databaseService';
 
 const convertDateString = (dateString) => {
     const parts = dateString.split('.');
@@ -116,14 +117,7 @@ function PlayerRecentMatches({ playerName }) {
         async function fetchMatches() {
             try {
                 setIsLoading(true);
-                const data = require('../cleaned_file.json');
-                // Only load matches for the current player
-                const playerMatches = data.filter(match => 
-                    match["Team 1 Player 1"] === playerName || 
-                    match["Team 1 Player 2"] === playerName ||
-                    match["Team 2 Player 1"] === playerName || 
-                    match["Team 2 Player 2"] === playerName
-                );
+                const playerMatches = await getPlayerMatches(playerName);
                 setAllMatches(playerMatches);
             } catch (error) {
                 console.error("Error fetching the matches:", error);

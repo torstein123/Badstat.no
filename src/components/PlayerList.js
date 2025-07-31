@@ -1,21 +1,45 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useMemo, useRef, useEffect } from 'react';
 import AsyncSelect from 'react-select/async';
 import { useNavigate } from 'react-router-dom';
-import players from '../combined_rankings.json';
+import { searchPlayers } from '../services/databaseService';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch, faSpinner, faTableTennis, faChartLine, faTrophy } from '@fortawesome/free-solid-svg-icons';
 import { motion } from 'framer-motion';
 import ShuttlecockIcon from './ShuttlecockIcon';
 import AdSlot from './AdSlot';
 
-const PlayerList = () => {
+const PlayerList = React.memo(() => {
     const [search, setSearch] = useState('');
-    const [isLoading, setIsLoading] = useState(false);
     const [resultCount, setResultCount] = useState(0);
     const navigate = useNavigate();
+    
+    // Use refs to store stable functions
+    const debounceRef = useRef(null);
+    const searchTimeoutRef = useRef(null);
 
-    // Function to calculate string similarity with improved matching
-    const stringSimilarity = (str1, str2) => {
+    // Cleanup timeout on unmount
+    useEffect(() => {
+        return () => {
+            if (searchTimeoutRef.current) {
+                clearTimeout(searchTimeoutRef.current);
+            }
+        };
+    }, []);
+
+    // Create a stable debounce function
+    const createDebounce = useMemo(() => {
+        return (func, wait) => {
+            return (...args) => {
+                if (searchTimeoutRef.current) {
+                    clearTimeout(searchTimeoutRef.current);
+                }
+                searchTimeoutRef.current = setTimeout(() => func(...args), wait);
+            };
+        };
+    }, []);
+
+    // Stable string similarity function
+    const calculateSimilarity = useCallback((str1, str2) => {
         const s1 = str1.toLowerCase().trim();
         const s2 = str2.toLowerCase().trim();
         
@@ -54,292 +78,169 @@ const PlayerList = () => {
         }
         
         return 0;
-    };
+    }, []);
 
-    // Debounce function to prevent excessive searches
-    const debounce = (func, wait) => {
-        let timeout;
-        return (...args) => {
-            clearTimeout(timeout);
-            timeout = setTimeout(() => func(...args), wait);
-        };
-    };
+    // Create stable loadOptions function
+    const loadOptions = useMemo(() => {
+        if (!debounceRef.current) {
+            debounceRef.current = createDebounce(async (inputValue, callback) => {
+                // If input is empty or just spaces, return empty array
+                if (!inputValue || inputValue.trim() === '') {
+                    setResultCount(0);
+                    callback([]);
+                    return;
+                }
+                
+                try {
+                    // Search players from database
+                    const players = await searchPlayers(inputValue);
+                    
+                    // Filter players with improved matching
+                    const filteredPlayers = players
+                        .map(player => {
+                            const name = player['Navn'];
+                            const similarity = calculateSimilarity(name, inputValue);
+                            return { player, similarity };
+                        })
+                        .filter(item => item.similarity > 0)
+                        .sort((a, b) => b.similarity - a.similarity)
+                        .map(item => ({ 
+                            value: item.player['Navn'], 
+                            label: item.player['Navn'],
+                            data: item.player // Store full player data
+                        }));
+                    
+                    // Update result count
+                    setResultCount(filteredPlayers.length);
+                    callback(filteredPlayers);
+                } catch (error) {
+                    console.error('Error searching players:', error);
+                    setResultCount(0);
+                    callback([]);
+                }
+            }, 400); // Increased debounce time to 400ms
+        }
+        return debounceRef.current;
+    }, [createDebounce, calculateSimilarity]);
 
-    const loadOptions = useCallback(
-        debounce((inputValue, callback) => {
-            setIsLoading(true);
-            
-            // If input is empty or just spaces, return empty array
-            if (!inputValue || inputValue.trim() === '') {
-                setResultCount(0);
-                setIsLoading(false);
-                callback([]);
-                return;
-            }
-            
-            // Filter players with improved matching
-            const filteredPlayers = players
-                .map(player => {
-                    const name = player['Navn'];
-                    const similarity = stringSimilarity(name, inputValue);
-                    return { player, similarity };
-                })
-                .filter(item => item.similarity > 0)
-                .sort((a, b) => b.similarity - a.similarity)
-                .map(item => ({ 
-                    value: item.player['Navn'], 
-                    label: item.player['Navn'],
-                    data: item.player // Store full player data
-                }));
-            
-            // Update result count
-            setResultCount(filteredPlayers.length);
-            
-            // Limit to top 10 results for performance
-            const limitedResults = filteredPlayers.slice(0, 10);
-            
-            setIsLoading(false);
-            callback(limitedResults);
-        }, 150),
-        []
-    );
-
-    const handleSelect = (selectedOption) => {
-        if (!selectedOption) return;
-        setSearch(selectedOption.value);
-        setIsLoading(true);
-        setTimeout(() => {
-            setIsLoading(false);
+    const handleSelect = useCallback((selectedOption) => {
+        if (selectedOption) {
             navigate(`/player/${encodeURIComponent(selectedOption.value)}`);
-        }, 300);
-    };
+        }
+    }, [navigate]);
 
-    const customStyles = {
-        control: (provided, state) => ({
-            ...provided,
-            backgroundColor: 'rgba(255, 255, 255, 0.05)',
-            borderColor: state.isFocused ? '#4f46e5' : 'rgba(255, 255, 255, 0.1)',
-            borderWidth: '2px',
-            borderRadius: '1rem',
-            boxShadow: state.isFocused ? '0 0 0 2px rgba(79, 70, 229, 0.4)' : 'none',
-            '&:hover': {
-                borderColor: '#4f46e5',
-                boxShadow: '0 0 0 2px rgba(79, 70, 229, 0.2)'
-            },
-            padding: '0.75rem',
-            paddingLeft: '3rem',
+    // Custom styles for react-select
+    const customStyles = useMemo(() => ({
+        control: (base, state) => ({
+            ...base,
+            background: 'rgba(17, 24, 39, 0.8)',
+            backdropFilter: 'blur(8px)',
+            borderRadius: '0.75rem',
+            borderColor: state.isFocused ? '#60a5fa' : 'rgba(255, 255, 255, 0.2)',
+            boxShadow: state.isFocused ? '0 0 0 2px rgba(96, 165, 250, 0.4)' : 'none',
+            padding: '4px',
             cursor: 'text',
-            transition: 'all 0.2s ease',
-            fontSize: '1.1rem'
-        }),
-        input: (provided) => ({
-            ...provided,
-            color: '#fff !important',
-            caretColor: '#fff',
-            fontSize: '1.1rem'
-        }),
-        placeholder: (provided) => ({
-            ...provided,
-            color: 'rgba(255, 255, 255, 0.6)',
-            fontSize: '1.1rem'
-        }),
-        singleValue: (provided) => ({
-            ...provided,
-            color: '#fff',
-            fontSize: '1.1rem'
-        }),
-        option: (provided, state) => ({
-            ...provided,
-            backgroundColor: state.isFocused ? 'rgba(79, 70, 229, 0.2)' : 'transparent',
-            color: '#fff',
-            cursor: 'pointer',
-            transition: 'all 0.2s ease',
-            ':active': {
-                backgroundColor: 'rgba(79, 70, 229, 0.3)'
-            },
-            padding: '12px 16px',
-            fontSize: '1.05rem',
             '&:hover': {
-                backgroundColor: 'rgba(79, 70, 229, 0.2)',
+                borderColor: '#60a5fa'
+            },
+            minWidth: '300px',
+            '@media (max-width: 640px)': {
+                minWidth: '100%',
             }
         }),
-        menu: (provided) => ({
-            ...provided,
-            backgroundColor: 'rgb(17, 24, 39)',
-            borderRadius: '1rem',
-            overflow: 'hidden',
-            boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
-            border: '1px solid rgba(255, 255, 255, 0.1)',
-            backdropFilter: 'blur(12px)',
+        menu: (base) => ({
+            ...base,
+            background: 'rgba(31, 41, 55, 0.98)',
+            backdropFilter: 'blur(8px)',
+            borderRadius: '0.75rem',
+            border: '1px solid rgba(255, 255, 255, 0.2)',
             zIndex: 9999
         }),
-        menuList: (provided) => ({
-            ...provided,
-            padding: '0.5rem',
-            '&::-webkit-scrollbar': {
-                width: '4px',
+        option: (base, state) => ({
+            ...base,
+            backgroundColor: state.isFocused ? 'rgba(96, 165, 250, 0.2)' : 'transparent',
+            color: state.isFocused ? '#ffffff' : '#d1d5db',
+            '&:hover': {
+                backgroundColor: 'rgba(96, 165, 250, 0.2)',
+                color: '#ffffff'
             },
-            '&::-webkit-scrollbar-track': {
-                background: 'transparent',
-            },
-            '&::-webkit-scrollbar-thumb': {
-                background: 'rgba(255, 255, 255, 0.1)',
-                borderRadius: '2px',
-            },
+            cursor: 'pointer',
         }),
-        loadingMessage: (provided) => ({
-            ...provided,
-            color: '#fff',
-            backgroundColor: 'transparent',
-            fontSize: '1.05rem'
+        singleValue: (base) => ({
+            ...base,
+            color: '#ffffff',
         }),
-        noOptionsMessage: (provided) => ({
-            ...provided,
-            color: '#fff',
-            backgroundColor: 'transparent',
-            fontSize: '1.05rem'
-        })
-    };
-
-    if (isLoading) {
-        return (
-            <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 flex items-center justify-center">
-                <motion.div 
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    transition={{ duration: 0.3 }}
-                    className="text-center"
-                >
-                    <ShuttlecockIcon className="w-12 h-12 text-indigo-500 animate-spin mx-auto mb-4" color="currentColor" />
-                    <p className="text-gray-300">Laster spillere...</p>
-                </motion.div>
-            </div>
-        );
-    }
+        input: (base) => ({
+            ...base,
+            color: '#ffffff',
+        }),
+        placeholder: (base) => ({
+            ...base,
+            color: '#9ca3af',
+        }),
+    }), []);
 
     return (
-        <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 pt-24 px-4 pb-12">
-            <div className="max-w-4xl mx-auto">
-                {/* Header Section */}
-                <motion.div 
+        <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
+            <div className="container mx-auto px-4 py-8">
+                <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6 }}
-                    className="text-center mb-16"
+                    className="max-w-4xl mx-auto"
                 >
-                    <div className="inline-block p-2 px-4 rounded-full bg-indigo-500/10 text-indigo-400 mb-4">
-                        <ShuttlecockIcon className="w-5 h-5 inline-block mr-2 animate-spin" color="currentColor" />
-                        Basert på 174.000 kamper siden 2013
+                    <div className="text-center mb-8">
+                        <h1 className="text-4xl font-bold text-white mb-4">
+                            Basert på 174.000 kamper siden 2013
+                        </h1>
+                        <h2 className="text-2xl text-gray-300 mb-8">Spillersøk</h2>
+                        <p className="text-lg text-gray-400 mb-8">
+                            Søk blant alle spillere i Norge
+                        </p>
                     </div>
-                    <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 tracking-tight">
-                        Spillersøk
-                    </h1>
-                    <p className="text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
-                        Søk blant alle spillere i Norge
-                    </p>
-                </motion.div>
 
-                {/* Search Section */}
-                <motion.div 
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.6, delay: 0.2 }}
-                    className="relative w-full max-w-2xl mx-auto"
-                >
-                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10">
-                        {isLoading ? (
-                            <FontAwesomeIcon 
-                                icon={faSpinner} 
-                                className="w-5 h-5 text-indigo-400 animate-spin" 
+                    <div className="bg-gray-800/50 backdrop-blur-sm rounded-2xl p-8 border border-gray-700/50">
+                        <div className="mb-6">
+                            <label className="block text-white text-sm font-medium mb-2">
+                                Søk etter spillernavn...
+                            </label>
+                            <AsyncSelect
+                                value={search}
+                                onChange={handleSelect}
+                                loadOptions={loadOptions}
+                                placeholder="Skriv spillernavn..."
+                                styles={customStyles}
+                                isClearable
+                                isSearchable
+                                cacheOptions
+                                defaultOptions
+                                loadingMessage={() => "Søker..."}
+                                noOptionsMessage={() => "Ingen spillere funnet"}
                             />
-                        ) : (
-                            <FontAwesomeIcon 
-                                icon={faSearch} 
-                                className="w-5 h-5 text-indigo-400" 
-                            />
-                        )}
-                    </div>
-                    <AsyncSelect
-                        loadOptions={loadOptions}
-                        onChange={handleSelect}
-                        value={search ? { value: search, label: search } : null}
-                        defaultOptions={[]}
-                        cacheOptions
-                        styles={customStyles}
-                        placeholder="Søk etter spillernavn..."
-                        isLoading={isLoading}
-                        loadingMessage={() => "Søker..."}
-                        noOptionsMessage={() => "Ingen spillere funnet"}
-                        className="player-select"
-                        classNamePrefix="player-select"
-                        components={{
-                            DropdownIndicator: () => null,
-                            IndicatorSeparator: () => null
-                        }}
-                        isClearable
-                        isSearchable
-                        blurInputOnSelect
-                        minMenuHeight={100}
-                        maxMenuHeight={300}
-                        menuPlacement="auto"
-                        openMenuOnClick={false}
-                        openMenuOnFocus={false}
-                    />
-                </motion.div>
-
-                {/* Ad Slot moved below the search bar */}
-                <motion.div 
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    transition={{ duration: 0.6, delay: 0.3 }}
-                    style={{ marginTop: '32px', display: 'flex', justifyContent: 'center' }}
-                >
-                    <AdSlot 
-                        adSlot="7152830155" 
-                        adClient="ca-pub-6338038731129939"
-                    />
-                </motion.div>
-
-                {/* Features Section */}
-                <motion.div 
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.6, delay: 0.4 }}
-                    className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 text-center"
-                >
-                    <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 transform hover:scale-105 transition-all duration-300 hover:bg-white/15">
-                        <div className="w-12 h-12 bg-indigo-500/20 rounded-xl flex items-center justify-center mx-auto mb-6">
-                            <FontAwesomeIcon icon={faTrophy} className="text-2xl text-indigo-400" />
                         </div>
-                        <h3 className="text-xl font-semibold text-white mb-3">Se Ranking</h3>
-                        <p className="text-gray-300 leading-relaxed">
-                            Se nåværende spillerrankinger og følg deres posisjon i den nasjonale rangeringen
-                        </p>
-                    </div>
-                    <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 transform hover:scale-105 transition-all duration-300 hover:bg-white/15">
-                        <div className="w-12 h-12 bg-indigo-500/20 rounded-xl flex items-center justify-center mx-auto mb-6">
-                            <ShuttlecockIcon className="w-6 h-6 text-indigo-400" color="currentColor" />
-                        </div>
-                        <h3 className="text-xl font-semibold text-white mb-3">Se Alle Kamper</h3>
-                        <p className="text-gray-300 leading-relaxed">
-                            Tilgang til komplett kamphistorikk inkludert resultater, motstandere og turneringsdetaljer
-                        </p>
-                    </div>
-                    <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 transform hover:scale-105 transition-all duration-300 hover:bg-white/15">
-                        <div className="w-12 h-12 bg-indigo-500/20 rounded-xl flex items-center justify-center mx-auto mb-6">
-                            <FontAwesomeIcon icon={faChartLine} className="text-2xl text-indigo-400" />
-                        </div>
-                        <h3 className="text-xl font-semibold text-white mb-3">Historisk Data</h3>
-                        <p className="text-gray-300 leading-relaxed">
-                            Utforsk spillerprestasjoner og statistikk over tid
-                        </p>
-                    </div>
-                </motion.div>
 
+                        <div className="mt-8 text-center text-gray-400">
+                            <p>Velg en spiller for å se deres statistikk og kamphistorikk</p>
+                        </div>
+                    </div>
+
+                    {/* Ad Slot */}
+                    <motion.div 
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        transition={{ duration: 0.6, delay: 0.3 }}
+                        style={{ marginTop: '32px', display: 'flex', justifyContent: 'center' }}
+                    >
+                        <AdSlot 
+                            adSlot="7152830155" 
+                            adClient="ca-pub-6338038731129939"
+                        />
+                    </motion.div>
+                </motion.div>
             </div>
         </div>
     );
-};
+});
 
 export default PlayerList;
 

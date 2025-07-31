@@ -12,7 +12,7 @@ const ClosestMatch = ({ data }) => {
   
   return (
     <StatCard 
-      title="Nail-Biter Match" 
+      title="Neglebiterkamp" 
       icon={faBolt} 
       iconColor="text-amber-400"
       delay={7}
@@ -25,7 +25,7 @@ const ClosestMatch = ({ data }) => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 3.1 }}
         >
-          The match that kept everyone on the edge of their seats
+          Kampen som holdt alle på kanten av setene
         </motion.h3>
         
         <div className="grid grid-cols-1 md:grid-cols-5 gap-4 items-center mb-8">
@@ -51,7 +51,7 @@ const ClosestMatch = ({ data }) => {
               animate={{ opacity: 1 }}
               transition={{ delay: 3.3 }}
             >
-              You
+              Deg
             </motion.span>
           </div>
           
@@ -66,7 +66,7 @@ const ClosestMatch = ({ data }) => {
                   transition={{ delay: 3.4 + (index * 0.2) }}
                 >
                   <div className="text-xl font-bold text-amber-400">{score}</div>
-                  <div className="text-xs text-gray-400">Set {index + 1}</div>
+                  <div className="text-xs text-gray-400">Sett {index + 1}</div>
                 </motion.div>
               ))}
             </div>
@@ -111,8 +111,8 @@ const ClosestMatch = ({ data }) => {
           </div>
           
           <p className="text-gray-300 text-sm">
-            This epic battle pushed you to your limits and showcased your determination.
-            Every point was contested, and the atmosphere was electric as the match went down to the wire!
+            Denne episke kampen presset deg til dine grenser og viste din besluttsomhet.
+            Hvert poeng ble omstridt, og atmosfæren var elektrisk da kampen gikk til wire!
           </p>
           
           <motion.div 
@@ -121,7 +121,7 @@ const ClosestMatch = ({ data }) => {
             animate={{ opacity: 1 }}
             transition={{ delay: 4.2 }}
           >
-            {['Intense', 'Thrilling', 'Epic'].map((tag, index) => (
+            {['Intens', 'Spennende', 'Episk'].map((tag, index) => (
               <span 
                 key={index}
                 className="inline-block px-3 py-1 rounded-full bg-amber-500/20 text-amber-300 text-xs"

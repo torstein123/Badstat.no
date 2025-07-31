@@ -42,11 +42,7 @@ import ClosestMatch from './ClosestMatch';
 import RankingDistribution from './RankingDistribution';
 import SEO from '../SEO';
 import processPlayerData from '../../utils/processPlayerData';
-import dataHS from '../../combined_rankingsHS.json';
-import dataDS from '../../combined_rankingsDS.json';
-import dataHD from '../../combined_rankingsHD.json';
-import dataDD from '../../combined_rankingsDD.json';
-import dataMIX from '../../combined_rankingsMIX.json';
+import { getPlayerRankingsByCategory, getPlayerMatches } from '../../services/databaseService';
 
 // Fun comments for each slide
 const slideComments = {
@@ -460,10 +456,10 @@ const YearInReview = () => {
         // Update loading status
         setLoadingStatus('Laster kampdata...');
         
-        // Import match data
-        const matchData = require('../../cleaned_file.json');
+        // Get match data from database
+        const matchData = await getPlayerMatches(name);
         
-        // Filter matches for the player and current season (2024/2025)
+        // Filter matches for the current season (2024/2025)
         const playerMatches = matchData.filter(match => {
           // Check if player is in the match and player names are valid
           const playerInMatch = match["Team 1 Player 1"] === name || 
@@ -483,9 +479,10 @@ const YearInReview = () => {
           
           // Try to determine season from the Season field if available
           if (match.Season) {
-            isCurrentSeason = match.Season.includes('2024/2025') || 
+            isCurrentSeason = match.Season === '2024/2025' || 
                              match.Season === '2024-2025' || 
-                             match.Season === '2024/25';
+                             match.Season === '2024/25' ||
+                             match.Season.includes('2024/2025');
           } 
           // If no Season field, try to determine from date
           else if (match.Date) {
@@ -514,10 +511,24 @@ const YearInReview = () => {
           return playerInMatch && hasValidPlayers && isCurrentSeason;
         });
         
+        // Debug logging
+        if (process.env.NODE_ENV === 'development') {
+          console.log(`YearInReview: Found ${matchData.length} total matches for ${name}`);
+          console.log(`YearInReview: Filtered to ${playerMatches.length} matches for 2024/2025 season`);
+          if (playerMatches.length > 0) {
+            console.log('YearInReview: Sample match:', {
+              season: playerMatches[0].Season,
+              date: playerMatches[0].Date,
+              tournament: playerMatches[0]['Tournament Name'],
+              result: playerMatches[0].Result
+            });
+          }
+        }
+        
         setLoadingStatus('Analyserer kamper...');
         
         // Get player statistics using the existing utility function
-        const playerStats = processPlayerData(name);
+        const playerStats = await processPlayerData(name);
         
         setLoadingStatus('Beregner rangeringer...');
         
@@ -526,11 +537,11 @@ const YearInReview = () => {
         const previousYear = '2023';
         
         // Get player data from all categories
-        const playerHS = dataHS.find(player => player.Navn === name);
-        const playerDS = dataDS.find(player => player.Navn === name);
-        const playerHD = dataHD.find(player => player.Navn === name);
-        const playerDD = dataDD.find(player => player.Navn === name);
-        const playerMIX = dataMIX.find(player => player.Navn === name);
+        const playerHS = await getPlayerRankingsByCategory(name, 'HS');
+        const playerDS = await getPlayerRankingsByCategory(name, 'DS');
+        const playerHD = await getPlayerRankingsByCategory(name, 'HD');
+        const playerDD = await getPlayerRankingsByCategory(name, 'DD');
+        const playerMIX = await getPlayerRankingsByCategory(name, 'MIX');
         
         // Determine if player is male or female based on which category has more points
         const isMale = (playerHS ? parseFloat(playerHS[currentYear] || 0) : 0) > 

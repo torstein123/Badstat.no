@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import data from '../combined_rankings.json';
+import { getPlayerRankings } from '../services/databaseService';
 import { Line } from 'react-chartjs-2';
 import HeadToHead from './headTohead.js' ;
 import { motion } from 'framer-motion';
@@ -141,8 +141,44 @@ const PlayerChart = ({ player1Data, player2Data }) => {
 
 const PlayerComparison = () => {
     const { player1, player2 } = useParams();
-    const player1Data = data.find(player => player.Navn === decodeURIComponent(player1));
-    const player2Data = data.find(player => player.Navn === decodeURIComponent(player2));
+    const [player1Data, setPlayer1Data] = useState(null);
+    const [player2Data, setPlayer2Data] = useState(null);
+    const [loading, setLoading] = useState(true);
+
+    useEffect(() => {
+        const fetchPlayerData = async () => {
+            try {
+                setLoading(true);
+                const player1Name = decodeURIComponent(player1);
+                const player2Name = decodeURIComponent(player2);
+                
+                const [player1Rankings, player2Rankings] = await Promise.all([
+                    getPlayerRankings(player1Name),
+                    getPlayerRankings(player2Name)
+                ]);
+                
+                // Get the first ranking record for each player (they should be the same across categories)
+                setPlayer1Data(player1Rankings[0] || null);
+                setPlayer2Data(player2Rankings[0] || null);
+            } catch (error) {
+                console.error('Error fetching player data:', error);
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        fetchPlayerData();
+    }, [player1, player2]);
+
+    if (loading) {
+        return (
+            <div className="min-h-screen bg-gray-900 text-white py-8 px-4 sm:px-6 lg:px-8">
+                <div className="max-w-7xl mx-auto text-center">
+                    <p className="text-gray-400">Laster spillerdata...</p>
+                </div>
+            </div>
+        );
+    }
 
     if (!player1Data || !player2Data) {
         return (

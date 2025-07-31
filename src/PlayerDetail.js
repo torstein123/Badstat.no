@@ -41,14 +41,9 @@ import RankingHistoryGraph from './components/RankingHistoryGraph';
 import ShuttlecockIcon from './components/ShuttlecockIcon';
 import processPlayerData from './utils/processPlayerData';
 import AdSlot from './components/AdSlot'; // Import AdSlot
+import { getPlayerAllRankings, getPlayerMatches, getRankingsByCategory } from './services/databaseService';
 
-// ----- Local JSON/data imports -----
-import data from './combined_rankings.json';
-import dataDD from './combined_rankingsDD.json';
-import dataDS from './combined_rankingsDS.json';
-import dataHS from './combined_rankingsHS.json';
-import dataHD from './combined_rankingsHD.json';
-import dataMIX from './combined_rankingsMIX.json';
+// ----- Local data imports -----
 import clubLogos from './clubLogos.js';      
 import playerImages from './playerImages.js'; 
 import achievementsConfig from './config/achievementsConfig';
@@ -375,6 +370,20 @@ const PlayerDetail = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
   const [recentMatches, setRecentMatches] = useState([]);
 
+  // Add state for ranking data
+  const [dataHS, setDataHS] = useState([]);
+  const [dataDS, setDataDS] = useState([]);
+  const [dataHD, setDataHD] = useState([]);
+  const [dataDD, setDataDD] = useState([]);
+  const [dataMIX, setDataMIX] = useState([]);
+  
+  // Add state for third set stats
+  const [thirdSetStats, setThirdSetStats] = useState({
+    winRate: '0.0',
+    matches: 0,
+    wins: 0
+  });
+
   // Define years at the top
   const previousYear = '2023';
   const currentYear = '2024';
@@ -397,8 +406,6 @@ const PlayerDetail = () => {
     previousRank,
     rankChange,
     pointsChange,
-    thirdSetStats,
-    winRateInfo,
     playerClass,
     seoDescription
   } = useMemo(() => {
@@ -546,37 +553,8 @@ const PlayerDetail = () => {
     const rankChange = previousRank && currentRank ? previousRank - currentRank : 0;
     const pointsChange = currentPointsInCategory - previousPointsInCategory;
 
-    // Process third set stats
-    const thirdSetStats = (() => {
-      const stats = processPlayerData(playerName);
-      if (category === 'single') {
-        return {
-          winRate: stats?.singleDeciderWinRate?.toFixed(1) || '0.0',
-          matches: stats?.singleDeciderMatches || 0,
-          wins: stats?.singleDeciderWins || 0
-        };
-      } else if (category === 'double') {
-        return {
-          winRate: stats?.doubleDeciderWinRate?.toFixed(1) || '0.0',
-          matches: stats?.doubleDeciderMatches || 0,
-          wins: stats?.doubleDeciderWins || 0
-        };
-      } else if (category === 'mix') {
-        return {
-          winRate: stats?.mixDeciderWinRate?.toFixed(1) || '0.0',
-          matches: stats?.mixDeciderMatches || 0,
-          wins: stats?.mixDeciderWins || 0
-        };
-      } else {
-        return {
-          winRate: stats?.deciderWinRate?.toFixed(1) || '0.0',
-          matches: stats?.deciderMatches || 0,
-          wins: stats?.deciderWins || 0
-        };
-      }
-    })();
 
-    const winRateInfo = calculateWinRateInfo(parseFloat(thirdSetStats.winRate));
+
     const playerClass = getPlayerClass(recentMatches);
 
     // Generate SEO description
@@ -603,12 +581,10 @@ const PlayerDetail = () => {
       previousRank,
       rankChange,
       pointsChange,
-      thirdSetStats,
-      winRateInfo,
       playerClass,
       seoDescription
     };
-  }, [category, playerName, currentYear, previousYear, recentMatches]);
+  }, [category, playerName, currentYear, previousYear, recentMatches, dataHS, dataDS, dataHD, dataDD, dataMIX]);
 
   // Add effects
   useEffect(() => {
@@ -637,14 +613,8 @@ const PlayerDetail = () => {
   useEffect(() => {
     async function fetchMatches() {
       try {
-        const data = require('./cleaned_file.json');
-        const playerMatches = data.filter(match => 
-          match["Team 1 Player 1"] === playerName || 
-          match["Team 1 Player 2"] === playerName ||
-          match["Team 2 Player 1"] === playerName || 
-          match["Team 2 Player 2"] === playerName
-        );
-        setRecentMatches(playerMatches);
+        const playerMatches = await getPlayerMatches(playerName);
+        setRecentMatches(playerMatches.slice(0, 10)); // Only get first 10 matches
       } catch (error) {
         console.error("Error fetching matches:", error);
       }
@@ -652,30 +622,98 @@ const PlayerDetail = () => {
     fetchMatches();
   }, [playerName]);
 
-  if (!playerData) {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
-        <motion.div 
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: isMobile ? 0.3 : 0.6 }}
-          className="text-center p-8 bg-white/10 backdrop-blur-md rounded-2xl shadow-lg"
-        >
-          <h1 className="text-2xl font-bold text-white mb-4">Spiller ikke funnet</h1>
-          <p className="text-gray-300 mb-6">Vi kunne ikke finne informasjon om denne spilleren.</p>
-          <Link to="/" className="inline-flex items-center px-4 py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 transition-all duration-300 transform hover:scale-105">
-            <FontAwesomeIcon icon={faHome} className="mr-2" />
-            Gå til forsiden
-          </Link>
-        </motion.div>
-      </div>
-    );
-  }
+  // Fetch ranking data
+  useEffect(() => {
+    const fetchRankingData = async () => {
+      try {
+        const [hsData, dsData, hdData, ddData, mixData] = await Promise.all([
+          getRankingsByCategory('HS'),
+          getRankingsByCategory('DS'),
+          getRankingsByCategory('HD'),
+          getRankingsByCategory('DD'),
+          getRankingsByCategory('MIX')
+        ]);
+        
+        setDataHS(hsData || []);
+        setDataDS(dsData || []);
+        setDataHD(hdData || []);
+        setDataDD(ddData || []);
+        setDataMIX(mixData || []);
+      } catch (error) {
+        console.error('Error fetching ranking data:', error);
+        setDataHS([]);
+        setDataDS([]);
+        setDataHD([]);
+        setDataDD([]);
+        setDataMIX([]);
+      }
+    };
+
+    fetchRankingData();
+  }, []);
+
+  // Fetch third set stats
+  useEffect(() => {
+    const fetchThirdSetStats = async () => {
+      try {
+        const stats = await processPlayerData(playerName);
+        let newThirdSetStats;
+        
+        if (category === 'single') {
+          newThirdSetStats = {
+            winRate: stats?.singleDeciderWinRate?.toFixed(1) || '0.0',
+            matches: stats?.singleDeciderMatches || 0,
+            wins: stats?.singleDeciderWins || 0
+          };
+        } else if (category === 'double') {
+          newThirdSetStats = {
+            winRate: stats?.doubleDeciderWinRate?.toFixed(1) || '0.0',
+            matches: stats?.doubleDeciderMatches || 0,
+            wins: stats?.doubleDeciderWins || 0
+          };
+        } else if (category === 'mix') {
+          newThirdSetStats = {
+            winRate: stats?.mixDeciderWinRate?.toFixed(1) || '0.0',
+            matches: stats?.mixDeciderMatches || 0,
+            wins: stats?.mixDeciderWins || 0
+          };
+        } else {
+          newThirdSetStats = {
+            winRate: stats?.deciderWinRate?.toFixed(1) || '0.0',
+            matches: stats?.deciderMatches || 0,
+            wins: stats?.deciderWins || 0
+          };
+        }
+        
+        setThirdSetStats(newThirdSetStats);
+      } catch (error) {
+        console.error('Error fetching third set stats:', error);
+        setThirdSetStats({
+          winRate: '0.0',
+          matches: 0,
+          wins: 0
+        });
+      }
+    };
+
+    fetchThirdSetStats();
+  }, [playerName, category]);
+
+
 
   // Handle Clubs with memoization
   const { currentClub, allClubsExceptCurrent, logoComponents, clubsDisplayString } = useMemo(() => {
+    if (!playerData) {
+      return {
+        currentClub: '',
+        allClubsExceptCurrent: [],
+        logoComponents: [],
+        clubsDisplayString: ''
+      };
+    }
+    
     const allClubsArray = playerData['All Clubs'] ? playerData['All Clubs'].split('|') : [];
-    const currentClub = playerData['Current Club'];
+    const currentClub = playerData['Current Club'] || '';
     const allClubsExceptCurrent = allClubsArray.filter(club => club !== currentClub);
 
     const logoComponents = allClubsExceptCurrent
@@ -721,13 +759,13 @@ const PlayerDetail = () => {
   }), [validYears, rankData, totalActivePlayers]);
 
   // Quick calculations that depend on the memoized values
-  const totalPoints = useMemo(() => 
-    validYears.reduce(
-      (acc, year) => acc + parseFloat(playerData[year]),
+  const totalPoints = useMemo(() => {
+    if (!playerData) return 0;
+    return validYears.reduce(
+      (acc, year) => acc + parseFloat(playerData[year] || 0),
       0
-    ),
-    [validYears, playerData]
-  );
+    );
+  }, [validYears, playerData]);
 
   const averageRank = useMemo(() => 
     rankData.reduce((acc, rank) => acc + rank, 0) / rankData.length,
@@ -762,12 +800,24 @@ const PlayerDetail = () => {
     }
   }, [currentPointsInCategory, previousPointsInCategory]);
 
-  const currentClubLogo = useMemo(() => clubLogos[playerData['Current Club']], [playerData]);
-  const playerImage = useMemo(() => 
-    playerImages[playerData['Spiller-Id']] ||
-    'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath d="M12 13.5c2.3 0 4.2-1.9 4.2-4.2S14.3 5.1 12 5.1 7.8 7 7.8 9.3s1.9 4.2 4.2 4.2zm0-7c1.5 0 2.8 1.2 2.8 2.8s-1.2 2.8-2.8 2.8S9.2 10.8 9.2 9.3s1.3-2.8 2.8-2.8zm5.6 8.4c-.3-.2-.7-.2-1 0-1.2.7-2.9 1.1-4.6 1.1s-3.4-.4-4.6-1.1c-.3-.2-.7-.2-1 0-2.2 1.4-3.5 3-3.8 4.8-.1.5.3 1 .8 1h17.2c.5 0 .9-.5.8-1-.3-1.8-1.6-3.4-3.8-4.8z" fill="%236366f1" /%3E%3C/svg%3E',
-    [playerData, playerImages]
+  const currentClubLogo = useMemo(() => {
+    if (!playerData) return null;
+    return clubLogos[playerData['Current Club']] || null;
+  }, [playerData]);
+
+  // Calculate win rate info from third set stats
+  const winRateInfo = useMemo(() => 
+    calculateWinRateInfo(parseFloat(thirdSetStats.winRate)),
+    [thirdSetStats.winRate]
   );
+  
+  const playerImage = useMemo(() => {
+    if (!playerData) {
+      return 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath d="M12 13.5c2.3 0 4.2-1.9 4.2-4.2S14.3 5.1 12 5.1 7.8 7 7.8 9.3s1.9 4.2 4.2 4.2zm0-7c1.5 0 2.8 1.2 2.8 2.8s-1.2 2.8-2.8 2.8S9.2 10.8 9.2 9.3s1.3-2.8 2.8-2.8zm5.6 8.4c-.3-.2-.7-.2-1 0-1.2.7-2.9 1.1-4.6 1.1s-3.4-.4-4.6-1.1c-.3-.2-.7-.2-1 0-2.2 1.4-3.5 3-3.8 4.8-.1.5.3 1 .8 1h17.2c.5 0 .9-.5.8-1-.3-1.8-1.6-3.4-3.8-4.8z" fill="%236366f1" /%3E%3C/svg%3E';
+    }
+    return playerImages[playerData['Spiller-Id']] ||
+      'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath d="M12 13.5c2.3 0 4.2-1.9 4.2-4.2S14.3 5.1 12 5.1 7.8 7 7.8 9.3s1.9 4.2 4.2 4.2zm0-7c1.5 0 2.8 1.2 2.8 2.8s-1.2 2.8-2.8 2.8S9.2 10.8 9.2 9.3s1.3-2.8 2.8-2.8zm5.6 8.4c-.3-.2-.7-.2-1 0-1.2.7-2.9 1.1-4.6 1.1s-3.4-.4-4.6-1.1c-.3-.2-.7-.2-1 0-2.2 1.4-3.5 3-3.8 4.8-.1.5.3 1 .8 1h17.2c.5 0 .9-.5.8-1-.3-1.8-1.6-3.4-3.8-4.8z" fill="%236366f1" /%3E%3C/svg%3E';
+  }, [playerData, playerImages]);
 
   // Helper function to format rank display
   const formatRankDisplay = useCallback((rank, total) => {
@@ -795,6 +845,27 @@ const PlayerDetail = () => {
         >
           <ShuttlecockIcon className="w-16 h-16 text-indigo-500 animate-spin mx-auto mb-4" color="currentColor" />
           <p className="text-gray-300">Laster spillerdata...</p>
+        </motion.div>
+      </div>
+    );
+  }
+
+  // Check for player data after all hooks have been called
+  if (!playerData) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
+        <motion.div 
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: isMobile ? 0.3 : 0.6 }}
+          className="text-center p-8 bg-white/10 backdrop-blur-md rounded-2xl shadow-lg"
+        >
+          <h1 className="text-2xl font-bold text-white mb-4">Spiller ikke funnet</h1>
+          <p className="text-gray-300 mb-6">Vi kunne ikke finne informasjon om denne spilleren.</p>
+          <Link to="/" className="inline-flex items-center px-4 py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 transition-all duration-300 transform hover:scale-105">
+            <FontAwesomeIcon icon={faHome} className="mr-2" />
+            Gå til forsiden
+          </Link>
         </motion.div>
       </div>
     );

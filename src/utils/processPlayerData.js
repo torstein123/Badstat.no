@@ -1,110 +1,136 @@
-const processPlayerData = (playerName) => {
-    const playerMatches = require('../cleaned_file.json'); // Adjust the path as necessary
+import { getPlayerMatches } from '../services/databaseService';
 
-    const filteredMatches = playerMatches.filter(match =>
-        match['Team 1 Player 1'] === playerName || match['Team 1 Player 2'] === playerName ||
-        match['Team 2 Player 1'] === playerName || match['Team 2 Player 2'] === playerName
-    );
+const processPlayerData = async (playerName) => {
+    try {
+        const playerMatches = await getPlayerMatches(playerName);
 
-    // Initialize counters for each category
-    let deciderWins = 0;
-    let deciderMatches = 0;
-    let singleDeciderWins = 0;
-    let singleDeciderMatches = 0;
-    let doubleDeciderWins = 0;
-    let doubleDeciderMatches = 0;
-    let mixDeciderWins = 0;
-    let mixDeciderMatches = 0;
+        const filteredMatches = playerMatches.filter(match =>
+            match['Team 1 Player 1'] === playerName || match['Team 1 Player 2'] === playerName ||
+            match['Team 2 Player 1'] === playerName || match['Team 2 Player 2'] === playerName
+        );
 
-    const comebackWinScores = [];
-    let strongThirdSets = 0;
+        // Initialize counters for each category
+        let deciderWins = 0;
+        let deciderMatches = 0;
+        let singleDeciderWins = 0;
+        let singleDeciderMatches = 0;
+        let doubleDeciderWins = 0;
+        let doubleDeciderMatches = 0;
+        let mixDeciderWins = 0;
+        let mixDeciderMatches = 0;
 
-    filteredMatches.forEach(match => {
-        const sets = match.Result.split(',').map(set => set.split('/').map(Number));
-        
-        if (sets.length === 3) { // The match went to a deciding set
-            deciderMatches++;
+        const comebackWinScores = [];
+        let strongThirdSets = 0;
 
-            // Determine match type
-            const isSingles = match['Event']?.toLowerCase() === 'herresingle' || 
-                            match['Event']?.toLowerCase() === 'damesingle';
+        filteredMatches.forEach(match => {
+            const sets = match.Result.split(',').map(set => set.split('/').map(Number));
             
-            const isMixed = match['Event']?.toLowerCase() === 'mixeddouble';
-            
-            // Increment category-specific counters
-            if (isSingles) {
-                singleDeciderMatches++;
-            } else if (isMixed) {
-                mixDeciderMatches++;
-            } else {
-                doubleDeciderMatches++;
-            }
+            if (sets.length === 3) { // The match went to a deciding set
+                deciderMatches++;
 
-            const playerWon = (match['Winner Player 1'] === playerName || match['Winner Player 2'] === playerName);
-
-            if (playerWon) {
-                deciderWins++;
-                // Increment category-specific wins
+                // Determine match type
+                const isSingles = match['Event']?.toLowerCase() === 'herresingle' || 
+                                match['Event']?.toLowerCase() === 'damesingle';
+                
+                const isMixed = match['Event']?.toLowerCase() === 'mixeddouble';
+                
+                // Increment category-specific counters
                 if (isSingles) {
-                    singleDeciderWins++;
+                    singleDeciderMatches++;
                 } else if (isMixed) {
-                    mixDeciderWins++;
+                    mixDeciderMatches++;
                 } else {
-                    doubleDeciderWins++;
+                    doubleDeciderMatches++;
+                }
+
+                const playerWon = (match['Winner Player 1'] === playerName || match['Winner Player 2'] === playerName);
+
+                if (playerWon) {
+                    deciderWins++;
+                    // Increment category-specific wins
+                    if (isSingles) {
+                        singleDeciderWins++;
+                    } else if (isMixed) {
+                        mixDeciderWins++;
+                    } else {
+                        doubleDeciderWins++;
+                    }
+                }
+
+                // Existing comeback win logic
+                const firstSetLoss = (match['Team 1 Player 2'] === playerName || match['Team 1 Player 1'] === playerName) ? 
+                                        sets[0][1] - sets[0][0] : sets[0][0] - sets[0][1];
+                const playerWonLastSet = (sets[2][0] > sets[2][1] && match['Winner Player 1'] === playerName) ||
+                                          (sets[2][1] > sets[2][0] && match['Winner Player 2'] === playerName);
+                if (firstSetLoss > 10 && playerWonLastSet) {
+                    comebackWinScores.push(match.Result);
+                }
+
+                if (playerWon) {
+                    strongThirdSets++;
                 }
             }
+        });
 
-            // Existing comeback win logic
-            const firstSetLoss = (match['Team 1 Player 2'] === playerName || match['Team 1 Player 1'] === playerName) ? 
-                                    sets[0][1] - sets[0][0] : sets[0][0] - sets[0][1];
-            const playerWonLastSet = (sets[2][0] > sets[2][1] && match['Winner Player 1'] === playerName) ||
-                                      (sets[2][1] > sets[2][0] && match['Winner Player 2'] === playerName);
-            if (firstSetLoss > 10 && playerWonLastSet) {
-                comebackWinScores.push(match.Result);
-            }
+        // Calculate win rates for each category
+        const deciderWinRate = deciderMatches > 0 ? (deciderWins / deciderMatches) * 100 : 0;
+        const singleDeciderWinRate = singleDeciderMatches > 0 ? (singleDeciderWins / singleDeciderMatches) * 100 : 0;
+        const doubleDeciderWinRate = doubleDeciderMatches > 0 ? (doubleDeciderWins / doubleDeciderMatches) * 100 : 0;
+        const mixDeciderWinRate = mixDeciderMatches > 0 ? (mixDeciderWins / mixDeciderMatches) * 100 : 0;
 
-            if (playerWon) {
-                strongThirdSets++;
-            }
-        }
-    });
+        const comebackWin = comebackWinScores.length > 0;
+        const strongThirdSetPercentage = deciderMatches > 0 ? parseFloat((strongThirdSets / deciderMatches * 100).toFixed(0)) : 0;
+        const comebackGames = comebackWinScores.length;
+        const deciderDominator = deciderWinRate > 60;
 
-    // Calculate win rates for each category
-    const deciderWinRate = deciderMatches > 0 ? (deciderWins / deciderMatches) * 100 : 0;
-    const singleDeciderWinRate = singleDeciderMatches > 0 ? (singleDeciderWins / singleDeciderMatches) * 100 : 0;
-    const doubleDeciderWinRate = doubleDeciderMatches > 0 ? (doubleDeciderWins / doubleDeciderMatches) * 100 : 0;
-    const mixDeciderWinRate = mixDeciderMatches > 0 ? (mixDeciderWins / mixDeciderMatches) * 100 : 0;
-
-    const comebackWin = comebackWinScores.length > 0;
-    const strongThirdSetPercentage = deciderMatches > 0 ? parseFloat((strongThirdSets / deciderMatches * 100).toFixed(0)) : 0;
-    const comebackGames = comebackWinScores.length;
-    const deciderDominator = deciderWinRate > 60;
-
-    return {
-        gamesPlayed: filteredMatches.length,
-        comebackWin,
-        comebackWinScores,
-        comebackGames,
-        // Overall stats
-        deciderWins,
-        deciderMatches,
-        deciderWinRate,
-        // Singles stats
-        singleDeciderWins,
-        singleDeciderMatches,
-        singleDeciderWinRate,
-        // Doubles stats
-        doubleDeciderWins,
-        doubleDeciderMatches,
-        doubleDeciderWinRate,
-        // Mixed stats
-        mixDeciderWins,
-        mixDeciderMatches,
-        mixDeciderWinRate,
-        // Other achievements
-        deciderDominator,
-        strongThirdSetPercentage,
-    };
+        return {
+            gamesPlayed: filteredMatches.length,
+            comebackWin,
+            comebackWinScores,
+            comebackGames,
+            // Overall stats
+            deciderWins,
+            deciderMatches,
+            deciderWinRate,
+            // Singles stats
+            singleDeciderWins,
+            singleDeciderMatches,
+            singleDeciderWinRate,
+            // Doubles stats
+            doubleDeciderWins,
+            doubleDeciderMatches,
+            doubleDeciderWinRate,
+            // Mixed stats
+            mixDeciderWins,
+            mixDeciderMatches,
+            mixDeciderWinRate,
+            // Other achievements
+            deciderDominator,
+            strongThirdSetPercentage,
+        };
+    } catch (error) {
+        console.error('Error processing player data:', error);
+        return {
+            gamesPlayed: 0,
+            comebackWin: false,
+            comebackWinScores: [],
+            comebackGames: 0,
+            deciderWins: 0,
+            deciderMatches: 0,
+            deciderWinRate: 0,
+            singleDeciderWins: 0,
+            singleDeciderMatches: 0,
+            singleDeciderWinRate: 0,
+            doubleDeciderWins: 0,
+            doubleDeciderMatches: 0,
+            doubleDeciderWinRate: 0,
+            mixDeciderWins: 0,
+            mixDeciderMatches: 0,
+            mixDeciderWinRate: 0,
+            deciderDominator: false,
+            strongThirdSetPercentage: 0,
+        };
+    }
 };
 
 export default processPlayerData;

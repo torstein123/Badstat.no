@@ -4,6 +4,7 @@ import './headTohead.css';
 import HeadToHeadStats from './HeadToHeadStats'; // Import the new component
 import MatchPrediction from './MatchPrediction';
 import { motion } from 'framer-motion';
+import { getHeadToHeadMatches } from '../services/databaseService';
 
 function cleanValue(value) {
     if (!value || value === 'NaN' || value === 'undefined') return null;
@@ -29,6 +30,10 @@ function HeadToHead() {
     const [sortOrder, setSortOrder] = useState('desc'); // 'asc' or 'desc'
     const [yearFilter, setYearFilter] = useState('all');
 
+    // Debug: Log the player names from URL
+    console.log('URL params - player1:', player1, 'player2:', player2);
+    console.log('Decoded player1:', decodeURIComponent(player1), 'player2:', decodeURIComponent(player2));
+
     const handleGameTypeChange = (type) => {
         setGameType(type);
     };
@@ -38,7 +43,7 @@ function HeadToHead() {
     };
 
     const headToHeadMatches = useMemo(() => {
-        return allMatches.filter(match => {
+        const filtered = allMatches.filter(match => {
             let matchesType;
             switch (gameType) {
                 case 'Single':
@@ -62,26 +67,35 @@ function HeadToHead() {
                 if (matchYear !== yearFilter) return false;
             }
 
-            return (
-                ((match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1) &&
-                    (match["Team 2 Player 1"] === player2 || match["Team 2 Player 2"] === player2)) ||
-                ((match["Team 1 Player 1"] === player2 || match["Team 1 Player 2"] === player2) &&
-                    (match["Team 2 Player 1"] === player1 || match["Team 2 Player 2"] === player1))
-            );
+            // Since we're already getting head-to-head matches from the database,
+            // we just need to apply the game type and year filters
+            return true;
         });
+
+        console.log('Filtered head-to-head matches:', filtered.length, 'for players:', player1, 'vs', player2);
+        return filtered;
     }, [allMatches, player1, player2, gameType, yearFilter]);
 
     useEffect(() => {
         async function fetchMatches() {
             try {
-                let data = require('../cleaned_file.json');
+                const decodedPlayer1 = decodeURIComponent(player1);
+                const decodedPlayer2 = decodeURIComponent(player2);
+                console.log('Fetching head-to-head matches for:', decodedPlayer1, 'vs', decodedPlayer2);
+                const data = await getHeadToHeadMatches(decodedPlayer1, decodedPlayer2);
+                console.log('Fetched matches:', data.length, 'total matches');
+                if (data.length > 0) {
+                    console.log('Sample match:', data[0]);
+                } else {
+                    console.log('No matches found');
+                }
                 setAllMatches(data);
             } catch (error) {
                 console.error("Error fetching the matches:", error);
             }
         }
         fetchMatches();
-    }, []);
+    }, [player1, player2]); // Add player1 and player2 to dependencies
 
     const GameTypeButtons = () => {
         const gameTypes = ['Alle', 'Single', 'Double', 'Mixed'];

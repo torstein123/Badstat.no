@@ -12,28 +12,57 @@ import {
   faEquals
 } from '@fortawesome/free-solid-svg-icons';
 import StatCard from './StatCard';
-
-// Import ranking data
-import dataHS from '../../combined_rankingsHS.json';
-import dataDS from '../../combined_rankingsDS.json';
-import dataHD from '../../combined_rankingsHD.json';
-import dataDD from '../../combined_rankingsDD.json';
-import dataMIX from '../../combined_rankingsMIX.json';
+import { getPlayerRankingsByCategory } from '../../services/databaseService';
 
 const RankingDistribution = ({ playerName, year }) => {
   const [animateChart, setAnimateChart] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [playerData, setPlayerData] = useState({
+    playerHS: null,
+    playerDS: null,
+    playerHD: null,
+    playerDD: null,
+    playerMIX: null
+  });
   
   const currentYear = year || '2024';
   const previousYear = (parseInt(currentYear) - 1).toString();
   
+  useEffect(() => {
+    const fetchPlayerData = async () => {
+      try {
+        setLoading(true);
+        const [playerHS, playerDS, playerHD, playerDD, playerMIX] = await Promise.all([
+          getPlayerRankingsByCategory(playerName, 'HS'),
+          getPlayerRankingsByCategory(playerName, 'DS'),
+          getPlayerRankingsByCategory(playerName, 'HD'),
+          getPlayerRankingsByCategory(playerName, 'DD'),
+          getPlayerRankingsByCategory(playerName, 'MIX')
+        ]);
+        
+        setPlayerData({
+          playerHS,
+          playerDS,
+          playerHD,
+          playerDD,
+          playerMIX
+        });
+      } catch (error) {
+        console.error('Error fetching player data:', error);
+        setError('Failed to load player data');
+      } finally {
+        setLoading(false);
+      }
+    };
+    
+    if (playerName) {
+      fetchPlayerData();
+    }
+  }, [playerName]);
+  
   // Get player data from each category
-  const playerHS = dataHS.find(player => player.Navn === playerName);
-  const playerDS = dataDS.find(player => player.Navn === playerName);
-  const playerHD = dataHD.find(player => player.Navn === playerName);
-  const playerDD = dataDD.find(player => player.Navn === playerName);
-  const playerMIX = dataMIX.find(player => player.Navn === playerName);
+  const { playerHS, playerDS, playerHD, playerDD, playerMIX } = playerData;
   
   // Check if player has any ranking data
   const hasRankingData = playerHS || playerDS || playerHD || playerDD || playerMIX;
@@ -82,17 +111,17 @@ const RankingDistribution = ({ playerName, year }) => {
   const mixedPercentage = totalPoints > 0 ? Math.round((mixPoints / totalPoints) * 100) : 0;
   
   // Determine main category
-  let mainCategory = 'Balanced';
+  let mainCategory = 'Potet';
   let mainCategoryIcon = faChartLine;
   
   if (singlesPercentage > 60) {
-    mainCategory = 'Singles Specialist';
+    mainCategory = 'Singles Spesialist';
     mainCategoryIcon = faUser;
   } else if (doublesPercentage > 60) {
-    mainCategory = 'Doubles Specialist';
+    mainCategory = 'Doubles Spesialist';
     mainCategoryIcon = faUserFriends;
   } else if (mixedPercentage > 60) {
-    mainCategory = 'Mixed Specialist';
+    mainCategory = 'Mixed Spesialist';
     mainCategoryIcon = faVenusMars;
   }
   
@@ -110,17 +139,17 @@ const RankingDistribution = ({ playerName, year }) => {
   if (!hasRankingData && !loading) {
     return (
       <StatCard 
-        title="2024 Ranking Distribution" 
+        title="Rankingpoeng" 
         icon={faChartLine} 
         iconColor="text-indigo-400"
         delay={8}
       >
         <div className="py-4 flex flex-col items-center justify-center h-64">
           <FontAwesomeIcon icon={faChartLine} className="text-gray-400 text-4xl mb-4" />
-          <h3 className="text-xl font-semibold text-white mb-2">No Ranking Data</h3>
+          <h3 className="text-xl font-semibold text-white mb-2">Ingen Rangeringspoeng</h3>
           <p className="text-gray-300 text-center max-w-xs">
-            We couldn't find any ranking data for {playerName} in the 2024/2025 season. 
-            Play more tournaments to start building your ranking!
+            Vi fant ingen rankingpoeng for {playerName} i sesongen 2024/2025. 
+            Spill flere turneringer for å ta flere rankingpoeng!
           </p>
         </div>
       </StatCard>
@@ -131,21 +160,21 @@ const RankingDistribution = ({ playerName, year }) => {
   if ((hsPoints + dsPoints + hdPoints + ddPoints + mixPoints) === 0 && !loading) {
     return (
       <StatCard 
-        title="2024 Ranking Distribution" 
+        title="Rankingpoeng" 
         icon={faChartLine} 
         iconColor="text-indigo-400"
         delay={8}
       >
         <div className="py-4 flex flex-col items-center justify-center h-64">
           <FontAwesomeIcon icon={faMedal} className="text-gray-400 text-4xl mb-4" />
-          <h3 className="text-xl font-semibold text-white mb-2">No Points This Season</h3>
+          <h3 className="text-xl font-semibold text-white mb-2">Ingen Rankingpoeng</h3>
           <p className="text-gray-300 text-center max-w-xs">
-            {playerName} hasn't earned any ranking points in the 2024/2025 season yet. 
-            Time to hit the courts and start climbing the rankings!
+            {playerName} har ingen rankingpoeng i sesongen 2024/2025 enda. 
+            Spill flere turneringer for å ta flere rankingpoeng!
           </p>
           {(hsPointsPrev + dsPointsPrev + hdPointsPrev + ddPointsPrev + mixPointsPrev) > 0 && (
             <p className="text-gray-400 text-sm mt-4">
-              You had {hsPointsPrev + dsPointsPrev + hdPointsPrev + ddPointsPrev + mixPointsPrev} points in the 2023/2024 season.
+              Du hadde {hsPointsPrev + dsPointsPrev + hdPointsPrev + ddPointsPrev + mixPointsPrev} poeng denne sesongen.
             </p>
           )}
         </div>
@@ -167,7 +196,7 @@ const RankingDistribution = ({ playerName, year }) => {
   
   return (
     <StatCard 
-      title="2024 Ranking Distribution" 
+      title="Rankingpoeng" 
       icon={faChartLine} 
       iconColor="text-indigo-400"
       delay={8}
@@ -180,9 +209,9 @@ const RankingDistribution = ({ playerName, year }) => {
           transition={{ delay: 2.0 }}
         >
           <span className="text-xl text-white font-semibold">
-            You are a <span className="text-indigo-400 font-bold">{mainCategory}</span>
+            Du er en <span className="text-indigo-400 font-bold">{mainCategory}</span>
           </span>
-          <div className="text-sm text-gray-300 mt-1">2024/2025 Season</div>
+          <div className="text-sm text-gray-300 mt-1">2024/2025 Sesong</div>
           <motion.div
             className="w-16 h-16 mx-auto mt-2 bg-indigo-500/20 rounded-full flex items-center justify-center"
             initial={{ scale: 0.8, opacity: 0 }}
@@ -296,7 +325,7 @@ const RankingDistribution = ({ playerName, year }) => {
                 <FontAwesomeIcon icon={faMedal} className="text-indigo-300" />
               </div>
               <div>
-                <div className="text-gray-300 text-sm">Total Ranking Points</div>
+                <div className="text-gray-300 text-sm">Totale Rangeringspoeng</div>
                 <div className="text-2xl font-bold text-white">{totalPoints}</div>
               </div>
             </div>
@@ -307,7 +336,7 @@ const RankingDistribution = ({ playerName, year }) => {
                   {totalChange > 0 ? `+${totalChange}` : totalChange}
                 </span>
               </div>
-              <div className="text-gray-400 text-xs">from last year</div>
+              <div className="text-gray-400 text-xs">fra fjoråret</div>
             </div>
           </div>
         </motion.div>
@@ -320,16 +349,16 @@ const RankingDistribution = ({ playerName, year }) => {
           transition={{ delay: 2.8 }}
         >
           {singlesPercentage > doublesPercentage && singlesPercentage > mixedPercentage && (
-            <span>You focus on singles! Maybe it's time to find a doubles partner? 😉</span>
+            <span>Du fokuserer på single! Kanskje det er på tide å finne en doublepartner? 😉</span>
           )}
           {doublesPercentage > singlesPercentage && doublesPercentage > mixedPercentage && (
-            <span>You love doubles! Better to win as a team, right? 🤝</span>
+            <span>Du elsker double! Bedre å vinne som lag, ikke sant? 🤝</span>
           )}
           {mixedPercentage > singlesPercentage && mixedPercentage > doublesPercentage && (
-            <span>Mixed doubles fan! You enjoy the best of both worlds! 💫</span>
+            <span>Mixed double-fan! Du nyter det beste fra begge verdener! 💫</span>
           )}
           {singlesPercentage === doublesPercentage && singlesPercentage === mixedPercentage && (
-            <span>Perfectly balanced, as all things should be! 🧘</span>
+            <span>Balansert, som alle ting bør være! 🧘</span>
           )}
         </motion.div>
       </div>

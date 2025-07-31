@@ -50,7 +50,7 @@ const MatchTypeBreakdown = ({ data }) => {
   
   return (
     <StatCard 
-      title="Match Breakdown" 
+      title="Kampfordeling" 
       icon={faChartPie} 
       iconColor="text-blue-400"
       delay={4}
