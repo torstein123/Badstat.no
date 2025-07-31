@@ -9,7 +9,7 @@ const BiggestWin = ({ data }) => {
   
   return (
     <StatCard 
-      title="Biggest Win" 
+      title="Største Seier" 
       icon={faTrophy} 
       iconColor="text-yellow-400"
       delay={1}
@@ -48,7 +48,7 @@ const BiggestWin = ({ data }) => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6 }}
         >
-          <h4 className="text-2xl font-bold text-white mb-1">Against {data.opponent}</h4>
+          <h4 className="text-2xl font-bold text-white mb-1">Mot {data.opponent}</h4>
           <p className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500 mb-3">{data.score}</p>
           
           <div className="flex items-center justify-center mb-1 text-gray-300">

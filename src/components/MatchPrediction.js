@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useFloating, useInteractions, useHover, offset, shift, FloatingPortal } from '@floating-ui/react';
-import dataHS from '../combined_rankingsHS.json';  // Import men's singles rankings
-import dataDS from '../combined_rankingsDS.json';  // Import women's singles rankings
+import { getRankingsByCategory } from '../services/databaseService';
 
 // Add Heroicons imports for illustrations
 import { ChartBarIcon, ScaleIcon, TrophyIcon, ChartPieIcon, SparklesIcon, FireIcon, StarIcon, InformationCircleIcon } from '@heroicons/react/24/outline';
@@ -564,7 +563,7 @@ const calculateRanking = (matches, playerName) => {
 };
 
 // Helper function to get player's ranking points
-const getPlayerRankingPoints = (playerName, matches) => {
+const getPlayerRankingPoints = async (playerName, matches) => {
     // Add debug logging
     console.log('Looking up ranking points for:', playerName);
 
@@ -586,7 +585,12 @@ const getPlayerRankingPoints = (playerName, matches) => {
     );
 
     // Use appropriate rankings data based on player's category
-    const rankingsData = isMensPlayer ? dataHS : (isWomensPlayer ? dataDS : null);
+    let rankingsData = null;
+    if (isMensPlayer) {
+        rankingsData = await getRankingsByCategory('HS');
+    } else if (isWomensPlayer) {
+        rankingsData = await getRankingsByCategory('DS');
+    }
     
     if (!rankingsData) {
         console.log('Could not determine player category:', playerName);
@@ -657,7 +661,7 @@ const determineMatchWinner = (match, playerName) => {
 };
 
 // Helper function to process player data
-const processPlayerData = (matches, playerName, opponentName) => {
+const processPlayerData = async (matches, playerName, opponentName) => {
     const recentMatches = matches.slice(0, 10); // Last 10 matches
     let recentWeightedWins = 0;
     let headToHeadWins = 0;
@@ -667,8 +671,8 @@ const processPlayerData = (matches, playerName, opponentName) => {
     let tournamentPoints = 0;
     let recentClassLevels = [];
 
-    // Get player's ranking points from combined rankings
-    const playerRankingPoints = getPlayerRankingPoints(playerName, matches);
+    // Get player's ranking points from database
+    const playerRankingPoints = await getPlayerRankingPoints(playerName, matches);
 
     // Calculate head-to-head record with improved logic and time-based weighting
     const headToHeadMatches = matches.filter(match => {
@@ -1263,232 +1267,236 @@ const MatchPrediction = ({ player1, player2, matches }) => {
     const { getReferenceProps, getFloatingProps } = useInteractions([hover]);
 
     useEffect(() => {
-        try {
-            // Determine current class levels for both players
-            const player1ClassLevel = determinePlayerClass(matches, player1);
-            const player2ClassLevel = determinePlayerClass(matches, player2);
+        const calculatePrediction = async () => {
+            try {
+                // Determine current class levels for both players
+                const player1ClassLevel = determinePlayerClass(matches, player1);
+                const player2ClassLevel = determinePlayerClass(matches, player2);
 
-            // Analyze class suitability
-            const player1ClassAnalysis = analyzeClassSuitability(player1ClassLevel);
-            const player2ClassAnalysis = analyzeClassSuitability(player2ClassLevel);
+                // Analyze class suitability
+                const player1ClassAnalysis = analyzeClassSuitability(player1ClassLevel);
+                const player2ClassAnalysis = analyzeClassSuitability(player2ClassLevel);
 
-            console.log('Player levels:', {
-                player1: player1ClassLevel,
-                player2: player2ClassLevel,
-                player1Analysis: player1ClassAnalysis,
-                player2Analysis: player2ClassAnalysis
-            });
-
-            // Process player statistics
-            const p1Stats = {
-                ...processPlayerData(matches, player1, player2),
-                classLevel: player1ClassLevel
-            };
-            
-            const p2Stats = {
-                ...processPlayerData(matches, player2, player1),
-                classLevel: player2ClassLevel
-            };
-
-            // Calculate win probability
-            const player1WinProb = calculateWinProbability(p1Stats, p2Stats, 'Single', matches);
-            
-            // Calculate head-to-head statistics
-            const filteredHeadToHeadMatches = matches.filter(match => {
-                const team1HasPlayer = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
-                const team2HasPlayer = match["Team 2 Player 1"] === player1 || match["Team 2 Player 2"] === player1;
-                const team1HasOpponent = match["Team 1 Player 1"] === player2 || match["Team 1 Player 2"] === player2;
-                const team2HasOpponent = match["Team 2 Player 1"] === player2 || match["Team 2 Player 2"] === player2;
-                
-                // Check if it's a singles match
-                const isSingles = match["Match"] === "Herresingle" || 
-                                match["Match"] === "Damesingle" ||
-                                match["Category"] === "Herresingle" ||
-                                match["Category"] === "Damesingle";
-                
-                // Check if match is within last 2 years
-                let matchDate;
-                try {
-                    const [day, month, year] = match.Date.split('.').map(num => parseInt(num, 10));
-                    matchDate = new Date(year, month - 1, day);
-                    const twoYearsAgo = new Date();
-                    twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
-                    return (team1HasPlayer && team2HasOpponent || team2HasPlayer && team1HasOpponent) && 
-                           isSingles && matchDate >= twoYearsAgo;
-                } catch (err) {
-                    console.error('Error parsing match date:', { date: match.Date, error: err });
-                    return false;
-                }
-            });
-
-            setHeadToHeadMatches(filteredHeadToHeadMatches); // Add this line
-
-            const headToHeadWins = filteredHeadToHeadMatches.filter(match => {
-                const playerInTeam1 = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
-                
-                // Parse the match result to determine the winner
-                if (match.Result) {
-                    const sets = match.Result.split(',').map(set => {
-                        const [score1, score2] = set.trim().split('-').map(Number);
-                        return score1 > score2 ? 1 : 2; // 1 if team1 won the set, 2 if team2 won
-                    });
-                    
-                    // Count sets won by each team
-                    const team1Sets = sets.filter(winner => winner === 1).length;
-                    const team2Sets = sets.filter(winner => winner === 2).length;
-                    
-                    // Determine match winner based on sets
-                    const team1Won = team1Sets > team2Sets;
-                    
-                    // If player1 is in team1, they win if team1 won. If they're in team2, they win if team2 won.
-                    return playerInTeam1 ? team1Won : !team1Won;
-                }
-                
-                // Fallback to the Winner field if Result parsing fails
-                return playerInTeam1 ? match["Winner"] === "1" : match["Winner"] === "2";
-            }).length;
-
-            const headToHeadLosses = filteredHeadToHeadMatches.length - headToHeadWins;
-            const headToHeadWinRate = filteredHeadToHeadMatches.length > 0 ? headToHeadWins / filteredHeadToHeadMatches.length : 0;
-
-            // Check if we have any recent head-to-head matches
-            const hasRecentMatches = filteredHeadToHeadMatches.length > 0;
-
-            // Calculate point differentials
-            const calculatePointDiff = (playerName) => {
-                const playerMatches = matches.filter(match => 
-                    match["Team 1 Player 1"] === playerName || 
-                    match["Team 1 Player 2"] === playerName || 
-                    match["Team 2 Player 1"] === playerName || 
-                    match["Team 2 Player 2"] === playerName
-                );
-
-                let totalDiff = 0;
-                let totalSets = 0;
-
-                playerMatches.forEach(match => {
-                    if (match.Result) {
-                        const sets = match.Result.split(',');
-                        sets.forEach(set => {
-                            const [score1, score2] = set.trim().split('-').map(Number);
-                            if (!isNaN(score1) && !isNaN(score2)) {
-                                const isPlayerInTeam1 = match["Team 1 Player 1"] === playerName || match["Team 1 Player 2"] === playerName;
-                                const diff = isPlayerInTeam1 ? score1 - score2 : score2 - score1;
-                                totalDiff += diff;
-                                totalSets++;
-                            }
-                        });
-                    }
+                console.log('Player levels:', {
+                    player1: player1ClassLevel,
+                    player2: player2ClassLevel,
+                    player1Analysis: player1ClassAnalysis,
+                    player2Analysis: player2ClassAnalysis
                 });
 
-                return totalSets > 0 ? totalDiff / totalSets : 0;
-            };
-
-            const player1AvgPointDiff = calculatePointDiff(player1);
-            const player2AvgPointDiff = calculatePointDiff(player2);
-
-            // Calculate tournament performance scores
-            const calculateTournamentScore = (playerName) => {
-                const playerMatches = matches.filter(match => 
-                    match["Team 1 Player 1"] === playerName || 
-                    match["Team 1 Player 2"] === playerName || 
-                    match["Team 2 Player 1"] === playerName || 
-                    match["Team 2 Player 2"] === playerName
-                );
-
-                let totalScore = 0;
-                let totalMatches = 0;
-
-                playerMatches.forEach(match => {
-                    const isWinner = match["Winner Player 1"] === playerName || match["Winner Player 2"] === playerName;
-                    const tournamentClass = match["Tournament Class"];
-                    if (tournamentClass) {
-                        const classScore = getClassLevelScore(tournamentClass);
-                        totalScore += isWinner ? classScore : 0;
-                        totalMatches++;
-                    }
-                });
-
-                return totalMatches > 0 ? totalScore / totalMatches : 0;
-            };
-
-            const player1TournamentScore = calculateTournamentScore(player1);
-            const player2TournamentScore = calculateTournamentScore(player2);
-            
-            // Generate reasoning text
-            const getClassText = (level) => {
-                const classMap = {
-                    7: 'Elite/SEN E',
-                    5: 'SEN A',
-                    4: 'SEN B',
-                    3: 'SEN C',
-                    2: 'SEN D',
-                    1: 'SEN F',
-                    0: 'Ukjent'
+                // Process player statistics
+                const p1Stats = {
+                    ...await processPlayerData(matches, player1, player2),
+                    classLevel: player1ClassLevel
                 };
-                return classMap[level] || 'Ukjent';
-            };
+                
+                const p2Stats = {
+                    ...await processPlayerData(matches, player2, player1),
+                    classLevel: player2ClassLevel
+                };
 
-            const getConfidenceText = (confidence) => {
-                if (confidence >= 0.8) return 'svært høy';
-                if (confidence >= 0.6) return 'høy';
-                if (confidence >= 0.4) return 'moderat';
-                if (confidence >= 0.2) return 'lav';
-                return 'svært lav';
-            };
+                // Calculate win probability
+                const player1WinProb = calculateWinProbability(p1Stats, p2Stats, 'Single', matches);
+                
+                // Calculate head-to-head statistics
+                const filteredHeadToHeadMatches = matches.filter(match => {
+                    const team1HasPlayer = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
+                    const team2HasPlayer = match["Team 2 Player 1"] === player1 || match["Team 2 Player 2"] === player1;
+                    const team1HasOpponent = match["Team 1 Player 1"] === player2 || match["Team 1 Player 2"] === player2;
+                    const team2HasOpponent = match["Team 2 Player 1"] === player2 || match["Team 2 Player 2"] === player2;
+                    
+                    // Check if it's a singles match
+                    const isSingles = match["Match"] === "Herresingle" || 
+                                    match["Match"] === "Damesingle" ||
+                                    match["Category"] === "Herresingle" ||
+                                    match["Category"] === "Damesingle";
+                    
+                    // Check if match is within last 2 years
+                    let matchDate;
+                    try {
+                        const [day, month, year] = match.Date.split('.').map(num => parseInt(num, 10));
+                        matchDate = new Date(year, month - 1, day);
+                        const twoYearsAgo = new Date();
+                        twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
+                        return (team1HasPlayer && team2HasOpponent || team2HasPlayer && team1HasOpponent) && 
+                               isSingles && matchDate >= twoYearsAgo;
+                    } catch (err) {
+                        console.error('Error parsing match date:', { date: match.Date, error: err });
+                        return false;
+                    }
+                });
 
-            // Count recent matches
-            const recentMatchesCount = (playerName) => {
-                return findPlayerMatches(matches, playerName).filter(m => {
-                    const matchDate = new Date(m.Date.split('.').reverse().join('-'));
-                    const sixMonthsAgo = new Date();
-                    sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
-                    return matchDate >= sixMonthsAgo;
+                setHeadToHeadMatches(filteredHeadToHeadMatches);
+
+                const headToHeadWins = filteredHeadToHeadMatches.filter(match => {
+                    const playerInTeam1 = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
+                    
+                    // Parse the match result to determine the winner
+                    if (match.Result) {
+                        const sets = match.Result.split(',').map(set => {
+                            const [score1, score2] = set.trim().split('-').map(Number);
+                            return score1 > score2 ? 1 : 2; // 1 if team1 won the set, 2 if team2 won
+                        });
+                        
+                        // Count sets won by each team
+                        const team1Sets = sets.filter(winner => winner === 1).length;
+                        const team2Sets = sets.filter(winner => winner === 2).length;
+                        
+                        // Determine match winner based on sets
+                        const team1Won = team1Sets > team2Sets;
+                        
+                        // If player1 is in team1, they win if team1 won. If they're in team2, they win if team2 won.
+                        return playerInTeam1 ? team1Won : !team1Won;
+                    }
+                    
+                    // Fallback to the Winner field if Result parsing fails
+                    return playerInTeam1 ? match["Winner"] === "1" : match["Winner"] === "2";
                 }).length;
-            };
 
-            const reasoningText = {
-                player1Class: getClassText(player1ClassLevel.level),
-                player1Confidence: getConfidenceText(player1ClassLevel.confidence),
-                player2Class: getClassText(player2ClassLevel.level),
-                player2Confidence: getConfidenceText(player2ClassLevel.confidence),
-                recentMatches: {
-                    player1: recentMatchesCount(player1),
-                    player2: recentMatchesCount(player2)
-                }
-            };
+                const headToHeadLosses = filteredHeadToHeadMatches.length - headToHeadWins;
+                const headToHeadWinRate = filteredHeadToHeadMatches.length > 0 ? headToHeadWins / filteredHeadToHeadMatches.length : 0;
 
-            console.log('Reasoning:', reasoningText);
-            
-            // Get ranking points
-            const player1RankingPoints = getPlayerRankingPoints(player1, matches);
-            const player2RankingPoints = getPlayerRankingPoints(player2, matches);
-            
-            setPrediction({
-                player1Probability: player1WinProb,
-                player2Probability: 1 - player1WinProb,
-                odds: {
-                    player1: (1 / player1WinProb).toFixed(2),
-                    player2: (1 / (1 - player1WinProb)).toFixed(2)
-                },
-                headToHeadWins,
-                headToHeadLosses,
-                headToHeadWinRate,
-                player1AvgPointDiff,
-                player2AvgPointDiff,
-                player1TournamentScore,
-                player2TournamentScore,
-                player1RankingPoints,
-                player2RankingPoints
-            });
-            
-            setReasoning(reasoningText);
-        } catch (err) {
-            console.error('Prediction error:', err);
-            setError("Kunne ikke beregne prediksjon");
-        } finally {
-            setLoading(false);
-        }
+                // Check if we have any recent head-to-head matches
+                const hasRecentMatches = filteredHeadToHeadMatches.length > 0;
+
+                // Calculate point differentials
+                const calculatePointDiff = (playerName) => {
+                    const playerMatches = matches.filter(match => 
+                        match["Team 1 Player 1"] === playerName || 
+                        match["Team 1 Player 2"] === playerName || 
+                        match["Team 2 Player 1"] === playerName || 
+                        match["Team 2 Player 2"] === playerName
+                    );
+
+                    let totalDiff = 0;
+                    let totalSets = 0;
+
+                    playerMatches.forEach(match => {
+                        if (match.Result) {
+                            const sets = match.Result.split(',');
+                            sets.forEach(set => {
+                                const [score1, score2] = set.trim().split('-').map(Number);
+                                if (!isNaN(score1) && !isNaN(score2)) {
+                                    const isPlayerInTeam1 = match["Team 1 Player 1"] === playerName || match["Team 1 Player 2"] === playerName;
+                                    const diff = isPlayerInTeam1 ? score1 - score2 : score2 - score1;
+                                    totalDiff += diff;
+                                    totalSets++;
+                                }
+                            });
+                        }
+                    });
+
+                    return totalSets > 0 ? totalDiff / totalSets : 0;
+                };
+
+                const player1AvgPointDiff = calculatePointDiff(player1);
+                const player2AvgPointDiff = calculatePointDiff(player2);
+
+                // Calculate tournament performance scores
+                const calculateTournamentScore = (playerName) => {
+                    const playerMatches = matches.filter(match => 
+                        match["Team 1 Player 1"] === playerName || 
+                        match["Team 1 Player 2"] === playerName || 
+                        match["Team 2 Player 1"] === playerName || 
+                        match["Team 2 Player 2"] === playerName
+                    );
+
+                    let totalScore = 0;
+                    let totalMatches = 0;
+
+                    playerMatches.forEach(match => {
+                        const isWinner = match["Winner Player 1"] === playerName || match["Winner Player 2"] === playerName;
+                        const tournamentClass = match["Tournament Class"];
+                        if (tournamentClass) {
+                            const classScore = getClassLevelScore(tournamentClass);
+                            totalScore += isWinner ? classScore : 0;
+                            totalMatches++;
+                        }
+                    });
+
+                    return totalMatches > 0 ? totalScore / totalMatches : 0;
+                };
+
+                const player1TournamentScore = calculateTournamentScore(player1);
+                const player2TournamentScore = calculateTournamentScore(player2);
+                
+                // Generate reasoning text
+                const getClassText = (level) => {
+                    const classMap = {
+                        7: 'Elite/SEN E',
+                        5: 'SEN A',
+                        4: 'SEN B',
+                        3: 'SEN C',
+                        2: 'SEN D',
+                        1: 'SEN F',
+                        0: 'Ukjent'
+                    };
+                    return classMap[level] || 'Ukjent';
+                };
+
+                const getConfidenceText = (confidence) => {
+                    if (confidence >= 0.8) return 'svært høy';
+                    if (confidence >= 0.6) return 'høy';
+                    if (confidence >= 0.4) return 'moderat';
+                    if (confidence >= 0.2) return 'lav';
+                    return 'svært lav';
+                };
+
+                // Count recent matches
+                const recentMatchesCount = (playerName) => {
+                    return findPlayerMatches(matches, playerName).filter(m => {
+                        const matchDate = new Date(m.Date.split('.').reverse().join('-'));
+                        const sixMonthsAgo = new Date();
+                        sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+                        return matchDate >= sixMonthsAgo;
+                    }).length;
+                };
+
+                const reasoningText = {
+                    player1Class: getClassText(player1ClassLevel.level),
+                    player1Confidence: getConfidenceText(player1ClassLevel.confidence),
+                    player2Class: getClassText(player2ClassLevel.level),
+                    player2Confidence: getConfidenceText(player2ClassLevel.confidence),
+                    recentMatches: {
+                        player1: recentMatchesCount(player1),
+                        player2: recentMatchesCount(player2)
+                    }
+                };
+
+                console.log('Reasoning:', reasoningText);
+                
+                // Get ranking points
+                const player1RankingPoints = await getPlayerRankingPoints(player1, matches);
+                const player2RankingPoints = await getPlayerRankingPoints(player2, matches);
+                
+                setPrediction({
+                    player1Probability: player1WinProb,
+                    player2Probability: 1 - player1WinProb,
+                    odds: {
+                        player1: (1 / player1WinProb).toFixed(2),
+                        player2: (1 / (1 - player1WinProb)).toFixed(2)
+                    },
+                    headToHeadWins,
+                    headToHeadLosses,
+                    headToHeadWinRate,
+                    player1AvgPointDiff,
+                    player2AvgPointDiff,
+                    player1TournamentScore,
+                    player2TournamentScore,
+                    player1RankingPoints,
+                    player2RankingPoints
+                });
+                
+                setReasoning(reasoningText);
+            } catch (err) {
+                console.error('Prediction error:', err);
+                setError("Kunne ikke beregne prediksjon");
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        calculatePrediction();
     }, [player1, player2, matches]);
 
     if (loading) {

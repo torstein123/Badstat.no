@@ -1,19 +1,44 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useCallback, useMemo, useRef, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import data from '../combined_rankings.json';
+import { searchPlayers } from '../services/databaseService';
 import AsyncSelect from 'react-select/async';
 import { motion } from 'framer-motion';
 import AdSlot from './AdSlot';
 
-const PlayerSearch = () => {
+const PlayerSearch = React.memo(() => {
   const [player1, setPlayer1] = useState(null);
   const [player2, setPlayer2] = useState(null);
   const [resultCount1, setResultCount1] = useState(0);
   const [resultCount2, setResultCount2] = useState(0);
   const navigate = useNavigate();
+  
+  // Use refs to store stable functions
+  const debounceRef = useRef(null);
+  const searchTimeoutRef = useRef(null);
 
-  // Function to calculate string similarity with improved matching
-  const stringSimilarity = (str1, str2) => {
+  // Cleanup timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current);
+      }
+    };
+  }, []);
+
+  // Create a stable debounce function
+  const createDebounce = useMemo(() => {
+    return (func, wait) => {
+      return (...args) => {
+        if (searchTimeoutRef.current) {
+          clearTimeout(searchTimeoutRef.current);
+        }
+        searchTimeoutRef.current = setTimeout(() => func(...args), wait);
+      };
+    };
+  }, []);
+
+  // Stable string similarity function
+  const calculateSimilarity = useCallback((str1, str2) => {
     const s1 = str1.toLowerCase().trim();
     const s2 = str2.toLowerCase().trim();
     
@@ -52,67 +77,71 @@ const PlayerSearch = () => {
     }
     
     return 0;
-  };
+  }, []);
 
-  // Debounce function to prevent excessive searches
-  const debounce = (func, wait) => {
-    let timeout;
-    return (...args) => {
-      clearTimeout(timeout);
-      timeout = setTimeout(() => func(...args), wait);
-    };
-  };
-
-  const filterPlayers = useCallback((inputValue) => {
+  // Stable filter function
+  const filterPlayers = useCallback(async (inputValue) => {
     // If input is empty or just spaces, return empty array
     if (!inputValue || inputValue.trim() === '') {
       return [];
     }
     
-    // Filter players with improved matching
-    const filteredPlayers = data
-      .map(player => {
-        const name = player.Navn;
-        const similarity = stringSimilarity(name, inputValue);
-        return { player, similarity };
-      })
-      .filter(item => item.similarity > 0)
-      .sort((a, b) => b.similarity - a.similarity)
-      .map(item => ({ 
-        value: item.player.Navn, 
-        label: item.player.Navn 
-      }))
-      .slice(0, 10); // Limit to top 10 results for performance
-    
-    return filteredPlayers;
-  }, []);
+    try {
+      // Search players from database
+      const players = await searchPlayers(inputValue);
+      
+      // Filter players with improved matching
+      const filteredPlayers = players
+        .map(player => {
+          const name = player.Navn;
+          const similarity = calculateSimilarity(name, inputValue);
+          return { player, similarity };
+        })
+        .filter(item => item.similarity > 0)
+        .sort((a, b) => b.similarity - a.similarity)
+        .map(item => ({ 
+          value: item.player.Navn, 
+          label: item.player.Navn 
+        }))
+        .slice(0, 10); // Limit to top 10 results for performance
+      
+      return filteredPlayers;
+    } catch (error) {
+      console.error('Error searching players:', error);
+      return [];
+    }
+  }, [calculateSimilarity]);
 
-  const loadOptions = useCallback(
-    debounce((inputValue, callback) => {
-      const results = filterPlayers(inputValue);
-      callback(results);
-    }, 150),
-    [filterPlayers]
-  );
+  // Create stable loadOptions function
+  const loadOptions = useMemo(() => {
+    if (!debounceRef.current) {
+      debounceRef.current = createDebounce((inputValue, callback) => {
+        filterPlayers(inputValue).then(results => {
+          callback(results);
+        });
+      }, 400); // Increased debounce time to 400ms
+    }
+    return debounceRef.current;
+  }, [createDebounce, filterPlayers]);
 
-  const handleChange1 = (selectedOption) => {
+  const handleChange1 = useCallback((selectedOption) => {
     setPlayer1(selectedOption);
     setResultCount1(selectedOption ? 1 : 0);
-  };
+  }, []);
 
-  const handleChange2 = (selectedOption) => {
+  const handleChange2 = useCallback((selectedOption) => {
     setPlayer2(selectedOption);
     setResultCount2(selectedOption ? 1 : 0);
-  };
+  }, []);
 
-  const handleCompare = () => {
+  const handleCompare = useCallback(() => {
     if (player1 && player2) {
       navigate(`/compare/${encodeURIComponent(player1.value)}/${encodeURIComponent(player2.value)}`);
     }
-  };
+  }, [player1, player2, navigate]);
 
   // Custom styles for react-select
-  const customStyles = {
+  const customStyles = useMemo(() => ({
     control: (base, state) => ({
       ...base,
       background: 'rgba(17, 24, 39, 0.8)',
@@ -154,80 +183,70 @@ const PlayerSearch = () => {
     }),
     input: (base) => ({
       ...base,
-      color: '#ffffff !important',
-      caretColor: '#ffffff',
+      color: '#ffffff',
     }),
     placeholder: (base) => ({
       ...base,
       color: '#9ca3af',
     }),
-  };
+  }), []);
 
   return (
-    <div className="min-h-screen bg-gray-900 flex items-center justify-center">
-      <motion.div 
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-        className="w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-8"
-      >
-        <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-white to-blue-400 bg-clip-text text-transparent mb-4">
-            Head to Head
-          </h1>
-          <p className="text-gray-400 text-lg">
-            Sammenlign spillere og utforsk deres historiske oppgjør
-          </p>
-        </div>
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900">
+      <div className="container mx-auto px-4 py-8">
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+          className="max-w-4xl mx-auto"
+        >
+          <div className="text-center mb-8">
+            <h1 className="text-4xl font-bold text-white mb-4">
+              Basert på 174.000 kamper siden 2013
+            </h1>
+            <h2 className="text-2xl text-gray-300 mb-8">Spillersøk</h2>
+            <p className="text-lg text-gray-400 mb-8">
+              Søk blant alle spillere i Norge
+            </p>
+          </div>
 
-        <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 shadow-xl">
-          <div className="space-y-8">
-            <div className="flex flex-col md:flex-row items-center gap-4">
-              <div className="w-full md:w-5/12">
+          <div className="bg-gray-800/50 backdrop-blur-sm rounded-2xl p-8 border border-gray-700/50">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+              <div>
+                <label className="block text-white text-sm font-medium mb-2">
+                  Søk etter spillernavn...
+                </label>
                 <AsyncSelect
-                  loadOptions={loadOptions}
-                  onChange={handleChange1}
                   value={player1}
-                  defaultOptions={[]}
-                  cacheOptions
+                  onChange={handleChange1}
+                  loadOptions={loadOptions}
+                  placeholder="Skriv spillernavn..."
                   styles={customStyles}
-                  placeholder="Velg første spiller"
                   isClearable
                   isSearchable
-                  blurInputOnSelect
-                  noOptionsMessage={() => "Ingen spillere funnet"}
+                  cacheOptions
+                  defaultOptions
                   loadingMessage={() => "Søker..."}
-                  minMenuHeight={100}
-                  maxMenuHeight={300}
-                  menuPlacement="auto"
-                  openMenuOnClick={false}
-                  openMenuOnFocus={false}
+                  noOptionsMessage={() => "Ingen spillere funnet"}
                 />
               </div>
-              
-              <div className="flex items-center justify-center w-full md:w-2/12">
-                <span className="text-2xl font-bold text-gray-400">VS</span>
-              </div>
 
-              <div className="w-full md:w-5/12">
+              <div>
+                <label className="block text-white text-sm font-medium mb-2">
+                  Søk etter spillernavn...
+                </label>
                 <AsyncSelect
-                  loadOptions={loadOptions}
-                  onChange={handleChange2}
                   value={player2}
-                  defaultOptions={[]}
-                  cacheOptions
+                  onChange={handleChange2}
+                  loadOptions={loadOptions}
+                  placeholder="Skriv spillernavn..."
                   styles={customStyles}
-                  placeholder="Velg andre spiller"
                   isClearable
                   isSearchable
-                  blurInputOnSelect
-                  noOptionsMessage={() => "Ingen spillere funnet"}
+                  cacheOptions
+                  defaultOptions
                   loadingMessage={() => "Søker..."}
-                  minMenuHeight={100}
-                  maxMenuHeight={300}
-                  menuPlacement="auto"
-                  openMenuOnClick={false}
-                  openMenuOnFocus={false}
+                  noOptionsMessage={() => "Ingen spillere funnet"}
                 />
               </div>
             </div>
@@ -236,33 +255,24 @@ const PlayerSearch = () => {
               <button
                 onClick={handleCompare}
                 disabled={!player1 || !player2}
-                className={`px-8 py-3 text-base font-medium rounded-lg transition-all duration-300 transform 
-                  ${(!player1 || !player2) 
-                    ? 'bg-gray-700 text-gray-400 cursor-not-allowed opacity-60' 
-                    : 'bg-gradient-to-r from-blue-600 to-blue-700 text-white hover:from-blue-700 hover:to-blue-800 hover:scale-105 shadow-lg hover:shadow-blue-500/25'
-                  }`}
+                className={`px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 ${
+                  player1 && player2
+                    ? 'bg-gradient-to-r from-blue-500 to-purple-600 text-white hover:from-blue-600 hover:to-purple-700'
+                    : 'bg-gray-600 text-gray-400 cursor-not-allowed'
+                }`}
               >
-                Sammenlign spillere
+                Sammenlign Spillere
               </button>
             </div>
+
+            <div className="mt-8 text-center text-gray-400">
+              <p>Velg to spillere for å sammenligne deres statistikk</p>
+            </div>
           </div>
-        </div>
-
-        <motion.div 
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.5, delay: 0.4 }}
-            style={{ marginTop: '32px', display: 'flex', justifyContent: 'center' }}
-        >
-          <AdSlot 
-            adSlot="7152830155" 
-            adClient="ca-pub-6338038731129939"
-          />
         </motion.div>
-
-      </motion.div>
+      </div>
     </div>
   );
-};
+});
 
 export default PlayerSearch;

@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { useParams } from 'react-router-dom';
-import data from '../combined_rankings.json';
+import { searchPlayers } from '../services/databaseService';
 import { Link } from 'react-router-dom';
 import { db } from '../firebase'; // Import your Firebase configuration here
 import { auth } from '../firebase'; // Import your Firebase auth configuration here
@@ -10,17 +10,34 @@ const LinkRequest = () => {
   const [search, setSearch] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [selectedIndex, setSelectedIndex] = useState(-1);
+  const [loading, setLoading] = useState(false);
 
-  const handleSearch = (term) => {
-    const filteredData = data.filter((player) =>
-      player.Navn.toLowerCase().startsWith(term.toLowerCase())
-    );
-    if (filteredData.length > 0) {
-      setSuggestions(filteredData.slice(0, 5));
-    } else {
+  const handleSearch = async (term) => {
+    if (!term || term.trim() === '') {
       setSuggestions([]);
+      setSearch(term);
+      return;
     }
-    setSearch(term);
+
+    try {
+      setLoading(true);
+      const players = await searchPlayers(term);
+      const filteredData = players.filter((player) =>
+        player.Navn.toLowerCase().startsWith(term.toLowerCase())
+      );
+      
+      if (filteredData.length > 0) {
+        setSuggestions(filteredData.slice(0, 5));
+      } else {
+        setSuggestions([]);
+      }
+      setSearch(term);
+    } catch (error) {
+      console.error('Error searching players:', error);
+      setSuggestions([]);
+    } finally {
+      setLoading(false);
+    }
   };
 
   // Define the addLinkRequest function outside of handleKeyDown
@@ -100,6 +117,7 @@ const LinkRequest = () => {
         onChange={(e) => handleSearch(e.target.value)}
         onKeyDown={handleKeyDown}
       />
+      {loading && <p>Laster...</p>}
       {suggestions.length > 0 && (
         <ul className="no-bullets">
           {suggestions.map((suggestion, index) => (

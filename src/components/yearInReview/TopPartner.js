@@ -17,7 +17,7 @@ const TopPartner = ({ data }) => {
   
   return (
     <StatCard 
-      title="Dream Team Partner" 
+      title="Drømmelagspartner" 
       icon={faHandshake} 
       iconColor="text-green-400"
       delay={5}
@@ -65,7 +65,7 @@ const TopPartner = ({ data }) => {
           <div className="flex flex-col items-center mb-4 space-y-1">
             <div className="flex items-center space-x-1">
               <FontAwesomeIcon icon={faUserFriends} className="text-green-400" />
-              <span className="text-gray-300">{safeData.gamesPlayed} games together</span>
+              <span className="text-gray-300">{safeData.gamesPlayed} kamper sammen</span>
             </div>
             
             <div className="w-full max-w-[180px] h-2 bg-gray-700 rounded-full overflow-hidden">
@@ -77,12 +77,12 @@ const TopPartner = ({ data }) => {
               />
             </div>
             
-            <div className="text-sm font-bold text-green-400">{safeData.winRate}% Win Rate</div>
+            <div className="text-sm font-bold text-green-400">{safeData.winRate}% Seiersrate</div>
           </div>
           
           <div className="px-4">
             <p className="text-gray-300 text-sm italic">
-              "Your go-to partner for dominating the court and crushing opponents!"
+              "Din go-to partner for å dominere banen og knuse motstandere!"
             </p>
           </div>
         </motion.div>

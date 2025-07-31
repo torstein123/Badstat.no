@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import AsyncSelect from 'react-select/async';
-import players from '../combined_rankings.json';
+import { searchPlayers } from '../services/databaseService';
 
 const PlayerDropdown = ({ onSelect }) => {
     const [isLoading, setIsLoading] = useState(false);
@@ -58,7 +58,7 @@ const PlayerDropdown = ({ onSelect }) => {
 
     // Memoized loadOptions function with debouncing
     const loadOptions = useCallback(
-        debounce((inputValue, callback) => {
+        debounce(async (inputValue, callback) => {
             setIsLoading(true);
             
             // If input is empty or just spaces, return empty array
@@ -68,23 +68,32 @@ const PlayerDropdown = ({ onSelect }) => {
                 return;
             }
             
-            // Filter players with improved matching
-            const filteredPlayers = players
-                .map(player => {
-                    const name = player['Navn'];
-                    const similarity = stringSimilarity(name, inputValue);
-                    return { player, similarity };
-                })
-                .filter(item => item.similarity > 0)
-                .sort((a, b) => b.similarity - a.similarity)
-                .map(item => ({ 
-                    value: item.player['Spiller-Id'], 
-                    label: item.player['Navn'] 
-                }))
-                .slice(0, 10); // Limit to top 10 results for performance
-            
-            setIsLoading(false);
-            callback(filteredPlayers);
+            try {
+                // Search players from database
+                const players = await searchPlayers(inputValue);
+                
+                // Filter players with improved matching
+                const filteredPlayers = players
+                    .map(player => {
+                        const name = player['Navn'];
+                        const similarity = stringSimilarity(name, inputValue);
+                        return { player, similarity };
+                    })
+                    .filter(item => item.similarity > 0)
+                    .sort((a, b) => b.similarity - a.similarity)
+                    .map(item => ({ 
+                        value: item.player['Spiller-Id'], 
+                        label: item.player['Navn'] 
+                    }))
+                    .slice(0, 10); // Limit to top 10 results for performance
+                
+                setIsLoading(false);
+                callback(filteredPlayers);
+            } catch (error) {
+                console.error('Error searching players:', error);
+                setIsLoading(false);
+                callback([]);
+            }
         }, 150),
         []
     );

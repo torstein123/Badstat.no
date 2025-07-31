@@ -27,7 +27,7 @@ const MostGames = ({ data }) => {
   
   return (
     <StatCard 
-      title="Tournament Warrior" 
+      title="Turneringskriger" 
       icon={faFire} 
       iconColor="text-orange-400"
       delay={3}
@@ -62,7 +62,7 @@ const MostGames = ({ data }) => {
               </svg>
               <div className="absolute inset-0 flex flex-col items-center justify-center">
                 <span className="text-4xl md:text-5xl font-bold text-orange-400">{safeData.gamesPlayed}</span>
-                <span className="text-sm text-orange-300">Matches</span>
+                <span className="text-sm text-orange-300">Kamper</span>
               </div>
             </div>
           </div>
@@ -93,14 +93,14 @@ const MostGames = ({ data }) => {
               {safeData.breakdown.singles > 0 && (
                 <div className="px-3 py-1 bg-orange-500/20 rounded-full flex items-center">
                   <FontAwesomeIcon icon={faUser} className="text-orange-400 mr-1" />
-                  <span className="text-sm text-orange-300">{safeData.breakdown.singles} Singles</span>
+                  <span className="text-sm text-orange-300">{safeData.breakdown.singles} Single</span>
                 </div>
               )}
               
               {safeData.breakdown.doubles > 0 && (
                 <div className="px-3 py-1 bg-orange-500/20 rounded-full flex items-center">
                   <FontAwesomeIcon icon={faUsers} className="text-orange-400 mr-1" />
-                  <span className="text-sm text-orange-300">{safeData.breakdown.doubles} Doubles</span>
+                  <span className="text-sm text-orange-300">{safeData.breakdown.doubles} Double</span>
                 </div>
               )}
               
@@ -123,15 +123,15 @@ const MostGames = ({ data }) => {
             >
               <div className="px-3 py-1 bg-orange-500/20 rounded-full flex items-center">
                 <FontAwesomeIcon icon={faTableTennis} className="text-orange-400 mr-1" />
-                <span className="text-sm text-orange-300">All Match Types</span>
+                <span className="text-sm text-orange-300">Alle Kampformer</span>
               </div>
             </motion.div>
           )}
           
           <div className="px-4">
             <p className="text-gray-300 text-sm">
-              You played an impressive {safeData.gamesPlayed} matches at this tournament, 
-              including {hasBreakdown ? `${safeData.breakdown.singles} singles, ${safeData.breakdown.doubles} doubles, and ${safeData.breakdown.mixed} mixed` : 'singles, doubles, and mixed'} games. True endurance!
+              Du spilte imponerende {safeData.gamesPlayed} kamper på denne turneringen, 
+              inkludert {hasBreakdown ? `${safeData.breakdown.singles} single, ${safeData.breakdown.doubles} double, og ${safeData.breakdown.mixed} mixed` : 'single, double, og mixed'} kamper. Ekte utholdenhet!
             </p>
           </div>
         </motion.div>

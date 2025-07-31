@@ -1,23 +1,63 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import playerMatches from '../cleaned_file.json';
-import combinedRankings from '../combined_rankings.json';
-import combinedRankingsDD from '../combined_rankingsDD.json';
-import combinedRankingsDS from '../combined_rankingsDS.json';
-import combinedRankingsHD from '../combined_rankingsHD.json';
-import combinedRankingsHS from '../combined_rankingsHS.json';
-import combinedRankingsMIX from '../combined_rankingsMIX.json';
+import { getAllMatches, getRankingsByCategory } from '../services/databaseService';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrophy, faMedal, faAward, faChartLine, faGamepad, faStar } from '@fortawesome/free-solid-svg-icons';
 
 const Leaderboard = () => {
     const [category, setCategory] = useState('Sammenlagt');
     const [matches, setMatches] = useState([]);
+    const [rankings, setRankings] = useState({});
+    const [loading, setLoading] = useState(true);
     const navigate = useNavigate();
 
     useEffect(() => {
-        setMatches(playerMatches);
+        const fetchData = async () => {
+            try {
+                setLoading(true);
+                const [matchesData, rankingsData] = await Promise.all([
+                    getAllMatches(),
+                    getRankingsByCategory('HS') // Default to HS for initial load
+                ]);
+                
+                setMatches(matchesData);
+                setRankings(rankingsData);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        fetchData();
     }, []);
+
+    useEffect(() => {
+        const fetchRankings = async () => {
+            try {
+                const categoryMap = {
+                    'Sammenlagt': 'HS', // Use HS as default for combined
+                    'Herresingle': 'HS',
+                    'Herredouble': 'HD',
+                    'Damesingle': 'DS',
+                    'Damedouble': 'DD',
+                    'Mixed Double': 'MIX'
+                };
+                
+                const categoryKey = categoryMap[category];
+                if (categoryKey) {
+                    const rankingsData = await getRankingsByCategory(categoryKey);
+                    setRankings(rankingsData);
+                }
+            } catch (error) {
+                console.error('Error fetching rankings:', error);
+            }
+        };
+
+        if (matches.length > 0) {
+            fetchRankings();
+        }
+    }, [category, matches.length]);
 
     const categories = [
         { value: 'Sammenlagt', label: 'Sammenlagt', icon: faChartLine },
@@ -44,28 +84,12 @@ const Leaderboard = () => {
         return playerCounts;
     };
 
-    const calculateRankingPoints = (category) => {
-        const rankingPointsFiles = {
-            'Sammenlagt': combinedRankings,
-            'Herresingle': combinedRankingsHS,
-            'Herredouble': combinedRankingsHD,
-            'Damesingle': combinedRankingsDS,
-            'Damedouble': combinedRankingsDD,
-            'Mixed Double': combinedRankingsMIX
-        };
-
+    const calculateRankingPoints = (rankings) => {
         const rankingPoints = {};
-        const selectedRankingPoints = rankingPointsFiles[category];
-
-        if (!selectedRankingPoints) {
-            console.error(`No ranking points data found for category: ${category}`);
-            return rankingPoints;
-        }
-
-        selectedRankingPoints.forEach(player => {
+        
+        rankings.forEach(player => {
             const playerName = player.Navn;
-            const latestYear = Math.max(...Object.keys(player).filter(key => /^\d{4}$/.test(key)));
-            const totalPoints = parseFloat(player[latestYear] || 0);
+            const totalPoints = parseFloat(player['2024'] || 0);
             rankingPoints[playerName] = totalPoints;
         });
 
@@ -82,7 +106,7 @@ const Leaderboard = () => {
         .sort((a, b) => b[1] - a[1])
         .slice(0, 10);
 
-    const rankingPoints = calculateRankingPoints(category);
+    const rankingPoints = calculateRankingPoints(rankings);
     const sortedPlayersByRankingPoints = Object.entries(rankingPoints)
         .sort((a, b) => b[1] - a[1])
         .slice(0, 10);
@@ -99,6 +123,16 @@ const Leaderboard = () => {
     const getProgressWidth = (value, maxValue) => {
         return `${(value / maxValue) * 100}%`;
     };
+
+    if (loading) {
+        return (
+            <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 pt-24 px-4">
+                <div className="max-w-7xl mx-auto text-center">
+                    <p className="text-gray-400">Laster topplister...</p>
+                </div>
+            </div>
+        );
+    }
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 pt-24 px-4">

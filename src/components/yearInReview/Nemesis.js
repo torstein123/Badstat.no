@@ -17,7 +17,7 @@ const Nemesis = ({ data }) => {
   
   return (
     <StatCard 
-      title="Your Nemesis" 
+      title="Din Nemesis" 
       icon={faExclamationTriangle} 
       iconColor="text-red-400"
       delay={6}
@@ -64,7 +64,7 @@ const Nemesis = ({ data }) => {
           
           <div className="flex flex-col items-center mb-4 space-y-1">
             <div className="flex items-center space-x-1">
-              <span className="text-gray-300">{safeData.gamesPlayed} matches</span>
+              <span className="text-gray-300">{safeData.gamesPlayed} kamper</span>
             </div>
             
             <div className="w-full max-w-[180px] h-2 bg-gray-700 rounded-full overflow-hidden">
@@ -76,7 +76,7 @@ const Nemesis = ({ data }) => {
               />
             </div>
             
-            <div className="text-sm font-bold text-red-400">{safeData.lossRate}% Loss Rate</div>
+            <div className="text-sm font-bold text-red-400">{safeData.lossRate}% Taprate</div>
           </div>
           
           <motion.div 
@@ -86,7 +86,7 @@ const Nemesis = ({ data }) => {
             transition={{ delay: 3.0 }}
           >
             <p className="text-gray-300 text-sm italic">
-              "Your ultimate rival. Will next season be your redemption arc?"
+              "Din ultimate rival. Blir neste sesong din oppreisningssaga?"
             </p>
             
             <motion.div 
@@ -94,7 +94,7 @@ const Nemesis = ({ data }) => {
               whileHover={{ scale: 1.05 }}
               transition={{ duration: 0.2 }}
             >
-              <span className="font-bold">2025 Goal:</span> Defeat your nemesis!
+              <span className="font-bold">2025 Mål:</span> Beseir din nemesis!
             </motion.div>
           </motion.div>
         </motion.div>
