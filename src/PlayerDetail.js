@@ -24,7 +24,10 @@ import {
   faTableTennis,
   faSearch,
   faSpinner,
-  faBrain
+  faBrain,
+  faCalendarAlt,
+  faArrowRight,
+  faHeart
 } from '@fortawesome/free-solid-svg-icons';
 
 // ----- Chart.js-related imports -----
@@ -948,9 +951,9 @@ const PlayerDetail = () => {
                             {playerName.split(' ').slice(1).join(' ')}
                           </span>
                         </h1>
-                        <div className="flex items-center justify-center sm:justify-start gap-3">
+                        {/* <div className="flex items-center justify-center sm:justify-start gap-3">
                           <ClassBadge playerClass={playerClass.class} />
-                        </div>
+                        </div> */}
                       </div>
 
                       {/* Navigation */}
@@ -1009,6 +1012,110 @@ const PlayerDetail = () => {
                 </div>
               </div>
             </div>
+
+            {/* Year in Review Announcement Banner */}
+            <motion.div 
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: isMobile ? 0.3 : 0.6, delay: 0.1 }}
+              className="relative overflow-hidden bg-gradient-to-br from-purple-900 via-pink-900 to-purple-900 rounded-2xl shadow-2xl border border-purple-500/20"
+            >
+              <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-pink-500/10 mix-blend-overlay"></div>
+              
+              {/* Background Pattern */}
+              <div className="absolute inset-0 opacity-10">
+                <div className="absolute inset-0" style={{
+                  backgroundImage: 'radial-gradient(circle at 2px 2px, rgba(255,255,255,0.15) 1px, transparent 0)',
+                  backgroundSize: '32px 32px'
+                }}></div>
+              </div>
+
+              {/* Floating elements */}
+              <div className="absolute top-4 right-4 w-16 h-16 text-purple-400 opacity-30 animate-bounce">
+                <motion.div
+                  animate={{ 
+                    rotate: [0, 10, -5, 0],
+                    y: [0, -5, 5, 0] 
+                  }}
+                  transition={{ 
+                    duration: 5, 
+                    repeat: Infinity,
+                    repeatType: "mirror" 
+                  }}
+                  className="text-4xl"
+                >
+                  🏸
+                </motion.div>
+              </div>
+
+              <div className="relative px-4 py-6 sm:px-6 sm:py-8 md:px-8 md:py-10">
+                <div className="flex flex-col lg:flex-row items-center gap-6 lg:gap-8">
+                  {/* Left Side - Icon and Content */}
+                  <div className="flex-1 text-center lg:text-left">
+                    <div className="flex items-center justify-center lg:justify-start gap-3 mb-4">
+                      <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-500 rounded-xl flex items-center justify-center shadow-lg">
+                        <FontAwesomeIcon icon={faCalendarAlt} className="text-white text-xl" />
+                      </div>
+                      <span className="px-3 py-1 bg-purple-500/20 text-purple-300 text-sm font-semibold rounded-full border border-purple-500/30">
+                        ✨ NYHET!
+                      </span>
+                    </div>
+                    
+                    <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-3">
+                      <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400">
+                        {playerName}s "Badminton Wrapped"
+                      </span>
+                    </h2>
+                    
+                    <p className="text-lg text-gray-300 mb-6 leading-relaxed">
+                      Få en oversikt over dine beste øyeblikk, største seire og mest interessante statistikker fra 2024/2025-sesongen – presentert på en enkel og visuell måte.
+                    </p>
+
+                    {/* Feature highlights */}
+                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-6">
+                      <div className="flex items-center justify-center lg:justify-start gap-2 text-purple-300">
+                        <FontAwesomeIcon icon={faTrophy} className="text-yellow-400" />
+                        <span className="text-sm">Beste seire</span>
+                      </div>
+                      <div className="flex items-center justify-center lg:justify-start gap-2 text-purple-300">
+                        <FontAwesomeIcon icon={faChartLine} className="text-blue-400" />
+                        <span className="text-sm">Statistikk</span>
+                      </div>
+                      <div className="flex items-center justify-center lg:justify-start gap-2 text-purple-300">
+                        <FontAwesomeIcon icon={faHeart} className="text-red-400" />
+                        <span className="text-sm">Morsomme fakta</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Right Side - CTA Button */}
+                  <div className="flex-shrink-0">
+                    <Link
+                      to={`/player/${encodeURIComponent(playerName)}/year-in-review`}
+                      className="group relative inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold rounded-xl text-lg shadow-lg hover:shadow-purple-500/25 transition-all duration-300 transform hover:scale-105 hover:from-purple-500 hover:to-pink-500 overflow-hidden"
+                    >
+                      <span className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
+                      <span className="relative flex items-center">
+                        <FontAwesomeIcon icon={faCalendarAlt} className="mr-3" />
+                        Se mitt 2024/2025
+                        <motion.div
+                          className="ml-2"
+                          animate={{ x: [0, 5, 0] }}
+                          transition={{ duration: 1.5, repeat: Infinity }}
+                        >
+                          <FontAwesomeIcon icon={faArrowRight} />
+                        </motion.div>
+                      </span>
+                    </Link>
+                    
+                    {/* Small description */}
+                    <p className="text-xs text-purple-300 mt-2 text-center opacity-80">
+                      Interaktiv opplevelse • 2-3 minutter
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </motion.div>
 
             {/* Stats Section with Integrated Tabs */}
             <div className="bg-gray-800/50 backdrop-blur-md rounded-2xl shadow-lg overflow-hidden">

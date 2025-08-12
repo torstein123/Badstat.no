@@ -1,0 +1,11 @@
+# Supabase Edge Function Configuration
+
+# Disable JWT verification for Vipps payment functions
+[functions.vipps-create-order]
+verify_jwt = false
+
+[functions.vipps-check-status]
+verify_jwt = false
+
+[functions.vipps-callback]
+verify_jwt = false 

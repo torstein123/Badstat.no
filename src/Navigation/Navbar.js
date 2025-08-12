@@ -2,11 +2,12 @@ import React, { useState, useContext, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { AuthenticationContext } from "../Auth-Context.js";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCertificate } from '@fortawesome/free-solid-svg-icons';
+import { faCertificate, faCrown, faUpgrade } from '@fortawesome/free-solid-svg-icons';
+import VippsPaymentButton from '../components/VippsPaymentButton';
 
 const Navbar = () => {
   const [isCollapsed, setIsCollapsed] = useState(true);
-  const { isAuthenticated, onLogout } = useContext(AuthenticationContext);
+  const { isAuthenticated, onLogout, hasPremiumAccess, userData } = useContext(AuthenticationContext);
   const [scrolled, setScrolled] = useState(false);
   const location = useLocation();
 
@@ -52,6 +53,13 @@ const Navbar = () => {
             <span className="text-2xl font-bold bg-gradient-to-r from-white to-blue-400 bg-clip-text text-transparent group-hover:to-blue-300 transition-all duration-300">
               BadStat
             </span>
+            {hasPremiumAccess && (
+              <FontAwesomeIcon 
+                icon={faCrown} 
+                className="text-amber-400 text-sm animate-pulse" 
+                title="Premium subscriber"
+              />
+            )}
           </Link>
 
           {/* Desktop Navigation */}
@@ -89,6 +97,16 @@ const Navbar = () => {
                 </div>
               </div>
             </div>
+            
+            {/* Premium Status / Upgrade Button */}
+            {isAuthenticated && !hasPremiumAccess && (
+              <VippsPaymentButton 
+                size="small"
+                variant="text"
+                showText={true}
+              />
+            )}
+            
             {isAuthenticated ? (
               <button
                 onClick={handleLogoutClick}
@@ -129,6 +147,16 @@ const Navbar = () => {
         isCollapsed ? 'opacity-0 -translate-y-full pointer-events-none' : 'opacity-100 translate-y-0'
         } ${scrolled ? 'bg-gray-900/85 backdrop-blur-lg' : 'bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900'}`}>
         <div className="px-4 pt-2 pb-3 space-y-1">
+          {/* Premium Status in Mobile */}
+          {isAuthenticated && hasPremiumAccess && (
+            <div className="px-4 py-2 mb-2 bg-gradient-to-r from-amber-500/20 to-yellow-500/20 rounded-lg">
+              <div className="flex items-center space-x-2">
+                <FontAwesomeIcon icon={faCrown} className="text-amber-400 text-sm" />
+                <span className="text-amber-300 text-sm font-medium">Premium aktiv</span>
+              </div>
+            </div>
+          )}
+          
           <Link
             to="/blogg"
             className={`block px-4 py-3 text-base font-medium rounded-lg transition-all duration-200 no-underline ${
@@ -217,6 +245,17 @@ const Navbar = () => {
           >
             Vilkår
           </Link>
+          
+          {/* Premium Upgrade Button for Mobile */}
+          {isAuthenticated && !hasPremiumAccess && (
+            <div className="mt-4 flex justify-center">
+              <VippsPaymentButton 
+                size="normal"
+                variant="primary"
+              />
+            </div>
+          )}
+          
           {isAuthenticated ? (
             <button
               onClick={handleLogoutClick}

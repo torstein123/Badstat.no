@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTrophy, faUser, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
+import { faTrophy, faUser, faCalendarAlt, faUserFriends } from '@fortawesome/free-solid-svg-icons';
 import StatCard from './StatCard';
 
 const BiggestWin = ({ data }) => {
@@ -49,6 +49,20 @@ const BiggestWin = ({ data }) => {
           transition={{ delay: 0.6 }}
         >
           <h4 className="text-2xl font-bold text-white mb-1">Mot {data.opponent}</h4>
+          
+          {/* Partner information for doubles/mixed matches */}
+          {data.partner && (
+            <motion.div
+              initial={{ opacity: 0, y: 5 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.8 }}
+              className="flex items-center justify-center mb-2 text-yellow-300"
+            >
+              <FontAwesomeIcon icon={faUserFriends} className="mr-2 text-yellow-400" />
+              <span className="text-sm">Med {data.partner}</span>
+            </motion.div>
+          )}
+          
           <p className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500 mb-3">{data.score}</p>
           
           <div className="flex items-center justify-center mb-1 text-gray-300">

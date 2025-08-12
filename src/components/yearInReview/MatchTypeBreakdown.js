@@ -5,9 +5,17 @@ import { faChartPie, faUser, faUserFriends, faVenusMars } from '@fortawesome/fre
 import StatCard from './StatCard';
 
 const MatchTypeBreakdown = ({ data }) => {
-  if (!data) return null;
-  
   const [chartReady, setChartReady] = useState(false);
+  
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setChartReady(true);
+    }, 1000);
+    
+    return () => clearTimeout(timer);
+  }, []);
+  
+  if (!data) return null;
   const total = data.singles + data.doubles + data.mixed;
   
   const singlesPercentage = Math.round((data.singles / total) * 100);
@@ -27,14 +35,6 @@ const MatchTypeBreakdown = ({ data }) => {
   const singlesSize = calculateBubbleSize(singlesPercentage);
   const doublesSize = calculateBubbleSize(doublesPercentage);
   const mixedSize = calculateBubbleSize(mixedPercentage);
-
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setChartReady(true);
-    }, 1000);
-    
-    return () => clearTimeout(timer);
-  }, []);
   
   // Pulse animation variants for bubbles
   const pulseAnimation = {

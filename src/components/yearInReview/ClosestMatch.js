@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBolt, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
+import { faBolt, faCalendarAlt, faUserFriends } from '@fortawesome/free-solid-svg-icons';
 import StatCard from './StatCard';
 
 const ClosestMatch = ({ data }) => {
@@ -53,6 +53,19 @@ const ClosestMatch = ({ data }) => {
             >
               Deg
             </motion.span>
+            
+            {/* Partner information for doubles/mixed matches */}
+            {data.partner && (
+              <motion.div
+                initial={{ opacity: 0, y: 5 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 3.4 }}
+                className="flex items-center justify-center mt-1 text-purple-300"
+              >
+                <FontAwesomeIcon icon={faUserFriends} className="mr-1 text-purple-400 text-xs" />
+                <span className="text-xs">Med {data.partner}</span>
+              </motion.div>
+            )}
           </div>
           
           <div className="md:col-span-1 py-6">

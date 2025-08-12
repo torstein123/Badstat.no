@@ -12,7 +12,9 @@ const Nemesis = ({ data }) => {
   const safeData = {
     name: data.name && typeof data.name === 'string' ? data.name : "Unknown",
     gamesPlayed: !isNaN(data.gamesPlayed) ? data.gamesPlayed : 0,
-    lossRate: !isNaN(data.lossRate) ? data.lossRate : 0
+    winRate: !isNaN(data.winRate) ? data.winRate : 0,
+    wins: !isNaN(data.wins) ? data.wins : 0,
+    losses: !isNaN(data.losses) ? data.losses : 0
   };
   
   return (
@@ -62,21 +64,28 @@ const Nemesis = ({ data }) => {
             </h4>
           </Link>
           
-          <div className="flex flex-col items-center mb-4 space-y-1">
+          <div className="flex flex-col items-center mb-4 space-y-2">
             <div className="flex items-center space-x-1">
               <span className="text-gray-300">{safeData.gamesPlayed} kamper</span>
+            </div>
+            
+            {/* Win-Loss Record */}
+            <div className="flex items-center space-x-3 text-sm">
+              <span className="text-green-400 font-bold">{safeData.wins} W</span>
+              <span className="text-gray-400">-</span>
+              <span className="text-red-400 font-bold">{safeData.losses} L</span>
             </div>
             
             <div className="w-full max-w-[180px] h-2 bg-gray-700 rounded-full overflow-hidden">
               <motion.div 
                 className="h-full bg-gradient-to-r from-red-500 to-orange-500 rounded-full"
                 initial={{ width: 0 }}
-                animate={{ width: `${safeData.lossRate}%` }}
+                animate={{ width: `${safeData.winRate}%` }}
                 transition={{ duration: 1, delay: 2.8 }}
               />
             </div>
             
-            <div className="text-sm font-bold text-red-400">{safeData.lossRate}% Taprate</div>
+            <div className="text-sm font-bold text-red-400">{safeData.winRate}% Vinnerate</div>
           </div>
           
           <motion.div 

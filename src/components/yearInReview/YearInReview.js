@@ -902,14 +902,16 @@ const YearInReview = () => {
           ? Math.round((topPartnerWins / maxMatches) * 100) 
           : 0;
         
-        // Find nemesis - player who has defeated this player the most
-        const nemesisCounts = {};
-        losingMatches.forEach(match => {
+        // Find nemesis - player you've played against the most with closest win-loss record
+        const opponentStats = {};
+        
+        // Analyze all matches to find opponents and their stats
+        playerMatches.forEach(match => {
           // Determine if player is in team 1 or team 2
           const isInTeam1 = match["Team 1 Player 1"] === name || match["Team 1 Player 2"] === name;
           const isInTeam2 = match["Team 2 Player 1"] === name || match["Team 2 Player 2"] === name;
           
-          // Get actual opponents (players from the opposing team only)
+          // Get opponents from the opposing team
           let opponents = [];
           if (isInTeam1) {
             // Player is in team 1, so opponents are from team 2
@@ -938,48 +940,59 @@ const YearInReview = () => {
             player !== "NaN"
           );
           
-          // Count losses against each opponent
+          // Count matches and wins/losses for each opponent
           opponents.forEach(opponent => {
-            nemesisCounts[opponent] = (nemesisCounts[opponent] || 0) + 1;
+            if (!opponentStats[opponent]) {
+              opponentStats[opponent] = {
+                totalMatches: 0,
+                wins: 0,
+                losses: 0
+              };
+            }
+            
+            opponentStats[opponent].totalMatches++;
+            
+            // Check if player won this match
+            if (didPlayerWin(match)) {
+              opponentStats[opponent].wins++;
+            } else {
+              opponentStats[opponent].losses++;
+            }
           });
         });
         
-        // Get opponent with most wins against player
+        // Find nemesis based on criteria:
+        // 1. Must have played at least 3 matches together
+        // 2. Should have the most matches among qualified opponents
+        // 3. Should have the closest win-loss ratio (closest to 50-50)
         let nemesis = null;
-        let maxLosses = 0;
-        Object.entries(nemesisCounts).forEach(([opponent, count]) => {
-          if (count > maxLosses && opponent && typeof opponent === 'string' && opponent.trim() !== '' && opponent !== "NaN") {
-            nemesis = opponent;
-            maxLosses = count;
+        let nemesisScore = 0;
+        let nemesisMatches = 0;
+        let nemesisWins = 0;
+        let nemesisLosses = 0;
+        
+        Object.entries(opponentStats).forEach(([opponent, stats]) => {
+          if (stats.totalMatches >= 3) { // Minimum 3 matches to be considered
+            // Calculate how close the win-loss ratio is to 50-50
+            const winRate = stats.wins / stats.totalMatches;
+            const closenessTo50 = 1 - Math.abs(winRate - 0.5); // 1 = perfect 50-50, 0 = completely one-sided
+            
+            // Score combines match frequency and closeness to 50-50
+            // Prioritize players with more matches, but also consider closeness
+            const score = stats.totalMatches * closenessTo50;
+            
+            if (score > nemesisScore) {
+              nemesis = opponent;
+              nemesisScore = score;
+              nemesisMatches = stats.totalMatches;
+              nemesisWins = stats.wins;
+              nemesisLosses = stats.losses;
+            }
           }
         });
         
-        // Find total matches against nemesis to calculate loss rate
-        let nemesisMatches = 0;
-        if (nemesis && typeof nemesis === 'string') {
-          playerMatches.forEach(match => {
-            // Determine if player is in team 1 or team 2
-            const isInTeam1 = match["Team 1 Player 1"] === name || match["Team 1 Player 2"] === name;
-            const isInTeam2 = match["Team 2 Player 1"] === name || match["Team 2 Player 2"] === name;
-            
-            // Check if nemesis is on the opposing team
-            let isNemesisOpponent = false;
-            if (isInTeam1) {
-              // Player is in team 1, nemesis should be in team 2
-              isNemesisOpponent = match["Team 2 Player 1"] === nemesis || match["Team 2 Player 2"] === nemesis;
-            } else if (isInTeam2) {
-              // Player is in team 2, nemesis should be in team 1
-              isNemesisOpponent = match["Team 1 Player 1"] === nemesis || match["Team 1 Player 2"] === nemesis;
-            }
-            
-            if (isNemesisOpponent) {
-              nemesisMatches++;
-            }
-          });
-        }
-        
-        const nemesisLossRate = (nemesisMatches > 0 && !isNaN(maxLosses) && !isNaN(nemesisMatches)) 
-          ? Math.round((maxLosses / nemesisMatches) * 100) 
+        const nemesisWinRate = (nemesisMatches > 0 && !isNaN(nemesisWins) && !isNaN(nemesisMatches)) 
+          ? Math.round((nemesisWins / nemesisMatches) * 100) 
           : 0;
         
         // Find closest match - match with smallest point differential in the final set
@@ -1051,6 +1064,32 @@ const YearInReview = () => {
             }
           }
         };
+
+        // Function to get partner information for doubles/mixed matches
+        const getPartner = (match) => {
+          const isTeam1 = match["Team 1 Player 1"] === name || match["Team 1 Player 2"] === name;
+          
+          if (isTeam1) {
+            // Player is in team 1, partner is the other player in team 1
+            if (match["Team 1 Player 1"] === name) {
+              return match["Team 1 Player 2"] && match["Team 1 Player 2"] !== "NaN" ? match["Team 1 Player 2"] : null;
+            } else {
+              return match["Team 1 Player 1"] && match["Team 1 Player 1"] !== "NaN" ? match["Team 1 Player 1"] : null;
+            }
+          } else {
+            // Player is in team 2, partner is the other player in team 2
+            if (match["Team 2 Player 1"] === name) {
+              return match["Team 2 Player 2"] && match["Team 2 Player 2"] !== "NaN" ? match["Team 2 Player 2"] : null;
+            } else {
+              return match["Team 2 Player 1"] && match["Team 2 Player 1"] !== "NaN" ? match["Team 2 Player 1"] : null;
+            }
+          }
+        };
+
+        // Function to check if match is doubles/mixed
+        const isDoublesOrMixed = (match) => {
+          return !isSinglesMatch(match);
+        };
         
         setLoadingStatus('Bygger din 2024/2025 sesonggjennomgang...');
         
@@ -1060,13 +1099,15 @@ const YearInReview = () => {
             opponent: formatOpponent(biggestWin),
             score: biggestWin.Result,
             tournament: biggestWin["Tournament Name"],
-            date: biggestWin.Date
+            date: biggestWin.Date,
+            partner: isDoublesOrMixed(biggestWin) ? getPartner(biggestWin) : null
           } : null,
           biggestLoss: biggestLoss ? {
             opponent: formatOpponent(biggestLoss),
             score: biggestLoss.Result,
             tournament: biggestLoss["Tournament Name"],
-            date: biggestLoss.Date
+            date: biggestLoss.Date,
+            partner: isDoublesOrMixed(biggestLoss) ? getPartner(biggestLoss) : null
           } : null,
           mostGames: {
             tournament: mostActiveTourn || "Ingen turneringer funnet",
@@ -1092,13 +1133,16 @@ const YearInReview = () => {
           nemesis: nemesis ? {
             name: (nemesis === "NaN" || !nemesis) ? "Ukjent" : nemesis,
             gamesPlayed: nemesisMatches || 0,
-            lossRate: isNaN(nemesisLossRate) ? 0 : nemesisLossRate
+            winRate: isNaN(nemesisWinRate) ? 0 : nemesisWinRate,
+            wins: nemesisWins || 0,
+            losses: nemesisLosses || 0
           } : null,
           closestMatch: closestMatch ? {
             opponent: formatOpponent(closestMatch),
             score: closestMatch.Result,
             tournament: closestMatch["Tournament Name"],
-            date: closestMatch.Date
+            date: closestMatch.Date,
+            partner: isDoublesOrMixed(closestMatch) ? getPartner(closestMatch) : null
           } : null,
           rankingData: {
             year: currentYear,
@@ -1128,13 +1172,14 @@ const YearInReview = () => {
               rawName: nemesis,
               isString: typeof nemesis === 'string',
               games: nemesisMatches,
-              losses: maxLosses,
-              lossRate: nemesisLossRate,
-              hasNaN: isNaN(nemesisLossRate)
+              wins: nemesisWins,
+              losses: nemesisLosses,
+              winRate: nemesisWinRate,
+              hasNaN: isNaN(nemesisWinRate)
             });
             
             // Log all nemesis candidates for debugging
-            console.log('All potential nemeses:', nemesisCounts);
+            console.log('All potential nemeses:', opponentStats);
             
             // Check if nemesis is also a partner (which would be incorrect)
             const isAlsoPartner = Object.keys(partnerCounts).includes(nemesis);

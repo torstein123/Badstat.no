@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { getPlayerRankings } from '../services/databaseService';
 import { Line } from 'react-chartjs-2';
-import HeadToHead from './headTohead.js' ;
+import HeadToHead from './HeadToHead.js';
 import { motion } from 'framer-motion';
 import AdSlot from './AdSlot';
 
