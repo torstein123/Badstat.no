@@ -20,7 +20,7 @@ driver.get(url)
 wait = WebDriverWait(driver, 10)
 
 # Here we create a list with all the options values for the different seasons
-seasons_values = [f'20020{i}' for i in range(24, 25)]
+seasons_values = [f'20020{i}' for i in range(25, 26)]
 
 categories = range(1, 7)  # The numbers used in the SelectRankingList(n) function
 

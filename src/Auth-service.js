@@ -1,4 +1,4 @@
-import { signInWithEmailAndPassword } from "firebase/auth";
+import { signInWithEmailAndPassword, GoogleAuthProvider, signInWithRedirect, getRedirectResult } from "firebase/auth";
 import { auth } from "./firebase"; // Ensure this is set up correctly for the web
 
 export const signInWithGoogleRedirect = async () => {

@@ -12,9 +12,13 @@ import {
     faShieldAlt,
     faChartLine,
     faTrophy,
-    faBook
+    faBook,
+    faCrown,
+    faCalendarAlt,
+    faCheck
 } from '@fortawesome/free-solid-svg-icons';
 import ShuttlecockIcon from './components/ShuttlecockIcon';
+import VippsPaymentButton from './components/VippsPaymentButton';
 
 export const AccountScreen = () => {
     const [email, setEmail] = useState('');
@@ -28,7 +32,9 @@ export const AccountScreen = () => {
         user,
         onLogout,
         isAuthenticated,
-        isLoading
+        isLoading,
+        userData,
+        hasPremiumAccess
     } = useContext(AuthenticationContext);
 
     const navigate = useNavigate();
@@ -92,12 +98,56 @@ export const AccountScreen = () => {
                             </div>
 
                             {isAuthenticated ? (
-                                <div className="text-center">
-                                    <div className="bg-white/10 rounded-lg p-4 mb-4">
+                                <div className="text-center space-y-4">
+                                    <div className="bg-white/10 rounded-lg p-4">
                                         <FontAwesomeIcon icon={faUser} className="text-indigo-400 text-2xl mb-2" />
                                         <p className="text-white">Du er logget inn som:</p>
                                         <p className="text-indigo-300 font-medium">{user.email}</p>
                                     </div>
+                                    
+                                    {/* Premium Status */}
+                                    <div className={`rounded-lg p-4 ${hasPremiumAccess 
+                                        ? 'bg-gradient-to-r from-amber-500/20 to-yellow-500/20 border border-amber-500/30' 
+                                        : 'bg-white/10 border border-white/20'}`}>
+                                        <div className="flex items-center justify-center space-x-2 mb-2">
+                                            <FontAwesomeIcon 
+                                                icon={faCrown} 
+                                                className={`text-xl ${hasPremiumAccess ? 'text-amber-400' : 'text-gray-400'}`} 
+                                            />
+                                            <h3 className={`font-semibold ${hasPremiumAccess ? 'text-amber-300' : 'text-white'}`}>
+                                                {hasPremiumAccess ? 'Premium Aktiv' : 'Gratis Konto'}
+                                            </h3>
+                                        </div>
+                                        
+                                        {hasPremiumAccess ? (
+                                            <div className="space-y-2">
+                                                <div className="flex items-center justify-center space-x-2 text-amber-200">
+                                                    <FontAwesomeIcon icon={faCheck} className="text-sm" />
+                                                    <span className="text-sm">Full tilgang til alle funksjoner</span>
+                                                </div>
+                                                {userData?.subscriptionExpiry && (
+                                                    <div className="flex items-center justify-center space-x-2 text-amber-200">
+                                                        <FontAwesomeIcon icon={faCalendarAlt} className="text-sm" />
+                                                        <span className="text-sm">
+                                                            Utløper: {new Date(userData.subscriptionExpiry).toLocaleDateString('no-NO')}
+                                                        </span>
+                                                    </div>
+                                                )}
+                                            </div>
+                                        ) : (
+                                            <div className="space-y-2">
+                                                <p className="text-gray-300 text-sm">
+                                                    Oppgrader til Premium for full tilgang
+                                                </p>
+                                                <VippsPaymentButton 
+                                                    size="small"
+                                                    variant="primary"
+                                                    className="w-full"
+                                                />
+                                            </div>
+                                        )}
+                                    </div>
+                                    
                                     <button 
                                         onClick={onLogout}
                                         className="w-full px-4 py-2 bg-gradient-to-r from-red-600 to-red-700 text-white rounded-lg hover:from-red-700 hover:to-red-800 transition-all transform hover:scale-105"

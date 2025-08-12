@@ -9,18 +9,99 @@ import {
     signInWithPopup
 } from "firebase/auth";
 import { auth, db } from "./firebase";
-import { doc, setDoc, collection, getDocs } from "firebase/firestore";
+import { doc, setDoc, collection, getDocs, getDoc } from "firebase/firestore";
 
 export const AuthenticationContext = createContext();
 
 export const AuthenticationContextProvider = ({ children }) => {
-    const [isLoading, setIsLoading] = useState(false);
+    const [isLoading, setIsLoading] = useState(true);
     const [user, setUser] = useState(null);
+    const [userData, setUserData] = useState(null);
     const [error, setError] = useState(null);
+    const [feedbackMessage, setFeedbackMessage] = useState('');
+    const [isFeedbackPositive, setIsFeedbackPositive] = useState(true);
+
+    // Fetch user data from Firestore including subscription info
+    const fetchUserData = async (userId) => {
+        try {
+            const userDocRef = doc(db, 'users', userId);
+            const userDoc = await getDoc(userDocRef);
+            
+            if (userDoc.exists()) {
+                const data = userDoc.data();
+                setUserData(data);
+                return data;
+            } else {
+                // Create user document if it doesn't exist
+                const defaultUserData = {
+                    email: user?.email || '',
+                    role: 'user',
+                    subscriptionStatus: 'free',
+                    subscriptionExpiry: null,
+                    createdAt: new Date().toISOString()
+                };
+                await setDoc(userDocRef, defaultUserData);
+                setUserData(defaultUserData);
+                return defaultUserData;
+            }
+        } catch (error) {
+            console.error('Error fetching user data:', error);
+            return null;
+        }
+    };
+
+    // Check if user has valid premium subscription
+    const hasPremiumAccess = () => {
+        if (!userData) return false;
+        
+        // Admin always has access
+        if (userData.role === 'admin') return true;
+        
+        // Check subscription status and expiry
+        if (userData.subscriptionStatus === 'premium' && userData.subscriptionExpiry) {
+            const expiryDate = new Date(userData.subscriptionExpiry);
+            const now = new Date();
+            return expiryDate > now;
+        }
+        
+        return false;
+    };
+
+    // Update subscription status after successful payment
+    const updateSubscriptionStatus = async (userId, vippsOrderId) => {
+        try {
+            const expiryDate = new Date();
+            expiryDate.setFullYear(expiryDate.getFullYear() + 1); // 1 year from now
+            
+            const userDocRef = doc(db, 'users', userId);
+            const updateData = {
+                subscriptionStatus: 'premium',
+                subscriptionExpiry: expiryDate.toISOString(),
+                lastPaymentDate: new Date().toISOString(),
+                vippsOrderId: vippsOrderId
+            };
+            
+            await setDoc(userDocRef, updateData, { merge: true });
+            setUserData(prev => ({ ...prev, ...updateData }));
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating subscription:', error);
+            return false;
+        }
+    };
 
     useEffect(() => {
-        const unsubscribe = onAuthStateChanged(auth, (usr) => {
+        const unsubscribe = onAuthStateChanged(auth, async (usr) => {
             setUser(usr);
+            
+            if (usr) {
+                // Fetch user data when user is authenticated
+                await fetchUserData(usr.uid);
+            } else {
+                setUserData(null);
+            }
+            
             setIsLoading(false);
         });
 
@@ -32,6 +113,7 @@ export const AuthenticationContextProvider = ({ children }) => {
         try {
             const u = await loginRequest(email, password);
             setUser(u);
+            await fetchUserData(u.uid);
         } catch (e) {
             setError(e.message);
         }
@@ -44,17 +126,22 @@ export const AuthenticationContextProvider = ({ children }) => {
             const userCredential = await createUserWithEmailAndPassword(auth, email, password);
             const newUser = userCredential.user;
 
-            await setDoc(doc(db, 'users', newUser.uid), {
+            const defaultUserData = {
                 email: newUser.email,
                 role: 'user',
+                subscriptionStatus: 'free',
+                subscriptionExpiry: null,
+                createdAt: new Date().toISOString(),
                 ...additionalData,
-            });
+            };
 
+            await setDoc(doc(db, 'users', newUser.uid), defaultUserData);
             setUser(newUser);
-            return newUser; // Resolve the promise with the new user
+            setUserData(defaultUserData);
+            return newUser;
         } catch (error) {
             setError(error.message);
-            throw error; // Rethrow the error to handle it in the component
+            throw error;
         } finally {
             setIsLoading(false);
         }
@@ -64,6 +151,7 @@ export const AuthenticationContextProvider = ({ children }) => {
         try {
             await signOut(auth);
             setUser(null);
+            setUserData(null);
         } catch (e) {
             setError(e.message);
         }
@@ -75,6 +163,7 @@ export const AuthenticationContextProvider = ({ children }) => {
         try {
             const result = await signInWithPopup(auth, provider);
             setUser(result.user);
+            await fetchUserData(result.user.uid);
         } catch (error) {
             setError(error.message);
         } finally {
@@ -109,24 +198,25 @@ export const AuthenticationContextProvider = ({ children }) => {
         return querySnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
     };
 
-    const [feedbackMessage, setFeedbackMessage] = useState('');
-    const [isFeedbackPositive, setIsFeedbackPositive] = useState(true);
-
     return (
         <AuthenticationContext.Provider
             value={{
                 isAuthenticated: !!user,
                 user,
+                userData,
                 isLoading,
                 error,
                 onLogin,
                 onRegister,
                 onLogout,
-                onGoogleLogin,  // Make sure to add this for access in components
+                onGoogleLogin,
                 feedbackMessage,
                 isFeedbackPositive,
                 onResetPassword,
                 fetchUserDiaryEntries,
+                hasPremiumAccess: hasPremiumAccess(),
+                updateSubscriptionStatus,
+                fetchUserData,
             }}
         >
             {children}
