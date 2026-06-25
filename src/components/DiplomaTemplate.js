@@ -24,7 +24,7 @@ const DiplomaTemplate = ({ player, template, club }) => {
           <div className="player-club">{club}</div>
           
           <div className="achievement-text">
-            har utvist enestående ferdigheter og sportsånd i sesongen 2023/2024
+            har utvist enestående ferdigheter og sportsånd i sesongen 2025/2026
           </div>
           
           <div className="stats-container">
@@ -76,7 +76,7 @@ const DiplomaTemplate = ({ player, template, club }) => {
       <div className="diploma standard-template">
         <div className="diploma-header">
           <h1>DIPLOM</h1>
-          <div className="diploma-subtitle">Badmintonsesongen 2023/2024</div>
+          <div className="diploma-subtitle">Badmintonsesongen 2025/2026</div>
         </div>
         
         <div className="diploma-content">
@@ -132,7 +132,7 @@ const DiplomaTemplate = ({ player, template, club }) => {
           <div className="player-club">{club}</div>
           
           <div className="achievement-text">
-            har oppnådd fremragende resultater i badmintonsesongen 2023/2024
+            har oppnådd fremragende resultater i badmintonsesongen 2025/2026
           </div>
           
           <div className="stats-container pro">

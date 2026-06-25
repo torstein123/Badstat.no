@@ -47,9 +47,9 @@ import { getPlayerRankingsByCategory, getPlayerMatches } from '../../services/da
 // Fun comments for each slide
 const slideComments = {
   intro: [
-    "La oss se hvordan 2024/2025-sesongen din gikk! 🏸",
-    "Gjør deg klar for høydepunktene fra 2024/2025-sesongen din! 🤩",
-    "På tide å briljere med statistikken fra 2024/2025-sesongen! 💪"
+    "La oss se hvordan 2025/2026-sesongen din gikk! 🏸",
+    "Gjør deg klar for høydepunktene fra 2025/2026-sesongen din! 🤩",
+    "På tide å briljere med statistikken fra 2025/2026-sesongen! 💪"
   ],
   biggestWin: [
     "Du KNUSTE all motstand! 🔥",
@@ -93,8 +93,8 @@ const slideComments = {
   ],
   outro: [
     "Det var alt, folkens! Sees neste sesong! 👋",
-    "Fortsett å smashe i 2025/2026-sesongen! 🏆",
-    "Du er offisielt en badminton-legende for 2024/2025-sesongen! 🌟"
+    "Fortsett å smashe i 2026/2027-sesongen! 🏆",
+    "Du er offisielt en badminton-legende for 2025/2026-sesongen! 🌟"
   ]
 };
 
@@ -234,7 +234,7 @@ const IntroSlide = ({ name, onNext }) => (
       animate={{ y: 0, opacity: 1 }}
       transition={{ delay: 0.3 }}
     >
-      {name}s 2024/2025
+      {name}s 2025/2026
     </motion.h1>
     
     <motion.h2 
@@ -459,7 +459,7 @@ const YearInReview = () => {
         // Get match data from database
         const matchData = await getPlayerMatches(name);
         
-        // Filter matches for the current season (2024/2025)
+        // Filter matches for the current season (2025/2026)
         const playerMatches = matchData.filter(match => {
           // Check if player is in the match and player names are valid
           const playerInMatch = match["Team 1 Player 1"] === name || 
@@ -479,10 +479,10 @@ const YearInReview = () => {
           
           // Try to determine season from the Season field if available
           if (match.Season) {
-            isCurrentSeason = match.Season === '2024/2025' || 
-                             match.Season === '2024-2025' || 
-                             match.Season === '2024/25' ||
-                             match.Season.includes('2024/2025');
+            isCurrentSeason = match.Season === '2025/2026' || 
+                             match.Season === '2025-2026' || 
+                             match.Season === '2025/26' ||
+                             match.Season.includes('2025/2026');
           } 
           // If no Season field, try to determine from date
           else if (match.Date) {
@@ -494,14 +494,14 @@ const YearInReview = () => {
                 const month = parseInt(dateParts[1]) - 1; // 0-based month
                 const day = parseInt(dateParts[0]);
                 
-                // Define season boundaries: July 1, 2024 to June 30, 2025
-                const isCurrentSeason2024_2025 = 
-                  // July 1, 2024 to December 31, 2024
-                  (year === 2024 && month >= 6) || 
-                  // January 1, 2025 to June 30, 2025
-                  (year === 2025 && month <= 5);
-                
-                isCurrentSeason = isCurrentSeason2024_2025;
+                // Define season boundaries: July 1, 2025 to June 30, 2026
+                const isCurrentSeason2025_2026 =
+                  // July 1, 2025 to December 31, 2025
+                  (year === 2025 && month >= 6) ||
+                  // January 1, 2026 to June 30, 2026
+                  (year === 2026 && month <= 5);
+
+                isCurrentSeason = isCurrentSeason2025_2026;
               }
             } catch (error) {
               console.error("Error parsing date:", error);
@@ -514,7 +514,7 @@ const YearInReview = () => {
         // Debug logging
         if (process.env.NODE_ENV === 'development') {
           console.log(`YearInReview: Found ${matchData.length} total matches for ${name}`);
-          console.log(`YearInReview: Filtered to ${playerMatches.length} matches for 2024/2025 season`);
+          console.log(`YearInReview: Filtered to ${playerMatches.length} matches for 2025/2026 season`);
           if (playerMatches.length > 0) {
             console.log('YearInReview: Sample match:', {
               season: playerMatches[0].Season,
@@ -533,8 +533,8 @@ const YearInReview = () => {
         setLoadingStatus('Beregner rangeringer...');
         
         // Get ranking data
-        const currentYear = '2024';
-        const previousYear = '2023';
+        const currentYear = '2025';
+        const previousYear = '2024';
         
         // Get player data from all categories
         const playerHS = await getPlayerRankingsByCategory(name, 'HS');
@@ -1091,7 +1091,7 @@ const YearInReview = () => {
           return !isSinglesMatch(match);
         };
         
-        setLoadingStatus('Bygger din 2024/2025 sesonggjennomgang...');
+        setLoadingStatus('Bygger din 2025/2026 sesonggjennomgang...');
         
         // Create the data object with real data
         const realData = {
@@ -1350,8 +1350,8 @@ const YearInReview = () => {
     };
   }, []);
 
-  const title = name ? `${name}s 2024/2025 sesonggjennomgang | BadmintonStats` : '2024/2025 sesonggjennomgang | BadmintonStats';
-  const description = name ? `Sjekk ut ${name}s badmintonhøydepunkter fra 2024/2025-sesongen` : 'Sjekk ut badmintonhøydepunktene fra 2024/2025-sesongen';
+  const title = name ? `${name}s 2025/2026 sesonggjennomgang | BadmintonStats` : '2025/2026 sesonggjennomgang | BadmintonStats';
+  const description = name ? `Sjekk ut ${name}s badmintonhøydepunkter fra 2025/2026-sesongen` : 'Sjekk ut badmintonhøydepunktene fra 2025/2026-sesongen';
 
   // Add an error display component
   const ErrorDisplay = ({ message }) => (
@@ -1392,7 +1392,7 @@ const YearInReview = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.3 }}
         >
-          Genererer din 2024/2025 sesonggjennomgang
+          Genererer din 2025/2026 sesonggjennomgang
         </motion.p>
         <motion.div
           className="mt-4 max-w-xs text-center"
@@ -1415,7 +1415,7 @@ const YearInReview = () => {
             animate={{ opacity: [0, 1, 0] }}
             transition={{ duration: 2, repeat: Infinity, repeatType: "reverse" }}
           >
-            Finner dine beste øyeblikk fra 2024/2025-sesongen...
+            Finner dine beste øyeblikk fra 2025/2026-sesongen...
           </motion.p>
         </motion.div>
       </div>

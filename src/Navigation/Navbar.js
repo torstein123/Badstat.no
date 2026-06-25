@@ -3,7 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 import { AuthenticationContext } from "../Auth-Context.js";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCertificate, faCrown, faUpgrade } from '@fortawesome/free-solid-svg-icons';
-import VippsPaymentButton from '../components/VippsPaymentButton';
 
 const Navbar = () => {
   const [isCollapsed, setIsCollapsed] = useState(true);
@@ -97,15 +96,6 @@ const Navbar = () => {
                 </div>
               </div>
             </div>
-            
-            {/* Premium Status / Upgrade Button */}
-            {isAuthenticated && !hasPremiumAccess && (
-              <VippsPaymentButton 
-                size="small"
-                variant="text"
-                showText={true}
-              />
-            )}
             
             {isAuthenticated ? (
               <button
@@ -245,16 +235,6 @@ const Navbar = () => {
           >
             Vilkår
           </Link>
-          
-          {/* Premium Upgrade Button for Mobile */}
-          {isAuthenticated && !hasPremiumAccess && (
-            <div className="mt-4 flex justify-center">
-              <VippsPaymentButton 
-                size="normal"
-                variant="primary"
-              />
-            </div>
-          )}
           
           {isAuthenticated ? (
             <button

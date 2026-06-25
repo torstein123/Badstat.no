@@ -1,8 +1,8 @@
 import { createClient } from '@supabase/supabase-js';
 
 // Initialize Supabase client
-const supabaseUrl = 'https://pzlqcweunxxcavyzxopg.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB6bHFjd2V1bnh4Y2F2eXp4b3BnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM4ODcyNzYsImV4cCI6MjA2OTQ2MzI3Nn0.fMki9KkLeaJc4xH3a3BlnbO_baG_h5FEv8yTcQEk9XY';
+const supabaseUrl = 'https://kfxdblvdunnrxhuxqvzi.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtmeGRibHZkdW5ucnhodXhxdnppIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI0MTQ5NzEsImV4cCI6MjA5Nzk5MDk3MX0.TZ6LCEIbEcqKsPUQQyGjLNsAbCZvTr2WJxBl4A-W2i8';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 // Simple cache for search results
@@ -14,32 +14,73 @@ const isCacheValid = (timestamp) => {
   return Date.now() - timestamp < CACHE_DURATION;
 };
 
-// Rankings data functions
-export const getRankingsByCategory = async (category) => {
+// PostgREST caps a single response at ~1000 rows by default, which silently
+// truncates full-table reads. Page through with .range() until a short page
+// comes back. buildQuery(from, to) must return a Supabase query ending in
+// .range(from, to); any .order() applied before .range() is preserved across
+// pages, so concatenating the pages keeps the global ordering.
+const PAGE_SIZE = 1000;
+const fetchAllRows = async (buildQuery) => {
+  const all = [];
+  for (let from = 0; ; from += PAGE_SIZE) {
+    const { data, error } = await buildQuery(from, from + PAGE_SIZE - 1);
+    if (error) throw error;
+    if (!data || data.length === 0) break;
+    all.push(...data);
+    if (data.length < PAGE_SIZE) break;
+  }
+  return all;
+};
+
+// Rankings data functions. age_group defaults to SEN so existing callers keep
+// seeing the senior list; pass a different age group (U15, U17, ...) to scope.
+export const getRankingsByCategory = async (category, ageGroup = 'SEN') => {
   try {
     const { data, error } = await supabase
       .from('rankings')
       .select('*')
       .eq('category', category)
-      .order('2024', { ascending: false });
-    
+      .eq('age_group', ageGroup)
+      .order('2025', { ascending: false });
+
     if (error) throw error;
-    return data;
+    return data || [];
   } catch (error) {
     console.error('Error fetching rankings by category:', error);
     return [];
   }
 };
 
-export const getAllRankings = async () => {
+// Discover which age groups a player has any current-season rankings in.
+// Used by PlayerDetail to populate the age-group dropdown.
+export const getPlayerAgeGroups = async (playerName) => {
   try {
     const { data, error } = await supabase
       .from('rankings')
-      .select('*')
-      .order('2024', { ascending: false });
-    
+      .select('age_group')
+      .eq('Navn', playerName);
     if (error) throw error;
-    return data;
+    const set = new Set((data || []).map((r) => r.age_group).filter(Boolean));
+    // Stable display order: youth → senior → veteran
+    const order = ['U11','U13','U15','U17','U19','SEN','O35','O40','O45','O50','O55','O60','O65','O70','O75','O80'];
+    return order.filter((g) => set.has(g));
+  } catch (error) {
+    console.error('Error fetching player age groups:', error);
+    return [];
+  }
+};
+
+export const getAllRankings = async () => {
+  try {
+    // Page through every ranking row — the table is well past the 1000-row
+    // default cap, so a single query would silently drop most of the list.
+    return await fetchAllRows((from, to) =>
+      supabase
+        .from('rankings')
+        .select('*')
+        .order('2025', { ascending: false })
+        .range(from, to)
+    );
   } catch (error) {
     console.error('Error fetching all rankings:', error);
     return [];
@@ -108,34 +149,91 @@ export const searchPlayers = async (searchTerm) => {
   }
 };
 
-// Matches data functions
+// Matches data functions.
+// PostgREST .or() with column names containing spaces is unreliable, so we run
+// four equality queries in parallel and merge. Also bumps the row cap to 5000
+// since Supabase's default 1000-row limit can truncate prolific players.
 export const getPlayerMatches = async (playerName) => {
   try {
-    const { data, error } = await supabase
-      .from('matches')
-      .select('*')
-      .or(`Team 1 Player 1.eq.${playerName},Team 1 Player 2.eq.${playerName},Team 2 Player 1.eq.${playerName},Team 2 Player 2.eq.${playerName}`)
-      .order('Date', { ascending: false });
-    
-    if (error) throw error;
-    return data;
+    const slots = ['Team 1 Player 1', 'Team 1 Player 2', 'Team 2 Player 1', 'Team 2 Player 2'];
+    const results = await Promise.all(
+      slots.map((col) =>
+        supabase
+          .from('matches')
+          .select('*')
+          .eq(col, playerName)
+          .order('Date', { ascending: false })
+          .limit(5000)
+      )
+    );
+    const merged = new Map();
+    for (const { data, error } of results) {
+      if (error) throw error;
+      for (const m of data || []) {
+        if (m?.id != null) merged.set(m.id, m);
+      }
+    }
+    return [...merged.values()].sort((a, b) => {
+      // Norwegian-style DD.MM.YYYY date string in Date column. Parse to compare.
+      const toIso = (s) => {
+        const x = (s || '').match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+        return x ? `${x[3]}-${x[2].padStart(2,'0')}-${x[1].padStart(2,'0')}` : '';
+      };
+      return toIso(b.Date).localeCompare(toIso(a.Date));
+    });
   } catch (error) {
     console.error('Error fetching player matches:', error);
     return [];
   }
 };
 
+// WARNING: the matches table has 180k+ rows. This pages through all of them,
+// so it returns a complete (no longer truncated) but very large result set —
+// avoid calling it on the client. Prefer a scoped query (by player, season, or
+// tournament) or a server-side RPC for aggregates.
 export const getAllMatches = async () => {
+  try {
+    return await fetchAllRows((from, to) =>
+      supabase
+        .from('matches')
+        .select('*')
+        .order('Date', { ascending: false })
+        .range(from, to)
+    );
+  } catch (error) {
+    console.error('Error fetching all matches:', error);
+    return [];
+  }
+};
+
+export const getCurrentSeasonMatches = async () => {
   try {
     const { data, error } = await supabase
       .from('matches')
       .select('*')
+      .eq('Season', '2025/2026')
       .order('Date', { ascending: false });
-    
+
     if (error) throw error;
     return data;
   } catch (error) {
-    console.error('Error fetching all matches:', error);
+    console.error('Error fetching current season matches:', error);
+    return [];
+  }
+};
+
+export const getTopPlayersByMatches = async (season = '2025/2026', category = 'Sammenlagt', limit = 10) => {
+  try {
+    const { data, error } = await supabase.rpc('get_top_players_by_matches', {
+      p_season: season,
+      p_category: category,
+      p_limit: limit,
+    });
+
+    if (error) throw error;
+    return data || [];
+  } catch (error) {
+    console.error('Error fetching top players by matches:', error);
     return [];
   }
 };
@@ -216,34 +314,6 @@ export const getHeadToHeadMatches = async (player1, player2) => {
   }
 };
 
-// Statistics functions
-export const getPlayerStats = async (playerName) => {
-  try {
-    const matches = await getPlayerMatches(playerName);
-    
-    let wins = 0;
-    let totalMatches = matches.length;
-    
-    matches.forEach(match => {
-      const isPlayer1 = match['Team 1 Player 1'] === playerName || match['Team 1 Player 2'] === playerName;
-      const isPlayer2 = match['Team 2 Player 1'] === playerName || match['Team 2 Player 2'] === playerName;
-      
-      if (isPlayer1 && match['Winner Player 1']) wins++;
-      if (isPlayer2 && match['Winner Player 2']) wins++;
-    });
-    
-    return {
-      totalMatches,
-      wins,
-      losses: totalMatches - wins,
-      winRate: totalMatches > 0 ? (wins / totalMatches * 100).toFixed(1) : 0
-    };
-  } catch (error) {
-    console.error('Error calculating player stats:', error);
-    return { totalMatches: 0, wins: 0, losses: 0, winRate: 0 };
-  }
-};
-
 // Year in review functions
 export const getYearStats = async (year) => {
   try {
@@ -273,6 +343,21 @@ export const getPlayerRankingsByCategory = async (playerName, category) => {
     return data;
   } catch (error) {
     console.error('Error fetching player rankings by category:', error);
+    return null;
+  }
+};
+
+export const getPlayerByName = async (playerName) => {
+  try {
+    const { data, error } = await supabase
+      .from('players')
+      .select('*')
+      .eq('Navn', playerName)
+      .maybeSingle();
+    if (error) throw error;
+    return data;
+  } catch (error) {
+    console.error('Error fetching player by name:', error);
     return null;
   }
 };
@@ -318,8 +403,10 @@ export default {
   getAllMatches,
   getMatchesByTournament,
   getHeadToHeadMatches,
-  getPlayerStats,
   getYearStats,
   getPlayerRankingsByCategory,
-  getPlayerAllRankings
-}; 
+  getPlayerAllRankings,
+  getPlayerByName,
+  getPlayerAgeGroups,
+  getTopPlayersByMatches
+};

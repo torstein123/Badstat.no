@@ -1,26 +1,37 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { getAllMatches, getRankingsByCategory } from '../services/databaseService';
+import { getRankingsByCategory, getTopPlayersByMatches } from '../services/databaseService';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTrophy, faMedal, faAward, faChartLine, faGamepad, faStar } from '@fortawesome/free-solid-svg-icons';
+import { faTrophy, faMedal, faAward, faChartLine, faStar } from '@fortawesome/free-solid-svg-icons';
+
+const CURRENT_SEASON = '2025/2026';
 
 const Leaderboard = () => {
     const [category, setCategory] = useState('Sammenlagt');
-    const [matches, setMatches] = useState([]);
-    const [rankings, setRankings] = useState({});
+    const [topPlayers, setTopPlayers] = useState([]);
+    const [rankings, setRankings] = useState([]);
     const [loading, setLoading] = useState(true);
     const navigate = useNavigate();
 
     useEffect(() => {
+        const categoryMap = {
+            'Sammenlagt': 'HS',
+            'Herresingle': 'HS',
+            'Herredouble': 'HD',
+            'Damesingle': 'DS',
+            'Damedouble': 'DD',
+            'Mixed Double': 'MIX'
+        };
+
         const fetchData = async () => {
             try {
                 setLoading(true);
-                const [matchesData, rankingsData] = await Promise.all([
-                    getAllMatches(),
-                    getRankingsByCategory('HS') // Default to HS for initial load
+                const [topPlayersData, rankingsData] = await Promise.all([
+                    getTopPlayersByMatches(CURRENT_SEASON, category, 10),
+                    getRankingsByCategory(categoryMap[category])
                 ]);
-                
-                setMatches(matchesData);
+
+                setTopPlayers(topPlayersData);
                 setRankings(rankingsData);
             } catch (error) {
                 console.error('Error fetching data:', error);
@@ -30,34 +41,7 @@ const Leaderboard = () => {
         };
 
         fetchData();
-    }, []);
-
-    useEffect(() => {
-        const fetchRankings = async () => {
-            try {
-                const categoryMap = {
-                    'Sammenlagt': 'HS', // Use HS as default for combined
-                    'Herresingle': 'HS',
-                    'Herredouble': 'HD',
-                    'Damesingle': 'DS',
-                    'Damedouble': 'DD',
-                    'Mixed Double': 'MIX'
-                };
-                
-                const categoryKey = categoryMap[category];
-                if (categoryKey) {
-                    const rankingsData = await getRankingsByCategory(categoryKey);
-                    setRankings(rankingsData);
-                }
-            } catch (error) {
-                console.error('Error fetching rankings:', error);
-            }
-        };
-
-        if (matches.length > 0) {
-            fetchRankings();
-        }
-    }, [category, matches.length]);
+    }, [category]);
 
     const categories = [
         { value: 'Sammenlagt', label: 'Sammenlagt', icon: faChartLine },
@@ -68,30 +52,17 @@ const Leaderboard = () => {
         { value: 'Mixed Double', label: 'Mixed Double', icon: faChartLine }
     ];
 
-    const aggregateMatchCounts = (matches, category) => {
-        const playerCounts = {};
-        matches.forEach(match => {
-            const matchCategory = match.Match;
-            if (category === 'Sammenlagt' || matchCategory === category || (category === 'Mixed Double' && matchCategory === "Mixeddouble")) {
-                ['Team 1 Player 1', 'Team 1 Player 2', 'Team 2 Player 1', 'Team 2 Player 2'].forEach(position => {
-                    const playerName = match[position];
-                    if (playerName && playerName !== "NaN") {
-                        playerCounts[playerName] = (playerCounts[playerName] || 0) + 1;
-                    }
-                });
-            }
-        });
-        return playerCounts;
-    };
-
     const calculateRankingPoints = (rankings) => {
         const rankingPoints = {};
         
-        rankings.forEach(player => {
-            const playerName = player.Navn;
-            const totalPoints = parseFloat(player['2024'] || 0);
-            rankingPoints[playerName] = totalPoints;
-        });
+        // Safety check to ensure rankings is an array
+        if (Array.isArray(rankings)) {
+            rankings.forEach(player => {
+                const playerName = player.Navn;
+                const totalPoints = parseFloat(player['2025'] || 0);
+                rankingPoints[playerName] = totalPoints;
+            });
+        }
 
         return rankingPoints;
     };
@@ -100,11 +71,7 @@ const Leaderboard = () => {
         navigate(`/player/${encodeURIComponent(playerName)}`);
     };
 
-    const combinedMatchCounts = aggregateMatchCounts(matches, 'Sammenlagt');
-    const matchCounts = aggregateMatchCounts(matches, category);
-    const sortedPlayers = Object.entries(category === 'Sammenlagt' ? combinedMatchCounts : matchCounts)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 10);
+    const sortedPlayers = topPlayers.map(({ player, match_count }) => [player, Number(match_count)]);
 
     const rankingPoints = calculateRankingPoints(rankings);
     const sortedPlayersByRankingPoints = Object.entries(rankingPoints)
@@ -171,7 +138,7 @@ const Leaderboard = () => {
                     <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 shadow-xl">
                         <h3 className="text-2xl font-bold text-white mb-6 flex items-center">
                             <FontAwesomeIcon icon={faChartLine} className="mr-3 text-blue-400" />
-                            Flest Kamper siden 2013
+                            Flest Kamper (2025/2026 sesong)
                         </h3>
                         <div className="space-y-4">
                             {sortedPlayers.map(([player, count], index) => (
@@ -202,7 +169,7 @@ const Leaderboard = () => {
                     <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 shadow-xl">
                         <h3 className="text-2xl font-bold text-white mb-6 flex items-center">
                             <FontAwesomeIcon icon={faChartLine} className="mr-3 text-pink-400" />
-                            Rankingpoeng (2024)
+                            Rankingpoeng (2025)
                         </h3>
                         <div className="space-y-4">
                             {sortedPlayersByRankingPoints.map(([player, points], index) => (
