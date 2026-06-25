@@ -5,13 +5,14 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChartLine, faTrophy, faMedal, faArrowUp, faArrowDown, faFilter, faChevronDown } from '@fortawesome/free-solid-svg-icons';
 import { getRankingsByCategory } from '../services/databaseService';
 
-const RankingHistoryGraph = ({ playerName }) => {
+const RankingHistoryGraph = ({ playerName, ageGroup = 'SEN' }) => {
   const [selectedCategory, setSelectedCategory] = useState('HS');
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [categoryData, setCategoryData] = useState({});
   const [loading, setLoading] = useState(true);
 
-  // Fetch category data
+  // Fetch category data scoped to the selected age group so a U15 player
+  // doesn't get matched against the SEN list (and vice versa).
   useEffect(() => {
     const fetchCategoryData = async () => {
       try {
@@ -19,7 +20,7 @@ const RankingHistoryGraph = ({ playerName }) => {
         const categories = ['HS', 'DS', 'HD', 'DD', 'MIX'];
         const categoryNames = {
           'HS': 'Herresingle',
-          'DS': 'Damesingle', 
+          'DS': 'Damesingle',
           'HD': 'Herredouble',
           'DD': 'Damedouble',
           'MIX': 'Mixed Double'
@@ -28,7 +29,7 @@ const RankingHistoryGraph = ({ playerName }) => {
         const data = {};
         for (const category of categories) {
           data[category] = {
-            data: await getRankingsByCategory(category),
+            data: await getRankingsByCategory(category, ageGroup),
             name: categoryNames[category]
           };
         }
@@ -41,7 +42,7 @@ const RankingHistoryGraph = ({ playerName }) => {
     };
 
     fetchCategoryData();
-  }, []);
+  }, [ageGroup]);
 
   // Memoize current data and player data
   const currentData = useMemo(() => categoryData[selectedCategory]?.data || [], [selectedCategory, categoryData]);

@@ -42,8 +42,7 @@ import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 import Footer from './components/Footer';
 import YearInReview from './components/yearInReview/YearInReview.js';
-import PremiumSubscription from './components/PremiumSubscription.js';
-import PremiumGate from './components/PremiumGate.js';
+import FreeAnnouncementModal from './components/FreeAnnouncementModal.js';
 
 const Changelog = () => {
   return (
@@ -179,6 +178,7 @@ const MainApp = () => {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <FreeAnnouncementModal />
       <Navbar />
       <main className="flex-grow">
         <ScrollToTop />
@@ -186,27 +186,25 @@ const MainApp = () => {
           {/* Public routes */}
           <Route path="/register" element={<RegisterScreen />} />
           <Route path="/account" element={<AccountScreen />} />
-          <Route path="/premium" element={<PremiumSubscription />} />
-          <Route path="/premium/callback" element={<PremiumSubscription />} />
           <Route path="/OmOss" element={<OmOss />} />
           <Route path="/Personvern" element={<Personvern />} />
           <Route path="/Vilkar" element={<Vilkar />} />
           <Route path="/" element={<Home />} />
           
-          {/* Premium gated routes */}
-          <Route path="/MostGames" element={<PremiumGate><Leaderboard /></PremiumGate>} />
-          <Route path="/compare/:player1/:player2" element={<PremiumGate><PlayerComparison /></PremiumGate>} />
-          <Route path="/player/:name" element={<PremiumGate><PlayerDetail /></PremiumGate>} />
-          <Route path="/player/:name/year-in-review" element={<PremiumGate><YearInReview /></PremiumGate>} />
-          <Route path="/hvorfor" element={<PremiumGate><Hvorfor /></PremiumGate>} />
-          <Route path="/hvordan" element={<PremiumGate><Hvordan /></PremiumGate>} />
-          <Route path="/link" element={<PremiumGate><LinkRequestScreen /></PremiumGate>} />
-          <Route path="/playerlist" element={<PremiumGate><PlayerList /></PremiumGate>} />
-          <Route path="/playerslist" element={<PremiumGate><PlayerList /></PremiumGate>} />
-          <Route path="/headtohead" element={<PremiumGate><PlayerSearch /></PremiumGate>} />
-          <Route path="/blogg" element={<PremiumGate><Blog /></PremiumGate>} />
-          <Route path="/blogg/:id" element={<PremiumGate><BlogPost /></PremiumGate>} />
-          <Route path="/diary" element={isAuthenticated ? <PremiumGate><Diary /></PremiumGate> : <AuthRequired />} />
+          {/* Feature routes */}
+          <Route path="/MostGames" element={<Leaderboard />} />
+          <Route path="/compare/:player1/:player2" element={<PlayerComparison />} />
+          <Route path="/player/:name" element={<PlayerDetail />} />
+          <Route path="/player/:name/year-in-review" element={<YearInReview />} />
+          <Route path="/hvorfor" element={<Hvorfor />} />
+          <Route path="/hvordan" element={<Hvordan />} />
+          <Route path="/link" element={<LinkRequestScreen />} />
+          <Route path="/playerlist" element={<PlayerList />} />
+          <Route path="/playerslist" element={<PlayerList />} />
+          <Route path="/headtohead" element={<PlayerSearch />} />
+          <Route path="/blogg" element={<Blog />} />
+          <Route path="/blogg/:id" element={<BlogPost />} />
+          <Route path="/diary" element={isAuthenticated ? <Diary /> : <AuthRequired />} />
           <Route path="/admin" element={isAuthenticated ? <AdminComponent /> : <AuthRequired />} />
         </Routes>
       </main>

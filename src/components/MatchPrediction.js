@@ -1,52 +1,41 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useFloating, useInteractions, useHover, offset, shift, FloatingPortal } from '@floating-ui/react';
-import { getRankingsByCategory } from '../services/databaseService';
+import { getPlayerRankings } from '../services/databaseService';
 
 // Add Heroicons imports for illustrations
 import { ChartBarIcon, ScaleIcon, TrophyIcon, ChartPieIcon, SparklesIcon, FireIcon, StarIcon, InformationCircleIcon } from '@heroicons/react/24/outline';
 
+// Class-letter ordinal scale (higher is better). In Norwegian badminton the
+// senior order is X (Elite, top) > A > B > C > D > E > F (bottom). Tournament
+// Class values are prefixed by cohort, e.g. "SEN A", "U15 A", "U17 X",
+// "V45+ A" — so we parse the trailing letter token rather than substring-match
+// (which previously mapped "U15 A" -> A via includes and "SEN E" -> Elite).
+// In Norwegian badminton "E" (Senior E) is the ELITE / top class, and "X" is
+// likewise a top tier; the amateur ladder A > B > C > D > F sits below them.
+// Scores step by 2 between each class so every class gap is weighted evenly.
+// 0 stays reserved for "unknown" (no class data).
+const LETTER_SCORE = {
+    'E': 11,    // Elite / top tier
+    'X': 11,    // top tier
+    'ELITE': 11,
+    'A': 9,
+    'B': 7,
+    'C': 5,
+    'D': 3,
+    'F': 1
+};
+
 // Helper function to get class level score (higher is better)
 const getClassLevelScore = (className) => {
     if (!className) return 0;
-    const classMap = {
-        'Elite': 7,
-        'X': 7,     // Elite level
-        'E': 7,     // Elite level
-        'SEN E': 7, // Elite/highest level
-        'SEN A': 5,
-        'A': 5,
-        'SEN B': 4,
-        'B': 4,
-        'SEN C': 3,
-        'C': 3,
-        'SEN D': 2,
-        'D': 2,
-        'SEN F': 1, // Lowest level
-        'F': 1
-    };
-    
-    // First check for exact matches
-    for (const [key, value] of Object.entries(classMap)) {
-        if (className.toUpperCase() === key.toUpperCase()) return value;
-    }
-    
-    // Then check for partial matches, prioritizing SEN classes
-    for (const [key, value] of Object.entries(classMap)) {
-        if (className.toUpperCase().includes(key.toUpperCase())) {
-            // If it's an E-class match, ensure it's actually Elite level
-            if (key === 'E' || key === 'SEN E') {
-                if (className.toUpperCase().includes('ELITE') || 
-                    className.toUpperCase().includes('SEN E')) {
-                    return value;
-                }
-                continue; // Skip if it's not actually Elite level
-            }
-            return value;
-        }
-    }
-    
-    return 0;
+    const s = className.trim().toUpperCase();
+    if (s.includes('ELITE')) return 11;
+    // Class letter is the last whitespace-separated token: "SEN E" -> "E",
+    // "U15 A" -> "A", "V45+ A" -> "A". Unknown/malformed (e.g. "ÅPEN HC",
+    // stray dates) -> 0 so they stay out of the class signal.
+    const token = s.split(/\s+/).pop();
+    return LETTER_SCORE[token] != null ? LETTER_SCORE[token] : 0;
 };
 
 // Helper function to find player's matches (including as partner)
@@ -71,42 +60,19 @@ const determinePlayerClass = (allMatches, playerName) => {
         }
 
         // Sort matches by date (most recent first)
-        const sortedMatches = playerMatches.sort((a, b) => {
-            try {
-                const dateA = new Date(a.Date.split('.').reverse().join('-'));
-                const dateB = new Date(b.Date.split('.').reverse().join('-'));
-                return dateB - dateA;
-            } catch (err) {
-                console.error('Error parsing date:', { dateA: a.Date, dateB: b.Date, error: err });
-                return 0;
-            }
-        });
+        const sortedMatches = [...playerMatches].sort(
+            (a, b) => parsePlayerDate(b.Date) - parsePlayerDate(a.Date)
+        );
 
-        // Get last 6 months of matches
-        const sixMonthsAgo = new Date();
-        sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
-        
-        const recentMatches = sortedMatches.filter(match => {
-            try {
-                const matchDate = new Date(match.Date.split('.').reverse().join('-'));
-                return matchDate >= sixMonthsAgo;
-            } catch (err) {
-                console.error('Error parsing match date:', { date: match.Date, error: err });
-                return false;
-            }
-        });
-
-        // If no recent matches but has older matches, use those with minimum 0.5 confidence
-        if (recentMatches.length === 0) {
-            const classLevel = calculateClassLevel(sortedMatches);
-            // If they have a clear class level from older matches, maintain decent confidence
-            const baseConfidence = Math.min(sortedMatches.length / 10, 0.8);
-            return {
-                ...classLevel,
-                confidence: Math.max(baseConfidence, 0.5), // Never go below 0.5 confidence if they have an established class
-                pointDifferentials: {}
-            };
-        }
+        // Class level should reflect the player's CURRENT level, so prefer this
+        // season's matches (last 12 months). A player's early-career matches
+        // (often in lower or letterless classes) must not drag it down. If they
+        // haven't played in the last year, fall back to their 15 most recent
+        // matches — still "latest", never the whole career.
+        const oneYearAgo = new Date();
+        oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+        const thisYear = sortedMatches.filter(m => parsePlayerDate(m.Date) >= oneYearAgo);
+        const recentMatches = thisYear.length > 0 ? thisYear : sortedMatches.slice(0, 15);
 
         return {
             ...calculateClassLevel(recentMatches),
@@ -153,32 +119,29 @@ const calculateClassLevel = (matches) => {
         const tournamentClass = match["Tournament Class"];
         if (tournamentClass) {
             const classScore = getClassLevelScore(tournamentClass);
-            weightedSum += classScore * weight;
-            totalWeight += weight;
-            classesPlayed.add(tournamentClass);
+            // Skip classes we can't rank (bare "SEN", "U19", "U13", malformed).
+            // Counting them as 0 would unfairly drag the average down.
+            if (classScore > 0) {
+                weightedSum += classScore * weight;
+                totalWeight += weight;
+                classesPlayed.add(tournamentClass);
+            }
         }
     });
 
     // Calculate average class value
     const averageClassValue = totalWeight > 0 ? weightedSum / totalWeight : 0;
 
-    // Determine final class level
+    // Snap the weighted average class score to the nearest class level (scale
+    // steps by 2; midpoints at 10/8/6/4/2). 0 stays "unknown".
     let level;
-    if (averageClassValue >= 6) {
-        level = 7; // Elite (X/E class)
-    } else if (averageClassValue >= 4.5) {
-        level = 5; // A class
-    } else if (averageClassValue >= 3.5) {
-        level = 4; // B class
-    } else if (averageClassValue >= 2.5) {
-        level = 3; // C class
-    } else if (averageClassValue >= 1.5) {
-        level = 2; // D class
-    } else if (averageClassValue > 0) {
-        level = 1; // E class
-    } else {
-        level = 0; // Unknown
-    }
+    if (averageClassValue >= 10) level = 11;      // Elite (E / X)
+    else if (averageClassValue >= 8) level = 9;   // SEN A
+    else if (averageClassValue >= 6) level = 7;   // SEN B
+    else if (averageClassValue >= 4) level = 5;   // SEN C
+    else if (averageClassValue >= 2) level = 3;   // SEN D
+    else if (averageClassValue > 0) level = 1;    // SEN F
+    else level = 0;
 
     // Calculate confidence based on number of matches and consistency
     const confidence = Math.min(matches.length / 10, 1) * 
@@ -200,96 +163,45 @@ const calculateWinProbability = (player1Stats, player2Stats, gameType, matches) 
         return Math.abs(score1) / total;
     };
 
-    // Check if we have any recent head-to-head matches
-    const headToHeadMatches = matches.filter(match => {
-        const team1HasPlayer = match["Team 1 Player 1"] === player1Stats.name || match["Team 1 Player 2"] === player1Stats.name;
-        const team2HasPlayer = match["Team 2 Player 1"] === player1Stats.name || match["Team 2 Player 2"] === player1Stats.name;
-        const team1HasOpponent = match["Team 1 Player 1"] === player2Stats.name || match["Team 1 Player 2"] === player2Stats.name;
-        const team2HasOpponent = match["Team 2 Player 1"] === player2Stats.name || match["Team 2 Player 2"] === player2Stats.name;
-        
-        // Check if it's a singles match
-        const isSingles = match["Match"] === "Herresingle" || 
-                        match["Match"] === "Damesingle" ||
-                        match["Category"] === "Herresingle" ||
-                        match["Category"] === "Damesingle";
-        
-        // Check if match is within last 2 years
-        let matchDate;
-        try {
-            const [day, month, year] = match.Date.split('.').map(num => parseInt(num, 10));
-            matchDate = new Date(year, month - 1, day);
-            const twoYearsAgo = new Date();
-            twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
-            return (team1HasPlayer && team2HasOpponent || team2HasPlayer && team1HasOpponent) && 
-                   isSingles && matchDate >= twoYearsAgo;
-        } catch (err) {
-            console.error('Error parsing match date:', { date: match.Date, error: err });
-            return false;
-        }
-    });
+    // `matches` here is already the mutual head-to-head set (both players, on
+    // opposite teams) supplied by getHeadToHeadMatches. We no longer re-impose a
+    // singles-only / 2-year cutoff that silently discarded valid rivalries and
+    // forced the class-only fallback; recency is handled by time-weighting in
+    // processPlayerData instead.
+    const headToHeadMatches = matches;
 
-    const headToHeadWins = headToHeadMatches.filter(match => {
-        const playerInTeam1 = match["Team 1 Player 1"] === player1Stats.name || match["Team 1 Player 2"] === player1Stats.name;
-        
-        // Parse the match result to determine the winner
-        if (match.Result) {
-            const sets = match.Result.split(',').map(set => {
-                const [score1, score2] = set.trim().split('-').map(Number);
-                return score1 > score2 ? 1 : 2; // 1 if team1 won the set, 2 if team2 won
-            });
-            
-            // Count sets won by each team
-            const team1Sets = sets.filter(winner => winner === 1).length;
-            const team2Sets = sets.filter(winner => winner === 2).length;
-            
-            // Determine match winner based on sets
-            const team1Won = team1Sets > team2Sets;
-            
-            // If player1 is in team1, they win if team1 won. If they're in team2, they win if team2 won.
-            return playerInTeam1 ? team1Won : !team1Won;
-        }
-        
-        // Fallback to the Winner field if Result parsing fails
-        return playerInTeam1 ? match["Winner"] === "1" : match["Winner"] === "2";
-    }).length;
-
-    const headToHeadLosses = headToHeadMatches.length - headToHeadWins;
-    const headToHeadWinRate = headToHeadMatches.length > 0 ? headToHeadWins / headToHeadMatches.length : 0;
-
-    // Check if we have any recent head-to-head matches
+    // Whether the players have ever met head-to-head decides the weight scheme.
     const hasRecentMatches = headToHeadMatches.length > 0;
 
-    // Start with base weights
-    let weights;
+    // Two weight templates: one when the players have no direct singles record
+    // (lean on ranking + class), one when they have a solid record (the direct
+    // result dominates). We BLEND between them by how much head-to-head data
+    // exists, so a single meeting can't override a huge ranking/class gap — you
+    // need ~3 meetings before the head-to-head term is fully trusted.
+    const noH2HWeights = {
+        classLevel: 0.45,
+        recentForm: 0.0,
+        headToHead: 0.0,
+        pointDifferential: 0.0,
+        tournamentPerformance: 0.10,
+        ranking: 0.45
+    };
+    const fullH2HWeights = {
+        classLevel: 0.08,
+        recentForm: 0.05,
+        headToHead: 0.60,
+        pointDifferential: 0.17,
+        tournamentPerformance: 0.02,
+        ranking: 0.08
+    };
 
-    if (!hasRecentMatches) {
-        // No head-to-head matches - use these weights with strong class level influence
-        weights = {
-            classLevel: 0.90,  // Very strong class level influence
-            recentForm: 0.0,  // Minimal recent form influence
-            headToHead: 0.0,   // No head-to-head influence
-            pointDifferential: 0.0, // No point differential since no head-to-head
-            tournamentPerformance: 0.0, // Slightly increased tournament influence
-            ranking: 0.05 // Small ranking influence
-        };
-    } else {
-        // Has head-to-head matches - use original weights
-        weights = {
-            classLevel: 0.08,
-            recentForm: 0.02,
-            headToHead: 0.75,
-            pointDifferential: 0.10,
-            tournamentPerformance: 0.02,
-            ranking: gameType === 'Single' ? 0.03 : 0
-        };
-
-        // If matches were close, increase point differential weight
-        if (headToHeadMatches.length > 0) {
-            const extraWeight = 0.15;
-            weights.headToHead -= extraWeight;
-            weights.pointDifferential += extraWeight;
-        }
-    }
+    // Confidence in the head-to-head signal ramps 0 → 1 over the first 3 meetings.
+    const h2hConfidence = Math.min(headToHeadMatches.length / 3, 1);
+    const weights = {};
+    Object.keys(noH2HWeights).forEach(factor => {
+        weights[factor] = noH2HWeights[factor] * (1 - h2hConfidence) +
+                          fullH2HWeights[factor] * h2hConfidence;
+    });
 
     // If players are in the same class, remove class weight and redistribute
     if (player1Stats.classLevel.level === player2Stats.classLevel.level) {
@@ -343,27 +255,9 @@ const calculateWinProbability = (player1Stats, player2Stats, gameType, matches) 
             return 0.5;
         }
 
-        // If players are in the same class, set class weight to 0 and redistribute
+        // Same class → no class edge (weight was already zeroed/redistributed
+        // by the single same-class block above).
         if (p1Level.level === p2Level.level) {
-            console.log('Players in same class - removing class level weight');
-            
-            // Store the class level weight to redistribute
-            const classWeight = weights.classLevel;
-            weights.classLevel = 0;
-
-            // Calculate total of remaining weights
-            const totalWeight = Object.values(weights).reduce((sum, weight) => sum + weight, 0);
-            
-            // Redistribute class weight proportionally to other factors
-            Object.keys(weights).forEach(factor => {
-                if (factor !== 'classLevel' && weights[factor] > 0) {
-                    weights[factor] += (weights[factor] / totalWeight) * classWeight;
-                }
-            });
-
-            // Log the redistributed weights
-            console.log('Redistributed weights after same class:', weights);
-            
             return 0.5;
         }
 
@@ -374,11 +268,11 @@ const calculateWinProbability = (player1Stats, player2Stats, gameType, matches) 
         // Helper function to get class text from level
         const getClassText = (level) => {
             const classMap = {
-                7: 'Elite/SEN E',
-                5: 'SEN A',
-                4: 'SEN B',
-                3: 'SEN C',
-                2: 'SEN D',
+                11: 'Elite (SEN E)',
+                9: 'SEN A',
+                7: 'SEN B',
+                5: 'SEN C',
+                3: 'SEN D',
                 1: 'SEN F',
                 0: 'Ukjent'
             };
@@ -398,22 +292,23 @@ const calculateWinProbability = (player1Stats, player2Stats, gameType, matches) 
             confidenceWeight
         });
         
-        // Special case for Elite vs non-Elite with good confidenc
-        
-        // If difference is 2 or more classes with high confidence
-        if (Math.abs(levelDiff) >= 2 && confidenceWeight > 0.5) {
-            const score = levelDiff > 0 ? 0.99 : 0.01;
+        // Require solid confidence before emitting a class-dominance score, and
+        // keep the caps short of certainty (class is a coarse signal). Levels
+        // step by 2 per class, so 1 class apart = |levelDiff| 2, 2+ classes = 4+.
+        // 2+ classes apart:
+        if (Math.abs(levelDiff) >= 4 && confidenceWeight > 0.7) {
+            const score = levelDiff > 0 ? 0.85 : 0.15;
             console.log('2+ class difference case:', { score, levelDiff });
             return score;
         }
-        
-        // For 1 class difference with good confidence
-        if (Math.abs(levelDiff) === 1 && confidenceWeight > 0.5) {
-            const score = levelDiff > 0 ? 0.80 : 0.20;
+
+        // 1 class apart:
+        if (Math.abs(levelDiff) === 2 && confidenceWeight > 0.7) {
+            const score = levelDiff > 0 ? 0.70 : 0.30;
             console.log('1 class difference case:', { score, levelDiff });
             return score;
         }
-        
+
         // For less confident cases
         const baseScore = normalizeScore(p1Level.level || 0, p2Level.level || 0);
         const finalScore = baseScore * confidenceWeight + 0.5 * (1 - confidenceWeight);
@@ -421,85 +316,53 @@ const calculateWinProbability = (player1Stats, player2Stats, gameType, matches) 
         return finalScore;
     })();
 
-    // Calculate ranking score with improved weighting based on point differences
+    // Ranking score from each player's official ranking points.
+    //
+    // Ranking points are heavily RIGHT-SKEWED (most senior singles players sit
+    // under ~100 pts, the top tail reaches ~1200). An absolute point gap is
+    // therefore misleading — a 244-pt gap is a chasm down in the crowded low end
+    // (rank ~500 vs ~35) but trivial near the top (rank ~3 vs #1). So we compare
+    // on a LOG-RATIO and squash it through a logistic, which reflects the real
+    // skill gap at every part of the scale.
     const rankingScore = (() => {
         const p1Points = player1Stats.rankingPoints || 0;
         const p2Points = player2Stats.rankingPoints || 0;
-        
-        console.log('Ranking score calculation:', {
-            player1: {
-                name: player1Stats.name,
-                points: p1Points
-            },
-            player2: {
-                name: player2Stats.name,
-                points: p2Points
-            }
-        });
 
-        // Ensure we have valid numbers
-        if (isNaN(p1Points) || isNaN(p2Points)) {
-            console.log('Invalid ranking points:', { p1Points, p2Points });
-            return 0.5;
-        }
+        if (isNaN(p1Points) || isNaN(p2Points)) return 0.5;
+        if (p1Points === 0 && p2Points === 0) return 0.5; // neither ranked → neutral
 
-        // If either player has no points, use 0.7/0.3 split
-        if (p1Points === 0 || p2Points === 0) {
-            if (p1Points > 0) return 0.7;  // Player 1 has points, player 2 doesn't
-            if (p2Points > 0) return 0.3;  // Player 2 has points, player 1 doesn't
-            return 0.5;  // Neither has points
-        }
+        // Soft floor: an unranked (0) or barely-ranked player slots smoothly into
+        // the bottom of the curve instead of hitting a hard 70/30 cliff.
+        const FLOOR = 10;
+        const a = Math.max(p1Points, FLOOR);
+        const b = Math.max(p2Points, FLOOR);
 
-        // Calculate the absolute difference in points
-        const pointDiff = Math.abs(p1Points - p2Points);
-        
-        // Define thresholds for point differences
-        const SMALL_DIFF = 100;   // Less than 100 points difference
-        const MEDIUM_DIFF = 300;  // Less than 300 points difference
-        const LARGE_DIFF = 500;   // Less than 500 points difference
-        
-        // Calculate base probability based on point difference magnitude
-        let baseProb;
-        if (pointDiff < SMALL_DIFF) {
-            // Small difference: 55/45 to 60/40 split
-            baseProb = 0.55 + (pointDiff / SMALL_DIFF) * 0.05;
-        } else if (pointDiff < MEDIUM_DIFF) {
-            // Medium difference: 60/40 to 70/30 split
-            baseProb = 0.60 + ((pointDiff - SMALL_DIFF) / (MEDIUM_DIFF - SMALL_DIFF)) * 0.10;
-        } else if (pointDiff < LARGE_DIFF) {
-            // Large difference: 70/30 to 85/15 split
-            baseProb = 0.70 + ((pointDiff - MEDIUM_DIFF) / (LARGE_DIFF - MEDIUM_DIFF)) * 0.15;
-        } else {
-            // Huge difference: 85/15 to 95/5 split
-            baseProb = Math.min(0.85 + (pointDiff - LARGE_DIFF) / 1000 * 0.10, 0.95);
-        }
-        
-        // Determine final probability based on who has more points
-        const finalProb = p1Points > p2Points ? baseProb : (1 - baseProb);
-        
-        console.log('Ranking probability calculation:', {
-            pointDiff,
-            baseProb,
-            finalProb,
-            p1HasMorePoints: p1Points > p2Points
-        });
-        
-        return finalProb;
+        // K tuned so ~2x points ≈ 60%, ~10x ≈ 80%, ~20x ≈ 86%. Capped to 0.05..0.95.
+        const K = 0.6;
+        const logGap = Math.log(a) - Math.log(b);
+        const prob = 1 / (1 + Math.exp(-K * logGap));
+
+        console.log('Ranking probability (log-ratio):', { p1Points, p2Points, logGap, prob });
+
+        return Math.min(Math.max(prob, 0.05), 0.95);
     })();
 
-    const recentFormScore = normalizeScore(
-        player1Stats.recentWeightedWins || 0,
-        player2Stats.recentWeightedWins || 0
-    );
+    // Recent form: each player's recency-weighted win RATE (0..1). Combine
+    // symmetrically so equal form → 0.5.
+    const p1Form = player1Stats.recentFormRate != null ? player1Stats.recentFormRate : 0.5;
+    const p2Form = player2Stats.recentFormRate != null ? player2Stats.recentFormRate : 0.5;
+    const recentFormScore = (p1Form + (1 - p2Form)) / 2;
 
-    const headToHeadScore = hasRecentMatches ? 
-        normalizeScore(player1Stats.weightedHeadToHeadWins || 0, player2Stats.weightedHeadToHeadWins || 0) : 
+    const headToHeadScore = hasRecentMatches ?
+        normalizeScore(player1Stats.weightedHeadToHeadWins || 0, player2Stats.weightedHeadToHeadWins || 0) :
         0.5; // Neutral score when no head-to-head exists
 
-    const pointDiffScore = normalizeScore(
-        Math.max(0, (player1Stats.avgPointDiff || 0) + 21),
-        Math.max(0, (player2Stats.avgPointDiff || 0) + 21)
-    );
+    // Point differential: logistic on the SIGNED gap of the two average per-set
+    // margins. Centered at 0.5, saturates for large gaps. (The old +21 offset
+    // through an abs-ratio compressed everything toward 0.5 and mishandled
+    // negative margins.)
+    const pointDiffGap = (player1Stats.avgPointDiff || 0) - (player2Stats.avgPointDiff || 0);
+    const pointDiffScore = 1 / (1 + Math.exp(-0.25 * pointDiffGap));
 
     const tournamentScore = normalizeScore(
         player1Stats.tournamentPerformance || 0,
@@ -544,240 +407,143 @@ const calculateWinProbability = (player1Stats, player2Stats, gameType, matches) 
     return Math.min(Math.max(totalScore, 0.0001), 0.9999);
 };
 
-// Helper function to calculate ranking based on tournament performance
-const calculateRanking = (matches, playerName) => {
-    const points = {
-        'Elite': { win: 100, loss: 50 },
-        'SEN A': { win: 80, loss: 40 },
-        'SEN B': { win: 60, loss: 30 },
-        'SEN C': { win: 40, loss: 20 },
-        'default': { win: 20, loss: 10 }
-    };
+// Year columns in the rankings table, newest first. We read the latest
+// non-empty value so the signal isn't frozen to a hardcoded season.
+const RANKING_YEARS = ['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013'];
 
-    return matches.reduce((total, match) => {
-        const isWinner = match["Winner Player 1"] === playerName || match["Winner Player 2"] === playerName;
-        const tournamentClass = match["Tournament Class"] || 'default';
-        const classPoints = points[tournamentClass] || points.default;
-        return total + (isWinner ? classPoints.win : classPoints.loss);
-    }, 0);
+const latestRankingPoints = (row) => {
+    for (const y of RANKING_YEARS) {
+        const v = parseFloat(row?.[y]);
+        if (!isNaN(v) && v > 0) return v;
+    }
+    return 0;
 };
 
-// Helper function to get player's ranking points
-const getPlayerRankingPoints = async (playerName, matches) => {
-    // Add debug logging
-    console.log('Looking up ranking points for:', playerName);
-
-    // Determine if player plays men's or women's singles
-    const isMensPlayer = matches.some(match => 
-        (match["Team 1 Player 1"] === playerName || 
-         match["Team 1 Player 2"] === playerName ||
-         match["Team 2 Player 1"] === playerName ||
-         match["Team 2 Player 2"] === playerName) &&
-        (match["Match"] === "Herresingle" || match["Category"] === "Herresingle")
-    );
-
-    const isWomensPlayer = matches.some(match => 
-        (match["Team 1 Player 1"] === playerName || 
-         match["Team 1 Player 2"] === playerName ||
-         match["Team 2 Player 1"] === playerName ||
-         match["Team 2 Player 2"] === playerName) &&
-        (match["Match"] === "Damesingle" || match["Category"] === "Damesingle")
-    );
-
-    // Use appropriate rankings data based on player's category
-    let rankingsData = null;
-    if (isMensPlayer) {
-        rankingsData = await getRankingsByCategory('HS');
-    } else if (isWomensPlayer) {
-        rankingsData = await getRankingsByCategory('DS');
-    }
-    
-    if (!rankingsData) {
-        console.log('Could not determine player category:', playerName);
+// Get a player's ranking strength, looked up BY NAME across all categories and
+// age groups (independent of the match data, so youth/veteran and never-met
+// players resolve correctly). Prefers singles (HS/DS); falls back to the best
+// available ranking row.
+const getPlayerRankingPoints = async (playerName) => {
+    try {
+        const rows = await getPlayerRankings(playerName);
+        if (!rows || rows.length === 0) return 0;
+        const singles = rows.filter(r => r.category === 'HS' || r.category === 'DS');
+        const pool = singles.length > 0 ? singles : rows;
+        return pool.reduce((max, r) => Math.max(max, latestRankingPoints(r)), 0);
+    } catch (err) {
+        console.error('Error fetching ranking points for', playerName, err);
         return 0;
     }
-
-    const playerData = rankingsData.find(player => {
-        const namesMatch = player.Navn.toLowerCase() === playerName.toLowerCase();
-        if (namesMatch) {
-            console.log('Found player data:', player);
-        }
-        return namesMatch;
-    });
-
-    if (!playerData) {
-        console.log('No player data found for:', playerName);
-        return 0;
-    }
-
-    // Convert string points to number
-    const points = parseFloat(playerData["2024"]) || 0;
-    console.log('Points found:', points);
-
-    // Verify the conversion worked
-    if (isNaN(points)) {
-        console.log('Failed to convert points to number:', playerData["2024"]);
-        return 0;
-    }
-
-    return points;
 };
 
-// Helper function to determine match winner based on result
+// Canonical winner resolver. Returns true/false if the match is resolvable for
+// playerName, or null if it cannot be decided (tie / no data) so callers can
+// exclude it rather than silently scoring it as a loss.
+//
+// PRIMARY source of truth: the "Winner Player 1/2" columns, which hold the
+// winning player's NAME (the losing slot is the string "NaN"). These are
+// explicit and unambiguous. Set-score parsing is only a fallback, and scores
+// use "/" as the set separator (e.g. "20/22,21/10,21/11"), with "-" tolerated.
 const determineMatchWinner = (match, playerName) => {
     const isPlayerInTeam1 = match["Team 1 Player 1"] === playerName || match["Team 1 Player 2"] === playerName;
-    
-    // Parse the match result to determine the winner
+
+    // 1) Name-based winner columns (authoritative).
+    const w1 = match["Winner Player 1"];
+    const w2 = match["Winner Player 2"];
+    const hasName = (v) => v && v !== 'NaN' && v !== 'undefined';
+    if (hasName(w1) || hasName(w2)) {
+        // Team 1 won iff playerName's-team winner column carries a real name.
+        const team1Won = hasName(w1);
+        return isPlayerInTeam1 ? team1Won : !team1Won;
+    }
+
+    // 2) Fallback: parse the set scores ("/" or "-" separated).
     if (match.Result) {
         const sets = match.Result.split(',').map(set => {
-            // Split on either '/' or '-'
             const scores = set.trim().split(/[/-]/);
             const score1 = parseInt(scores[0], 10);
             const score2 = parseInt(scores[1], 10);
-            
-            if (isNaN(score1) || isNaN(score2)) {
-                console.error('Invalid score format:', set);
-                return null;
-            }
-            
-            return score1 > score2 ? 1 : 2; // 1 if team1 won the set, 2 if team2 won
+            if (isNaN(score1) || isNaN(score2)) return null;
+            return score1 > score2 ? 1 : 2; // 1 = team1 took the set, 2 = team2
         }).filter(result => result !== null);
-        
-        if (sets.length === 0) return false;
-        
-        // Count sets won by each team
+
+        if (sets.length === 0) return null; // unparseable
+
         const team1Sets = sets.filter(winner => winner === 1).length;
         const team2Sets = sets.filter(winner => winner === 2).length;
-        
-        // Determine match winner based on sets
+        if (team1Sets === team2Sets) return null; // tie / incomplete — exclude
+
         const team1Won = team1Sets > team2Sets;
-        
-        // If player is in team1, they win if team1 won. If they're in team2, they win if team2 won.
         return isPlayerInTeam1 ? team1Won : !team1Won;
     }
-    
-    // Fallback to the Winner field if Result parsing fails
-    return isPlayerInTeam1 ? match["Winner"] === "1" : match["Winner"] === "2";
+
+    return null; // no resolvable result
 };
 
-// Helper function to process player data
-const processPlayerData = async (matches, playerName, opponentName) => {
-    const recentMatches = matches.slice(0, 10); // Last 10 matches
-    let recentWeightedWins = 0;
+// Parse a Norwegian DD.MM.YYYY date string into a Date for sorting/comparison.
+const parsePlayerDate = (dateString) => {
+    const parts = (dateString || '').split('.');
+    if (parts.length === 3) {
+        return new Date(parseInt(parts[2], 10), parseInt(parts[1], 10) - 1, parseInt(parts[0], 10));
+    }
+    return new Date(0);
+};
+
+// Helper function to process player data.
+//   fullMatches – the player's OWN full match history (getPlayerMatches), used
+//                 for class level, recent form, point differential, tournament
+//                 strength — i.e. everything that describes the player alone.
+//   h2hMatches  – only the mutual matches vs the opponent, used for the
+//                 head-to-head term.
+const processPlayerData = async (fullMatches, h2hMatches, playerName, opponentName) => {
     let headToHeadWins = 0;
     let weightedHeadToHeadWins = 0;
     let totalPointDiff = 0;
     let matchesWithPoints = 0;
     let tournamentPoints = 0;
-    let recentClassLevels = [];
+    let recentWeightSum = 0;
+    let recentWinWeight = 0;
 
-    // Get player's ranking points from database
-    const playerRankingPoints = await getPlayerRankingPoints(playerName, matches);
+    // Get player's ranking points from the rankings table (by name, independent
+    // of the match data).
+    const playerRankingPoints = await getPlayerRankingPoints(playerName);
 
-    // Calculate head-to-head record with improved logic and time-based weighting
-    const headToHeadMatches = matches.filter(match => {
-        try {
-            // Check if both players are in the match
-            const playerInMatch = match["Team 1 Player 1"] === playerName || 
-                                match["Team 1 Player 2"] === playerName ||
-                                match["Team 2 Player 1"] === playerName || 
-                                match["Team 2 Player 2"] === playerName;
-            
-            const opponentInMatch = match["Team 1 Player 1"] === opponentName || 
-                                  match["Team 1 Player 2"] === opponentName ||
-                                  match["Team 2 Player 1"] === opponentName || 
-                                  match["Team 2 Player 2"] === opponentName;
+    // --- Head-to-head term: from the mutual matches only, time-weighted. ---
+    const sortedHeadToHeadMatches = [...h2hMatches].sort(
+        (a, b) => parsePlayerDate(b.Date) - parsePlayerDate(a.Date)
+    );
 
-            if (!playerInMatch || !opponentInMatch) {
-                return false;
-            }
-
-            // Check if it's a singles match
-            const isSingles = match["Match"] === "Herresingle" || 
-                            match["Match"] === "Damesingle" ||
-                            match["Category"] === "Herresingle" ||
-                            match["Category"] === "Damesingle";
-            
-            // Check if match is within last 2 years
-            let matchDate;
-            try {
-                const [day, month, year] = match.Date.split('.').map(num => parseInt(num, 10));
-                matchDate = new Date(year, month - 1, day);
-            } catch (err) {
-                console.error('Error parsing match date:', { date: match.Date, error: err });
-                return false;
-            }
-            
-            const twoYearsAgo = new Date();
-            twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
-            const isWithinTwoYears = matchDate >= twoYearsAgo;
-
-            return isSingles && isWithinTwoYears;
-        } catch (err) {
-            console.error('Error processing match:', { match, error: err });
-            return false;
-        }
-    });
-
-    // Sort head-to-head matches by date (most recent first)
-    const sortedHeadToHeadMatches = headToHeadMatches.sort((a, b) => {
-        try {
-            const dateA = new Date(a.Date.split('.').reverse().join('-'));
-            const dateB = new Date(b.Date.split('.').reverse().join('-'));
-            return dateB - dateA;
-        } catch (err) {
-            console.error('Error sorting matches:', { error: err });
-            return 0;
-        }
-    });
-
-    // Process head-to-head matches with time-based weighting
     sortedHeadToHeadMatches.forEach((match, index) => {
-        try {
-            const playerWon = determineMatchWinner(match, playerName);
-            
-            // Calculate time-based weight (more recent matches count more)
-            // Weight decreases by 20% for each older match
-            const timeWeight = Math.pow(0.8, index);
-            
-            if (playerWon) {
-                headToHeadWins++; // Keep track of raw wins
-                weightedHeadToHeadWins += timeWeight; // Add weighted win
-            }
-        } catch (err) {
-            console.error('Error processing head-to-head match result:', { match, error: err });
+        const playerWon = determineMatchWinner(match, playerName);
+        const timeWeight = Math.pow(0.8, index); // 20% decay per older meeting
+        if (playerWon === true) {
+            headToHeadWins++;
+            weightedHeadToHeadWins += timeWeight;
         }
     });
 
-    // Process recent matches with recency weighting
+    // --- Per-player form / point-diff / tournament: from full history. ---
+    // Sort the player's own matches most-recent-first, then take the last 10 so
+    // "recent" is actually recent regardless of DB return order.
+    const sortedFull = [...fullMatches].sort(
+        (a, b) => parsePlayerDate(b.Date) - parsePlayerDate(a.Date)
+    );
+    const recentMatches = sortedFull.slice(0, 10);
+
     recentMatches.forEach((match, index) => {
         const recencyWeight = 1 - (index * 0.05); // 5% decay per match older
-        
-        // Track class levels from recent matches
-        if (match["Tournament Class"]) {
-            recentClassLevels.push({
-                class: match["Tournament Class"],
-                weight: recencyWeight
-            });
-        }
-
-        // Calculate win streak and weighted recent form
         const isWinner = determineMatchWinner(match, playerName);
-        
-        // For win streak, we only care about consecutive wins
-        if (index === 0 && isWinner) {
-            recentWeightedWins = 1; // Start streak
-        } else if (index > 0 && isWinner && recentWeightedWins > 0) {
-            recentWeightedWins += 1; // Continue streak
-        } else {
-            recentWeightedWins = 0; // Break streak
+
+        // Recency-weighted win RATE (replaces the old reset-on-loss streak).
+        if (isWinner !== null) {
+            recentWeightSum += recencyWeight;
+            if (isWinner) recentWinWeight += recencyWeight;
         }
 
-        // Calculate point differential
+        // Point differential per set (scores are "/"- or "-"-separated).
         if (match.Result) {
-            const sets = match.Result.split(',');
-            sets.forEach(set => {
-                const [score1, score2] = set.trim().split('-').map(Number);
+            match.Result.split(',').forEach(set => {
+                const [score1, score2] = set.trim().split(/[/-]/).map(Number);
                 if (!isNaN(score1) && !isNaN(score2)) {
                     const diff = isWinner ? score1 - score2 : score2 - score1;
                     totalPointDiff += diff * recencyWeight;
@@ -786,26 +552,28 @@ const processPlayerData = async (matches, playerName, opponentName) => {
             });
         }
 
-        // Calculate tournament performance
+        // Tournament performance (higher tier = more credit).
         const tournamentClass = match["Tournament Class"];
         if (tournamentClass) {
             let points = 1;
-            if (tournamentClass.includes('Elite')) points = 3;
-            else if (tournamentClass.includes('A')) points = 2;
+            if (getClassLevelScore(tournamentClass) >= 11) points = 3;     // Elite (E/X)
+            else if (getClassLevelScore(tournamentClass) >= 9) points = 2;  // A or above
             tournamentPoints += points * recencyWeight;
         }
     });
 
+    // 0.5 = neutral when there is no usable recent history.
+    const recentFormRate = recentWeightSum > 0 ? recentWinWeight / recentWeightSum : 0.5;
+
     return {
         name: playerName,
-        recentWeightedWins,
+        recentFormRate,
         headToHeadWins,
         weightedHeadToHeadWins,
         avgPointDiff: matchesWithPoints > 0 ? totalPointDiff / matchesWithPoints : 0,
         tournamentPerformance: tournamentPoints,
-        ranking: calculateRanking(matches, playerName),
         rankingPoints: playerRankingPoints,
-        classLevel: determinePlayerClass(matches, playerName)
+        classLevel: determinePlayerClass(fullMatches, playerName)
     };
 };
 
@@ -1060,31 +828,9 @@ const DetailedBreakdown = ({ isOpen, onClose, prediction, player1, player2, reas
                                             const dateB = new Date(b.Date.split('.').reverse().join('-'));
                                             return dateB - dateA;
                                         }).map((match, index) => {
-                                            const isPlayer1InTeam1 = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
-                                            
-                                            // Determine winner based on match result
-                                            const player1Won = (() => {
-                                                if (match.Result) {
-                                                    const sets = match.Result.split(',').map(set => {
-                                                        const [score1, score2] = set.trim().split('-').map(Number);
-                                                        return score1 > score2 ? 1 : 2; // 1 if team1 won the set, 2 if team2 won
-                                                    });
-                                                    
-                                                    // Count sets won by each team
-                                                    const team1Sets = sets.filter(winner => winner === 1).length;
-                                                    const team2Sets = sets.filter(winner => winner === 2).length;
-                                                    
-                                                    // Determine match winner based on sets
-                                                    const team1Won = team1Sets > team2Sets;
-                                                    
-                                                    // If player1 is in team1, they win if team1 won. If they're in team2, they win if team2 won.
-                                                    return isPlayer1InTeam1 ? team1Won : !team1Won;
-                                                }
-                                                
-                                                // Fallback to the Winner field if Result parsing fails
-                                                return isPlayer1InTeam1 ? match["Winner"] === "1" : match["Winner"] === "2";
-                                            })();
-                                            
+                                            // Determine winner via the canonical resolver.
+                                            const player1Won = determineMatchWinner(match, player1) === true;
+
                                             return (
                                                 <div key={index} className="flex items-center justify-between text-sm p-2 rounded-lg bg-gray-800/30">
                                                     <div className="flex items-center space-x-2">
@@ -1201,14 +947,14 @@ const DetailedBreakdown = ({ isOpen, onClose, prediction, player1, player2, reas
                                     <div className="text-blue-400 font-medium text-lg">
                                         {prediction.player1RankingPoints || 0}
                                     </div>
-                                    <div className="text-xs text-gray-500 mt-1">2024-ranking</div>
+                                    <div className="text-xs text-gray-500 mt-1">2025-ranking</div>
                                 </div>
                                 <div className="bg-[#1e2435] p-4 rounded-xl border border-pink-500/20">
                                     <div className="text-sm text-gray-400 mb-2">Spiller 2</div>
                                     <div className="text-pink-400 font-medium text-lg">
                                         {prediction.player2RankingPoints || 0}
                                     </div>
-                                    <div className="text-xs text-gray-500 mt-1">2024-ranking</div>
+                                    <div className="text-xs text-gray-500 mt-1">2025-ranking</div>
                                 </div>
                             </div>
                         </div>
@@ -1242,7 +988,7 @@ const DetailedBreakdown = ({ isOpen, onClose, prediction, player1, player2, reas
     );
 };
 
-const MatchPrediction = ({ player1, player2, matches }) => {
+const MatchPrediction = ({ player1, player2, matchesP1 = [], matchesP2 = [], h2hMatches = [] }) => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [prediction, setPrediction] = useState(null);
@@ -1269,9 +1015,9 @@ const MatchPrediction = ({ player1, player2, matches }) => {
     useEffect(() => {
         const calculatePrediction = async () => {
             try {
-                // Determine current class levels for both players
-                const player1ClassLevel = determinePlayerClass(matches, player1);
-                const player2ClassLevel = determinePlayerClass(matches, player2);
+                // Determine class levels from each player's OWN full history.
+                const player1ClassLevel = determinePlayerClass(matchesP1, player1);
+                const player2ClassLevel = determinePlayerClass(matchesP2, player2);
 
                 // Analyze class suitability
                 const player1ClassAnalysis = analyzeClassSuitability(player1ClassLevel);
@@ -1284,90 +1030,47 @@ const MatchPrediction = ({ player1, player2, matches }) => {
                     player2Analysis: player2ClassAnalysis
                 });
 
-                // Process player statistics
+                // The prediction is for SINGLES, so the head-to-head term must
+                // only count singles meetings. A doubles/mixed meeting (where the
+                // two were never 1-on-1) says nothing about a singles matchup and
+                // must not drive the prediction.
+                const isSinglesMatch = (m) =>
+                    m["Match"] === "Herresingle" || m["Match"] === "Damesingle" ||
+                    m["Category"] === "Herresingle" || m["Category"] === "Damesingle";
+                const h2hSingles = h2hMatches.filter(isSinglesMatch);
+
+                // Per-player stats from full history; head-to-head term from the
+                // mutual SINGLES matches only.
                 const p1Stats = {
-                    ...await processPlayerData(matches, player1, player2),
+                    ...await processPlayerData(matchesP1, h2hSingles, player1, player2),
                     classLevel: player1ClassLevel
                 };
-                
+
                 const p2Stats = {
-                    ...await processPlayerData(matches, player2, player1),
+                    ...await processPlayerData(matchesP2, h2hSingles, player2, player1),
                     classLevel: player2ClassLevel
                 };
 
-                // Calculate win probability
-                const player1WinProb = calculateWinProbability(p1Stats, p2Stats, 'Single', matches);
-                
-                // Calculate head-to-head statistics
-                const filteredHeadToHeadMatches = matches.filter(match => {
-                    const team1HasPlayer = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
-                    const team2HasPlayer = match["Team 2 Player 1"] === player1 || match["Team 2 Player 2"] === player1;
-                    const team1HasOpponent = match["Team 1 Player 1"] === player2 || match["Team 1 Player 2"] === player2;
-                    const team2HasOpponent = match["Team 2 Player 1"] === player2 || match["Team 2 Player 2"] === player2;
-                    
-                    // Check if it's a singles match
-                    const isSingles = match["Match"] === "Herresingle" || 
-                                    match["Match"] === "Damesingle" ||
-                                    match["Category"] === "Herresingle" ||
-                                    match["Category"] === "Damesingle";
-                    
-                    // Check if match is within last 2 years
-                    let matchDate;
-                    try {
-                        const [day, month, year] = match.Date.split('.').map(num => parseInt(num, 10));
-                        matchDate = new Date(year, month - 1, day);
-                        const twoYearsAgo = new Date();
-                        twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
-                        return (team1HasPlayer && team2HasOpponent || team2HasPlayer && team1HasOpponent) && 
-                               isSingles && matchDate >= twoYearsAgo;
-                    } catch (err) {
-                        console.error('Error parsing match date:', { date: match.Date, error: err });
-                        return false;
-                    }
-                });
+                // Calculate win probability (head-to-head term uses the singles set).
+                const player1WinProb = calculateWinProbability(p1Stats, p2Stats, 'Single', h2hSingles);
+
+                const filteredHeadToHeadMatches = h2hSingles;
 
                 setHeadToHeadMatches(filteredHeadToHeadMatches);
 
-                const headToHeadWins = filteredHeadToHeadMatches.filter(match => {
-                    const playerInTeam1 = match["Team 1 Player 1"] === player1 || match["Team 1 Player 2"] === player1;
-                    
-                    // Parse the match result to determine the winner
-                    if (match.Result) {
-                        const sets = match.Result.split(',').map(set => {
-                            const [score1, score2] = set.trim().split('-').map(Number);
-                            return score1 > score2 ? 1 : 2; // 1 if team1 won the set, 2 if team2 won
-                        });
-                        
-                        // Count sets won by each team
-                        const team1Sets = sets.filter(winner => winner === 1).length;
-                        const team2Sets = sets.filter(winner => winner === 2).length;
-                        
-                        // Determine match winner based on sets
-                        const team1Won = team1Sets > team2Sets;
-                        
-                        // If player1 is in team1, they win if team1 won. If they're in team2, they win if team2 won.
-                        return playerInTeam1 ? team1Won : !team1Won;
-                    }
-                    
-                    // Fallback to the Winner field if Result parsing fails
-                    return playerInTeam1 ? match["Winner"] === "1" : match["Winner"] === "2";
-                }).length;
+                const headToHeadWins = filteredHeadToHeadMatches
+                    .filter(match => determineMatchWinner(match, player1) === true).length;
 
-                const headToHeadLosses = filteredHeadToHeadMatches.length - headToHeadWins;
-                const headToHeadWinRate = filteredHeadToHeadMatches.length > 0 ? headToHeadWins / filteredHeadToHeadMatches.length : 0;
+                const headToHeadLosses = filteredHeadToHeadMatches
+                    .filter(match => determineMatchWinner(match, player1) === false).length;
+                const decidedHeadToHead = headToHeadWins + headToHeadLosses;
+                const headToHeadWinRate = decidedHeadToHead > 0 ? headToHeadWins / decidedHeadToHead : 0;
 
-                // Check if we have any recent head-to-head matches
+                // Check if we have any head-to-head matches
                 const hasRecentMatches = filteredHeadToHeadMatches.length > 0;
 
-                // Calculate point differentials
-                const calculatePointDiff = (playerName) => {
-                    const playerMatches = matches.filter(match => 
-                        match["Team 1 Player 1"] === playerName || 
-                        match["Team 1 Player 2"] === playerName || 
-                        match["Team 2 Player 1"] === playerName || 
-                        match["Team 2 Player 2"] === playerName
-                    );
-
+                // Calculate point differentials over each player's full history.
+                const calculatePointDiff = (playerMatches, playerName) => {
                     let totalDiff = 0;
                     let totalSets = 0;
 
@@ -1375,7 +1078,7 @@ const MatchPrediction = ({ player1, player2, matches }) => {
                         if (match.Result) {
                             const sets = match.Result.split(',');
                             sets.forEach(set => {
-                                const [score1, score2] = set.trim().split('-').map(Number);
+                                const [score1, score2] = set.trim().split(/[/-]/).map(Number);
                                 if (!isNaN(score1) && !isNaN(score2)) {
                                     const isPlayerInTeam1 = match["Team 1 Player 1"] === playerName || match["Team 1 Player 2"] === playerName;
                                     const diff = isPlayerInTeam1 ? score1 - score2 : score2 - score1;
@@ -1389,23 +1092,16 @@ const MatchPrediction = ({ player1, player2, matches }) => {
                     return totalSets > 0 ? totalDiff / totalSets : 0;
                 };
 
-                const player1AvgPointDiff = calculatePointDiff(player1);
-                const player2AvgPointDiff = calculatePointDiff(player2);
+                const player1AvgPointDiff = calculatePointDiff(matchesP1, player1);
+                const player2AvgPointDiff = calculatePointDiff(matchesP2, player2);
 
-                // Calculate tournament performance scores
-                const calculateTournamentScore = (playerName) => {
-                    const playerMatches = matches.filter(match => 
-                        match["Team 1 Player 1"] === playerName || 
-                        match["Team 1 Player 2"] === playerName || 
-                        match["Team 2 Player 1"] === playerName || 
-                        match["Team 2 Player 2"] === playerName
-                    );
-
+                // Calculate tournament performance scores over full history.
+                const calculateTournamentScore = (playerMatches, playerName) => {
                     let totalScore = 0;
                     let totalMatches = 0;
 
                     playerMatches.forEach(match => {
-                        const isWinner = match["Winner Player 1"] === playerName || match["Winner Player 2"] === playerName;
+                        const isWinner = determineMatchWinner(match, playerName) === true;
                         const tournamentClass = match["Tournament Class"];
                         if (tournamentClass) {
                             const classScore = getClassLevelScore(tournamentClass);
@@ -1417,17 +1113,17 @@ const MatchPrediction = ({ player1, player2, matches }) => {
                     return totalMatches > 0 ? totalScore / totalMatches : 0;
                 };
 
-                const player1TournamentScore = calculateTournamentScore(player1);
-                const player2TournamentScore = calculateTournamentScore(player2);
+                const player1TournamentScore = calculateTournamentScore(matchesP1, player1);
+                const player2TournamentScore = calculateTournamentScore(matchesP2, player2);
                 
                 // Generate reasoning text
                 const getClassText = (level) => {
                     const classMap = {
-                        7: 'Elite/SEN E',
-                        5: 'SEN A',
-                        4: 'SEN B',
-                        3: 'SEN C',
-                        2: 'SEN D',
+                        11: 'Elite (SEN E)',
+                        9: 'SEN A',
+                        7: 'SEN B',
+                        5: 'SEN C',
+                        3: 'SEN D',
                         1: 'SEN F',
                         0: 'Ukjent'
                     };
@@ -1442,9 +1138,9 @@ const MatchPrediction = ({ player1, player2, matches }) => {
                     return 'svært lav';
                 };
 
-                // Count recent matches
-                const recentMatchesCount = (playerName) => {
-                    return findPlayerMatches(matches, playerName).filter(m => {
+                // Count recent matches over each player's full history.
+                const recentMatchesCount = (playerMatches) => {
+                    return playerMatches.filter(m => {
                         const matchDate = new Date(m.Date.split('.').reverse().join('-'));
                         const sixMonthsAgo = new Date();
                         sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
@@ -1458,16 +1154,16 @@ const MatchPrediction = ({ player1, player2, matches }) => {
                     player2Class: getClassText(player2ClassLevel.level),
                     player2Confidence: getConfidenceText(player2ClassLevel.confidence),
                     recentMatches: {
-                        player1: recentMatchesCount(player1),
-                        player2: recentMatchesCount(player2)
+                        player1: recentMatchesCount(matchesP1),
+                        player2: recentMatchesCount(matchesP2)
                     }
                 };
 
                 console.log('Reasoning:', reasoningText);
-                
-                // Get ranking points
-                const player1RankingPoints = await getPlayerRankingPoints(player1, matches);
-                const player2RankingPoints = await getPlayerRankingPoints(player2, matches);
+
+                // Get ranking points (looked up by name from the rankings table)
+                const player1RankingPoints = await getPlayerRankingPoints(player1);
+                const player2RankingPoints = await getPlayerRankingPoints(player2);
                 
                 setPrediction({
                     player1Probability: player1WinProb,
@@ -1497,7 +1193,7 @@ const MatchPrediction = ({ player1, player2, matches }) => {
         };
 
         calculatePrediction();
-    }, [player1, player2, matches]);
+    }, [player1, player2, matchesP1, matchesP2, h2hMatches]);
 
     if (loading) {
         return (

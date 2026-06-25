@@ -18,7 +18,6 @@ import {
     faCheck
 } from '@fortawesome/free-solid-svg-icons';
 import ShuttlecockIcon from './components/ShuttlecockIcon';
-import VippsPaymentButton from './components/VippsPaymentButton';
 
 export const AccountScreen = () => {
     const [email, setEmail] = useState('');
@@ -119,33 +118,12 @@ export const AccountScreen = () => {
                                             </h3>
                                         </div>
                                         
-                                        {hasPremiumAccess ? (
-                                            <div className="space-y-2">
-                                                <div className="flex items-center justify-center space-x-2 text-amber-200">
-                                                    <FontAwesomeIcon icon={faCheck} className="text-sm" />
-                                                    <span className="text-sm">Full tilgang til alle funksjoner</span>
-                                                </div>
-                                                {userData?.subscriptionExpiry && (
-                                                    <div className="flex items-center justify-center space-x-2 text-amber-200">
-                                                        <FontAwesomeIcon icon={faCalendarAlt} className="text-sm" />
-                                                        <span className="text-sm">
-                                                            Utløper: {new Date(userData.subscriptionExpiry).toLocaleDateString('no-NO')}
-                                                        </span>
-                                                    </div>
-                                                )}
+                                        <div className="space-y-2">
+                                            <div className="flex items-center justify-center space-x-2 text-amber-200">
+                                                <FontAwesomeIcon icon={faCheck} className="text-sm" />
+                                                <span className="text-sm">Full tilgang til alle funksjoner</span>
                                             </div>
-                                        ) : (
-                                            <div className="space-y-2">
-                                                <p className="text-gray-300 text-sm">
-                                                    Oppgrader til Premium for full tilgang
-                                                </p>
-                                                <VippsPaymentButton 
-                                                    size="small"
-                                                    variant="primary"
-                                                    className="w-full"
-                                                />
-                                            </div>
-                                        )}
+                                        </div>
                                     </div>
                                     
                                     <button 

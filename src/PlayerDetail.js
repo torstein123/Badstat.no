@@ -44,7 +44,7 @@ import RankingHistoryGraph from './components/RankingHistoryGraph';
 import ShuttlecockIcon from './components/ShuttlecockIcon';
 import processPlayerData from './utils/processPlayerData';
 import AdSlot from './components/AdSlot'; // Import AdSlot
-import { getPlayerAllRankings, getPlayerMatches, getRankingsByCategory } from './services/databaseService';
+import { getPlayerAllRankings, getPlayerByName, getPlayerAgeGroups, getPlayerMatches, getRankingsByCategory } from './services/databaseService';
 
 // ----- Local data imports -----
 import clubLogos from './clubLogos.js';      
@@ -370,6 +370,10 @@ const PlayerDetail = () => {
   const [category, setCategory] = useState('sammenlagt');
   const [activeTab, setActiveTab] = useState('rankings');
   const [isLoading, setIsLoading] = useState(true);
+  // Tracks whether the ranking/player-fallback fetch chain has completed.
+  // Used together with isLoading so the "Spiller ikke funnet" screen never
+  // flashes before the fallback has had a chance to synthesize playerData.
+  const [rankingDataLoaded, setRankingDataLoaded] = useState(false);
   const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
   const [recentMatches, setRecentMatches] = useState([]);
 
@@ -379,7 +383,12 @@ const PlayerDetail = () => {
   const [dataHD, setDataHD] = useState([]);
   const [dataDD, setDataDD] = useState([]);
   const [dataMIX, setDataMIX] = useState([]);
-  
+
+  // Which age group the user is currently viewing rankings for, plus the set
+  // of age groups this player actually has any rankings in.
+  const [selectedAgeGroup, setSelectedAgeGroup] = useState('SEN');
+  const [availableAgeGroups, setAvailableAgeGroups] = useState(['SEN']);
+
   // Add state for third set stats
   const [thirdSetStats, setThirdSetStats] = useState({
     winRate: '0.0',
@@ -388,8 +397,8 @@ const PlayerDetail = () => {
   });
 
   // Define years at the top
-  const previousYear = '2023';
-  const currentYear = '2024';
+  const previousYear = '2024';
+  const currentYear = '2025';
 
   // Consolidate data processing into a single useMemo
   const {
@@ -412,45 +421,84 @@ const PlayerDetail = () => {
     playerClass,
     seoDescription
   } = useMemo(() => {
+    // Check if player exists in each category (regardless of current year points)
+    const playerInHS = dataHS.find(player => player.Navn === playerName);
+    const playerInDS = dataDS.find(player => player.Navn === playerName);
+    const playerInHD = dataHD.find(player => player.Navn === playerName);
+    const playerInDD = dataDD.find(player => player.Navn === playerName);
+
     // Get points for both singles categories
-    const mensSinglesPoints = dataHS.find(player => player.Navn === playerName)?.[currentYear] || 0;
-    const womensSinglesPoints = dataDS.find(player => player.Navn === playerName)?.[currentYear] || 0;
+    const mensSinglesPoints = playerInHS ? (parseFloat(playerInHS[currentYear]) || 0) : 0;
+    const womensSinglesPoints = playerInDS ? (parseFloat(playerInDS[currentYear]) || 0) : 0;
 
     // Get points for both doubles categories
-    const mensDoublesPoints = dataHD.find(player => player.Navn === playerName)?.[currentYear] || 0;
-    const womensDoublesPoints = dataDD.find(player => player.Navn === playerName)?.[currentYear] || 0;
+    const mensDoublesPoints = playerInHD ? (parseFloat(playerInHD[currentYear]) || 0) : 0;
+    const womensDoublesPoints = playerInDD ? (parseFloat(playerInDD[currentYear]) || 0) : 0;
 
-    // Determine which category to use based on points
-    const useMensCategory = parseFloat(mensSinglesPoints) > parseFloat(womensSinglesPoints);
-    const useWomensCategory = parseFloat(womensSinglesPoints) > parseFloat(mensSinglesPoints);
+    // Calculate total historical points if current year points are equal or zero
+    const calculateTotalPoints = (player) => {
+      if (!player) return 0;
+      return Object.keys(player)
+        .filter(key => /^\d{4}$/.test(key))
+        .reduce((sum, year) => sum + (parseFloat(player[year]) || 0), 0);
+    };
 
-    // Determine which doubles category to use based on points
-    const useMensDoubles = parseFloat(mensDoublesPoints) > parseFloat(womensDoublesPoints);
-    const useWomensDoubles = parseFloat(womensDoublesPoints) > parseFloat(mensDoublesPoints);
+    const mensSinglesTotalPoints = playerInHS ? calculateTotalPoints(playerInHS) : 0;
+    const womensSinglesTotalPoints = playerInDS ? calculateTotalPoints(playerInDS) : 0;
+    const mensDoublesTotalPoints = playerInHD ? calculateTotalPoints(playerInHD) : 0;
+    const womensDoublesTotalPoints = playerInDD ? calculateTotalPoints(playerInDD) : 0;
+
+    // Determine which category to use based on points, with fallback to historical points
+    const useMensCategory = mensSinglesPoints > womensSinglesPoints || 
+      (mensSinglesPoints === womensSinglesPoints && mensSinglesTotalPoints > womensSinglesTotalPoints) ||
+      (mensSinglesPoints === 0 && womensSinglesPoints === 0 && playerInHS && !playerInDS);
+    const useWomensCategory = womensSinglesPoints > mensSinglesPoints || 
+      (womensSinglesPoints === mensSinglesPoints && womensSinglesTotalPoints > mensSinglesTotalPoints) ||
+      (mensSinglesPoints === 0 && womensSinglesPoints === 0 && playerInDS && !playerInHS);
+
+    // Determine which doubles category to use based on points, with fallback to historical points
+    const useMensDoubles = mensDoublesPoints > womensDoublesPoints || 
+      (mensDoublesPoints === womensDoublesPoints && mensDoublesTotalPoints > womensDoublesTotalPoints) ||
+      (mensDoublesPoints === 0 && womensDoublesPoints === 0 && playerInHD && !playerInDD);
+    const useWomensDoubles = womensDoublesPoints > mensDoublesPoints || 
+      (womensDoublesPoints === mensDoublesPoints && womensDoublesTotalPoints > mensDoublesTotalPoints) ||
+      (mensDoublesPoints === 0 && womensDoublesPoints === 0 && playerInDD && !playerInHD);
 
     // Get category-specific data
     const categoryData = (() => {
       switch (category) {
         case 'single':
-          if (useMensCategory) {
-            return dataHS.sort((a, b) => parseFloat(b[currentYear]) - parseFloat(a[currentYear]));
-          } else if (useWomensCategory) {
-            return dataDS.sort((a, b) => parseFloat(b[currentYear]) - parseFloat(a[currentYear]));
+          if (useMensCategory && playerInHS) {
+            return dataHS.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
+          } else if (useWomensCategory && playerInDS) {
+            return dataDS.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
+          } else if (playerInHS) {
+            // Fallback: if player exists in HS but not DS, use HS
+            return dataHS.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
+          } else if (playerInDS) {
+            // Fallback: if player exists in DS but not HS, use DS
+            return dataDS.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
           } else {
-            // If points are equal or player not found in either category, return empty array
+            // Player not found in either category
             return [];
           }
         case 'double':
-          if (useMensDoubles) {
-            return dataHD.sort((a, b) => parseFloat(b[currentYear]) - parseFloat(a[currentYear]));
-          } else if (useWomensDoubles) {
-            return dataDD.sort((a, b) => parseFloat(b[currentYear]) - parseFloat(a[currentYear]));
+          if (useMensDoubles && playerInHD) {
+            return dataHD.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
+          } else if (useWomensDoubles && playerInDD) {
+            return dataDD.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
+          } else if (playerInHD) {
+            // Fallback: if player exists in HD but not DD, use HD
+            return dataHD.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
+          } else if (playerInDD) {
+            // Fallback: if player exists in DD but not HD, use DD
+            return dataDD.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
           } else {
-            // If points are equal or player not found in either category, return empty array
+            // Player not found in either category
             return [];
           }
         case 'mix':
-          return dataMIX.sort((a, b) => parseFloat(b[currentYear]) - parseFloat(a[currentYear]));
+          return dataMIX.sort((a, b) => parseFloat(b[currentYear] || 0) - parseFloat(a[currentYear] || 0));
         default: // sammenlagt
           // Create a map of all players with their combined points
           const playerPointsMap = new Map();
@@ -498,23 +546,35 @@ const PlayerDetail = () => {
     const totalActivePlayers = (() => {
       switch (category) {
         case 'single':
-          if (useMensCategory) {
-            return dataHS.filter(player => parseFloat(player[currentYear]) > 0).length;
-          } else if (useWomensCategory) {
-            return dataDS.filter(player => parseFloat(player[currentYear]) > 0).length;
+          if (useMensCategory && playerInHS) {
+            return dataHS.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
+          } else if (useWomensCategory && playerInDS) {
+            return dataDS.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
+          } else if (playerInHS) {
+            // Fallback: if player exists in HS but not DS, use HS
+            return dataHS.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
+          } else if (playerInDS) {
+            // Fallback: if player exists in DS but not HS, use DS
+            return dataDS.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
           }
           return 0;
         case 'double':
-          if (useMensDoubles) {
-            return dataHD.filter(player => parseFloat(player[currentYear]) > 0).length;
-          } else if (useWomensDoubles) {
-            return dataDD.filter(player => parseFloat(player[currentYear]) > 0).length;
+          if (useMensDoubles && playerInHD) {
+            return dataHD.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
+          } else if (useWomensDoubles && playerInDD) {
+            return dataDD.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
+          } else if (playerInHD) {
+            // Fallback: if player exists in HD but not DD, use HD
+            return dataHD.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
+          } else if (playerInDD) {
+            // Fallback: if player exists in DD but not HD, use DD
+            return dataDD.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
           }
           return 0;
         case 'mix':
-          return dataMIX.filter(player => parseFloat(player[currentYear]) > 0).length;
+          return dataMIX.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
         default: // sammenlagt
-          return categoryData.filter(player => parseFloat(player[currentYear]) > 0).length;
+          return categoryData.filter(player => parseFloat(player[currentYear] || 0) > 0).length;
       }
     })();
     const currentRankInCategory = categoryData.findIndex(player => player.Navn === playerName) + 1;
@@ -625,16 +685,35 @@ const PlayerDetail = () => {
     fetchMatches();
   }, [playerName]);
 
+  // Discover which age groups this player has rankings in, and default the
+  // selection to SEN if available, otherwise the first one in display order.
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      const groups = await getPlayerAgeGroups(playerName);
+      if (cancelled) return;
+      if (groups.length === 0) {
+        setAvailableAgeGroups(['SEN']);
+        setSelectedAgeGroup('SEN');
+      } else {
+        setAvailableAgeGroups(groups);
+        setSelectedAgeGroup(groups.includes('SEN') ? 'SEN' : groups[0]);
+      }
+    })();
+    return () => { cancelled = true; };
+  }, [playerName]);
+
   // Fetch ranking data
   useEffect(() => {
+    setRankingDataLoaded(false);
     const fetchRankingData = async () => {
       try {
         const [hsData, dsData, hdData, ddData, mixData] = await Promise.all([
-          getRankingsByCategory('HS'),
-          getRankingsByCategory('DS'),
-          getRankingsByCategory('HD'),
-          getRankingsByCategory('DD'),
-          getRankingsByCategory('MIX')
+          getRankingsByCategory('HS', selectedAgeGroup),
+          getRankingsByCategory('DS', selectedAgeGroup),
+          getRankingsByCategory('HD', selectedAgeGroup),
+          getRankingsByCategory('DD', selectedAgeGroup),
+          getRankingsByCategory('MIX', selectedAgeGroup)
         ]);
         
         setDataHS(hsData || []);
@@ -642,6 +721,74 @@ const PlayerDetail = () => {
         setDataHD(hdData || []);
         setDataDD(ddData || []);
         setDataMIX(mixData || []);
+        
+        // Fallback: Check if player exists in any category, if not, fetch directly
+        const playerInAnyCategory = 
+          (hsData || []).find(p => p.Navn === playerName) ||
+          (dsData || []).find(p => p.Navn === playerName) ||
+          (hdData || []).find(p => p.Navn === playerName) ||
+          (ddData || []).find(p => p.Navn === playerName) ||
+          (mixData || []).find(p => p.Navn === playerName);
+        
+        if (!playerInAnyCategory) {
+          // Player not found in category data, fetch directly
+          try {
+            const playerRankings = await getPlayerAllRankings(playerName);
+
+            // Add player to appropriate category arrays if found
+            const updatedHS = [...(hsData || [])];
+            const updatedDS = [...(dsData || [])];
+            const updatedHD = [...(hdData || [])];
+            const updatedDD = [...(ddData || [])];
+            const updatedMIX = [...(mixData || [])];
+
+            if (playerRankings.HS) {
+              if (!updatedHS.find(p => p.Navn === playerName)) {
+                updatedHS.push(playerRankings.HS);
+              }
+            }
+            if (playerRankings.DS) {
+              if (!updatedDS.find(p => p.Navn === playerName)) {
+                updatedDS.push(playerRankings.DS);
+              }
+            }
+            if (playerRankings.HD) {
+              if (!updatedHD.find(p => p.Navn === playerName)) {
+                updatedHD.push(playerRankings.HD);
+              }
+            }
+            if (playerRankings.DD) {
+              if (!updatedDD.find(p => p.Navn === playerName)) {
+                updatedDD.push(playerRankings.DD);
+              }
+            }
+            if (playerRankings.MIX) {
+              if (!updatedMIX.find(p => p.Navn === playerName)) {
+                updatedMIX.push(playerRankings.MIX);
+              }
+            }
+
+            // Final fallback: player exists only in the players table (no rankings yet).
+            // Synthesize a minimal entry so the profile page can render at all.
+            const stillMissing = !(playerRankings.HS || playerRankings.DS || playerRankings.HD || playerRankings.DD || playerRankings.MIX);
+            if (stillMissing) {
+              const basicPlayer = await getPlayerByName(playerName);
+              if (basicPlayer) {
+                // basicPlayer already has Navn, Current Club, All Clubs, Spiller-Id and year columns
+                if (!updatedHS.find(p => p.Navn === playerName)) updatedHS.push(basicPlayer);
+              }
+            }
+
+            // Update state with player data included
+            setDataHS(updatedHS);
+            setDataDS(updatedDS);
+            setDataHD(updatedHD);
+            setDataDD(updatedDD);
+            setDataMIX(updatedMIX);
+          } catch (fallbackError) {
+            console.error('Error fetching player data as fallback:', fallbackError);
+          }
+        }
       } catch (error) {
         console.error('Error fetching ranking data:', error);
         setDataHS([]);
@@ -649,11 +796,13 @@ const PlayerDetail = () => {
         setDataHD([]);
         setDataDD([]);
         setDataMIX([]);
+      } finally {
+        setRankingDataLoaded(true);
       }
     };
 
     fetchRankingData();
-  }, []);
+  }, [playerName, selectedAgeGroup]);
 
   // Fetch third set stats
   useEffect(() => {
@@ -836,8 +985,10 @@ const PlayerDetail = () => {
     [formatRankDisplay, currentRankInCategory, totalActivePlayers]
   );
 
-  // Loading state with mobile optimization
-  if (isLoading) {
+  // Loading state with mobile optimization. Also keep showing the spinner
+  // until ranking data (including the players-table fallback) has resolved,
+  // otherwise the "Spiller ikke funnet" screen flashes during slow fetches.
+  if (isLoading || !rankingDataLoaded) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900 flex items-center justify-center">
         <motion.div 
@@ -874,7 +1025,7 @@ const PlayerDetail = () => {
     );
   }
 
-  const year = 2024; // Year for the review
+  const year = 2025; // Year for the review
 
   return (
     <>
@@ -958,7 +1109,14 @@ const PlayerDetail = () => {
 
                       {/* Navigation */}
                       <div className="flex flex-wrap justify-center sm:justify-start gap-2 sm:gap-3">
-                        <a 
+                        <Link
+                          to={`/player/${encodeURIComponent(playerName)}/year-in-review`}
+                          className="inline-flex items-center px-3 sm:px-4 py-2 text-sm bg-gradient-to-r from-amber-500 to-purple-600 rounded-xl text-white font-semibold shadow-lg hover:from-amber-400 hover:to-purple-500 transition-all duration-300 transform hover:scale-105"
+                        >
+                          <FontAwesomeIcon icon={faStar} className="mr-1 sm:mr-2" />
+                          <span className="whitespace-nowrap">År i oversikt 25/26 🌟</span>
+                        </Link>
+                        <a
                           href="#matches"
                           onClick={(e) => {
                             e.preventDefault();
@@ -1013,135 +1171,47 @@ const PlayerDetail = () => {
               </div>
             </div>
 
-            {/* Year in Review Announcement Banner */}
-            <motion.div 
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: isMobile ? 0.3 : 0.6, delay: 0.1 }}
-              className="relative overflow-hidden bg-gradient-to-br from-purple-900 via-pink-900 to-purple-900 rounded-2xl shadow-2xl border border-purple-500/20"
-            >
-              <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-pink-500/10 mix-blend-overlay"></div>
-              
-              {/* Background Pattern */}
-              <div className="absolute inset-0 opacity-10">
-                <div className="absolute inset-0" style={{
-                  backgroundImage: 'radial-gradient(circle at 2px 2px, rgba(255,255,255,0.15) 1px, transparent 0)',
-                  backgroundSize: '32px 32px'
-                }}></div>
-              </div>
-
-              {/* Floating elements */}
-              <div className="absolute top-4 right-4 w-16 h-16 text-purple-400 opacity-30 animate-bounce">
-                <motion.div
-                  animate={{ 
-                    rotate: [0, 10, -5, 0],
-                    y: [0, -5, 5, 0] 
-                  }}
-                  transition={{ 
-                    duration: 5, 
-                    repeat: Infinity,
-                    repeatType: "mirror" 
-                  }}
-                  className="text-4xl"
-                >
-                  🏸
-                </motion.div>
-              </div>
-
-              <div className="relative px-4 py-6 sm:px-6 sm:py-8 md:px-8 md:py-10">
-                <div className="flex flex-col lg:flex-row items-center gap-6 lg:gap-8">
-                  {/* Left Side - Icon and Content */}
-                  <div className="flex-1 text-center lg:text-left">
-                    <div className="flex items-center justify-center lg:justify-start gap-3 mb-4">
-                      <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-500 rounded-xl flex items-center justify-center shadow-lg">
-                        <FontAwesomeIcon icon={faCalendarAlt} className="text-white text-xl" />
-                      </div>
-                      <span className="px-3 py-1 bg-purple-500/20 text-purple-300 text-sm font-semibold rounded-full border border-purple-500/30">
-                        ✨ NYHET!
-                      </span>
-                    </div>
-                    
-                    <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-3">
-                      <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400">
-                        {playerName}s "Badminton Wrapped"
-                      </span>
-                    </h2>
-                    
-                    <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-                      Få en oversikt over dine beste øyeblikk, største seire og mest interessante statistikker fra 2024/2025-sesongen – presentert på en enkel og visuell måte.
-                    </p>
-
-                    {/* Feature highlights */}
-                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-6">
-                      <div className="flex items-center justify-center lg:justify-start gap-2 text-purple-300">
-                        <FontAwesomeIcon icon={faTrophy} className="text-yellow-400" />
-                        <span className="text-sm">Beste seire</span>
-                      </div>
-                      <div className="flex items-center justify-center lg:justify-start gap-2 text-purple-300">
-                        <FontAwesomeIcon icon={faChartLine} className="text-blue-400" />
-                        <span className="text-sm">Statistikk</span>
-                      </div>
-                      <div className="flex items-center justify-center lg:justify-start gap-2 text-purple-300">
-                        <FontAwesomeIcon icon={faHeart} className="text-red-400" />
-                        <span className="text-sm">Morsomme fakta</span>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Right Side - CTA Button */}
-                  <div className="flex-shrink-0">
-                    <Link
-                      to={`/player/${encodeURIComponent(playerName)}/year-in-review`}
-                      className="group relative inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold rounded-xl text-lg shadow-lg hover:shadow-purple-500/25 transition-all duration-300 transform hover:scale-105 hover:from-purple-500 hover:to-pink-500 overflow-hidden"
-                    >
-                      <span className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
-                      <span className="relative flex items-center">
-                        <FontAwesomeIcon icon={faCalendarAlt} className="mr-3" />
-                        Se mitt 2024/2025
-                        <motion.div
-                          className="ml-2"
-                          animate={{ x: [0, 5, 0] }}
-                          transition={{ duration: 1.5, repeat: Infinity }}
-                        >
-                          <FontAwesomeIcon icon={faArrowRight} />
-                        </motion.div>
-                      </span>
-                    </Link>
-                    
-                    {/* Small description */}
-                    <p className="text-xs text-purple-300 mt-2 text-center opacity-80">
-                      Interaktiv opplevelse • 2-3 minutter
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </motion.div>
-
             {/* Stats Section with Integrated Tabs */}
             <div className="bg-gray-800/50 backdrop-blur-md rounded-2xl shadow-lg overflow-hidden">
               {/* Category Filter Tabs */}
               <div className="border-b border-gray-700/50">
-                <div className="flex">
-                  {['Sammenlagt', 'Single', 'Double', 'Mix'].map((cat) => (
-                    <button
-                      key={cat}
-                      onClick={() => setCategory(cat.toLowerCase())}
-                      className={`px-6 py-3 text-sm font-medium transition-all relative ${
-                        category === cat.toLowerCase()
-                          ? 'text-white'
-                          : 'text-gray-400 hover:text-gray-300'
-                      }`}
-                    >
-                      {cat}
-                      {category === cat.toLowerCase() && (
-                        <motion.div
-                          layoutId="activeTab"
-                          className="absolute bottom-0 left-0 right-0 h-0.5 bg-indigo-500"
-                          initial={false}
-                        />
-                      )}
-                    </button>
-                  ))}
+                <div className="flex items-center justify-between flex-wrap gap-2 pr-4">
+                  <div className="flex">
+                    {['Sammenlagt', 'Single', 'Double', 'Mix'].map((cat) => (
+                      <button
+                        key={cat}
+                        onClick={() => setCategory(cat.toLowerCase())}
+                        className={`px-6 py-3 text-sm font-medium transition-all relative ${
+                          category === cat.toLowerCase()
+                            ? 'text-white'
+                            : 'text-gray-400 hover:text-gray-300'
+                        }`}
+                      >
+                        {cat}
+                        {category === cat.toLowerCase() && (
+                          <motion.div
+                            layoutId="activeTab"
+                            className="absolute bottom-0 left-0 right-0 h-0.5 bg-indigo-500"
+                            initial={false}
+                          />
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                  {availableAgeGroups.length > 1 && (
+                    <label className="flex items-center gap-2 text-sm text-gray-300">
+                      <span className="text-gray-400">Aldersgruppe:</span>
+                      <select
+                        value={selectedAgeGroup}
+                        onChange={(e) => setSelectedAgeGroup(e.target.value)}
+                        className="bg-gray-900/70 border border-gray-700 text-white rounded px-2 py-1 text-sm focus:outline-none focus:border-indigo-500"
+                      >
+                        {availableAgeGroups.map((g) => (
+                          <option key={g} value={g}>{g}</option>
+                        ))}
+                      </select>
+                    </label>
+                  )}
                 </div>
               </div>
 
@@ -1228,7 +1298,7 @@ const PlayerDetail = () => {
                       <FontAwesomeIcon icon={faBrain} className="text-yellow-400" />
                     </div>
                   </div>
-                  {category === 'sammenlagt' ? (
+                  {thirdSetStats.matches > 0 ? (
                     <div className="flex flex-col">
                       <span className="text-4xl font-bold text-yellow-400 mb-1">
                         {thirdSetStats.winRate}%
@@ -1252,9 +1322,9 @@ const PlayerDetail = () => {
                     </div>
                   ) : (
                     <div className="flex flex-col items-start">
-                      <span className="text-lg text-gray-400 mb-1">Under utvikling</span>
+                      <span className="text-lg text-gray-400 mb-1">Ingen 3.-setts kamper</span>
                       <span className="text-sm text-gray-500">
-                        Kommer snart for {category === 'single' ? 'single' : category === 'double' ? 'double' : 'mix'}
+                        {category === 'sammenlagt' ? '' : `Ingen ${category === 'single' ? 'single' : category === 'double' ? 'double' : 'mix'}-kamper gått til 3. sett`}
                       </span>
                     </div>
                   )}
@@ -1293,7 +1363,7 @@ const PlayerDetail = () => {
             {/* Rankings Tab */}
             {activeTab === 'rankings' && (
               <>
-                <RankingHistoryGraph playerName={playerName} />
+                <RankingHistoryGraph playerName={playerName} ageGroup={selectedAgeGroup} />
                 <div className="overflow-x-auto mt-8">
                   <table className="w-full">
                     <thead>

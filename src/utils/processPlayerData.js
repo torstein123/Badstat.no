@@ -28,11 +28,11 @@ const processPlayerData = async (playerName) => {
             if (sets.length === 3) { // The match went to a deciding set
                 deciderMatches++;
 
-                // Determine match type
-                const isSingles = match['Event']?.toLowerCase() === 'herresingle' || 
-                                match['Event']?.toLowerCase() === 'damesingle';
-                
-                const isMixed = match['Event']?.toLowerCase() === 'mixeddouble';
+                // Determine match type. The discipline lives in the legacy `Match` column
+                // (matches table has no `Event` field — older code referenced a non-existent column).
+                const matchType = (match['Match'] || '').toLowerCase();
+                const isSingles = matchType === 'herresingle' || matchType === 'damesingle';
+                const isMixed = matchType === 'mixeddouble';
                 
                 // Increment category-specific counters
                 if (isSingles) {

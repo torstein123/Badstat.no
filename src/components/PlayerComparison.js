@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 import AdSlot from './AdSlot';
 
 const generateChartData = (playerData1, playerData2) => {
-    const years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2021', '2022', '2023'];
+    const years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025', '2026'];
     const player1Scores = years.map(year => parseInt(playerData1[year]) || 0);
     const player2Scores = years.map(year => parseInt(playerData2[year]) || 0);
 
@@ -50,7 +50,7 @@ const PlayerTable = ({ player1Data, player2Data }) => {
                     </tr>
                 </thead>
                 <tbody className="divide-y divide-white/10">
-                    {['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013'].map((year) => (
+                    {['2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013'].map((year) => (
                         <motion.tr
                             key={year}
                             initial={{ opacity: 0, y: 20 }}

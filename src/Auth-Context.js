@@ -50,47 +50,6 @@ export const AuthenticationContextProvider = ({ children }) => {
         }
     };
 
-    // Check if user has valid premium subscription
-    const hasPremiumAccess = () => {
-        if (!userData) return false;
-        
-        // Admin always has access
-        if (userData.role === 'admin') return true;
-        
-        // Check subscription status and expiry
-        if (userData.subscriptionStatus === 'premium' && userData.subscriptionExpiry) {
-            const expiryDate = new Date(userData.subscriptionExpiry);
-            const now = new Date();
-            return expiryDate > now;
-        }
-        
-        return false;
-    };
-
-    // Update subscription status after successful payment
-    const updateSubscriptionStatus = async (userId, vippsOrderId) => {
-        try {
-            const expiryDate = new Date();
-            expiryDate.setFullYear(expiryDate.getFullYear() + 1); // 1 year from now
-            
-            const userDocRef = doc(db, 'users', userId);
-            const updateData = {
-                subscriptionStatus: 'premium',
-                subscriptionExpiry: expiryDate.toISOString(),
-                lastPaymentDate: new Date().toISOString(),
-                vippsOrderId: vippsOrderId
-            };
-            
-            await setDoc(userDocRef, updateData, { merge: true });
-            setUserData(prev => ({ ...prev, ...updateData }));
-            
-            return true;
-        } catch (error) {
-            console.error('Error updating subscription:', error);
-            return false;
-        }
-    };
-
     useEffect(() => {
         const unsubscribe = onAuthStateChanged(auth, async (usr) => {
             setUser(usr);
@@ -214,8 +173,7 @@ export const AuthenticationContextProvider = ({ children }) => {
                 isFeedbackPositive,
                 onResetPassword,
                 fetchUserDiaryEntries,
-                hasPremiumAccess: hasPremiumAccess(),
-                updateSubscriptionStatus,
+                hasPremiumAccess: true,
                 fetchUserData,
             }}
         >

@@ -103,7 +103,7 @@ const Nemesis = ({ data }) => {
               whileHover={{ scale: 1.05 }}
               transition={{ duration: 0.2 }}
             >
-              <span className="font-bold">2025 Mål:</span> Beseir din nemesis!
+              <span className="font-bold">2026 Mål:</span> Beseir din nemesis!
             </motion.div>
           </motion.div>
         </motion.div>

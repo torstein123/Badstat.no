@@ -26,7 +26,7 @@ const RankingDistribution = ({ playerName, year }) => {
     playerMIX: null
   });
   
-  const currentYear = year || '2024';
+  const currentYear = year || '2025';
   const previousYear = (parseInt(currentYear) - 1).toString();
   
   useEffect(() => {
@@ -148,7 +148,7 @@ const RankingDistribution = ({ playerName, year }) => {
           <FontAwesomeIcon icon={faChartLine} className="text-gray-400 text-4xl mb-4" />
           <h3 className="text-xl font-semibold text-white mb-2">Ingen Rangeringspoeng</h3>
           <p className="text-gray-300 text-center max-w-xs">
-            Vi fant ingen rankingpoeng for {playerName} i sesongen 2024/2025. 
+            Vi fant ingen rankingpoeng for {playerName} i sesongen 2025/2026. 
             Spill flere turneringer for å ta flere rankingpoeng!
           </p>
         </div>
@@ -169,7 +169,7 @@ const RankingDistribution = ({ playerName, year }) => {
           <FontAwesomeIcon icon={faMedal} className="text-gray-400 text-4xl mb-4" />
           <h3 className="text-xl font-semibold text-white mb-2">Ingen Rankingpoeng</h3>
           <p className="text-gray-300 text-center max-w-xs">
-            {playerName} har ingen rankingpoeng i sesongen 2024/2025 enda. 
+            {playerName} har ingen rankingpoeng i sesongen 2025/2026 enda. 
             Spill flere turneringer for å ta flere rankingpoeng!
           </p>
           {(hsPointsPrev + dsPointsPrev + hdPointsPrev + ddPointsPrev + mixPointsPrev) > 0 && (
@@ -211,7 +211,7 @@ const RankingDistribution = ({ playerName, year }) => {
           <span className="text-xl text-white font-semibold">
             Du er en <span className="text-indigo-400 font-bold">{mainCategory}</span>
           </span>
-          <div className="text-sm text-gray-300 mt-1">2024/2025 Sesong</div>
+          <div className="text-sm text-gray-300 mt-1">2025/2026 Sesong</div>
           <motion.div
             className="w-16 h-16 mx-auto mt-2 bg-indigo-500/20 rounded-full flex items-center justify-center"
             initial={{ scale: 0.8, opacity: 0 }}
