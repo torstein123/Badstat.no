@@ -4,7 +4,7 @@ import './headTohead.css';
 import HeadToHeadStats from './HeadToHeadStats'; // Import the new component
 import MatchPrediction from './MatchPrediction';
 import { motion } from 'framer-motion';
-import { getHeadToHeadMatches } from '../services/databaseService';
+import { getHeadToHeadMatches, getPlayerMatches } from '../services/databaseService';
 
 function cleanValue(value) {
     if (!value || value === 'NaN' || value === 'undefined') return null;
@@ -24,6 +24,8 @@ function formatDate(dateString) {
 
 function HeadToHead() {
     const [allMatches, setAllMatches] = useState([]);
+    const [player1Matches, setPlayer1Matches] = useState([]);
+    const [player2Matches, setPlayer2Matches] = useState([]);
     const { player1, player2 } = useParams();
     const [gameType, setGameType] = useState('All');
     const [sortBy, setSortBy] = useState('date'); // 'date' or 'tournament'
@@ -81,15 +83,19 @@ function HeadToHead() {
             try {
                 const decodedPlayer1 = decodeURIComponent(player1);
                 const decodedPlayer2 = decodeURIComponent(player2);
-                console.log('Fetching head-to-head matches for:', decodedPlayer1, 'vs', decodedPlayer2);
-                const data = await getHeadToHeadMatches(decodedPlayer1, decodedPlayer2);
-                console.log('Fetched matches:', data.length, 'total matches');
-                if (data.length > 0) {
-                    console.log('Sample match:', data[0]);
-                } else {
-                    console.log('No matches found');
-                }
-                setAllMatches(data);
+                console.log('Fetching matches for:', decodedPlayer1, 'vs', decodedPlayer2);
+                // Mutual head-to-head matches for the table/record, plus each
+                // player's FULL history so the prediction can judge them on their
+                // own body of work (not just the games they played each other).
+                const [h2h, p1Full, p2Full] = await Promise.all([
+                    getHeadToHeadMatches(decodedPlayer1, decodedPlayer2),
+                    getPlayerMatches(decodedPlayer1),
+                    getPlayerMatches(decodedPlayer2),
+                ]);
+                console.log('Fetched:', h2h.length, 'h2h,', p1Full.length, 'p1 full,', p2Full.length, 'p2 full');
+                setAllMatches(h2h);
+                setPlayer1Matches(p1Full);
+                setPlayer2Matches(p2Full);
             } catch (error) {
                 console.error("Error fetching the matches:", error);
             }
@@ -178,10 +184,12 @@ function HeadToHead() {
                     transition={{ duration: 0.5 }}
                     className="mb-8"
                 >
-                    <MatchPrediction 
+                    <MatchPrediction
                         player1={player1}
                         player2={player2}
-                        matches={allMatches}
+                        matchesP1={player1Matches}
+                        matchesP2={player2Matches}
+                        h2hMatches={allMatches}
                         gameType={gameType}
                     />
                 </motion.div>
