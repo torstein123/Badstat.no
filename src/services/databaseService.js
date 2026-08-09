@@ -41,7 +41,7 @@ export const getRankingsByCategory = async (category, ageGroup = 'SEN') => {
       .select('*')
       .eq('category', category)
       .eq('age_group', ageGroup)
-      .order('2025', { ascending: false });
+      .order('2026', { ascending: false });
 
     if (error) throw error;
     return data || [];
@@ -78,7 +78,7 @@ export const getAllRankings = async () => {
       supabase
         .from('rankings')
         .select('*')
-        .order('2025', { ascending: false })
+        .order('2026', { ascending: false })
         .range(from, to)
     );
   } catch (error) {

@@ -397,8 +397,8 @@ const PlayerDetail = () => {
   });
 
   // Define years at the top
-  const previousYear = '2024';
-  const currentYear = '2025';
+  const previousYear = '2025';
+  const currentYear = '2026';
 
   // Consolidate data processing into a single useMemo
   const {
